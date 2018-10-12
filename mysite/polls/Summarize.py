@@ -15,6 +15,8 @@ stopwords = set(
 
 
 def summarize_texts(text, count=10, min_cut=0.6, max_cut=0.8, keywords=[]):
+    print('This is problem')
+    print(keywords)
     d = defaultdict(lambda: 1)
     exclude = set(punctuation)
     exclude.remove('.')
@@ -43,15 +45,18 @@ def summarize_texts(text, count=10, min_cut=0.6, max_cut=0.8, keywords=[]):
             if w in freq and w not in not_this:
                 ranking[i] += freq[w] * d[w.lower()]
     sent_ids = nlargest(count, ranking, key=ranking.get)
-    ans, found = [], False if keywords else True
+    ans, found = [], set(keywords.copy())
     for i in sent_ids:
-        for key in keywords:
-            if key in sentences[i]:
-                found = True
-                break
         ans.append(sentences[i])
-
-    return ans if found else []
+        to_remove = set()
+        for x in found:
+            if x in sentences[i]:
+                to_remove.add(x)
+        for x in to_remove:
+            found.remove(x)
+    print(keywords, found)
+    print('This is problem')
+    return ans if not found else []
 
 
 def get_summary(keywords=[]):

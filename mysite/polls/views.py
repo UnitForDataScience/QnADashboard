@@ -11,8 +11,12 @@ def index(request):
 
 def get_summary_keywords(request):
     keywords = request.GET.get('keywords', '').split()
-
+    print(keywords)
     return JsonResponse({'message': get_summary(keywords), 'success': True})
+
+
+def random_problems(request):
+    None
 
 
 def results(request, question_id):
@@ -68,16 +72,18 @@ def summarize_texts(text, count=10, min_cut=0.6, max_cut=0.8, keywords=[]):
         for w in sent:
             if w in freq and w not in not_this:
                 ranking[i] += freq[w] * d[w.lower()]
-    sent_ids = nlargest(count, ranking, key=ranking.get)
-    ans, found = [], False if keywords else True
+    sent_ids = sorted(nlargest(count, ranking, key=ranking.get))
+    ans, found = [], set(keywords.copy())
     for i in sent_ids:
-        for key in keywords:
-            if key in sentences[i]:
-                found = True
-                break
         ans.append(sentences[i])
+        to_remove = set()
+        for x in found:
+            if x in word_sent[i]:
+                to_remove.add(x)
+        for x in to_remove:
+            found.remove(x)
 
-    return ans if found else []
+    return ans if not found else []
 
 
 def get_summary(keywords=[]):
@@ -90,7 +96,6 @@ def get_summary(keywords=[]):
             content = content.replace('  ', ' ')
         content = content.lower()
         temp = summarize_texts(content, keywords=keywords)
-        print(temp)
         if temp:
-            ans.append(temp)
+            ans.append([file, temp])
     return ans
