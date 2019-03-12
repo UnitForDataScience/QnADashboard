@@ -1,0 +1,345 @@
+Wang et al. Microbiome (2017) 5:70
+DOI 10.1186/s40168-017-0288-0
+
+
+
+
+
+Expanding landscapes of the diversified
+mcr-1-bearing plasmid reservoirs
+Qingjing Wang1+, Jian Sun2+, Jun Li3+, Youfa Ding4, Xing-Ping Li2, Jingxia Lin1, Bachar Hassan5 and Youjun Feng1*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+Antibiotics play crucial roles in controlling the dissemin- ation of lethal infections by bacterial pathogens. How- ever, the emergence of antibiotic resistance is developing a great threat to public health worldwide. It is estimated that multidrug-resistant (MDR) pathogens cause nearly 700,000 cases of lethal infections (including 214,000 neonatal deaths) each year  The discovery of New Delhi b-lactamase 1 (NDM-1) and its variants like NDM-5 had ever pushed us on the cusp of post- antibiotic era, in that they can confer potent resistance to extended spectrum b-lactamases (ESBL) and carba- penems, the two classes of widely used antibiotics
+
+* Correspondence: 
++Equal contributors
+1Department of Medical Microbiology and Parasitology, Zhejiang University School of Medicine, Hangzhou 310058, Zhejiang, China
+Full list of author information is available at the end of the article
+
+against the MDR bacteria   In general, the cationic polypeptide antibiotic polymyxin E (colistin) is believed to act as a last resort against fatal infections by gram- negative pathogens with pan-drug resistance   However, it seems likely that gut bacteria have evolved some mechanisms to bypass the final line of refuge anti- biotic (i.e., colistin resistance) - Biochemical mech- anism by which bacteria acquire the appreciable resistance to colistin is mainly dependent on the reduc- tion in the net negative charge of the bacterial outer- membrane, which consequently decreases the binding affinity of colistin to bacterial surface -To the best of our knowledge, four types of modifications of the lipid A moiety anchored on bacterial lipid polysaccharide  (LPS) are involved in the alteration of the net negative surface   charge,   which   include   (i)   modification   at  3'- linked second fatty acyl chain with glycine (and/or
+
+
+(c) The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver applies to the data made available in this article, unless otherwise stated.
+
+
+
+
+
+
+diglycine) (ii) the addition of amino-arabinose to 4'- phosphate position of sugar  (iii) the addition of sugar   with   phosphoethanolamine   (pEtN)   at   4'-phos- phate position and (iv) the attachment of galact- osamine   (GalN)   to   1'-phosphate   of   sugar       Unlike the fact that a single ArnT enzyme catalyzes the reaction for amino-arabinose-based sugar  modification  of lipid A in Pseudomonas aeruginosa (P. aeruginosa)
+ and Cupriavidus metallidurans  a three- component system (AlmG-AlmF-AlmE, encoded by an operon of Vc1577-Vc1578-Vc1579) is evolved to modify the lipid A with glycine in Vibrio cholerae The pEtN modification of lipid A originally found in Klebsiella pneumoniae (K. pneumoniae) is attributed to the point mutations of the phoP-phoQ two-component system and its regulator gene mgrB ]. Intriguingly, the modifica- tions of lipid A with both GalN and pEtN account for colistin resistance in the serious opportunistic pathogens Acinetobacter baumannii (A. baumannii) [  Add- itionally, the PmrA/PmrB two-component system is also implicated into genetic control of lipid A modification as well as polymyxin resistance in Salmonella enterica (S. enterica) [ A. baumannii, and P. aeruginosa  Thus, we anticipated that enteric pathogens have devel- oped multiple mechanisms to remodel its lipid A struc- ture/integrity on the LPS under  dynamic  selection  by  the altered environments, like antibiotic exposures.
+The emergence of the mobilized colistin resistance  gene (mcr-1) illustrated a new mechanism for plasmid- borne polymyxin resistance  The protein product of mcr-1, referred to MCR-1, is annotated as an integral membrane protein with five trans-membrane helices  Our genetic experiment proved that localization of the MCR-1 in bacterial peri-plasm is critical for its role in colistin resistance through deleting the trans-membrane region  Together with catalytic structures of MCR-1 reported by three other research groups - our structure-guided functional studies revealed the require- ment of a five-residue-containing motif for its biochem- ical function  Since its first discovery in Southern China in the late of 2015  the mcr-1 gene have been detected in nearly 40 countries from five of seven conti- nents [  The mcr-1-positive gut bacteria included Escherichia coli (E. coli) [,  S. enterica   K.
+pneumoniae   Enterobacter aerogenes (E. aero- genes) [], Kluyvera ascorbata Citrobacter freundii  and Citrobacter braakii  Not only does the mcr-1 gene appear in diversified E. coli isolates with different sequence types   but also it  coexists  with the NDM-1   and its variants, like NDM-5   and NDM-9  Additionally, ESBL can be coproduced with MCR-1 from a single plasmid or  a  same bacterial isolate [-Further sequence analyses showed that the mcr-1-harboring plasmid reservoirs
+
+
+exhibit an unexpected diversity - Multiple lines  of replication incompatibility have been  assigned to these mcr-1-bearing plasmids, which included IncP  IncI2     ,  IncX1-X2 mosaic version
+   IncX3-X4   hybrid   type      IncX4        
+IncHI2  ,        IncFI  [  IncFII    and
+IncHI1  respectively. Obviously, it seems likely that the spread of mcr-1 proceeds by complex dissemination across diversified species among Enterobacteriaceae.
+Our recent study suggested that a group of mcr-1- positive plasmids with distinct backbones are present in swine farm E. coli isolates as well as human clinical E. coli isolates Here, we report comparative genomics of over 10 representative mcr-1-bearing plasmids. Unex- pectedly, we identified a new mcr-1-carrying hybrid plas- mid pGD17-2 classified into two different replication incompatibilities (IncFIB and IncI2). Moreover, we are first to observe coexistence of two unique mcr-1-positive plasmids (IncI2-type pGD65-3 and IncX4-like pGD65-4) in a same E. coli isolate. In addition, we determined a couple of variants of the other known mcr-1-positive plasmids. These findings expand greatly the landscape of mcr-1-harboring plasmids.
+
+Methods
+Conjugation, S1-PFGE, and Southern hybridization
+The mcr-1-positive samples we obtained were kept in LB broth or on LB agar with appropriate antibiotics. E. coli C600 was used as the recipient for the conjugation experiment of MCR-producing E. coli isolates. The trans-conjugants were selected on MacConkey agar con- taining colistin (2 mg/ml) and streptomycin (2000 mg/ml) and finally confirmed by PCR and ERIC-PCR. To analyze the location of the mcr-1 gene, S1-PFGE and Southern blot analysis were performed using the original strains and trans-conjugants carrying mcr-1 gene. Briefly, whole-cell DNA of the E. coli strains were extracted and embedded in agarose gel plugs. Subse- quently, the agarose gel plugs were treated with S1 nuclease (TaKaRa, Dalian, China), and the DNA frag- ments were separated by PFGE. Southern blot hybridization was then performed with the digoxigenin- labeled probes (Roche Diagnostics, Mannheim, Germany) specific for the mcr-1 gene.
+
+Bacterial samples, plasmid sequencing, and sequence assembly
+The plasmids and primers used in this study are listed in Additional file  Tables S1 and S2. Fourteen plasmids were sequenced by Illumina PacBio RSII and Hi- Seq2000 using prepared paired-end 2 x 200-bp libraries, of which raw data were separately assembled using  SOAP de novo (version 2.0.4) and SMRT Analysis (ver- sion 2.2.0), after high-quality read acquisition, and any
+
+
+
+
+
+
+assembly discrepancies/uncertainties filled or closed with PCR. The finally generated contigs were checked for circularization, whereas overlapping ends were trimmed. The general features of the 14 plasmids are summarized in Additional file  Table S1. Ori-Finder was employed to predict the replication origin (oriC) in plasmids under study  The assembled plasmid sequences were an- notated by using the RAST suite for the identification of protein-coding sequences, and ARAGORN  for  tRNA, and RNAmmer [] for rRNA.
+
+Annotation of plasmids and resistance genes
+A bacterial mobilome annotation procedure [ was designed to type sequenced/assembled   plasmids   and to identify insertion sequences (ISs), integrons, and prophages. The mcr-1 gene has been proposed to  confer colistin resistance, while other mobile-related elements were detected using specific informatics tools. PlasmidFinder [  was  used  to  type  replicons of plasmids that had been previously assembled and identified. ISs were mainly identified with ISsaga   and ISfinder [] and then manually adjusted with focuses on intactness, terminal inverse repeats (IRs), and flanking direct repeats (DRs). ISCR elements were also identified (e). Prophages were predicted with PHAST ] and Phage_Finder ]. Resistance genes were in silico identified with ARDB [], CARD [], and ResFinder [].
+
+Determination of colistin resistance
+According to the recommendation of EUCAST, micro- broth dilution method was used to address colistin MIC, whose level of <=0.25 mg/ml was treated susceptible. For functional evaluation of mcr-1 derivatives in colistin re- sistance, agar dilution method was applied and resist- ance level of the colistin-susceptible strain  MG1655 (<=2.0 mg/ml) is the cutoff value.
+
+Nucleotide sequence accession number
+The plasmid nucleotide sequences reported in this study have been deposited in GenBank under accession num- ber listed in Additional file Table S1.
+
+Results and discussion
+Genetic evidence for the presence of mcr-1 in diversified plasmids
+Our recent study reported hundreds of mcr-1-positive plasmids through extensive dissection of a thousand of E. coli isolates from swine farm and hospitalized patients, which implied that the diversified mcr-1-carrying plasmids are present []. In this follow-up study, 13 representative mcr-1-positive plasmids (Additional file Table S1) were subjected to further genetic analyses of both S1-pulsed-
+
+
+field gel electrophoresis (PFGE) (Additional file  Figure S1A and C) and Southern hybridization blot (Additional file Figure S1B and D). As expected, diversified plasmids were present in the above 13 E. coli isolates (Additional file  Figure S1). Of note, ten trans-conjugants were successfully obtained from the 13 mcr-1-positive isolates. Southern blotting revealed that the mcr-1 gene was present on plasmids ranging from ~33 to 240 kb (Additional file  Figure S1). First, it was estimated that no less than three isolates (GD46, GD65, and WH03) car- ries the mcr-1-positive plasmid of ~33 kb long (Additional file  Figure S1B and D). Second, the mcr-1 gene is located on ~60 kb plasmid in seven isolates (Additional file Figure S1B and D). Third, two big mcr-1-harboring plasmids (~120 kb for pGD17-2 and ~240 kb for pGD80-
+2) separately occurred in the strains GD17-2 and GD80-2 (Additional file Figure S1B and D). Although we failed to detect mcr-1-positive band in the strain Lishui12 using Southern blot (Additional file  Figure S1B), we proved that it is PCR-positive for mcr-1, and had a success in iso- lating a mcr-1-producing plasmid pLishui12 of ~33 kb long (Additional file Figure S4). Curiously, in the strain GD65, the mcr-1 gene was found on two distinct plasmids with different sizes (~30 kb for pGD65-4 and ~60 kb for pGD65-3, Additional file Figure S1B). The physical evi- dence for the presence of mcr-1 in the above plasmids was validated by further PCR analyses combined with direct DNA sequencing. All the above mcr-1-positive plasmids can confer the E. coli strains to possess modest level of colistin MIC [2-4 mg/ml] (Table .
+
+Overall landscape of the mcr-1-carrying plasmids
+In total, full replicon sequences of 13 mcr-1-harboring plasmids were assembled through Hi-Seq sequencing (Illumina Inc.), in which the gaps were closed with ABI 3730 Sanger sequencing (Additional file  Table S1). Using specific primers (Additional file  Table S2), all these plasmids were confirmed by the close-loop PCR (Additional file  Figure S8A). BLAST-based query using PlasmidFinder   revealed that the newly-determined 14 plasmids are classified into four types as follows: eight IncI2-type plasmids, four IncX4-like plasmids, one IncHI2-type, and one IncI2/IncFIB hybrid plasmid pGD17-2 (Additional file Table S1 and Additional file  Figures S1-S7). It is noted that (i) the insertion sequence ISApl1 is located immediately upstream of the mcr-1 gene (Figs. and and (ii) a putative locus pap2 encoding the PAP2-family protein is neighbored with the downstream of the mcr-1 gene (Fig. , which might facilitate the trans- fer of mcr-1 []. We also noted that the insertion se- quence of ISApl1 is lacking in some cases, implying a relic for frequent conjugation of ISApl1-mcr-1-pap2. Therefore, the discovery of these plasmids significantly contributed
+
+
+
+
+
+Table 1 Colistin MIC of clinical E. coli strains expressing mcr-1
+
+
+to a growing collection of mcr-1-positive plasmids with known replicon sequences (Additional file Table S3).
+Briefly, in similarity to the newly identified plasmid pLishui142-1 (61.908 kb), seven additional new members of IncI2-type mcr-1-bearing plasmids  were  determined in this study, which corresponded to pGD23-3  (64.078 kb), pGD53-3 (62.813 kb), pGD65-3 (64.857 kb), pGD81-1 (62.712 kb), pWH07-3 (62.067 kb), pWH09-3
+(62.072 kb), and pWH13-4 (60.694 kb), respectively (Additional file : Table S1). Although this type of plasmids lacks the insertion sequence ISApl1 (Additional file  Figure S2), they consistently share a site-specific recombin- ase (rci) gene, two pilus-encoding genes (pil and tra), and four different pilli proteins (Additional file : Figure S2). In addition, we found that heterogeneity of whole-shufflon structural  variations  exists  between  the  3'  region  of  pilV gene and rci gene in mcr-1-harboring IncI2 plasmids as re- cently reported [. The plasmid sequences yielded the following results: in pWH9-3 and pWH7-3, rci-A-A'-C-C
+'-B'-D'-pilV;  in  pWH13-4,  rci-A-A'-C-C'-D'-B'-pilV;  in LS142-1, rci-B'-D'-A-A'-pilV; in 65-3, rci-A'-A-D'-B'-C- C'-B'-D'-A-A'-pilV; in pGD23-3, rci-C-C'-D'-B'-A'-A-B
+'-D'-pilV; in pGD53-3, rci-C-C'- B'-D'-D'-B'-A'-A-pilV; and   in   hybrid   plasmid   pGD17-2,   rci-C-C'-A-A'-D'-B
+'-pilV.  Unlike  the  scenario  seen  with  the  IncHI2  plasmid pHNSHP45-2 that carries the mcr-1 gene the typical mcr-1 cassette  is located  in different locations of pGD80-2
+
+(241.033 kb), a member of the IncHI2-type plasmid family (Additional file : Figure S3). Moreover, it encodes three more  resistance  genes  (aph(3')-Ia,  oqxAB,  and  tetR),  sug- gesting complexity/flexibility among the mcr-1-bearing IncHI2 plasmids.
+In addition to pLishui12 (33.309 kb) [], three more mcr-1-harboring IncX4 plasmids we reported here included pGD46-3 (33.302 kb), pGD65-4   (33.305 kb), and pWH03 (33.292 kb), respectively (Additional file : Table S1). All the four IncX4 plas- mids are featuring the almost identical genetic  back- bone in which no ISApl1  element  is  flanked  by  the only antibiotic resistance gene mcr-1  gene  (Additional file  Figures S4, S5, and S7). Genome alignments in- dicated that plasmid pGD46-3 was nearly  identical  to  the plasmid pMCR1_IncX4 (Accession no.: KU761327 from K. pneumoniae in China). It seems likely that pGD46-3 might  be generated  through the  integration of the mcr-1 gene  into  the  specific  site  between  the pir and parA genes of IncX4-type pSH146_32 plasmid (Additional file : Figure S5).
+
+Discovery of a new mcr-1-positive hybrid plasmid pGD17-2
+The novel mcr-1-positive plasmid pGD17-2 we deter- mined (Fig. and Additional file Table S1) allows the strain GD17 to grow well on the LBA plate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2 Co-existence of two distinct incompatible mcr-1-bearing plasmids (pGD65-3 and pGD65-4) in a single colistin-resistant E. coli isolate GD65. a Cartoon diagram for the two mcr-1-positive plasmids (pGD65-3 and pGD65-4) that coexist in an E. coli isolate GD65. b Linear comparison of the IncI2-type plasmid pGD65-3 with other two closely related mcr-1-harboring plasmids pHNSHP45 and pHN1122-1. c Linear genome alignments of the IncX4-type plasmid pGD65-4 with other two closely related mcr-1-bearing plasmids pMCR1_IncX4 and pSH146_32. Regions (>99% similarity) are marked by green shading. Genes associated with the tra and pil loci are separately indicated by light blue arrows, while replication-associated genes are denoted as dark blue arrows. The mcr-1 genes are highlighted in red, while insertion sequences are in green arrows
+
+
+supplemented with up to 16 mg/L of colistin (Additional file  Figure S9). The plasmid size of pGD17-2 is
+121.454 kb (Additional file  Table S1), whose GC% is 43.69%. To rule out the possible errors in plasmid se- quencing or assembly, hybrid plasmid pGD17-2 was fur- ther confirmed by subsequent PCR analysis and Sanger sequencing (Additional file Figure S8 A and B). Com- parative genomics revealed that pGD17-2 is a new hy- brid one featuring with two types of plasmid backbones (IncI2 and IncFIB, in Fig. implying temporary transi- tion status of mcr-1 transmission or genetic stability
+
+under special selection pressure. Relative to the para- digm mcr-1-harboring IncI2-type plasmid pHNSHP45, pGD17-2 exhibited 51% coverage and 99% identity and possessed two insertion sequences (IS629 and IS1294) in the nikB gene, as well as an additional IS629-mediated insertion sequence (~56 kb) in the pilO gene (Fig. and Additional file  Figure S2). Further sequence align- ments suggested that the above insertion sequence  (~56 kb) has only 26% coverage to a mcr-1-negative plasmid pHUSEC2011-2 (Accession no.: HE610901) (Fig.  and Additional file  Figure S2). Notably, the
+
+
+
+
+
+mobile genetic elements identified from the pGD17-2 plasmid are highly related to the cognate conjugation- associated counterparts or remnants  (a  syntenic  F-like  or R-like type IV secretion system gene clusters and a relaxase gene traI (Fig.  and Additional file  Figure S2). In comparison with all the mcr-1-carrying plasmids (Additional file  Table S3), pGD17-2 represents a new hybrid plasmid producing MCR-1 colistin resistance.
+
+
+Co-occurrence of two unique mcr-1-harboring plasmids (pGD65-3 and pGD65-4) in a single E. coli isolate Unexpectedly, two mcr-1-bearing plasmids namely pGD65-3 and pGD65-4 (Fig.  and Additional file  Figure S1) were localized onto a single E. coli strain GD65 with significant colistin resistance (Additional file  Figure S9). The co-occurrence of these two plasmids was	experimentally	validated		with	Southern	blot (Additional file  Figure S1B). Sequencing results showed that pGD65-3 (33.301 kb in length) is an IncI2- type		plasmid,	whereas	the	other	one	pGD65-4 (64.852 kb in length) is featuring a IncX4-type plasmid backbone. In similarity to all the other known IncI2-type plasmids, no insertion sequence ISApl1 is neighbored with the mcr-1 gene in the pGD65-3 plasmid (Fig.    and Additional file  Figure S6). Although the IncX4- like plasmid pGD65-4 lacks the ISApl1 insertion sequence in front of the mcr-1, but it retains pap2 at the 3'-end  of  the  mcr-1  locus  (Fig.  ,  Additional  file   Figures S4, S5 and S7). Conjugation-based PCR detec- tion experiments demonstrated that the two plasmids (pGD65-3 and pGD65-4, in Fig.  can be separately transferred from the donor strain E. coli GD65 (Additional file  Figure S8C) to the recipient E. coli strain C600 (Additional file  Figure S8D) and give ap- preciable level of resistance to colistin (~16 mg/ml). To- gether, this result defined a paradigm for coexistence of two unique mcr-1-harboring plasmids (pGD65-4, IncX4 type, and pGD65-3, IncI2 type) in a single E. coli isolate.
+
+Conclusions
+The data presented here extends landscapes of mcr-1- positive plasmids and highlights complexity of MCR-1 colistin resistance in gut microbiota (Fig.  Unlike the scenarios seen with the first reported mcr-1-harboring plasmid pHNSHP45, there are no ISApl1 element  in  front  of the mcr-1 gene in all the eight IncI2 plasmids   we reported (pGD23-3, pGD53-3, pGD65-3, pGD81-1, pLishui142-1, pWH07-3, pWH09-3, and pWH13-4, in Additional file  Figure S7A). It is noted that all the IncI2 plasmids consistently contain a plasmid-borne site-specific recombinase gene, rci (Additional file  Figure  S7A).  Variations  exist  in  the  3'-end  sequence  of pap2 gene on IncI2 plasmids, of which the three plas- mids (pWH07-3, pWH09-3, and pWH13-4) are almost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the same and the other three plasmids (pGD23-3, pGD53-3 and pGD65-3) are highly identical (Additional file  Figure S7A). By contrast, the mosaic plasmid pGD17-2 is more flexible, with IS629 and IS1294 inser- tion in the nikB gene. And ISApl1 immediately appears  in front of mcr-1 in pGD17-2. Thus, the hybrid plasmid pGD17-2 represents a novel mobile element carrying mcr-1 and provides remarkable insights into the plasmid-mediated transfer of MCR-1 colistin resistance.
+In the mcr-1-harboring IncX4 plasmids (pGD46-3, pGD65-4, Lishui12, and pWH03), the regions between parA gene and repA gene are nearly identical (Additional file  Figure S7B), in that they shared 99% similarity to IncX4 mcr-1-harboring K. pneumoniae plas- mid pMCR1_IncX4 (Accession no.: KU761327). In com- parison with the IncX4 plasmid pSH146_32, the mcr-1 gene was found to be inserted in the same location. Differ- ent   with   mcr-1-harboring   IncI2   plasmids,   the   3'-end sequences of pap2 are consistently present in IncX4 plas- mids. In addition, no ISApl1 elements were found to flank the mcr-1 gene (Additional file  Figure S7B). The fact that strain GD65 carries two mcr-1-positive plasmids (pGD65-3 and pGD65-4) might represent a first example that both IncI2-type plasmid pGD65-3 and IncX4-type plasmid pGD65-4 contributed to colistin resistance in E. coli. Retrospectively, the two mcr-1-harboring plasmids (IncI2-like plasmid pHNSHP45 and IncHI2-type plas- mid pHNSHP45-2 []) from the E. coli strain SHP45
+
+
+
+
+
+
+constitute an additional example. However, it seems likely the coexistence of two different mcr-1-positive plasmids does not confer distinguishable ability of the recipient strains in colistin resistance when compared with the strain with a single mcr-1-plasmid (Additional file  Figure S9). In general, two successive ATG codons initiate the mcr-1 gene in most of the cases like GD17 and GD65. However, we noted that only one ATG in the case  of strain Lishui142 (abbreviated as LS142). We therefore tested the function of this mcr-1 variant [referred to mcr- 1(D1)] using the pBAD24 expression system (Additional file  Figure S9). In fact, it gave indistinguishable ability when compared to the normal version mcr-1 in the trials of colistin resistance, suggesting the redundancy of one "ATG" codon in the MCR-1.
+In summary, no less than ten types of plasmids medi- ate the transmission of MCR-1 colistin resistance in field and clinical isolates (Fig. Our results extended signifi- cantly our understanding of diversified mcr-1-bearing plasmids, whose dissemination constitutes a potential threat to public health and clinical treatment. Global dis- tribution of mcr-1 in E. coli populations emphasizes the importance to prevent global over- and/or mis-use of colistin. Extensive surveillance programs of antibiotic re- sistance should be extended to swine farms, and even in human medicine, since mcr-1 has been recently identi- fied in human isolates. Restrictive/rational use of colistin is urgently required to prevent the rapid spread of mcr-1 to other bacteria and in different niches, excluding hu- man hospitals and foodborne settings.
+
+Additional files
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbreviations
+A. baumannii: Acinetobacter baumannii; ESBL: Extended spectrum b- lactamases; GalN: Galactosamine; K. pneumoniae: Klebsiella pneumoniae; mcr- 1: Mobilized colistin resistance gene; MDR: Multidrug-resistant; NDM-1: New Delhi b-lactamase 1; P. aeruginosa: Pseudomonas aeruginosa;
+pEtN: Phosphoethanolamine; S. enterica: Salmonella enterica
+
+
+Acknowledgements
+Not applicable
+
+Funding
+This work was supported by the National Key Basic Research Program of China (2016YFC1200100 & 2017YFD0500202). Dr. Feng is a recipient of the "Young 1000 Talents" Award.
+
+Availability of data and materials
+Not applicable
+
+Authors' contributions
+YF designed the project; YF, JS, QW, JL, YD, XL, and J-X L performed experiments; YF, JS, JL, and QW analyzed the data and prepared the
+figures; YF, JS, JL, and HB drafted this manuscript. All authors read and approved the final manuscript.
+
+Ethics approval and consent to participate
+Not applicable
+
+Consent for publication
+Not applicable
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Author details
+1Department of Medical Microbiology and Parasitology, Zhejiang University School of Medicine, Hangzhou 310058, Zhejiang, China. 2National Risk
+Assessment Laboratory for Antimicrobial Resistance of Animal Original Bacteria, College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, Guangdong, China. 3Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou 310014, Zhejiang, China. 4Lishui People's Hospital, Lishui 323000, Zhejiang, China.
+5University of North Carolina, Chapel Hill, NC, USA.
+
+Received: 23 January 2017 Accepted: 19 June 2017
+
+
+References
+Laxminarayan R, Amabile-Cuevas CF, Cars O, Evans T, Heymann DL, et al.
+UN High-Level Meeting on antimicrobials--what do we need? Lancet. 2016; 388:218-20.
+Kumarasamy KK, Toleman MA, Walsh TR, Bagaria J, Butt F, et al. Emergence of a new antibiotic resistance mechanism in India, Pakistan, and the UK: a molecular, biological, and epidemiological study. Lancet Infect Dis. 2010;10:597-602.
+Hornsey M, Phee L, Wareham DW. A novel variant, NDM-5, of the New Delhi metallo-beta-lactamase in a multidrug-resistant Escherichia coli ST648 isolate recovered from a patient in the United Kingdom. Antimicrob Agents Chemother. 2011;55:5952-4.
+Schwarz S, Johnson AP. Transferable resistance to colistin: a new but old threat. J Antimicrob Chemother. 2016;71:2066-70.
+Baron S, Hadjadj L, Rolain JM, Olaitan AO. Molecular mechanisms of polymyxin resistance: knowns and unknowns. Int J Antimicrob Agents. 2016. doi:[Epub ahead of print].
+Liu YY, Wang Y, Walsh TR, Yi LX, Zhang R, et al. Emergence of plasmid- mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study. Lancet Infect Dis. 2016;16:161-8.
+Gao R, Hu Y, Li Z, Sun J, Wang Q, et al. Dissemination and mechanism for the MCR-1 colistin resistance. PLoS Pathog. 2016;12:e1005957. eCollection 2016 Nov.
+Hankins JV, Madsen JA, Giles DK, Brodbelt JS, Trent MS. Amino acid addition to Vibrio cholerae LPS establishes a link between surface remodeling in gram-positive and gram-negative bacteria. Proc Natl Acad Sci U S A. 2012; 109:8722-7.
+
+
+
+
+
+
+Petrou VI, Herrera CM, Schultz KM, Clarke OB, Vendome J, et al. Structures of aminoarabinose transferase ArnT suggest a molecular basis for lipid A glycosylation. Science. 2016;351:608-12.
+Sun J, Xu Y, Gao R, Lin J, Wei W, et al. Deciphering MCR-2 colistin resistance. MBio. 2017;8. doi: 
+Cannatelli A, D'Andrea MM, Giani T, Di Pilato V, Arena F, et al. In vivo emergence of colistin resistance in Klebsiella pneumoniae producing KPC-type carbapenemases mediated by insertional inactivation of the PhoQ/PhoP mgrB regulator. Antimicrob Agents Chemother. 2013;57: 5521-6.
+Llewellyn AC, Zhao J, Song F, Parvathareddy J, Xu Q, et al. NaxD is a deacetylase required for lipid A modification and Francisella pathogenesis. Mol Microbiol. 2012;86:611-27.
+Chin CY, Gregg KA, Napier BA, Ernst RK, Weiss DS. A PmrB-regulated deacetylase required for lipid A modification and polymyxin resistance in Acinetobacter baumannii. Antimicrob Agents Chemother. 2015;59:7911-4.
+McPhee JB, Lewenza S, Hancock RE. Cationic antimicrobial peptides activate a two-component regulatory system, PmrA-PmrB, that regulates resistance to polymyxin B and cationic antimicrobial peptides in Pseudomonas aeruginosa. Mol Microbiol. 2003;50:205-17.
+Beceiro A, Llobet E, Aranda J, Bengoechea JA, Doumith M, et al. Phosphoethanolamine modification of lipid A in colistin-resistant variants of Acinetobacter baumannii mediated by the pmrAB two-component regulatory system. Antimicrob Agents Chemother. 2011;55:3370-9.
+Tamayo R, Ryan SS, McCoy AJ, Gunn JS. Identification and genetic characterization of PmrA-regulated genes and genes involved in polymyxin B resistance in Salmonella enterica serovar typhimurium. Infect Immun. 2002; 70:6770-8.
+Stojanoski V, Sankaran B, Prasad BV, Poirel L, Nordmann P, et al. Structure of the catalytic domain of the colistin resistance enzyme MCR-1. BMC Biol. 2016;14:81.
+Ma G, Zhu Y, Yu Z, Ahmad A, Zhang H. High resolution crystal structure of the catalytic domain of MCR-1. Sci Rep. 2016;6:39540.
+Hu M, Guo J, Cheng Q, Yang Z, Chan EW, et al. Crystal structure of Escherichia coli originated MCR-1, a phosphoethanolamine transferase for colistin resistance. Sci Rep. 2016;6:38793.
+Wang Q, Li Z, Lin J, Wang X, Deng X, et al. Complex dissemination of the diversified mcr-1-harbouring plasmids in Escherichia coli of different sequence types. Oncotarget. 2016;7:82112-22.
+Li Z, Tan C, Lin J, Feng Y. Diversified variants of the mcr-1-carrying plasmid reservoir in the swine lung microbiota. Sci China Life Sci. 2016;59:971-3.
+Ye H, Li Y, Li Z, Gao R, Zhang H, et al. Diversified mcr-1-harbouring plasmid reservoirs confer resistance to colistin in human gut microbiota. MBio. 2016; 7:e00177. doi:
+Doumith M, Godbole G, Ashton P, Larkin L, Dallman T, et al. Detection of the plasmid-mediated mcr-1 gene conferring colistin resistance in human and food isolates of Salmonella enterica and Escherichia coli in England and Wales. J Antimicrob Chemother. 2016;71:2300-5.
+Li XP, Fang LX, Song JQ, Xia J, Huo W, et al. Clonal spread of mcr-1 in PMQR-carrying ST34 Salmonella isolates from animals in China. Sci Rep. 2016;6:38511.
+Stoesser N, Mathers AJ, Moore CE, Day NPJ, Crook DW. Colistin resistance gene mcr-1 and pHNSHP45 plasmid in human isolates of Escherichia coli and Klebsiella pneumoniae. Lancet Infect Dis. 2016;16:285-6.
+Zhao F, Feng Y, Lu X, McNally A, Zong Z. An IncP plasmid carrying the colistin resistance gene mcr-1 in Klebsiella pneumoniae from hospital sewage. Antimicrob Agents Chemother. 2016;61(2). doi: .
+Zeng KJ, Doi Y, Patil S, Huang X, Tian GB. Emergence of plasmid-mediated mcr-1 gene in colistin-resistant Enterobacter aerogenes and Enterobacter cloacae. Antimicrob Agents Chemother. 2016;60:3862-3.
+Zhao F, Zong Z. Kluyvera ascorbata strain from hospital sewage carrying the mcr-1 colistin resistance gene. Antimicrob Agents Chemother. 2016;60: 7498-501.
+Li XP, Fang LX, Jiang P, Pan D, Xia J, et al. Emergence of the colistin resistance gene mcr-1 in Citrobacter freundii. Int J Antimicrob Agents. 2017; 49:786-7.
+Sennati S, Di Pilato V, Riccobono E, Di Maggio T, Villagran AL, et al. Citrobacter braakii carrying plasmid-borne mcr-1 colistin resistance gene from ready-to-eat food from a market in the Chaco region of Bolivia.
+J Antimicrob Chemother. 2017. 
+
+
+El Garch F, Sauget M, Hocquet D, LeChaudee D, Woehrle F, et al. mcr-1 is borne by highly diverse Escherichia coli isolates since 2004 in food- producing animals in Europe. Clin Microbiol Infect. 2016;23(1):51.e1-4. doi:Epub 2016 Sep 8.
+Delgado-Blas JF, Ovejero CM, Abadia Patino L, Gonzalez-Zorn B. Coexistence of mcr-1 and blaNDM-1 in Escherichia coli from Venezuela. Antimicrob Agents Chemother. 2016;60:6356-8.
+Zheng B, Dong H, Xu H, Lv J, Zhang J, et al. Coexistence of MCR-1 and NDM-1 in clinical Escherichia coli isolates. Clin Infect Dis. 2016;63:1393-5.
+Mediavilla JR, Patrawalla A, Chen L, Chavda KD, Mathema B, et al. Colistin- and carbapenem-resistant Escherichia coli harboring mcr-1 and blaNDM-5, causing a complicated urinary tract infection in a patient from the United States. MBio. 2016;7(4). 
+Yang RS, Feng Y, Lv XY, Duan JH, Chen J, et al. Emergence of NDM-5 and MCR-1-producing Escherichia coli clone ST648 and ST156 from a single Muscovy duck (Cairina moschata). Antimicrob Agents Chemother. 2016; 60(11):6899-902.
+Yao X, Doi Y, Zeng L, Lv L, Liu JH. Carbapenem-resistant and colistin- resistant Escherichia coli co-producing NDM-9 and MCR-1. Lancet Infect Dis. 2016;16:288-9.
+Zhang H, Seward CH, Wu Z, Ye H, Feng Y. Genomic insights into the ESBL and MCR-1-producing ST648 Escherichia coli with multi-drug resistance. Sci Bull (Beijing). 2016;61:875-8.
+Yang YQ, Zhang AY, Ma SZ, Kong LH, Li YX, et al. Co-occurrence of mcr-1 and ESBL on a single plasmid in Salmonella enterica. J Antimicrob Chemother. 2016;71:2336-8.
+Li A, Yang Y, Miao M, Chavda KD, Mediavilla JR, et al. Complete sequences of mcr-1-harboring plasmids from extended-spectrum-beta-lactamase- and carbapenemase-producing Enterobacteriaceae. Antimicrob Agents Chemother. 2016;60:4351-4.
+Sun J, Li XP, Yang RS, Fang LX, Huo W, et al. Complete nucleotide sequence of an IncI2 plasmid coharboring blaCTX-M-55 and mcr-1. Antimicrob Agents Chemother. 2016;60:5014-7.
+Gao R, Wang Q, Li P, Li Z, Feng Y. Genome sequence and characteristics of plasmid pWH12, a variant of the mcr-1-harbouring plasmid pHNSHP45, from the multi-drug resistant E. coli. Virulence. 2016;7:732-5.
+Guo Q, Su J, McElheny CL, Stoesser N, Doi Y, et al. IncX2 and IncX1-X2 hybrid plasmids coexisting in FosA6-producing Escherichia coli. Antimicrob Agents Chemother. 2017. doi: [Epub ahead of print].
+Sun J, Yang RS, Zhang Q, Feng Y, Fang LX, et al. Co-transfer of blaNDM-5 and mcr-1 by an IncX3-X4 hybrid plasmid in Escherichia coli. Nat Microbiol. 2016; 1:16176.
+Fernandes MR, McCulloch JA, Vianello MA, Moura Q, Perez-Chaparro PJ, et al. First report of the globally disseminated IncX4 plasmid carrying the
+mcr-1 gene in a colistin-resistant Escherichia coli sequence type 101 isolate from a human infection in Brazil. Antimicrob Agents Chemother. 2016;60: 6415-7.
+Sun J, Fang LX, Wu Z, Deng H, Yang RS, et al. Genetic analysis of the IncX4 plasmids: implications for a unique pattern in the mcr-1 acquisition. Sci Rep. 2017;7:424.
+Zhi C, Lv L, Yu LF, Doi Y, Liu JH. Dissemination of the mcr-1 colistin resistance gene. Lancet Infect Dis. 2016;16:292-3.
+McGann P, Snesrud E, Maybank R, Corey B, Ong AC, et al. Escherichia coli harboring mcr-1 and blaCTX-M on a novel IncF plasmid: first report of mcr-1 in the United States. Antimicrob Agents Chemother. 2016;60:4420-1.
+Xavier BB, Lammens C, Butaye P, Goossens H, Malhotra-Kumar S.
+Complete sequence of an IncFII plasmid harbouring the colistin
+resistance gene mcr-1 isolated from Belgian pig farms. J Antimicrob Chemother. 2016;71:2342-4.
+Zurfluh K, Klumpp J, Nuesch-Inderbinen M, Stephan R. Full-length nucleotide sequences of mcr-1-harboring plasmids isolated from extended- spectrum-beta-lactamase-producing Escherichia coli isolates of different origins. Antimicrob Agents Chemother. 2016;60:5589-91.
+Luo H, Zhang CT, Gao F. Ori-Finder 2, an integrated tool to predict replication origins in the archaeal genomes. Front Microbiol. 2014;5:482.
+Laslett D, Canback B. ARAGORN, a program to detect tRNA genes and tmRNA genes in nucleotide sequences. Nucleic Acids Res. 2004; 32:11-6.
+Lagesen K, Hallin P, Rodland EA, Staerfeldt HH, Rognes T, et al. RNAmmer: consistent and rapid annotation of ribosomal RNA genes. Nucleic Acids Res. 2007;35:3100-8.
+
+
+
+
+
+Ou HY, He X, Harrison EM, Kulasekara BR, Thani AB, et al. MobilomeFINDER: web-based tools for in silico and experimental discovery of bacterial genomic islands. Nucleic Acids Res. 2007;35:W97-104.
+Carattoli A, Zankari E, Garcia-Fernandez A, Voldby Larsen M, Lund O, et al. In silico detection and typing of plasmids using PlasmidFinder and plasmid multilocus sequence typing. Antimicrob Agents Chemother. 2014;58:3895-903.
+Varani AM, Siguier P, Gourbeyre E, Charneau V, Chandler M. ISsaga is an ensemble of web-based methods for high throughput identification and semi-automatic annotation of insertion sequences in prokaryotic genomes. Genome Biol. 2011;12:R30.
+Siguier P, Perochon J, Lestrade L, Mahillon J, Chandler M. ISfinder: the reference centre for bacterial insertion sequences. Nucleic Acids Res. 2006; 34:D32-6.
+Arndt D, Grant JR, Marcu A, Sajed T, Pon A, et al. PHASTER: a better, faster version of the PHAST phage search tool. Nucleic Acids Res. 2016;44:W16-21.
+Fouts DE. Phage_Finder: automated identification and classification of prophage regions in complete bacterial genome sequences. Nucleic Acids Res. 2006;34:5839-51.
+Liu B, Pop M. ARDB--antibiotic resistance genes database. Nucleic Acids Res. 2009;37:D443-7.
+McArthur AG, Waglechner N, Nizam F, Yan A, Azad MA, et al. The comprehensive antibiotic resistance database. Antimicrob Agents Chemother. 2013;57:3348-57.
+Kleinheinz KA, Joensen KG, Larsen MV. Applying the ResFinder and VirulenceFinder web-services for easy identification of acquired antibiotic resistance and E. coli virulence genes in bacteriophage and prophage nucleotide sequences. Bacteriophage. 2014;4:e27943.
+Sekizuka T, Kawanishi M, Ohnishi M, Shima A, Kato K, et al. Elucidation of quantitative structural diversity of remarkable rearrangement regions, shufflons, in IncI2 plasmids. Sci Rep. 2017;7:928.
+Wang Q, Sun J, Ding Y, Li XP, Liu YH, et al. Genomic insights into mcr-1- positive plasmids carried by the colistin-resistant Escherichia coli from the inpatients. Antimicrob Agents Chemother. 2017;61(7). [Epub ahead of print].

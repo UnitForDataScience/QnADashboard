@@ -1,0 +1,726 @@
+
+
+Molecular Ecology (2017) 26, 1432-1451	doi: 10.1111/mec.14003
+
+
+
+Expression of eukaryotic-like protein in the microbiome of sponges
+C.  D,I EZ-VIVES,	L.  MOITINHO-SILVA,  S.  NIELSEN,  D.  REYNOLDS  and T.  THOMAS 
+Centre for Marine Bio-Innovation, The University of New South Wales, Sydney, NSW, Australia
+
+
+Abstract
+Eukaryotic-like proteins (ELPs) are classes of proteins that are found in prokaryotes, but have a likely evolutionary origin in eukaryotes. ELPs have been postulated to mediate host-microbiome interactions. Recent work has discovered that prokaryotic symbionts of sponges contain abundant and diverse genes for ELPs, which could mod- ulate interactions with their filter-feeding and phagocytic host. However, the extent to which these ELP genes are actually used and expressed by the symbionts is poorly understood. Here, we use metatranscriptomics to investigate ELP expression in the microbiomes of three different sponges (Cymbastella concentrica, Scopalina sp. and Tedania anhelens). We developed a workflow with optimized rRNA removal and in sil- ico subtraction of host sequences to obtain a reliable symbiont  metatranscriptome.  This showed that between 1.3% and 2.3% of all symbiont transcripts contain genes for ELPs. Two classes of ELPs (cadherin and tetratricopeptide repeats) were abundantly expressed in the C. concentrica and Scopalina sp. microbiomes, while ankyrin repeat ELPs were predominant in the T. anhelens metatranscriptome. Comparison with tran- scripts that do not encode ELPs indicated a constitutive expression of ELPs across a range of bacterial and archaeal symbionts. Expressed ELPs also contained domains involved in protein secretion and/or were co-expressed with proteins involved in extra- cellular transport. This suggests these ELPs are likely exported, which could allow for direct interaction with the sponge. Our study shows that ELP genes in sponge sym- bionts represent actively expressed functions that could mediate molecular interaction between symbiosis partners.
+Keywords: eukaryotic-like proteins, host interactions, metatranscriptomics, sponges, symbiont
+Received 18 August 2016; revision received 8 December 2016; accepted 9 December 2016
+
+
+
+Introduction
+Sponges (phylum Porifera) are early-divergent meta- zoans that represent a major part of the marine benthic fauna across the world's oceans (Taylor et al. 2007; Bell 2008). Sponges are known to contain stable and diverse microbial communities from all three domains of life. In some cases, these microbial associates comprise as  much as 40% of the sponge volume and can contribute significantly to host metabolism (Vacelet & Donadey 1977; Taylor et al. 2007). Microbial symbionts are acquired by vertical transmission (e.g. via gemmules) or from the surrounding environment [horizontal
+
+Correspondence: Torsten Thomas, Fax: + 61 (0) 2 938 51779; E-mail: 
+
+
+transmission (Schmitt et al. 2008; Sipkema et al. 2015)]. For the latter mode of symbiont acquisition, a cellular  recognition is required  that  discriminates  symbiont from nonsymbiotiv microorganisms. This acquisition could be mediated either via the specific recognition of symbionts by the sponge, and/or by the use of  sym- biont factors that avoid digestion by the filter-feeding sponge (Wilkinson et al. 1984).
+The presence of eukaryotic-like proteins or proteins carrying eukaryotic domains in prokaryotes (so-called ELPs) has recently received increasing attention  for  their potential involvement in mediating host-micro- biome interactions (Gomez-Valero et al. 2013; Nguyen  et al. 2014). ELPs have received their name as they are typically found in high frequency in eukaryotes, but rarely in other domains of life (Cazalet et al. 2004; de
+
+
+
+Felipe et al. 2005). ELPs are thought to be laterally transferred from eukaryotes to prokaryotes and then evolved in the recipient organism, while still having recognizable eukaryotic sequence signatures (Bork 1993; Lurie-Weinberger et al. 2010). Domains found in ELPs, such as the ankyrin repeats or tetratricopeptide repeats, often mediate protein-protein interactions in cellular processes, including those involved in establishing an intracellular   lifestyle   (BruEURggemann   et al.   2006).   The involvement of ELPs in pathogenicity, intracellular sur- vival and replication has been demonstrated  or  postu- lated for several important bacterial pathogens and symbionts, such as Legionella pneumophila, Coxiella burnetii, Ehrlichia canis and Wolbachia pipientis (Iturbe- Ormaetxe et al. 2005; Mavromatis et al. 2006; Habyari- mana et al. 2008; Pan et al. 2008; Voth et al. 2009; LuEURhrmann   et al.   2010;  Richards   et al.   2013).  Recently, four ankyrin repeat ELPs from an uncultured gammaproteobacterial symbiont of a sponge were heterologously expressed in Escherichia coli and were shown to modulate phagocytosis by amoeba, thus promoting the intracellular  survival  of  bacteria  (Nguyen et al. 2014).
+In fact, genes for ELPs have been found in high frequency in the genomes of bacterial symbionts from different sponge species, including Theonella swinhoei, Ircinia variabilis, Aplysina aerophoba, Carteriospongia foliascens and Haliclona cymaeformis (Gao et al. 2014; Kamke et al. 2014; Tian et al. 2014; Burgsdorf  et al. 2015). Specifically, ELP containing domains of the classes tetratricopeptide repeats (TPR), ankyrin repeats (ANK), leucine-rich repeats (LRR) and  NCL-1,  HT2A and Lin-41 repeats (NHL) were more abundant in the bacterial symbionts of the marine sponge Cymbastella concentrica, Tedania anhelens and Scopalina sp. in com- parison with free-living bacteria  (Thomas  et al.  2010; Fan et al. 2012). A metaproteomic study showed the expression  of one  ANK  protein  and  one  TPR  protein in the symbiont community of C. concentrica (Liu et al. 2012). Proteins levels of fibronectin type III (FN3) and NipSnap domains were also found to decrease under thermal stress in the sponge Rhopaloeides odorabile (Fan et al. 2013). While these results  provide  support  that ELPs have a  function  in  natural  symbiont  communi- ties, the limited resolution and sensitivity of metapro- teomic approaches likely gives an incomplete  picture about the number of expressed ELPs and their  expression levels.
+Metatranscriptomics   can   provide   insight   into   the
+expression of thousands of genes, and hence can give a more complete picture of the expression patterns of  ELPs in sponge symbionts. However, metatranscrip- tomic approaches face two major challenges when used in host-microbiome systems. First, common to any
+
+transcriptome study, there is a large abundance of ribo- somal RNA (rRNA) relative to messenger RNA (mRNA), which needs to be removed, because other- wise sequence data will be dominated by functionally  uninformative rRNA (Radax et al. 2012; Fiore et al. 2015). A number of methods are available for rRNA removal (Stewart 2013), and two of the most successful strategies involve exonuclease digestion of the  rRNA and subtractive hybridization with probes complemen- tary to conserved motifs in the rRNA. These two  methods have been extensively used with microbial iso- lates or enriched communities (e.g. He et al. 2010; Yi    et al. 2011; Giannoukos et al. 2012; Peano et al. 2013; Bhagwat et al. 2014), but there is little information on their performance in host-symbiont systems (Moitinho- Silva et al. 2014; Versluis et al. 2015).
+The second challenge is the separation of host and microbiome mRNA pools. Samples processed for meta- transcriptomics have to be rapidly frozen in order to ensure that the data obtained reflect the true expression levels, as extensive postsampling separation  of  microbial cells is likely to alter the mRNA profile (Frias-Lopez et al. 2008). This means that the host and microbiome mRNA pools have to be separated both during RNA isolation and after sequencing using bioin- formatics. The former can make use of the poly(A) tails found in eukaryotic mRNA transcripts by hybridization and subsequent separation with oligo(dT) probes. How- ever, this step may not be completely efficient,  and  thus, host-associated metatranscriptomes treated  this way often contain a significant portion of contaminant sequences from the host (Schmieder & Edwards 2011a). Postsequencing, transcripts from microorganisms can be identified bioinformatically by comparison to available reference genomes, but in the case of novel or divergent transcripts this may not be efficient. Alternatively, alignment-free algorithms based on the difference of oligonucleotide composition between prokaryotic and eukaryotic genomes can also be applied (Dick et al.  2009; Mohammed et al. 2011). These steps are particu- larly critical here when investigating prokaryotic tran- scripts with orthology to eukaryotic sequences, as inadequate removal of host transcripts would result in ELPs falsely identified as belonging to prokaryotic symbionts.
+The  aim  of  this  study  was  therefore  to  develop  a
+metatranscriptomic protocol and analysis pipeline to detect ELP expression in sponge microbiomes. To mini- mize the amount of nontarget sequences (i.e. rRNA and host mRNA), we tested different methods of rRNA removal and combined this with the removal of poly(A) tailed mRNA. We then conducted careful bioinformatic analyses that included in silico subtraction of eukaryotic sequences   and   analyses   of   sequence   signatures (i.e.
+
+
+
+tetranucleotide composition). We identified a large  set  of transcripts that belonged to various ELP classes with high confidence of being expressed by bacterial and archaeal symbionts.
+
+Materials and methods
+A flow diagram summarizing the methods is shown in Fig. 1. A methodological pipeline was initially devel- oped with the Cymbastella concentrica (Cym) samples, and when a suitable protocol was established (see results), this was used for Scopalina sp (Sco) and Tedania anhelens (Ted) samples.
+
+Sampling and total RNA extraction
+Three individuals each of the sponges C. concentrica, Scopalina sp. and T. anhelens were collected at a depth of 9 metres at Bare Island in Botany Bay, New South  Wales  (33deg  590S,  151deg  140E).  Individuals  were  collected in separate plastic bags and brought to the shore where they were quickly rinsed and squeezed in filtered sea-  water and then immediately snap frozen in liquid nitro- gen. From each of the three individuals, two similar  sized pieces (~100 mg) of sponge tissue (including mesohyl and pinacoderm) were crushed into small  pieces in the presence of liquid nitrogen and processed independently as technical replicates.
+Total RNA was extracted with TRIzol  (Invitrogen  Life Technologies) following the manufacturer's instructions and using  a  mix  of  1.4-  and  0.1-mm beads (MOBio) for the homogenization of samples. Extracted RNA was further purified using the  Pure-  Link RNA Mini Kit  (Ambion)  and  treated  with  DNase I to remove genomic DNA. RNA extractions were subject to PCR using prokaryotic universal 16S rRNA gene primers to check for DNA contamination. Total RNA was quantified with Nanodrop spectropho- tometry and  Qubit  fluorometry  as  well  as  analysed  by capillary electrophoresis on a 2100 Bioanalyzer Instrument (Agilent Technologies).
+
+Construction of the eukaryotic library and sequencing
+For the construction of cDNA libraries from the sponge host, aliquots of the total RNA from the three individu- als of the same sponge species were pooled and pro- cessed with the Illumina TruSeq RNA Sample Preparation Kit protocol, which contains a poly(A) RNA selection step with oligo(dT) beads to enrich for eukaryotic mRNA fragments. Sequencing was con- ducted on an Illumina HiSeq 2000 platform with 100-bp paired-end reads at the Ramaciotti Centre for Genomics UNSW).
+
+Construction of the microbiome library and sequencing
+For the microbiome libraries, total RNA samples were depleted of eukaryotic mRNA using the Dynabeads Oligo(dT)25 (Ambion). The prokaryotic RNA in the supernatant was further purified with  the  PureLink  RNA Mini Kit including a second DNase I treatment (Ambion). These samples were split into two aliquots to apply two different rRNA removal protocols: (i) sub- tractive hybridization with bacteria-specific probes attached to magnetic beads (Ribo-Zero Bacteria Kit, Epi- centre)  or  (ii)  digestion  with  a  50-phosphate-dependent exonuclease (Terminator, Epicentre). rRNA removal using Ribo-Zero (treatment RZ) was performed accord- ing to the manufacturer's protocol. Briefly, RNA was incubated with the oligonucleotide mix in binding buf- fer for 10 min at 68 degC. Magnetic beads were allowed to hybridize for 10 min. The beads with  bound  rRNA  were discarded, and the supernatant was precipitated with ethanol. For removal of rRNA by enzymatic diges- tion (treatment TM), RNA was digested with  the enzyme at 30 degC for 60 min following the manufac- turer's protocol and the reaction was terminated by phenol extraction and ethanol precipitation. The result- ing RNA from both approaches was used for library construction and sequenced as above, but without the poly(A) selection step.
+
+
+Quality filtering and rRNA removal
+Sequencing data were filtered and demultiplexed with CASAVA v1.8.2. Possible adaptor contaminations were trimmed using the software package TRIMMOMATIC v0.33 (Bolger et al. 2014). Forward and reverse reads were quality filtered using the PRINSEQ software v0.20.4 (Sch- mieder & Edwards 2011b) by removing poor-quality base  calls  in  iterative  5-nt  windows  from  the  50 and  30 ends  of  each  read  with  a  mean  quality  score  less  than
+20. Moreover, sequences with entropy lower than 7 (dust parameter) or with any ambiguous nucleotide (base = N) were removed. For the sponge transcrip- tome, poly(A) tails were removed with the 'trim-tail' option. After trimming, reads shorter than 70 base pairs  (bp) in length were discarded. For the prokaryotic  data  sets, sequences were checked for rRNA  contamination with SORTMERNA software v1.99 (Kopylova et al.  2012) using the Silva NR Ref 121 database (Quast et al. 2013) and 'feeling-lucky' alignment option. Efficiency between treatments (RZ and TM) was compared  using  a  t-test. The rRNA sequences were further classified with the Bayesian naEURive classifier (Wang et al. 2007) in MOTHUR v1.37.3 (Schloss et al. 2009) using the Silva NR Ref 121 database 16S/18S (SSU) and 23S/28S (LSU) taxonomic outlines  and  a  60%  confidence  threshold.  Sequences that
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1 A workflow used in this study for the metatranscriptomic analysis of C. concentrica (A) Total RNA from three sponge individu- als were extracted in two technical replicates. Poly(A) reads were used for the 'eukaryotic library' and nonpoly(A) reads were kept     for the 'prokaryotic library'. The latter library was further enriched for mRNA using either of two rRNA removal protocols (RZ and TM, see methods). (B) Pipeline to reconstruct the eukaryotic transcriptomic dataset, using a de novo assembly of quality-filtered reads and removal of  transcripts  with sequence similarity to prokaryotes ('w/o SS' stands for transcripts without sequence similarity to     NR database). (C) Pre-assembly filtering of microbiome rRNA reads and host-mapping subtraction prior to de novo assembly of the microbiome transcriptomes (also referred as metatranscriptomes in the main text) from each of the rRNA removal methods (Meta-RZ and Meta-TM). Resulting metatranscriptomes were used for RSEM and comparison between rRNA removal methods. (D) Postassem- bly filtering of transcripts for the selected metatranscriptome (Meta-RZ). For this, transcripts expressed by nonprokaryotic poly(A) reads, and transcripts with sequence similarity to the eukaryotic transcriptome were discarded. The remaining transcripts were taxo- nomically classified through sequence similarity searches, and the noneukaryotic transcripts were retained for further analyses.
+
+
+
+did not align with the reference database were consid- ered as putative mRNA.
+
+Eukaryotic and microbiome assembly
+To generate a eukaryotic transcriptome (Fig. 1B), the quality-filtered eukaryotic reads were de novo assembled with the TRINITY software v2.0.6 (Grabherr et al. 2011). Trinity was chosen for its good performance for both transcriptomes and metatranscriptomes in benchmark studies (Jain et al. 2013; Celaj et al. 2014). De novo assem- bly was conducted with default settings for strand-speci- fic, paired-end reads and a minimum transcript length    of 150 bp. Reads were aligned back to the final assembly with the bowtie_PE_separate_then_join.pl script from the TRINITY package. CD-HIT-EST v4.6.4 (Li & Godzik 2006) was used to assess redundancy in the assembly for iden- tical sequences (parameter "c" = 1) based on a word size of 8. Transcripts were searched with BlastX against the nonredundant NCBI database. Transcripts with hit E-values < 1.0E-5 were taxonomically classified with MEGAN v5.11.3 (Huson et al. 2007) using the lowest com- mon ancestor algorithm  (LCA)  with  settings  min  score = 50, max expected = 1.0E-5, top per cent = 10 and LCA per cent = 100. Transcripts classified as bacterial or archaeal were removed from the assembly before further analysis (with E-value < 1.0E-3).
+The microbiome mRNA reads from treatment RZ (RZ-reads) and TM (TM-reads) were mapped  against the eukaryotic transcriptome assembly using BOWTIE2 v2.2.4 (Langmead & Salzberg 2012). Any read mapping the eukaryotic transcriptome with a minimum default score  of  -60  was  removed.  The  remaining  reads  were pooled within each rRNA removal methods (RZ and TM). De novo assembly of microbiome mRNA reads was performed with the same parameters  as  used  for the sponge data, except the 'jaccard_clip' option  was also used to prevent formation of long chimeric tran- scripts. The microbiome transcriptomes generated were named after the rRNA method used in their construc-  tion, that is Meta-Cym-RZ and Meta-Cym-TM.
+
+Quantification of transcript expression
+Transcript abundance in samples was estimated with  RSEM v1.2.21 (Li & Dewey 2011), which implements the Bowtie aligner (Langmead et al. 2009). Counts per mil- lion (CPM), calculated as the estimated read counts divided by the library sizes and multiplied by one mil- lion, were used to calculate the Pearson's correlation coefficient among technical replicates and visualized using scatterplots. Transcript expression levels were expressed as transcripts per million (TPM), where esti- mated read counts are normalized by library size and
+
+transcript length to compare among different tran- scripts. A cross-sample normalization (TMM) was also applied to compare between individuals (Robinson & Oshlack 2010; Dillies et al. 2013).
+Differential expression analysis was conducted with
+EDGER package v3.8.6 (Robinson et al. 2010) in R
+ Generalized linear models (GLM) with negative binomial distributions were con- structed for each transcript using the technical repli- cates within each individual to examine variation between individuals, that is biological variation. A caveat of this approach was that technical and unex- plained variations were lumped together in the resid- ual term of the GLM. Observed library size was normalized by applying scaling factors (trimmed mean of M-values, TMM) computed internally by edgeR functions.
+
+Comparison of metatranscriptomes from different rRNA removal methods
+To compare the metatranscriptome information recov- ered from both rRNA removal methods,  we  applied  two levels of comparisons. First, we compared the simi- larity of both full-length assembled metatranscriptomes by clustering sequences using the USEARCH algorithm (Edgar 2010) with 90% similarity and >70% sequence alignment length. Second, we compared the transcript expression of the metatranscriptomes when using each set of reads (from the RZ and TM methods). To do this, RZ-reads from all three individuals were combined and used to estimate the transcript abundance of the Meta- RZ and Meta-TM using RSEM. Likewise, all three sets of TM-reads were pooled to estimate the transcript abundance of both metatranscriptomes.
+
+Decontaminant steps of the metatranscriptomes
+The metatranscriptome from RZ (Meta-RZ) was chosen as the reference assembly for further analyses given the superior representation of transcripts  compared  with  the Meta-TM assembly (see Results and Discussion). Meta-RZ transcripts were searched using BlastX against the nonredundant NCBI database. Transcripts with hit E-value < 1.0E-5 were analysed with MEGAN as above (Huson et al. 2007) to infer the lowest common ancestor (LCA). Homology to noncoding RNA families was detected using an INFERNAL software v1.1 (Nawrocki & Eddy 2013) search of the RFAM 12.0 database (Nawrocki et al. 2015), which returns conservation scores of both the sequence and the secondary structure of the RNA query. At this point, we performed additional decon- taminating steps on the Meta-RZ (Fig. 1C). Transcripts were searched using BlastN against the host
+
+
+
+transcriptome to detect any residual eukaryotic sequences. Positive hits (>= 90% sequence  similarity  over >= 70% coverage) were removed from the data set. Furthermore, we mapped the eukaryotic reads to the Meta-RZ using Bowtie2 and removed transcripts with a depth of >=1 read covering at least 50% of the length.
+
+Analysis of ELPs
+Protein-coding regions within the assembled transcripts were predicted with the TransDecoder script within the Trinity platform, including homology searches  (sequence and protein databases) as  retention  criteria  for open reading frames (ORF). The resulting ORFs  were searched for eukaryotic-like domains using the INTERPROSCAN tool v5.16-55.0 (Jones et al. 2014). The tar- get domains were as follows: ankyrin repeats (ANK), cadherin repeats (CAD), fibronectin type III (FN3), leu- cine-rich repeats (LRR), NCL-1, HT2A and Lin-41 repeats (NHL),  pyrrolo-quinoline  quinone  repeat (PQQ), tetratricopeptide/Sel1-like repeats (TPR/SEL1), wd40 repeat (WD40) and NipSnap family. Appendix S1 (Supporting information) lists all accession numbers related with each ELP class, plus a short description of them. Information of other known domains and repeats was also retained when they were part of transcripts encoding ELPs. Translocation and localization of pro- teins was predicted with SIGNALP v4.1 (Petersen et al. 2011) using default parameters for Gram-negative and Gram-positive bacteria. Transmembrane domains were predicted with TMHMM v2.0 (Krogh et al. 2001).
+
+Clustering sequences by tetranucleotide frequency and emergent self-organizing maps
+Tetranucleotide frequencies were determined for each transcript using available Perl scripts (Dick et al. 2009). Large sequences were subdivided into 5-kb fragments, and the minimum length was set to 500 bp as sug-  gested by Dick et al. (2009). Emergent self-organizing maps (ESOMs) were applied to cluster and inspect tran- scripts according to the tetranucleotide frequencies. An ESOM is an unsupervised neural network algorithm specialized in converting high-dimensional data into easily perceivable two-dimensional maps (Kohonen  2001; Abe et al. 2003). We used this method imple- mented in the Databionic ESOM tools software v1.1 (Ultsch     &     MoEURrchen     2005)     following     previously described parameters (Dick et al. 2009). Briefly, tetranu- cleotide frequencies were transformed with the 'Robust ZT'  option  and  trained  with  the  k-Batch  algorithm  (k = 0.15%) for 20 training epochs. The standard best- match search method was used with a local best-match search radius of 8. Maps were visualized as U-Matrix,
+
+where background colour represents the distance in tetranucleotide frequency between data points. Data points representing the transcripts were coloured according to their taxonomy as assessed by MEGAN,  and bin territories were defined manually around the apparent clustering.
+
+Results and discussion
+
+Evaluation of rRNA depletion methods for metatranscriptomics
+We initially evaluated the performance of two rRNA removal methods, Ribo-Zero (RZ)  and  Terminator  (TM) on 5 lg of non polyadenylated RNA from the sponge Cymbastella concentrica. All samples had initial total RNA integrity numbers (RIN) greater than 8.9, which  indicated  good   quality,   undegraded   RNA (Fig. S1, Supporting information). After the rRNA removal process, the decrease of rRNA peaks was visualized by electropherograms. For the RZ samples, peaks corresponding to rRNA species were largely absent, while for the TM samples, a wide peak in the  area possibly corresponding to the intact or partially degraded 23S/28S rRNA was still present. These  putative rRNA peaks could not be removed with a second round of nuclease treatment (Fig. S1, Support- ing information).
+An average of 18 (+-2.1) and 21 (+-1.8) million paired-
+end 101-bp reads were generated from the samples trea- ted with the RZ and TM protocol, respectively. After quality filtering, an average of 89.6% (+-2.5) and 88.5% (+-2.7) of sequences remained for each method.  Of  these, a mean of 42% of the RZ-reads and 85% of the  TM-reads could be aligned to  rRNA  reference sequences (Fig. S2, Table S1, Supporting information). The difference in the efficiency of rRNA removal between  the  two  treatments  was  significant  (t = 20,  df = 10, P < 0.001). This was consistent with the better performance of subtractive hybridization compared to exonuclease treatment found previously using cultured bacteria (He et al. 2010; Giannoukos et al. 2012). Of the rRNA sequences that were identified, a low percentage was prokaryotic (2.4% and 5.7%, on average, for RZ  and TM, respectively), while a much larger percentage were eukaryotic (37.5% and 74.5%, Fig. S2, Supporting information). The high abundance of rRNA sequences still present in the TM method resulted in a relatively  smaller size of the final mRNA data set for this method, 3 million of reads, on average, compared with 10 mil- lion reads for the RZ method (Table S2, Supporting information). There were also differences in depletion efficiencies with respect to taxonomic classification of rRNA reads (Appendix S2, Supporting information).
+
+
+
+A recent metatranscriptome study of the sponge Crambe crambe (Versluis et al. 2015) used a similar strat- egy of removing poly(A) tailed sequences as applied here, followed by two Ribo-Zero removal kits (human/ mouse.rat and meta-bacteria) in an attempt to remove both eukaryotic and prokaryotic rRNA. This effort resulted in 18% of the final sequencing reads being rRNA. However, the very low amount of RNA obtained required the subsequent cDNA synthesis to be per- formed with the Ovation RNA-Seq system (NuGEN), which has been shown to introduce several biases affecting gene expression profiles and thus preventing quantitative analysis (Alberti et al. 2014). Another study used sample-specific probes for the rRNA removal that had to be experimentally generated in the laboratory (Moitinho-Silva et al. 2014). Approximately 26% of the sequence reads were still identified as rRNA; however, the direct comparison of this value with our results can- not be made as their bioinformatic  analysis  included  the removal of 'artificial duplicate reads' (Gomez- Alvarez et al. 2009), which likely also removed natural rRNA duplicates (Niu et al. 2010) and thus underesti-  mated the true level of rRNA sequences. Using similar sample-specific probes for hydrothermal vent snail sym- bionts resulted in 37-79% of reads matching rRNA (Sanders et al. 2013), which is generally higher than that observed here (~40% for RZ treatment). Together, our results and previous studies indicate that commercial probes targeting bacterial rRNA as supplied by the Ribo-Zero kit appear to be equally useful as sample- specific probes, but with the added advantage of reduc- ing time and resources to generate such probes.
+
+
+Eukaryotic and microbiome transcriptomes of
+C. concentrica
+Generally, prior to the construction of the metagenomic or metatranscriptomic assemblies, it is necessary to per- form an in silico filtering step to remove contaminant  eukaryotic reads (host-mapping subtraction) that could cause misassembly of contigs (Schmieder & Edwards 2011a). Filtering can also dramatically reduce the requirement  for  sequence  homology  searches  (Daly   et al. 2015). Such filtering is usually performed using reference genomes of the host, and this has been exten- sively used for human samples (i.e. Kostic et al. 2011; Moore et al. 2011). However, in our case, no reference genomes for the sponge species investigated were avail- able, and sponge tissue often contains other eukaryotes, such as fungi or diatoms (Taylor et al. 2007), whose genome might also be absent from existing databases. Therefore, searches against reference databases  are likely to be ineffective in filtering out nonsymbiont sequences. We thus sequenced the poly(A) RNA from
+
+sponge tissue, which likely included the transcriptomic reads of the sponges and other associated eukaryotes, and used this as a reference for the in silico host- mapping subtraction (see Fig. 1C).
+We generated 37 million quality-filtered reads for the poly(A) mRNA that assembled into 184 053 transcripts with an N50 of 968 nt and included 90.5% of the original reads (Table S1, Supporting information). The assembled transcriptome was checked for duplication with CD-HIT, which detected only 432 duplicated sequences, consistent with a previous finding of low duplication rates for the Trinity assembler (Jain et al. 2013). As some prokaryotic mRNA may also have poly(A) tails (Sarkar 1997) or could have been unspecifically bound to the poly(T) probe, we searched the transcripts against the NR data- base and removed 2257 transcripts with a positive hit (BlastX, E-value < 1.0E-3) against prokaryotes.
+For the host-mapping subtraction, the poly(A)- and rRNA-depleted prokaryotic reads were then mapped against this de novo eukaryotic transcriptome using Bowtie2. Of the prokaryotic reads that mapped against the eukaryotic transcriptome (minimum bowtie default score of -60), the largest fraction had a score of 0, indi- cating   perfect   matches.   Only   few   had   scores   of   -5 (equivalent to approximately 99% similarity) or lower (Fig. S4, Supporting Information). Mapped reads repre- sented approximately 45% and 69% in the  RZ-reads  and TM-reads data sets, respectively, showing that a large proportion of putative microbiome reads were in fact eukaryotic. The remaining unmapped reads (27 vs.   4 million for RZ and TM) were assembled with Trinity and produced 383 648 transcripts, with a N50 of 509 nt for RZ (Meta-Cym-RZ), and 130 904 with N50 of 358 nt for TM (Meta-Cym-TM). The assembly included 75% and 61% of the initial reads for the Meta-Cym-RZ and Meta-Cym-TM data, respectively. Technical repro- ducibility between replicates of each individual  was  high for both Meta-Cym-RZ and Meta-Cym-TM (Pear- son  correlation  coefficients  (rho) > 0.94,  see  Appendix S3, Supporting Information). However, the Meta-Cym-TM data set was largely a subset of the Meta-Cym-RZ data set. Therefore, further analysis was only performed with the Meta-Cym-RZ data set, which we considered to be superior.
+To examine the expression profiles among technical and biological replicates of C. concentrica individuals, negative binomial generalized linear models (GLMs) were constructed for each transcript and examined sepa- rately. Generally, deviation attributed to biological varia- tion was only slightly greater than technical variation (Fig. S7A, Supporting information), where the technical variation was considered very low given the high repro- ducibility and correlation of technical replicates (Appendix S3, Supporting information). This indicates
+
+
+
+relatively consistent expression of transcripts between individuals of the same sponge species. Transcripts encoding ELPs also showed a low variability between individual sponges (Fig. S7B, Supporting Information), which indicates they behave no different to other tran- scripts and are thus likely being constitutively expressed. A sequence similarity search (BlastX) of the Meta- Cym-RZ assembly detected 27.8% of transcripts with similarity to known proteins (E-value < 1.0E-5). Taxo- nomic analyses of these sequences using the LCA algo- rithm implemented in MEGAN showed  that 46.3% of the assigned transcripts were classified as eukaryotes. This indicated that the pre-assembly host-mapping sub- traction of reads was not sufficient to remove all con- taminant eukaryotic reads in the microbiome set. Therefore, we applied a  further 'decontamination' step to remove any Meta-Cym-RZ transcript with similarity to eukaryotic transcripts or poly(A) mRNA reads (see Materials & Methods). This removed 35% of the Meta- Cym-RZ transcripts. Transcripts with virtually zero expression (i.e. incompletely assembled transcripts that did not recruit both pairs of PE reads) for all three indi- viduals independently were also removed (9% of tran- scripts). The final 'decontaminated' de novo reference Meta-Cym-RZ included 228 060 expressed transcripts (Table S1, Supporting information). Technical replicates for this 'decontaminated' Meta-Cym-RZ data set were still highly correlated (rho = 0.94, 0.99 and 0.99 for indi-
+viduals 1, 2 and 3, respectively).
+After the 'decontamination' steps, the number of tran- scripts assigned by the LCA method as eukaryotes decreased from 41 761 to 14 942 (with 4167 sequences being related to phylum Porifera). As we rigorously fil- tered out any reads or transcripts similar to our eukary- otic transcriptome, it is surprising that these transcripts were still assigned to Porifera or eukaryotes. It is possi- ble that these sequences have been wrongly assigned in the NCBI reference database, because they are from contaminant microbial symbionts in host genomes. For instance, a recent study of horizontal gene transfer  events of prokaryotes into the Amphimedon queenslandica sponge genome identified several potential prokaryotic contaminants (Conaco et al. 2016). However, this issue  is difficult to solve without the full genome context of the expressed transcripts, and therefore, we took the conservative approach of removing them from the analysis of ELPs.
+
+Identification of ELP in the microbial metatrancriptomes of C. concentrica, Scopalina sp. and Tedania anhelens
+The Transdecoder tool was used to predict open read-  ing frames (ORFs) for transcripts with sequence
+
+similarity to prokaryotes (39 709 as classified by LCA method). From those, 66 987 ORFs were identified, including 900 ORFs encoding ELPs. This represented 2.3% of all prokaryotic transcripts (Table S1D, Support- ing information). Among the transcripts without sequence similarity to the NR database, the number of ORFs predicted was 130 650, including 594 ELPs. These transcripts without sequence similarity were also exam- ined for noncoding RNAs, but only 2.5% showed sequence similarity to the Rfam database.
+As taxonomic assignment of transcripts might be impacted by the quality of the reference database, we further classified transcripts based on their tetranu- cleotide composition. Oligonucleotide frequency has been shown to be homogenous within a genome, but to differ between genomes of different species (Karlin et al. 1997; Deschavanne et al. 1999; Pride et al. 2003; Sand- berg et al. 2003). These genomic signatures are useful in the taxonomy-independent assignment of metagenomic sequence fragments to microbial taxa (Mande et al. 2012), where the use of tetramers has been shown to result in optimal taxonomic discrimination  as  opposed to other k-mer frequencies  (Pride  et al.  2003;  Bohlin  et al. 2008). Moreover, oligonucleotide frequencies cap- ture species-specific characteristic more effectively than GC content or codon usage (Sandberg et al. 2003).
+Using emergent self-organizing maps (ESOMs), dif-
+ferent 'taxonomic regions' were visualized by the clus- tering of transcripts based  on  tetranucleotide frequencies (Fig. 2). Due to length restriction of this clustering analysis (see Materials & Methods), only transcripts longer than 500 bp were analysed. Most of  the bacterial and archaeal transcripts clustered together, and this area was therefore defined as the 'prokaryotic region'. This region also included 2.3% of the tran- scripts without sequence similarity to the NR database, showing that part of the transcripts could encode for prokaryotic proteins whose sequences are not available  in current databases. For reference, eumetazoa  sequences (including Porifera) were located around this prokaryotic region together with the majority of the transcripts without sequence similarity. 333 (of 900) of the prokaryotic transcripts encoding ELPs could be inspected in the ESOM, of which 302 (90.7%) fell into the prokaryotic region (Fig. 2). This set of  transcripts was defined as high-confidence (HC) prokaryotic tran- scripts with ELPs. The other 31 transcripts that were located outside the prokaryotic region of the ESOM, together with the short transcripts that were not anal- ysed in the map (540 transcripts with < 500 bp), were  defined as a low-confidence (LC) group.
+It is important to note that this compositional (e.g. tetranucleotide) analysis would not be sensitive enough to detect recently transferred eukaryotic-like domains, if
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2 Emergent Self Organising Map (ESOM) of the transcriptomic dataset from Meta-Cym-RZ based on tetranucleotide frequency. Each point represents a transcript whose colour is determined by the taxonomic information (see legend) assigned based on LCA analysis. Transcripts without sequence similarity (w/o SS) are shown in black and ELP-containing transcripts are highlighted in red. The area containing the majority of bacterial and archaeal transcripts was defined as the 'prokaryotic area'. The background colour represents the distance in tetranucleotide frequency between data points (see legend). The picture composition shows a tiled mode of visualization, displaying four adjacent copies of the grid, and one of those tiles in the bottom right corner is focused on the position      of ELP-containing transcripts. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+
+they constitute a large portion of the sequence in the assembled transcript. In that case,  transcripts  would  lack the compositional adaptation to the recipient gen- ome (Lawrence & Ochman 1997) and hence would still show an eukaryotic signature in our analysis. This is probably the case for the 31 transcripts encoding ELPs with similarity to prokaryotic sequences  that  were found in the eukaryotic region of the ESOM.
+We applied the protocol optimized for C. concentrica (i.e. poly(A) pulling, rRNA removal with Ribo-Zero, bioinformatic filtering) to investigate the metatran- scriptome and ELP expression within the sponges Sco- palina sp. and T. anhelens. Considering the high technical reproducibility found for C. concentrica, only one technical replicate from three sponge individuals
+
+was sequenced for each of these two species. The eukaryotic poly(A) mRNA was also  sequenced  from  the hosts mRNA to allow for host-specific sequence filtering. Briefly, the eukaryotic transcriptomes con- sisted of 101 828 and 128 286 transcripts for Scopalina sp. and T. anhelens, respectively (Table S1C, Support- ing information). For the metatranscriptomes, the per- centage of reads aligned to rRNA database was an average of 59 and 36% for Scopalina sp. and T. anhe- lens, respectively. The percentage of reads mapped to  their respective eukaryotic transcriptome was 62% for Scopalina sp. and 77% for T. anhelens (Table S1B, Sup- porting information). The final set of reads for these sponges was 9.2 and 3.9 million, respectively, which assembled into 94 173 (Meta-Sco-RZ) and 85 440
+
+
+
+(Meta-Ted-RZ) transcripts, compared to 383 648 tran- scripts obtained for C. concentrica (Table S1D, Support- ing information). As we only had one replicate per individual, the number of pooled reads  used  to  build the metatranscriptome was smaller than for C. concen- trica (i.e. 27 million), which could have influenced the size of the metatranscriptomes obtained. The microbial communities in Scopalina sp. and T. anhelens  are known to be much simpler than the ones in C. con- centrica (Fan et al. 2012) and this  could  also explain the lower number of transcripts.
+After the 'decontamination' steps using the eukary- otic transcriptomes and after taxonomy assignment of transcripts, we obtained 8665 transcripts with sequence similarity to prokaryotes for Scopalina sp. and 3080 tran- scripts for T. anhelens. With respect to ORFs identified in these prokaryotic transcripts (Table S1D, Supporting information), 118 ORFs from the Met-Sco-RZ and 40 ORFs from the Meta-Ted-RZ contained ELPs represent- ing 1.4% and 1.3% of all prokaryotic transcripts, respec- tively. An average of 94% of the transcripts encoding  ELPs from Meta-Sco-RZ were located in the 'prokary- otic region' of the self-organizing maps (Fig. S8, Sup- porting information), which was considered as the HC group. In the case of Meta-Ted-RZ, we did not perform an ESOM analysis, as only seven transcripts encoding ELPs were longer than the minimum length for the analysis (i.e. 500 bp).
+
+Comparison of prokaryotic taxa expressing ELPs
+Before analysing the taxonomic affiliation of transcripts encoding ELPs, we compared the general taxonomic content (defined using the LCA method in MEGAN) of each sponge microbiome to previous metagenomic (Fan et al. 2012) and 16S rRNA gene sequencing studies (Esteves et al. 2016) of these sponges. Both studies found that Phyllobacteriaceae (order Rhizobiales) was abundant in C. concentrica, which is consistent with our observation of  their  high  expression  of  transcripts (Fig. 3). Similarly, the high number of transcripts assigned to the order Rhodobacterales was consistent with the high abundance of this taxa based on 16S rRNA gene sequencing (Esteves et al. 2016). The metatranscriptome of Scopalina sp. was also taxonomically dominated by similar groups found by 16S rRNA gene analyses (i.e. Oceanospirillales and other Gammaprotebacteria, Betaproteobacteria and Cyanobacteria). For T. anhelens, sequences assigned to Betaproteobacteria were dominant in both the metatranscriptome and the metagenome. This suggested that the majority of associated bacteria in the sponges are active in situ. However, differences were also found. Specifically, some taxa were more abundant in the metatranscriptome of T. anhelens in comparison with its
+
+previous metagenomic analysis (Fan et al. 2012), includ- ing Thaumarchaeota, Bacteroidetes, Cyanobacteria and Actinobacteria. This could indicate that some low-abun- dance or uncommon groups of prokaryotes are still rela- tively active, yet methodological factors between studies could also potentially contribute to such differences between results.
+A broad range of taxa was observed to express ELPs among the three sponge species (Fig. 3). The percent-  age of transcripts encoding ELPs associated with any phylogenetic group broadly reflected the percentage of non-ELPs encoding transcripts for the same group for
+C. concentrica, but varied for Scopalina sp. and T. anhe- lens (see Fig. S9, Supporting information). For instance, the most frequent transcripts encoding ELPs in C. con- centrica were associated with the family Rhizobiales (21%) and Rhodobacterales (23%), which also included most of the non-ELP encoding transcripts from the microbiome. In Scopalina sp., Rhizobiales and Bac- teroidetes had the highest percentage transcripts encoding ELPs, but the most frequent non-ELP encod- ing transcripts were associated with other groups (e.g. Oscillatoriophycideae and Oceanospirillales). Likewise, several groups in T. anhelens had a high percentage of transcripts encoding ELPs, including Crenarchaeota, Nostocales and Prochlorales, but they did not  repre-  sent a large proportion of non-ELP encoding tran- scripts. These comparative results suggest that  ELPs  can be found broadly among the taxa inhabiting the sponge microbiome; however, some groups are appar- ently more likely to contain or express ELPs  than  others.
+
+ELP classes expressed in the microbiomes
+The C. concentrica microbiome showed the greatest diversity in the type of ELP classes expressed compared with the other two microbiomes (Fig. 4A). For this microbiome, cadherin (CAD) domains were most fre- quently found (42.8% of all transcripts encoding ELPs) followed by ELPs with TPR and the subfamily SEL1 repeats. These two ELP classes were also most fre- quently expressed in the Scopalina sp. microbiome. In contrast, ELPs of the ANK class were most frequent in the T. anhelans metatranscriptome followed by the TPR/SEL1 class, while some ELP classes were not detected (including the abundant  CAD  repeats  observed in the other two sponge microbiomes). The median expression levels of transcripts  encoding  each of the ELP classes were generally similar to each other and also similar to other non-ELP encoding transcripts (Table 1, Fig. 4). Furthermore, there was no apparent relationship between the taxonomic origin of the tran- scripts and the ELP class they encoded or their
+
+
+
+
+Prokaryotic transcripts
+Prokaryotic transcripts encoding ELPs
+
+
+Bacteroidetes/Chlorobi group
+
+
+
+Crenarchaeota Euryarchaeota Thaumarchaeota Actinobacteria
+Aquificae Bacteroidetes
+Chlorobi
+
+Meta-Cym-RZ	Meta-Sco-RZ	Meta-Ted-RZ
+
+Chlamydiae/Verrucomicrobia  group
+Nostocales
+
+
+Cyanobacteria
+
+
+
+
+
+
+
+
+
+Proteobacteria Alphaproteobacteria
+
+
+
+
+
+Proteobacteria Betaproteobacteria
+
+
+
+
+Proteobacteria Delta/Epsilonsubdivisions
+
+
+
+
+
+Proteobacteria Gammaproteobacteria
+
+Oscillatoriophycideae
+Prochlorales Stigonematales
+Firmicutes Nitrospirae Planctomycetes Caulobacterales Rhizobiales Rhodobacterales Rhodospirillales Rickettsiales Sphingomonadales unclassified Alphaprot.
+Burkholderiales Methylophilales Neisseriales Nitrosomonadales Rhodocyclales Sulfuricellales unclassified Betaprot. Deltaproteobacteria Acidithiobacillales Alteromonadales Chromatiales Enterobacteriales Methylococcales Oceanospirillales
+Orbales
+Pasteurellales Pseudomonadales
+Thiotrichales unclassified  Gammaprot.
+Vibrionales Xanthomonadales Spirochaetes unclassified Bacteria
+
+
+
+0	5     10    15    20    25   30	0	5     10    15    20    25   30	0	5 10 15 20 25 30
+% of transcripts	% of transcripts	% of transcripts
+
+Fig. 3 Taxonomic profile for microbial communities that represented more than 1% of the transcripts in at least one of the three dif- ferent sponge species. Taxa within the phyla Proteobacteria, Bacteroidetes and Cyanobacteria are shown at class or order-level. Bar plots indicate the percentage of transcripts assigned to each taxonomic level from each metatranscriptome datasets. White bars repre- sent all prokaryotic transcripts, while black bars represent the ELP-containing transcripts.
+
+
+
+(A)
+
+1
+
+
+0.8
+
+
+0.6
+
+
+0.4
+
+(C)
+6
+
+5
+
+4
+
+3
+
+2
+
+
+0.2	1
+
+0	0
+
+
+
+
+(B)
+6
+
+(D)
+6
+
+
+5	5
+
+4	4
+
+3	3
+
+2	2
+
+1	1
+
+0	0
+
+
+
+
+Fig. 4 Proportions and expression level of ELPs classes in the metatranscriptomes (A) Proportion of each ELP classes for the three sponge metatranscriptomes. Box plot of log (TPM.TMM) expression of transcripts for the metatranscriptomes of (A) C. concentrica,
+Scopalina sp. and (C) T. anhelens. The 'MICROB.' group represents the prokaryotic transcripts not containing ELPs, while the remaining groups are the different ELP classes studied. Each point corresponds to the mean expression of a transcript across three sponge individuals. Filled points are High-confidence (HC) transcripts and open points are Low-Confidence (LC) transcripts.
+
+
+
+expression values (Table S2, Supporting information), which indicates that each symbiont group is utilizing different ELPs classes to different extents.
+Two recent studies have  also  noted  the  expression  of ELPs in sponge microbiomes, and among them, variable results were found. First, TPR and ANK were found to be abundantly expressed in the metatran- scriptome of Xestospongia muta (Fiore et al. 2015), while fibronectin type 3 (FN3) domains were frequent in the sponge microbiomes of Xestospongia testudinaria and Stylissa carteri (Ryu et al. 2016). However, both studies did not perform an in silico subtraction of the host transcriptome from the metatrancriptome or used com- positional information to assign transcripts encoding ELPs to a prokaryotic source, which makes host
+
+contamination in the putative  ELP  data  set  quite  likely. A quantitative and  qualitative  comparison  to  our data set therefore has to be treated with caution. Nevertheless, there is clearly a large variability in the  expression of particular ELP classes between the microbiomes of different sponge species. Such variabil- ity in ELP repertoire might  reflect  the host specificity  of symbionts. This would be consistent with recent observations for the symbiotic bacterium Ca. Synecho- choccus spongiarum where the genomes of different phylotypes found in different sponges species also encoded for distinct sets of ELPs  (Burgsdorf  et al. 2015). Further studies are however required to fully appreciate the extent and variability of ELP expression  in sponge-associated microbiomes.
+
+
+Table 1 Summary of ELP containing transcripts in sponge metatranscriptomes
+
+'prok.', prokaryotes; 'trans.', transcripts; 'ELPs', eukaryotic-like proteins; 'NA', not applicable.
+*'Prokaryotes' represents all prokaryotic transcripts identified in each metatranscriptome, and it is shown as a reference.
+
+
+Domain architecture of ELPs and cotranscribed proteins
+
+ELPs often contain additional functional domains  (Fan et al. 2012; Reynolds & Thomas 2016) that might pro- vide insight into their cellular or molecular  function.  We found that expressed ELPs of the classes ANK, NHL, PQQ, TPR/SEL1, WD40 and NipSnap were fre- quently (i.e. 30-60%) associated with predicted trans- membrane helices (TMHs) and/or signal peptides (SPs) (e.g. Fig. 5, Table S4, Supporting information). PQQ, TPR/SEL1-containing ORFs often also coded for domains related to the outer membrane b-barrel assem- bly machinery (Bam complex), which is involved in assembly and insertion of proteins into the outer mem- brane. Moreover, NHL, TPR/SEL1 and WD40 were
+
+associated with several domains of the Tol-dependent translocation system (e.g. Fig. 5C). The Tol/Pal system  is involved in maintaining the outer membrane  integ- rity of Gram-negative bacteria (Lazzaroni et al. 1999) and are also involved in the pathogenesis of several bacteria (Dubuisson 2005; Godlewska et al. 2009). Genes for Tol-Pal systems were conserved during genome evolution of the obligate endosymbiont Blochmannia, while many others were lost rapidly after establishment of the symbiosis, suggesting their importance for host interactions (Williams & Wernegreen 2015). Together, this information indicates that many of the expressed ELPs found here are putatively localized outside the bacterial cytoplasm, which could facilitate their direct contact with surrounding cells and hence bacteria-host interactions.
+
+
+
+Fig. 5 Open reading frame maps for five representative prokaryotic transcripts containing ELPs and their associated domains. The MEGAN taxonomic assignment is shown following the transcript ID. Transcripts are displayed from position 1 to the length of the transcript, where grey boxes represent the different ORFs identified. Incomplete ORFs have serrated boxes at ends. Inside the ORFs, white blocks symbolize known domains and their orientation. ELPs are represented as small grey dark boxes. Additional sequence characteristics are shown in the legend.
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+268
+
+
+
+
+
+
+283
+
+
+
+TPR domains
+NON_CYT
+
+
+
+
+
+
+1101 1141
+
+
+1279
+
+TR86121|c0_g1_i1 Gammaproteobacteria
+
+
+
+
+
+1	5324
+
+
+
+155
+
+
+2002
+
+
+2033
+
+
+3508
+
+
+3518
+
+
+5299
+
+TR76859|c1_g1_i1 Betaproteobacteria
+
+
+
+
+
+1	1909
+
+216   239	805    890	1834
+TR81248|c0_g1_i1 Gammaproteobacteria
+
+
+
+
+1	5234
+
+
+65	1432
+
+1435
+
+2052
+
+2056
+
+2463 2494
+
+3024
+
+3046
+
+4434 4431
+
+5234
+
+TR90093|c0_g1_i2 Gammaproteobacteria
+
+
+
+
+
+
+
+
+1	6446
+
+
+407
+
+2734
+
+2738
+
+3190
+
+3276 3779 3786
+
+5591
+
+5595
+
+6347
+
+TR89948|c0_g1_i1 Alphaproteobacteria
+
+
+
+Proteins with TPR motifs included many known domains, such as oxoglutarate/iron-dependent dioxyge- nase, glycosyl transferase family41, peptidase M48 and transglutaminase-like protein (Table S3, Supporting information). TPR-containing proteins are involved in a variety of functions vital to cell processes (D'Andrea & Regan 2003). In bacterial pathogens, TPR-containing proteins have been directly related to virulence-asso- ciated functions, such as the translocation of virulence factors into host cells, adhesion to host cells, and block- ing  of  phagolysosomal  maturation  (BroEURms  et al.  2006; Edqvist et al. 2006; Chakraborty et al. 2008). Chaperons and effectors of the Type III secretion systems (T3SS) or proteins of the type IV pilus (Tfp) biogenesis are well- studied examples of TPR-containing proteins related to bacterial  pathogenesis  (Pallen  et al.  2003;  BuEURttner  et al. 2008; Job et al. 2010; Salomonsson et al. 2011; Cerveny et al. 2013). Some of our TPR-containing transcripts were associated with the T3SS and Tfp proteins mediat- ing host-microbiome interaction (e.g. Fig. 5A-B), and they were expressed above the general mean of the prokaryotic transcripts (Table S4, Supporting informa- tion), indicating a potential important role for the sym- biont microbiome.
+Proteins with WD40 repeats included enzymatic domains related with bacterial respiration, such as cyto- chrome c for aerobic respiration or nitrous oxide reduc- tase, which is activated by anaerobic conditions. Cytochrome c domain were also found to be associated with PQQ in the microbial metagenomes of six different sponge species (Fan et al. 2012). Other domains, such as caspase, sialidases or subtilisin proteases, were also pre- sent in PQQ-containing ELPs. Caspases are mainly involved in mediating cell death (apoptosis) in eukary- otes, but they have also been found in bacterial patho- gens (Gautam & Sharma 2002). Our caspase-like domains were also found co-occurring with domains similar to Gram-negative bacterial outer membrane pro- teins and peptidoglycan-binding domains, further sup- porting their prokaryotic nature (Rice & Bayles 2008; Asplund-Samuelsson 2015). Cyanobacterial caspase homologs have been previously found to be associated with WD40 repeats (Asplund-Samuelsson 2015). Their function in prokaryotes is largely unexplored,  and  in  the host-associated context, they might play a role in bacterial pathogenesis and host interaction by mimick- ing eukaryotic caspases and promoting cell survival (Wall & McCormick 2014). Sialidases have been consid- ered virulence factors in many pathogenic organisms, which colonize mucosal surfaces by hydrolysing the protective barrier and facilitating bacterial adhesion (Corfield 1992; Wiggins et al. 2001). Subtilisin-like serine proteases are extracellular peptidases  produced  by  many bacterial pathogens, which degrade the host
+
+extracellular matrix facilitating invasion and coloniza- tion (Bonifait et al. 2010; Kennan et al. 2010).
+The    metatranscriptomic    assembly    produced many polycistronic transcripts, which allowed us to investigate what biological or cellular processes are co-expressed and coregulated with ELP genes. TonB-dependent transporter (TBDTs) genes were often cotranscribed with ELPs genes of the TPR and ANK families (e.g. Fig. 5D). In bacterial outer membranes (OM), these transporters can bind and take up iron complexes (Moeck & Coulton 1998; Hopkinson & Bar- beau 2012), vitamin B12 and B1 (Rodionov et al. 2002; Shultis et al. 2006) and various other substrates (Schauer et al. 2008). The twin-arginine translocation pathway was found cotranscribed with genes of the ANK, NHL, PQQ, TPR/SEL1 and WD40 classes (e.g. Fig. 5E). This translocation system exports fully folded proteins across cytoplasmic bacterial membranes into the periplasmic space, where they are subsequently transferred to  the OM or secreted into the extracellular space by a dedi-  cated OM-spanning secretion system. One of the sys- tems that can export folded proteins across the OM is   the bacterial type II secretion system, which was also found cotranscribed with TPR/SEL1 (Fig. 5B). Another cotranscribed secretion system was the P pilus biogene- sis type IV (Fig. 5A), which is evolutionarily related to the T2SS, but extends into the extracellular compart- ment to promote cell adherence, cell motility and DNA transport (Costa et al. 2015). Tol-Pal and Bam complex proteins were found to be cotranscribed with TPS/ SEL1-type ELPs in the metatranscriptome of Scopalina sp, while in T. anhelens NHL-type ELPs were co-expressed with TolB-like proteins. Overall, these findings show cotranscription of ELPs with transport systems that could facilitate their interaction with the extracellular environment or other cells.
+
+Conclusion
+In this study, we detected the simultaneous expression of up to 900 different ELPs in the microbiome of a sponge (i.e. Cymbastella concentrica). To achieve this, we gener- ated an adequate coverage of prokaryotic mRNA as well as conducted careful bioinformatic analyses to classify ELPs correctly, that is identify those likely derived from prokaryotic symbionts. We showed that commercial probes can reduce rRNA to similar proportions as other protocols, allowing for a technically robust, amplifica- tion-independent processing of samples. Our analysis also showed that, despite an attempt to remove eukary- otic mRNA with poly(A) pull-down, a significant fraction of transcripts were still found to be eukaryotic. This high- lights the potential of host sequence contamination in prokaryotic metatranscriptomes, which requires further
+
+
+
+bioinformatics filtering steps. In our study, we defined a high-confidence set of ELPs from microbial symbionts that were expressed at levels and with variability that would imply their constitutive function. The enrichment of genes encoding for ELPs has been previously shown in the metagenome of C. concentrica, Scopalina sp. and Tedania anhelens (Thomas et al. 2010; Fan et al. 2012), and our results both confirm and measure their actual expres- sion by the symbiont community. Furthermore, quantita- tive analyses and taxonomic assignment of transcripts encoding ELPs indicated that (i) most of the taxa present in the sponge microbiome actively transcribe ELPs, (ii) the class of ELP encoded is not specific for any taxonomic group, (iii) variation in expression level is not related to ELP class (i.e. not one ELP class is consistently overex- pressed), and 4) ELP classes are expressed differently between sponge hosts. For many ELPs, we also found evidence of their function outside the cell's cytoplasm and some associated functions (either in the same protein or through polycistronic co-expression) that indicated bacteria-host interaction. Overall, our results further sup- port the notion that ELPs are important factors that sponge symbionts could use to control or facilitate their molecular interaction with their host.
+
+
+Acknowledgements
+This work was financially supported by the Gordon and Betty Moore Foundation and the Australian Research Council. We would like to thank the Ramaciotti Centre for  Genomics  for  the technical support with respect to the RNA sequencing.
+
+
+References
+Abe T, Kanaya S, Kinouchi M et al. (2003) Informatics for unveil- ing hidden genome signatures. Genome Research, 13, 693-702.
+Alberti A, Belser C, Engelen S et al. (2014) Comparison of library preparation methods reveals their impact on interpre- tation of metatranscriptomic data. BMC Genomics, 15, 912.
+Asplund-Samuelsson J (2015) The art  of  destruction:  revealing the proteolytic capacity of bacterial caspase homologs. Molec- ular Microbiology, 98, 1-6.
+Bell JJ (2008) The functional roles of marine sponges. Estuarine, Coastal and Shelf Science, 79, 341-353.
+Bhagwat AA, Ying ZI, Smith A (2014) Evaluation of ribosomal RNA removal protocols for Salmonella RNA-Seq projects. Advances in Microbiology, 04, 25-32.
+Bohlin J, Skjerve E, Ussery DW (2008) Investigations of oligonucleotide usage variance within and between prokary- otes. PLoS Computational Biology, 4, e1000057.
+Bolger AM, Lohse M, Usadel B (2014) Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics (Oxford, England), 30, 2114-2120.
+Bonifait L,  de  la  Cruz  Dominguez-Punaro  M,  Vaillancourt  K  et al. (2010) The cell envelope subtilisin-like proteinase is a virulence determinant for Streptococcus suis. BMC Microbiol- ogy, 10, 42.
+
+Bork P (1993) Hundreds of ankyrin-like repeats in functionally diverse proteins: mobile modules that cross phyla horizon- tally? Proteins, 17, 363-374.
+BroEURms  JE,  Edqvist  PJ,  Forsberg  Adeg,  Francis  MS  (2006)  Tetratri-
+copeptide repeats  are  essential  for  PcrH  chaperone  function in Pseudomonas aeruginosa type III secretion. FEMS Microbiol- ogy Letters, 256, 57-66.
+BruEURggemann  H,  Cazalet  C,  Buchrieser  C  (2006)  Adaptation  of
+Legionella pneumophila to the host environment: role of pro- tein secretion, effectors and eukaryotic-like proteins. Current Opinion in Microbiology, 9, 86-94.
+Burgsdorf I, Slaby BM, Handley KM et al. (2015) Lifestyle evo- lution in cyanobacterial symbionts of sponges. MBio, 6, e00391-15.
+BuEURttner  CR,  Sorg  I,  Cornelis  GR,  Heinz  DW,  Niemann  HH
+(2008) Structure of the Yersinia enterocolitica Type III secretion translocator chaperone SycD. Journal of Molecular Biology, 375, 997-1012.
+Cazalet  C,  Rusniok  C,  BruEURggemann  H  et al.  (2004)  Evidence  in
+the Legionella pneumophila genome for exploitation of host cell functions and high genome plasticity. Nature Genetics, 36, 1165-1173.
+Celaj A, Markle J, Danska J, Parkinson J (2014) Comparison of assembly algorithms for  improving  rate  of  metatranscrip- tomic functional annotation. Microbiome, 2, 1-13.
+Cerveny L, Straskova A, Dankova V et al. (2013) Tetratri- copeptide repeat motifs in the world of bacterial pathogens: role in virulence mechanisms. Infection and Immunity, 81, 629-635.
+Chakraborty S, Monfett M, Maier TM et al. (2008) Type IV Pili   in Francisella tularensis: roles of pilF and pilT in fiber assem- bly, host cell adherence, and virulence. Infection and  Immu- nity, 76, 2852-2861.
+Conaco C, Tsoulfas P, Sakarya O et al. (2016) Detection of prokaryotic genes in the Amphimedon queenslandica genome. PLoS One, 11, e0151092.
+Corfield T (1992) Bacterial sialidases - roles  in  pathogenicity  and nutrition. Glycobiology, 2, 509-521.
+Costa TRD, Felisberto-Rodrigues C, Meir A et al. (2015) Secre- tion systems in Gram-negative bacteria: structural and mech- anistic insights. Nature Reviews Microbiology, 13, 343-359.
+Daly GM, Leggett RM, Rowe W et al. (2015) Host subtraction, filtering and assembly validations for novel viral discovery using next generation sequencing data (IK Jordan, Ed). PLoS One, 10, e0129059.
+D'Andrea LD, Regan L (2003) TPR proteins: the versatile helix.
+Trends in Biochemical Sciences, 28, 655-662.
+Deschavanne PJ, Giron A, Vilain J, Fagot G, Fertil B (1999) Genomic signature: characterization and classification of spe- cies assessed by chaos game representation of sequences. Molecular Biology and Evolution, 16, 1391-1399.
+Dick GJ, Andersson AF, Baker BJ et al. (2009) Community-wide analysis of microbial genome sequence signatures. Genome Biology, 10, R85.
+Dillies M-A, Rau A, Aubert J et al. (2013) A comprehensive evaluation of normalization methods for Illumina high- throughput RNA sequencing data analysis. Briefings in Bioin- formatics, 14, 671-683.
+Dubuisson JF (2005) Tol-Pal proteins are critical cell envelope components of Erwinia chrysanthemi affecting cell  morphol- ogy and virulence. Microbiology, 151, 3337-3347.
+
+
+
+Edgar RC (2010) Search and clustering orders  of  magnitude  faster than BLAST. Bioinformatics (Oxford, England), 26, 2460- 2461.
+Edqvist  PJ,  BroEURms  JE,  Betts  HJ  et al.  (2006)  Tetratricopeptide repeats in the type  III  secretion  chaperone,  LcrH:  their  role  in substrate binding and secretion. Molecular Microbiology, 59, 31-44.
+Esteves AIS, Amer N, Nguyen M, Thomas T (2016) Sample processing impacts the viability  and  cultivability  of  the  sponge microbiome. Frontiers in Microbiology, 7, 7836.
+Fan L, Reynolds D, Liu M et al. (2012)  Functional equivalence and evolutionary convergence in complex communities of microbial sponge symbionts. Proceedings of the National Acad- emy of Sciences, USA, 109, E1878-E1887.
+Fan L, Liu M, Simister R, Webster NS, Thomas T (2013) Marine microbial symbiosis heats up: the phylogenetic and func- tional response of a sponge holobiont to thermal stress. The ISME Journal, 7, 991-1002.
+de Felipe KS, Pampou S,  Jovanovic OS et al. (2005) Evidence    for acquisition of Legionella type IV secretion substrates via interdomain horizontal gene transfer. Journal of Bacteriology, 187, 7716-7726.
+Fiore CL, Labrie M, Jarett JK, Lesser MP (2015) Transcriptional activity of the giant barrel sponge, Xestospongia muta Holo- biont: molecular Evidence for Metabolic Interchange. Fron-  tiers in Microbiology, 6, 364.
+Frias-Lopez J, Shi Y, Tyson GW et al. (2008) Microbial commu- nity gene expression in ocean surface waters. Proceedings  of  the National Academy of Sciences, USA, 105, 3805-3810.
+Gao ZM, Wang Y, Tian RM et al. (2014) Symbiotic adaptation drives genome streamlining of the cyanobacterial sponge symbiont "Candidatus Synechococcus spongiarum". MBio, 5, e00079-14.
+Gautam S, Sharma A (2002) Involvement of caspase-3-like pro- tein in rapid cell death of Xanthomonas. Molecular Microbiol- ogy, 44, 393-401.
+Giannoukos G, Ciulla DM, Huang K et al. (2012) Efficient and robust RNA-seq process for cultured bacteria and complex community transcriptomes. Genome Biology, 13, R23.
+Godlewska R, Wi,sniewska K, Pietras Z, Jagusztyn-Krynicka EK
+(2009) Peptidoglycan-associated lipoprotein (Pal) of Gram- negative bacteria: function, structure, role in pathogenesis  and potential application in immunoprophylaxis. FEMS Microbiology Letters, 298, 1-11.
+Gomez-Alvarez V, Teal TK, Schmidt TM (2009) Systematic arti- facts in metagenomes from complex microbial communities. The ISME Journal, 3, 1314-1317.
+Gomez-Valero L, Neou Bonora  M,  Gribaldo  S,  Buchrieser  C (2013) Interdomain Horizontal Gene Transfer Shaped the Genomes of Legionella pneumophila and Legionella longbeachae, pp. 199-
+219. Springer, New York, New York.
+Grabherr MG, Haas BJ, Yassour M et al. (2011) Full-length tran- scriptome assembly from RNA-Seq data without a reference genome. Nature Biotechnology, 29, 644-652.
+Habyarimana F, Al-khodor S, Kalia A et al. (2008) Role for the Ankyrin eukaryotic-like genes of Legionella pneumophila in parasitism of protozoan hosts and human macrophages. Environmental Microbiology, 10, 1460-1474.
+He S, Wurtzel O, Singh K et al. (2010) Validation of two riboso- mal RNA removal methods for microbial metatranscrip- tomics. Nature Methods, 7, 807-812.
+
+Hopkinson BM, Barbeau KA (2012) Iron transporters in marine prokaryotic genomes and metagenomes. Environmental Microbiology, 14, 114-128.
+Huson DH, Auch AF, Qi J,  Schuster SC  (2007) MEGAN analy- sis of metagenomic data. Genome Research, 17, 377-386.
+Iturbe-Ormaetxe I, Burke GR, Riegler M, O'Neill SL (2005) Distribution, expression, and motif variability of  ankyrin  domain genes in Wolbachia pipientis. Journal of Bacteriology, 187, 5136-5145.
+Jain P, Krishnan NM, Panda B (2013) Augmenting  transcrip-  tome assembly by combining de novo  and  genome-guided  tools. PeerJ, 1, e133.
+Job V, MatteEURi PJ, Lemaire D, Attree I, Dessen A (2010) Struc-
+tural basis of chaperone recognition of type III secretion sys-  tem minor translocator proteins. The Journal of Biological Chemistry, 285, 23224-23232.
+Jones P, Binns D, Chang HY et al. (2014) InterProScan 5: gen- ome-scale protein function classification.  Bioinformatics (Oxford, England), 30, 1236-1240.
+Kamke J, Rinke C, Schwientek P et al. (2014) The candidate phylum Poribacteria by single-cell  genomics:  new  insights into phylogeny, cell-compartmentation, eukaryote-like repeat proteins, and other genomic features  (M  Horn,  Ed).  PLoS  One, 9, e87353.
+Karlin  S,  Mr,azek  J,  Campbell  AM  (1997)  Compositional  biases
+of bacterial genomes  and  evolutionary  implications.  Journal  of Bacteriology, 179, 3899-3913.
+Kennan RM, Wong W, Dhungyel OP et al. (2010) The subtil- isin-like protease AprV2 is required for virulence and uses a novel disulphide-tethered exosite to bind substrates (CE Stebbins, Ed). PLoS Pathogens, 6, e1001210.
+Kohonen T (2001) Self-Organizing Maps, 3rd edn. Springer, Ber- lin, Heidelberg.
+Kopylova  E,  No,e  L,  Touzet  H  (2012)  SortMeRNA:  fast  and
+accurate filtering of ribosomal RNAs in metatranscriptomic data. Bioinformatics (Oxford, England), 28, 3211-3217.
+Kostic AD, Ojesina AI, Pedamallu CS et al. (2011) PathSeq: soft- ware to identify or discover microbes by deep sequencing of human tissue. Nature Biotechnology, 29, 393-396.
+Krogh A, Larsson B, von Heijne G, Sonnhammer ELL (2001) Predicting transmembrane protein topology with a hidden markov model: application to complete genomes. Journal of Molecular Biology, 305, 567-580.
+Langmead B, Salzberg SL (2012) Fast gapped-read  alignment  with Bowtie 2. Nature Methods, 9, 357-359.
+Langmead B, Trapnell C, Pop M, Salzberg SL (2009) Ultrafast and memory-efficient alignment of short DNA sequences to the human genome. Genome Biology, 10, R25.
+Lawrence JG, Ochman H (1997) Amelioration of bacterial gen- omes: rates of change and exchange. Journal of Molecular Evo- lution, 44, 383-397.
+Lazzaroni JC, Germon P, Ray MC, Vianney A (1999) The Tol proteins of Escherichia coli and their involvement  in  the  uptake of biomolecules and outer membrane stability. FEMS Microbiology Letters, 177, 191-197.
+Li B, Dewey CN (2011) RSEM: accurate  transcript  quantifica- tion from RNA-Seq data with or without a reference. BMC Bioinformatics, 12, 323.
+Li W, Godzik A (2006) Cd-hit: a fast program for clustering  and comparing large sets of protein or nucleotide sequences. Bioinformatics (Oxford, England), 22, 1658-1659.
+
+
+
+Liu M, Fan L, Zhong L, Kjelleberg S, Thomas T (2012) Metaproteogenomic analysis of a community of sponge sym- bionts. The ISME Journal, 6, 1515-1525.
+LuEURhrmann  A,  Nogueira  CV,  Carey  KL,  Roy  CR  (2010)  Inhibi-
+tion of pathogen-induced apoptosis by a Coxiella burnetii type IV effector protein. Proceedings of the National Academy of Sciences, USA, 107, 18997-19001.
+Lurie-Weinberger MN, Gomez-Valero L, Merault N et al. (2010) The origins of eukaryotic-like proteins in Legionella pneu- mophila. International Journal of Medical Microbiology: IJMM, 300, 470-481.
+Mande SS, Mohammed MH, Ghosh TS (2012) Classification of metagenomic sequences: methods and challenges. Briefings in Bioinformatics, 13, 669-681.
+Mavromatis K, Doyle CK, Lykidis A et al. (2006) The genome     of the obligately intracellular bacterium Ehrlichia canis reveals themes of complex membrane structure and immune evasion strategies. Journal of Bacteriology, 188, 4015-4023.
+Moeck GS, Coulton JW (1998) TonB-dependent iron acquisi- tion: mechanisms of siderophore-mediated active transport. Molecular Microbiology, 28, 675-681.
+Mohammed MH, Chadaram  S,  Komanduri  D,  Ghosh  TS,  Mande SS (2011) Eu-Detect: an algorithm for detecting eukaryotic sequences in metagenomic data sets. Journal of Biosciences, 36, 709-717.
+Moitinho-Silva L, Seridi L, Ryu T et al. (2014) Revealing micro- bial functional activities in the Red Sea sponge Stylissa carteri by metatranscriptomics. Environmental Microbiology, 16, 3683-
+3698.
+Moore RA, Warren RL, Freeman JD et al. (2011) The sensitivity of massively parallel sequencing for detecting candidate infectious agents associated with human tissue (IK Jordan, Ed). PLoS One, 6, e19838.
+Nawrocki EP, Eddy SR (2013) Infernal 1.1: 100-fold faster RNA homology searches. Bioinformatics (Oxford, England), 29, 2933- 2935.
+Nawrocki EP, Burge SW, Bateman A et al. (2015) Rfam 12.0: updates to the RNA families database. Nucleic Acids Research, 43, D130-D137.
+Nguyen MTHD, Liu M, Thomas T (2014) Ankyrin-repeat pro- teins from sponge symbionts modulate amoebal phagocyto- sis. Molecular Ecology, 23, 1635-1645.
+Niu B, Fu L, Sun S, Li W (2010) Artificial and natural dupli-  cates in pyrosequencing reads of metagenomic data. BMC Bioinformatics, 11, 187.
+Pallen MJ, Chaudhuri RR, Henderson IR (2003) Genomic analy- sis of secretion systems. Current Opinion in Microbiology, 6, 519-527.
+Pan  X,  LuEURhrmann  A,  Satoh  A,  Laskowski-Arce  MA,  Roy  CR
+(2008) Ankyrin repeat proteins comprise a diverse family of bacterial type IV effectors. Science (New York, NY), 320, 1651- 1654.
+Peano C, Pietrelli A,  Consolandi  C  et al.  (2013)  An  efficient  rRNA removal method for RNA  sequencing  in  GC-rich  bac-  teria. Microbial Informatics and Experimentation, 3, 1.
+Petersen TN, Brunak S, von Heijne G, Nielsen H (2011) SignalP 4.0: discriminating signal peptides from transmembrane regions. Nature Methods, 8, 785-786.
+Pride DT, Meinersmann RJ, Wassenaar TM, Blaser MJ (2003) Evolutionary implications of microbial genome tetranu- cleotide frequency biases. Genome Research, 13, 145-158.
+
+Quast C, Pruesse E, Yilmaz P et al. (2013) The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. Nucleic Acids Research, 41, D590-D596.
+Radax  R,  Rattei  T,  Lanz,en  A  et al.  (2012)  Metatranscriptomics
+of the marine sponge Geodia barretti: tackling phylogeny and function of its microbial community. Environmental Microbiol- ogy, 14, 1308-1324.
+Reynolds D, Thomas T (2016) Evolution and function of eukaryotic-like proteins (ELPs) from sponge symbionts. Molecular Ecology, 25, 5242-5253.
+Rice KC, Bayles KW (2008) Molecular control  of  bacterial  death and lysis. Microbiology and Molecular Biology Reviews, 72, 85- 109.
+Richards AM, Von Dwingelo JE, Price CT, Abu Kwaik Y (2013) Cellular microbiology and molecular ecology of Legionella- amoeba interaction. Virulence, 4, 307-314.
+Robinson MD, Oshlack A (2010) A scaling normalization method for differential expression analysis of RNA-seq data. Genome Biology, 11, R25.
+Robinson MD, McCarthy DJ, Smyth GK (2010) edgeR: a Bio- conductor package for differential expression analysis of dig-  ital gene expression data. Bioinformatics (Oxford, England), 26, 139-140.
+Rodionov DA, Vitreschak AG, Mironov AA (2002)  Compara-  tive genomics of thiamin biosynthesis in procaryotes  New  genes and regulatory mechanisms. The Journal of Biological Chemistry, 277, 48949-48959.
+Ryu T, Seridi L, Moitinho-Silva L et al. (2016) Hologenome analysis of two marine sponges with different microbiomes. BMC Genomics, 17, 158.
+Salomonsson EN, Forslund A-L, Forsberg Adeg (2011) Type IV pili
+in Francisella - A virulence trait in an intracellular  pathogen.
+Frontiers in Microbiology, 2, 29.
+Sandberg  R,  BrEURanden  C-I,  Ernberg  I,  CoEURster  J  (2003)  Quantify- ing the species-specificity in  genomic  signatures,  synony- mous codon choice, amino  acid  usage  and  G+C  content.  Gene, 311, 35-42.
+Sanders JG, Beinart RA, Stewart FJ, Delong EF, Girguis PR (2013) Metatranscriptomics reveal differences in in situ energy and nitrogen metabolism among hydrothermal vent snail symbionts. The ISME Journal, 7, 1556-1567.
+Sarkar N (1997) Polyadenylation of mRNA in prokaryotes.
+Annual Review of Biochemistry, 66, 173-197.
+Schauer K, Rodionov DA, de Reuse H (2008) New substrates for TonB-dependent transport: do we only see the 'tip of the iceberg'? Trends in Biochemical Sciences, 33, 330-338.
+Schloss PD, Westcott SL, Ryabin T et al. (2009) Introducing mothur: open-source, platform-independent, community-sup- ported software for describing and comparing microbial com- munities. Applied and Environmental Microbiology, 75, 7537-7541.
+Schmieder R, Edwards R (2011a) Fast identification and removal of sequence contamination from genomic and metagenomic datasets. PLoS One, 6, e17288.
+Schmieder R, Edwards R (2011b) Quality control and prepro- cessing of metagenomic datasets. Bioinformatics (Oxford, Eng- land), 27, 863-864.
+Schmitt S, Angermeier H, Schiller R, Lindquist N, Hentschel U (2008) Molecular microbial diversity survey of sponge repro- ductive stages and mechanistic insights into vertical trans- mission of microbial symbionts. Applied and Environmental Microbiology, 74, 7694-7708.
+
+
+
+Shultis DD, Purdy MD, Banchs CN, Wiener MC (2006) Outer membrane active transport: structure of the BtuB:TonB  complex. Science (New York, NY), 312, 1396-1399.
+Sipkema D, de Caralt S, Morillo JA et al. (2015) Similar sponge- associated bacteria can be acquired via both vertical and hor- izontal transmission. Environmental Microbiology, 17, 3807-
+3821.
+
+
+
+C.D.-V., S.N. and T.T. designed the research. C.D.-V. performed the preparation of samples. C.D.-V., S.N., L M-S and D.R. analysed the data. C.D.-V. and T.T. wrote the manuscript with input from the other authors.
+
+Stewart FJ (2013) Preparation of microbial community cDNA	 	
+for metatranscriptomic analysis in marine plankton. Methods in Enzymology, 531, 187-218.
+
+Taylor M, Radax R, Steger D, Wagner M (2007) Sponge-asso- ciated microorganisms: evolution, ecology, and biotechnolog- ical potential. Microbiology and Molecular Biology Reviews, 71, 295-347.
+Thomas T, Rusch D, DeMaere MZ et al. (2010) Functional geno- mic signatures of sponge bacteria reveal unique and shared features of symbiosis. ISME J, 4, 1557-1567.
+Tian R-M, Wang Y, Bougouffa S et al. (2014) Genomic analysis reveals versatile heterotrophic capacity of a potentially sym- biotic sulfur-oxidizing bacterium in sponge. Environmental Microbiology, 16, 3548-3561.
+Ultsch  A,  MoEURrchen  F  (2005)  ESOM-Maps:  tools  for  clustering, visualization, and classification with Emergent SOM.  Techni- cal Report of the Department of Mathematics and Computer Science, University of Marburg, Germany, 46, 1-7.
+Vacelet  J,  Donadey  C  (1977)  Electron  microscope  study  of  the association between  some  sponges  and  bacteria.  Journal  of Experimental Marine Biology and Ecology, 30, 301-314.
+Versluis D, D'Andrea MM, Ramiro-Garcia J et al. (2015) Mining microbial metatranscriptomes for expression of antibiotic resistance genes under  natural  conditions.  Scientific  Reports,  5, 11981.
+Voth DE, Howe D, Beare PA et al. (2009) The Coxiella burnetii ankyrin repeat domain-containing protein family is hetero- geneous, with C-terminal truncations that influence Dot/ Icm-mediated secretion. Journal of Bacteriology, 191, 4232- 4242.
+Wall DM, McCormick BA (2014) Bacterial  secreted  effectors  and caspase-3 interactions. Cellular Microbiology, 16, 1746- 1756.
+Wang Q, Garrity GM, Tiedje JM, Cole JR (2007) NaEURive Bayesian classifier for rapid assignment of  rRNA  sequences  into  the new bacterial taxonomy. Applied and Environmental Microbiol- ogy, 73, 5261-5267.
+Wiggins R, Hicks SJ, Soothill PW, Millar MR, Corfield AP (2001) Mucinases and sialidases: their role in the pathogen- esis of sexually transmitted infections in the female genital tract. Sexually Transmitted Infections, 77, 402-408.
+Wilkinson CR, Garrone R, Vacelet J (1984) Marine sponges discriminate between food bacteria and bacterial symbionts: electron microscope radioautography and in situ evidence. Proceedings of the Royal Society B: Biological Sciences, 220, 519- 528.
+Williams LE, Wernegreen JJ (2015) Genome evolution in an ancient bacteria-ant symbiosis: parallel gene loss among Blochmannia spanning the origin of the ant  tribe  Campono-  tini. PeerJ, 3, e881.
+Yi H, Cho YJ, Won S et al. (2011) Duplex-specific nuclease effi- ciently removes rRNA for  prokaryotic  RNA-seq.  Nucleic  Acids Research, 39, e140.
+
+Data accessibility
+All raw sequences used in this study are publicly avail- able at the NCBI Sequence Read Archive (SRA,   under Accession ID SRP061923. Details of the Run ID and file names as uploaded at SRA can be found in Table S1. Assembled transcripts are available from the Dryad Digital Reposi- tory: 
+
+
+
+Supporting information
+Additional supporting information may be found in the  online version of this article.
+Fig. S1 Agilent Bioanalyzer Electropherograms from three dif- ferent Cymbastella concentrica individuals (Ind1, Ind2, Ind3) and two technical replicates (a-b).
+
+Fig.  S2  Percentages  of  the  RNA  type  in   the   samples   after Ribo-Zero (RZ) and Terminator (TM) rRNA removal methods.
+
+Fig. S3 Taxonomy and percentages of the rRNA reads remain- ing after Ribo-Zero (RZ) and Terminator (TM) protocols.
+
+Fig. S4 Frequency plot for the reads mapping eukaryotic tran- scripts at different score values.
+
+Fig. S5 Scatterplots of transcript expression levels (CPM) between technical replicates (a vs. b) for three individuals (Ind1, Ind2, Ind3) by two rRNA removal methods (RZ and TM).
+
+Fig. S6 Scatterplots of transcripts expression levels between Meta-Cym-RZ (A) and Meta-Cym-TM (B) expressed by both sets of reads.
+
+Fig. S7 The comparison of deviance explained from negative binomial GLMs examining the deviance (variation) in transcript expression levels between sponge individuals  (biological deviances, n = 3) and technical replicates (n = 2 for each sponge individual).
+
+Fig. S8 ESOM of metatranscriptomic sequences from Meta-Sco based on tetranucleotide frequency.
+
+Fig. S9 Relationship between the square root-transformed rela- tive abundance of non-ELP encoding transcripts and ELP encoding transcripts for the three sponges (A) Cymbastella con- centrica, (B) Scopalina sp. and (C) Tedania anhelens.
+
+
+
+Table S1 Summary of read numbers and percentages through the process of (A) quality control and filtering for the poly(A) dataset (B) and the non poly(A) dataset for three sponge species.
+
+Table S2 Phylum-level taxonomic classification of transcripts encoding ELPs separated by ELP class for (A) Cymbastella concen- trica, (B) Scopalina sp. and (C) Tedania anhelens.
+
+Table S3 A list of co-occurred or cotranscribed domains for each ELP class in (A) Cymbastella concentrica, (B) Scopalina sp. and (C) Tedania anhelens. Equivalent names in different databases are indicated by an equal symbol '='.
+
+Table S4 Table summarizing information (i.e. length, expression values, ELP class, known domains, etc.) of each ORF identified  for HC transcripts encoding ELPs in (A) Cymbastella concentrica and (B) Scopalina sp.
+
+Appendix S1 Information about the different ELP classes and a brief description of them.
+
+Appendix S2 Details on the taxonomic assignment of remaining rRNA sequences.
+
+Appendix S3 Details on technical reproducibility and transcript information.

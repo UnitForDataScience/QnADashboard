@@ -1,0 +1,437 @@
+Microb Ecol (2017) 73:521-531 DOI 10.1007/s00248-016-0875-9
+
+
+Experimental Climate Change Modifies Degradative Succession in Boreal Peatland Fungal Communities
+Asma Asemaninejad1 & R. Greg Thorn1 & Zoe Lindo 1
+
+
+
+
+
+
+Received: 24 August 2016 / Accepted: 3 October 2016 / Published online: 15 October 2016
+# Springer Science+Business Media New York 2016
+
+
+Abstract Peatlands play an important role in global climate change through sequestration of atmospheric CO2. Climate- driven changes in the structure of fungal communities in bo- real peatlands that favor saprotrophic fungi can substantially impact carbon dynamics and nutrient cycling in these crucial ecosystems. In a mesocosm study using a full factorial design, 100 intact peat monoliths, complete with living Sphagnum and above-ground vascular vegetation, were subjected to three climate change variables (increased temperature, reduced wa- ter table, and elevated CO2 concentrations). Peat litterbags were placed in mesocosms, and fungal communities in litter- bags were monitored over 12 months to assess the impacts of climate change variables on peat-inhabiting fungi. Changes in fungal richness, diversity, and community composition were assessed using Illumina MiSeq sequencing of ribosomal DNA (rDNA). While general fungal richness reduced under warming conditions, Ascomycota exhibited higher diversity under increased temperature treatments over the course of the experiment. Both increased temperature and lowered water table position drove shifts in fungal community composition with a strong positive effect on endophytic and mycorrhizal fungi (including one operational taxonomic unit (OTU) tenta- tively identified as Barrenia panicia) and different groups of saprotrophs identified as Mortierella, Galerina, and Mycena. These shifts were observed during a predicted degradative
+
+succession in the decomposer community as different carbon substrates became available. Since fungi play a central role in peatland communities, increased abundances of saprotrophic fungi under warming conditions, at the expense of reduced fungal richness overall, may increase decomposition rates un- der future climate scenarios and could potentially aggravate the impacts of climate change.
+
+Keywords Ascomycota . Climate change . Degradative succession . Fungi . Illumina MiSeq . Peatlands
+
+Abbreviations
+BLAST	Basic Local Alignment Search Tool LSU	Large subunit
+NGS	Next generation sequencing OTU	Operational taxonomic unit PCR	Polymerase chain reaction rDNA	Ribosomal DNA
+PCA	Principal component analysis ANOVA	Analysis of variance
+ALDEx	ANOVA-like differential expression procedure MiRKAT	Microbiome Regression-based Kernel
+Association Test
+
+
+ 		Introduction
+Electronic supplementary material The online version of this article
+
+(doi:9) contains supplementary material, which is available to authorized users.
+
+Boreal peatlands are wetland ecosystems that contain 10-
+
+ 		20 % of the global terrestrial carbon [] despite representing
+
+* Zoe Lindo
+
+
+1 Department of Biology, The University of Western Ontario, London, Ontario N6A 5B7, Canada
+
+just 3 % of the earth surface []. This huge amount of carbon is stored due to the imbalance between a low rate of photosyn- thesis (uptake of CO2) by plants and an even lower rate of decomposition (release of CO2) through microorganisms []. Northern peatlands are at the latitude where the greatest global
+
+
+
+warming is predicted to happen [], making them highly sus- ceptible to climate change that is subject to anthropogenic and natural forcing []. Increases in air and soil temperature, ele- vated atmospheric CO2 levels, and lowered water table con- ditions are all environmental factors expected to be experi- enced by boreal peatlands in the future []. Whether and how these changes will affect the balance between ecosystem productivity and carbon sequestration as well as ecosystem respiration and carbon release remains unknown, but a key player in the overall equation will be the response of biotic communities that regulate these processes.
+Peatlands are renowned for highly diverse microbial com- munities of broad metabolic diversity and enzymatic activities
+[] that can influence each other through competitive interac- tions and also be affected by environmental conditions []. Decomposition of organic matter and nutrient cycling pro- cesses in peatlands are performed by different groups of Fungi (such as saprotrophs, ectomycorrhizal fungi, endomycorrhizal fungi, and ericoid mycorrhizal fungi), Archaea, and Bacteria [, ]. Possible changes in fungal com- munity composition due to climate change that favor saprotrophic decomposers at the expense of other microbial groups could have a dramatic and crucial impact on the carbon sequestration pattern in boreal peatlands, potentially releasing previously sequestered carbon and exacerbating climate change []. Increases in temperature could directly increase the abundance and activity of competitive fungal species fa- vored by warm conditions and indirectly influence fungal communities through a lowering of the water table providing more habitat for aerobic fungi, in particular saprotrophs, that can accelerate the rate of decomposition especially of deep peat. Changes in climate may also indirectly influence fungal communities via changes in plant community structure through mycorrhizal associations and changes in the chemical and physical environment for decomposition processes []. For instance, plant growth under increased CO2 concentra- tions may lead to increased lignin/nitrogen ratios in litter, which could consequently shift fungal community composi- tion and potentially slow rates of decomposition [].
+The significance of fungal communities has been repeated- ly pointed out as the key element in many ecosystem process- es such as carbon turnover and sequestration in peatlands that can significantly affect global climate change [, ]. There are several studies addressing the individual effect of climate change factors (mainly increased temperature, elevated atmo- spheric CO2, and lowered water table position associated with predicted climate change) on fungal communities and fungal
+activities [-]. However, to the best of our knowledge,
+there are no studies focusing on combined effect of these three factors on the composition of fungal communities inhabiting boreal peatlands, suggesting that our knowledge of the inter- actions among these multiple drivers that are expected to play simultaneously under climate change scenarios is very
+
+limited. Furthermore, previous studies based on laboratory cultivation (e.g., Thormann et al. []), or DNA sequencing methods [, ], likely under-represent many fungal groups as they are difficult to culture from soil or other complex substrates [], or suffered from problems of poor sequence coverage or lacked details about the structure of fungal com- munities in these important ecosystems. As such, the results of many previous studies of fungal communities in boreal peatlands suggest that various groups of fungi and their func- tions have been under-represented, possibly due to the choice of inappropriate genetic markers or improper data analyses [, ].
+Here, we take advantage of a manipulative experimental design in which intact peat cores were subjected to artificially altered temperature, carbon dioxide concentration, and hy- drology in a full factorial design in a state-of-the-art green- house at Western (the Biotron). Our study was performed as part of a larger experimental project described by Dieleman et al. [, ] and Lindo []. Work by Dieleman et al. focused mainly on the climate-driven changes in above-ground plant communities [], rate of decomposition, and porewater- dissolved organic carbon []. Lindo focused on changes in the body size of soil microarthropods under warming treat- ments []. Results from these studies demonstrate a shift in above-ground and below-ground communities in favor of graminoids, ericaceous shrubs and small-bodied faunal species, alongside increased rates of decomposition and carbon loss through dissolved organic carbon under warming treatments. None of these studies focused on the important changes in fungal communities. We use two newly developed ribosomal DNA (rDNA) primer sets, one that directly targets the phylum Ascomycota and another that recovers all other fungal phyla [], to examine the effects of experimental climate change on fungal communities from a well-characterized nutrient-poor boreal peatland. Specifically, we evaluated the hypothesis that changes in temperature, atmospheric CO2 concentration, and water table position associated with future climate change will result in a shift in fungal community com- position in the favor of saprotrophs and, correspondingly, the pattern of degradative succession.
+
+
+Material and Methods
+
+Experimental Design
+
+In August 2012, 100 cylindrical intact peat cores (each ap- proximately 25 l in volume and 40 cm in depth) complete with above-ground moss, herbaceous, and shrubby vegetation were collected from a well-characterized nutrient-poor fen near White River, Ontario, Canada (for site description, see []). Each mesocosm (peat core) was transferred into a 5-gal. pail with a drainage port near the base fitted with a clear hose
+
+
+
+held vertically to assess the internal water level. All mesocosms were transported to the Western University's Biotron Environmental Climate Change Research Centre in London, Ontario, where they acclimated at ambient tempera- ture and CO2 conditions for 3 months, during which the above-ground vegetation was characterized []. Prior to ex- perimental deployment, 12 mesocosms were destructively sampled to obtain peat from the top 5 cm of each core. This peat was homogenized, subsampled for moisture content, and
+subsequently used to fill 252 nylon mesh litterbags (10 cm x 7 cm with 1 mm mesh) each with approximately 25 g (fresh weight) of composited and root-free peat. Litterbags were placed in triplicate 10-15 cm deep in each mesocosm for removal of one litterbag every 4 months (at 4, 8, and 12 months) for fungal DNA extraction.
+Experimental deployment (December 2012) placed the 84 intact peat mesocosms into full factorial treatments of water table (lowered, saturated), atmospheric CO2 (ambient,
+~430 ppm; elevated, 750 ppm), and temperature (ambient,
+ambient + 4 degC, and ambient + 8 degC) across six experimental chambers as described in Dieleman et al. []. Experimental chambers are state-of-the-art, environmentally controlled, Biosafety Level 2 greenhouses; combinations of each temper- ature and CO2 conditions were controlled and regulated for each chamber using a fully automated system (Argus Control Systems Ltd., White Rock, BC, Canada). Winter and summer growing conditions differed with respect to temperature re- gimes (see [] for full details). Briefly, since temperatures below 10 degC could not be reliably managed by the infrastruc- ture in the experimental chambers, from November to April, the ambient temperature was static at the average temperature of the growing season in the sample location (11.5 degC); ele- vated temperature treatments were set at 15.5 and 19.5 degC. From May to October, the ambient temperature was set to a fluctuating average daily temperature (per hour) based on the past 5 years in London, Ontario; the average summer temper- ature for the ambient treatment was 16.9 degC. Elevated temper- ature offsets of + 4 and + 8 degC followed accordingly. For high latitudes and boreal regions of Canada, future elevated tem- peratures of + 8 degC have been estimated by the end of the twenty-first century []. Fourteen mesocosms were placed within each of six experimental greenhouse chambers: seven replicates under a saturated water table condition where the water table was 5 cm below the peat surface and seven repli- cates under a lowered water table condition with the water table 25 cm below the peat surface. Simulated rain events were applied twice a week using 750 ml of pH-adjusted
+Rudolph's solution as appropriate for Sphagnum mosses []. Water (reverse osmosis) was also added daily below the surface moss layer of each mesocosm to keep the water table condition constant over the year.
+Due to logistical reasons, replication at the chamber level was not possible; however, every consideration to minimize
+
+within or across chamber effects was taken. Specifically, the six experimental chambers were flanked by non-experimental greenhouse units to prevent any climate or light edge effect. During the experiment, every 6 months, the experimental con- ditions specific to a chamber were changed and all mesocosms moved to new replicate conditions to remove any potential chamber effects. Every month, within each chamber, all mesocosms were randomly relocated to prevent any possible within-chamber microclimate effects.
+
+DNA Extraction
+
+Subsamples of peat used to create litterbags (time point T0 litters) and from litterbags collected after 4, 8, and 12 months of experimental treatment were freeze-dried for 48 h and ho- mogenized, and an aliquot immersed in liquid nitrogen and ground to a fine powder with mortar and pestle. Total genomic DNA was extracted from 25 mg (dwt) of each sample of peat
+moss from each sample using a Zymo Soil DNA isolation kit according to the manufacturer's instructions (Zymo Research Corporation). To measure the quality of DNA extraction, ge- nomic DNA was quantified by NanoDrop 2000 (Thermo Scientific) then 2 mL of DNA extract was run on a 1.5 % agarose gel in 1x TAE buffer to confirm that DNA isolation was successful and then stored at -20 degC in aliquots until PCR amplification.
+
+PCR Protocol
+
+PCR was performed using two sets of primers, LSU200A-F (AA C KG CG AGT GAA GCRG YA)/L S U 4 76A - R
+(CSATCACTSTACTTGTKCGC) to capture Ascomycota, and LSU200-F ( AACKGCGAGTGAAGMGGGA)/ LSU481-R (TCTTTCCCTCACGGTACTTG) to amplify all
+other fungi (mostly consisting of Basidiomycota, Chytridiomycota, and Zygomycota). These primers amplify an approximately 300-bp region of the rDNA large subunit (LSU) and outperform some of the existing ITS primers by providing a broader range of fungal biodiversity, but at the expense of a higher range of non-target taxa []. Illumina sequencing adapters and distinctive 8-base barcode sequences were attached to the 5' end of forward and reverse primers, as fully described in Asemaninejad et al. []. PCR reactions were prepared in a total volume of 25 mL, with 1 mL of tem- plate DNA (20 ng), 12.5 mL of ToughMix (Quanta Biosciences), and 1.25 mL each of forward and reverse
+primers (5 mM). Reactions were run in a thermocycler (T300 Thermocycler, Biometra) with initial denaturation of 94 degC for 120 s, followed by 29 cycles of denaturation at 94 degC for 30 s, annealing at 62 degC for 30 s (for Ascomycota primers, anneal- ing temperature was 55 degC in the first cycle and 62 degC for the rest of the cycles), and elongation at 72 degC for 18 s []. A Qubit fluorometer with the dsDNA HS kit (Life Technologies)
+
+
+
+was used to evaluate the concentration of DNA that can be used as a basis to normalize PCR products. The normalized PCR products were submitted to the London Regional Genomics Centre (Robarts Research Institute, London, Canada) for paired-end sequencing in an Illumina MiSeq se- quencer using the 2 x 300-bp V3 chemistry.
+
+Bioinformatic Analysis
+
+For each primer set, two MiSeq runs were performed gener- ating four multiplexed runs. Bioinformatic analyses were done separately for each run, and raw FASTQ data were processed through a custom MiSeq pipeline ( ). Before running the analysis, the sequences of LSU200-F/LSU481-R and LSU200A-F/LSU476A-R primers were manually inserted in the primer_sequence.txt file. Sequenced amplicons were checked for quality using a log-odds scale. All sequences with errors including incomplete match in primer or barcode se- quence, ambiguous bases in forward or reverse read, and am- biguous bases in overlapped region (Q score <10) were discarded. The rest of the sequences were distinguished by the unique combination of forward and reverse barcodes in each sequence. These sequences were pairwise aligned using PANDAseq () [] witha minimum overlap length of 30 nucleotides. Pre-clustering was performed to merge sequences containing identical reads to get identical sequence units (ISUs), and the UCHIME algo- rithm was used to check for chimeras []. Chimeras were removed and then ISUs were clustered into operational taxo- nomic groups (OTUs) at 97 % similarity using the UCLUST clustering algorithm within USEARCH v7.0.1090 []. Only sequence reads with total abundance of more than 0.1 % in each sample were kept in the sample-mapped OTU table. The seed sequences were subjected to online RDP Classifier [] using the Fungal LSU Training set 11 as a reference database (). Since many real fungi cannot be confidently identified by RDP Classifier due to the lack of reference sequence data [], all the sequences identified with 50 % confidence score at the order level were kept for downstream statistical analyses. Identification was re-performed for the indicator OTUs, iden- tified with a confidence score of less than 80 % at the genus level, in each sampling point using BLAST in order to attain clearer identification of the under-represented taxa within the RDP database. Sequences have been deposited in the ENA website (European Nucleotide Archive) under accession num- ber PRJEB14309.
+
+Statistical Analyses
+
+The data were rarified [], and richness (S = number of observed OTUs) and diversity (H' = Shannon index) based on
+
+final target OTUs were calculated for each sample and analyzed using a three-way, repeated-measures analysis of variance in Statistica 7 []. Since high-throughput sequencing DNA is extracted from a small proportion of an environmental sample and the amplified DNA is also only a portion of DNA present in the sample, OTU-based multivariate community-level analyses need to account for a higher than expected rate of randomness compared to other types of community data []. As such, we transformed the raw OTU sequence data using a centered log ratio where the log2 of each OTU value is subtracted from the log2 of the geometric mean of all OTUs present in the sample []. This transformation maintains the 1:1 conformity between the original OTU counts and keeps the data on a common scale [].
+At the community level, a compositional PCA biplot anal- ysis was run on the reduced data set (containing OTUs with ratio of at least 1 % in the samples) using the Bcompositions^ package [] in R (version 3.2.3). To detect the drivers of the variation explained by the first two PCA components, PC axis scores for the first two principal components were analyzed through ANOVA for the primary effect of temperature, water table position, and atmospheric CO2 concentration. To mea- sure the similarity of fungal community composition within and between treatments, and to further interpret and clarify the compositional biplot, clustering analysis was done using the Ward.D2 method. To test the effect of each of three environ- mental factors (temperature, CO2, water table) on the variation observed in fungal community composition under different treatments, a Microbiome Regression-based Kernel Association Test (MiRKAT) was applied using the BALDEx2^ and BMiRKAT^ packages in R (version 3.2.3). ALDEx2 was used to transform the data (centered log-ratio), while MiRKAT was used to elucidate which variable is the main driver of change in fungal community composition []. A subsequent ANOVA-like differential expression procedure (ALDEx) developed by Fernandes et al. [] was performed in R (version 3.2.3) using the ALDEx2 package to identify the OTUs with greater variance between treatments than within treatments (i.e., the OTUs that are truly responding to the treatment not to the sample variation). A Benjamini- Hochberg false discovery rate (FDR) correction was used to correct raw p values under multiple comparisons as recom- mended for large datasets [].
+
+
+Results
+
+Initial Fungal Community Composition Before Treatment
+
+A total of 4,258,834 sequences were produced using LSU200A-F/LSU476A-R primers targeting the Ascomycota (1,704,160 sequences) and LSU200-F/LSU481-R targeting the remaining fungal community (2,554,674 sequences) in
+
+
+
+12 replicates of the initial (T0) litter used to make the litter- bags. After removal of non-target reads in each data set (85,208 and 740,855 reads, respectively), the remaining target sequences generated 79 genera in 47 families, 27 orders, and 7 classes from Ascomycota, and 101 genera in 58 families, 32 orders, and 11 classes from other fungal community. Among Ascomycota members of Leotiomycetes, Sordariomycetes and Eurotiomycetes showed the highest relative frequencies (Supplementary Fig. 1A) while looking at other fungal com- munity, members of Agaricomycetes, unclassified fungi be- longing to Zygomycota, and Chytridiomycetes had the most reads compared to other taxa (Supplementary Fig. 1B). The initial richness (the number of observed OTUs) and OTU diversity in 12 replicates of starting material (T0) showed no obvious differences for either Ascomycota (average S = 171.7
++- 2.87 SE; average H' = 3.24 +- 0.06 SE) or other fungal groups (average S = 452.35 +- 2.59 SE; average H' = 3.59 +- 0.10 SE).
+
+Fungal Community Composition in Litterbags
+
+Primers targeting Ascomycota (LSU200A-F/LSU476A-R) generated a total of 7,913,141 sequences and primers targeting other fungi (LSU200-F/LSU481-R) produced a total of 14,998,839 sequences from 108 litterbags resulting in 7,359,221 and 10,499,187 target reads, respectively, which represented 93 genera in 51 families, 27 orders, and 7 classes of Ascomycota, and 94 genera in 58 families, 32 orders, and 11 classes of other fungi. Among all OTUs identified with at least 50 % confidence score at the order level, the most fre- quent Ascomycetous OTUs identified in litterbags collected after 4 months of treatment were still members of Leotiomycetes, Sordariomycetes, and Eurotiomycetes. However, there was a noticeable increase in the relative fre- quency of Sordariomycetes after 8 and 12 months. Among the subdominant groups, noticeable increases in Saccharomycetes and Pezizomycetes were observed after 8 and 12 months, re- spectively (Supplementary Fig. 1a). Among the other fungi, the members of Agaricomycetes continued to be the most dominant group, increasing in relative frequency with time. Zygomycota generally declined in relative frequency with time, while the Chytridiomycota showed a noticeable increase after 4 months, but declined after 8 and 12 months (Supplementary Fig. 1b). Monoblepharidomycetes, which was a minor group at the beginning of the experiment, in- creased in relative frequency over the course of the experi- ment. Microbotryomycetes were observed as a subdominant taxon after 4 and 8 months of experimental treatment.
+
+Treatment Effects on Fungal Community Composition in Litterbags
+
+While time was the main factor dictating changes in the fungal communities over the experiment, several analyses revealed
+
+that the fungal community responded to the experimental treatments. Ascomycota richness demonstrated an overall in- crease over time, but was significantly decreased under ele- vated temperature treatments such that the lowest Ascomycota richness was observed under the + 8 degC treatments after   12 months (time x temperature F4,48 = 4.00, P = 0.007) (Fig. ). The effect of CO2 treatment or hydrological changes on Ascomycota richness was not significant. Ascomycota di-
+versity (Shannon's H') was not significantly affected by any of
+the aforementioned environmental factors but increased over time (time F2,48 = 6.29, P = 0.004) (Fig. ). OTU richness of the other fungi decreased strongly over time (time F2,48 = 47.62, P < 0.001), with the largest decrease occurring in the + 8 degC treatments after 12 months (time x temperature F4,48 = 5.53, P = 0.001) (Fig. ). Fungal diversity was also significantly reduced through time (time F2,48 = 19.93,  P < 0.001) and highly affected by temperature increases of + 8 degC (temperature F2,48 = 7.26, P = 0.001) (Fig. ); however, there was no significant effect of lowered water table condi- tion or elevated atmospheric CO2 on fungal diversity.
+A compositional biplot PCA for the Ascomycota dataset explained 35.4 % of the variance in the first two axes (PC1 = 20.9 %, PC2 = 14.5 %), while 39.6 % of the variance in the other fungi was explained by the first two axes (PC1 = 23.3 %, PC2 = 16.3) in the second compositional biplot PCA (Fig. ). The first PC axis for the Ascomycota was significantly related to sampling time (F2,102 = 412.6, P < 0.001) and temperature (F2,102 = 16.1,
+P < 0.001), while the second axis was significantly related to water table (F1,102 = 29.4, P < 0.001) and temperature (F2,102 = 7.1, P = 0.001); positive PC1 scores are related to litterbags collected from + 8 degC, and positive PC2 scores are associated with litterbags from saturated treatments (Fig. ). Similarly, the first axis of the PCA biplot for other fungi was significantly related to  sampling time (F2,102 = 926.3,  P < 0.001) and temperature (F2,102 = 108.58, P < 0.001), while the second axis was significantly related to water table treatments (F1,102 = 129.1, P < 0.001); positive PC1 scores are related to litterbags collected from + 8 degC, and positive PC2 scores are associated with litterbags collected from saturated treatments (Fig. ).
+The results of clustering analysis for both taxonomic groups showed similar patterns of community composi- tional changes through time where litterbag samples col- lected after 4 months were similar to each other and dis- similar to litterbag samples collected after 8 and 12 months. The results of the MiRKAT were similar for both the Ascomycota and the other fungal groups. While there were no significant effects of CO2 concentration (P = 0.07 Ascomycota; P = 0.09 other fungi) on the variation in genus-level fungal community composition, both water ta- ble and temperature treatments led to compositional chang- es through time (all P values <0.001).
+
+
+Fig. 1 Changes in the richness (number of observed OTUs) of Ascomycota (a) and other fungi (c), and Shannon's diversity (H') of Ascomycota (b) and other fungi (d) under elevated temperature treatments from April 2013 (4 months) to December
+2014 (12 months) under experimental climate change
+
+a
+200
+
+190
+
+180
+
+170
+
+160
+
+
+
+
+
+
+
+
+
+
+4 months
+
+
+
+
+
+
+
+
+
+
+8 months
+
+
+
+
+
+
+
+
+
+
+12 months
+
+b
+3.10
+3.00
+2.90
+2.80
+2.70
+2.60
+
+
+
+
+
+
+
+
+
+
+4 months
+
+
+
+
+
+
+
+
+
+
+8 months
+
+
+
+
+
+
+
+
+
+
+12 months
+
+
+c
+500
+
+450
+
+400
+
+350
+
+300
+
+Sampling Time (months)
+
+
+d
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+
+Sampling Time (months)
+
+4 months
+
+8 months
+
+12 months
+
+4 months
+
+8 months
+
+12 months
+
+Sampling Time (months)	Sampling Time (months)
+
+
+Using ALDEx, the Ascomycetous OTUs identified with fairly high confidence at the genus level (with coverage score of 100 % and identity score of at least 96 %) revealed that there were six OTUs significantly affected by hydrology and six OTUs significantly affected by temperature treatments (Table ). Specifically, four OTUs (OTU 1 closely related to Barrenia panicia, OTU 412 identified as Penicillium, OTU 64 closely related to an endophyte, and OTU 157 closely related to Dactylaria sp.) increased greatly under drier, low water table conditions, while two OTUs (OTU 19 closely related to Dipodascopsis, and OTU 49 closely related to an endo- phyte) had noticeably higher proportional abundance under
+
+saturated conditions. Examining the temperature treatment ef- fects closer, OTUs 22, 13, and 33 related to Neofabraea, an endophyte and Mitrula, respectively, increased in proportional abundance with increased temperature treatment of + 8 degC, while OTUs 48 and 63 (closely related to an ericoid mycor- rhizal root fungus and an entomopathogen, respectively) dem- onstrated increased ratios under + 4 degC temperatures. OTU 5, closely related to Hyaloscypha, was more abundant under ambient treatments. One OTU (OTU 196), identified as an ericoid mycorrhizal root fungus, responded to both hydrology and temperature; it greatly increased under lowered water ta- ble and + 8 degC conditions.
+
+
+
+a	-0.4	-0.2	0.0	0.2	0.4
+
+b  -0.4    -0.3    -0.2   -0.1     0.0	0.1	0.2	0.3
+
+0.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-5	0	5
+PCA axis 1 (20.9%): Time x Temperature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-10	-5	0	5	10
+PCA axis 1 (23.3%): Time x Temperature
+
+Fig. 2 PCA biplot of Ascomycota (a) and other fungi (b) under increased temperature, elevated atmospheric CO2, and altered water table conditions. In both a and b, PCA axis 1 is driven by time and temperature treatments. PCA axis 2 in a is driven by temperature and water table, while water table only is the driver of PCA axis 2 in b. The
+
+effects of CO2 treatments on fungal communities were not significant. The OTUs in both biplots are representatives of the group of OTUs, identified through ALDEx tests that were identified as responding to experimental climate change treatments. The black dots in both a and b represent other OTUs present in peat samples
+
+
+Table 1	Indicator taxa significantly affected by hydrology and temperature treatments based on ALDEx results
+
+Hydrology effect	Temperature effect
+
+Effect size for water table treatments are positive values when indicating a positive effect of increased water table position, and negative when indicating a negative effect of lowered water table. Effect size for temperature treatments shows where a particular temperature treatment had a positive effect (increased ratio) of a particular fungus. The main or interactive effects of CO2 treatment with other factors on fungal community composition were not significant. OTU numbers are shown with their closest known identity based on BLAST and RDP Classifier; functional designations are based on the literature where known
+a References for the functions can be found in Supplementary Table S1
+
+
+
+For the other fungi, five OTUs were significantly af- fected by hydrology and three OTUs were significantly affected by temperature treatments (Table ). OTU 0 (closely related to Mycena), OTU 159 (identified as Rhizophlyctis rosea), and OTU 153 (closely related to Phaffia) increased under lower water table conditions, while OTU 1 (related to a Hypochnicium polypore) and OTU 241 (closely related to a Mesochytrium) increased in abundance under saturated water table conditions. Examining the temperature treatment effects closer for this group, OTU 3764 (related to Ceratobasidium) increased under temperatures elevated by + 8 degC, while OTUs 3552 and 106 (related to Rhizidium phycophilum and
+
+Mortierella, respectively) were more abundant in ambient treatments. There were four OTUs that responded to both hydrology and temperature; OTU 143, 3173, and 81 (iden- tified as Globulicium, and as close to Mycena and Galerina, respectively) demonstrated noticeable increases under lowered water table and + 8 degC treatments. Increased temperature of + 8 degC was also favorable for OTU 873 (closely related to Polyporus) but only under saturated water table conditions; however, it was more strongly affected by temperature than hydrology. The overall effect of hydrology was stronger at 4 months, more powerfully affecting other fungi than Ascomycota, while the temperature effect noticeably increased over time.
+
+
+
+Discussion
+
+Temperature, hydrology, and litter quality are usually consid- ered as dominant controls on fungal communities in peatlands that can significantly alter carbon dynamics [-]. At the same time, temperature, moisture availability, and litter quality associated with plant community shifts are anticipated to change under future climate change. Here, we show that both temperature and hydrological changes are drivers of the shift in fungal community composition but act in conjunction with a temporal sequence of functional groups and the degradative
+succession observed.
+There is an established relationship between chemical changes in substrate, as well as fungal community composi- tion and degradative succession []. Degradative succession describes the sequence of change in detrital communities as organic matter is broken down--a progressive change in soil organic carbon quality associated with physical, chemical, and biological processing. Easily accessible, soluble carbons (or- ganic acids, sugars) and some proteins are the first products of decomposition made available to microbes from litter
+leaching, followed by a proportional increase in the availabil- ity of cellulose and hemicellulose. As detrital substrates con- tinue to be broken down, persistent, recalcitrant, and structural compounds such as lignins and polyphenols become domi- nant []. During this Bontogeny^ of detritus [], low molec- ular weight compounds become more recalcitrant over degra- dative succession as labile components are released back into the pool. Our study demonstrates two main successional pat- terns over time. First, there was an increase in Ascomycota coinciding with a general decrease in other fungal richness and diversity, and second, there was a functional group change in community composition matching degradative succession. Part of the decline in other fungal richness and diversity is undoubtedly due to exclusion of immigration of new taxa to mesocosms incubated in the Biotron, which is a biohazard containment level 2 facility, and/or possibly due to unfavor- able environmental conditions during our experiment for par- ticular fungi. In contrast, Ascomycota did not show the same trend, suggesting that experimental conditions were not detri- mental for all fungi. In addition, this pattern of decline is not observed after 4 months where both richness and diversity of the other fungal group were higher under increased tempera- ture treatments than under ambient conditions and are compa- rable to those at the beginning of the experiment (T0). As such, we believe that the overall decline in other fungal richness and diversity after 4 months is more in line with resource exploi- tation [] in the litterbags by the decomposer community and that this limitation is mostly placed on the other fungal group compared to the Ascomycota. For instance, while potential labile carbon decomposers (e.g., OTU 106 and OTU 153) were highly abundant at the starting point of the experiment, the majority of cellulose decomposers (e.g., OTUs classified
+
+as Dactylaria, Mycena, and Galerina, etc.), noticeably in- creased at 8 months, followed by potential late colonizers and lignin decomposers at 12 months (e.g., OTUs classified as Polyporus and Globulicium).
+Our study further demonstrates how this successional change in the fungal species composition during decomposi- tion of Sphagnum litter is modified by climate change condi- tions. Overall fungal richness (both Ascomycota and other fungi) were negatively affected by elevated temperatures of
++8 degC, an observation consistent with several other studies [-]. However, several groups benefitted from elevated temperatures over the short term, in particular some endo- phytes and mycorrhizal root-associated fungi in the Ascomycetous group (e.g., OTU 13 and OTU 196), and saprotrophs (e.g., OTU 33, OTU 3173, etc.) in both fungal groups. At the community level, temperature was identified as the bigger driver of the shift in fungal community composi- tion, mostly emerging at 8 and 12 months. Often, the direct
+effects of fungi on ecosystem processes under increased tem- perature are elusive; primary responses to warming can be variable as different functional groups of microbial communi- ties may respond physiologically to temperature differently [, ]. However, the short-term positive response of saprotrophs under warmer conditions could be due to an initial release from cold limitation in boreal systems []. In partic- ular, the increased ratio of cellulose and lignin decomposers between three temperature treatments is obvious, possibly reflecting optimal condition for the growth of saprotrophic fungi []. While labile carbon decomposers were highly abundant under ambient condition at the starting point of the experiment, temperature enhancement of +8 degC expanded the proportional abundances of the majority of cellulose decom- posers at 8 months followed by increased ratios of lignin de- composers at 12 months.
+The occurrence of compositional and functional shifts within the saprotrophic community was also correlated to changes in hydrological status, in particular lowered water table condition. Despite the fact that we did not see the signif- icant effect of hydrological changes on fungal richness or diversity in either fungal group, hydrology drove the second- ary PCA  axis for  both groups with the  largest  effect at  4 months (e.g., OTUs 159, 153, and 241). Both positive [] and negative effects [, ] of water table drawdown on peatland fungal communities have been previously observed; short-term water table drawdown can increase oxygen avail- ability and facilitate the cellular energy metabolism in fungi, especially saprotrophs, while long-term water table drawdown can impact the overall peat-soil environment. In our experi- ment, lowered water table did not fully dry the peat-soil matrix enough to negatively affect fungi, with the possible exception
+of some Chytridiomycota--typically common under saturated
+conditions. However, even within this group, responses were not unilateral to climate change; for example, OTU 241
+
+
+
+classified as Mesochytrium was highly abundant under satu- rated condition, while OTU 159, closely related to a weak cellulose decomposer Rhizophlyctis rosea, was more abundant under lowered water table conditions. Many chytrids such as R. rosea can endure short-term desiccation and heat in the soil by formation of resistant sporangia [], suggesting that intermediate water table drawdown might not detrimentally affect the survival of all members in this group. We cannot fully discuss the temporal degradative succes- sional process without discussing climate change effects on the above-ground plant community as observed by Dieleman et al. [] in this study. Increased temperatures increased the biomass of graminoids and ericaceous shrubs, while reducing Sphagnum mosses [], which may explain the increase in some Ascomycetous fungi, in particular vascular plant endo- phytes (e.g., OTUs 13 and 64) and vascular plant root- associated fungi (e.g., OTUs 196 and 1) under the same ex- perimental conditions. At the same time, alterations in carbon substrate quantity and quality in peat porewater [] may have interacted with the degradative successional process in our litterbags. For instance, differences in carbon root exudates among different types of plants [] and also host-specific immune responses [] may have had an interactive effect on our fungal communities. However, Dean et al. [] found that under stressful environmental conditions such as in- creased temperature or low soil moisture, abiotic factors are more important in structuring community composition of my- corrhizal root-associated fungi than changes in the host or neighboring plants. While we did not explicitly link changes in plant communities with changes in below-ground fungal communities, we suggest that early changes in fungal com- munities, particularly endophytes and mycorrhizal root- associated fungi, with their role in facilitating the development of their hosts [, ], may signal impending changes in above-ground plant communities under climate change
+scenarios.
+Both increased temperature and lowered water table posi- tion drove shifts in fungal community composition overlying the shifts associated with degradative succession; the commu- nity response to changes in water table appeared more strong- ly during early stage decomposition (4 months) when labile carbon decomposers were prominent, while elevated temper- ature treatments altered the cellulose and lignin decomposer fungal community at 8 and 12 months, respectively. Increases in Ascomycetous root-associated fungi and endophytes may have helped facilitate the establishment of vascular plant spe- cies observed under climate warming [], but further study is warranted to explore the feedbacks between plant and fungal communities. Overall, we show that a reduced fungal richness under experimental climate change conditions was accompa- nied by increased dominance of saprotrophic fungi that sup- ported our hypothesis. Additionally, we demonstrate that in- creased temperatures of +8 degC are the limits needed for
+
+compositional shifts in the community of fungi in Boreal peatlands. These results suggest a potential for the accelerated rate of decomposition following increased temperatures of
++8 degC and higher and the subsequently increased rate of car- bon loss through dissolved organic carbon as observed in both field [, ] and laboratory [] studies, critically affecting long-term stored carbon in these ecosystems.
+
+
+Acknowledgments The authors thank two anonymous reviewers for their thoughtful and constructive comments on previous versions of this manuscript. We also thank Dr. Charmaine Dean, Dean of the Faculty of Science, University of Western Ontario, for her financial assistance to use Biotron and the financial support provided by the Natural Sciences and Engineering Research Council of Canada (NSERC) Discovery Grant program awarded to Dr. Zoe Lindo and Dr. Brian Branfireun. We are grateful to Dr. Greg Gloor (Western University, Biochemistry) for bioin- formatics and statistical assistance to and David Carter (Roberts Research Institute) for conducting Illumina sequencing. We thank the volunteers and work study students for their help in the lab. Discussion with Dr. Hugh Henry, Dr. Marc-Andre Lachance, Nimalka Weerasuriya, and Dr. Catherine Dieleman are appreciated.
+
+
+References
+
+Clymo RS, Turunen J, Tolonen K (1998) Carbon accumulation in peatland. Oikos 81:368-388
+Gorham E (1991) Northern peatlands: role in the carbon cycle and probable responses to climatic warming. Ecol Appl 1:182-195
+Moore T, Basiliko N (2006) Decomposition in boreal peatlands. In: Wieder RK, Vitt DH (eds) Boreal peatland ecosystems. Ecological studies, vol 188. Springer, Berlin, pp 125-143
+IPCC (2014) Climate change 2013: the physical science basis: Working Group I Contribution to the Fifth Assessment Report of the International Panel on Climate Change. Cambridge University Press, London
+Frolking S, Roulet NT (2007) Holocene radiative forcing impact of northern peatland carbon accumulation and methane emissions. Glob Chang Biol 13:1079-1088
+Williams RT, Crawford RL (1983) Microbial diversity of Minnesota peatlands. Microb Ecol 9:201-214
+Andersen R, Chapman SS, Artez RRE (2013) Microbial commu- nities in natural and disturbed peatlands: a review. Soil Biol Biochem 57:979-994
+Treseder KK, Marusenko Y, Romero-Olivares AL, Maltz MR (2016) Experimental warming alters potential function of the fungal community in boreal forest. Glob Chang Biol. doi:
+
+Allison SD, Treseder KK (2011) Climate change feedbacks to mi- crobial decomposition in boreal soils. Fungal Ecol 4:362-374
+Kasurinen A, Peltonen PA, Holopainen JK, Vapaauori E, Holocaine T (2007) Leaf litter under changing climate: will increasing levels of CO2 and O3 affect decomposition and nutrient cycling process- es? Dyn Soil Dyn Plant 1:58-67
+Trinder CJ, Artz RRE, Johnson D (2008) Interactions between fun- gal community structure, litter decomposition and depth of water- table in a cutover peatland. FEMS Microbiol Ecol 64:433-448
+Yuste JC, Penuelas J, Estiarte M et al (2011) Drought-resistant fungi control soil organic matter decomposition and its response to tem- perature. Glob Chang Biol 17:1475-1486
+
+
+
+Bradford MA, Davies CA, Frey SD et al (2008) Thermal adaptation of soil microbial respiration to elevated temperature. Ecol Lett 11: 1316-1327
+Drigo B, Kowalchuk GA, Van Veen JA (2008) Climate change goes underground: effects of elevated atmospheric CO2 on microbial community structure and activities in the rhizosphere. Biol Fertil Soils 44:667-679
+Peltoniemi K, Fritze H, Laiho R (2009) Response of fungal and actinobacterial communities to water-level drawdown in boreal peatland sites. Soil Biol Biochem 41:1902-1914
+Thormann MN, Currah RS, Bayley S (1999) The mycorrhizal sta- tus of the dominant vegetation along a peatland gradient in southern boreal Alberta, Canada. Wetlands 19:438-450
+Thormann MN, Currah RS, Bayley SE (2004) Patterns of distribu- tion of microfungi in decomposing bog and fen plants. Can J Bot 82:710-710
+Thorn RG, Reddy CA, Harris D, Paul EA (1996) Isolation of sap- rophytic basidiomycetes from soil. Appl Environ Microbiol 62: 4288-4292
+Tedersoo L, Lindahl BD (2016) Fungal identification biases in microbiome project. Environ Microbiol Rep. doi:
+Elliott DR, Caporn SJM, Nwaishi F, Nilsson RH, Sen R (2015) Bacterial and fungal communities in a degraded ombrotrophic peatland undergoing natural and managed re-vegetation. PLoS One 10(5):e0124726
+Dieleman CM, Branfireun BA, McLaughlin JW, Lindo Z (2015) Climate change drives a shift in peatland ecosystem plant commu- nity: implications for ecosystem function and stability. Glob Chang Biol 21:388-395
+Dieleman CM, Lindo Z, McLaughlin JW, Craig AE, Branfireun BA (2016) Climate change effects on peatland decomposition and porewater dissolved organic carbon biogeochemistry. Biogeochemistry. doi:
+Lindo Z (2015) Warming favours small-bodied organisms through enhanced reproduction and compositional shifts in belowground systems. Soil Biol Biochem 91:271-278
+Asemaninejad A, Weerasuriya N, Gloor GB, Lindo Z, Thorn RG (2016) New primers for discovering fungal diversity using nuclear large ribosomal DNA. PLoS One 11(7):e0159043
+Webster KL, McLaughlin JW (2010) Importance of the water table in controlling dissolved carbon along a fen nutrient gradient. Soil Sci Soc Am J 74:2254-2266
+Faubert P, Rochefort L (2002) Response of peatland mosses to burial by wind-dispersed peat. Bryologist 105:96-103
+Masella AP, Bartram AK, Truszkowski JM, Brown DG, Neufeld JD (2012) PANDAseq: paired-end assembler for Illumina se- quences. BMC Bioinf 13:31
+Edgar RC, Haas BJ, Clemente JC, Quince C, Knight R (2011) UCHIME improves sensitivity and speed of chimera detection. Bioinformatics 27:2194-2200
+Edgar RC (2010) Search and clustering orders of magnitude faster than BLAST. Bioinformatics 26:2460-2461
+Wang Q, Garrity GM, Tiedje JM, Cole JR (2007) Naive Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Appl Environ Microbiol 73:5261-5267
+Lan Y, Wang Q, Cole JR, Rosen GL (2012) Using the RDP classi- fier to predict taxonomic novelty and reduce the search space for finding novel organisms. PLoS One 7:e32491
+Heck KL Jr, van Belle G, Simberloff D (1975) Explicit calculation of the rarefaction diversity measurement and the determination of sufficient sample size. Ecology 56(6):1459-146
+Statistica (version 7.0) StatSoft Inc (2004) Statistica (Data Analysis Software System), Version 7.0. Tulsa, USA
+Aitchison J, Egozcue JJ (2005) Compositional data analysis: where are we and where should we be heading? Math Geol 37:829-850
+
+Lovell D, Pawlowsky-Glahn V, Egozcue JJ, Marguerat S, Bahler J (2015) Proportionality: a valid alternative to correlation for relative data. PLoS Comput Biol 11(3):e1004075
+van den Boogaart KG, Tolosana-Delgado R (2008) BCompositions^: a unified r package to analyze compositional data. Comput Geosci 34:320-338
+Zhao N, Chen J, Carroll IM et al (2015) Testing in microbiome- profiling studies with MiRKAT, the Microbiome Regression-Based Kernel Association Test. Am J Hum Genet 96:797-807
+Fernandes AD, Macklaim JM, Linn TG, Reid G, Gloor GB (2013) ANOVA-like differential expression (ALDEx) analysis for mixed population RNA-Seq. PLoS One 8(7):e67019
+Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: a practical and powerful approach to multiple testing. J R Stat Soc Ser B 57:289-300
+Belyea LR (1996) Separating the effects of litter quality and micro- environment on decomposition rates in a patterned peatland. Oikos 77:529-539
+Janssens IA, Davidson EA (2006) Temperature sensitivity of soil carbon decomposition and feedbacks to climate change. Nature 440:165-173
+Wang H, Richardson CJ, Ho M (2015) Dual controls on carbon loss during drought in peatlands. Nat Clim Chang 5:584-587
+Osono T (2005) Colonization and succession of fungi during de- composition of Swida controversa leaf litter. Mycologia 97:589- 597
+Adair EC, Parton WJ, Del Grosso SJ et al (2008) Simple three-pool model accurately describes patterns of long-term litter decomposi- tion in diverse climates. Glob Chang Biol 14:2636-2660
+Moore JC, Berlow EL, Coleman DC et al (2004) Detritus, trophic dynamics and biodiversity. Ecol Lett 7:584-600
+Talley SM, Coley PD, Kursar TA (2002) The effects of weather on fungal abundance and richness among 25 communities in the Intermountain West. BMC Ecol 2:1-11
+Blankinship JC, Niklaus PA, Hungate BA (2011) A meta-analysis of responses of soil biota to global change. Oecologia 165:553-565
+Morgado L, Semenova TA, Welker JM, Walker MD, Smets E, Geml JO (2015) Summer temperature increase has distinct effects on the ectomycorrhizal fungal communities of moist tussock and dry tundra in Arctic Alaska. Glob Chang Biol 21:959-972
+Allison SD, Treseder KK (2008) Warming and drying suppress microbial activity and carbon cycling in boreal forest soils. Glob Chang Biol 14:2898-2909
+Allison SD, McGuire KL, Treseder KK (2010) Resistance of mi- crobial and soil properties to warming treatment seven years after boreal fire. Soil Biol Biochem 42:1872-1878
+Rousk J, Baath E (2011) Growth of saprotrophic fungi and bacteria in soil. FEMS Microbiol Ecol 78:17-30
+Jaatinen K, Laiho R, Vuorenmaa A et al (2008) Microbial commu- nities and soil respiration along a water-level gradient in a northern boreal fen. Environ Microbiol 10:339-353
+Philben M, Holmquist J, MacDonald G, Duan D, Kaiser K, Benner R (2015) Temperature, oxygen, and vegetation controls on decom- position in a James Bay peatland. Glob Biogeochem Cycles 29: 729-743
+Gleason FH, Letcher PM, McGee PA (2004) Some Chytridiomycota in soil recover from drying and high temperatures. Mycol Res 108: 583-589
+Broeckling CD, Broz AK, Bergelson J, Manter DK, Vivanco JM (2008) Root exudates regulate soil fungal community composition and diversity. Appl Environ Microbiol 74:738-744
+Bever JD, Platt TG, Morton ER (2012) Microbial population and community dynamics on plant roots and their feedbacks on plant communities. Annu Rev Microbiol 66:265-283
+Dean SL, Warnock DD, Litvak ME, Porras-Alfaro A, Sinsabaugh R (2015) Root-associated fungal community response to drought-
+
+
+
+associated changes in vegetation community. Mycologia 107: 1089-1104
+Ramos-Zapata J, Orellana R, Guadarrama P, Medina-Peralta S (2009) Contribution of mycorrhizae to early growth and phospho- rus uptake by a neotropical palm. J Plant Nutr 32:855-866
+Mayerhofer MS, Kernaghan G, Harper KA (2013) The effects of fungal root endophytes on plant growth: a meta-analysis. Mycorrhiza 23:119-128
+
+Hribljan JA, Kane ES, Pypker TG, Chimner RA (2014) The effect of long-term water table manipulations on dissolved organic carbon dynamics in a poor fen peatland. J Geophys Res Biogeosci 119: 577-595
+Kane ES, Mazzoleni LR, Kratz CJ et al (2014) Peat porewater dissolved organic carbon concentration and lability increase with warming: a field temperature manipulation experiment in a poor- fen. Biogeochemistry 119:161-178

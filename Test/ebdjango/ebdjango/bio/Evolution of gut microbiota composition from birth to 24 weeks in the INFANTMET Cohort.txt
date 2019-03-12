@@ -1,0 +1,596 @@
+Hill et al. Microbiome (2017) 5:4
+DOI 10.1186/s40168-016-0213-y
+
+
+
+
+
+Evolution of gut microbiota composition from birth to 24 weeks in the INFANTMET Cohort
+Cian J. Hill1,2, Denise B. Lynch1,2, Kiera Murphy1,2,3, Marynka Ulaszewska5, Ian B. Jeffery1, Carol Anne O'Shea4, Claire Watkins3, Eugene Dempsey4, Fulvio Mattivi5, Kieran Tuohy5, R. Paul Ross1,2, C. Anthony Ryan2,4,
+Paul W. O' Toole1,2 and Catherine Stanton2,3*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+The gut microbiota is increasingly regarded as an 'invis- ible organ' of the human body and considered an im- portant factor for host health. This dynamic microbial population develops rapidly from birth until 2 to 3 years of age, when adult-like composition and stability is established If the establishment of the stable adult microbiota is programmed in infancy, it may lead to a lifelong signature with significant effects on health.
+
+
+Bacterial colonisation begins at birth, although recent papers have suggested microbiota acquisition occurs in utero  challenging the traditional dogma of uterine sterility. The developing gut microbiota of neonates dif- fers widely between individuals  and both  internal  host properties and external factors influence the estab- lishment of the microbiota  At birth, the infant mi- crobial population resembles the maternal vagina or skin microbiota depending on mode of delivery, i.e. by spon-
+
+ 		taneous vaginal delivery (SVD) or Caesarean section
+
+* Correspondence: 
+2APC Microbiome Institute, University College Cork, Cork, Ireland 3Teagasc Moorepark Food Research Centre, Fermoy, Co. Cork, Ireland Full list of author information is available at the end of the article
+
+(CS), respectively Birth mode has a significant effect on the nascent neonatal gut microbiota after these initial
+
+
+(c) The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver applies to the data made available in this article, unless otherwise stated.
+
+
+
+
+
+
+founder populations have been replaced -At 1 week of age, the microbiota of the SVD infant gut is charac- terised by high levels of Bifidobacterium and Bacteroides, while Clostridium is more abundant in CS neonates ]. Numerous other factors have been shown to exert an influence on this development, including antibiotic ex- posure and breastfeeding Development of the microbiota occurs as bacteria are replaced in a dy- namic, non-random pattern [ ]. The use of infant milk formula (IMF) impacts on metabolism [ and development of the neonatal immune system This introduction of IMF or solid food perturbs bacterial colonisation and may reduce the benefits of ex- clusive breastfeeding [
+Preterm (PT) neonates experience a number of unique challenges to the establishment of their microbiota. CS delivery, maternal and neonatal exposure to antibiotics and the sterile environment of the  neonatal  intensive care unit (NICU) may all alter the natural pattern of ac- quisition of microbiota. A few published studies with  high subject numbers examining the PT gut microbiota mainly focus on the initial hospitalised period A knowledge gap surrounding PT gut microbiota develop- ment was recently highlighted  and to our know- ledge, the current study is the largest, well-phenotyped analysis of the longitudinal microbiota development  of PT infants after leaving the hospital environment. It has previously been suggested that post-conceptional age, ra- ther than post-birth age, is the main determinant of the bacterial community profile in preterm infants [ the aforementioned factors were found to influence the pace, but not the sequence, of microbial acquisition.
+Metabolites have been shown to influence regulatory T cells in the gut with changes posited to contribute to autoimmune diseases including inflammatory bowel disease, asthma, allergies, arthritis and multiple sclerosis [ 4]. These conditions have also been linked to CS and PT birth.
+In this prospective study, we compared the gut micro- biota of initially breastfed infants from a single geo- graphical area (Cork, Ireland) who were born under different birth modes (SVD or CS) and different gesta- tional ages (FT or PT), in the same maternity hospital. We investigated the effect of both  of  these  factors  on the establishment of the nascent gut microbiota  of breast fed infants. We also examined the  link  between the microbiota and the metabolome in early life through comparison of urine metabolomic data with 16S gut microbiota data.
+
+Methods
+Participants and sample collection
+The infants included in this study are part of the INFANTMET study cohort. Mothers were approached  for consent between February 2012 and May 2014 at the
+
+
+Cork University Maternity Hospital, with ethical ap- proval provided by the Cork University Hospital Re- search Ethics Committee (ethical approval reference: ECM (w) 07/02/2012). The study design was to recruit groups of infants according to birth mode and gestation: FT-SVD, FT-CS, PT-SVD and PT-CS infants (PT; less than 35 weeks gestation). Information  about  the  in- fants was collected at delivery using medical records. Further data were collected using detailed question- naires  given  to  the  mothers  when  the  infants  were    1 year old (Additional file  Table S1). Faecal samples were collected from the infants at 1, 4, 8 and
+24 weeks of age  (Table   PT infants were sampled at 1 week of age and the same time points (i.e. weeks 4, 8 and 24) after the due delivery date. Samples were collected and placed at 4 degC by the mother, before collection in a temperature-controlled transport col- lection case by the research nurse for transport to the lab for DNA extraction. An additional sample was ac- quired at the due date of delivery for PT infants.
+Urine samples were also collected  at 4 weeks of age for metabolomic analysis using Sterisets Uricol Urine Collection Pack (Medguard, Ireland). A pad was placed  in the diaper and used to collect an unsoiled urine sam- ple from the infant. The pad was then placed in a bio- hazard bag and frozen immediately by the mothers. This frozen sample was collected in conjunction  with the week 4 faecal sample and placed in a -80  degC freezer upon arrival at the lab prior to processing.
+The PT infants in the study  had  a  mean  gestational age of 31 weeks and 6 days (SD +- 2 weeks 5 days) and mean birth weight of 1715 g (SD +- 564 g). Twenty six    of the PT infants were born between 32 and 35 weeks, while the remaining infants were less than 32 weeks gestation (range 24-32 weeks). There were 10 multiple births (9 twin and 1 triplet set) and 20 singleton births; two thirds were male and one third was female. All but four PT infants were born by CS (emergency 73% and elective 12%). The average length of stay in the  neo- natal unit was 39 days (SD +- 39.14, range 4-190 days). All infants under 32 weeks gestation received one course of antibiotics, with a third receiving at least one additional course. In comparison, only one third of
+Table 1 Breakdown of total number of faecal samples collected in the study
+
+
+
+
+
+
+
+infants born between 32 and 35 weeks gestation  re- ceived a course of antibiotics and only 4% received a second course. See Additional file  Table S2 for fur- ther details on PT infants.
+
+Sample extraction and processing
+Faecal samples were processed within 24 h of  collection after storage at 4 degC, without  freezing.  Microbial  DNA  was extracted from 0.2-g stool samples using the  repeat  bead beating (RBB) method described by Yu  and Morri- son  with some modifications. A 0.2-g  stool  sample was incubated with 1 ml RBB  lysis  buffer  (500  mM  NaCl, 50 mM tris-HCL, pH 8.0, 50 mM EDTA and 4% sodium dodecyl sulphate  (SDS))  in  a  2-ml  screw  cap  tube with 0.5 g sterile zirconia beads (A single  3.0  mm bead, 0.1 g of 0.5 mm beads and 0.3 g of 0.1 mm beads). It was homogenised for 90 s (Mini-Beadbeater(tm), BioSpec Products, Bartlesville, OK, USA), with  the  tubes  cooled  on ice for 60 s before another 90 s of homogenisation. Samples were incubated at 70 degC for  15  min  to  further  lyse the cells. Samples were centrifuged (16,000g), the supernatant was removed, and the RBB steps were re-  peated with 0.3 ml of RBB lysis buffer. The supernatants were pooled and incubated with 350 ml of 7.5 M ammo- nium acetate (SIGMA). The DNA was precipitated by isopropanol, centrifuged at 16,000g into a nuclear pellet which was washed with  70%  (v/v)  ethanol.  The  pellet  was allowed to dry, then re-suspended in TE buffer, and treated with RNAse  and  Proteinase  K.  It  was  cleaned with QIAGEN buffers AW1 and AW2 using a QIAGEN column and eluted in  200  ml  of  AE  buffer  (QIAamp  DNA Stool Mini Kit, QIAGEN, UK). DNA was  visua-  lised on a 0.8% agarose gel and quantified using the Nanodrop 1000 (Thermo Scientific, Ireland). DNA  was  then stored at -80 degC.
+Primers used for PCR amplification were the V4-V5
+region primers 520F (AYTGGGYDTAAAGNG) and 926R (CCGTCAATTYYTTTRAGTTT) (Additional file  Table S3). Initial primers for Illumina sequencing contain the sequencing primer binding sites, forward or reverse 16S rRNA gene specific primer and a 10nt in-line multi- plexing identifier (MID). Dual separate MIDs were at- tached to both ends of the PCR product (Additional file  Table S3).
+The V4-V5 amplicons for Illumina sequencing were generated using a two-step amplification procedure. The first  step  reaction  mix  contained  50  ml  BIO-X-ACT(tm) Short Mix (BIOLINE), 10 ml of 2 nM forward and re- verse primers, 50 ng genomic DNA and ddH20 to give a final volume of 100 ml. Cycling conditions were the fol- lowing: an initial 95 degC, 5-min denaturation step; 30 cy- cles of 95 degC for 15 s, 42 degC for 15 s and 72 degC for 30 s; and a final 10-min extension at 72 degC.  The  products  were purified using SPRIselect beads (Beckman Coulter,
+
+
+Indianapolis, IN) as per manufacturer's instructions, using a 0.9:1 volume ratio of beads to product. The puri- fied PCR products were eluted in 40 ml of ddH2O. DNA quantity was assessed via Quant-iT(tm) PicoGreen(r) dsDNA Assay  Kit  (Invitrogen(tm)).  The  samples  were  pooled  in equimolar amounts (20 ng DNA per sample) and se- quenced at the University of Exeter (UK) using Illumina MiSeq 2 x 300 bp paired-end sequencing, on multiple sequencing runs. Nextflex Rapid library preparation was carried out by the sequencing laboratory to attach bridge adaptors necessary for clustering.
+
+
+LC-MS metabolomic analysis of urine
+Urine samples were extracted as previously described  A 100-ml urine sample was placed on a  96-well plate with PVDF filter 0.45 mm, together with 200 ml of internal standard in methanol (see Additional file  Supplementary materials for details). Samples were then filtered using a positive pressure-96 manifold (Waters, USA). The eluate was diluted with 200 ml of MiliQ water containing cinnamic acid standard. Untargeted LC-MS assays were performed with a  hy- brid linear ion trap Fourier Transform (LTQ  FT)  Orbitrap mass spectrometer (Thermo Fisher, Bremen, Germany), in positive and negative ionisation  modes. The XCMS Online portal (  was used for data processing (alignment, peak picking, zero peak re-integrations, features grouping and assessment of quality control samples); please see Additional file  Supplementary materials for details. Data obtained from this  processing  consisted  of  a  list of m/z features and its relative intensities, which vary between sample groups. Such matrix file, with infor- mation about sample codes, m/z feature and its in- tensity, was used for statistical analysis. In positive ionisation mode, 2380 statistically significant features were found. In negative ionisation mode, there  were 3832 statistically significant features. To annotate compounds, a  selection  strategy  was  used  based  on the most abundant and the  most statistically  signifi- cant features. The procedure for annotation of com- pounds was adapted from standard metabolomic initiatives (see Additional file  Supplementary mate- rials for details). Levels of identification were as  fol- lows: level I corresponds to compounds identified by matching masses and retention times with authentic standards in the laboratory, or by matching with high-resolution LC-MS and LCMSn spectra of stan-  dards reported in the literature; and level  II corre- sponds to compounds identified by matching with  high- and low-resolution LC-MS and LC-MSn spectra from databases and literature.  Compounds  identified only by spectral similarities to a similar compound
+
+
+
+
+
+
+class and literature knowledge are reported as level
+III. Unknown compounds are reported as level IV.
+
+Bioinformatic analysis
+The Illumina MiSeq 2 x 300 bp paired-end sequencing reads were joined using the Fast Length Adjustment of SHort reads to improve genome assemblies (FLASH) programme  MIDs were extracted and sequences were assigned to their corresponding individual samples by QIIME's split_libraries_fastq.py, permitting two am- biguous bases per MID (Ns), and using QIIME's default quality  settings.  The  USEARCH  sequence  analysis tool
+ was used for further quality filtering.  Sequences were filtered by length, retaining sequences with lengths of 350-370 bp. This range was used to select the most abundant sequences for the base of each operational taxonomic unit (OTU) with reads of all lengths then aligned to the OTU sequences. Single unique reads were removed, and the remaining reads were clustered into OTUs. Chimaeras were removed with UCHIME, using the GOLD reference database. The original input se- quences were mapped onto the OTUs with 97% simi- larity. All reads were taxonomically classified by the classify.seqs command within the mothur suite of tools (v1.31.2), using the RDP  reference database  (training  set 14)  OTUs were classified from these when
+>50% of the reads agreed on a classification at each phylogenetic level. The returned read numbers varied greatly from 129 to 815,400 reads (average = 69,410 reads per sample). To adjust for the influence of the number of sequences in a sample on diversity and other statistical tests, any sample with less than 10,000 se- quence reads was eliminated from the study. This re- sulted in the loss of eight samples from the data set. Fifteen samples had been sequenced in duplicate, so the samples with the lower read numbers of duplicated pairs were removed, as we believed that these may not be the best representations of those samples due to the lower read counts. The OTU table containing the remaining 715 samples was rarefied to 10,000 reads, to remove any bias from variation in sample read num- bers. The remaining samples were from variable modes of delivery and time points (data not shown).
+
+Culture-dependent analysis
+One gramme of fresh faecal sample per infant was serially diluted in maximum recovery diluent (Fluka, Sigma Aldrich, Ireland). Enumeration of bifidobacteria was per- formed by spread-plating serial dilutions onto de Man, Rogosa, Sharpe agar (Difco, Becton-Dickinson Ltd., Ireland) supplemented with 0.05% L-cysteine hydrochlor- ide (Sigma Aldrich), 100 mg/ml mupirocin (Oxoid, Fannin, Ireland ) and 50 units nystatin suspension (Sigma Aldrich). Agar plates were incubated anaerobically at 37 degC
+
+
+for 72 h (Anaerocult A gas packs, Merck, Ocon Chemicals, Ireland). Enumeration of lactobacilli was determined by plating samples onto Lactobacillus selective agar (Difco) with 50 units nystatin and incubated anaerobically at 37 degC for 5 days. Bacterial counts were recorded as colony form- ing units (CFU) per gram of faeces and were log10 trans- formed prior to statistical analyses.
+
+Statistical analysis
+Statistical analysis was performed using the R statistical framework, using a number of software packages or li- braries including, made4, vegan, DESeq2, car, nlme and lme4. Relative abundance bar charts were generated with Microsoft Excel. Where possible, statistical analyses of changes over time take the subject numbers into ac-  count, such as the alpha diversity linear modelling, and DESeq2 tests for differential abundance.
+To assess alpha diversity, we calculated the Shannon Diversity Index with the diversity function from the R vegan package. After fitting Shannon Diversity to mul- tiple distributions and performing Shapiro-Wilk normal- ity tests, we found that it best approximated a normal distribution, as determined by Quantile-Quantile plots (qqplots; not shown). Therefore, differences of alpha di- versity between infants of different modes of delivery at a given time were detected using mixed effect linear models (R package nlme), which allow for the adjust- ment of sequencing run (random effect), while testing for differences due to mode of delivery (mixed effect). In order to compare alpha diversity over time, mixed effect linear models were applied (R package lme4, and Ana- lysis of Deviance using the ANOVA command from the Car package to test for significance), which allow for controlling for the subjects and the age of the infants, along with sequencing run.
+Multiple beta diversity metrics were also calculated, in- cluding weighted and unweighted UniFrac and Spearman distance ((1 - Spearman Correlation)/2). Principal coordi- nates analysis was performed on each beta diversity metric to highlight the separation of infants based on mode of delivery and sampling time point. Differences between groups were tested for using permutational multivariate analysis of variance (PerMANOVA) on beta diversity matrices, adjusting for sequencing run. False discovery rate was adjusted for with Benjamini-Hochberg [].
+To identify taxa (phyla and genera) that may be driv- ing the significant differences detected between time points and mode of delivery, differential abundance ana- lysis was determined using DESeq2 on raw phylum- and genus-level count data. We determined that DESeq2 was an appropriate tool for differential abundance analysis as the negative binomial model best fit all genera, deter- mined by the "goodfit" command from the "vcd" R pack- age. A heatplot was generated to highlight the major
+
+
+
+
+
+
+genera driving clustering of samples from different modes of delivery at different time points and to identify bacterial co-abundance. We used only genera that were found in at least 10% of the samples, and utilised Spearman correl- ation and Ward clustering on log10 of the rarefied genus count matrix.
+We determined significant differences of culture- dependent count data between time points or mode of delivery using the Wilcoxon rank sum test, and adjusted for false discovery rate with Benjamini-Hochberg. Corre- lations between culture-dependent (plate count) and culture-independent (16S sequencing) data were deter- mined using Pearson's product-moment correlation. Pearson's product-moment correlation was also used to determine if abundance of any genera correlated  with  that of any other genera, and the false discovery rate was adjusted with Benjamini-Hochberg. To determine if twins were more closely related to each other than ran- dom infants, we performed t tests with Monte-Carlo simulations on beta diversity between samples.
+The urine metabolomics dataset was unit scaled before significant features were identified using the ANOVA statistical test with term and delivery mode as explana- tory variables. This analysis gave consistent results when compared to pareto scaled data and ANCOVA as the statistical test with 84% of the identified metabolites be- ing returned (data not shown). The logged fold change and the mean value for each  variable  were  calculated and the results were filtered using the  false  discovery rate (FDR) calculated from the raw p values. To aid the identification of metabolites, an additional clustering analysis was performed by WGCNA cluster analysis using the Spearman correlation and a soft threshold of nine 
+
+Results
+Drivers of infant gut microbiota
+Gut microbiota is influenced by mode of delivery and gestational age
+The structure of the infant gut microbiota is clearly af- fected by mode of delivery (Fig.  Additional file  Table S4). The results demonstrate that there was a sig- nificant difference in microbiota composition at genus level across the four different groups from week 1  to week 24, when analysed by Spearman distance  matrix and visualised by principal coordinates analysis (PcoA). At 1 week of age, the microbiota composition of the FT-CS group was significantly different from that  of both PT-CS and FT-SVD groups (p values <0.001). PT-CS and FT-SVD were also distinct from one  an-  other (p < 0.001). The low number  of  PT-SVD  infants (n = 4) did not permit significant testing at this time  point, but it is worth  noting  that  this  microbiota  clus- ter is situated between the PT-CS and FT-SVD
+
+
+groups. At 4 weeks of age, FT-CS microbiota was sig- nificantly different to all other groups (p < 0.001). The PT infant microbiota mainly separated  across  the  x- axis. At 8 weeks of age, the FT-CS  group  is  distinct from both PT-CS  and  FT-SVD  (p < 0.001),  separated on both axes. The FT-SVD and PT-CS  are  also  dis- tinct (p < 0.001); all three groups have significantly different microbiota  composition  at  8  weeks  of age.  By 24 weeks, there were no significant differences between PT-CS and FT-CS microbiota, while FT-CS and FT-SVD microbiota were still significantly different (p < 0.01). At this time point, mode of delivery remains influential while differences due to gestational age have been elimi- nated. At all time points, there was wide diversity of individual population structures within each group, showing the heterogeneous composition of the devel- oping infant gut microbiota.
+
+Distinctive metabolomic profiles are associated with microbiota profiles
+Co-inertia analysis of the week 4 microbiota data at the OTU level and the metabolomic dataset showed  that there was a significant (p < 0.05) amount of co-variation in the two datasets (Fig.  There was little separation observed between FT birth modes (FT-CS and FT-SVD); however, the PT-CS samples separated distinctly  from the FT samples. The co-inertia analysis showed  that there were greater differences between the group micro- biota profiles than between the group metabolomic pro- files. These differences are evident where the FT metabolomic baricentres are overlaid while there is a separation between the microbiota baricentres. The PT- SVD metabolomic and microbiota baricentres were rela- tively distant from one another, but this separation may be due to the low number of samples in each of these groups. The compounds associated with the PT-FT split are from multiple different sources and were represented by a diverse selection of metabolites (Additional file  Figure S1, Additional file Table S5). Annotated metab- olites were grouped based on their origin and chemical character: (i) amino acids and metabolites; (ii) carboxylic acids and phenolic acids and their metabolites; (iii) vita- mins and their metabolites; (iv) drugs and their me- tabolites; (v) carnitines; (vi) indole metabolites; and
+(vii) fatty acids and their metabolites  (see  Additional  file  Tables S5 and S6). Urea and its associated me- tabolite derivatives were situated in the centre of the metabolite cluster, suggesting it is abundant in both groups, providing confidence in our classifications.
+We found a number of paracetamol metabolites to be significantly higher in PT infants, as well as several dif- ferent vitamins and their metabolites such as riboflavin, CECH--a tocopherol metabolite or pyridoxic acid (Additional file : Table S5). These metabolites may be
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1 Birth mode and gestation age both significantly affect the composition of the infant gut microbiota to 24 weeks of age. Principal coordinates analysis (PCoAs) on Spearman distance matrices of samples at each of four time points (weeks 1, 4, 8 and 24) revealed significant differences between the groups. Significance was calculated using permutational multivariate analysis of variance (PerMANOVA, Additional file Table S3). *p < 0.05;
+**p < 0.01; ***p < 0.001
+
+
+
+due to altered medical treatment of PT infants. Among endogenous metabolites found to be statistically signifi- cant, two families could be easily identified: tryptophan and tyrosine. Metabolites belonging to tryptophan path- way were kynurenine, indoxyl sulphate, indole acetic acid, while those belonging to tyrosine were acetylphenylala- nine, acetyl tyrosine and hydroxyphenylalanine sulphate.
+The accurate mass and fragmentation pattern of a number of features that were elevated in the urine of the PT group were consistent with bile acids; all of them conjugated to glycine. We found glycocholic acid, one
+
+sulphate conjugate of chenodeoxyglycocholic acid (or its isomer glycoursodeoxycholic acid) and three atypical bile acids (Additional file Table S5).
+Among small carboxylic acids we found succinic  acid and its derivatives are statistically lower in PT, while several metabolites of glutamic acid were found at higher levels.
+Finally, a number of fatty acids were found to be sta- tistically higher in PT-CS infants. Most of them were found as dicarboxylic species, with different hydroxyl- ation patterns and with different saturation levels; more- over, some were found as glucuronide conjugates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Differentially abundant taxa drive microbiota clustering over time
+The abundance of genera can also be represented by a heat plot of hierarchically clustered samples (Fig.  which helps classify differentially abundant taxa. Many of the samples cluster by time point, where week 1 and week 24 in particular show relatively tight clusters. Weeks 4 and 8 show some variation, which is possibly due to the inclusion of FT and PT infants, whereas PT infants are slightly older, due to the time point of sam- pling. Very few genera are present at high abundance at week 1, as bacterial diversity is lowest at this time point. The genera that are abundant at week 1 decrease in rela- tive abundance by week 24 (branch 1), as other genera begin to emerge at detectable levels as the infants age (branch 2). This trend is visible through week 8, when another cluster of genera begins to emerge (branch 3).    By week 24, the genera that were most abundant at week 1 have markedly reduced in proportion (branch 1). Gen- era on branch 2 have low relative abundances, whereas genera on branch 3 are found to be quite highly
+
+abundant. Within this third branch  we find genera that are core to enterotypes, such as Prevotella, Blautia and Ruminococcus. Once Bifidobacterium emerged (at week
+1 for some samples, and by week 4 for others), their abundances appear to remain relatively stable, at least to 24 weeks of age.
+
+Breastfeeding influences the gut microbiota of CS infants
+We collected categorical metadata on how long each infant was breastfed. Three categories were recorded: between 1 and 2  months,  between  2  and  4  months, and  greater  than  4  months.  We  used  PerMANOVA   to compare the microbiota of infants  in  these  categor- ies, and also examined the birth  mode  effect separ- ately (Additional file  Table S7). No differences were detected between the microbiota composition  of in- fants who were breastfed for 1 to 2 months and those breastfed for 2 to 4 months. However, comparing in-  fants breastfed for less than 4 months and those  for longer than 4 months revealed  a  significant  difference for FT-CS but not FT-SVD (Fig. ). Five genera were
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+significantly more abundant in infants that were breastfed for longer and four genera were more  abun- dant in infants that were breastfed for a shorter duration (Additional file  Table S8). Bifidobacterium was not found to significantly differ in abundance based on dur- ation of breastfeeding (also tested with Wilcoxon Rank Sum test; data not shown).
+
+Twins have more similar gut microbiota than unrelated infants There were ten sets of twins and one set of triplets within the cohort. Twenty one of these 23 infants were in the PT-CS category; we therefore focussed only on these in- fants. Using t tests with Monte-Carlo permutations, we determined that at week 1, twins' microbiota were more similar within twin pairs than between non-twin pairs (Spearman distance test:  p < 0.001).  This  is  also  true at weeks 4, 8 and 24 (p < 0.001 at each time point) (Additional file : Figure S2).
+
+Gut microbiota of preterm infants is influenced by post-birth age
+For the week 1 time point, all infants were approxi- mately 1 week post-birth (range 6 to 8 days).  However, at other time points, PT infants were chronologically older than FT infants, as the samples for these  time points were collected at weeks post due date rather than post-birth. This was to ensure all infants were the same post-conceptional age when sampled, as this was previ- ously postulated to have the greatest effect on the estab- lishment of the microbiota Infants were assigned to groups depending on how many weeks premature they were at birth (4, 5, 6, 7, 8, 9 or 12 weeks). We found that at 1 week of age, when all PT infants are the same post- birth age, no significant difference or trends were appar- ent. At predicted due dates, three comparisons showed significant differences, with a further seven showing a trend for differences (Additional file Table S9).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description of the infant gut microbiota
+Differential abundance at phylum and genus level in infant groups
+We utilised DESeq2 in order to identify bacteria respon- sible for the microbiota separation of the  different groups at phylum and genus levels. The main differences are outlined below, with a full list of all differentially abundant genera available in Additional file  Tables S10-S17).
+
+Phylum level
+Using relative abundance of phyla from the rarefied dataset, we determined the major bacterial phyla in the different infant groups (Fig. A clear distinction is ap- parent between the different infant groups at 1 week of age. The FT-SVD infants have a relatively consistent microbiota composition from 1 to 24 weeks of age. The dominant phylum throughout this period is the Actino- bacteria (mainly comprised of the genus Bifidobacter- ium). FT-CS infants initially had a higher relative proportion of Firmicutes at 1 week of age compared to FT-SVD (p < 0.05) and less Actinobacteria (p < 0.001). At 4 weeks of age, Actinobacteria (p < 0.01) and Bacteroi- detes (p < 0.001) were more abundant in FT-SVD in- fants, again with Firmicutes less abundant (p < 0.01). Within the FT-CS group, Actinobacteria significantly in- creased in relative abundance from  1 to 4 weeks of age (p < 0.001). Bacteroidetes increased significantly in pro- portion from week 4 to week 8 (p < 0.05) and again from week 8 to week 24 (p < 0.001). Thus, the FT-CS micro- biota progressed over time to one which is similar to the FT-SVD infants with no differences at phylum level at either 8 weeks or 24 weeks of age.
+
+The most pronounced difference between the FT-CS infant gut and the PT-CS gut is evident at 1 week of age when there is a significantly higher proportion of Pro- teobacteria in PT infants (p < 0.001). The PT-CS group also harbours an initially high relative proportion of Fir- micutes at week 1 before becoming dominated by both Actinobacteria and Firmicutes from weeks 4 to 24.
+
+Genus level
+The infant gut is dynamic and a number of genera dem- onstrate significant abundance differences between groups (Fig. and Additional file Table S10-S13) and within groups at different ages (Additional file  Table S14-S17). We identified genera which were differentially abundant in at least two  of  the  groups  and thus  found 21 genera that had dissimilar abundances at week 1, 41 genera at week 4, 39 genera at week 8 and 25 genera at week 24 (Additional file Tables S10-S13). Some of the significant changes are described below.
+As expected, Bifidobacterium were found to be  a  major component of the infant gut. Bacteroides and Clostridia were also important contributors to the gut microbiota composition. Despite the apparently large difference in the average proportion  of Bifidobacterium  at week 1 between FT-CS and FT-SVD (19 vs 48%), this difference is not statistically significant, due to the high inter-individual variation between infants at this early  age. There was no statistically significant difference in the relative proportion of Bifidobacterium between these two birth modes at any time point. Bacteroides  was found to be significantly more abundant in FT-SVD in- fants compared to FT-CS at both 1 and 4 weeks of age    (p < 0.001), but not at later time points. Parabacteroides
+
+
+
+
+
+
+
+
+were also significantly more abundant at 4 weeks of age in FT-SVD than FT-CS (p < 0.001). We also  observed that PT-CS had a higher relative proportion of Bacter- oides at 4 weeks of age compared to FT-CS. Clostridium sensu stricto is significantly more abundant in FT-CS when compared to FT-SVD at week 1 (p < 0.001). At this time point, it is also more abundant in PT-CS than PT- SVD (p < 0.01) but, as for Bacteroides, no differences were observed at the later time points.
+We noted very little development of the FT-SVD microbiota composition at genus  level  throughout the  24 week period studied (Fig.  Additional file  Table S16). From week 1 to 4 to 8, no genus was found to be significantly altered in relative proportion. From week 8 to week 24, only Blautia (p < 0.05), and Subdoligranulum (p < 0.01; representing a very low proportion of the over- all microbiota composition) were found to significantly change in abundance. Contrastingly, there were 12 and  16 genera that showed significantly altered relative pro- portions between week 1 and week 4 for FT-CS (Additional file : Table S14)  and  PT-CS  (Additional file  Table S15)  respectively,  indicating  a  high  level of microbiota change in the early life of these infants. Sampling of subsequent time points does not demon- strate this level of compositional change indicating a sta- bilisation of the infant gut microbiota. The statistical analysis of PT-SVD gut microbiota development was hin- dered by low subject numbers, but notwithstanding this limitation, we observed a number of significant changes between week 8 and week 24, with relatively few changes at earlier time points (Additional file Table S17).
+Co-abundance analysis is a useful way to reveal higher- level constraints and associations in microbiota compos- ition [We therefore examined the relationship between abundances of genera. Given that many genera appeared or increased in abundance over the time  period  assessed within this study we expected numerous positive correla- tions. We therefore tested whether any genera were nega- tively correlated. Of 12,090 correlations tested, after adjusting for multiple testing, 16 were significant negative correlations (Additional file : Table S18). Fourteen of these significant negative correlations involved Bifidobacterium.
+
+Diversity of the gut microbiota increases with age
+Alpha diversity is a measure of the overall diversity of the community present in a sample. The alpha diversity of the infant gut microbiota was shown to be influenced by age and birth mode (Fig.  As measured by the Shannon index, a-diversity increases as the infant ages. However, the microbiota diversity in each group did not increase equally over the first 24 weeks of life (Fig.  Additional file  Figure S3). We observed that the groups have a different diversity relative to each other at week 24 when compared to week 1. At 1 week of age,
+
+
+the FT-SVD microbiota  displays  the  highest  diversity  of all groups, while PT-SVD is lowest. Diversity of all four groups increases from week  1  to  week  4.  FT-  SVD increases in diversity between 1 and 4 weeks of    age (p < 0.001); then diversity reduces slightly between week 4 and week 8 (p < 0.001); before increasing again between week 8 and 24 (p < 0.001). PT-CS diversity in- creased from weeks 1 to 4 (p < 0.001); 4 to 8 (p < 0.001); and showed a trend toward an increase from week 8 to 24 (p < 0.1). FT-CS increased from weeks 1 to 4 (p < 0.001) and weeks 8 to 24 (p < 0.01) but not between weeks 4 and
+8. The overall increase in bacterial diversity is comparable in both FT groups. PT-SVD infants microbial diversity in- creased between week 1 and 4 (p < 0.001) and then ap- pears to stabilise, with no further significant increase at 24 weeks. By week 24, there are no significant differences in alpha diversity between any groups, but a trend can be observed for higher diversity in FT-CS over PT-SVD, sug- gesting that infants of different birth modes and term have reached an equivalent diversity state at this age.
+
+
+Correlation of bacterial culture and culture-independent data
+To isolate representative strains of major taxa, we also performed bacterial culture on the infant faecal samples. Bifidobacterium and Lactobacillus bacterial populations in infant faeces were  determined  by  plate  counting (Fig.  We observed a significant correlation between the Bifidobacterium levels recorded by 16S analysis, and the colony forming unit (CFU) counts (r = 0.24; p value = 6.64e-07). Likewise, Lactobacillus counts correlated with 16S-based data (r = 0.21; p value = 1.96e-05).
+To determine whether significant differences in Bifido- bacterium or Lactobacillus counts were present between birth modes at a given time point,  or  between  time points for a given birth mode, we applied the Wilcoxon rank sum test with Benjamini-Hochberg adjustment. Due to the high level of variation recorded, we only ob- served a trend for higher Bifidobacterium counts in FT- SVD over FT-CS at week 1 (Fig.  Bifidobacterium counts at week 1 were highest in FT-SVD  (mean  7.45 log CFU/g) and lowest in PT-SVD  infants (mean 2.57 log CFU/g). Bifidobacteria numbers increased across all groups from week 1 to week 4, while at week 8, counts were observed to stabilise. At week 24, numbers  remained stable across all groups. Similarly, Lactobacil- lus was also most abundant in FT-SVD (mean 3.98 log CFU/g) and lowest in PT-CS infants (mean 1.12 log CFU/g) at week 1. Counts increased in all groups (ex- cept PT-SVD) from week  1  to  week  4;  from  week  4 to week 8 counts  were  stable  in  the  PT-CS,  FT-CS and FT-SVD groups, while  an  increase  was  observed  in PT-SVD infants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discussion
+In this prospective study, we compared the gut micro- biota of a cohort of initially breastfed infants from a sin- gle geographical area (Cork, Ireland) who were born under different conditions; SVD or CS delivery modes, either FT or PT, in parallel with clinical data to 2 years. Here, we present the data obtained in the first 24 weeks of life. Our results consolidate and corroborate recent findings surrounding the importance of birth  mode  on the initial development of the microbiota   - with robust data ensured by the large number of  sub- jects. The infants were sampled at four time  points  across the first 24 weeks of life to enable longitudinal
+
+analysis of the development of the nascent gut micro- biota and were breastfed for a minimum of 4 weeks to ensure there was a standard initial feeding regime. We found a significant effect of PT-CS birth on infant microbiota compared to FT infants, most likely due to a number of challenges unique to PT infants, including feeding type, antibiotic exposure (maternal and infant), increased duration of hospital stay, gut immaturity and immune immaturity. Low numbers of PT-SVD infants were recruited as very few infants fitting to our defin- ition of PT (<35 weeks gestation or <1500 g) were born via SVD delivery mode in the hospital where the study was based. Although it would be interesting to observe if
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PT infants not subjected to the environmental and anti- biotic exposures detailed above still had an atypical micro- biota profile in early life, such a prospective study would be very difficult to perform because these medical inter- ventions are clinically necessary for PT infant health. The current study accurately represents the results of typical conditions encountered by PT infants in developed coun- tries. It should be noted that by week 24, there are no dif- ferences in alpha diversity between any of the groups. This may indicate that the microbiota has recovered from the stresses associated with birth mode to a large extent by
+6 months of age. Alternatively, the view could be expressed that this is a crucial developmental window for the establishment of lifelong host health.
+The urine-derived metabolome was shown by co- inertia analysis to mirror separations observed in the faecal microbiota data at 4 weeks of age. This strongly suggests that the microbiota of the infants is modulating the metabolites produced. The specific metabolites driv- ing the separation between FT and PT infants were di- verse in nature, with the PT-CS gut in particular having    a large amount of altered metabolites. These results are  in good agreement with the study of Hyde  et  al.  who studied birth mode in piglets, wherein CS piglets were found to have lower concentration of succinic acid, and higher concentration of glutamic acid than SVD pig- lets. They also collate with Dessi et al. ], which exam- ined urine of infants by nuclear magnetic resonance. In
+
+
+this study, the most important discriminating com- pounds were associated with tyrosine, proline and argin- ine metabolism, as well as with biosynthesis of tryptophan, tyrosine, phenylalanine and the  urea  cycle. At the systems level, regulation of tryptophan, tyrosine and phenylalanine pathways plays a role in gut-brain sig- nalling. A microbial influence on the profile of metabo- lites within these pathways is suspected to contribute to diverse psychiatric and behavioural disorders including autism, schizophrenia and depression -
+Bile acid derivatives are also present in greater amounts in the PT infant urine metabolome, which may be indica- tive of either jaundice or differential action of the micro- biota in the gut of the infant. Strandvik et al. [] found tetrahydroxylated atypical bile acids were predominant in PT newborns. Bile acids are main by-product of choles- terol metabolism in the liver, and play a major role in maintaining bile flow. Many enzymes are involved in the conversion of cholesterol into bile acids; thus, improper functioning of one of them can result in formation of atypical bile acids, and probable liver dysfunction []. It is not known for how long a time after birth this differ- ence persists, thus the significance and physiologic effects require further investigation.
+The occurrence of dicarboxylic fatty acids suggests the expression of alternative fatty acid oxidation mecha- nisms. Considering the presence of phenylacetylglycine among biomarkers, which is associated with disorders of
+
+
+
+
+
+
+mitochondrial fatty acid beta-oxidation, we can suggest that in PT infants, lipid metabolism was affected. This was also suggested by the aforementioned study by Hyde et al., where CS piglets accumulated more hepatic lipid than their SVD counterparts. A series of liver free fatty acids were also found to be up-regulated in CS piglets.
+Phthalates are associated with hospital stays [], PVC flooring [] and formula feeding and are more abundant in the PT metabolome. Paracetamol derivatives were also at higher levels in the PT gut, and are found in commonly used medical products, such as Calpol(r). Carnitine is asso- ciated with red meat and has been controversially sug- gested as being linked to increased risk for cardiovascular disease ]; levels of carnitine were found to be elevated in the PT gut. However, vitamin D and vitamin E were also more abundant in the PT metabolome, demonstrat- ing that not all metabolites observed as elevated in the PT urine are traditionally viewed as unfavourable metabolites. This alteration of the gut environment as a neonate is clearly a potential mode for progression of the conditions which are associated with PT birth. More work is needed to establish if the microbiota is a causative agent of this al- tered metabolomic profile, and if modulation of the infant gut microbiota would restore the metabolomic profile of a PT infant to that of a FT infant.
+There was a strong temporal separation of the  infant gut microbiota, showing close grouping together by age, particularly for the samples at week  1  and  week  24 (Fig.  The infants were divided into three separate clusters based on differential  abundance of certain taxa. A large number of genera were absent at early  time  points and then  present  at  a  relatively high  level  by 24 weeks of age, forming a distinct cluster. This cluster contained genera that are core in adult enterotypes, such as Prevotella, Blautia and Ruminococcus. This observa- tion of the emergence of enterotype-like groupings of in- fants provides a strong foundation to suggest that a lifelong microbiota signature may be imprinted upon infants as early  as at  six months of age. Alpha diver- sity, as measured by the Shannon Diversity Index, in- creased (or remained at the same level) with age across all groups except from week 4 to week 8 in FT-SVD infants. We were unable to attribute this anomaly to any particular factor, and it remains an interesting outlier in the dataset.
+We observed an initially high proportion of Actinobac- teria (almost exclusively Bifidobacterium) in FT-SVD, Firmicutes in FT-CS and Proteobacteria  in PT infants at 1 week of age. The observed differences in microbiota composition were most pronounced at this  early  age. The diversity of the PT gut microbiota at  this  time  is low, which may be due to maternal and neonatal anti- biotic treatment. At genus level, Bacteroides were found to be significantly less abundant at both 1 and 4 weeks
+
+
+of age in FT-CS infants compared to FT-SVD infants (both p < 0.001); Parabacteroides are also significantly reduced in the  FT-CS  infants  compared  to  FT-SVD  at 4 weeks of age (p < 0.001). This indicates that Bacteroi- detes may play a major role alongside Bifidobacterium in the early infant gut microbiota, especially as certain spe- cies of Bacteroides can metabolise human milk oligosac- charides .
+At 4 weeks of age, a trend was observed whereby these breastfed FT-CS infants' gut microbiota gradually devel- oped to one more closely resembling that of FT-SVD in- fants. At 8 weeks of age, the FT-CS microbiota  continued to become more similar to that of FT-SVD in- fants, while PT infant community microbiota profile remained more distinct. We noted that twins had a sig- nificantly more similar microbiota composition than two unrelated infants, which was anticipated. At this age, twins have recently shared the same womb, birth mode (typically CS), and large portion of their genetic makeup, in addition to breastfeeding and environment. Therefore, the microbiota of these individuals would be expected to be more similar and it would be interesting to observe how long this similarity lasts as the infants' age. In a re- cent study by our group, investigating the gut microbiota composition in dichorionic triplets, we observed  that host genetics initially appeared to play a  significant role in the composition of the individual gut microbiota, but by 12 months environmental factors were the major de- terminant 
+Although the microbiota of FT-CS and PT infants is similar at genus level at 24 weeks of age, it remains dis- tinct at OTU level. The differences in the gut microbiota during this critical developmental period of  an infant's life may have a long lasting effect on the immune system or intestinal barrier function - It is also known that the microbiota has an influence on the metabolic capabilities of an individual   This would place CS, particularly for PT infants, firmly into a high risk category for a number of developmentally associated dis- orders and diseases. Early-life perturbations of the devel- oping infant gut microbiota have also recently been shown to impact on the central nervous system via the gut-brain axis and may potentially lead to adverse men- tal health outcomes later in life 
+We observed a significant effect of  breastfeeding  on the microbiota of the  FT-CS infants but not on that of   the FT-SVD infants. Infants born by CS lack the natural inoculum of bacteria obtained during  passage  through the birth canal received by SVD infants. Instead, they are exposed to environmental bacteria initially rather than vaginal bacteria. These results show that FT-CS infants may benefit from breastfeeding by obtaining some of the bacteria that they are initially lacking because of birth mode. SVD infants, contrastingly, have a "natural"
+
+
+
+
+
+
+microbiota profile that is not as obviously further devel- oped by exposure to breast milk, at least in terms of al- terations at genus level. Bifidobacterium levels have previously been shown to be promoted by breast feeding but though present at a high  level in the infants in our cohort, it was not one of the genera which in- creased in abundance in breast fed  infants  (Additional file Table S8). It is very likely that the high proportion of  breast feeding in the first month of life of the infants in this cohort has lessened  or  masked  to  some  extent the impact of sustained breastfeeding, particularly in terms of maintaining the initial bacterial profile estab- lished in FT-SVD infants.
+Had post-conceptional age played an important role in shaping the gut microbiota of infants, we would have ex- pected their microbiota to be more similar at their due dates, where all should theoretically be the same post- conceptional age, and different at week 1, when they  were at different post-conceptional ages. However this was not observed. We found that the infants' microbiota composition were more similar at week 1, when  they were all the same age after birth, and were different at their due dates, when they would have different "post- birth" ages at this point. This shows that age since birth  is more important than post-conceptional age, but that neither exerts a large influence on shaping the compos- ition of the PT neonatal microbiota.
+We also noted that although certain bacteria, such as Haemophilus, have a low relative proportion of the over- all microbiota (average relative abundance = 1.4%), they have a very high prevalence (75% of all infants) in the INFANTMET cohort. This suggests they  are occupying a small, specific niche or carrying out a specific function as part of the functioning ecosystem of the developing gut. We also observed Bifidobacterium involved in a number of negative correlations with other genera, which is unsurprising as it becomes a more dominant component of the FT-CS, PT-CS and PT-SVD gut microbiota over time. This shows the competitive advan- tage that Bifidobacterium has in the environment of the infant gut as it displaces other bacteria.
+Further novelty was added to this study through the use of culture-dependent analysis in conjunction with culture- independent sequencing. Culture-dependent techniques remain valuable for their ability to isolate bacterial species for further analysis. We focussed on populations of two bacterial groups, Bifidobacterium spp. and Lactobacillus spp., as these are known natural inhabitants of the healthy infant intestinal microbiota, and there is substantial evi- dence demonstrating the role of these bacteria as po- tential probiotics [- Indeed, a bank of over 7000 putative Bifidobacterium and Lactobacillus strains de- rived from infant faecal samples from INFANTMET is currently being screened for probiotic potential.
+
+
+Substantial inter-individual variation was observed for Bifidobacterium and Lactobacillus counts which sup- ports findings from other studies of infant intestinal microbiota [, 
+More research is needed to establish whether one fac- tor, or a combination of antibiotic treatment, gestation length, C-section birth, or formula feeding regime are causally associated with autoimmune and metabolic dis- eases. However, the evidence from this study and the current literature certainly suggests that factors which disturb the establishment of the neonatal microbiota should be avoided or minimised as much as possible. Fu- ture studies may focus upon best methods for restor-  ation of the natural composition of the neonatal gut following perturbation by any of the aforementioned fac- tors. While probiotics are one avenue with some poten- tial, the effects will likely be strain specific. Combination studies, in conjunction with dosage testing, will need to be tightly regulated in any prospective intervention.
+
+Conclusions
+The data indicate that mode of delivery and gestational age at birth are the strong influencers of early gut micro- biota structure following birth, with the impact of mode of delivery and gestational age still apparent 24 weeks after birth, although diminished with age. Currently, lit- tle is known in literature about the overall metabolic sta- tus of term and preterm neonates, and only a limited number of metabolites are routinely measured in their biological fluids by conventional methods. Co-inertia ana- lysis of (urine) metabolomic and (gut) microbiota data in- dicate that they correlate with one another, showing a functional influence of the altered microbiota on several metabolic pathways of PT-CS infants in particular.
+Infants separated temporally by differentially abundant taxa. The PT gut has a number of unique initial chal- lenges at birth resulting in a distinct initial  composition  at 1 week of age, high in Proteobacteria (p < 0.001). There was very little development of the FT-SVD micro- biota composition throughout the first 24 week of life, with FT-SVD infants retaining a relative stable micro- biota composition over this period, while FT-CS infants develop a similar composition to FT-SVD after 8 weeks of age. Of particular note was the prevalence of Actino- bacteria and Bacteroidetes in FT-SVD infants very early in life but that the FT-CS and PT infant gut microbiota "catch up" in the first 24 weeks. Bifidobacterium was found to be a major component of the infant gut, but not significantly impacted by duration of breast feeding. Pro- longed breastfeeding (>4 months) was found to impact the gut microbiota of FT-CS infants but not FT-SVD infants.
+Bacteroides were significantly more abundant in FT- SVD infants compared to FT-CS infants over the first month of life indicating an important role, perhaps
+
+
+
+
+
+similar to the importance currently attributed to Bifido- bacterium in the early development of the infant gut microbiota.
+Taken together, these data highlight the importance of breastfeeding particularly for infants born via Caesarean delivery mode and the data  provide  new  opportunities for optimisation of IMF composition, with appropriate new bioactive ingredients such as milk fractions, probio- tics and prebiotics to effectively programme the early in- fant gut microbiota in a manner closer to mother's milk. Best practice currently would appear to confirm the adage that 'breast is best', and all current evidence ap- pears to validate that statement for the maintenance of a healthy neonatal gut microbiota, and this is particularly
+true for infants delivered by CS birth mode.
+
+Additional files
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbreviations
+CS: Caesarean section; FLASH: Fast Length Adjustment of SHort reads to improve genome assemblies; FT: Full term; IMF: Infant milk formula; LC-
+MS: Liquid chromatography-mass spectrometry; MID: Multiplexing identifier; NICU: Neonatal intensive care unit; OTU: Operational taxonomic unit;
+PCoA: Principal coordinates analysis; PT: Preterm; RBB: Repeat bead beating; SDS: Sodium dodecyl sulphate; SVD: Spontaneous vaginal delivery
+
+Acknowledgements
+This work was supported by the Government of Ireland National Development Plan by way of a Department of Agriculture, Food and Marine FIRM grant to the INFANTMET project (CS), by a grant from the Health Research Board of Ireland (HRA_POR/2012/123) to PWOT, by the APC Microbiome Institute, and by the BIO-IT Platform. We would like to extend our most grateful thanks to all the families who agreed to take part in the INFANTMET study.
+
+Availability of data and materials
+Materials and methods are referenced in the main text of the document. Raw data can be obtained from the Sequence Read Archive, under BioProject PRJNA339264.
+
+
+
+
+
+
+Authors' contributions
+PWOT, RPR, CS, GD and CAR designed the study. CJH conducted the molecular lab work. KM and CW did the culture work. DL and CJH analysed the 16S data. IBJ, MU and KT analysed the metabolomics data. CAOS
+collected the samples, collected the questionnaires and recruited  the
+subjects. CJH, DL and KM wrote the manuscript. PWOT, DL, FM, KT, RPR,
+CAR and CS edited the manuscript. All authors read and approved the final manuscript.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Consent for publication
+The authors consent to the publication of this manuscript in the journal Microbiome.
+
+Ethics approval and consent to participate
+The infants included in this study are part of the INFANTMET study cohort. Mothers were approached for consent between February 2012 and May 2014 in Cork University Maternity Hospital, with ethical approval provided by the Cork University Hospital Research Ethics Committee. Ethical approval reference: ECM (w) 07/02/2012.
+
+Author details
+1School of Microbiology, University College Cork, Cork, Ireland. 2APC
+Microbiome Institute, University College Cork, Cork, Ireland. 3Teagasc Moorepark Food Research Centre, Fermoy, Co. Cork, Ireland. 4Department of Neonatology, Cork University Maternity Hospital, Cork, Ireland. 5Food Quality and Nutrition Department, Research and Innovation Centre, Fondazione Edmund Mach, San Michele All'adige, Italy.
+
+Received: 16 August 2016 Accepted: 24 November 2016
+
+
+References
+Maynard CL, Elson CO, Hatton RD, Weaver CT. Reciprocal interactions of the intestinal microbiota and immune system. Nature. 2012;489:231-41.
+Yatsunenko T, Rey FE, Manary MJ, et al. Human gut microbiome viewed across age and geography. Nature. 2012;486:222-7.
+Aagaard K, Ma J, Antony KM, Ganu R, Petrosino J, Versalovic J. The placenta harbors a unique microbiome. Sci Transl Med. 2014;6:237ra65.
+Cilieborg MS, Boye M, Sangild PT. Bacterial colonization and gut development in preterm neonates. Early Hum Dev. 2012. doi: 
+Dominguez-Bello CEK, Contreras M, Magris M, Hidalgo G, Fierer N, Knight R. Delivery mode shapes the acquisition and structure of the initial microbiota across multiple body habitats in newborns. Proc Natl Acad Sci U S A. 2010; 107:11971-5.
+Azad MB, Konya T, Guttman DS, Field CJ, Chari RS, Sears MR, Becker AB, Scott JA, Kozyrskyj AL. Impact of cesarean section delivery and breastfeeding on infant gut microbiota at one year of age. Allergy Asthma Clin Immunol. 2014;10:A24.
+Adlerberth I. Factors influencing the establishment of the intestinal microbiota in infancy. Nestle Nutr Work Ser Pediatr Progr. 2008;62:13-33.
+Adlerberth I, Wold AE. Establishment of the gut microbiota in Western infants. Acta Paediatr. 2009;98:229-38.
+Fanaro S, Chierici R, Guerrini P, Vigi V. Intestinal microflora in early infancy: composition and development. Acta Paediatr Suppl. 2003;91:48-55.
+Hesla HM, Stenius F, Jaderlund L, Nelson R, Engstrand L, Alm J, Dicksved J. Impact of lifestyle on the gut microbiota of healthy infants and their mothers--the Aladdin birth cohort. FEMS Microbiol Ecol. 2014. doi: 
+Hussey S, Wall R, Gruffman E, O'Sullivan L, Ryan CA, Murphy B, Fitzgerald G, Stanton C, Ross RP. Parenteral antibiotics reduce bifidobacteria colonization and diversity in neonates. Int J Microbiol. 2011. doi: 
+Backhed F, Roswall J, Peng Y, et al. Dynamics and stabilization of the human gut microbiome during the first year of life. Cell Host Microbe. 2015; 17:690-703.
+Tannock GW, Lawley B, Munro K, et al. Comparison of the compositions of the stool microbiotas of infants fed goat milk formula, cow milk-based formula, or breast milk. Appl Environ Microbiol. 2013;79:3040-8.
+
+
+Koenig JE, Spor A, Scalfone N, Fricker AD, Stombaugh J, Knight R, Angenent LT, Ley RE. Succession of microbial consortia in the developing infant gut microbiome. Proc Natl Acad Sci U S A. 2011;108(Suppl):4578-85.
+La Rosa PS, Warner BB, Zhou Y, et al. Patterned progression of bacterial populations in the premature infant gut. Proc Natl Acad Sci. 2014;111:12522-7.
+Gale C, Logan KM, Santhakumaran S, Parkinson JRC, Hyde MJ, Modi N. Effect of breastfeeding compared with formula feeding on infant body composition: a systematic review and meta-analysis. Am J Clin Nutr. 2012;95:656-69.
+Innis S. Human milk: maternal dietary lipids and infant development. Proc Nutr Soc. 2007;66:397-404.
+Palmer C, Bik EM, DiGiulio DB, Relman DA, Brown PO. Development of the human infant intestinal microbiota. PLoS Biol. 2007;5, e177.
+Knol J, Scholtens P, Kafka C, Steenbakkers J, Gro S, Helm K, Klarczyk M, Schopfer H, Bockler H-M, Wells J. Colon microflora in infants fed formula with galacto- and fructo-oligosaccharides: more like breast-fed infants. J Pediatr Gastroenterol Nutr. 2005;40:36-42.
+Stewart CJ, Marrs ECL, Nelson A, Lanyon C, Perry JD, Embleton ND, Cummings SP, Berrington JE. Development of the preterm gut microbiome in twins at risk of necrotising enterocolitis and sepsis. PLoS One. 2013;8, e73465.
+Groer MW, Luciano AA, Dishaw LJ, Ashmeade TL, Miller E, Gilbert JA. Development of the preterm infant gut microbiome: a research priority. Microbiome. 2014;2:38.
+Kamada N, Nunez G. Regulation of the immune system by the resident intestinal bacteria. Gastroenterology. 2014;146:1477-88.
+Zeissig S, Blumberg RS. Life at the beginning: perturbation of the microbiota by antibiotics in early life and its role in health and disease. Nat Immunol. 2014;15:307-10.
+Kamada N, Seo S-U, Chen GY, Nunez G. Role of the gut microbiota in immunity and inflammatory disease. Nat Rev Immunol. 2013;13:321-35.
+Yu Z, Morrison M. Improved extraction of PCR-quality community DNA from digesta and fecal samples. Biotechniques. 2004;36:808-12.
+Fernandez-Peralbo M, de Castro L. Preparation of urine samples prior to targeted or untargeted metabolomics mass-spectrometry analysis. doi: 
+Magoc T, Salzberg SL. FLASH: fast length adjustment of short reads to improve genome assemblies. Bioinformatics. 2011;27:2957-63.
+Edgar RC. UPARSE: highly accurate OTU sequences from microbial amplicon reads. Nat Methods. 2013;10:996-8.
+Wang Q, Garrity GM, Tiedje JM, Cole JR. Naive Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Appl Environ Microbiol. 2007;73:5261-7.
+Benjamini Y, Hochberg J. Controlling the false discovery rate: a practical and powerful approach to multiple testing. J R Stat Soc Ser B. 1995;57:289-300.
+Langfelder P, Horvath S. WGCNA: an R package for weighted correlation network analysis. BMC Bioinformatics. 2008;9:559.
+Claesson MJ, Jeffery IB, Conde S, et al. Gut microbiota composition correlates with diet and health in the elderly. Nature. 2012;488:178-84.
+Azad MB, Konya T, Maughan H, Guttman DS, Field CJ, Chari RS, Sears MR, Becker AB, Scott JA, Kozyrskyj AL. Gut microbiota of healthy Canadian infants: profiles by mode of delivery and infant diet at 4 months. CMAJ. 2013;185:385-94.
+Avershina E, Storro O, Oien T, Johnsen R, Wilson R, Egeland T, Rudi K. Bifidobacterial succession and correlation networks in a large unselected cohort of mothers and their children. Appl Environ Microbiol. 2013;79: 497-507.
+Dogra S, Sakwinska O, Soh S-E, et al. Dynamics of infant gut microbiota are influenced by delivery mode and gestational duration and are associated with subsequent adiposity. MBio. 2015;6:e02419-14.
+Hyde MJ, Griffin JL, Herrera E, Byrne CD, Clarke L, Kemp PR. Delivery by Caesarean section, rather than vaginal delivery, promotes hepatic steatosis in piglets. Clin Sci. 2010;118:47-59.
+Dessi A, Atzori L, Noto A, et al. Metabolomics in newborns with intrauterine growth retardation (IUGR): urine reveals markers of metabolic syndrome. J Matern Fetal Neonatal Med. 2011;24 Suppl 2:35-9.
+Russell WR, Duncan SH, Scobbie L, Duncan G, Cantlay L, Calder AG, Anderson SE, Flint HJ. Major phenylpropanoid-derived metabolites in the human gut can arise from microbial fermentation of protein. Mol Nutr Food Res. 2013;57:523-35.
+O'Mahony SM, Clarke G, Borre YE, Dinan TG, Cryan JF. Serotonin, tryptophan metabolism and the brain-gut-microbiome axis. Behav Brain Res. 2014;277:1-17.
+
+
+
+
+
+Zheng P, Zeng B, Zhou C, et al. Gut microbiome remodeling induces depressive-like behaviors through a pathway mediated by the host's metabolism. Mol Psychiatry. 2016;21(6):786-96.
+Strandvik B, Wahlen E, Wikstrom S-A. The urinary bile acid excretion in healthy premature and full-term infants during the neonatal period. Scand J Clin Lab Invest. 1994;54:1-10.
+Yousef IM, Perwaiz S, Lamireau T, Tuchweber B. Urinary bile acid profile in children with inborn errors of bile acid metabolism and chronic cholestasis; screening technique using electrospray tandem mass-spectrometry (ES/MS/ MS). Med Sci Monit. 2003;9:MT21-31.
+Weuve J, Sanchez BN, Calafat AM, Schettler T, Green RA, Hu H, Hauser R. Exposure to phthalates in neonatal intensive care unit infants: urinary concentrations of monoesters and oxidative metabolites. Environ Health Perspect. 2006;114:1424-31.
+Carlstedt F, Jonsson BAG, Bornehag C-G. PVC flooring is related to human uptake of phthalates in infants. Indoor Air. 2013;23:32-9.
+Koeth RA, Wang Z, Levison BS, et al. Intestinal microbiota metabolism of L- carnitine, a nutrient in red meat, promotes atherosclerosis. Nat Med. 2013; 19:576-85.
+Marcobal A, Barboza M, Sonnenburg ED, et al. Bacteroides in the infant gut consume milk oligosaccharides via mucus-utilization pathways. Cell Host Microbe. 2011;10:507-14.
+Murphy K, O' Shea CA, Ryan CA, Dempsey EM, O' Toole PW, Stanton C, Ross RP. The gut microbiota composition in dichorionic triplet sets suggests a role for host genetic factors. PLoS One. 2015;10:e0122561.
+Cox LM, Yamanishi S, Sohn J, et al. Altering the intestinal microbiota during a critical developmental window has lasting metabolic consequences. Cell. 2014;158:705-21.
+van Nimwegen FA, Penders J, Stobberingh EE, et al. Mode and place of delivery, gastrointestinal microbiota, and their influence on asthma and atopy. J Allergy Clin Immunol. 2011;128:948-55.e1-3.
+Kerr CA, Grice DM, Tran CD, Bauer DC, Li D, Hendry P, Hannan GN. Early life events influence whole-of-life metabolic health via gut microflora and gut permeability. Crit Rev Microbiol. 2014. 
+Rodriguez JM, Murphy K, Stanton C, et al. The composition of the gut microbiota throughout life, with an emphasis on early life. Microb Ecol Health Dis. 2015;26:26050.
+Turnbaugh PJ, Hamady M, Yatsunenko T, et al. A core gut microbiome in obese and lean twins. Nature. 2009;457:480-4.
+Nicholson JK, Holmes E, Kinross J, Burcelin R, Gibson G, Jia W, Pettersson S. Host-gut microbiota metabolic interactions. Science. 2012;336:1262-7.
+Clarke G, O'Mahony SM, Dinan TG, Cryan JF. Priming for health: gut microbiota acquired in early life regulates physiology, brain and behaviour. Acta Paediatr. 2014;103:812-9.
+Bezirtzoglou E, Tsiotsias A, Welling GW. Microbiota profile in feces of breast- and formula-fed newborns by using fluorescence in situ hybridization (FISH). Anaerobe. 2011;17:478-82.
+Yamasaki C, Totsu S, Uchiyama A, Nakanishi H, Masumoto K, Washio Y, Shuri K, Ishida S, Imai K, Kusuda S. Effect of Bifidobacterium administration on very-low-birthweight infants. Pediatr Int. 2012;54:651-6.
+Saez-Lara MJ, Gomez-Llorente C, Plaza-Diaz J, Gil A. The role of probiotic lactic acid bacteria and bifidobacteria in the prevention and treatment of inflammatory bowel disease and other related diseases: a systematic review of randomized human clinical trials. Biomed Res Int. 2015;2015:505878.
+Picard C, Fioramonti J, Francois A, Robinson T, Neant F, Matuchansky C. Review article: bifidobacteria as probiotic agents--physiological effects and clinical benefits. Aliment Pharmacol Ther. 2005;22:495-512.
+Solis G, de Los Reyes-Gavilan CG, Fernandez N, Margolles A, Gueimonde M.
+Establishment and development of lactic acid bacteria and bifidobacteria microbiota in breast-milk and the infant gut. Anaerobe. 2010;16:307-10.
+Ahrne S, Lonnermark E, Wold AE, Aberg N, Hesselmar B, Saalman R, Strannegard IL, Molin G, Adlerberth I. Lactobacilli in the intestinal microbiota of Swedish infants. Microbes Infect. 2005;7:1256-62.

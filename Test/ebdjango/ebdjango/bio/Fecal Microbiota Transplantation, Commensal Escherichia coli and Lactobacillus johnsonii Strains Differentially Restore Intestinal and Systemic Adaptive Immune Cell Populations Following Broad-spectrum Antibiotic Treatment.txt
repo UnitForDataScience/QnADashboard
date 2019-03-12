@@ -1,0 +1,705 @@
+
+
+ 
+
+
+
+
+
+1 , Eliane von Klitzing1 , Christian Neumann2,3 , Petra Bacher2 , 2,3 , 1 and 1*
+
+
+
+Edited by:
+Marina I. Arleevskaya, Kazan State Medical Academy,
+Russia
+Reviewed by:
+Rajaraman D. Eri, University of Tasmania, Australia
+Lisa Rizzetto, Fondazione Edmund Mach, Italy Francisco Jose Perez-Cano, University of Barcelona, Spain
+*Correspondence: Markus M. Heimesaat 
+
+Specialty section: This article was submitted to Microbial Immunology,
+a section of the journal Frontiers  in Microbiology
+Received: 29 August 2017
+Accepted: 23 November 2017
+Published: 11 December 2017
+Citation: Ekmekciu I, von Klitzing E, Neumann C, Bacher P, Scheffold A, Bereswill S and Heimesaat MM (2017) Fecal Microbiota Transplantation, Commensal Escherichia coli and Lactobacillus johnsonii Strains Differentially Restore Intestinal and Systemic Adaptive Immune Cell Populations Following Broad-spectrum Antibiotic Treatment. Front. Microbiol. 8:2430. doi: 
+
+
+1 Intestinal Microbiology Research Group, Institute of Microbiology, Charite - Universitatsmedizin Berlin, corporate member of Freie Universitat Berlin, Humboldt-Universitat zu Berlin, and Berlin Institute of Health, Berlin, Germany, 2 Department of Cellular Immunology, Clinic for Rheumatology and Clinical Immunology, Charite - Universitatsmedizin Berlin, corporate member of Freie Universitat Berlin, Humboldt-Universitat zu Berlin, and Berlin Institute of Health, Berlin, Germany, 3 German Rheumatism Research Center, Leibniz Association, Berlin, Germany
+
+The essential role of the intestinal microbiota in the well-functioning of host immunity necessitates the investigation of species-specific impacts on this interplay. Aim of this study was to examine the ability of defined Gram-positive and Gram-negative intestinal commensal bacterial species, namely Escherichia coli and Lactobacillus johnsonii, respectively, to restore immune functions in mice that were immunosuppressed by antibiotics-induced microbiota depletion. Conventional mice were subjected to broad- spectrum antibiotic treatment for 8 weeks and perorally reassociated with E. coli,
+L. johnsonii or with a complex murine microbiota by fecal microbiota transplantation (FMT). Analyses at days (d) 7 and 28 revealed that immune cell populations in     the small and large intestines, mesenteric lymph nodes and spleens of mice were decreased after antibiotic treatment but were completely or at least partially restored upon FMT or by recolonization with the respective bacterial species. Remarkably,
+L. johnsonii recolonization resulted in the highest CD4+ and CD8+ cell numbers
+in the small intestine and spleen, whereas neither of the commensal species could stably restore those cell populations in the colon until d28. Meanwhile less efficient than FMT, both species increased the frequencies of regulatory T cells and activated dendritic cells and completely restored intestinal memory/effector T cell populations at d28. Furthermore, recolonization with either single species maintained pro- and anti- inflammatory immune functions in parallel. However, FMT could most effectively recover the decreased frequencies of cytokine producing CD4+ lymphocytes in mucosal and systemic compartments. E. coli recolonization increased the production of cytokines such as TNF, IFN-g, IL-17, and IL-22, particularly in the small intestine. Conversely, only L. johnsonii recolonization maintained colonic IL-10 production. In summary,
+
+
+FMT appears to be most efficient in the restoration of antibiotics-induced collateral damages to the immune system. However, defined intestinal commensals such as
+E. coli and L. johnsonii have the potential to restore individual functions of intestinal and systemic immunity. In conclusion, our data provide novel insights into the distinct role of individual commensal bacteria in maintaining immune functions during/following dysbiosis induced by antibiotic therapy thereby shaping host immunity and might thus open novel therapeutical avenues in conditions of perturbed microbiota composition.
+Keywords: commensal intestinal microbiota, Escherichia coli, Lactobacillus johnsonii, fecal microbiota transplantation, secondary abiotic (gnotobiotic) mice, intestinal mucosal and peripheral and central immunity, immune-modulating effects, immune restoration
+
+
+INTRODUCTION
+Approximately 1013 microorganisms, collectively known as microbiota, reside in the human gastrointestinal tract (    , ) and have increasingly received well-deserved attention regarding their deep impact on the physiology and well-being of the mammalian host. The microbiota composition is characterized by vast inter-individual variations and is furthermore influenced by numerous factors, including genetics (, ), mode of delivery  (, ), age (, ), diet (, ), hospitalization (, ), exposure to pathogens and/or antibiotics (,  ;  , ). It has been shown that bacteria belonging to the phyla Firmicutes, Bacteroidetes, Proteobacteria, Actinobacteria, and Fusobacteria comprise the vast majority of the mammalian intestinal microbiota (, ; , ; , ) and both bacterial density and diversity increase from the proximal to the distal gut ( , ). Firmicutes are Gram-positive bacteria, which include the large class of Clostridia and the lactic acid bacteria (, ), while Escherichia coli (Gram-negative, rod- shaped bacteria belonging to the family Enterobacteriaceae and phylum Proteobacteria) represent the predominant facultative anaerobe member of the mammalian gastrointestinal tract (, ; , ). The small intestinal microbiota is dominated  by  the  families  Lactobacillaceae  and Enterobacteriaceae, whereas species from the families Bacteroidaceae, Prevotellaceae, Rikenellaceae, Lachnospiraceae, and Ruminococcaceae can be detected in the colon ( , ). While the microbiota is of paramount importance for numerous metabolic processes, including vitamin synthesis (, ) and digestion of dietary compounds (, ), compelling evidence points toward its impact on the maturation, development and function of the innate and adaptive immune system of the host ( , ; , ).
+Abbreviations: ABx, secondary abiotic; BSA, bovine serum albumin; CFU, colony forming units; DC, dendritic cells; FMT, fecal microbiota transplantation; IFN-g, interferon-g; IL, interleukin; LPL, lamina propria lymphocytes; LPS, lipopolysaccharide; MLN, mesenteric lymph nodes; PBS, phosphate buffered saline; PBMC, peripheral blood mononuclear cells; PP, Peyer's patches; PSA, polysaccharide A; SFB, segmented filamentous bacteria; SPF, special pathogen free; Th, T helper cell; TLR, toll-like receptor; TNF, tumor necrosis factor; Treg, regulatory T cells.
+
+Lactic acid bacteria exert important functions in the modulation of immune responses and have successfully been used as probiotics in inflammatory conditions of  mice  and  men. For instance, Lactobacillus rhamnosus GG has been shown to exert preventive and therapeutic effects  in  atopic  eczema and dermatitis (, ; , , ; , ). Moreover, treating IL-10 deficient mice with L. plantarum attenuated the severity of colonic inflammation by reducing mucosal IL-12p40 and IFN-g levels (, ). In our own previous work, we could further demonstrate that a single commensal L. johnsonii strain was able to attenuate both intestinal mucosal and systemic pro- inflammatory immune responses upon murine  infection  with the enteropathogen Campylobacter jejuni (, ).  () have proposed that the observed beneficial anti-inflammatory properties may be elicited due to induction of regulatory DCs and regulatory T cells (Treg).
+Gram-negative commensals, such as members of the family Enterobacteriaceae, tend to be neglected, but may, nevertheless, be potent immune-modulators (, ). This is best corroborated by the probiotic strain E. coli Nissle 1917, which has conclusively been shown efficient in the treatment of ulcerative colitis and is considered as an effective alternative to the standard maintenance therapy, i.e., mesalazine (, ;  , ; , ).
+Importantly,  (, ) and  () have shown  the  differing  impact  of  Gram-positive  and Gram-negative bacteria on the modulation of cytokine production patterns, given that in vitro co-culturing of human PBMC with Gram-positive bacteria leads to elevated levels of IL-12, IL-1b, IFN-g, and TNF, while Gram-negative bacteria rather induce IL-6, IL-8, and IL-10. In contrast, from monocytes derived human DC have been shown to produce comparable levels of IL-12 and TNF in response to commensal Gram-positive and Gram-negative bacteria (, ; , ).
+Murine studies have further underlined the impact of individual bacterial species on distinct immune cell populations. For instance, segmented filamentous bacteria (SFB) have been identified to induce the expansion of IL-17 producing Th17 cells (, ), while Clostridium species of clusters IV and XIVa  promoted accumulation of Treg in the colonic  lamina
+propria (LP) of mice (, ). The differentiation of CD4+ T cells into Treg locally in the LP as well as in the
+
+
+
+circulation is also supported by TLR-2 mediated sensing of the Gram-negative bacterium Bacteroides fragilis (, ). Moreover, treatment of IL-10-/- mice with L. plantarum has been shown to attenuate the severity of colonic inflammation by reducing mucosal IL-12p40 and IFN-g levels (, ). However, elucidating the differential impact of Gram- positive and Gram-negative commensals on the immune cell homeostasis in in vivo models, and identifying the species specific mechanisms of immunomodulation remains difficult and challenging, yet of utmost interest.
+In our previous works, we have shown that normally developed mice rendered void of intestinal microbiota  through  a quintuple antibiotic therapy (i.e., secondary abiotic  mice,  ABx mice), display numerous changes of intestinal  mucosal and systemic immune cell subsets, which can, however, almost completely be restored through reintroduction of intestinal antigens via fecal microbiota transplantation (FMT) ( , ,). Furthermore we were able to demonstrate that recolonization of ABx mice with VSL#3, a probiotic mixture consisting of eight bacterial species (namely Streptococcus thermophilus, Bifidobacterium breve, B. longum, B. infantis, Lactobacillus acidophilus, L. plantarum, L. paracasei, and
+L. delbrueckii subsp. bulgaricus), elicits IL-10 production by lymphocytes in the small and large intestinal LP, MLN and spleen, but does not influence the production of pro-inflammatory cytokines (, ,). The impact of probiotics on cytokine production has been extensively investigated, and   it has been proposed, that some strains might promote mainly IL-12 production, thus inducing Th1 type immune responses, which are known to protect from pathogens. Other strains, however, more effectively impacted the production of the anti-inflammatory IL-10, thereby limiting excessive immune responses as observed in autoimmune and allergic diseases, for instance (, ; , ; ,).
+() have previously further addressed the role of commensal organisms in the recruitment of pro-inflammatory cytokine producing CD4  cells in the colonic lamina propria   and proposed that these cell types might contribute to the immunopathogenesis of colitis. However, a fine-tuned balance between pro- and anti-inflammatory immune responses at mucosal and systemic sites is of utmost importance for the vertebrate host. For instance, a reduction of the IL-17 producing Th17 cell compartment playing a pivotal role in protection against bacterial and fungal pathogens (, ) may explain the increased susceptibility of microbiota depleted mice to pathogens (, ; , ).
+In the present study, we investigated the role of two important representatives of Gram-negative (namely E. coli)  and Gram-positive (namely L. johnsonii) commensals, both derived from the gut microbiota of healthy mice, in restoring numbers of distinct immune cell subsets following antibiotic treatment as compared to FMT in C57Bl/6j ABx mice. To address this, we analyzed the immune responses exerted by lymphocytes within the small and large  intestinal  LP,  MLN and spleen of microbiota-depleted mice upon  reassociation  with E. coli or L. johnsonii and upon FMT at day (d) 7
+
+and d28 post recolonization. We furthermore surveyed the cytokine production patterns assessing TNF, IFN-g, IL-17, IL-22, and IL-10 secretion by CD4 lymphocytes in respective compartments.
+
+MATERIALS AND METHODS
+Ethics Statement
+All animal experiments were conducted according to the European Guideline for animal welfare (2010/63/EU) with approval from the commission for animal experiments headed by the "Landesamt fur Gesundheit und Soziales" (LaGeSo, Berlin, Germany, registration numbers G0097/12 and G0184/12). Animal welfare was examined twice daily by assessment of clinical conditions including weight loss.
+Generation of Secondary Abiotic (Gnotobiotic) Mice
+All animals were bred, raised and housed in the facilities of the "Forschungseinrichtungen fur Experimentelle Medizin" (FEM, Charite - University Medicine Berlin, Germany) under specific pathogen-free (SPF) conditions. Secondary abiotic mice were generated through quintuple antibiotic treatment for  8  weeks via the drinking water as previously described (, ; , ; , ; , ,).
+Bacterial Recolonization
+Three days prior bacterial recolonization experiments, the antibiotic cocktail was withdrawn and replaced by sterile drinking water (ad libitum). Successful depletion of the intestinal microbiota was confirmed and FMT performed as described previously (, ,). Furthermore, secondary abiotic mice were recolonized with 109  CFU of either E. coli   or L. johnsonii in 0.3 ml PBS (Gibco Life Technologies, Paisley, United Kingdom) by gavage on day 0. The applied  E.  coli strain constitutes a commensal isolate derived from a naive conventionally colonized C57BL/6j wildtype mouse and  did  not express known virulence factors such as  stx  1  and  2,  hlyA, cspA, catA, katA, and astA as confirmed in a reference laboratory (, ; , ). The
+L. johnsonii strain had  initially  been  isolated  from  the feces of a healthy female 3 months old C57BL/6j wildtype mouse     as previously described (,  ).  For  FMT  fresh murine fecal samples were collected  from  10  age  and sex matched SPF control mice, pooled, dissolved in 10 ml  sterile PBS and the supernatant  perorally  applied  by  gavage (in 0.3 ml PBS) in order  to  reconstitute  secondary  abiotic  (i.e., gnotobiotic) mice with  a  complex  intestinal  microbiota as shown previously (, ; ,,).
+Sampling Procedures
+Mice were sacrificed by isoflurane treatment (Abbott, Greifswald, Germany) at d7 or d28 following bacterial
+
+
+
+recolonization.  Luminal  large   intestinal   samples   as   well  as ex vivo biopsies  from  spleen,  MLN,  ileum,  and  colon  were taken under sterile conditions. Intestinal samples were collected in parallel for microbiological and immunological analyses.
+Quantitative Analysis of Bacterial Colonization
+Total intestinal loads of E. coli and L. johnsonii were quantitated in fecal and colonic samples over time post recolonization or upon necropsy. Respective samples were dissolved in PBS and serial dilutions streaked onto appropriate solid culture media:
+E. coli was detected on Columbia agar supplemented with 5% sheep blood and MacConkey agar (Oxoid, Wesel, Germany) following  aerobic  incubation  at  37*C  for  48  h.  L.  johnsonii
+loads were determined on Columbia agar  supplemented with 5% sheep blood, Columbia-CNA agar supplemented with colistin and nalidixic  acid  and  MRS  agar  (all  from  Oxoid)  in parallel and incubated under microaerobic and obligate anaerobic conditions (in jars using CampyGen and AnaeroGen gas packs, respectively; both from  Oxoid)  at  37*C  for  at  least  2  days.  Bacterial   species   were   identified   according to their typical morphological appearances and biochemical properties. The detection limit of viable bacteria was 100 CFU/g.
+Lymphocyte Isolation from Spleen and Mesenteric Lymph Nodes
+Single cell suspensions were generated from spleens and MLN, and erythrocytes were removed from splenic samples by 1.66% ammonium chloride. All samples were resuspended in volumes of 5 ml (spleen) and 2 ml (MLN) PBS/0.5% BSA (Sigma-Aldrich, St. Louis, MO, United States) and subjected to further processing (, ).
+Lamina Propria Lymphocyte Isolation
+Lamina propria lymphocyte isolation followed a standard protocol with minor modifications as described previously (, ; , ). Briefly, the intestines were cut into 0.5 cm  pieces  and incubated twice in 25 ml 1 mM dithioerythritol (DTE; Carl Roth)  in  Hanks  balanced  salt  solution  (HBSS;  Gibco)  for
+20  min  at  37*C  at  220  rpm.  Afterward  the  intestines  were
+introduced to 1.3 mM ethylenediaminetetraacetic acid (EDTA; life technologies, Eugene, OR, United States)  solution  in  HBSS and were shaken again twice  herein  for  30  min  at  37*C at 220 rpm. After each incubation, the  epithelial  cell  layer containing the intraepithelial lymphocytes was removed  by intensive vortexing and passing through a 70 um cell  strainer,  and  new  solution  (DTE  or  EDTA)  was  added. After the second EDTA incubation  the  cells  were  washed  with RPMI 1640 (Gibco) containing 5%  fetal  calf  serum  (FCS; Biochrom, Berlin, Germany) and were subsequently placed in 35 ml digestion solution containing 0.5 mg/ml collagenase A (Roche, Mannheim, Germany), 0.5  mg/ml DNAse I (Roche), 10% FCS, 1 mM of each CaCl2 and
+
+MgCl2 (both Carl Roth) in  RPMI  1640  (Gibco).  Digestion  was  performed  through  incubation  for  45  min  at  37*C  and
+220 rpm. After incubation  the  digested  tissues  were  washed in  RPMI  supplemented  with  5%  FCS  and  centrifuged  for
+6  min  at  4*C  and  350	g.  The  pellets  were  resuspended
+in 5 ml 44% Percoll (GE Healthcare, Uppsala, Sweden) and overlaid on 5 ml 67%  Percoll  in  a  15  ml  Falcon  tube.  Percoll gradient separation was performed by centrifugation at 600 g  for 20 min at room temperature. LPL were collected  from the interphase, washed once and suspended in 1 ml of PBS/0.5% BSA.
+
+Surface and Intracellular Stainings and Flow Cytometry
+Surface staining was performed using a mix of the following antibodies: FITC-anti-CD4 (Clone RM4-5; 1:200), PerCP- anti-CD8   (Clone   53-6.7;   1:100),   PacBlue-anti-B220 (Clone
+RA3-6B2,  1:200),  APC-Cy7-anti-CD25  (Clone  PC61, 1:200),
+PE-anti-CD44 (Clone IM7, 1:200), APC-anti-CD86 (Clone B7-2, 1:200) (all from  BD  Biosciences,  San  Jose,  CA,  United States).
+For intracellular staining cells from spleen, MLN and intestinal LP were restimulated  for  5  h  with  10  ng/ml phorbol myristate acetate (PMA) and 1 ug/ml ionomycin,
+in  a  tissue  culture  incubator  at  37*C  (both  Sigma-Aldrich).
+The 10 ug/ml brefeldin  A  (Sigma-Aldrich)  were  added  to  the cell suspensions after 1 h  of  polyclonal  restimulation.  Then cells were treated  with  LIVE/DEAD  Fixable  Aqua  Dead Cell Stain kit (life technologies)  and  hereafter  fixed  with 2% paraformaldehyde (PFA;  Sigma-Aldrich) for 20 min  at room temperature. Cells were stained in 0.5% saponin (Sigma-Aldrich) using a mix of the following antibodies: PacBlue-Anti-CD4 (Clone RM4-5; 1:400), PE-Cy7-anti-IFN-g (Clone XMG 1.2; 1:400), APC-Cy7-anti-TNF-a (Clone MP6-XT22; 1:400) (all three from BD Biosciences), FITC- anti-IL17A (Clone TC11-18H10.1; 1:200, BioLegend, San Diego, CA, United States), PE-anti-IL10 (Clone JESS-16E3; 1:100), APC-anti-IL22 (Clone IL22JOP; 1:100) (both from eBioscience). After gating for lymphocytes and excluding doublets only living cells were included in further  analyses. CD4 and CD8 cells were gated on living cells, whereas CD86 (activated dendritic) cells were identified in the CD4-CD8- compartment. All data were acquired on a MACSQuant analyzer (Miltenyi Biotec, Bergisch Gladbach, Germany) and were analyzed with FlowJo Software v10.1 (Tree star, Ashland, OR, United States).
+
+Statistical Analysis
+Medians, means, standard deviations (SD) and significance levels were determined using Mann-Whitney U test or  one- way analysis of variance (ANOVA) with Tukey's post hoc test for multiple comparisons (GraphPad Prism Software v6, La Jolla, CA, United States) as indicated. Two-sided probability (p) values 0.05 were considered significant. Experiments were reproduced twice and pooled data are shown (n 8-15 per  group).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESULTS
+Kinetics of Intestinal Colonization Densities Following Recolonization of Secondary Abiotic Mice with E. coli or
+L. johnsonii
+In the present study, we investigated the immunomodulatory properties of representative Gram-negative or Gram-positive intestinal bacterial species (namely, E. coli and L. johnsonii, respectively) in comparison to a complex gut microbiota in mice that had been treated with broad-spectrum antibiotic compounds. To address this, conventionally reared mice were
+
+subjected to a quintuple antibiotic cocktail rendering them secondary abiotic (, ,), and after a sufficient wash-out period ABx mice were perorally recolonized with respective bacterial species or the complex intestinal microbiota by FMT. Importantly, the intestinal microbiota composition of ABx mice that had been  subjected  to  FMT  was  comparable to naive conventionally colonized counterparts as confirmed previously (, ,). As early  as  3  days  upon initial recolonization we assessed intestinal colonization efficiencies of respective species over time (). Cultural analyses of fecal samples revealed that E.  coli  () and L. johnsonii () stably colonized the murine intestinal tract, both with  high  median  loads  of  >108  CFU  per  gram  feces  until  necropsy  at  d28.  Of  note,  none  of   the interventions carried out in this study (i.e., antibiotic treatment, recolonization with E.  coli/L.  johnsonii, FMT) led  to any adverse clinical effects in mice such as  wasting,  diarrhea, occurrence of blood in feces or microscopic signs of intestinal inflammation including epithelial apoptosis (data not shown).
+
+T Cell Populations in Murine Intestinal and Systemic Compartments Following FMT or Recolonization of Secondary Abiotic Mice with E. coli or L. johnsonii
+To examine the impact of E. coli and L. johnsonii versus complex gut microbiota on distinct immune cell populations after antibiotic microbiota depletion, we isolated lymphocytes from small and large intestinal LP, MLN and spleen and analyzed defined immune cell populations by flow cytometry on d7 and d28 post recolonization. Firstly, we analyzed the CD4 (, ) and CD8 lymphocytes ( , ) and assessed both the relative abundances (i.e., percentages) and the absolute cell numbers of respective immune cell populations. After the antibiotic treatment the abundance of CD4 T helper lymphocytes declined in both the small and large intestines, but could be fully restored upon FMT (p < 0.05-0.001; ). Mice harboring
+E. coli or L. johnsonii displayed slightly higher percentages of CD4	cells in their small intestine without reaching significant levels (n.s. vs ABx; ). In the colon, however, E. coli recolonization resulted in higher frequencies of CD4	cells at d7, but decreased again until d28 (). Interestingly, in the MLN the percentage of the CD4	lymphocytes was at its lowest at d7 post FMT (p < 0.05 vs. N; ), but reached naive levels thereafter. In the spleens of L. johnsonii colonized mice we detected higher frequencies of CD4 lymphocytes than in their with E. coli colonized counterparts at d28 (p < 0.05-0.01; ). Furthermore, L. johnsonii recolonization led to the highest absolute CD4	cell numbers in the murine small intestine (p < 0.05-0.001; ). At d7 following either recolonization higher numbers of CD4 lymphocytes could be observed in the colonic LP as compared to ABx mice (p < 0.05-0.01; ), but declined until
+d28. Notably, at  d28  after  L.  johnsonii  colonization  mice  also displayed the highest numbers of CD4+ cells in the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+splenic (and hence systemic) compartment (p < 0.05-0.001;
+).
+Interestingly, the microbiota depletion-induced decreases of the CD8 cell abundances within the small and large intestinal LP were accompanied by increases of these cells in the spleen (p < 0.01-0.001 ABx vs. naive;  ). Single strain mono-colonization could restore this cell population in the small intestine rather late, i.e., until d28 post recolonization with either E. coli or L. johnsonii     (p < 0.05-0.001; ). Remarkably, neither E. coli nor L. johnsonii colonization impacted the decline of colonic  CD8 cell  numbers,  which  could  only be restored upon FMT at d28 (). At d7 post FMT, mice displayed the lowest frequencies of CD8 cells in their MLN, which, however, increased until d28 (). Moreover, at d7 following either recolonization, mice exerted lower percentages of splenic CD8 cells than their ABx counterparts (p < 0.05-0.001; ). This effect, however, could be preserved over time in E. coli recolonized mice only. Remarkably, mice harboring single commensal species in their gut displayed higher CD8 lymphocyte numbers in the small intestinal LP  at d28 as compared to mice that had been subjected to FMT
+
+(p < 0.05-0.001; ). Until d7, however, only L. johnsonii but not E. coli could sufficiently restore   the antibiotics-induced decreased colonic CD8	lymphocytes (p < 0.01 vs. ABx; ). In line with the splenic CD4	lymphocytes, the highest splenic CD8 lymphocyte numbers could be detected in L. johnsonii colonized mice at d28 post recolonization (p < 0.001;  ).
+Activated T Cells (Including Treg), Memory/Effector T Cells and Activated Dendritic Cells in Murine Intestinal and Systemic Compartments Following FMT or Recolonization of Secondary Abiotic Mice with E. coli or L. johnsonii
+We further expanded our investigations by analyzing the activation status of defined  immune  cell  populations. Therefore we stained for surface markers CD25 (), CD44 ( and ) and CD86 () characteristic for  activated  T  cells (including Treg), memory/effector T cells and activated DCs, respectively (, ; , ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, ). Broad-spectrum antibiotic treatment led to a significant reduction of the CD4 CD25 abundances in all analyzed immunological compartments (). At d7 post FMT, mice displayed the highest percentages of CD4 CD25 cells, which were even higher than in naive untreated SPF controls. However, both E. coli and L. johnsonii induced a significant increase of CD25 expression in lymphocytes derived from the small intestine, colon and spleen as early as d7 post recolonization (p < 0.05-0.001 vs. ABx; ), whereas notably, L. johnsonii exerted a more pronounced effect than E. coli in the colon at d7 (p < 0.05-0.001 vs.     Ec; ). Moreover, only L. johnsonii was able to restore CD4 CD25 cells in the MLN (p < 0.001 vs. ABx; ).
+Similarly, microbiota-depleted mice exhibited an overall reduction of   the   CD4  CD44   memory/effector   cell subset (p < 0.001 vs. N; ). In the small and large intestine E. coli, L. johnsonii and FMT were equally capable of restoring this cell population as early as d7 post recolonization (p < 0.01-0.001 vs. ABx; ).  This also held true for the MLN, albeit in this compartment
+
+L. johnsonii could restore the abundances of  CD4 CD44 cells only rather late in the course, i.e., until d28 post recolonization. In contrast, E. coli, but not L. johnsonii colonization resulted in restored frequencies of splenic memory CD4	cells at d28 post recolonization (p < 0.001 vs. ABx;).
+Moreover, reduced abundances of CD8 CD44 cells could be observed in the small intestine, colon, MLN and spleen of with antibiotics treated mice (p < 0.001 vs. N;  ). Already at d7 following recolonization (regardless of the regimen) frequencies of  CD8 memory cells were elevated in the small intestine and spleen, whereas, in contrast to FMT, either single species colonization could normalize colonic CD8 memory cells only until d28. In the MLN, E. coli was able to restore the CD8 memory/effector cells more effectively than L. johnsonii, considering that abundances of CD8 CD44 cells were comparable in
+E. coli mono-associated and naive mice ().
+The expression of the surface molecule CD86, a co-stimulatory protein marking activated DC, showed a strong intestinal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+microbiota dependence, as indicated by a strong reduction  of CD86 cells in mucosal and systemic compartments of secondary abiotic mice (p < 0.001 vs. N;  ). Small intestinal CD86 cells in mice harboring single bacterial species were more abundant than in ABx mice, however, lower than in their naive or with FMT treated counterparts (). Moreover, only FMT, but neither
+E. coli nor L. johnsonii, could recover this antibiotics-induced reduction of CD86 cell frequencies in the MLN until d28 (). Splenic CD86 cells displayed the highest abundance at d7 post FMT, but could also be restored to basal naive levels by either E. coli or L. johnsonii recolonization alone (p < 0.001 vs. ABx; ).
+Taken  together,  our  data  indicate   that   depending   on   the  respective  immunological  compartment  and   immune   cell subset, single bacterial commensal species may be as effective as complex microbiota in reversing  antibiotics  induced collateral damages on intestinal mucosal and systemic immunity.
+
+Production of Pro- and
+Anti-inflammatory Cytokines by CD4 Cells in Murine Intestinal and Systemic Compartments Following FMT or Recolonization of Secondary Abiotic Mice with E. coli or L. johnsonii
+We further addressed the impact of E. coli and L. johnsonii recolonization on the cytokine production pattern of CD4 lymphocytes in intestinal mucosal, peripheral and systemic immunological sites and therefore determined the frequencies  of TNF (), IFN-g (), IL-17 (), IL-22 (), and IL-10 () producing CD4 lymphocytes in the small and large intestines, MLN and spleens of recolonized mice.
+The antibiotics-induced decreases of TNF producing CD4 cells in the small and large intestines were accompanied by increased abundances in the MLN and spleen (p < 0.01-0.001 ABx vs. N; ). Small intestinal TNF production was at it highest at d7 following E. coli recolonization,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+but further declined thereafter, while it remained unaffected by
+L. johnsonii during the entire observation period. In addition, either recolonization regimen resulted in higher abundances of TNF producing CD4 cells in the colonic LP at d7, whereas none of them could sustain this effect until d28. Of note, microbial reassociation of ABx mice dampened TNF production in the MLN (p < 0.05-0.01 vs. ABx; ), except for FMT at d28. E. coli and complex microbiota could additionally reduce the TNF production in the spleen at d7 (p < 0.01-0.001 vs. ABx, n.s. vs. N; ).
+Furthermore, a significant reduction of IFN-g producing CD4 cells could be detected in the small and large intestines of secondary abiotic mice (p < 0.001 vs. N; ).
+E. coli at d7 and d28, as well as L. johnsonii and FMT at d7 could completely restore the IFN-g production in the small intestine. Colonic IFN-g expressing CD4 cells also increased upon either recolonization regimen at d7 (p < 0.001; ). In contrast, IFN-g production remained largely unaffected by antibiotic treatment and subsequent bacterial reassociation in the MLN and spleen of mice ().
+Furthermore, IL-17 expressing CD4 cells were strongly diminished in all analyzed immunological compartments upon microbial depletion, but could be fully restored by FMT
+
+(p < 0.05-0.001; ). Mono-association with E. coli resulted in elevated IL-17 production in the small intestine and colon at both d7 and d28, as well as in the MLN at d7 and spleen at d28 (). Mice harboring L. johnsonii alone displayed higher abundances of CD4 IL17 cells than ABx mice in the colon and spleen at d7 post recolonization. In addition, decreased percentages of IL-22 producing CD4 cells following broad-spectrum antibiotic treatment were detected in either compartment (p < 0.01-0.001; ). Small intestinal IL-22 expression was most distinctly induced by E. coli as early as d7 and by FMT at d7 only (). Mono-associated mice further displayed slightly higher abundances of colonic IL-22 producing CD4 cells than their ABx counterparts, which were, however, only significantly higher in the case of E. coli at d7 (p < 0.05 vs. ABx; ). Either recolonization regimen could restore the CD4 IL22 immune cell subset in the MLN at d7, but only E. coli was able to sustain this effect until d28. Moreover, recolonized mice showed similar frequencies of IL-22 producing CD4 lymphocytes in the systemic compartment as their naive, untreated counterparts, regardless of the intervention or time point (p < 0.05-0.001; ).
+Overall,   the   IL-10  expressing  CD4	lymphocytes were down-regulated in the absence of the intestinal microbiota
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(p < 0.05-0.001; ). Both E. coli and L. johnsonii mono-colonization, however, could sufficiently restore the CD4 IL10 cells in the small intestines, whereas only
+L. johnsonii could achieve this effect in the colon (). Increased abundances of IL-10 producing CD4 cells were also detected upon E. coli recolonization at d7 in the MLN and d28 in both MLN and spleen. The IL-10 production in the MLN   and spleen could also be restored at d7 following L. johnsonii recolonization, but this effect could not be sustained until d28 post recolonization.
+
+DISCUSSION
+In  the  present  study,  we  aimed  at  comparing  the  short-   and long-term effects of a single representative Gram-negative and  Gram-positive  intestinal  commensal  species,  namely  of
+E. coli and L. johnsonii, respectively, versus the complex gut microbiota in shaping host immunity following antibiotics- induced  microbiota  depletion.  These  species  were   chosen for the following reasons. Firstly, both commensals are  common inhabitants of the intestinal ecosystem, and although
+
+lactobacilli are quantitatively more abundant than E. coli (, ), the latter represents the predominant facultative anaerobe Gram-negative strain within the mammalian gastrointestinal tract (, ; , ). Furthermore, in our previous works we could confirm differential immunomodulatory properties of  either  strain  under defined immunopathological conditions. For instance,
+E. coli, but not L. johnsonii, aggravated Th1-driven pro- inflammatory immune responses in  murine  ileitis  (, , ). Furthermore, L. johnsonii was able to attenuate intestinal and systemic pro-inflammatory and to augment anti-inflammatory immune responses upon C. jejuni infection of secondary abiotic mice (,  ), and has further been shown to be effective against enteric including infectious morbidities (,), hence resulting in its commercial probiotic application (e.g., Nestle LC1).
+Here, we unraveled immunomodulatory properties of respective commensals at two different time points following recolonization of antibiotics-treated mice,  but  in  the  absence of immunopathological conditions. Performing kinetic analysis in this context is important, given that intestinal responses are
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+highly dynamic over time after the transfer of microbiota into germ-free animals (, ; , ).
+Cultural analysis of fecal samples revealed that either commensal strain was able to stably colonize the murine intestinal tract at high intestinal loads throughout the observation period.  Our  previous  work   revealed   that   upon   cessation  of antibiotic therapy neither regrowth of intestinal bacterial commensals nor changes in the  immune  cell  populations  could be observed, further supporting that the  observed  immune  responses  of  the  mucosal  and  systemic  sites  can  be exclusively attributed to defined bacterial commensal recolonization (, ,).
+Overall, single-strain recolonization appeared to be, to some extent, less effective in restoring immune  cell  populations  after broad-spectrum antibiotic treatment than the complex microbiota upon FMT, given that mono-colonized mice displayed a lack of full recovery of affected cell populations. Following mono-colonization of mice both common and strict strain-specific immune responses could be observed over time. For instance, E. coli  and  L.  johnsonii  had  a  minor  impact  on   the   relative   abundances  of intestinal  CD4	and CD8 cells when compared to antibiotics-treated mice, while FMT
+
+resulted in cell percentages comparable to naive conventionally colonized counterparts. Furthermore, E. coli, but not L. johnsonii recolonization could increase colonic CD4 abundances at d7,  but not later on. Whereas small intestinal CD8    cells could     be reestablished only rather late upon mono-colonization, colonic CD8 cells were virtually unaffected. In the systemic compartment, however, the observed increases in percentages  of splenic CD8 cells in microbiota-depleted mice could be reversed by both E. coli and L. johnsonii until d7, and remained lower in E. coli recolonized mice later on. These results underline the importance of examining immunological sequelae of gut microbiota-interventive strategies, not only at mucosal surfaces, but also on the systemic level of the immune system, given    that the presence/absence and distinct composition of the gut microbiota might also affect splenic lymphocytes. This rationale is supported by the former findings that the Bacteroides fragilis driven differentiation of Treg was not limited to the LP, but could also be detected in the circulation (, ).
+Interestingly, recolonization with L. johnsonii resulted in highest CD4 lymphocyte numbers in the small intestinal LP, supporting former evidence from a clinical investigation, where the application of another Lactobacillus strain, namely L. reuteri,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+led to a significant increase in ileal CD4 cells (, ). In our study, either commensal strain was able to promote CD25 expression on CD4 lymphocytes in the small and large intestines as well as in the spleen, but only L. johnsonii was able to achieve the same effect in MLN. Of note, at d7 following recolonization, L. johnsonii was a stronger inducer of the colonic activated T cells (including Treg) than E. coli. The dependence of Treg on intestinal bacterial antigens has been demonstrated before. () showed that treatment of mice with vancomycin, an antibiotic compound directed mainly against Gram-positive bacteria, resulted in reduced numbers of colonic Treg (, ). A study conducted with germ-free rats revealed that colonic CD25 cells were higher in animals co-colonized with E. coli and L. plantarum 299v, than in those harboring E. coli alone (, ). This indicates that increased microbiota diversity and synergistic effects between species may elicit a stronger immunomodulatory effect on activated T cells and the Treg population, which is supported by our findings that FMT induced the most prominent expression of CD25 in all analyzed immunological compartments.
+
+Unlike FMT, single-strain recolonization resulted in an only partial restoration of the intestinal  activated  DC  (CD86  )  cells,  which  remained,  however,  lower  than  in   untreated SPF mice. Former evidence suggests, that the activation, maturation and cytokine production of DC upon bacterial stimulation is highly dose dependent (, ). Our data  indicate  that  the  activation  of   DC   may   furthermore be dependent on the  diversity  of  presented  microbial  antigens.
+In vitro studies applying PBMC revealed that Gram-positive and Gram-negative bacteria differentially induced cytokine expression patterns (, , ; , ). Therefore we analyzed the production of pro- and anti-inflammatory cytokines, including TNF, IFN-g, IL-17, IL-22, and IL-10 in mice following recolonization with either E. coli or
+L. johnsonii. Intestinal E. coli colonization had a more prominent effect on TNF production by lymphocytes than L. johnsonii.    At d7 following E. coli application, TNF levels measured in intestinal, peripheral and systemic immune compartments were comparable to those in naive mice. However, this effect could
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+be preserved until d28 in MLN only. While excessive TNF production has conclusively been linked to chronic inflammation in numerous organs including the gastrointestinal tract ( , ; ,  ),  it  is  important  to recognize the protective roles of TNF against epithelial injury and disease susceptibility. In a murine ileitis model increased TNF levels resulted in improved epithelial barrier functions and prevention from disease onset (, ). Moreover, TNF deficient mice were more prone to acute colitis, thus leading     to the conclusion that  TNF  might  have  protective  functions  in normal gut homeostasis and intestinal epithelial integrity (, ). () suggested that the production of intestinal epithelial tissue-protective factors, including TNF, is regulated via TLR-mediated recognition of commensal bacteria, while we here provide further  evidence that the adaptive immune system may also contribute to this effect.
+Furthermore, both E. coli and L. johnsonii were able to promote the small  intestinal  and  colonic  production  of  IFN- g by CD4   cells as early as d7 post recolonization, whereas   this cytokine remained highly expressed until d28 only in the
+
+small intestines of E. coli recolonized mice. The abundance of IFN-g expressing CD4 lymphocytes in the MLN and spleen remained unaffected by any of the interventions. These data seem to contradict in vitro findings, which suggest that Gram- positive bacteria tend to be stronger inducers of IFN-g and TNF than Gram-negative species (, , ;  , ). Apart from the general difficulty of directly applying in vitro results to vertebrates exhibiting a complex intestinal microbiota and distinct intra-luminal milieu interacting with the fine-tuned immune system in health and disease, it is also highly likely that human PBMC and murine CD4 cells differently respond to bacterial stimuli, given former evidence regarding  the differences in cytokine patterns between human monocytes and human DC upon bacterial stimulation (, ).
+Moreover, E. coli recolonization seemed to favor a Th17 immune cell differentiation, particularly in the small intestine, given that the production of  the  two  key  cytokines  of  this  cell population, i.e., IL-17 and IL-22, was significantly higher  in CD4 cells isolated from with E. coli recolonized mice as compared to mice harboring L. johnsonii only. Th17 polarization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+is determined by the co-stimulation and cytokine provision  from the DC (, ), whereby IL-23 plays a particularly important role in the sustenance of Th17 cell responses in vivo (, ; , ). It is tempting to speculate that commensal E. coli more strongly induce IL-23 production of DC, thus leading to a Th17 cell differentiation. Interestingly, a study conducted with human PBMC revealed that myeloid DC do indeed produce higher levels of IL-23 when stimulated with E. coli (, ). Furthermore, E. coli heat-labile enterotoxin (synergizing with LPS) has been shown to induce IL-1b and IL-23 secretion by DC, which in turn promoted IL-17 and IFN-g production by CD4 T cells (, ).
+Lactobacillus johnsonii recolonized mice, however, displayed higher abundances of CD4 IL-17 cells  in  the  colon  and  spleen and  of  CD4  IL22  cells  in  the  small  intestinal  LP  and MLN as compared to their secondary abiotic counterparts  at d7 post recolonization. Nonetheless, all the aforementioned immune cell populations declined back to the levels observed   in secondary abiotic mice until 4 weeks after L. johnsonii recolonization. It has been known for a while  now,  that  specific bacterial species such as SFB are required for the differentiation of small intestinal Th17 cells in germ-free mice (, ; , ). A more
+
+recent investigation revealed that extracellular pathogens, such as Citrobacter rodentium and E. coli O157:H7 can also induce Th17 differentiation following adhesion to intestinal epithelial cells (, ). Importantly, a common pilus adherence factor, which mediates adhesion to epithelial cells, has been reported for both pathogenic and commensal E. coli species (, ), indicating that the observed effects on   the Th17 cells may be mediated through adherence of this commensal E. coli.
+Furthermore, both E. coli and  L.  johnsonii  could  restore  the antibiotics-induced reduction of  IL-10  producing  CD4  cells in the  small  intestines,  but  only  the  latter  could  achieve the same effect in the colon, indicating commensal species-specific anti-inflammatory properties. Our results are well in line with a comprehensive analysis of numerous Lactobacillus species suggesting that species derived from healthy mice can be largely classified as potentially anti- inflammatory (, ). Notably, these data support the already proposed concept and evidence, that probiotic bacteria including L. johnsonii exert health-promoting effects through induction of regulatory/anti-inflammatory host immune responses (, ; , ). However, it is highly likely that L. johnsonii and  other  probiotic species exert additional beneficial functions through
+
+
+
+IL-10 independent mechanisms, given their capability to attenuate the severity of colonic inflammation in IL-10 deficient mice.
+The reintroduction of  complex  microbiota  into  the  host  via FMT is a well-known therapy dating back to the Chinese Dong-jin dynasty in the fourth century (,  ) and has undergone a renaissance recently as a therapeutic  option for the treatment of recurrent and refractory Clostridium difficile toxin induced acute necrotizing pseudo-membranous enterocolitis (, ; ,  ;  , ; , ; ,  ).
+In summary, the restoration of immune cell populations following broad-spectrum antibiotic treatment by commensal bacterial mono-colonization appears to be  less  effective than by complex intestinal microbiota association upon FMT, but depends both on the respective immune cell subtypes and analyzed compartments and does hence not follow a clear cut pattern. Nevertheless, mono-colonization of secondary abiotic mice with defined Gram-negative or Gram-positive species has  a deep impact on shaping the host immune system and drives both pro- as well as anti-inflammatory immune responses on  the mucosal, peripheral and systemic level in parallel. However,
+E. coli appears to favor pro-inflammatory immune responses, while L. johnsonii has a stronger impact on anti-inflammatory immune cell subsets.
+
+CONCLUSION
+Future studies should further unravel the fine-tuned interplay between the well-orchestrated concert within the complex intestinal microbiota intestinal on one side and the different members  of  the  immune  system  on  the   other   in  health and disease subsequently providing potential novel treatment options for immunopathological intestinal and extra-intestinal morbidities.
+
+AUTHOR CONTRIBUTIONS
+IE: Performed experiments, analyzed data, and wrote paper. EvK: Performed experiments. CN: Suggested critical parameters in design of experiments, supplied antibodies. PB: Suggested critical parameters in design of experiments, supplied antibodies. AS: Provided advice in design and performance of experiments. SB: Provided advice in design and performance of experiments, co-edited paper. MH: Designed and performed experiments, analyzed data, and co-wrote paper.
+
+FUNDING
+This work was supported by grants from the German Research Foundation (DFG) to SB (SFB633, TP A7), MH (SFB633, TP B6),
+AS (SFB633, TP A1), IE and EvK (SFB633; Immuco) and by the German Federal Ministries of Education and Research (BMBF) to SB and MH (PAC-Campy 01KI1725D).
+
+ACKNOWLEDGMENTS
+The authors thank Michaela Wattrodt, Ursula Ruschendorf, Alexandra Bittroff-Leben, Ulrike Fiebiger, Ines Puschendorf, Gernot Reifenberger, and the staff of the animal research facility of the Charite - University Medicine Berlin for excellent technical assistance and animal breeding.
+
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found online at:  
+FIGURE S1 | Percentages of CD8+ cells in intestinal and systemic compartments of secondary abiotic and recolonized mice. Secondary abiotic mice were generated by broad-spectrum antibiotic treatment and perorally recolonized by gavage. Subsequently, lymphocytes from small intestinal and colonic lamina propria, MLN and spleen were isolated, and analyzed by flow cytometry as described in "Materials and Methods." The percentages of the CD8+ lymphocyte population within the (A) small intestine, (B) colon, (C) MLN and (D) spleen of naive conventional mice (N), secondary abiotic mice (ABx) and mice re-associated with either E. coli (Ec), L. johnsonii (Lj) or complex intestinal microbiota by FMT on d7 and d28 post-recolonization are depicted. Columns represent means +SD. Significance levels (p-values) determined with one-way ANOVA test followed by Tukey post-correction test for multiple comparisons are indicated. Significant differences as compared to secondary abiotic mice are indicated by asterisks
+(*p < 0.05; **p < 0.01; ***p < 0.001). Data were pooled from three independent
+experiments.
+FIGURE S2 | Absolute cell numbers of CD8+ cells in intestinal and systemic compartments of secondary abiotic and recolonized mice. Secondary abiotic mice were generated by broad-spectrum antibiotic treatment and perorally recolonized by gavage. Subsequently, lymphocytes from small intestinal and colonic lamina propria, MLN and spleen were isolated, and analyzed by flow cytometry as described in "Materials and Methods." The concentrations of CD8+ lymphocytes in the (A) small intestine, (B) colon, (C) MLN and (D) spleen of naive conventional mice (N), secondary abiotic mice (ABx) and mice re-associated with either E. coli (Ec), L. johnsonii (Lj) or complex intestinal microbiota by FMT on d7 and d28
+post-recolonization are depicted. Columns represent means +SD. Significance
+levels (p-values) determined with one-way ANOVA test followed by Tukey
+post-correction test for multiple comparisons are indicated. Significant differences as compared to secondary abiotic mice are indicated by asterisks (*p < 0.05;
+**p < 0.01; ***p < 0.001). Data were pooled from three independent experiments.
+FIGURE S3 | CD8+ memory/effector T cells in intestinal and systemic compartments of secondary abiotic and recolonized mice. Secondary abiotic mice were generated by broad-spectrum antibiotic treatment and perorally recolonized by gavage. Subsequently, lymphocytes from small intestinal and colonic lamina propria, MLN and spleen were isolated, and analyzed by flow cytometry as described in "Materials and Methods." The proportions of CD8+ memory/effector cells (CD8+CD44hi , gated on CD8+ cells) in the (A) small intestine, (B) colon,
+MLN and (D) spleen of naive conventional mice (N), secondary abiotic mice (ABx) and mice re-associated with either E. coli (Ec), L. johnsonii (Lj) or complex intestinal microbiota by FMT on d7 and d28 post-recolonization are depicted. Columns represent means +SD. Significance levels (p-values) determined with one-way ANOVA test followed by Tukey post-correction
+test for multiple comparisons are indicated. Significant differences as compared to secondary abiotic mice are indicated by asterisks (*p < 0.05;
+**p < 0.01; ***p < 0.001). Data were pooled from three independent experiments.
+FIGURE S4 | Activated DCs in intestinal and systemic compartments of secondary abiotic and recolonized mice. Secondary abiotic mice were generated by broad-spectrum antibiotic treatment and perorally recolonized by gavage.
+
+
+
+Subsequently, lymphocytes from small intestinal and colonic lamina propria, MLN and spleen were isolated, and analyzed by flow cytometry as described in "Materials and Methods." The frequencies of activated DCs (CD86+, gated
+on CD4-CD8- live cells) in the (A) small intestine, (B) colon, (C) MLN and
+spleen of naive conventional mice (N), secondary abiotic mice (ABx) and mice re-associated with either E. coli (Ec), L. johnsonii (Lj) or complex intestinal
+
+microbiota by FMT on d7 and d28 post-recolonization are depicted. Columns represent means +SD. Significance levels (p-values) determined with one-way ANOVA test followed by Tukey post-correction test for multiple comparisons are indicated. Significant differences as compared to secondary abiotic mice are indicated by asterisks (*p < 0.05; **p < 0.01; ***p < 0.001). Data were pooled from three independent experiments.
+
+
+
+REFERENCES
+Atarashi, K., Tanoue, T., Ando, M., Kamada, N., Nagano, Y., Narushima, S., et al. (2015). Th17 cell induction by adhesion of microbes to intestinal epithelial cells. Cell 163, 367-380. 
+Atarashi, K., Tanoue, T., Shima, T., Imaoka, A., Kuwahara, T., Momose, Y., et al. (2011). Induction of colonic regulatory T cells by indigenous Clostridium species. Science 331, 337-341. 
+Aujla, S. J., Dubin, P. J., and Kolls, J. K. (2007). Th17 cells and mucosal host defense.
+Semin. Immunol. 19, 377-382. 
+Backhed, F., Ley, R. E., Sonnenburg, J. L., Peterson, D. A., and Gordon, J. I. (2005). Host-bacterial mutualism in the human intestine. Science 307, 1915-1920.  
+Bereswill, S., Ekmekciu, I., Escher, U., Fiebiger,  U.,  Stingl,  K.,  and  Heimesaat, M. M. (2017). Lactobacillus johnsonii ameliorates intestinal, extra-intestinal  and  systemic  pro-inflammatory  immune  responses following  murine  Campylobacter  jejuni  infection.   Sci.   Rep.   7:2138.   
+Bereswill, S., Fischer, A.,  Plickert,  R.,  Haag,  L.  M.,  Otto,  B.,  Kuhl,  A.  A., et  al.  (2011).  Novel  murine  infection  models   provide   deep   insights  into  the  "menage  a  trois"  of  Campylobacter  jejuni,   microbiota   and   host innate immunity. PLOS ONE 6:e20953.  
+Biasucci, G., Rubini, M., Riboni, S., Morelli, L., Bessi, E., and Retetangos, C. (2010). Mode of delivery affects the bacterial community in the newborn gut. Early Hum. Dev. 86(Suppl. 1), 13-15. 
+Brandt, L. J., Aroniadis, O. C., and Mellow, M. (2012). Long-term follow-up      of colonoscopic fecal microbiota transplant for recurrent Clostridium difficile infection. Am. J. Gastroenterol. 107, 1079-1087. 
+Brereton, C. F., Sutton, C. E., Ross, P. J., Iwakura, Y., Pizza, M., Rappuoli, R.,   et al. (2011). Escherichia coli heat-labile enterotoxin promotes protective Th17 responses against infection by driving innate IL-1 and  IL-23  production.  J.  Immunol.  186,  5896-5906.     
+Buffie, C. G., Jarchum, I., Equinda, M., Lipuma, L., Gobourne, A., Viale, A., et al. (2012). Profound alterations of intestinal microbiota following a single dose of clindamycin results in sustained susceptibility to Clostridium difficile-induced colitis. Infect. Immun. 80, 62-73. 
+Carding, S., Verbeke, K., Vipond, D. T., Corfe, B. M., and Owen, L. J. (2015). Dysbiosis of the gut microbiota in disease. Microb. Ecol. Health Dis. 26:26191. 
+Castillo, M., Martin-Orue, S. M., Manzanilla, E. G., Badiola, I., Martin, M., and Gasa, J. (2006). Quantification of total bacteria, enterobacteria and lactobacilli populations in pig digesta by real-time PCR. Vet. Microbiol. 114, 165-170. 
+Cording, S., Fleissner, D., Heimesaat, M. M., Bereswill, S., Loddenkemper, C., Uematsu, S., et al. (2013). Commensal microbiota drive proliferation of conventional and Foxp3(+) regulatory CD4(+) T cells in mesenteric lymph nodes and Peyer's  patches.  Eur.  J.  Microbiol.  Immunol.  (Bp)  3,  1-10.  
+Croswell, A., Amir, E.,  Teggatz,  P.,  Barman,  M.,  and  Salzman,  N.  H.  (2009). Prolonged impact of antibiotics on intestinal microbial ecology and susceptibility to enteric Salmonella infection. Infect. Immun. 77, 2741-2753. 
+Di Giacinto, C., Marinaro, M., Sanchez, M., Strober, W., and Boirivant, M. (2005). Probiotics ameliorate recurrent Th1-mediated murine colitis by inducing  IL-10 and IL-10-dependent TGF-b-bearing regulatory cells. J. Immunol. 174, 3237-3246. 
+Donaldson, G. P., Lee, S. M., and Mazmanian, S. K. (2016). Gut biogeography of the bacterial microbiota. Nat. Rev. Microbiol. 14, 20-32. 
+
+Eckburg, P. B., Bik, E. M., Bernstein, C. N., Purdom, E., Dethlefsen, L., Sargent, M., et al. (2005). Diversity of the human intestinal microbial flora. Science 308, 1635-1638. 
+Ekmekciu, I., von Klitzing, E., Fiebiger, U., Escher, U., Neumann, C., Bacher, P., et al. (2017a). Immune responses to broad-spectrum antibiotic treatment and fecal microbiota transplantation in mice. Front. Immunol. 8:397.  
+Ekmekciu, I., von Klitzing, E., Fiebiger, U., Neumann, C., Bacher, P., Scheffold, A., et al. (2017b). The probiotic compound VSL#3 modulates mucosal, peripheral, and systemic immunity following murine broad-spectrum antibiotic treatment. Front. Cell Infect. Microbiol. 7:167. 
+El Aidy, S., van Baarlen, P., Derrien, M., Lindenbergh-Kortleve, D. J., Hooiveld, G., Levenez, F., et al. (2012). Temporal  and  spatial  interplay  of  microbiota and intestinal mucosa drive establishment of immune homeostasis in conventionalized mice. Mucosal Immunol. 5, 567-579.  Ericsson, A. C., and Franklin, C. L. (2015). Manipulating the gut microbiota:
+methods and challenges. ILAR J. 56, 205-217. 
+Evrard, B., Coudeyras, S., Dosgilbert, A., Charbonnel, N., Alame, J., Tridon, A., et al. (2011). Dose-dependent immunomodulation of human dendritic cells by the probiotic Lactobacillus rhamnosus Lcr35. PLOS ONE 6:e18735.  
+Fiebiger, U., Bereswill, S., and Heimesaat, M. M. (2016). Dissecting the interplay between intestinal microbiota and host immunity in health and disease: lessons learned from germfree and gnotobiotic animal models. Eur. J. Microbiol. Immunol. (Bp) 6, 253-271. 
+Finegold, S., Sutter, V., and Mathisen, G. (1983). Human Intestinal  Microflora  in Health and Disease, ed. D. J. Hentges (Cambridge, MA: Academic Press, Inc.), 3-31.
+Fischer, M., Kao, D., Kelly, C., Kuchipudi, A., Jafri, S. M., Blumenkehl, M.,      et  al.  (2016).  Fecal  microbiota  transplantation  is  safe  and  efficacious    for recurrent or refractory Clostridium difficile infection in patients with inflammatory Bowel disease. Inflamm. Bowel Dis. 22, 2402-2409.  
+Foligne, B., Nutten, S., Grangette, C., Dennin, V., Goudercourt, D., Poiret, S., et al. (2007). Correlation between in vitro and in vivo immunomodulatory properties of lactic acid bacteria. World J. Gastroenterol. 13, 236-243.  
+Fujiwara, D., Inoue, S., Wakabayashi, H., and Fujii, T. (2004). The anti-allergic effects of lactic acid bacteria are strain dependent and mediated by effects on both Th1/Th2 cytokine expression and balance. Int. Arch. Allergy Immunol. 135, 205-215. 
+Gaboriau-Routhiau, V., Rakotobe, S., Lecuyer, E., Mulder, I., Lan, A., Bridonneau, C., et al. (2009). The key role of segmented filamentous bacteria in the coordinated maturation of gut helper T cell responses. Immunity 31, 677-689. 
+Gorska, S., Sandstrom, C., Wojas-Turek, J., Rossowska, J., Pajtasz-Piasecka, E., Brzozowska, E., et al. (2016). Structural and immunomodulatory differences among lactobacilli exopolysaccharides isolated from intestines of mice with experimentally induced inflammatory bowel disease. Sci. Rep. 6:37613.  
+Haag, L. M., Fischer, A., Otto, B., Plickert, R., Kuhl, A. A., Gobel, U. B., et al. (2012). Campylobacter jejuni induces acute enterocolitis in gnotobiotic IL-10-/- mice via Toll-like-receptor-2 and -4 signaling. PLOS ONE 7:e40761. 
+
+Heimesaat, M. M., Bereswill, S., Fischer, A., Fuchs, D., Struck, D., Niebergall, J., et al. (2006). Gram-negative bacteria aggravate murine small intestinal Th1-type immunopathology following oral infection with Toxoplasma gondii. J. Immunol. 177, 8785-8795. 
+Heimesaat, M. M., Fischer, A., Jahn, H. K., Niebergall, J., Freudenberg, M., Blaut, M., et al. (2007). Exacerbation of murine ileitis by Toll-like receptor 4
+
+
+
+mediated sensing of lipopolysaccharide from commensal Escherichia coli. Gut
+56, 941-948. 
+Henker, J., Muller, S., Laass, M. W., Schreiner, A., and Schulze, J. (2008). Probiotic Escherichia coli Nissle 1917 (EcN) for successful remission maintenance of ulcerative colitis  in  children  and  adolescents:  an  open-label  pilot  study.  Z. Gastroenterol. 46, 874-875. 
+Herias, M. V., Hessle, C., Telemo, E., Midtvedt, T., Hanson, L., and Wold, A. E. (1999). Immunomodulatory effects of Lactobacillus plantarum colonizing the intestine of gnotobiotic rats. Clin. Exp. Immunol. 116, 283-290.  
+Hessle, C., Andersson, B., and Wold, A. E. (2000). Gram-positive bacteria are potent inducers of monocytic interleukin-12 (IL-12) while Gram-negative bacteria preferentially stimulate IL-10 production. Infect. Immun. 68, 3581-3586. 
+Hessle, C. C., Andersson, B., and Wold, A. E. (2005). Gram-positive and Gram- negative bacteria elicit different patterns of pro-inflammatory cytokines in human monocytes. Cytokine 30, 311-318. 
+Hill, D. A., Siracusa, M. C., Abt, M. C., Kim, B. S., Kobuley, D., Kubo, M., et al. (2012). Commensal bacteria-derived signals regulate basophil hematopoiesis and allergic inflammation. Nat. Med. 18, 538-546. 
+Isolauri, E., Arvola, T., Sutas, Y., Moilanen, E., and Salminen, S. (2000). Probiotics in the management of atopic eczema. Clin.  Exp.  Allergy  30,  1604-1610. 
+Ivanov, I., Frutos Rde, L., Manel, N., Yoshinaga, K., Rifkin, D. B., Sartor, R. B., et al. (2008). Specific microbiota direct the differentiation of IL-17-producing T-helper cells in the mucosa of the small intestine. Cell Host Microbe 4, 337-349. 
+Kalliomaki, M., Salminen, S., Arvilommi, H., Kero, P., Koskinen, P., and Isolauri, E. (2001). Probiotics in primary prevention of atopic disease: a randomised placebo-controlled trial. Lancet 357, 1076-1079. 
+
+Kalliomaki, M., Salminen, S., Poussa, T., Arvilommi, H., and Isolauri, E. (2003). Probiotics and prevention of atopic disease: 4-year follow-up of a randomised placebo-controlled trial. Lancet 361, 1869-1871. 
+
+Karlsson, H., Larsson, P., Wold, A. E., and Rudin, A. (2004).  Pattern  of  cytokine responses to gram-positive and gram-negative commensal bacteria is profoundly changed when monocytes differentiate into dendritic cells. Infect. Immun. 72, 2671-2678. 
+Kollias, G., Douni, E., Kassiotis, G., and Kontoyiannis, D. (1999). The function of tumour necrosis factor and receptors in models of multi-organ inflammation, rheumatoid arthritis, multiple sclerosis and inflammatory bowel disease. Ann. Rheum. Dis. 58(Suppl. 1), I32-I39. 
+Kruis, W., Fric, P., Pokrotnieks, J., Lukas, M., Fixa, B., Kascak, M., et al. (2004). Maintaining remission of ulcerative colitis with the probiotic Escherichia coli Nissle 1917 is as effective as with standard mesalazine. Gut 53, 1617-1623. 
+Kwon, H. K., Lee, C. G., So, J. S., Chae, C. S., Hwang, J. S., Sahoo, A., et al. (2010). Generation of regulatory dendritic cells and CD4+Foxp3+ T cells by probiotics administration suppresses immune disorders. Proc. Natl. Acad. Sci. U.S.A. 107, 2159-2164. 
+LeBlanc, J. G., Milani,  C.,  de  Giori,  G.  S.,  Sesma,  F.,  van  Sinderen,  D.,  and  Ventura,  M.  (2013).  Bacteria  as  vitamin  suppliers  to  their  host:        a  gut  microbiota  perspective.  Curr.  Opin.  Biotechnol.   24,   160-168.   
+Lievin-Le Moal, V., and Servin, A. L. (2014). Anti-infective activities of lactobacillus strains in the human intestinal microbiota: from probiotics to gastrointestinal anti-infectious biotherapeutic agents. Clin. Microbiol. Rev. 27, 167-199. 
+Macpherson, A. J., and Harris, N. L. (2004). Interactions between commensal intestinal bacteria and the immune system. Nat. Rev. Immunol. 4, 478-485. 
+Mangan, P. R., Harrington, L. E., O'Quinn, D. B., Helms, W. S., Bullard,
+D. C., Elson, C. O., et al. (2006). Transforming growth factor-beta induces development of the T(H)17 lineage. Nature 441, 231-234. 
+Manuzak, J., Dillon, S., and Wilson, C. (2012). Differential interleukin-10 (IL-10) and IL-23 production by human blood monocytes and dendritic cells in
+
+response to commensal enteric bacteria. Clin. Vaccine Immunol. 19, 1207-1217. 
+McGeachy, M. J., Chen, Y., Tato, C. M., Laurence, A., Joyce-Shaikh, B., Blumenschein, W. M., et al. (2009). The interleukin 23 receptor is essential for the terminal differentiation of interleukin 17-producing effector T helper cells in vivo. Nat. Immunol. 10, 314-324. 
+Naito, Y., Takagi, T., Handa, O., Ishikawa, T., Nakagawa, S., Yamaguchi, T., et al. (2003). Enhanced intestinal inflammation induced by dextran sulfate sodium in tumor necrosis factor-alpha deficient mice. J. Gastroenterol. Hepatol. 18, 560-569. 
+Niess, J. H., Leithauser, F., Adler, G., and Reimann, J. (2008). Commensal gut flora drives the expansion of proinflammatory CD4 T cells in the colonic lamina propria under normal and inflammatory conditions. J. Immunol. 180, 559-568. 
+Org, E., Parks, B. W., Joo, J. W., Emert, B., Schwartzman, W., Kang, E. Y., et al. (2015). Genetic and environmental control of host-gut microbiota interactions. Genome Res. 25, 1558-1569. 
+Ostman, S., Rask, C., Wold, A. E., Hultkrantz, S., and Telemo, E. (2006). Impaired regulatory T cell function in germ-free mice. Eur. J. Immunol. 36, 2336-2346. 
+Pagnini, C., Saeed, R., Bamias, G., Arseneau, K. O., Pizarro, T. T., and Cominelli, F. (2009). Probiotics promote gut health through stimulation of epithelial innate immunity. Proc. Natl. Acad. Sci. U.S.A. 107, 454-459.  
+Palmer, C., Bik, E. M., DiGiulio, D. B., Relman, D. A., and Brown, P. O. (2007). Development of the human infant intestinal microbiota. PLOS Biol. 5:e177. 
+Penders, J., Thijs, C., Vink, C., Stelma, F. F., Snijders, B., Kummeling, I., et al. (2006). Factors influencing the composition of the intestinal microbiota in early infancy. Pediatrics 118, 511-521. 
+Perona-Wright, G., Jenkins, S. J., O'Connor, R. A., Zienkiewicz, D., McSorley, H. J., Maizels, R. M., et al. (2009). A pivotal role for CD40-mediated IL-6 production by dendritic cells during IL-17 induction in vivo. J. Immunol. 182, 2809-2815. 
+Popa, C., Netea, M. G., van Riel, P. L., van der Meer, J. W., and Stalenhoef,
+A. F. (2007). The role of TNF-alpha in chronic inflammatory conditions, intermediary metabolism, and cardiovascular risk. J. Lipid Res. 48, 751-762. 
+Rakoff-Nahoum, S., Paglino, J., Eslami-Varzaneh, F., Edberg, S., and Medzhitov, R. (2004). Recognition of commensal microflora by toll-like receptors is required for intestinal homeostasis. Cell 118, 229-241. 
+Rendon, M. A., Saldana, Z., Erdem, A. L., Monteiro-Neto, V., Vazquez, A., Kaper, J. B., et al.  (2007).  Commensal  and  pathogenic  Escherichia  coli  use a  common  pilus  adherence  factor  for  epithelial  cell  colonization.  Proc. Natl. Acad. Sci. U.S.A. 104, 10637-10642.  
+Rohlke, F., Surawicz, C. M., and Stollman, N. (2010). Fecal flora reconstitution for recurrent Clostridium difficile infection: results and methodology. J. Clin. Gastroenterol. 44, 567-570. 
+Round, J. L., Lee, S. M., Li, J., Tran, G., Jabri, B., Chatila, T. A., et al. (2011). The Toll-like receptor 2 pathway establishes colonization by a commensal of the human microbiota. Science 332, 974-977. 
+Scaldaferri, F., Pecere, S., Petito, V., Zambrano, D., Fiore, L., Lopetuso, L. R., et al. (2016). Efficacy and mechanisms of action of fecal microbiota transplantation in ulcerative colitis: pitfalls and promises from a first meta-analysis. Transplant. Proc. 48, 402-407. 
+Schultz, M. (2008). Clinical use of E. coli Nissle 1917 in inflammatory bowel disease.
+Inflamm. Bowel. Dis. 14, 1012-1018. 
+Schultz, M., Veltkamp, C., Dieleman, L. A., Grenther, W. B., Wyrick, P. B., Tonkonogy, S. L., et al. (2002). Lactobacillus plantarum 299V in the treatment and prevention of spontaneous colitis in interleukin-10-deficient mice. Inflamm. Bowel Dis. 8, 71-80. 
+Sender, R., Fuchs, S., and Milo, R. (2016). Are we really vastly outnumbered? revisiting the ratio of bacterial to host cells in humans. Cell 164, 337-340.  
+Sheridan, B. S., and Lefrancois, L. (2012). Isolation of mouse lymphocytes from small intestine tissues. Curr. Protoc. Immunol. 3, 3.19.1-3.19.11.  
+
+
+
+Shida, K., Nanno, M.,  and  Nagata,  S.  (2011).  Flexible  cytokine  production  by macrophages and T cells in response to probiotic bacteria: a possible mechanism by which probiotics exert multifunctional immune regulatory activities. Gut Microbes 2, 109-114. 
+Skovbjerg, S., Martner, A., Hynsjo, L., Hessle, C., Olsen, I., Dewhirst, F. E., et al. (2010). Gram-positive and gram-negative bacteria induce different patterns of cytokine production in human mononuclear cells irrespective of taxonomic relatedness. J. Interferon Cytokine Res. 30, 23-32. 
+Sommer, F., and Backhed, F. (2013). The gut microbiota-masters of host development and physiology. Nat. Rev. Microbiol. 11, 227-238.  
+Sprent, J., and Surh, C. D. (2002). T cell memory. Annu. Rev. Immunol. 20, 551-579. 
+Stiemsma, L. T., Turvey, S. E., and Finlay, B. B. (2014). An antibiotic-altered microbiota provides fuel for the enteric foe. Cell Res. 24, 5-6.  
+Tenaillon, O., Skurnik, D., Picard, B., and Denamur, E. (2010). The population genetics of commensal Escherichia coli. Nat.  Rev. Microbiol. 8, 207-217.  
+Tomas, J., Reygner, J., Mayeur, C., Ducroc, R., Bouet, S., Bridonneau, C., et al. (2015). Early colonizing Escherichia coli elicits remodeling of rat colonic epithelium shifting toward a new  homeostatic  state.  ISME  J.  9,  46-58.  
+Valeur, N., Engel, P., Carbajal, N., Connolly, E., and Ladefoged, K. (2004). Colonization and immunomodulation by Lactobacillus reuteri ATCC 55730  in the human gastrointestinal tract. Appl. Environ. Microbiol. 70, 1176-1181. 
+van Nood, E., Speelman, P., Kuijper, E. J., and Keller, J. J. (2009). Struggling with recurrent Clostridium difficile infections: is donor faeces the solution? Euro Surveill. 14:19316.
+Viljanen, M., Savilahti, E., Haahtela, T., Juntunen-Backman, K., Korpela, R., Poussa, T., et al. (2005). Probiotics in the treatment of atopic eczema/dermatitis
+
+syndrome in infants: a double-blind placebo-controlled trial. Allergy 60, 494-500. 
+Wallet, M. A., Sen, P., and Tisch, R. (2005). Immunoregulation of dendritic cells.
+Clin. Med. Res. 3, 166-175. 
+Zarkan, A., Macklyne, H.-R., Truman, A.  W.,  Hesketh,  A.  R.,  and  Hong,  H.-J. (2016). The frontline antibiotic vancomycin induces a zinc starvation response in bacteria by binding to Zn(II). Sci. Rep. 6:19602.  
+Zeuthen, L. H., Christensen, H. R., and Frokiaer, H.  (2006).  Lactic  acid  bacteria  inducing  a  weak  interleukin-12  and  tumor   necrosis   factor   alpha  response  in  human  dendritic  cells  inhibit  strongly  stimulating   lactic acid bacteria but  act  synergistically  with  gram-negative  bacteria.  Clin.  Vaccine  Immunol.  13,  365-375.     
+Zhang, F., Luo, W., Shi, Y., Fan, Z., and Ji, G. (2012). Should we standardize   the 1,700-year-old fecal microbiota transplantation?. Am. J. Gastroenterol. 107, 1755-1755. 
+Zhang, Y. J., Li, S., Gan, R. Y., Zhou, T., Xu, D. P., and Li, H. B. (2015). Impacts of gut bacteria on human health and diseases. Int. J. Mol. Sci. 16, 7493-7519. 
+
+Conflict of Interest Statement: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Copyright (c) 2017 Ekmekciu, von Klitzing, Neumann, Bacher, Scheffold, Bereswill and Heimesaat. This is an open-access article distributed under the terms of     the     . The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.

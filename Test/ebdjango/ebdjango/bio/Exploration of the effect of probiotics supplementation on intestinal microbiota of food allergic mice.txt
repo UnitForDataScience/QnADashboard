@@ -1,0 +1,341 @@
+Am J Transl Res 2017;9(2):376-385
+/ISSN:1943-8141/AJTR0035123
+
+Original Article
+Exploration of the effect of probiotics supplementation on intestinal microbiota of food allergic mice
+
+Bo Yang1,2*, Liang Xiao3*, Sheng Liu3*, Xiaoyu Liu1, Yan Luo1, Qiongmei Ji1, Pingchang Yang1,2, Zhigang Liu1,2
+
+1Institute of Allergy and Immunology, School of Medicine, Shenzhen University, Shenzhen 518060, China; 2Key
+Laboratory of Optoelectronic Devices and Systems of Ministry of Education and Guangdong Province, College of Optoelectronic Engineering, Shenzhen University, Shenzhen 518060, China; 3BGI Shenzhen, Shenzhen, China.
+*Equal contributors.
+Received July 5, 2016; Accepted December 29, 2016; Epub February 15, 2017; Published February 28, 2017
+
+Abstract: Environmental factor-induced alterations in intestinal microbiota have been demonstrated to be associat- ed with increasing prevalence of food allergy. However, it is not clear to what extent oral administration of probiotics can affect gut microbiota composition, thus inhibiting food allergy development. Using ovalbumin (OVA)-sensitized murine model, it was demonstrated that probiotics ameliorated allergic symptoms, including reducing OVA specific- IgE, and -IgG1 levels in the serum, Th2 cytokines release in spleen, and occurrence of diarrhea. Moreover, 16S rRNA analysis showed that the probiotics-mediated protection was conferred by an enrichment of Coprococcus and Rikenella. The present study supports the theory that probiotics can treat food allergy by modulating specific genera of the gut microbiota.
+Keywords: Intestine, microbiota, food allergy, OVA, 16S rRNA
+
+
+Introduction
+
+Food allergy is an adverse immune response to certain kinds of food. It is estimated that food allergy affects about 8% of children and 4% of adults [1, 2]. The rapid increase in the preva- lence of food allergy over past several decades cannot be explained by genetic variation alone. In current, avoidance of dietary allergens is the only proven remedy available for food allergic suffers.
+Growing evidence suggests that gut microbiota exerts profound influence on immune system maturation and tolerance acquisition. Intestinal microflora alteration, caused by environmental factors (e.g., mode of birth, antibiotics, diet, vaccination, sanitation), has been observed to be associated with many gastrointestinal dis- eases, including food allergy [3], inflammatory bowel diseases [4], or colorectal cancer [5-8]. Of note, intestinal microflora has been demon- strated to play an important role in maintaining the  Th1/Th2  balance  [9],  which  is  the  key mechanism involved in allergic diseases.
+
+The role of probiotics in allergic disease has been highlighted recently. Bifidobacteria and lactobacilli, which are common species of pro- biotics existing in most people, can affect immune function by various pathways. In many cases, probiotics supplementation was demon- strated to induce TGF-b expression, which ameliorates food allergy by suppressing Th2 response, and inducing Foxp3+ Treg production [10-15]. A microarray analysis of intestinal epi- thelial cells from gnotobiotic mice revealed a mechanism that Clostridia facilitated immune cells to produce interleukin-22 (IL-22), regulat- ed innate lymphoid cell function and intestinal epithelial permeability to protect against aller- gen sensitization [3]. Besides, the suppressive effect of probiotics on Th17 response has been shown both in murine asthma [16] and atopic dermatitis model [17]. However, whether probiotics treatment elicited changes in the composition of the intestinal microbiota, there- by regulating allergic disease remains poorly understood.
+The current study investigated the beneficial
+effect  of  Bifidobacterium  Infantis  (BB)  in a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Allergic reactions in the mouse intestine were attenuated by BB. Balb/c mice were treated with PBS (Naive group), OVA/CT (FA group), OVA/CT+BB (FAPro group). The bars indicate the levels of serum OVA-specific IgE (A), -IgG1 (B), IL-4, -5, and -13 levels in supernatant of splenocytes (C), and number of diarrhea mice (D). Data are presented as mean +- SEM. **P < 0.01 vs naive group; #P < 0.05, vs FA group.
+
+
+murine model of food allergy at the level of commensal microbiota. Sequencing of the V4-V5 regions of 16S rRNA genes revealed that BB could modulate specific genera of intestinal microbiota in mice, which may induce immune responses in gastrointestinal tract to defend against food allergens.
+Materials and methods
+
+Animals
+
+All the animal experimental procedures were conducted according to the guidelines appro- ved by the Experimental Animal Ethic Com- mittee at Shenzhen University, and were car- ried out in accordance with the Guide for the Care and Use of Laboratory Animals published by the US National Institutes of Health (NIH publication no. 85-23, revised 1996). 6-8 weeks old female Balb/c mice were housed in a SPF animal facility with a 12 h light-dark cycle and were free to access standard diet and water.
+
+Food allergic animal model
+
+Mice were intragastrically administered with 100 mg OVA plus 20 mg cholera toxin (CT) in a final volume of 300 ml using a ball-end mouse feeding tube once a week for 4 consecutive weeks. At the end of sensitization, mice were challenged with 5 mg OVA orally. After 24 h, the mice were killed and serum and splenocytes were collected for the following analysis as reported previously (referred to as FA group) [25].
+BB preparation and supplementation
+
+BB was kindly provided by Shenzhen Kexing Biotech CO., LTD (Shenzhen, China) as lyophi- lized powder and inoculated before giving to mice. From Day 15 to Day 28, sensitized mice were orally administered with 200 ml/mouse of normal saline containing 108 cfu/ml as previously described (referred to as FAPro group) [13]. On day 29, the mice were chal- lenged as described above.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. The heatmap of correlation between five phenotypes and OTUs profile. Red means positive correlation,
+while blue represents negative correlation.
+
+
+Serum immunoglobulin levels
+
+Serum was collected, and OVA-specific IgE was detected by commercial ELISA kit (Biolegend, USA) according to the manufacturer's instruc- tions. OVA-specific IgG1 was measured by an in-house ELISA as previously described [26].
+DNA extraction, amplification and sequencing
+
+During the process of food allergy model estab- lishment, fecal samples (up to ~1 g) were col- lected on Day 0, 7,  14, 28, 29, and stored at
+-80degC. The total DNA from fecal samples was extracted by reported method [27].  The 16S
+
+rRNA was amplified and sequenced on the Ion Torrent Personal Genome Machine as reported in previous study [28].
+Bioinformatics analysis
+
+The data was treated with in-house pipeline developed based on mothur v.1.33.3 [29]. The community structure was calculated based on the membership and relative abundance of taxonomic groups in the sample. In this study, the Permutational multivariate analysis of variance (PERMANOVA) was used to assess the effect of BB (covariate) on operational taxonomic units (OTUs) profiles. A two-tailed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Boxplot of 4 kinds of alpha diversity between FA and FAPro group. Chao, ACE, Shannon, simpson are the four kinds of alpha diversity metrics. FA (n=27), FAPro (n=34). Mean values +- SEM are plotted.
+
+
+Wilcoxon rank-sum test was used in the profile to identify the different OTUs and KEGG Orthologs (KOs). In addition, we used PICRUSt
+[30] to produce predicted KOs from the 16S rRNA gene sequence data.
+Statistical analysis
+
+In Figure 1, all values are presented as the means +- SEM. Differences between two groups were evaluated with the Student t test, while data among three or more groups were evalu- ated with one-way ANOVA (Prism version 5, GraphPad Software; CA, USA). A P value less than 0.05 was considered to indicate signifi- cant differences.
+Results
+
+BB showed significant protective effect on food
+allergic mice
+
+Food allergic mice model was established using OVA as allergen, CT as adjuvant. As shown in
+
+Figure 1A and 1B, treatment with BB for two weeks attenuated sIgE and sIgG1 by 33% and 32% respectively, when compared with FA group. Moreover, spleneocytes were harvested from all the three groups of mice and incu- bated with OVA for 3 days. The levels of typical Th2-type cytokines in supernatant were deter- mined by commercial ELISA. Intragastrically administered with BB significantly reduced IL-4,
+-5, and -13 by 31%, 24%, and 50% respectively in FA mice (Figure 1C). In addition, after chal- lenge with OVA, the FA mice showed significant diarrhea (Figure 1D), which could be amelio- rated by BB.
+
+BB-induced phenotypic improvement was as-
+sociated with specific OTUs
+
+Next, to investigate the effect of BB on gut microbiome, we carried out metagenomic sequencing of fecal samples from FA and FAPro mice. All sequencing reads were finally classi- fied into 1195 operational taxonomic units
+
+diversity [20]. The higher Shannon index indicates the greater community diversity, while the higher Simpson index indicates the lesser community diversity. We used these 4 kinds of alpha diver- sity parameters to describe the microbiologic species di- versity changes between FA group and FAPro group (Figure 3). Student's t-test showed that there were no significant differences of these four indexes (Figure 3). The re- sults indicated that BB was not strong enough to change population diversity and rich- ness of intestinal microbiota.
+
+BB didn't alter intestinal mi- crobiota compositon in mice
+
+
+
+
+Figure 4. The PCoA of OTU profile between FA and FAPro mice. 16S rRNA gene surveys (analyzed by JSD-based PCoA) from mice fed PBS (red) or pro- biotics (blue) diets are presented in a different clustering pattern. Principal coordinate1 (PC)1 and PC2 are the x axis and y axis, respectively, and have been scaled on the basis of percent variance.
+
+In order to investigate wheth- er probiotics treatment chan- ge the composition of in- testinal microbiota, we used principal coordinate analysis (PCoA) to compare FA and FAPro group. As shown in Figure 4, there was no signifi-
+
+(OTUs). The correlation between food allergic phenotypes and OTUs was calculated. It was found that 61 OTUs were significantly related to sIgE, sIgG1, IL-4, IL-5, and IL-13. Among them, 45 OTUs were positively correlated with these phenotypes and 16 OTUs were negatively cor- related (Figure 2). For instance, Otu0724, annotated to the family S24-7, was significantly positive correlated with allergic phenotypes. On the contrary, Otu0543, annotated to the genus Bacteroides, was significantly negatively corre- lated. Upregulation or downregulation of the relative abundances of these OTUs could trig- ger certain immune responses. The results indicated that BB treatment may change immune indexes of food allergy through modu- lation of these OTUs.
+
+Treatment with BB shows no effect on alpha- diversity of intestinal microflora
+
+Chao [18] and ACE [19] are usually used to compute community richness; the higher score, the more richness. Shannon and Simpson met- rics are commonly used to calculate community
+
+cant difference between FA and FAPro group. Thus, it was implied that BB showed no effect on modulation of microbiota composition.
+The taxonomic classification of gut microbiota
+in mice
+
+We found that Bacteroidetes and Firmicutes were two most prevalent phyla present in food allergic mice treated with or without probi- otics, the same as that under physiological status [3]. Furthermore, Lachnospiraceae, S24-7, Rikenellaceae, and Ruminococcaceae accounted for four major components at family levels (Figure 5A). Further analysis revealed that 2-wk of BB treatment resulted in a significant change in fecal microbiota composition at genus level. As shown in Figure 5B, the levels of Coprococcus and Rikenella were significantly increased by 66% and 60% respectively, after BB treatment. Thus, the relative abundances of Coprococcus and Rikenella may be used as microbial biomarkers to diagnose food allergy.
+
+(FAPro2), after two weeks' administration (FAPro3), 1 h after allergen challenge (FA- Pro4), 24 h after allergen challenge (FAPro5). Intriguing- ly, we selected 12 most abundant genera and found that at least 6 genera  of  gut bacteria, including Odo- ribacter, Bacteroides, Copro- coccus, Blautia, Eubacterium, Prevotella changed with time after probiotics treatment (Figure 7). For example, the levels of Odoribacter were significantly increased by 3.3 fold at the time point of 24 h after challenge compared to the time point of 1 h after challenge.
+
+Metabolic pathways of gut microbiota was altered by BB supplementation
+
+
+
+
+
+
+Figure 5. A. Taxonomic distributions in gut communities. Values represent the relative abundance of bacteria at family level across all samples within FA group and FAPro group. A small amount of microorganism is unknown. B. Comparision of 12 major genera between FA and FAPro group. Wilcoxon rank test showed there were significant differences in Coprococcus and Rikenella between the two group. *P < 0.05, **P < 0.01 vs FA group.
+
+We used PICRUSt to produce predicted metagenomes from 16S rRNA gene sequence database. 143 KOs were found to be significantly differ- ent between FA and FAPro mice, using Wilcoxon rank test, p value < 0.05. Among them, only 4 KOs were enriched in FAPro group (Table
+
+Comparison of OTUs levels between FA and
+FAPro mice
+
+Next, Wilcoxon rank test showed that 92 OTUs were significantly different between FA group and FAPro group. Among them, 40 OTUs (43.5%) were enriched in FA group. 33 OTUs were picked out through a FDR adjust and make a heatmap with the OTU percentage profile (Figure 6). Moreover, we found that probiotics administration could enrich more bacteria assigned to Coprococcus, Rikenella and Bacteroides in the mice gut (Figure 6).
+Mice gut microflora changed across time
+
+In order to monitor the change of gut bacteria during the period of probiotics administration, we collected fecal samples at 5 time points: before oral treatment of probiotics (FAPro1), after one week's probiotics administration
+
+1). The results implied that BB supplementa- tion significantly modified metabolic pathways of gut microbiota.
+Discussion
+
+Gut microbiota plays an important role in the pathogenesis of food allergy. In this study, we found that oral administration of BB induced significant improvement on allergic symptoms in mice. Furthermore, the results demonstrat- ed that BB conferred a protective effect on food allergic mice through up-regulation of the relative abundance of Coprococcus and Rikenella at genus level. Furthermore, the genera of gut microflora were presented in a time-dependent pattern after BB treatment.
+
+Growing evidence suggests that the relation- ship among diet, probiotics, immune system and gut microbiota ecology determines the dis-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 6. Heatmap of gut bacteria in FA and FAPro group at OTU level. Blue regions represent relatively low OUT abundance, while red regions means relatively high OTU abundance.
+
+able [24]. Therefore, in order to further determine the differ- ent components of intestinal microbiota caused by probiot- ics, we chose state-of-the-art next-generation sequencing method to detect the 16S rRNA of faces samples and determine the frequency of microbes and its metabolic pathway in gastrointestinal tract. We found that there were 12 genera of gut bacteria existing in both FA and FAPro groups. After supplementation with BB for two weeks, each genus changed periodically. Based on their relative abun- dances, BB administration could up-regulate Rikenlla and down-regulate Eubacterium. These two genera of bacteria have never been highlighted by other related researches. Instead, Stefka [3] et al dem- onstrated that a Clostridia- containing microbiota was
+
+ease susceptibility to allergy [21]. Thus, it is
+very likely that intragastrical administration of probiotics may treat food allergy by restoring the unbalanced indigenous microbiota and controlling the inflammatory responses. Until now, there is no investigation targeting the direct effect of probiotic supplementation on intestinal microbiota. Although there are more than 1000 species of intestinal bacteria, most of them belong to just a few phyla. Bacteroidetes and Firmicutes phyla dominate the adult intes- tine. The intestinal microbiota is of high varia- tion from people to people at species-level, but bifidobacteria and lactobacilli are common spe- cies existing in most people [22]. Thus, in the present study we chose BB to treat a classical animal model sensitized by OVA. In this study, animals treated with probiotics for two weeks showed improvement in all major indicators of experimental mucosal allergy, in line with the results previously reported [23].
+When use traditional culture based techniques to determine the composition of the gut micro- biota, there are only ~10% of gut bacteria pos- sibly to be studied since others are not cultur-
+
+associated with innate lymphoid cell function
+and intestinal epithelial permeability. The diver- gence may be attributed to that they didn't use a kind of probiotics to treat allergic mice.
+In conclusion, this is the first study to explore microbial population changes in food allergic animal model, in case of probiotics administra- tion. Likely, specific gut bacterial changes con- tributed to disease process altered by probiot- ics. Still, patients study are warranted in the future to determine whether the findings herein reported can be validated and correlated with the clinical features.
+Acknowledgements
+
+This work was supported by grants from the Natural Science Foundation of China (No. 81300292 to B.Y., No. 81271950 to Q.M.J.,
+and 81460252 to X.Y.L.), Guangdong Foreign Scientific Technology Cooperative Project (No. 2013B051000088 to Z.G.L.), Shenzhen Scien- tific Technology Basic Research Projects (No. 005177 to Q.M.J., JCYJ20140418095735538 to Z.G.L., and JCYJ20130402151227168 to S.G.H.).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 7. Time-dependent manner of gut bacteria changes at genus level. During the period of probiotics adminis- tration, we collected fecal samples at 5 time points: before oral treatment of probiotics (FAPro1), after one week's probiotics administration (FAPro2), after two weeks' administration (FAPro3), 1 h after allergen challenge (FAPro4), 24 h after allergen challenge (FAPro5). The relative abundances of bacteria at genus level are presented. *P < 0.05,
+**P < 0.01, PAPro2 vs PAPro1, PAPro3 vs PAPro2, PAPro4 vs PAPro3, PAPro5 vs PAPro4.
+
+
+
+
+Disclosure of conflict of interest
+
+None.
+
+Authors' contribution
+
+B.Y., L.X. and S.L. performed experiments and analyzed data. B.Y. wrote the manuscript. X.Y.L. and Y.L. performed experiments. Q.M.J, P.C.Y. and Z.G.L. organized the project and super- vised the experiments. P.C.Y. revised the manuscript.
+
+Address correspondence to: Pingchang Yang and Zhigang Liu, Key Laboratory of Optoelectronic Devices and Systems of Ministry of Education and Guangdong Province, College of Optoelectronic Engineering, Rm722, Medicine School Building,
+
+Shenzhen University, Nan Hai Ave 3688, Shenzhen, China. Tel: +86-755-86671907; Fax: +86-755- 86671906; E-mail:  (PCY);
+(ZGL)
+
+References
+
+Gupta R, Sheikh A, Strachan DP and Anderson HR. Time trends in allergic disorders in the UK. Thorax 2007; 62: 91-96.
+Liew WK, Williamson E and Tang ML. Anaphylaxis fatalities and admissions in Australia. J Allergy Clin Immunol 2009; 123: 434-442.
+Stefka AT, Feehley T, Tripathi P, Qiu J, McCoy K, Mazmanian SK, Tjota MY, Seo GY, Cao S, Theriault BR, Antonopoulos DA, Zhou L, Chang EB, Fu YX and Nagler CR. Commensal bacteria protect against food allergen sensitization.
+
+Proc Natl Acad Sci U S A 2014; 111: 13145- 13150.
+Kim MH, Kang SG, Park JH, Yanagisawa M and Kim CH. Short-chain fatty acids activate GPR41 and GPR43 on intestinal epithelial cells to promote inflammatory responses in mice. Gastroenterology 2013; 145: 396-406 e391-310.
+Tojo R, Suarez A, Clemente MG, de los Reyes- Gavilan CG, Margolles A, Gueimonde M and Ruas-Madiedo P. Intestinal microbiota in health and disease: role of bifidobacteria in gut homeostasis. World J Gastroenterol 2014; 20: 15163-15176.
+Wills-Karp M, Santeliz J and Karp CL. The germless theory of allergic disease: revisiting the hygiene hypothesis. Nat Rev Immunol 2001; 1: 69-75.
+Prioult G and Nagler-Anderson C. Mucosal im- munity and allergic responses: lack of regula- tion and/or lack of microbial stimulation? Immunol Rev 2005; 206: 204-218.
+Cho I and Blaser MJ. The human microbiome: at the interface of health and disease. Nat Rev Genet 2012; 13: 260-270.
+Gigante G, Tortora A, Ianiro G, Ojetti V, Purchiaroni F, Campanale M, Cesario V, Scarpellini E and Gasbarrini A. Role of gut mi- crobiota in food tolerance and allergies. Dig Dis 2011; 29: 540-549.
+Barletta B, Rossi G, Schiavi E, Butteroni C, Corinti S, Boirivant M and Di Felice G. Probiotic VSL#3-induced TGF-beta ameliorates food al- lergy inflammation in a mouse model of pea- nut sensitization through the induction of regu- latory T cells in the gut mucosa. Mol Nutr Food Res 2013; 57: 2233-2244.
+Lyons A, O'Mahony D, O'Brien F, MacSharry J, Sheil B, Ceddia M, Russell WM, Forsythe P, Bienenstock J, Kiely B, Shanahan F and O'Mahony L. Bacterial strain-specific induction of Foxp3+ T regulatory cells is protective in mu- rine allergy models. Clin Exp Allergy 2010; 40: 811-819.
+Toomer OT, Ferguson M, Pereira M, Do A, Bigley E, Gaines D and Williams K. Maternal and postnatal dietary probiotic supplementation enhances splenic regulatory T helper cell pop- ulation and reduces ovalbumin allergen-in- duced hypersensitivity responses in mice. Immunobiology 2014; 219: 367-376.
+Zhang LL, Chen X, Zheng PY, Luo Y, Lu GF, Liu ZQ, Huang H and Yang PC. Oral Bifidobacterium modulates intestinal immune inflammation in mice with food allergy. J Gastroenterol Hepatol 2010; 25: 928-934.
+Yoshida T, Fujiwara W, Enomoto M, Nakayama S, Matsuda H, Sugiyama H, Shimojoh M, Okada S and Hattori M. An increased number
+
+of CD4+CD25+ cells induced by an oral admin- istration of Lactobacillus plantarum NRIC0380 are involved in antiallergic activity. Int Arch Allergy Immunol 2013; 162: 283-289.
+Kim HJ, Kim YJ, Lee SH, Yu J, Jeong SK and Hong SJ. Effects of Lactobacillus rhamnosus on allergic march model by suppressing Th2, Th17, and TSLP responses via CD4(+)CD25(+) Foxp3(+) Tregs. Clin Immunol 2014; 153: 178- 186.
+Kwon HK, Lee CG, So JS, Chae CS, Hwang JS, Sahoo A, Nam JH, Rhee JH, Hwang KC and Im SH. Generation of regulatory dendritic cells and CD4+Foxp3+ T cells by probiotics adminis- tration suppresses immune disorders. Proc Natl Acad Sci U S A 2010; 107: 2159-2164.
+Kim HJ, Kim HY, Lee SY, Seo JH, Lee E and Hong SJ. Clinical efficacy and mechanism of probiotics in allergic diseases. Korean J Pediatr 2013; 56: 369-376.
+Chiu CH, Wang YT, Walther BA and Chao A. An improved nonparametric lower bound of spe- cies richness via a modified good-turing fre- quency formula. Biometrics 2014; 70: 671- 682.
+Chao A and Bunge J. Estimating the number of species in a stochastic abundance model. Biometrics 2002; 58: 531-539.
+Xu H, Hao W, Zhou Q, Wang W, Xia Z, Liu C, Chen X, Qin M and Chen F. Plaque bacterial mi- crobiome diversity in children younger than 30 months with or without caries prior to eruption of second primary molars. PLoS One 2014; 9: e89269.
+Berni Canani R, Gilbert JA and Nagler CR. The role of the commensal microbiota in the regu- lation of tolerance to dietary allergens. Curr Opin Allergy Clin Immunol 2015; 15: 243-249.
+Lozupone CA, Stombaugh JI, Gordon JI, Jansson JK and Knight R. Diversity, stability and resilience of the human gut microbiota. Nature 2012; 489: 220-230.
+Vernocchi P, Del Chierico F, Fiocchi AG, El Hachem M, Dallapiccola B, Rossi P and Putignani L. Understanding probiotics' role in allergic children: the clue of gut microbiota profiling. Curr Opin Allergy Clin Immunol 2015; 15: 495-503.
+Eckburg PB, Bik EM, Bernstein CN, Purdom E, Dethlefsen L, Sargent M, Gill SR, Nelson KE and Relman DA. Diversity of the human intesti- nal microbial flora. Science 2005; 308: 1635- 1638.
+Ganeshan K, Neilsen CV, Hadsaitong A, Schleimer RP, Luo X and Bryce PJ. Impairing oral tolerance promotes allergy and anaphy- laxis: a new murine food allergy model. J Allergy Clin Immunol 2009; 123: 231-238, e234.
+

@@ -1,0 +1,581 @@
+Microb Ecol (2017) 73:939-953 DOI 10.1007/s00248-016-0922-6
+
+Ericoid Roots and Mycospheres Govern Plant-Specific Bacterial Communities in Boreal Forest Humus
+Sari Timonen1	& Hanna Sinkko1 & Hui Sun1,2 & Outi-Maaria Sietio1 &
+Johanna M Rinta-Kanto1 & Heikki Kiheri1 & Jussi Heinonsalo1
+
+
+
+
+Received: 14 September 2016 / Accepted: 14 December 2016 / Published online: 26 December 2016
+# Springer Science+Business Media New York 2016
+
+
+Abstract In this study, the bacterial populations of roots and mycospheres of the boreal pine forest ericoid plants, heather (Calluna vulgaris), bilberry (Vaccinium myrtillus), and ling- onberry (Vaccinium vitis-idaea), were studied by qPCR and next-generation sequencing (NGS). All bacterial communities of mycosphere soils differed from soils uncolonized by my- corrhizal mycelia. Colonization by mycorrhizal hyphae in- creased the total number of bacterial 16S ribosomal DNA (rDNA) gene copies in the humus but decreased the number of different bacterial operational taxonomic units (OTUs). Nevertheless, ericoid roots and mycospheres supported numer- ous OTUs not present in uncolonized humus. Bacterial com- munities in bilberry mycospheres were surprisingly similar to those in pine mycospheres but not to bacterial communities in heather and lingonberry mycospheres. In contrast, bacterial communities of ericoid roots were more similar to each other than to those of pine roots. In all sample types, the relative abundances of bacterial sequences belonging to Alphaproteobacteria and Acidobacteria were higher than the
+
+
+The nucleotide sequence data reported are available in the NCBI database under the study number SRP0928835.
+Electronic supplementary material The online version of this article (doi:6) contains supplementary material, which is available to authorized users.
+
+* Sari Timonen 
+
+
+1 Department of Food and Environmental Sciences, Division of Microbiology and Biotechnology, University of Helsinki,
+P.O. Box 56, 00014 Helsinki, FIN, Finland
+2 Collaborative Innovation Center of Sustainable Forestry in Southern China, College of Forestry, Nanjing Forestry University,
+Nanjing, China
+
+sequences belonging to other classes. Soil samples contained more Actinobacteria, Deltaproteobacteria, Opitutae, and Planctomycetia, whereas Armatimonadia, Betaproteobacteria, Gammaproteobacteria, and Sphingobacteriia were more com- mon to roots. All mycosphere soils and roots harbored bacteria unique to that particular habitat. Our study suggests that the habitation by ericoid plants increases the overall bacterial di- versity of boreal forest soils.
+
+Keywords Bacteria . Boreal forest soil . Rhizosphere . Mycorrhizosphere . Mycosphere . High-throughput sequencing
+
+
+Introduction
+
+A boreal forest floor is often nearly completely covered by ericoid plant species like heather (Calluna vulgaris), bilberry (Vaccinium myrtillus), and lingonberry (Vaccinium vitis- idaea) above a dense layer of various moss species. These dwarf shrubs typically form ericoid mycorrhizal symbioses with fungi. In acidic and nutrient-poor boreal forest soils, er- icoid plants and their mycorrhizal fungi play an important role especially in nitrogen cycling []. Indeed, several studies have shown that these fungi are able to obtain nutrients from com- plex organic matter [-] and that ericoid mycorrhizal fungi have extremely large sets of genes responsible for decompo- sition of organic matter []. These fungi do not act alone in the forest soil. They are accompanied by a multitude of soil organisms such as bacteria and archaea [, ]. Bacteria are known to carry out essential functions, in- cluding phosphorus release and nitrogen-modifying reac- tions, such as denitrification, ammonification, and N fix- ation. Together, fungi and bacteria are major factors in
+
+
+
+element cycling and determine how much and what type  of nutrients are available to their host plants.
+Plants drastically affect the microbial composition of soils through deposition of litter and exudates. Plants allocate a significant part of their net photosynthesis production below- ground [, ], and the termination of the C flow in xylem has been shown to decrease soil respiration by 40-60% [] indi- cating plant dependence of soil microbial populations.
+Differences between microbial communities inside and outside rhizospheres have been shown with many plants since the first report of this phenomenon by Skyring []. In forests, the majority of plants are heavily mycorrhizal; thus, any rhizospheric studies in these environments include mycorrhi- zal fungi []. Mycorrhizospheres are not homogenous envi- ronments but contain many types of microniches for bacteria []. The inner mycorrhizospheres containing plant roots have been shown to harbor different bacterial populations com- pared with the outer mycorrhizospheres, the mycospheres, consisting of mycorrhizal hyphae and soil [, ]. The mycorrhizal fungal species also greatly affect the bacterial composition in the different parts of mycorrhizospheres [, , ].
+Current estimates of bacterial numbers found in soil com- monly vary from 108 to 1010 cells g-1 soil [-]. The esti- mate of the number of bacterial species per gram of soil ac- cording to Roesch [] is around 50,000. Acidobacteria, Actinobacteria, Bacteroidetes, and Proteobacteria appear to be relatively abundant and ubiquitous in soils []. In forest soils, Firmicutes also belong to the prominent bacterial phyla [, ]. In the humus of spruce-dominated forest, the most common bacterial phyla are Proteobacteria, Acidobacteria, and Actinobacteria, comprising 80-90% of all retained se- quences []. It is likely that in the latter study, ericoid plant influence was present, but their species composition or influ-
+ence on the bacterial composition was not defined.
+Although ericoid plants are very common in boreal ecosys- tems and their roots effectively colonize the organic soil hori- zons, there is very little information about the bacterial com- position of ericoid mycorrhizospheres. General studies on boreal forest soil may provide an idea about the types of bacteria living in ericoid mycorrhizospheres, as ericoid roots and their mycorrhizal  fungi  are  inevitably  present in most organic forest soil samples. However, a length heterogeneity PCR study showed that the bacterial popu- lation of lingonberry roots was quite different from those of pine roots []. Thus, the so-called bulk soil studies or studies focusing on tree mycorrhizospheres will not ade- quately describe the effect of ericoid mycorrhizospheres  on forest soil bacteria. Currently, it is not known what the effects of ericoid mycorrhizal colonization on the boreal forest soil are or what type of bacterial populations resides in the roots or mycospheres of ericoid mycorrhizal plants in these habitats.
+
+The aim of this study was to investigate the effects of the most common dry boreal forest plants, heather, bilberry, and lingonberry, and their associated mycorrhizal fungi on the bacterial abundance and community structure of soil. We also aimed to investigate the differences between bacterial commu- nities of ericoid and pine roots and mycospheres. We hypoth- esized that different plant species harbor significantly different bacterial communities both in the mycorrhizal roots as well as further out in the mycospheres.
+
+
+Materials and Methods
+
+Experimental Setup
+
+The organic humus layer was manually collected in late fall from boreal coniferous forest in Southern Finland (61deg 84' N, 24deg 26' E) and was stored at 4 degC for a maximum of 2 days. Humus was frozen after homogenization by sieving with a 4- mm screen and later used to construct germination pots or microcosms.
+Heather (Calluna vulgaris (L.) Hull) regenerated naturally from the sieved unsterilized forest humus in separate germi- nation pots (25 cm3). Vaccinium seeds were obtained from mature berries of wild plants from Southern Finland. Berries were picked and stored at -18 degC for 9 months and then opened, and the seeds removed from the berry pulp. The seeds were washed with tap water and dried in room temperature. The collected seeds were surface sterilized with 30% H2O2 to prevent microbial contamination and germinated on 0.3% (w/
+v) glucose agar to verify the sterility. The sterile seeds were then planted into the sieved humus germination pots. Scots pine (Pinus sylvestris L.) seedlings were grown from seeds obtained from a tree breeding seed collection (lot M29-92- 0059 Sv. 318 Ullanristi). These seeds were also surface steril- ized using H2O2 and then germinated on 0.3% (w/v) glucose agar to verify the sterility and grown aseptically on Brown- Wilkins growth medium for approximately 2.5 months [].
+Using the above-described homogenized soil, microcosms were constructed in six replicates of each treatment: heather, bilberry (V. myrtillus L.), lingonberry (V. vitis-idaea L.), con- trol species Scots pine, as well as control microcosms with no plants. Microcosms were prepared when the ericoid seedlings were approximately 6 months old and the pine seedlings were approximately 2.5 months old. At the time of preparing the microcosms, all seedlings were of similar size (2-4 cm high). The seedlings were transferred on 40 x 20 cm Perspex sheets with a 4-mm layer of sieved, otherwise untreated humus and placed in a greenhouse (10 degC, natural lighting). After an establishment period of 3 months, a 7-week wintering period was arranged in December-January by shutting off the artifi- cial light and lowering temperature levels to +5 degC. After a stepwise elevation of temperature and light, all microcosms
+
+
+
+were placed in a controlled chamber at a stable temperature (day ~18 degC, night ~14 degC) and average forest floor light intensity (160-220 mmol m-2 s-1) in a randomized arrange- ment for 11 months. Growth conditions consisted of an 18:6-h day-night cycle and mist watering with deionized H2O three times per week to microcosm water holding capacity.
+Soil samples were collected from microcosms after the roots were thoroughly colonized by native mycorrhizal fungi and their external hyphae colonized the available humus (col- onization percentages estimated by root microscopy, fungal qPCR from roots and soils, fungal ITS2 region sequencing, EMBL Bioproject PRJNA325435, Sietio et al. manuscript in preparation). Soil samples were collected by cutting out a section of humus layer from each microcosm from a region
+without roots and stored at -80 degC. The soil was then gently
+hand washed from the root systems of each seedling by low- pressure spraying with cold tap water. After cleaning, samples of roots were collected from each root system and stored at
+-20 degC. Soil pH in the fully developed microcosms at the time
+of the dismantling was as follows: heather 3.7 +- 0.11, bilberry
+3.7 +- 0.1, lingonberry 3.8 +- 0.22, pine 4.0 +- 0.28, uncolonized control 4.5 +- 0.15 [].
+
+DNA Extraction
+
+Nucleic acids were extracted from 50 mg of root and soil material collected from each replicate microcosm. Extraction was performed using a Nucleospin(r) Soil genomic DNA kit (MACHEREY-NAGEL  GmbH & Co. KG, Duren, DE) ac-
+cording to the kit protocol with the following options. The samples were homogenized using the provided ceramic bead tubes and a FastPrep(r)-24 Instrument (MP Biomedicals, Santa Ana, CA, USA) at 5 m s-1 for 30 s. Optimal extraction con- ditions were obtained with Lysis Buffer SL1 without using the enhancer SX solution. Nucleic acids were eluted in 30 ml of elution buffer SE (5 mM Tris/HCl, pH 8.5). From root mate- rial, the nucleic acids were extracted with a method modified from Murray and Thompson [] and Salavirta et al. []. Then, 50 mg of plant roots was weighed into a glass bead tube filled with 5 ml of 2x cetyl trimethylammonium bromide (CTAB) buffer. The CTAB buffer contained 2% (w/v) CTAB
+(Sigma), 1.4 M NaCl (Merck), 20 mM EDTA (Amresco), 100 mM Tris-HCl (pH 8, Fisher Scientific), and 2% (v/v) b- mercaptoethanol (Sigma). The roots were lysed by vortexing the glass bead tubes vertically two times for 10 min at maxi- mum speed. The samples were incubated at +65 degC for 30 min followed by 2x chloroform/isoamyl alcohol (Sigma, Merck) extraction. The extracted DNA was precipitated with 1 vol- ume of isopropanol (Merck) and eluted to 100 ml of prewarmed nucleic acid-free water. The extracted nucleic acids were further cleaned using a PowerClean(r) Pro DNA Clean-Up Kit (MO BIO Laboratories, Carlsbad, CA, USA) following the kit protocol. The concentration of DNA for each
+
+sample was measured using a Qubit(r) 2.0 Fluorometer (Life Technologies, Waltham, MA, USA) with a Qubit(r) dsDNA HS (High Sensitivity) Assay Kit.
+
+qPCR
+
+The qPCR protocol amplified a 197 bp fragment of the bac- terial 16S ribosomal RNA (rRNA) gene sequence with for- ward primer Eub338 (ACTCCTACGGGAGGCAGCAG) and reverse primer Eub518 (ATTACCGCGGCTGCTGG) []. A 10-fold dilution series from 3 x 106 to 3 x 101 copies per reaction of pJET 1.2 plasmids containing a 197 bp frag- ment of the 16S rRNA gene sequence from Burkholderia glathei (accession AJ884840.1) was used as the standard. qPCR reaction with combined annealing and extension at 62 degC was carried out with a Maxima SYBR Green qPCR Master Mix (Thermo Fisher, Waltham, MA, USA) as 20 ml reactions according to the manufacturer's instructions. The protocol was performed on a Bio-Rad CFX96 Touch(tm) Real-Time PCR Detection System (Bio-Rad Laboratories, Hercules, CA, USA). The qPCR products were visualized with ethidium bromide agarose gel electrophoresis in 1x SB buffer for quality control []. The copy number of bacterial 16S rRNA gene from each sample was calculated using the Bio-Rad CFX Manager software with their respective plasmid standard dilution series as reference. The population data was then summarized using IBM SPSS Statistics v22. Inhibition tests were carried out with every sample type and dilutions without inhibition used for the qPCR. The only samples where some inhibition was found were the heather roots with vari- able amounts of inhibitory substances.
+
+Sequencing
+
+V1-V3 regions of bacterial 16S rRNA genes of extracted soil and root DNAs were sequenced with Illumina(r) MiSeq run by the Institute of Biotechnology, University of Helsinki. A two- step PCR, performed and designed by the Institute of Biotechnology, was run prior to sequencing. Primers F27 [] and pD' [] containing partial TruSeq adapter sequences at their 5' end, ATCTACACTCTTTCCCTACACGACGC TCTTCCGATCT and GTGACTGGAGTTCAGACGTG
+TGCTCTTCCGATCT, respectively, were used in the first PCR with root and soil-derived DNA as a template. The sec- ond PCR was performed with full-length TruSeq P5 and index containing P7 adapters and the first PCR products as template.
+
+Processing of 16S rRNA Gene Sequences
+
+General read quality was checked by FastQC software (), and the adapter as well as barcode sequences were cut from raw 16S rRNA gene sequences by cutadapt in the Institute of
+
+
+
+Biotechnology, University of Helsinki []. The sequences were further denoised and trimmed as well as aligned, taxonomically assigned, and clustered to operational taxonomic units (OTUs) with mothur (version 1.34.4) []. The standard operating procedure (accessed 13 March 2015) for Illumina(r) Miseq sequences was carried out with the fol- lowing exception []. Namely the quality of trimming was increased by executing the screen.seqs command to remove those contigs, in which the length of overlapping region of forward and reverse reads was less than 25 bp. The second trimming with the screen.seqs command removed ambiguous sequences and homopolymers as guided in the standard oper- ating procedure. Chimeric sequences were checked by uchime program [], implemented by mothur. The trimmed and denoised 16S rRNA gene sequences were aligned against Silva reference alignment (release 119) [, ]. The 16S rRNA gene primers of the V1-V3 regions were removed from the aligned sequences using options Bstart^ and Bend^ of the screen.seqs command and the subsequent filter.seqs com- mand. The 16S rRNA gene sequences were assigned taxo- nomically using reference 16S rRNA gene sequences of the Ribosomal Database Project (RDP, Release 11.3, available at the Mothur website) [], with a bootstrap confidence thresh- old of 80%. OTUs were clustered from 16S rRNA gene se- quences with at least 97% similarity.
+The number of trimmed 16S rRNA gene sequences varied from 18,170 to 38,520 among samples (SD = 8618). Taxonomic definition of bacterial OTUs was mostly done to class or order level as the length of the analyzed sequences was ca. 500 bp.
+
+Analyses and Statistical Methods
+
+All descriptive and statistical analyses of 16S rRNA gene sequences were performed in the R environment [].  Venn diagrams were constructed in the R package gplots using the function venn for the raw sequence counts, ex- cluding the OTUs with one sequence. Normalization by cumulative sum scaling (CSS) preserved well the variance structure of the raw and proportional 16S rRNA gene counts (Fig. A1). In addition, the CSS-normalized libraries did not cluster due to the library sizes. Prior to analyses,  all eukaryota, including chloroplast (n = 65,171) and mito- chondrial sequences (n = 104,525), were removed. OTUs selected by decreasing sequence abundance were analyzed by distance-based discriminant analysis (R scripts in next paragraph) to determine whether differently abundant frac- tions of bacterial communities of soil or root samples clus- tered based on plant species (Fig. A2). Based on this pretesting, OTUs which consisted of at least 1% of the  total amount of normalized 16S rRNA sequences (abun- dant OTUs) did not separate bacterial communities of eri- coid and pine roots as well as mycospheres as well as
+
+OTUs with less than 1% of sequences (rare OTUs). These abundant and rare fractions of the entire normalized 16S rRNA gene sequence data, excluding noise, were used in statistical analyses.
+The variation in the bacterial community composition of the normalized 16S rRNA gene sequences was studied in roots and soil of lingonberry, bilberry, heather, and pine, using distance-based and permutational multivariate methods. These methods included principal coordinate analysis (PCoA), permutational multivariate analysis of variance using distance matrices (permutational MANOVA), and distance- based discriminant analysis (db-DA), which were based on the pairwise Bray-Curtis dissimilarity between samples. PCoA was used to analyze variance structure of the bacterial communities; permutational MANOVA tested whether the ef- fect of plants or sample type (soil and roots) on the bacterial community composition was significant, and db-DA was performed to test how well bacterial community compositions differed between plants. PCoA and permutational MANOVA were performed using the functions cmdscale and adonis, respectively, in the R package vegan [-], and db-DA was conducted with the function CAPdiscrim in the package BiodiversityR [-]. In addition, the function add.spec.scores in the package BiodiversityR was used to cal- culate discriminant axis scores for OTUs, constructed using site scores of the linear discriminant axes 1 and 2. Axis scores for OTUs were used to visualize the most common or most discriminating OTUs in figures. Homogeneity of variances in bacterial communities across the treatments, assumed in both permutational MANOVA and db-DA, was tested using func- tion betadisper in package vegan [, ]. Betadisper, which performs a nonparametric test, a multivariate and distance- based counterpart for the Levene test, showed that most of the treatment variances were significantly homogeneous (Fig. A3). The significance for permutational MANOVA, db-DA, and pairwise comparisons of group variances was tested with 9999 permutations.
+Shannon H' diversity indexes with natural logarithms were calculated from the raw 16S rRNA gene counts, excluding the OTUs with only one sequence, using the function diversity in the vegan package []. Significant differences in Shannon H' indexes were tested by nonparametric (rank-based) Kruskal- Wallis test for independent samples, using the function kruskal.test in the R package stats []. Pairwise compari- sons (post hoc tests) between individual treatments were performed using the wilcox.test in package stats []. Homogeneity of variances in different treatments was tested by rank-based modified Brown-Forsythe (Levene type) test using the function levene.test in the package lawstat []. Variances in different treatments were ho- mogeneous (P > 0.05).
+Unpaired t test with Welch correction was used to compare the number of gene copies between all soil and root samples as
+
+
+
+the standard deviations of the 16S rRNA gene numbers of different sample types were not equal. The statistical signifi- cance of differences between bacterial 16S rRNA gene copy numbers of different soil samples were tested by ANOVA and Tukey-Kramer multiple comparisons test. Similar testing was carried out for the different root samples. Bartlett's test was used to test the similarity of standard deviations. Kolmogorov and Smirnov was used to show that the 16S rRNA gene copy numbers in the samples followed Gaussian distribution. Soil and root samples from microcosms planted with a particular plant were not compared.
+
+
+Results
+
+Numbers of Bacteria in Mycosphere Soils, Uncolonized Soil, and Mycorrhizal Roots
+
+Significantly higher numbers of bacterial 16S rRNA gene cop- ies were found in all soils compared to roots (P < 0.001, Fig. ). The mycosphere soil of ericoid species contained on average 8.5 x 109 16S rRNA gene copies per gram, while root samples contained 6.5 x 108 gene copies per gram. These values were similar to those found in pine microcosm samples. The numbers of bacterial 16S rRNA gene copies in ericoid and pine mycosphere soil samples were higher than those in uncolonized control soil (Fig. ). Nevertheless, no statistically significant differences were found due to large variation
+
+between the individual samples. Numbers of bacterial 16S rRNA gene copies in roots of ericoid plants varied consider- ably (Fig. ). Bilberry and pine roots had similar numbers of 16S rRNA gene copies, whereas heather had lower and ling- onberry had higher numbers of gene copies than pine or bil- berry. The differences in numbers of bacteria harbored in roots were statistically significant (heather-pine, P < 0.05, lingon- berry-all, P < 0.001).
+
+Overall Bacterial Community Composition
+
+The processed high-quality and nonchimeric 16S rRNA gene sequences, of which OTUs including only one sequence was removed, comprised of 916,655 soil and 402,978 root se- quences. According to 16S rRNA gene sequence data, the bacterial populations of root and soil samples were signifi- cantly different (P = 0.0001, permutational MANOVA) from each other. In PCoA analysis, all types of soil samples formed a tight cluster, whereas the root-derived samples scattered (Fig. ). Bacterial community compositions of all ericoid roots were more similar to each other than those of pine roots. Altogether, soil and root samples contained 5557 OTUs, of which they shared 2394 OTUs (Fig. ). Soil samples contained 5128 OTUs, whereas roots of heather, bilberry, ling- onberry, and pine contained together only 2823 OTUs.
+Alphaproteobacteria appeared to be the most prevalent in all sample types according to both percentages of different Alphaproteobacteria OTUs as well as relative abundance of sequences belonging to the class (Fig. , Table A1). Within the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1 Numbers of bacterial 16S rDNA copies in soils colonized (mycosphere) or not colonized by mycorrhizal fungi and mycorrhizal roots. Statistical testing of numbers of 16S rDNA copies was carried out with soil (P = 0.66) and root (P < 0.0001) samples separately. The columns marked with different letter are statistically significantly different from each other (heather-pine, P < 0.05, lingonberry-all,     P < 0.001)
+
+-0.3	-0.2	-0.1	0.0	0.1	0.2	0.3
+
+Dim1 (45%)
+Fig. 2 Principal coordinate analysis for cumulative sum scaling (CSS)- normalized counts of bacterial 16S rRNA gene sequences. The CSS- normalized 16S rRNA gene sequence compositions, excluding the noisy OTUs, differed statistically significantly (permutational MANOVA, P = 0.0001) between soil and root samples
+
+Root 429
+
+2394
+
+
+2734
+
+Soil
+Fig. 3 The number of shared and unique OTUs between soil and root samples
+
+class Alphaproteobacteria, sequences from the order Rhizobiales were dominant, comprising almost half of the Alphaproteobacteria and 17% of all sequences (Table A1). Large numbers of sequences of diverse OTUs of Acidobacteria were also found in all types of samples. The relative abundances of sequences belonging to Actinobacteria, Deltaproteobacteria, Opitutae, and Planctomycetia were great- er in soils, whereas Armatimonadia, Betaproteobacteria, Gammaproteobacteria, and Sphingobacteriia were more typi- cal to roots. Within Betaproteobacteria sequences, the order Burkholderiales was the most dominant and the relative abun- dance of sequences of the genus Burkholderia was ten times higher in root than in soil samples. Although occurrence of Bacilli has frequently been reported from soils and roots, the proportion of Bacilli sequences from soil sequences was 0.1% and from root sequences 0.003%.
+
+Bacterial Community Composition in Soil Samples
+
+Bacterial community composition of soil was affected by the presence of the different types of fungal mycelia supported by plants (permutational MANOVA, 31.0% of the variance in
+
+
+OTUs was explained by  different plants grown in  soil  P = 0.0001). In discriminant analysis, bacterial communities from mycospheres supported by different plants formed clear groups with the exception of those from bilberry and pine mycospheres, which clustered together (Fig. ). The bacterial communities in soils from the unplanted microcosms were most different from the other communities (permutational MANOVA, abundant OTUs P  =  0.001,  rare  OTUs P = 0.0001, Table A2). The rarer bacterial OTUs in the various samples were often typical to particular sample type, whereas the most abundant OTUs containing 30% of all sequences were common to all soil types regardless of fungal colonization.
+Thirty-eight percent (=1939 OTUs) of soil OTUs could be detected from both uncolonized soil and all mycospheres as- sociated with different plant species (Fig. a). Most of these shared OTUs were also found from plant roots (from the shared 1939 OTUs, only 365 were unique to soil, Fig. a, b). Uncolonized soil contained the highest (3811 OTUs) and heather mycospheres the lowest (3274 OTUs) numbers of dif- ferent soil OTUs. Of the 2734 soil/mycosphere specific bacte- rial OTUs, 13% were shared by all types of samples regardless of their fungal colonization status (Fig. b). Uncolonized soil contained the highest number of unique OTUs, and most of these OTUs belonged to Alphaproteobacteria (26% of OTUs with class status). Bacterial OTUs unique to heather mycospheres belonged most often to Actinobacteria, in bilber- ry and lingonberry mycospheres to Gammaproteobacteria, and pine mycospheres to Alphaproteobacteria (34, 37, 30, and 27% of all different OTUs with class status, data not shown). These trends were the same when calculated by relative abun- dance of sequences (Fig. ).
+
+Bacterial Community Composition in Root Samples
+
+Bacterial community compositions of roots varied significant- ly (permutational MANOVA, 40% of the variance in OTUs
+
+
+Fig. 4 Relative class-level abundances of all sequences found in mycosphere soils, uncolonized soil, and mycorrhizal roots
+
+
+Fig. 5 Discriminant analysis of CSS-normalized 16S rRNA gene sequences for soil samples from mycospheres of heather, bilberry lingonberry, pine, and uncolonized soil. Eleven most abundant OTUs (30% of the soil sequences, each including more than 1% of the total amount of CSS-normalized 16S rRNA gene sequences) are marked in red letters. Of the less abundant OTUs (70% of the soil sequences, each including less than 1% of the total amount of normalized sequences), only those which characterized groups best (species scores for LD1 were less than
+-7.5 or more than 7.0, and for LD2 less than -5.3 or more than
+6.1) are shown in black letters
+
+
+
+
+
+-10	-5	0	5	10
+
+
+was explained by different plants, P = 0.0001) between ling- onberry, bilberry, heather, and pine. Discriminant analysis showed that in contrast to soil samples, the presence of the most abundant nine OTUs (30% of all sequences) in the root samples varied (Fig. a, 67% of communities con- structed of abundant OTUs were correctly clustered based on the plant species in db-DA, P = 0.002). Caulobacteria (Alphaproteobacteria) were common to all root types, whereas Burkholderia (Betaproteobacteria) were typical for pine roots and Acidobacteria for ericoid roots. The difference between ericoid and pine bacterial OTU compo- sition was more obvious with the rare than with the most abundant OTUs (Fig. b, 100% of communities construct- ed of rare OTUs were correctly clustered based on the
+
+plant species in db-DA, P = 0.0001). In the discriminant analysis, rare OTUs from pine and lingonberry root sam- ples formed tight separate clusters. Nevertheless, some bacte- rial OTUs belonging to Methylocystis (Alphaproteobacteria), Segetibacter (Sphingobacteriia), and Betaproteobacteria were shared by these samples. Heather and bilberry  roots had more similar bacterial community composition than the other roots. The trends  in  the  db-DA  plots were supported by the relative abundances of sequences (Fig. , Table A1). The relative abundance of sequences belonging to Betaproteobacteria was particularly high in pine root samples, whereas percentages of sequences belonging to Actinobacteria were high in bilberry and lingonberry roots.
+
+
+
+Fig. 6  Number of OTUs found in	A
+soils colonized by mycorrhizal
+hyphae of plants (heather, bilberry, lingonberry, pine) and uncolonized soil. a All soil OTUs and b OTUs only found in soils, not in root samples
+
+
+Bilberry
+
+Bilberry
+B
+
+
+Fig. 7 Relative class-level abundances of sequences unique to particular sample type or shared only by soils or only by roots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roots of the different plant species shared 38% of bacterial OTUs with each other (Fig. a). Pine roots contained the highest (2210 OTUs) and bilberry roots the lowest (1685 OTUs) numbers of OTUs. Of the 429 root specific bacterial OTUs, only 7% were shared by all roots and pine roots contained the highest numbers of unique OTUs (Fig. b). The unique bacterial OTUs in heather and bilberry roots belonged most often to Gammaproteobacteria, in lingonberry roots to Alphaproteobacteria, and pine roots to Sphingobacteriia (21, 29, 38, and 25% of all different OTUs with class status, data not shown). When calculated by relative abundance of sequences, these trends were the same in all sample types except pine roots where OTUs belonging to Sphingobacteriia contained relatively few sequences con- structing only 10% of sequences (Fig. ).
+
+Bacterial Diversity
+
+In general, the diversity of bacteria was higher in soil than in root samples (Table ). In soil samples, colonization by root- associated mycospheres reduced bacterial diversity. This sta- tistically significant difference (P < 0.01) could be shown both within all soil-derived bacteria and bacteria only present in soils not in roots. The difference in diversities was clearest between ericoid mycosphere soils and uncolonized soil. Bilberry and lingonberry roots had the least diverse bacterial populations. Nevertheless, the bacterial diversities of roots differed significantly (P < 0.05) only when the OTUs only found in roots were analyzed.
+
+
+Discussion
+
+This is, to our knowledge, the first study focusing on the bacteria in the ericoid mycorrhizospheres. Here, we show that ericoid plants and their mycorrhizal fungal symbionts affect
+
+the bacterial populations of surrounding soil. Bacterial com- munities are affected differentially by mycorrhizal mycelia supported by the different ericoid plants as well as the mycor- rhizal plant roots. The changes in bacterial communities in- duced by ericoid roots and mycorrhizal mycelia are mostly different compared with those induced by roots and mycorrhi- zal mycelia of pine.
+
+Numbers of Bacterial 16S rRNA Gene Copies in Mycosphere Soils and Roots
+
+The abundance of bacterial 16S rRNA copies in ericoid mycosphere soils was consistently higher than those in uncolonized control soil. This would most easily be explained by the novel habitats and energy-containing exudates provid- ed by the mycorrhizal hyphae. Many studies have shown that mycorrhizal mycelia increase the number of culturable bacte- ria in the soil habitats, but the effect of the mycelia on the overall bacterial community is unclear [, ]. Arbuscular mycorrhizal fungi as well as the ectomycorrhizal fungus Suillus variegatus has been shown to promote bacterial num- bers also by culture-independent methods [, ]. However, depending on the soil properties and fungal species, external mycelia have also been shown to reduce bacterial activity and multiplication []. Some of the stimulated bacteria may be mycorrhization helper bacteria as shown by Kurth et al. []. Overall, the numbers of bacterial 16S rRNA gene copies found in soil samples were similar to those found in other soil studies [, ].
+Numbers of bacterial 16S rRNA gene copies  within root samples were highest in lingonberry and lowest in heather. As both plants have very fine root structure, it      is unlikely that the amount of available surface area would explain the difference. It is more likely that heather contained more antibacterial or PCR inhibitory substances than lingonberry and the differences in bacterial 16S
+
+
+
+A
+
+
+
+
+
+Caulobacter
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bradyrhizobium
+
+
+Chitinophagaceae
+
+
+
+Heather Bilberry Lingonberry Pine
+
+
+
+
+
+Acidobacteria
+
+
+rRNA gene copy numbers found in roots were in the same range as commonly observed in roots [].
+Mycosphere soils contained significantly higher numbers of bacterial 16S rRNA gene copies than mycorrhizal roots per gram dry weight. Although interesting, this difference does not have ecological significance as these sample types cannot be directly compared with each other. The difference in 16S rRNA gene copy numbers is best explained by dramatically smaller amount of roots' colonizable surfaces per biomass
+compared with those in humus as well as the fact that many
+
+
+Burkholderia
+
+
+
+
+
+
+
+
+
+-4	-2
+
+B
+
+
+
+
+
+
+
+
+
+LD1
+
+Acidobacteria 2 OTUs
+
+Actinomycetales
+
+
+
+
+Granulicella
+
+
+
+
+
+0	2
+
+of the surface bacteria of the roots were washed away during sample preparation. In the interpretation of qPCR results, it has to be taken into account that the numbers of 16S rRNA gene copies are not directly translatable to numbers of bacte- ria. For example, Firmicutes and Gammaproteobacteria often contain more than one 16S rRNA gene, and these genes are not necessarily identical. This will easily lead to overestima- tion of numbers of bacteria in a sample [].
+
+Comparison of Bacterial Communities in Soil Versus Root Samples
+
+Soil samples, whether colonized or uncolonized by mycorrhi- zal mycelia, displayed a higher diversity of bacteria than roots. The washing process of the roots may account for part of the result, but the difference may also reflect more diverse micro- habitats in soil than in roots. The lower diversity of bacteria in all the different types of roots could be caused by the roots and their exudates promoting certain types of bacteria to the ex- clusion of others. Similar results were obtained by Uroz et al.
+[] from oak forest where the number of OTUs in roots was about 60% of the OTU number in soils. Both Uroz's [] and the current results are in contrast to results from a study carried out in alpine zone in Norway, where roots of Bistorta vivipara contained slightly more OTUs than the surrounding soil []. A study conducted from herbaceous plants grown in loamy
+
+-5	0	5
+
+10	15
+
+sand [] also suggested that rhizospheres of different plants
+
+Fig. 8 Discriminant analysis of CSS-normalized 16S rRNA gene sequences for root samples. a Nine most abundant OTUs (30% of the root sequences, each including more than 1% of the total amount of CSS- normalized 16S rRNA gene sequences, red letters). b Of the less abundant OTUs (70% of the root sequences, each including less than 1% of the total amount of normalized sequences), only those which characterized groups best or were shared mainly by two groups (species scores for LD1 were less than -6.1 and more than 13.6, and for LD2
+less than -4.5 or more than 2.8) are shown (group specific OTUs (black
+letters), shared OTUs (gray letters))
+
+rRNA gene copy numbers in roots could be due to chem- ical substances causing either biological or technical inhi- bition. Differences in the bacterial 16S rRNA gene copy numbers in washed roots may also differ due to the amount and type of mycorrhizal hyphae and mantle struc- tures of the roots of different plant species. Bacterial 16S
+
+had lower bacterial diversity than soil.
+The relative abundance of sequences belonging to classes Alphaproteobacteria and Acidobacteria was high in all types of samples. This result is in concert with Proteobacteria and Acidobacteria being among the most common bacterial groups in retreating glacier soils containing ericoid plants []. A high abundance of Alphaproteobacteria and Acidobacteria have been found also in other soil environments [, , ]. Acidobacteria are typically among the most abundant OTUs in different types of soil environments. However, Alphaproteobacteria are sometimes not as common or not reported separately from other Proteobacteria [, , -]. Bacteria of the order Rhizobiales were the most abun- dant group of Alphaproteobacteria in both mycosphere soil and root samples and same rhizobial OTUs were present in all types of samples. High numbers of sequences belonging to
+
+
+
+Fig. 9 Number of a all root OTUs or b OTUs found only in
+
+A	B
+Bilberry	Lingonberry
+
+
+
+Bilberry	Lingonberry
+
+roots, not in soil samples
+
+Heather
+
+
+
+104
+
+39	36
+46
+
+
+
+135
+
+Pine
+
+203
+
+Heather
+22
+
+16	9
+17
+
+
+Pine
+26
+
+150
+
+
+
+
+
+124
+
+114
+
+69
+
+1060
+89
+
+52	97
+13	5
+
+28
+19	29
+
+220	164
+270
+
+16	24
+56
+
+
+
+
+this order have also been detected by Uroz et al. [] both in oak roots and forest soil. Sequences of Rhizobiales were found to be particularly numerous also in the roots of poplar, oak and pine []. The high number of Rhizobiales sequences indicates high potential for nitrogen fixation in all the studied habitats.
+All types of soil samples contained a larger proportion of Actinobacteria than did any types of roots. This result is in contrast to B. vivipara ectomycorrhizal roots and adjacent soil, where Actinobacteria were more abundant in roots than in soil []. This discrepancy may be due to the high organic content of humus as Actinobacteria are common in humus and have an important role in decomposition of organic matter [].
+Bacteria belonging to class Bacilli (Firmicutes) have been repeatedly cultured from different types of rhizospheres in- cluding humus-grown pine roots and mycospheres []. Bacilli have also been amply studied for plant growth- promoting effects [, ]. Nevertheless, they do not seem to be prominent players in native mycorrhizospheres. In our study, the number of sequences belonging to class Bacilli or even phylum of Firmicutes was low in all types of samples. The proportion of Bacilli sequences of all sequences was low also in oak forest and alpine environment [, ]. In both these studies as well as the current study, Firmicutes were more prominent in soil than in rhizosphere samples. The
+
+higher proportion of Bacilli detected in soil may be due to the larger proportion of bacterial resting stages in comparison to roots as it has been reported by Baldrian et al. [] that more DNA than RNA of Firmicutes is present in soil.
+Sequences of Deltaproteobacteria and Planctomycetia were more common in soil than in root samples. A higher percent- age of Planctomycetes in soil samples was also observed by Vik et al. []. Planctomycetia may present yet an alternative way of utilizing and transforming ammonium released from the organic humus or dealing with methane released in forest soil [].
+The relative abundances of sequences belonging to class Gammaproteobacteria were always higher in roots than soil. More Gammaproteobacteria were also detected in oak rhizo- sphere compared with surrounding soil []. A similar trend was also observed in wheat and cucumber grown in sandy loam []. As low molecular carbon substrates have been shown to increase particularly the numbers of Betaproteobacteria and Gammaproteobacteria [], this is probably the reason of these taxa being more dominant in root than in soil habitats. This mechanism does not explain why Gammaproteobacteria were more common to bilberry roots and Betaproteobacteria in pine roots.
+Sphingobacteriia (Bacteroidetes) were more typical to roots than soil samples. Similar results were reported from
+
+
+
+Table 1	Shannon H' diversity indices of 16S rRNA gene sequences and their standard deviations
+
+All soil OTUs 5.43 (0.14)	All root OTUs 4.89 (0.14)
+
+All soil-specific OTUs 5.76 (0.20)	All root-specific OTUs 3.41 (0.44)
+
+*P < 0.05, significant difference in global Kruskal-Wallis test; **P < 0.01, very significant difference in global Kruskal-Wallis test
+
+
+
+oak forest []. Nevertheless, no difference in frequency of Sphingobacteriia sequences was detected from root and soil habitats in alpine soil [].
+Despite the much larger number of OTUs as well as higher bacterial diversity in soils, soil bacterial popula- tions were more similar to each other than were the root bacterial communities to each other. This result is in ac- cordance with the study about tree root effect by Bonito    et al. [] that bacterial populations in the roots were tightly structured by the plant.
+Although mycorrhizal fungal colonization of soil re- duced the bacterial diversity in individual  soil  samples, the presence of different plants and mycorrhizal fungi as    a whole increased the bacterial diversity. Only approxi- mately one third of the root OTUs was common to roots   of all different plant species studied. Soils with or without mycelial colonization gave the same result. In other words, soil colonized with pine and ericoid roots and my- corrhizal fungi increased the overall bacterial diversity in soils. How the putative species diversity translates to functional diversity remains unknown. In a study of cu- cumber and wheat, the bacterial populations of roots had relatively few specific functions (KEGG orthologs) al- though they were taxonomically clearly different [].
+
+Composition of Bacterial Communities in Different Soils
+
+Dominating groups, based on relative abundance of se- quences, of bacteria in the humus soils were Acidobacteria, Proteobacteria, and Actinobacteria. Same groups dominated bacterial populations in Picea abies humus []. Acidobacteria and Actinobacteria have also been detected ear- lier from pine forest soil with ericaceous shrubs [].
+Colonization of soil by external mycelia of the different mycorrhizal fungi reduced the diversity of bacteria and in- creased the relative abundance of sequences belonging to clas- ses Acidoproteobacteria, Actinoproteobacteria, and Gammaproteobacteria. External mycelia exude both low mo- lecular weight carbon substrates and antimicrobial substances, which may generate an environment that promotes growth of some bacterial groups with the expense of others. The slight acidification of the colonized soils may have a promoting effect especially on Acidobacteria, whereas low molecular weight carbon substrates increase the numbers of Actinobacteria and Gammaproteobacteria in particular []. It is possible that in addition to hyphal exudates, traces of root exudates may have been present in some of the soil samples as in some microcosms' (especially heather) plant roots colo- nized the microcosm very effectively.
+Mycospheres created by the associated fungi of the differ- ent plants affected the bacterial community composition of the soil. This was expected as changes at population level have been observed with both ectomycorrhizal and arbuscular
+
+mycorrhizal fungi [, , , ]. Ericoid mycorrhizal fungi of heather and lingonberry had a different effect on the soil bacterial populations than the colonization by ectomycorrhizal fungi of pine seedlings. Interestingly, the mycospheres of bil- berry and pine appeared to have most similar effect on bacte- rial communities. This could be due to more similar mycor- rhizal fungal populations colonizing the roots. Bilberry and pine have been shown to host common fungal partners in their roots [, ]. This sharing of partners may not be an excep- tion as sharing of fungal symbionts has been reported between different types of trees and shrubs [].
+Association of bacteria with mycorrhizal fungi, com- mon to different plants, may be one explanation for the same bacterial OTUs detected from mycospheres of dif- ferent plant species. However, it is not an explanation for the relatively large number (1939) of OTUs shared by mycosphere soils and uncolonized soils. The high number of OTUs shared by different soil types could be quite different, if the experiment had been carried out in min- eral soil. Humus is highly organic and acidic and may harbor more bacteria adjusted to utilizing a wide range     of carbon substrates and organic acids than bacteria in mineral soils. The presence of mycorrhizal hyphae exud- ing organic compounds would thus cause less modifica- tion to bacterial communities of organic soils than those   of mineral soils. Although many OTUs were shared by all soil types, almost twice as many (3189) OTUs were not common to all soils. This demonstrates the effect of my- corrhizal hyphae for creating special habitats to soil bac- teria and promoting the overall diversity in soils.
+
+Composition of Bacterial Communities in Different Roots
+
+Bacterial populations of ericoid roots were more similar to each other than those of pine roots. This is not a great surprise even though Brown and Jumpponen [] did not find differ- ences in the major bacterial OTUs between the ericoid plant Phyllodoce empetriformis and the tree Abies lasiocarpa.
+The relative abundance of sequences belonging to Alphaproteobacteria was high in all root types, but roots of different plant species also selectively promoted other groups of bacteria. Proportion of sequences belonging to Acidobacteria was particularly high in all ericoid roots. It might be that ericoid root habitats are more acidic than habitats provided by pine roots as Acidobacteria prefer more acidic environments [].
+Betaproteobacteria were particularly frequent in pine root samples, which also contained a high number of unique Betaproteobacteria sequences. Most of these sequences belonged to the order Burkholderiales, in particular to the genus Burkholderia. Members of this easily cultured genus have been shown to prefer these habitats before []. More Burkholderia were also detected in ectomycorrhizal oak,
+
+
+
+beech, and spruce roots than in soil [, ], and Burkholderiales was one of the dominant bacterial classes in roots of poplar, oak, and pine []. The trend of Burkholderia favoring rhizospheres appears to be quite common as more Burkholderia were present also in rhizospheres of herbaceous plants than in the surrounding soil []. Bacteria belonging to Burkholderia have been shown to be very effective at solubi- lizing minerals and thus promoting plant growth []. They may also have a role in dry pine forest nitrogen fixation as this genus is rich in plant-associated nitrogen fixers [].
+
+
+Conclusions
+
+It is clear from our study that the different plant roots and the external mycelia of their mycorrhizal partners had some similar but also many specific effects on the resid- ing bacterial populations. Ericoid shrubs promoted unique bacterial populations different to pine root bacterial pop- ulations. Interestingly, the bacterial populations of mycospheres of bilberry were similar to those of pine mycospheres but differed from those of other ericoid shrubs. Thus, our results propose that bacterial communi- ties respond to the mycorrhizal fungi independently from the plants supporting the external mycelia. These results highlight the need to study rhizosphere and mycosphere effects separately from each other.
+Although the bacterial community diversity was highest in soil without mycorrhizal fungal  colonization, the unique effect of different roots and mycospheres in- creased the overall underground diversity of bacteria. In the future, more research should be addressed on the role of different plant species on the functionally active soil microbes. Root and hypha-associated bacteria may have a functionally more active role in soil microbiome com- pared to free-living soil bacteria as they all obtain carbo- hydrates from the host plant.
+
+Acknowledgements We gratefully acknowledge Academy of Finland (grant numbers 131819, 263858, 292699), the research funding for Jiangsu Specially Appointed Professor (project 165010015), and Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD). Sincere thanks to Minna Santalahti for the upkeep of the plants as well as help in the sampling.
+
+
+Compliance with Ethical Standards
+
+Funding This study was funded by Academy of Finland (grant num- bers 131819, 263858, 292699), the research funding for Jiangsu Specially Appointed Professor (project 165010015), and Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD).
+
+Conflict of Interest The authors declare that they have no conflict of interest.
+
+References
+
+Read DJ, Leake JR, Perez-Moreno J (2004) Mycorrhizal fungi as drivers of ecosystem processes in heathland and boreal forest bi- omes. Canadian Journal of Botany-Revue Canadienne De Botanique 82:1243-1263. doi:
+Abuzinadah RA, Read DJ (1989) The role of proteins in the nitro- gen nutrition of ectomycorrhizal plants. V. Nitrogen transfer in birch (Betula pendula) grown in association with mycorrhizal and non-mycorrhizal fungi. New Phytol. 112:61-68
+Bending GD, Read DJ (1996) Nitrogen mobilization from protein- polyphenol complex by ericoid and ectomycorrhizal fungi. Soil Biol. Biochem. 28:1603-1612
+Persson J, Hogberg P, Ekblad A, Hogberg MN, Nordgren A, Nasholm T (2003) Nitrogen acquisition from inorganic and organic sources by boreal forest plants in the field. Oecologia 137:252-257. doi:
+Kohler A, Kuo A, Nagy LG, Morin E, Barry KW, Buscot F, Canback B, Choi C, Cichocki N, Clum A, Colpaert J, Copeland A, Costa MD, Dore J, Floudas D, Gay G, Girlanda M, Henrissat B, Herrmann S, Hess J, Hogberg N, Johansson T, Khouja HR, LaButti K, Lahrmann U, Levasseur A, Lindquist EA, Lipzen A, Marmeisse R, Martino E, Murat C, Ngan CY, Nehls U, Plett JM, Pringle A, Ohm RA, Perotto S, Peter M, Riley R, Rineau F, Ruytinx J, Salamov A, Shah F, Sun H, Tarkka M, Tritt A, Veneault-Fourrey C, Zuccaro A, Tunlid A, Grigoriev IV, Hibbett DS, Martin F, Co MGI (2015) Convergent losses of decay mechanisms and rapid turnover of symbiosis genes in mycorrhizal mutualists. Nat. Genet. 47
+van der Heijden MGA, Bardgett RD, van Straalen NM (2008) The unseen majority: soil microbes as drivers of plant diversity and productivity in terrestrial ecosystems. Ecol. Lett. 11:296-310. doi:
+Timonen S, Bomberg M (2009) Archaea in dry soil environments. Phytochem. Rev. 8:505-518. doi:
+Merbach W, Mirus E, Knof G, Remus R, Ruppel S, Russow R, Gransee A, Schulze J (1999) Release of carbon and nitrogen com- pounds by plant roots and their possible ecological importance. J Plant Nutr Soil Sc 162:373-383. doi:
+Pumpanen JS, Heinonsalo J, Rasilo T, Hurme KR, Ilvesniemi H (2009) Carbon balance and allocation of assimilated CO2 in Scots pine, Norway spruce, and Silver birch seedlings determined with gas exchange measurements and C-14 pulse labelling. Trees-Struct Funct 23:611-621. doi:
+Hogberg P, Nordgren A, Buchmann N, Taylor A, Ekblad A, Hogberg M, Nyberg G, Ottosson-Lofvenius M, Read DJ (2001) Large-scale forest girdling shows that current photosynthesis drives soil respiration. Nature 411:789-792
+Skyring GW, Quadling C (1969) Soil bacteria--comparisons of rhizosphere and nonrhizosphere populations. Can. J. Microbiol. 15:473-488
+Smith SE, Read DJ (2008) Mycorrhizal symbiosis. Academic Press, London
+Timonen S, Hurek T (2006) Characterization of culturable bacterial populations associating with Pinus sylvestris-Suillus bovinus mycorrhizospheres. Can. J. Microbiol. 52:769-778
+Timonen S, Jorgensen KS, Haahtela K, Sen R (1998) Bacterial community structure at defined locations of Pinus sylvestris - Suillus bovinus and -Paxillus involutus mycorrhizospheres in dry pine forest humus and nursery peat. Can. J. Microbiol. 44:499-513
+Fransson P, Rosling A (2014) Fungal and bacterial community responses to Suillus variegtus extraradical mycelia and soil profile in Scots pine microcosms. Plant Soil 385:255-272. doi:
+
+
+
+
+Izumi H, Finlay RD (2011) Ectomycorrhizal roots select distinctive bacterial and ascomycete communities in Swedish subarctic forests. Environ. Microbiol. 13:819- 830. doi:
+Izumi H, Elfstrand M, Fransson P (2013) Suillus mycelia under elevated atmospheric CO2 support increased bacterial communities and scarce nifH gene activity in contrast to Hebeloma mycelia. Mycorrhiza 23:155-165. doi:
+Torsvik V, Ovreas L, Thingstad T (2002) Prokaryotic diversity-- magnitude, dynamics, and controlling factors. Science 296:1064- 1066
+Karlsson AE, Johansson T, Bengtson P (2012) Archaeal abundance in relation to root and fungal exudation rates. FEMS Microbiol. Ecol. 80:305-311. doi:
+Raynaud X, Nunan N (2014) Spatial ecology of bacteria at the microscale in soil. PLoS One 9:e87217. doi:
+Smets WLJ, Bradford MA, McCulley RL, Lebeer S, Fierer N (2015) A method for simultaneous measurement of soil bacterial abundances and community composition via 16S rRNA gene se- quencing. Peer J PrePrints doi. doi:
+Roesch LF, Fulthorpe RR, Riva A, Casella G, Hadwin AKM, Kent AD, Daroub SH, Camargo FAO, Farmerie WG, Triplett EW (2007) Pyrosequencing enumerates and contrasts soil microbial diversity. ISME J. 1:283-290. doi:
+Fierer N, Leff JW, Adams BJ, Nielsen UN, Bates ST, Lauber CL, Owens S, Gilbert JA, Wall DH, Caporaso JG (2012) Cross-biome metagenomic analyses of soil microbial communities and their functional attributes. Proc. Natl. Acad. Sci. U. S. A. 109:21390- 21395. doi:
+Uroz S, Oger P, Morin E, Frey-Klett P (2012) Distinct Ectomycorrhizospheres share similar bacterial communities as re- vealed by pyrosequencing-based analysis of 16S rRNA genes. Appl. Environ. Microbiol. 78:3020-3024. doi:
+
+Lopez-Mondejar R, Voriskova J, Vetrovsky T, Baldrian P (2015) The bacterial community inhabiting temperate deciduous forests is vertically stratified and undergoes seasonal dynamics. Soil Biol. Biochem. 87:43-50. doi:
+Baldrian P, Kolarik M, Stursova M, Kopecky J, Valaskova V, Vetrovsky T, Zifcakova L, Snajdr J, Ridl J, Vlcek C, Voriskova J (2012) Active and total microbial communities in forest soil are largely different and highly stratified during decomposition. ISME J. 6:248-258. doi:
+Robertson SJ, Rutherford PM, Massicotte HB (2011) Plant and soil properties determine microbial community structure of shared Pinus-Vaccinium rhizospheres in petroleum hydrocarbon contami- nated forest soils. Plant Soil 346:121-132. doi:
+Brown MT, Wilkins DA (1985) Zinc tolerance of mycorrhizal
+Betula. New Phytol. 99:101-106
+Adamczyk B, Ahvenainen A, Sietio O-M, Kanerva S, Kieloaho A- J, Smolander A, Kitunen V, Saranpaa P, Laakso T, Strakov P, Heinonsalo J (2016) The contribution of ericoid plants to soil nitro- gen chemistry and organic matter decomposition in boreal forest soil. Soil Biol. Biochem. 103:394-404. doi:
+Murray MG, Thompson WF (1980) Rapid isolation of high molecular-weight plant DNA. Nucleic Acids Res. 8:4321-4325. doi:
+Salavirta H, Oksanen I, Kuuskeri J, Makela M, Laine P, Paulin L, Lundell T (2014) Mitochondrial genome of Phlebia radiata is the second largest (156 kbp) among fungi and features signs of genome flexibility and recent recombination events. PLoS One 9:e97141. doi:
+
+Brody JR, Kern SE (2004) Sodium boric acid: a Tris-free, cooler conductive medium for DNA electrophoresis. BioTechniques 36: 214-216
+Chung J, Ha ES, Park HR, Kim S (2004) Isolation and characteri- zation of lactobacillus species inhibiting the formation of Streptococcus mutans biofilm. Oral Microbiol Immun 19:214- 216. doi:
+Edwards U, Rogall T, Blocker H, Emde M, Bottger EC (1989) Isolation and direct complete nucleotide determination of entire genes--characterization of a gene coding for 16 s-ribosomal Rna. Nucleic Acids Res. 17:7843-7853. doi:
+Martin M (2011) Cutadapt removes adapter sequences from high- throughput sequencing reads. EMBnetjournal 17:10-12
+Schloss PD, Westcott SL, Ryabin T, Hall JR, Hartmann M, Hollister EB, Lesniewski RA, Oakley BB, Parks DH, Robinson CJ, Sahl JW, Stres B, Thallinger GG, Van Horn DJ, Weber CF (2009) Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing mi- crobial communities. Appl. Environ. Microbiol. 75:7537-7541. doi:
+Kozich JJ, Westcott SL, Baxter NT, Highlander SK, Schloss PD (2013) Development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the MiSeq Illumina sequencing platform. Appl. Environ. Microbiol. 79:5112-5120. doi:
+Edgar RC, Haas BJ, Clemente JC, Quince C, Knight R (2011) UCHIME improves sensitivity and speed of chimera detection. Bioinformatics 27:2194-2200. doi:
+Yilmaz P, Parfrey LW, Yarza P, Gerken J, Pruesse E, Quast C, Schweer T, Peplies J, Ludwig W, Glockner FO (2014) The SILVA and "All-species Living Tree Project (LTP)" taxonomic frameworks. Nucleic Acids Res. 42:D643-D648. doi:
+
+Quast C, Pruesse E, Yilmaz P, Gerken J, Schweer T, Yarza P, Peplies J, Glockner FO (2013) The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. Nucleic Acids Res. 41:D590-D596. doi:
+Cole JR, Wang Q, Fish JA, Chai BL, McGarrell DM, Sun YN, Brown CT, Porras-Alfaro A, Kuske CR, Tiedje JM (2014) Ribosomal database project: data and tools for high throughput rRNA analysis. Nucleic Acids Res. 42:D633-D642. doi:
+
+Team RDC (2015) R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria URL .
+Anderson MJ (2001) A new method for non-parametric multivari- ate analysis of variance. Austral Ecol 26:32-46. doi:
+
+McArdle BH, Anderson MJ (2001) Fitting multivariate models to community data: a comment on distance-based redundancy  analysis.  Ecology   82:290-297.  doi:
+
+Oksanen J, Blanchet F, Kindt R, Legendre P, Minchin P, O'Hara R, Simpson G, Solymos P, Stevens M, Wagner H (2016) Vegan: Community Ecology Package. R package version 2.3-3. Accessed 04.04.2016
+Legendre P, Anderson MJ (1999) Distance-based redundancy anal- ysis: testing multispecies responses in multifactorial ecological ex- periments. Ecol. Monogr. 69:512-512. doi:
+Anderson MJ, Robinson J (2003) Generalized discriminant analysis based on distances. Aust Nz J. Stat 45:301-318. doi:
+Anderson MJ, Willis TJ (2003) Canonical analysis of principal coordinates: a useful method of constrained ordination for ecology. Ecology 84:511-525. doi:
+
+
+
+Kindt R, Coe R (2005) Tree diversity analysis. A manual and soft- ware for common statistical methods for ecological and biodiversity studies. World Agroforestry Centre (ICRAF), Nairobi
+Anderson MJ (2006) Distance-based tests for homogeneity of mul- tivariate dispersions. Biometrics 62:245-253. doi:
+Gastwirth JL, Gel YR, Hui WLW, Lyubchich V, Miao W, Noguchi K (2015) Lawstat: Tools for Biostatistics, Public Policy, and Law. R package version 3.0. .
+Warmink JA, van Elsas JD (2008) Selection of bacterial populations in the mycosphere of Laccaria proxima: is type III secretion in- volved? ISME J. 2:887-900. doi:
+Olsson PA, Wallander H (1998) Interactions between ectomycorrhizal fungi and the bacterial community in soils amended with various primary minerals. FEMS Microbiol. Ecol. 27:195-205
+Van Aarle IM, Soderstrom B, Olsson PA (2003) Growth and inter- actions of arbuscular mycorrhizal fungi in soils from limestone and acid rock habitats. Soil Biol. Biochem. 35:1557-1564
+Olsson PA, Chalet M, Baath E, Finlay RD, Soderstrom B (1996) Ectomycorrhizal mycelia reduce bacterial activity in a sandy soil. FEMS Microbiol. Ecol. 21:77-86
+Kurth F, Zeitler K, Feldhahn L, Neu TR, Weber T, Kristufek V, Wubet T, Herrmann S, Buscot F, Tarkka MT (2013) Detection and quantification of a mycorrhization helper bacterium and a my- corrhizal fungus in plant-soil microcosms at different levels of com- plexity. BMC Microbiol. 13:205. doi:
+Reinhold-Hurek B, Bunger W, Burbano CS, Sabale M, Hurek T (2015) Roots shaping their microbiome: global hotspots for micro- bial activity. Annu. Rev. Phytopathol. 53:403-424. doi:
+
+Vetrovsky T, Baldrian P (2013) The variability of the 16S rRNA gene in bacterial genomes and its consequences for bacterial com- munity analyses. PLoS One 8:e57923. doi:
+Uroz S, Buee M, Murat C, Frey-Klett P, Martin F (2010) Pyrosequencing reveals a contrasted bacterial diversity between oak rhizosphere and surrounding soil. Env Microbiol Rep 2:281- 288. doi:
+Vik U, Logares R, Blaalid R, Halvorsen R, Carlsen T, Bakke I, Kolsto AB, Okstad OA, Kauserud H (2013) Different bacterial communities in ectomycorrhizae and surrounding soil. Sci Rep- Uk 3:3471. doi:
+Kielak A, Pijl AS, van Veen JA, Kowalchuk GA (2008) Differences in vegetation composition and plant species identity lead to only minor changes in soil-borne microbial communities in a former arable field. FEMS Microbiol. Ecol. 63:372-382. doi:
+
+Brown SP, Jumpponen A (2014) Contrasting primary successional trajectories of fungi and bacteria in retreating glacier soils. Mol. Ecol. 23:481-497. doi:
+Thomson BC, Ostle N, McNamara N, Bailey MJ, Whiteley AS, Griffiths RI (2010) Vegetation affects the relative abundances of dominant soil bacterial taxa and soil respiration rates in an upland grassland soil. Microb. Ecol. 59:335-343. doi:
+Pascual J, Blanco S, Garcia-Lopez M, Garcia-Salamanca A, Bursakov SA, Genilloud O, Bills GF, Ramos JL, van Dillewijn P (2016) Assessing bacterial diversity in the rhizosphere of thymus zygis growing in the Sierra Nevada National Park (Spain) through culture-dependent and independent approaches. PLoS One 11: e0146558. doi:
+Jones RT, Robeson MS, Lauber CL, Hamady M, Knight R, Fierer N (2009) A comprehensive survey of soil acidobacterial diversity using pyrosequencing and clone library analyses. ISME J. 3:442- 453. doi:
+
+Franke-Whittle IH, Manici LM, Insam H, Stres B (2015) Rhizosphere bacteria and fungi associated with plant growth in soils of three replanted apple orchards. Plant Soil 395:317-333. doi:
+Jeanbille M, Buee M, Bach C, Cebron A, Frey-Klett P, Turpault MP, Uroz S (2016) Soil parameters drive the structure, diversity and metabolic potentials of the bacterial communities across temperate beech forest soil sequences. Microb. Ecol. 71:482-493. doi:
+Bonito G, Reynolds H, Robeson MS, Nelson J, Hodkinson BP, Tuskan G, Schadt CW, Vilgalys R (2014) Plant host and soil origin influence fungal and bacterial assemblages in the roots of woody plants. Mol. Ecol. 23:3356-3370. doi:
+Schafer J, Jackel U, Kampfer P (2010) Development of a new PCR primer system for selective amplification of Actinobacteria. FEMS Microbiol. Lett. 311 :103 - 112 . doi: 
+Beneduzi A, Ambrosini A, Passaglia LMP (2012) Plant growth- promoting rhizobacteria (PGPR): their potential as antagonists and biocontrol agents. Genet. Mol. Biol. 35:1044-1051
+Kurabachew H, Wydra K (2013) Characterization of plant growth promoting rhizobacteria and their potential as bioprotectant against tomato bacterial wilt caused by Ralstonia solanacearum. Biol. Control 67:75-83. doi:
+Fuerst JA, Sagulenko E (2011) Beyond the bacterium: planctomycetes challenge our concepts of microbial structure and function. Nature reviews. Microbiology 9:403-413. doi:
+
+Ofek-Lalzar M, Sela N, Goldman-Voronov M, Green SJ, Hadar Y, Minz D (2014) Niche and host-associated functional signatures of the root surface microbiome. Nat. Commun. 5:4950. doi:
+
+Eilers KG, Lauber CL, Knight R, Fierer N (2010) Shifts in bacterial community structure associated with inputs of low molecular weight carbon compounds to soil. Soil Biol. Biochem. 42:896- 903. doi:
+Boersma FGH, Warmink JA, Andreote FA, van Elsas JD (2009) Selection of Sphingomonadaceae at the base of Laccaria proxima and Russula exalbicans fruiting bodies. Appl. Environ. Microbiol. 75:1979-1989. doi:
+Villarreal-Ruiz L, Anderson IC, Alexander IJ (2004) Interaction between an isolate from the Hymenoscyphus ericae aggregate and roots of Pinus and Vaccinium. New Phytol. 164:183-192. doi:
+Heinonsalo J, Koskiahde I, Sen R (2007) Scots pine bait seedling performance and root colonizing ectomycorrhizal fungal communi- ty dynamics before and during the 4 years after forest clear-cut logging. Canadian Journal of Forest Research-Revue Canadienne De Recherche Forestiere 37:415-429. doi:
+Bent E, Kiekel P, Brenton R, Taylor DL (2011) Root-associated ectomycorrhizal fungi shared by various boreal forest seedlings naturally regenerating after a fire in interior Alaska and correlation of different fungi with host growth responses. Appl. Environ. Microbiol. 77:3351-3359. doi:
+Uroz S, Oger P, Tisserand E, Cebron A, Turpault M-P, Buee M, De Boer W, Leveau JHJ, Frey-Klett P (2016) Specific impacts of beech and Norway spruce on the structure and diversity of the rhizosphere and soil microbial communities. Sci Rep-Uk 6:1-11. doi:
+
+Uroz S, Calvaruso C, Turpault MP, Pierrat JC, Mustin C, Frey-Klett P (2007) Effect of the mycorrhizosphere on the genotypic and met- abolic diversity of the bacterial communities involved in mineral weathering in a forest soil. Appl. Environ. Microbiol. 73:3019- 3027. doi:
+Estrada-De los Santos P, Bustillos-Cristales R, Caballero-Mellado J (2001) Burkholderia, a genus rich in plant-associated nitrogen
+
+
+
+fixers with wide environmental and geographic distribution. Appl. Environ. Microbiol. 67:2790-2798. doi: 
+Paulson JN, Stine OC, Bravo HC, Pop M (2013) Differential abun- dance analysis for microbial marker-gene surveys. Nat. Methods 10:1200-1202. doi:
+Love MI, Huber W, Anders S (2014) Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 15:550. doi:
+
+McMurdie PJ, Holmes S (2014) Waste not, want not: why rarefying microbiome data is inadmissible. PLoS Comput. Biol. 10: e1003531. doi:
+Paulson JN, Talukder M, Pop M, Bravo HC ( 2016) MetagenomeSeq: Statistical analysis for sparse high-throughput sequencing. Bioconductor package: 1.12.0. .

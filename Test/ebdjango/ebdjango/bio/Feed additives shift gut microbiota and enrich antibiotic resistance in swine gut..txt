@@ -1,0 +1,506 @@
+
+
+
+
+
+Feed additives shift gut microbiota and enrich antibiotic resistance in swine gut
+Yi Zhao ,, Jian-Qiang Su , Xin-Li An , Fu-Yi Huang , Christopher Rensing ,,
+Kristian Koefoed Brandt , Yong-Guan Zhu ,,
+a Key Laboratory of Urban Environment and Health, Institute of Urban Environment, Chinese Academy of Sciences, 1799 Jimei Road, Xiamen 361021, China
+b Department of Plant and Environmental Sciences, Faculty of Science, University of Copenhagen, Thorvaldsensvej 40, 1871 Frederiksberg, Denmark
+c Institute of Environmental Microbiology, College of Resources and Environment, Fujian Agriculture and Forestry University, Fuzhou 350002, Fujian, China
+d State Key Laboratory of Urban and Regional Ecology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085, China
+
+
+H I G H L I G H T S
+
+Feed additives and the gut microbiome were investigated at 3 Chinese pig farms.
+Multiple metals and 79 antibiotics were
+analyzed as potential feed additives.
+285 antibiotic resistance genes (ARGs) were quantified by high throughput qPCR.
+ARGs were highly diverse and abundant in swine feces from Chinese pig farms.
+Feed additives and gut microbiota were major determinants shaping ARG profiles.
+
+G R A P H I C A L A B S T R A C T
+
+
+
+
+
+a r t i c l e	i n f o  
+
+Article history:
+Received 25 August 2017
+Received in revised form 11 October 2017
+Accepted 12 October 2017
+Available online 18 October 2017 Editor: Jay Gan
+Keywords:
+Antibiotic resistance High-throughput qPCR 16S rRNA sequencing Swine gut microbiota ARG chip
+Network analysis
+
+a b s t r a c t  
+
+Antibiotic resistance genes (ARGs) are emerging environmental contaminants posing a threat to public health. Antibiotics and metals are widely used as feed additives and could consequently affect ARGs in swine gut. In this study, high-throughput quantitative polymerase chain reaction (HT-qPCR) based ARG chip and next- generation 16S rRNA gene amplicon sequencing data were analyzed using multiple statistical approaches to pro- file the antibiotic resistome and investigate its linkages to antibiotics and metals used as feed additives and to the microbial community composition in freshly collected swine manure samples from three large-scale Chinese pig farms. A total of 146 ARGs and up to 1.3 x 1010 total ARG copies per gram of swine feces were detected. ARGs conferring resistance to aminoglycoside, macrolide-lincosamide-streptogramin B (MLSB) and tetracycline were dominant in pig gut. Total abundance of ARGs was positively correlated with in-feed antibiotics, microbial bio- mass and abundance of mobile genetic elements (MGEs) (P b 0.05). A significant correlation between microbial communities and ARG profiles was observed by Procrustes analysis. Network analysis revealed that Bacteroidetes and Firmicutes were the most dominant phyla co-occurring with specific ARGs. Partial redundancy analysis indi- cated that the variance in ARG profiles could be primarily attributed to antibiotics and metals in feed (31.8%), gut microbial community composition (23.3%) and interaction between feed additives and community composition (16.5%). These results suggest that increased levels of in-feed additives could aggravate the enrichment of ARGs and MGEs in swine gut.
+
+(c) 2017 Elsevier B.V. All rights reserved.
+
+
+Corresponding author at: Key Laboratory of Urban Environment and Health, Institute of Urban Environment, Chinese Academy of Sciences, No. 1799 Jimei Road, Xiamen 361021, China.
+E-mail addresses: (Y.-G. Zhu).
+
+ 0048-9697/(c) 2017 Elsevier B.V. All rights reserved.
+
+
+
+Introduction
+
+The frequent occurrence and spread of multidrug-resistant patho- genic bacteria is a worldwide challenge and can be largely attributed to the use of antibiotics in animals and humans ( ). Antibiotic resistance genes (ARGs) are increasingly regarded as emerging contaminants () providing a threat to human and environment health ( ). China is one of the largest consumers of antibiotics in the world () with a significant fraction of all antibi- otics being used for animal disease treatment and growth promotion (). Antibiotics were first used as feed additives in China in the mid-1970s, but consumption has increased dramatically concomitant with the economic growth in recent decades. A previous report revealed that almost half of the annual antibiotic production in China, totaling about 97,000 tons, went into the animal industry (). Furthermore, metals such as copper and zinc are also approved as feed additives under the stipulation in China for growth promotion and disease control purposes (). It has been observed that these metals in some cases may cause co- selection of ARGs in gut microbiota, but further studies are needed to fully elucidate the links between metals in feed and ARGs in gut micro- biota (). By contrast, it is well established that use of antibiotics in animals may contribute to the antibiotic resistance crisis in humans (). Hence, the swine gut microbiota is now considered an important reservoir of path- ogens with the potential to transfer antibiotic resistant pathogens to humans (). Indeed, the overuse of antibiotics in Chinese animals may possibly explain why Chinese peo- ple harbor higher numbers of ARGs in their guts than Europeans ( ).
+Apart from direct human exposure to ARGs present in swine gut via
+contaminated meat (), ARGs in swine gut may also spread to humans via pig-house dust () or via ma- nure application and wastewater discharge. Although antibiotics and ARGs originating from Chinese swine farms have been documented and characterized (), little is known about the relative importance of different abiotic and biotic factors in shaping the swine gut antibiotic resistome.
+Hence, the aim of this study was to perform high-throughput profil- ing of the ARGs in fecal samples from Chinese pig farms and to investi- gate the effect of antibiotic and metals in swine feed on the antibiotic resistome and its association with the microbial community. To this end, the prevalence and diversity of ARGs and selected mobile genetic elements known to carry ARGs were characterized in fresh fecal matter samples obtained from three large-scale Chinese pig farms using high- throughput quantitative PCR chip technology. ARG profiles were subse- quently linked to microbial community composition as analyzed by 16S rRNA amplicon sequencing and to concentrations of antibiotics and metals in swine feed using partial redundancy analysis, Procrustes anal- ysis, and network analysis. Linear discriminative analysis (LDA) Effect Size (LEfSe) () was further used for high- dimensional ARG data and indicator ARGs and microbe discovery ().
+
+Materials and methods
+
+Sampling
+
+A total of 28 fecal samples representing seven groups (populations) with four replicates of swine receiving seven different feed types were collected in 2014 from three Chinese large-scale swine farms. The three large-scale swine farms were located in three Chinese provinces including Liaoning (LiaoYang/LY farms), Zhejiang (JiaXing/JX farms) and Hunan (HengYang/HY farms). For each group, four swine feed sam- ples were mixed on site into one pooled swine feed sample, while four
+
+biological replicates of fresh fecal samples were taken immediately after excretion. The four replicate fecal samples were derived from four indi- vidual adult pig siblings for biological consistency. The four biological replicates of sampled pigs in each group had all received the same swine feed. All collected seven swine feed and 28 fresh fecal matter samples were sealed in individual 300-mL sterile plastic sampling boxes, immediately transported to the laboratory on dry ice, and stored at -20 degC for further analysis.
+
+Chemical analysis of antibiotics and metals in swine feed
+
+A total of 79 different antibiotics were analyzed in swine feed based on a previously published protocol (). Analyzed in- cluded sulfonamides, tetracyclines, chloramphenicols, macrolide- lincosamide-streptogramin B (MLSB) and other veterinary antibiotics. All targeted antibiotics and their method detection limits (MDL) are listed in Table S1. Metals including copper, zinc, cadmium, lead, mercu- ry, chromium and arsenic in swine feed were analyzed using inductively coupled plasma mass spectrometry (ICP-MS) according to ISO/TS 16965:2013(E).
+
+DNA extraction
+
+High-quality DNA was extracted from fecal samples (0.5 g) using the MoBio PowerFecal(r) DNA Isolation Kit according to the instruction man- ual. The quality and concentration of DNA were checked by agarose gel electrophoresis and ultraviolet-absorbance (ND1000, Nanodrop, Ther- mo Fisher Scientific Inc.). DNA was diluted to 50 ng per mL using sterile PCR-grade water and stored at -20 degC until further analysis.
+
+High-throughput 16S rRNA gene sequencing
+
+The V4-V5 region of 16S rRNA gene () was am- plified, purified, quantified, pooled and sequenced on Illumina Miseq platform at Novogene, Beijing, China (). Each 50 ml PCR re- action contained 25 ml TaKaRa ExTaq, 0.5 ml bovine serum albumin, 1 ml of each primer, 1 ml DNA template and 21.5 ml PCR-grade water. The thermal cycles consisted of initial enzyme activation at 94 degC for 3 mins, followed by 30 cycles of denaturation at 94 degC for 30s, annealing at 58 degC for 1 min and extenstion at 72 degC for 1 min, and a final extension at 72 degC for 5 mins. Demultiplexing was performed and low-quality or ambiguous read were removed to downstream clean sequence genera- tion (Novogene). Quantitative Insights Into Microbial Ecology (QIIME) workflow was used to analyze 16S rRNA gene sequence data. The de novo open-reference operational taxonomic unit (OTU) picking process was conducted by QIIME following the online tutorial and script docu- mentation with 93% as similarity level by UCLUST clustering ( ). Ribosomal Database Project (RDP) classifier was used to assign taxonomic data to each representative sequence by default with a con- fidence threshold of 80%. Singletons were removed prior to down- stream analysis. The within community diversity (alpha diversity) and rarefaction curves were computed using observed OTUs, phylogenetic diversity metrics (PD whole tree) and Shannon index.
+
+HT-qPCR and data processing
+
+A total of 296 primer sets targeting 285 ARGs, 8 transposase genes, 2 integron-integrase genes and the 16S rRNA gene were used (Table S2). All HT-qPCR reactions were performed on the Wafergen SmartChip Real-time PCR system as described previously ( ). For each run, a non-template negative control (NTC) was included.
+All qPCRs were conducted with technical triplicates. Individual PCR reactions having amplification efficiencies outside the 1.8-2.3 range or r2 below 0.99 were discarded. A threshold cycle (CT) of 31 was used to define the detection limit for individual PCR reactions. Based on
+
+
+
+absolute quantification performed in this study, this means the genes will be detected using HT-qPCR chip when its copy number is estimated
+
+Table 1
+Antibiotics detected and their concentrations in swine feeds.
+
+to be N 6000-50,000 copies per gram of feces. Only genes detected in all
+3 technical replicates and in all 4 fecal samples per treatment group were considered positive and used for further data analysis.
+
+Group
+Detected antibiotic
+HY1
+
+Concentration (mg/kg)	Total concentration (mg/kg)
+
+Relative gene copy numbers were calculated with the formula: rela- tive gene copy numbers = 10(31-CT)/(10/3) as described previously ( ), where 31 refers to the threshold cycle (CT) chosen to define
+
+Florfenicol	4.9	4.9
+HY2
+Sulfamethazine	0.2
+
+the detection limit. The normalized ARG copy numbers (ARG copy num- ber per bacterial cell) were calculated as follows: normalized ARG copy numbers = (relative ARG copy number)/(4 x relative 16S rRNA gene copy numbers), where 4 is the average number of 16S rRNA-encoding
+
+Sulfaisodimidine	0.2
+Olaquindox
+1.5
+
+HY3
+
+1.9
+
+genes per bacterium (). Absolute ARG copy numbers (ARG copy numbers per gram of feces) were determined by using standard curve method of quantification with the Roche LightCycler Real-time qPCR 480 system, as described previously (). Relative abundance of specific ARG and OTU refers to the percentage of individual abundance among total ARG/OTU abundance.
+
+Olaquindox	1159	1159
+LY
+Olaquindox	32	32
+JX1
+Florfenicol	16.5	16.5
+JX2
+Ofloxacin	0.5
+
+Statistical analysis
+Averages and standard deviations were calculated using Excel 2013
+
+Olaquindox	46.5
+Nicarbazin	5.1
+
+JX3
+
+52.1
+
+(Microsoft Office Professional Plus 2013, Microsoft, USA). Linear dis- criminative analysis (LDA) Effect Size (LEfSe) () was performed using Galaxy as explanation tool for high-dimensional data and indicator microbe/gene discovery (). Principle component analysis (PCA), partial redundancy analysis (pRDA), Pro- crustes analysis, single environmental factor test, and Mantel test were conducted on RStudio (Version 0.99.486 - (c) 2009-2015 RStudio, Inc.) using Community Ecology Package "Vegan" (version 2.3-0) for ecological statistical analysis. Bar chart and scatter diagrams were gen- erated by OriginPro 2015. Correlation analysis and significance tests were performed using IBM SPSS Statistics version 19. Venn diagram was created by Creatly software (Cinergix, Pty Ltd). Network analysis was plotted using Cytoscape 3.2.1. Relative abundance data for both ARGs and OTUs were used as input data for LDA, PCA, pRDA, Procrustes analysis, Mantel test and network analysis. Data of total number of ARGs detected and absolute abundance of 16S/ARGs were used for correspon- dent correlation analysis and significance tests. The flowchart was gen- erated using ProcessOn software.
+
+Results
+
+Antibiotics and metals as additives in swine feed
+
+Antibiotics detected in swine feed samples (). Seven different antibiotics were detected among all the feed samples and the concen- trations varied from 1.9 to 1159 mg per kg of dry weight. Olaquindox was found in most of the feed samples at a concentration up to 1159 mg/kg. Florfenicol was detected in two out of 7 feed samples at concen- trations between 4.9 and 16.5 mg/kg. The remaining five detected antibiotics (sulfamethazine, sulfaisodimidine, ofloxacin, nicarbazin and enrofloxacin) were each detected in only one group at concentra- tions between 0.2 and 5.1 mg/kg (). Concentrations of copper and zinc averaged 90.2 mg Cu/g dry wt and 179.3 mg Zn/g dry wt, respectively, and ranged from 6.1 to 186.3 mg Cu/g dry wt and 65.6 to
+285.6 mg Zn/ g dry wt (). Group HY3 and JX3 were found to be
+
+Enrofloxacin	1.1	935.1
+Olaquindox	934
+
+
+
+of 1,331,801 high quality filtered sequences were obtained from all 28 samples with a range of 8472 to 85,719 sequences per samples. These sequences were clustered into 18,171 OTUs at the 97% similarity level and then assigned to Bacteria (97.9%), Archaea (1.5%) and other unassigned (0.6%).
+Bacteroidetes and Firmicutes were the two dominating phyla in all seven groups with N 75% of the sequences  belonging  to  these  taxa  (Fig. S2). The dominant classes were Clostridia/Firmicutes, Bacilli/ Firmicutes and Bacteroidia/Bacteroidetes with relative abundances up to 44.5%, 31.4%, and 43.6%, respectively. OTU level rarefaction curves showed a similar species richness among groups (Fig. S3). Similar re- sults were obtained when evaluating diversity using PD whole tree,  Chao1 estimator, and the Shannon index (Fig. S3).
+Principal component analysis (PCA) displayed distinct clustering of replicate samples from each group demonstrating similar microbial community composition (Fig. S4). However, the microbial communities from different groups (HY3, LY, JX1, JX2 and JX3) also shared a certain degree of similarity, whereas HY1 and HY2 formed another loose cluster.
+To characterized the difference of gut microbiota between groups and discover indicator taxa, LDA Effect Size (LEfSe) algorithm module was used to couple statistical significance with biological consistency and effect size estimation. Potential indicator taxa are represented in with their LDA scores in Fig. S5. These taxa displayed statistically significant differential relative abundance between groups. Every
+
+
+
+Table 2
+Metals detected in swine feed and their concentration.
+
+highly medicated with antibiotics at 1159 and 935 mg/kg, while the other groups were lowly medicated with total in-feed antibiotics in the range of 2-52 mg/kg.
+
+Microbial community composition in swine gut
+
+The number of 16S rRNA gene copies ranged from 2.59 x 109 to
+8.52 x 109 copies per gram of fresh wet fecal matter (Fig. S1). A total
+
+Cu	Zn
+
+Cd	Pb
+
+Hg	Cr	As
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Indicator taxa with statistically significant differential abundance between treatment groups as revealed by linear discriminative analysis (LDA) Effect Size (LEfSe) analysis of swine gut microbiota 16S rRNA gene sequence data. Each node refers to a single taxon. Each color refers to each group and its corresponding indicator bacteria. Each circle's diameter is proportional to the taxa levels (from phylum to family). This representation employs the Ribosomal Database Project (RDP) taxonomy.
+
+
+
+
+group had at least one potential indicator except for HY2 (). All po- tential indicator taxa of HY1, HY3, and JX3 belonged to the phylum Firmicutes. Other indicators included taxa from Spirochaetes, Bacteroidetes. Partial redundancy analysis was used to  characterize the effect of feed additives on the microbial community. Results showed variance in the microbial community could be mainly ex- plained by in-feed antibiotics and metals (53.99%), while MGEs explaining 11.50%.
+
+ARGs in gut microbiota
+
+A total of 156 genes including 146 antibiotic resistance genes (ARGs), 8 transposon-transposase genes and 2 class 1 integron- integrase genes were detected among all samples. The number of ARGs detected in each group varied from 48 to 126 (). The detected resistance genes represented all major resistance mechanisms: antibiot- ic deactivation (44.5%), efflux pumps (34.3%) and cellular protection (19.2%) () and conferred resistance to major classes of antibiotics: multidrug (22%), aminoglycoside (20%), beta-lactam (14%), tetracycline (14%), MLSB (14%), vancomycin (8%), sulfonamide (2%), chloramphen- icol (2%) and others (4%) (Fig. S6). Swine gut microbiota from HY3 har- bored a significantly higher number of ARGs than the other groups (P b 0.05), where multidrug and aminoglycoside resistance genes accounted for 23% and 19%, respectively, followed by MLSB (16%), tetracycline (14%) and beta-lactam resistance genes (14%).
+ARGs detected in these fresh pig manures were highly abundant, ranging from 2.72 x 109 to 1.34 x 1010 copies per gram (A). The normalized copy numbers (copies per bacterial cell) varied from 4.51
+
+
+to 13.53, with an average of 6.85 ARGs per bacterial cell (B). The highest absolute abundance of ARG (copy number per g of fecal matter) was found in the highly medicated HY3 group, contributed mostly by tetracycline (4.77 x 109), MLSB (3.41 x 109), and aminoglycoside resis- tance genes (4.02 x 109).
+To compare the similarity and dissimilarity of ARGs from different groups, the relative abundance of specific ARGs as a percentage of total ARG abundance across all samples was examined. The overall pat- terns of ARGs were revealed by PCA. The seven treatment groups could not be distinguished using PCA indicating that they shared similar ARG profiles (Fig. S7). Among 285 targeted ARGs, 32 shared ARGs were found in all samples (Table S3). Unique unshared ARGs were also found with the highest number of unique ARGs for one group being  26 for HY3 (), contributed by multidrug and beta-lactam resistance genes (RGs).
+LEfSe characterized the indicator ARGs in each group displaying sig- nificantly different abundance compared to all other groups (Fig. S8). All indicator ARGs found in HY1 (ermT, ermX, lnuB, vatE) were genes confer- ring resistance to the MLSB class of antibiotics. A total of 4 indicator ARGs including 3 tetracycline resistance genes (tet(32), tetL, tetO) and 1 aminoglycoside resistance gene (aadD) were observed for HY2. HY3 harbored 8 indicator ARGs conferring resistance to aminoglycosides (aacA/aphD, aphA1(aka kanR)), multiple drugs (mexF, oprD), tetracy- clines (tetPB, tetQ), beta-lactams (fox5) and streptomycin ARG (sat4) with efflux pump as resistance mechanism. Other indicator ARGs in- cluded aminoglycoside RGs - aadA2 for JX1; aac(6')-Ib(aka aacA4), aadA2, aadA, aph(2')-Id, cmxA, and qacEdelta1-01 for JX2; aadA1,tetG,and tetX for JX3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Antibiotic resistance genes (ARGs) detected in the seven different treatment groups of swine gut microbiota. ARGs were classified based on (A) antibiotics to which they confer resistance and (B) mechanism of resistance. MLSB as abbreviation for macrolide-lincosamide-streptogramin B.
+
+
+
+Relationship between feed additives, microbial community composi- tion, and ARGs
+
+The total concentration of antibiotics in feed was significantly corre- lated to the absolute abundance of total ARGs in manure (Pearson's coefficient = 0.868, P b 0.05), and the number of different ARGs detect- ed was significantly correlated to total concentration of copper in feed (Pearson's coefficient = 0.871, P b 0.05) (Table S4). Meanwhile, micro- bial abundance (16S rRNA absolute gene copy numbers) was strongly correlated with total ARG abundance (Pearson's coefficient = 0.65, P b 0.01), with ARGs conferring resistance to each major class of antibiotics except sulfonamides (Table S5). Moreover, the absolute abundance of total MGEs, integrons, and transposons were significantly correlated with total ARG abundance and ARGs conferring resistance to different classes of antibiotics (Table S5).
+The abilities of antibiotics and metals in swine feed and phylum- level microbial community composition to explain the relative abun- dance of ARGs were also evaluated by partial redundancy analysis (pRDA). A total of 31.84% of the variance in the ARG data set could be ex- plained by antibiotic and metal concentrations in swine feed, with
+
+microbial community composition and MGEs explaining 23.3% and 2.4%, respectively (). Interactions between swine feed and microbi- al community accounted for 16.5% of the variation. Using Monte Carlo permutation test to verify, sorting accepted pRDA results with Pseudo- F value 6.30 (Significance b 0.001, Permutation: free, Number of permutations = 999). Single environmental factor test was conducted to reveal the correlation between each single explanatory variable and ARG variance. Single factors that positively correlated with change of ARGs included Bacteroidetes, Firmicutes, copper, and arsenic (Signifi- cance b 0.01, Permutation: free, Number of permutations = 999).
+Procrustes analysis exhibited a good-fit correlation between ARG profiles and microbial community composition on the basis of Bray- Curtis dissimilarity metrics (Procrustes sum of squares M2 = 0.6698, r
+= 0.5746, Significance: 4e-04, Permutation: free, Number of permuta- tions: 9999) (). To further verify, Mantel test was performed and results confirmed a significant correlation between ARG profiles and microbial community composition (r = 0.4436, P b 0.001, Permutation: free, Number of permutations: 999). Hence, the antibiotic resistome did not decouple from the microbiome. Network analysis was performed to reveal  the co-occurrence pattern between ARGs and microbial  OTUs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3. Abundance of antibiotic resistance genes (ARGs) in the seven different treatment groups of swine gut microbiota. (A) Absolute copy numbers of ARGs conferring resistance to specific classes of antibiotics per gram of fecal sample, with error bars showing calculated standard deviation (s.d.) of four sampling replicates on each group (n = 4). (B) the normalized copy numbers of ARGs presented as total ARG copies per bacterial cell with error bar showing calculated s.d. (n = 4).
+
+
+
+Specific ARGs conferring resistance to aminoglycosides, beta-lactams, MLSB, and tetracyclines could be linked to Bacteriodetes, Firmciutes, and Spirochaetes ().
+
+Discussion
+
+Although time-resolved dynamics of the swine gut microbiome and antibiotic resistome were not obtained, the results of the this study demonstrate that swine gut microbiota from Chinese pig farms har- bored diverse and abundant ARGs in both high-medicated (HY3, JX3) and low-medicated groups (other five groups). The presented results also support a potential role of Cu in co-selection of ARGs. Analyses demonstrated that increased levels of in-feed additives affected the composition of the gut microbiota and aggravated the enrichment of ARGs. Feed additives and microbial community were the dominant de- terminants of shaping the swine gut antibiotic resistome.
+Highly diverse and abundant ARGs were found in pig fecal samples of both high-medicated and low-medicated group (). The 32 ARGs shared by all 28 investigated microbiomes belong to the most
+
+abundant type of ARGs conferring resistance to aminoglycosides, MLSB and tetracyclines. Consistent with the findings from the present study, the genes aadA and tet family genes were previously suggested as the most common and abundant ARGs in manure ( ). About 100 additional ARGs were detected in the present study compared to the number of ARGs detected in a swine manure control sample from pigs that received no known antibi- otics from a previous study employing the same HT-qPCR based ARG chip (). These findings indicate that even small dosages of antibiotics can induce higher levels of ARGs in swine gut. Recent stud- ies have demonstrated that even subinhibitory levels of antibiotic can induce different expression of genes causing enhancement of toxin  and biofilm production in potential human pathogens ( ). In addition to increasing the level of ARG, a small dosage of antibiotics in feed additives for prophylaxis could thus also pose a risk by promoting the virulence and biofilm formation during bacterial infection.
+In-feed copper was significantly correlated to the diversity of ARGs in gut microbiota (P b 0.05) and together with arsenic were shown to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 6. Procrustes analysis showing the correlation between antibiotic resistance gene (ARG) and microbial community structure (ARG/operational taxonomic unit distribution patterns) on the basis of Bray-Curtis dissimilarity metrics (M2 = 0.6698, r = 0.5746, P b 0.0001, 9999 free permutations). Red line connecting the two data sets of groups.
+
+
+Fig. 4. Number of unique unshared antibiotic resistance genes (ARGs) in swine gut microbiota originating from seven different treatment groups. MLSB as abbreviation for macrolide-lincosamide-streptogramin B.
+
+
+
+be the two dominant single factors shifting the ARG profiles (P b 0.01), suggesting roles of Cu and As as co-selecting agents. A number of studies have implicated that metals play an important role in co-selecting ARGs (). Toxic metals, such as copper and zinc, may even exert a stronger selection pressure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. Partial redundancy analysis differentiating the effect of antibiotic and metal concentrations in swine feed, swine gut microbial community composition and mobile gene elements on the overall ARG profiles.
+
+
+
+
+for antibiotic resistance than the specific antibiotic itself in certain cases (). It should be noted that much higher concentra- tions of metals than observed in this study have been observed in pig fecal matter obtained from other pig farms ().
+A key finding of this study is that the ARGs present in swine gut depended on the composition of the microbial community, indicating that swine gut microbiome could be an important conduit for transfer- ring ARGs into the environment. A similar conclusion was drawn by a recent study of differentially medicated pigs in USA ( ). The strong association between the resistome and microbiome has also been found in urban sewage (), human gut () and soil (). And due to the anthropogenic activities in last decades, the microbes are moving globally () and ARGs spread into our envi- ronments with unprecedented diversity and abundance ( ). Therefore, importance of monitoring and control of microbes and ARGs in reservoirs like animal gut should not be underestimated. To the best of our knowledge, our study is the first to use LDA as a tool to discover potential indicator ARGs and indicator microbial taxa in fecal samples. LDA and network analysis gave consistent results. pRDA results showed that in-feed antibiotics and metals, and microbial com- munity in total explained 71.6% of the variance in ARG pattern. More- over, 54.0% of changes in gut microbiota were contributed by antibiotics and metals in feed. Collectively, these results imply that swine gut antibiotic resistome was largely shaped by  the enrichment of certain microbial taxa rather than by horizontal gene transfer of ARGs. However, this does not rule out the importance of HGT which considered a vital pathway for dissemination of ARGs and causing emer- gence of multidrug resistant bacteria in different environments ( ). This is consistent with the ob- served positive correlation between MGEs and multidrug resistance genes found in this study (Pearson's r = 0.94, P b 0.001). Multidrug- resistant bacteria (MDB) as the most threatening type of antibiotic- resistant bacteria (ARB) to public health includes superbug methicillin-resistant Staphylococcus aureus (MRSA), which is responsi- ble for several difficult-to-treat infections in humans ( ). Moreover, diverse mobile ARGs induced in swine gut, enriched and transferred into the environment by manure  fertilization  and  farm wastewater, could pose a risk to human health by potential HGT of ARGs to human-associated pathogens ( ). Hence, management options for mitigating the dissemina- tion of such manure-borne ARGs are critical ().
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 7. Network analysis revealing the co-occurrence pattern between antibiotic resistance genes (ARGs) and microbial taxa at phylogenetic resolution from phylum to genus (16S rRNA gene sequence data). The nodes were colored according to the ARG classes and different phyla, and the size of the node is proportional to the degree of the connection (number of correlation). The edge (connection) shows significant correlation (P b 0.01), and edge line width represents corresponding Spearman's correlation coefficient.
+
+
+Composting and lagoons have been shown quite effective treatments of ARGs in manure (). However, the persistence of some ARGs has been reported after treatment (). Therefore, better manure treatment technologies are needed to prevent dissemination of ARGs to agricultural soils and harvested crops. Howev- er, the ultimate solution may be to replace antibiotics by other feed ad- ditives such as phytogenic products, probiotics, and prebiotics ( ).
+
+Conclusions
+
+The presented results clearly indicate that antibiotics and metals used as feed additives in large-scale Chinese farming operation shifted the swine gut microbiome and significantly enhanced the diversity and abundance of ARGs in swine gut. The taxonomic composition of the swine gut community also played an important role in shaping the ARG profile, and network analysis revealed co-occurrence patterns of
+
+21 specific ARGs and their potential hosts. Hence, the swine gut micro- bial community may serve as an important reservoir of ARGs of rele- vance to public health.
+
+Conflicts of interests
+
+The authors declare no conflicts of interests.
+
+Acknowledgements
+
+The authors thank Jie Xu for help with sample collection, and Xiuli Hao for advice on figure plotting. This work was supported financially by National Natural Science Foundation of China (41571130063, 21210008); and REMEDIATE (Improved decision-making in contami- nated land site investigation and risk assessment) Marie-Curie Innova- tion Training Network from the European Union's Horizon 2020 Programme (grant agreement n. 643087).
+
+
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at  .
+
+References
+Ashbolt, N.J., Amezquita, A., Backhaus, T., Borriello, P., Brandt, K.K., Collignon, P., et al., 2013.  .
+Baker-Austin, C., Wright, M.S., Stepanauskas, R., McArthur, J.V., 2006.  2.
+Baquero, F., Martinez, J.-L., Canton, R., 2008.  5.
+Binh, C.T., Heuer, H., Kaupenjohann, M., Smalla, K., 2009.   3.
+Cang, L., 2004.  4.
+Cheng, W., Chen, H., Su, C., Yan, S., 2013.   7.
+Claesson, M.J., Wang, Q., O'Sullivan, O., Greene-Diniz, R., Cole, J.R., Ross, R.P., et al., 2010.   8.
+Collignon, P., Voss, A., 2015.  .
+Dzidic, S., Bedekovic, V., 2003.  6.
+Edgar, R.C., 2010.  .
+Forsberg, K.J., Patel, S., Gibson, M.K., Lauber, C.L., Knight, R., Fierer, N., et al., 2014.  6.
+Gaggia, F., Mattarelli, P., Biavati, B., 2010.  .
+Gibson, M.K., Crofts, T.S., Dantas, G., 2015.  .
+Goecks, J., Nekrutenko, A., Taylor, J., 2010.   .
+Goh, E.-B., Yim, G., Tsui, W., McClure, J., Surette, M.G., Davies, J., 2002.   .
+Goneau, L.W., Hannan, T.J., MacPhee, R.A., Schwartz, D.J., Macklaim, J.M., Gloor, G.B., et al., 2015.   .
+Goossens, H., Ferech, M., Vander Stichele, R., Elseviers, M., Group EP, 2005.   7.
+Hamscher, G., Pawelzick, H.T., Sczesny, S., Nau, H., Hartung, J., 2003.   .
+Heuer, H., Schmitt, H., Smalla, K., 2011.  3.
+Hoelzer, K., Wong, N., Thomas, J., Talkington, K., Jungman, E., Coukell, A., 2017.     .
+Hoffman, L.R., D'Argenio, D.A., MacCoss, M.J., Zhang, Z., Jones, R.A., Miller, S.I., 2005.  .
+Hu, Y., Yang, X., Qin, J., Lu, N., Cheng, G., Wu, N., et al., 2013.   .
+Hu, H.W., Wang, J.T., Li, J., Li, J.J., Ma, Y.B., Chen, D., et al., 2016.   .
+Huang, Y., Cheng, M., Li, W., Wu, L., Chen, Y., Luo, Y., et al., 2013.    .
+
+Jensen, J., Larsen, M.M., Bak, J., 2016.   0.
+Klappenbach, J.A., Saxman, P.R., Cole, J.R., Schmidt, T.M., 2001.  4.
+Looft, T., Johnson, T.A., Allen, H.K., Bayles, D.O., Alt, D.P., Stedtfeld, R.D., et al., 2012.   .
+Martinez, J.L., 2008. 
+.
+Munir, M., Xagoraraki, I., 2011.   .
+Ouyang, W.Y., Huang, F.Y., Zhao, Y., Li, H., Su, J.Q., 2015.   .
+Penders, J., Stobberingh, E.E., Savelkoul, P.H., Wolffs, P.F., 2013.  .
+Perreten, V., Schwarz, F., Cresta, L., Boeglin, M., Dasen, G., Teuber, M., 1997.  2.
+Pruden, A., Pei, R., Storteboom, H., Carlson, K.H., 2006.   .
+Pruden, A., Larsson, D.G., Amezquita, A., Collignon, P., Brandt, K.K., Graham, D.W., et al., 2013.  5.
+Segata, N., Izard, J., Waldron, L., Gevers, D., Miropolsky, L., Garrett, W.S., et al., 2011.
+0.
+Sharma, R., Larney, F.J., Chen, J., Yanke, L.J., Morrison, M., Topp, E., et al., 2009.   5.
+Sharma, M., Nunez-Garcia, J., Kearns, A.M., Doumith, M., Butaye, P.R., Argudin, M.A., et al., 2016.   .
+Song, J., Rensing, C., Holm, P.E., Virta, M., Brandt, K.K., 2017.   .
+Storteboom, H.N., Kim, S.C., Doesken, K.C., Carlson, K.H., Davis, J.G., Pruden, A., 2007.   .
+Su, J.Q., Wei, B., Ou-Yang, W.Y., Huang, F.Y., Zhao, Y., HJ, Xu, et al., 2015.   .
+Su, J.Q., An, X.L., Li, B., Chen, Q.L., Gillings, M.R., Chen, H., et al., 2017.   .
+Van Boeckel, T.P., Gandra, S., Ashok, A., Caudron, Q., Grenfell, B.T., Levin, S.A., et al., 2014.  0.
+Windisch, W., Schedle, K., Plitzner, C., Kroismayr, A., 2008.  8.
+Wong, C.S., Jelacic, S., Habeeb, R.L., Watkins, S.L., Tarr, P.I., 2000.   .
+Xu, H.-J., Wang, X.-H., Li, H., Yao, H.-Y., J-Q, Su, Zhu, Y.-G., 2014.   .
+Yazdankhah, S., Rudi, K., Bernhoft, A., 2014.   .
+Yun-peng, W., Yue, M., 2008.  .
+Zhu, Y.G., Johnson, T.A., Su, J.Q., Qiao, M., Guo, G.X., Stedtfeld, R.D., et al., 2013.   .
+Zhu, Y.-G., Gillings, M., Simonet, P., Stekel, D., Banwart, S., Penuelas, J., 2017a.  
+Zhu, Y.-G., Zhao, Y., Li, B., Huang, C.-L., Zhang, S.-Y., Yu, S., et al., 2017b.  .

@@ -1,0 +1,450 @@
+e
+
+
+
+Anaerobes in the microbiome
+Fermentation properties of isomaltooligosaccharides are affected by human fecal enterotypes
+Qinqin Wu , , Xiong'e Pi , Wei Liu , Huahai Chen , Yeshi Yin , Hongwei D. Yu , ,
+Xin Wang , Liying Zhu , 
+a College of Chemistry and Life Sciences, Zhejiang Normal University, Jinhua 321004, PR China
+b State Microbial Technology of Zhejiang Province, Institute of Plant Protection and Microbiology, Zhejiang Academy of Agricultural Sciences,
+Hangzhou 310021, PR China
+c Department of Biomedical Sciences, Marshall University, 1 John Marshall Drive, Huntington, WV 25755, USA
+d Progenesis Technologies, LLC, One John Marshall Drive, Robert C. Byrd Biotechnology Science Center, Suite 314, Huntington, WV 25755, USA
+
+
+
+a r t i c l e i n f o
+
+Article history:
+Received 29 May 2017 Received in revised form 2 August 2017
+Accepted 31 August 2017
+Available online 4 September 2017 Handling Editor: Andrew Bruce Onderdonk
+Keywords:
+Human gut microbiota IMO
+Degree of polymerization Enterotype
+SCFAs
+
+
+a b s t r a c t  
+
+Isomaltooligosaccharides (IMOs) are enzymatically synthesized oligosaccharides that have potential prebiotic effects. Five IMO substrates with 2e16o of polymerization (DP) were studied for their fermentation capacities using human microbiomes in an in vitro batch fermentation model. Eleven fecal slurries belonging to three enterotypes, including the Bacteroides-, Prevotella- and Mixed-type, exhibited different degradation rates for long chain IMOs (DP 7 to 16). In contrast, the degradation rates for short chain IMOs (DP 2 to 6) were not affected by enterotypes. Both 16S rRNA gene sequencing and quanti- tative PCR demonstrated that, after fermentation, the Bifidobacterium growth with IMOs was primarily detected in the Bacteroides- and Mixed-type (non-Prevotella-type), and to a lesser degree in the Pre- votella-type. Interestingly, the Prevotella-type microbiome had higher levels of propionic acid and butyric acid production than non-Prevotella-type microbiome after IMOs fermentation. Moreover, principal co- ordinate analysis (PCoA) of both denaturing gradient gel electrophoresis (DGGE) profiling and 16S rRNA sequencing data demonstrated that the microbiome community compositions were separately clustered based on IMO chain length, suggesting significant impact of DP on the bacterial community structure. The current results clearly demonstrated that the IMO chain length could modulate the structure and composition of the human colonic microbiome. Different responses to short and long chain IMOs were observed from three human enterotypes, indicating that IMOs may be used as therapeutic substrates for directly altering human colonic bacteria.
+
+(c) 2017 Elsevier Ltd. All rights reserved.
+
+
+
+
+
+Introduction
+
+The human large intestine is inhabited by a complex and metabolically active microbial community (>1011 cells/g digestive contents), which is composed of anaerobic bacteria that are mainly classified as Firmicutes, Bacteroidetes, Actinobacteria, Proteobac- teria and Verrucomicrobia . Despite of substantial inter- individual variation between microbiomes, Bacteroides, Prevotella and Ruminococcus have been identified as the major genus to distinguish three enterotypes common to all humans, regardless of host nationality or continent-specificity, of which the composition
+
+
+* Corresponding author.
+E-mail address: (L. Zhu).
+
+is influenced by long-term dietary regimes . The complex di- etary residues that escape the digestion by enteric enzymes are the primary energy source for microbial fermentation, which are mainly non-starch polysaccharides. Bacteroides species are found in people that consume diets high in protein and fats, and mainly live in urban environments or have a Western lifestyle. In contrast, Prevotella species are present in people living in rural areas . Short chain fatty acids (SCFAs) - such as acetate, propionate and butyrate - are the major metabolites generated during colonic carbohydrate fermentation. Among these fatty acids, butyrate serves anti-inflammatory and anti-carcinogenesis roles in the gut . A healthy colonic microbiome is characterized as having a high abundance of butyrate-producing bacteria, mucin degraders, and Bifidobacteria .
+Prebiotics are non-digestible carbohydrates that are selectively
+
+
+ 1075-9964/(c) 2017 Elsevier Ltd. All rights reserved.
+
+Q. Wu et al. / Anaerobe 48 (2017) 206e214	207
+
+
+fermented in the colon by desirable bacterial species, such as Bifi- dobacteria and Lactobacilli , and the beneficial impacts of pre- biotics on the human health have been intensely-studied in recent decades. Prebiotics promote positive health by stimulating bifido- bacterial growth, increasing butyrate production and improving lipid metabolism, all of which have been confirmed by measuring fructooligosaccharides, galactooligosaccharides and inulin . In addition, the chemical structures and the degree of polymerization (DP) of prebiotics affect fermentation properties in the human gut . For example, long chain inulin-like fructans can ameliorate type I diabetes symptoms in mice, in contrast to short chain fruc- tans . This therapeutic property could be ascribed to the different fermentation rates of inulin-like fructans inside the colon. In general, the short chain inulin-like fructans are rapidly fer- mented in the left side of colon, while long chain fructans are associated with slow fermentation rates, often allowing for activity to reach the right side colon or the rectum .
+Isomaltooligosaccharides (IMOs) are natural oligosaccharides
+that are found in various fermented foods, such as miso, sake and soy sauce . Commercial IMOs are synthesized using industrial enzymatic processes, as extraction from natural sources is not economical . IMOs consist of a-D-o-glucose residues that are linked by a (1e6) glycosidic bonds  and can be produced industrially in large batches from starch hydrolysates using a- transglucosidase or by a-amylase with a-glucosidase, either in combination with pullulanase . The final IMO product is a mixture that is characterized by a DP that varies from 2 to 10 and several linkage types (a-1-2, 3, 4, or 6), as well as the proportion and position of each linkage type (only a-(1e6) or combined types). Therefore, IMOs with varied DP values may exert different impacts on human colonic microbiota.
+In this study, the effects of five IMO substrates with different chain lengths on the human fecal  microbiome were studied by in vitro batch fermentation. In addition to different fermentation properties, the microbiome compositions with different enter- otypes were significantly altered when incubated with IMOs that had long or short chain length in polymerization, as determined by both PCR-DGGE profiling analysis and 16S rRNA gene sequencing.
+
+Materials and methods
+
+Fecal sample origins
+
+A total of eleven healthy human volunteers living in Hangzhou, China, ranging from 22 to 50 years old, were recruited for the study. All volunteers consumed traditional Chinese food and none one claimed as vegetarian. The donors had received neither antibiotics, nor pro- or prebiotic treatments for at least three months prior to sample collection. All volunteers were provided with informed, written consent, and the study was approved by the Ethics Com- mittee of the Zhejiang Academy of Agricultural Sciences.
+
+IMOs
+
+Five IMO substrates with different DP and from three manufac- turers were used. IMO-S was composed of 90% IMOs with DP 2 to 4 and was obtained from Bailong Chuangyuan Biotechnology Co., Ltd. (Yucheng Shandong, China). IMO-B was composed of 90% IMOs with DP 2 to 5 and was obtained from Baolingbao Biotechnology, Co., Ltd. (Yucheng Shandong, China). IMO-H1, IMO-H2, IMO-H3 were ob- tained from Herbon International Holdings Co., Ltd. (Hongkong, China), and they were composed of 20% DP 4, 60% DP 4e6 and 20% DP 6; 20% DP 7, 60% DP 7e15 and 20% DP 15; and 20% DP 8, 60% DP
+8e16 and 20% DP 16, respectively. For thin-layer chromatography (TLC) analysis,  IMO  standards composed  of  DP of  2  and  3 were
+
+
+obtained from Tokyo Kasei Kogyo Co., Ltd. (TCI). DP 4, 5 and 6 were obtained from the Seikagaku Biobusiness Corporation (Tokyo, Japan).
+
+Batch culture fermentation of IMOs with human fecal slurries
+
+Batch culture fermentation was conducted using the procedure described by Lei et al. . The basic growth medium VI contained the following: 4.5 g/L yeast extract; 3.0 g/L tryptone; 3 g/L peptone;
+0.4 g/L bile salts No. 3; 0.8 g/L L-cysteine hydrochloride; 4.5 g/L NaCl; 2.5 g/L KCl; 0.45 g/L MgCl2$6H2O; 0.2 g/L CaCl2$6H2O; 0.4 g/L KH2PO4; 1 mL of Tween 80; 1 mL of Resazurin and 2 mL of a solution of trace elements . In order to assess the degradation and utili- zation of IMOs by the human fecal microbiome, 8.0 g each of IMO-S, IMO-B, IMO-H1, IMO-H2 and IMO-H3 were added into the growth medium as the sole carbon source. The medium was adjusted to pH
+6.5 before sterilization via autoclave. Five mL of test medium was dispensed into a 10 mL-bottle under anaerobic conditions.
+Fresh fecal samples (0.8 g) were homogenized with 8 mL of
+0.1 M anaerobic phosphate-buffered saline (pH 7.0) using an automatic fecal homogenizer (Halo Biotechnology Co. LTD., Jiangsu, China) to make a 10% (w/v) slurries. The batch fermentation was performed using 1% fecal slurry in anaerobic growth media at 37 oC for 48 h. One mL aliquots were removed at 0, 24 and 48 h for further analysis. The cultures were centrifuged and the precipitates were collected and stored at -30 oC for DNA extraction.
+Thin-layer chromatography
+
+The IMO degradation products were detected by TLC analysis. Briefly, samples (0.2 mL) were loaded onto a pre-coated silica gel-60 TLC aluminum plate (Merck, Germany). After being developed with a solvent system consisting of formic acid/n-butanol/water (6:4:1, v:v:v), the plate was soaked in orcinol reagent (Sigma-Aldrich Co. LLC) and visualized at 120 oC for 1 min .
+The scanned TLC profiles were analyzed by Quantity One (Bio- Rad, USA) and the amounts of IMO in each samples were quantified. Degradation rates were calculated as the percentage of total amounts at 0 h subtracted from that at 48 h after fermentation.
+
+DNA extraction
+
+Bacterial genomic DNA was isolated from fermentation samples obtained at 0 and 48 h was extracted using a QIAamp DNA Stool Mini Kit according to the manufacturer's instructions (Qiagen, Germany). The concentration of extracted DNA was determined using a NanoDrop ND-2000 (NanoDrop Technologies, U.S.), and its integrity and size were confirmed by agar gel electrophoresis (1.0%)
+and stored at -20 oC.
+Denaturing gradient gel electrophoresis analysis (DGGE)
+
+In order to analyze the microbial communities, the V3 region of  the 16S rRNA gene (positions 341e534 of the Escherichia coli gene) in the stored DNA samples were amplified by the primers 341f (50- ATTACCGCGGCTGCTGG-30)   and   534r   with   GC   clamps   (50-CGC- CCGCCGCGCGCGGCGGGCGGGGCGGGGGCACGGGGGGCCTACGGG-
+AGGCAGCAG-30).  The  amplicons  were  analyzed  using  DGGE  as described previously . After electrophoresis, DNA bands were photographed under UV (Gel Doc XR, Bio-Rad) after staining with SYBR Green I. The gel profile was analyzed by Quantity One (Bio- Rad, USA).
+
+Quantitative PCR (qPCR)
+
+The number of Bifidobacterium and Lactobacillus species in the
+
+208	Q. Wu et al. / Anaerobe 48 (2017) 206e214
+
+
+feces and fermentation samples were  assessed  using  qPCR  by CFX96 TM Real-time PCR Detection System (Bio-Rad, USA). Total Bifidobacterium species were measured using specific primers Bifi601F:   50-GGGTGGTAATGCCGGATG   and   Bifi601R:   50-TAAGC-
+CATGGACTTTCACACC-3' . Total Lactobacillus species were measured using specific primers Lac-F: 50-CACCGCTACACATGGAG- 30 and Lac-R: 50-AGCAGTAGGGAATCTTCCA-3' . The PCR condi-
+tion was performed as described previously . Bacterial quanti- fication was performed using standard curves constructed from known concentrations of plasmid DNA containing the respective amplicons for each set of primers. The copy number of Bifido- bacterium amplicons was 5.81 x 107 at 0.2 ng/mL and 5.99 x 109 at 20 ng/mL for Lactobacillus .
+
+Short chain fatty acids analysis
+
+The concentration of short chain fatty acids (SCFAs) was deter- mined by gas chromatography (GC) . The amounts of acetic, propionic, isobutyric, butyric, isovaleric, and valeric acids in the culture filtrates were determined by gas chromatography (Shi- madzu, GC-2010 Plus, Japan) equipped with a DB-FFAP column (0.32 mm x 30 m x 0.5 mm) (Agilent Technologies, USA) using an
+
+H2 flame ionization detector. Crotonic acid (trans-2-butenoic acid) was used as an internal standard .
+
+16S rRNA gene sequencing
+
+Bacterial 16S rRNA genes were amplified from the extracted DNA using  barcoded primers  338F (50-ACTCCTACGGGAGGCAGCA- 30)     with     806R     (50-GGACTACHVGGGTWTCTA     AT-30).     Next-
+generation sequencing was performed using an Illumina HiSeq 2500 system that was operated by Tianke High Technology Development Co. Ltd (Hangzhou, China). Sequences were identified by bar-codes using a QIIME (Quantitative Insights Into Microbial Ecology) pipeline. Clean and high-quality sequences were then used for downstream analysis. A 97% similarity cutoff was employed in defining OTUs using Mothur. One sequence was selected from each OTU as a representative. The representative sequences were classified using the RDP (Ribosomal Database Project) classifier method and the SILVA database. Good's coverage, alpha diversities, including the Simpson and Shannon indexes, and richness (observed number of OTUs) were calculated using Mothur. All sequences were available in SRA database with accession number .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. The relative abundance of eleven fecal samples. Classification of human enterotypes based on the analysis of 16S rRNA gene sequencing. Samples No. 2, 4, 5, 8 and 10 were regarded as Prevotella-type.
+
+Q. Wu et al. / Anaerobe 48 (2017) 206e214	209
+
+
+Statistical analysis
+
+Nonparametric Mann-Whitney U tests (IBM SPSS Statistics 19.0 software) were performed in order to analyze the differences be- tween SCFAs production amounts and Chao1 and Shannon indexes. The amount of Bifidobacterium and Lactobacillus species and the degradation rates of five IMOs with different chain lengths were compared by ANOVA-LSD tests (IBM SPSS Statistics 19.0 software).
+
+Results
+
+Identification of the fecal microbiome enterotypes by 16s rRNA gene sequencing
+
+Recently, based on the abundance of Provetellaceae and Bacter- oideceae species, in addition to the ratio of facultative bacteria to anaerobes, three enterotypes, classified as Escherichia, Bacteroides, and Prevotella were identified in Asian populations . The enterotypes of the eleven fecal samples used as the inocula in this study were investigated by 16S rRNA gene sequencing (). Based on the selection criteria, the microbiome community composition of four fecal samples (No. 2, 5, 8 and 10) fit into the Prevotella-type, while three samples (No. 3, 6 and 11) belonged to the Bacteroides-type. No.4 was also classified as the Prevotella-type since the ratio of Prevotella to Bacteroides in the sample was similar to the criteria for Prevotella-type. The remaining samples, including No. 1, 7 and 9, were arbitrarily assigned to the Mixed-type.
+
+The degradation IMOs was affected by human fecal enterotypes
+
+To compare the IMO products obtained from three manufac- tures, TLC was used to determine the oligosaccharides distribution of the IMOs with the standards of IMOs (A). IMO-S was mainly composed of monosaccharides and oligosaccharides with DP of 2, 3 and 4. IMO-B was composed of oligosaccharides with DP of 2, 3 and
+IMO-H1 consisted of oligosaccharides mainly with DP of 4, 5, and
+6. IMO-H2 and IMO-H3 contained oligosaccharides with larger molecular weights that could not be separated by TLC. Therefore, IMO-H2 and IMO-H3 were regarded as the long chain IMOs (DP 8e16) while IMO-S, IMO-B and IMO-H1 were considered as the short chain IMOs (DP less than 7).
+Based on the TLC analysis of each individual (Fig. S1), the short chain IMOs were degraded into smaller fragments in all fecal samples, of which the extent of degradation varied significantly among the individual feces. However, the oligosaccharide with DP 6 was degraded only by the bacteria in sample No. 5 and 8. As for the long chain IMOs, only three samples showed the significant reduction in the TLC profiles. These samples were No. 5, 8 and 10, which belonged to Prevotella-type. Furthermore, the summarized degradation rates of the long chain IMOs in Prevotella-type were significantly higher than that in other enterotypes (C), including Bacteroides-type and Mixed-type, which are called non- Prevotella-type for convenience. However, such difference was not shown in the short chain IMOs (B). These results suggested the bacteria in Prevotella-type had a stronger utilization of the long chain IMOs than the non-Prevotella-type.
+
+The production of SCFAs was also influenced by fecal enterotypes
+
+The production of SCFAs in fecal samples and the fermented cul- tures were measured by GC. Comparing to the similar level of each SCFAs in the fecal samples between the Prevotella-type and the non- Prevotella-type (Fig. S2), the significant differences of the production of SCFAs after fermentation were shown between the two kinds of
+
+
+enterotypes (). The concentrations of propionic acid were significantly higher in the Prevotella-type than that in the non-Pre- votella-type despite that the chain length was short or long (C). As for butyric acid production, Prevotella-type showed a high level just in the long chain IMOs fermentation comparing to the non-Pre- votella-type (D). However, the fermentation of the short chain IMOs caused a lower level of acetic acids in Prevotella-type than that in the non-Prevotella-type (B). Comprehensively, the Prevotella- type exhibited a stronger production of the total SCFAs (A) than the non-Prevotella-type in the long chain IMOs fermentation. These results suggested that the bacteria in the Prevotella-type metabolized IMOs in a manner differently from the bacteria of the non-Prevotella- type, especially for the long chain IMOs.
+
+Modulation of microbiome community by IMOs was depended on the enterotypes
+
+In order to understand the influence of IMO chain length on the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Human enterotypes affect the rate of IMO degradation based on DP. (A) TLC pattern of commercial IMOs and the IMO standards. The number  beside  the  spot,  shown as 2, 3, 4, 5 and 6, is the DP value of each standard. (B) The average degradation rate of the short chain IMOs by Prevotella-type (P) and non-Prevotella-type (non-P). (C) The average degradation rate of the long chain IMOs by Prevotella-type (P) and non- Prevotella-type (non-P). Data are shown as mean +- SEM and analyzed by ANOVA-LSD tests (*p < 0.05, **p < 0.01).
+
+210	Q. Wu et al. / Anaerobe 48 (2017) 206e214
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3. SCFAs production by different human enterotype microbiomes after IMO fermentation. The concentrations of each SCFAs in the cultures after 24 h fermentation were determined by GC, including the total SCFAs (A), acetic acid (B), propionic acid (C) and butyric acid (D). P: Prevotella-type, n 1/4 5; non-P: non-Prevotella-type, n 1/4 6. Data are shown as median with interquartile and error bars represent 5e95 percentile (*p < 0.05, **p < 0.01).
+
+
+microbiome community structures, the compositions of the fer- mented fecal microbiomes were analyzed by 16S rRNA gene sequencing. A total of 4,638,153 raw sequences were obtained from 11 stool and 55 fermentation samples. After filtering the sequences that did not fit the criteria, 3,729,557 sequences were retained with an average of 56,508 sequences per sample (range from 28,016 to 83,804 sequences per sample). After taxonomy assignment, all sequence reads were aligned to genes in the 16S rDNA database and operational taxonomic units (OTUs) was identified using a 97% identity threshold. A total of 1284 OTUs were obtained and each sample contained 246 OTUs on average.
+Because of the differences of the metabolites, such as degrada- tion rates and SCFAs level, between Prevotella-type and non-Pre- votella-type, we examined our sequencing data to see whether the grouping observed in the metabolism of the fermentation micro- biome were consistent with changes in their microbial community structures.
+The heatmaps based on phylogenetic analyses of amplicons profiles at the genus-level (Fig. S3) revealed that the most samples of Prevotella-type clustered together in four of the five IMOs fermentation. This consisted with the propionic were higher in Prevotella-type than that in non-Prevotella-type for all five IMOs fermentation (p < 0.05).
+To more specifically resolve which genera were responsible for driving the enterotype group differences, we performed linear discriminant effect size (LEfSe) analysis on the fermentation cul- tures of all IMOs (). In the non-Prevotella-type, LEfSe identified Bifidobacterium, Bacteroides, Actinobacteria, Lachnospra and Dalister unique to the non-Prevotella-type. Bifidobacterium dominated the all microbiome of the non-Prevotella-type, and Bacteroides detected with three out of the five tested IMO fermentations, including IMO- B, IMO-H2 and IMO-H3. On the other hand, Prevotella predomi- nated in all fermentation of Prevotella-type. A few members in Coriobacteriaceae, including Slackia, Collinsella and Coriobacteriia, were increased after IMO fermentation in the Prevotella-type. These results suggested the microbial ckommunity structures were also influenced by enterotypes which divided into Prevotella-type and non-Prevotella-type.
+
+IMOs sustained the growth of Bifidobacterium in the non- Prevotella-type as detected by qPCR
+
+The effects of IMOs on the growth of Bifidobacterium and Lactobacillus were also confirmed by qPCR. The increased growth of Bifidobacterium after 48 h fermentation was detected in the non- Prevotella-type in comparison to the Prevotella-type (A), which was in agreement with the result of LEfSe that Bifidobacterium dominated in non-Prevotella-type (). For Lactobacillus, no significant difference was found between the two groups (B), which was consistent with the LEfSe result that Lactobacillus was not identified as the unique genus of either Prevotella-type or non- Prevotella-type.
+
+Effects of short and long chain IMOs on microbiome community composition
+
+As mentioned in 3.2, the degradation of the short chain IMOs were observed in all eleven fecal samples while the long chain IMOs was significantly degraded by only three samples, suggesting the effect of DP of IMOs on the utilization by fecal bacteria. To investigate the effects of short and long chain of IMOs on the microbiome community structures, DGGE profiling was performed (Fig. S4A), as well as 16S rRNA gene sequencing.
+Based on the visualization of DGGE profiles with a principal coordinate analysis (PCoA) (Fig. S4B), the band profiles from the short chain IMOs were clustered together but separated from the band profiles of the long chain IMOs, suggesting that the DP of oligosaccharides significantly affected the bacterial community structures.
+For the analysis of sequencing data, alpha diversity of the fermentation microbiome was compared among the five  IMOs (Fig. S5). In contrast to the similar values of Chao 1, the significantly decreased Shannon index was observed in IMO-B, IMO-H2 and IMO-H3, suggesting the long chain IMOs had greater influence on the microbial community structures. Beta diversity visualized by PCoA at genus level revealed that the community structures clus- tered together based on IMO length in the most of fecal samples
+
+Q. Wu et al. / Anaerobe 48 (2017) 206e214	211
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4. The impact of IMOs on the growth of the Prevotella-and non-Prevotella-type based on LEfSe. The IMOs fermentation cultures were harvested after 48 h for extraction of total bacterial DNA as described in . LEfSe analysis of the 16S rRNA gene sequencing data according to Prevotella- (P) and non-Prevotella-type (non-P) using bacterial genera as a cut-off.
+
+(Fig. S6). Six of eleven fecal samples showed their microbiome communities of the short chain IMOs clustered together after fermentation, which were separated from those cultured with the long chain IMOs. Hence, both DGGE profiling and 16S rRNA gene sequencing indicated that the IMO chain length was an important factor to affect the bacterial communities of the fermentation microbiome.
+
+Discussion
+
+It is known that gut microbiome contribute to host health benefits, leading to increasing demand to manage the colonic microbiome. Prebiotics are selectively-fermented dietary in- gredients resulting in specific changes in the composition and/or activity of the gastrointestinal microbiome conferring benefits
+
+212	Q. Wu et al. / Anaerobe 48 (2017) 206e214
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. The increase in Bifidobacteria and Lactobacillus after 48 h in vitro batch fermentation with IMOs. The amount of Bifidobacteria and Lactobacillus in both the feces and the fermentation cultures were determined by qPCR. Comparing to the amount in the inocula, the increased percentages of Bifidobacteria (A) and Lactobacillus (B) were shown. P: Prevotella-type, n 1/4 5; non-P: non-Prevotella-type, n 1/4 6. Data analyzed by ANOVA-LSD tests (*p < 0.05, **p < 0.01) and shown as mean +- SEM.
+
+
+upon host health. Several oligosaccharides have been reported to possess prebiotic activity, one of which is IMO . Unlike other prebiotics, all commercially-available IMOs are produced by enzy- matic synthesis, thereby allowing IMOs with defined molecular weights and chain lengths to be suitable substrates for studying the effects of prebiotics. In this study, IMO-S and IMO-B were composed of oligosaccharides with DP 2 to 5, while IMO-H1 con- tained oligosaccharides with DP 4 to 6. The DP of IMO-H2 ranged from 7 to 15 and IMO-H3 had a DP from 8 to 16. By using a simple in vitro batch fermentation model, responses from human fecal microbiome with different enterotypes demonstrated a clear rela- tionship to short and long chain IMOs.
+The human gut has an extremely complex micro-ecosystem with great variability at the taxonomic level among individuals. Recently, three enterotypes of the human gut microbiome have been identified from European fecal samples . Since this discovery, several large-scale global studies have confirmed this discovery, as well as establishing a correlation between long- term dietary patterns with microbiome enterotypes . For example, African Americans possess a colon microbiome domi- nated by Bacteroides, while Prevotella is more abundant in Afri- cans . So far, animal protein and fat intake is associated with
+
+the Bacteroides-type, while Prevotella are correlated with a carbohydrate-enriched diet . However, these data are based on association surveys and there has yet to be a successful attempt in modulating human  enterotypes  with  dietary  factor in vivo. In this study, three enterotypes were identified from 11 Chinese fecal samples, although the classification for Bacteroides- type and Mixed-type could not be unequivocally confirmed due to the low fecal sample numbers. Even with significant variation that exists in microbiome community compositions between individuals, the ability to digest and ferment IMOs, particularly long chain IMOs, showed an enterotype-dependent pattern of growth enrichment using an in vitro system as described here. The microbiome of the Prevotella-type had a higher capacity for degrading the long chain IMOs than that of the non-Prevotella- type, which resulted in a higher proportion of propionic acid and butyric acid production. These results supported the conclusion that the metabolic activity for bioavailable nutrients differs be- tween the human microbiome enterotypes.
+The impacts of IMO on the growth of Bifidobacterium have been
+studied previously and IMO appears to be an effective prebiotics, as it causes an increase in the Bifidobacteria population with little effect on other bacterial groups . In this study, 16S rRNA gene
+
+Q. Wu et al. / Anaerobe 48 (2017) 206e214	213
+
+
+sequencing analysis was used to establish a microbiome profiling after IMO fermentation revealed the bifidogenic effects of IMOs was also enterotype-dependent, as LEfSe analyses clearly demonstrated that the number of Bifidobacterium increased exclusively in the non-Prevotella-type, but not in the Prevotella-type (). The qPCR-based results further supported the 16s rRNA gene sequencing data, showing an increase of Bifidobacteria only in the non-Prevotella-type, regardless of IMO length. As the colonic microbiota growth and survival are largely driven by the efficient degradation of complex indigestible carbohydrates, the exclusive increase of Bifidobacteria after IMO fermentation in the non-Pre- votella-type suggests the presentation of different Bifidobacteria strains between Prevotella- and non-Prevotella-type. Further work is needed to verify the results in humans with a similar enterotype with a targeted consumption of IMOs.
+Previous studies have demonstrated that IMO900 can be uti-
+lized by Bifidobacteria, Enterococcus feacalis and Bacteroides , which is supported by this study. Increased numbers of Bacteroides were detected after IMO fermentation with the non-Prevotella- type, while the population of Prevotella was increased in the Pre- votella-type. In contrast to the enhanced growth of Bifidobacteria in the non-Prevotella-type, the relative abundances of the genera Collinsella and Slackia were significantly increased in the Prevotella- type, suggesting that Coriobacteriia were also involved in the degradation and fermentation of IMOs. Coriobacteriia are common members of human gut microbiota and several genera of Cor- iobacteriia, such as Collinsella, are ranked among the top five in the abundance of Actinobacteria in the human gut . Interestingly, Collinsella is also a saccharolytic bacterium with similar metabolites of Bifidobacteria, such as lactic acid, acetic acid, and hydrogen gas . With the rapid development of the human microbiome project, the beneficial role of Coriobacteriaceae in the human health has been swiftly recognized, especially as Collinsella is involved in host lipid metabolism . The effects of IMOs on Coriobacteriaceae growth warrant further investigation.
+The modification of the intestinal microbiome by diet has been
+well established. However, the results of the current study sug- gested that the relative identity and abundance of constituent bacterial populations in feces influenced the impacts of dietary modulation. In addition IMOs chain length also affected their uti- lization and fermentation by human fecal microbiota. Therefore, establishing a detailed relationship between the individual micro- biome compositions with the defined chemical structures of pre- biotics will help develop future therapeutic approaches for personalized nutrition.
+
+Conflict of interest
+
+The authors declare that they have no conflict of interest.
+
+Acknowledgements
+
+This study was supported by the National Natural Science Foundation of China (No. 31370156), National High Technology Research and Development Program of China (863 Program, No. 2015AA020701) and the National Key Research and Develop- ment Program of China (project number 2017YFD0400300 and 2017YFD0400302).
+
+Appendix ASupplementary data
+
+Supplementary data related to this article can be found at  .
+
+
+References
+
+e.
+ fle.
+e.
+e.
+   .
+e.
+.
+ e.
+e.
+ e.
+ fi.
+  S,.  gV
+ e.
+.
+.
+e.
+e.
+fi e.
+ e.
+
+e.
+ fl.
+e.
+ e.
+e.
+fie.
+e.
+ .
+
+
+214	Q. Wu et al. / Anaerobe 48 (2017) 206e214
+
+
+ .
+e.
+e.
+ e.
+
+.
+ e.
+e.
+fi.

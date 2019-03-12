@@ -1,0 +1,113 @@
+Open Forum Infectious Diseases
+   BRIE F REPOR T 
+
+
+
+Fecal Microbiota Transfer for Multidrug-Resistant Gram-Negatives: A Clinical Success Combined With Microbiological Failure
+Janneke E. Stalenhoef,,Elisabeth M. Terveer,,Cornelis W. Knetsch, Peter J. van't Hof,Imro N. Vlasveld,Josbert J. Keller,Leo G. Visser,and Eduard J. Kuijper
+Departments of 1Infectious Diseases and 2Medical Microbiology and 3Sequencing Analysis Support Core, Leiden University Medical Center, Netherlands; and 4Department of Gastroenterology, Medical Center Haaglanden, The Hague, Netherlands
+
+
+CASE DESCRIPTION
+A 34-year-old male with type 1 diabetes mellitus was referred to our tertiary hospital because of diabetic nephropathy. Screening for combined kidney pancreas transplant started. Two months after starting hemodialysis, he was admitted because of bacte- remia and catheter-related thrombophlebitis of the brachioce- phalic vein by Staphylococcus aureus, which was treated with flucloxacillin for 6 weeks. Because the extensive thrombosis prohibited shunt or catheter placement, he was converted to PD. During admission, a transurethral catheter was placed because
+
+ 		of neurogenic bladder dysfunction. Shortly after discharge, he
+
+Combined fecal microbiota transfer and antibiotic treatment prevented recurrences of urinary tract infections with multid- rug-resistant (MDR) Pseudomonas aeruginosa, but it failed to eradicate intestinal colonization with MDR Escherichia coli. Based on microbiota analysis, failure was not associated with distinct diminished microbiota diversity.
+Keywords. fecal microbiota transplantation; multidrug
+resistance; microbiome; 16S analysis.
+
+returned to our hospital with a febrile catheter-related UTI and was treated empirically with ceftazidim. Urinary cultures were positive with a blaVIM carbapenemase-producing P aeruginosa,
+resistant to carbapenems, cephalosporins, quinolones, amino-
+glycosides, and fosfomycin, and only susceptible to colistin with a minimum inhibitory concentration of 4 mg/L. The same P aeruginosa was isolated from a rectal swab and the PD-catheter
+
+ 		exit site. The patient received colistin intravenously (IV) for 2
+weeks, and the urinary and PD catheter were replaced. In the
+
+Multidrug resistance (MDR) of Enterobacteriaceae is an increasing worldwide problem that challenges the treatment  of common bacterial infections. Multidrug resistance has  been declared one of the greatest challenges to global public health today, and innovative strategies for decolonization of MDR bacteria are urgently needed to reduce the use of reserve antibiotics and prevent transmission []. A few reports men- tion success with fecal microbiota transfer (FMT) to elim- inate extended-spectrum b-lactamase (ESBL)-producing Enterobacteriaceae. Failures have not been reported. We pres- ent a 34-year-old patient on peritoneal dialysis (PD), treated with FMT to eradicate a Verona integron-encoded metal- lo-b-lactamase (VIM)-positive Pseudomonas aeruginosa caus- ing recurrent urinary tract infections (UTIs), which hampered planned kidney-pancreas transplantation. Microbiome analy- sis was performed before and after infusion of fecal microbiota.
+
+following months, the patient suffered from recurrent febrile UTIs due to the MDR P aeruginosa (details on antibiotic use shown in ). Because of the high likelihood of recurrence of UTI caused by this MDR organism for which the only anti- biotic was nephrotoxic, kidney transplantation was considered contraindicated and the patient was removed from the waiting list. During colistin treatment of the third episode, a plan for decolonization was developed. The transurethral catheter was removed, and intermittent catheterization with twice weekly prophylactic intravesical high-dose gentamicin instillations was started. Repeated negative cultures of urine, PD catheter-skin interface, skin, ears, and throat excluded chronic prostatitis or colonization at other sites than the gut. No oral selective diges- tive decontamination was given. After consultation with our ethics committee, informed consent was obtained from the patient for treatment with fecal microbiota: written informed consent was obtained from the patient for publication. Six
+
+ 		weeks after the last IV course of colistin, the infusion of FMT
+
+Received 28 December 2016; editorial decision 2 March 2017; accepted 6 March 2017.
+aJ. E. S. and E. M. T. contributed equally to this work.
+Presented in part: ECCMID 2016 (oral presentation O471), Amsterdam, Netherlands. Correspondence: J. E. Stalenhoef, MD, Deptartment of Infectious Diseases, Leiden University
+Medical Center, Albinusdreef 2, 2333 ZA Leiden, Netherlands ().
+Open Forum Infectious Diseases(r)
+(c) The Author 2017. Published by Oxford University Press on behalf of Infectious Diseases Society of America. This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs licence  by-nc-nd/4.0/), which permits non-commercial reproduction and distribution of the work, in any medium, provided the original work is not altered or transformed in any way, and that the work is properly cited. For commercial re-use, please contact  DOI: 10.1093/ofid/ofx047
+
+was performed.
+
+MATERIAL AND METHODS
+Donor feces infusion was performed using the support of the National Donor Feces Bank () according to the FECAL trial protocol with minor modifications []. In summary, donor feces was obtained from an unrelated healthy volunteer. Donor serum and feces were extensively screened for fecal and blood transmitted diseases including MDR bacteria.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Timeline of recurrent infections, antibiotic use, and microbiota diversity before and after fecal microbiota transfer. CA MSSA, catheter-related bacteremia with methicillin-sensitive Staphylococcus areus; FMT, fecal microbiotica transfer; GI, gastrointestinal; MDR, multidrug resistant; PD, peritoneal dialysis.
+
+
+Seventy-five grams of feces was homogenized with saline and sieved (300-mm mesh) to remove undigested food fragments. Within 8 hours after defecation of the donor, 300-mL fecal sus- pension was infused in the duodenum of the patient through    a nasoduodenal tube, after full colon lavage. Stool samples were collected before infusion, after 1 week, 2 weeks, 1 month, 2 months, and 3 months and screened for MDR  presence using selective enrichment media, as described previously []. A portion of the feces was stored within 4 hours after delivery at -80degC for microbiome research. To assess the relatedness of bacterial strains, Amplified Fragment Length Polymorphism (AFLP) technique was performed as described previously [].
+MICROBIOTA ANALYSIS
+Bacterial deoxyribonucleic acid (DNA) was isolated from the fecal samples using the ZR Fecal DNA MiniPrep kit (Zymo Research). Library preparation and amplification of the V4 hypervariable region 16S ribosomal ribonucleic acid gene was performed using NEXTflex 16S V4 Ampliconseq kit, version
+2.0. High-throughput sequencing was executed at ServiceXS (Leiden, the Netherlands) on the Illumina HiSeq 2500 plat- form (Illumina, San Diego, CA) in rapid run mode paired-end 250 base pairs read length. Raw sequences were processed and analyzed using the open-source bioinformatics pipeline QIIME
+1.9.1 (), and the Operational Taxonomic Unit was picked using the open-reference protocol. Subsequently,
+
+microbiota profiles were reported at phylum level and visual- ized using the visualization tool Krona [].
+RESULTS
+No adverse event occurred during or after the infusion of microbiota, other than loose stools for 3 days. The stool cul- ture taken before FMT was negative for the MDR P aeruginosa, but it did contain an ESBL-producing Escherichia coli, suscep- tible to carbapenems, gentamicin, piperacillin/tazobactam,  and colistin. Subsequently, 5 stool cultures up to 3 months of follow up remained negative for P aeruginosa but persisted in containing the ESBL-producing E coli. The E coli post-FMT was identical to the E coli found before FMT, using AFLP. No infec- tious complications caused by P aeruginosa were noted during 18 months of follow up. However, the patient was treated once with trimethoprim-sulfamethoxazole for cystitis caused by an ESBL-positive E coli 8 months after FMT. Unfortunately, this strain was not available for AFLP analysis.
+16S analysis of the patient's stool 19 and 1 days before FMT revealed a diverse microbiota composition, ie, high Shannon diversity index of 7.8 and 8.1, respectively. No significant changes in microbiota diversity of the recipient were observed after the FMT (). At phyla level, a high similarity of donor and recipient microbiota was observed with respect to the Firmicutes and Bacteroidetes as the expected main phyla of the microbiota ().
+
+DISCUSSION
+A 34-year-old patient on PD and recurrent UTIs with a VIM-positive P aeruginosa was treated with infusion of fecal microbiota to eradicate P aeruginosa from the intestinal tract. A clinical success was observed, because at a follow-up period of 18 months no recurrent infections by P aeruginosa were diag- nosed. Fecal microbiota transfer may have contributed to clin- ical success, but it cannot be excluded that MDR P aeruginosa was already eradicated from the gut before FMT, because the P aeruginosa could not be cultured the day before FMT.
+A remarkable observation is the persistence of an ESBL- positive E coli after FMT. The E coli was presumably acquired after eradication treatment for P aeruginosa, because it had not been detected in earlier cultures. It is possible that the incom- plete eradication of the MDR E coli is the result of coexistence of donor and patient E coli strains after FMT. A recent study showed this coexistence of donor and recipient strains, which persisted for at least 3 months after FMT for treatment of patients with metabolic syndrome []. This suggests that novel strains, acquired via FMT, can colonize the gut without replac- ing the indigenous strain population of the recipient.
+In contrast to the diminished microbiota of recurrent Clostridium difficile infection (CDI) patients, our patient had an intact microbiota diversity and composition at phylum level before FMT. Previous antibiotic treatment () had not resulted in a distinct disturbance of the intestinal flora. Only minor changes of the microbiota composition were observed after FMT with a slight increase of cyanobacteria and teneri- cutes. We suggest that diminished diversity appears not to play a role in MDR carriership as opposed to recurrent CDI []. Therefore, one might question the efficacy of fecal transplan- tation in patients with a normal microbiota diversity. The dis- turbed microbiota and its recovery after FMT might explain the positive results of MDR eradication in patients with recurrent CDI [, ]. It is interesting to note that a recent paper showed that infusion of fecal microbiota in patients with recurrent CDI decreased the number and diversity of antimicrobial resistance genes, particularly by restoring dysbiosis and reducing the number of Proteobacteria []. Furthermore, beneficial effect of microbiota transfer has been shown in mice colonized with vancomycin-resistant Enterococcus (VRE) []. It is clear that more research on FMT for eradication of colonization of differ- ent MDR bacterial species is required.
+Only 8 case reports have been published showing that FMT resulted in intestinal decolonization of ESBL- and carbapene- mase-producing Enterobacteriaceae, VRE, or methicillin-re- sistant S aureus []. It is unfortunate that no information has been provided on microbiota composition before and after transplantation. Five trials are currently  underway  regard-  ing the use of FMT for MDR bacterial decolonization, which
+
+should provide more insight on the role of the microbiota on colonization with specific microorganisms [].
+A limitation of our analysis is that the microbiota was deter- mined by 16S analysis. Although very useful in bacterial tax- onomic classification, it lacks the required resolution to track transmission of bacterial strains in the microbiota using sin- gle-nucleotide variants in metagenomes [].  Therefore,  it  was not possible to compare the composition of the microbi- ota at strain level, allowing a comparison between the donor and patient P aeruginosa strains. However, no VIM gene was detected by polymerase chain reaction on DNA from 3 feces samples after FMT.
+CONCLUSIONS
+In conclusion, combined FMT and antibiotic treatment pre- vented recurrence of UTI with MDR P aeruginosa. Intestinal colonization with ESBL-producing E coli persisted in the presence of a microbiota with intact diversity, suggesting that eradication of E coli requires perhaps other specific strain(s) of microbes. More detailed analysis, such as metagenomics, could identify specific strains that add to decolonization and should be applied in current studies on FMT for intestinal eradication of different MDR bacterial species.
+Acknowledgments
+Potential conflicts of interest. All authors: No reported conflicts. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the con- tent of the manuscript have been disclosed.
+
+References
+World Health Organization. Worldwide Country Situation Analysis: Response to Antimicrobial Resistance. Geneva: World Health Organization; 2015.
+van Nood E, Vrieze A, Nieuwdorp M, et al. Duodenal infusion of donor feces for recurrent Clostridium difficile. N Engl J Med 2013; 368:407-15.
+Paltansing S, Vlot JA, Kraakman ME, et al. Extended-spectrum b-lactamase-pro- ducing Enterobacteriaceae among travelers from the Netherlands. Emerg Infect Dis 2013; 19:1206-13.
+Vos P, Hogers R, Bleeker M, et al. AFLP: a new technique for DNA fingerprinting. Nucleic Acids Res 1995; 23:4407-14.
+Ondov BD, Bergman NH, Phillippy AM. Interactive metagenomic visualization in a web browser. BMC Bioinformatics 2011; 12:385.
+Li SS, Zhu A, Benes V, et al. Durable coexistence of donor and recipient strains after fecal microbiota transplantation. Science 2016; 352:586-9.
+Chang JY, Antonopoulos DA, Kalra A, et al. Decreased diversity of the fecal microbiome in recurrent Clostridium difficile-associated diarrhea. J Infect Dis 2008; 197:435-8.
+Garcia-Fernandez S, Morosini MI, Cobo M, et al. Gut eradication of VIM-1 pro- ducing ST9 Klebsiella oxytoca after fecal microbiota transplantation for diarrhea caused by a Clostridium difficile hypervirulent R027 strain. Diagn Microbiol Infect Dis 2016; 86:470-1.
+Dubberke ER, Mullane KM, Gerding DN, et al. Clearance of vancomycin-resist- ant Enterococcus concomitant with administration of a microbiota-based drug targeted at recurrent Clostridium difficile infection. Open Forum Infect Dis 2016; 3:ofw133.
+Millan B, Park H, Hotte N, et al. Fecal microbial transplants reduce antibiotic-re- sistant genes in patients with recurrent Clostridium difficile infection. Clin Infect Dis 2016; 62:1479-86.
+Ubeda C, Taur Y, Jenq RR, et al. Vancomycin-resistant Enterococcus domination of intestinal microbiota is enabled by antibiotic treatment in mice and precedes bloodstream invasion in humans. J Clin Invest 2010; 120:4332-41.
+
+Manges AR, Steiner TS, Wright AJ. Fecal microbiota transplantation for the intes- tinal decolonization of extensively antimicrobial-resistant opportunistic patho- gens: a review. Infect Dis (Lond) 2016; 48:587-92.
+Singh R, van Nood E, Nieuwdorp M, et al. Donor feces infusion for eradication of extended spectrum beta-lactamase producing Escherichia coli in a patient with end stage renal disease. Clin Microbiol Infect 2014; 20:O977-8.
+
+Crum-Cianflone NF, Sullivan E, Ballon-Landa G. Fecal microbiota transplanta- tion and successful resolution of multidrug-resistant-organism colonization. J Clin Microbiol 2015; 53:1986-9.
+Lagier JC, Million M, Fournier PE, et al. Faecal microbiota transplantation for stool decolonization of OXA-48 carbapenemase-producing Klebsiella pneumo- niae. J Hosp Infect 2015; 90:173-4.

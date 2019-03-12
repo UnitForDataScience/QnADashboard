@@ -1,0 +1,430 @@
+Huson et al. Microbiome (2017) 5:11
+DOI 10.1186/s40168-017-0233-2
+
+
+
+
+
+Fast and simple protein-alignment-guided assembly of orthologous gene families from microbiome sequencing reads
+Daniel H. Huson1,2*, Rewati Tappu1, Adam L Bazinet3,4, Chao Xie5, Michael P. Cummings3, Kay Nieselt1 and Rohan Williams2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+Functional analysis of microbiome sequencing reads--by which we mean either metagenomic or metatranscrip- tomic shotgun sequencing reads--usually involves align- ing the six-frame translations of all reads against a protein reference database such as NCBI-nr [ using a high-throughput sequence aligner such as  DIAMOND  Each read is then assigned to a functional family, such as a KEGG KO group  or InterPro family  based on the annotation of the most similar protein ref- erence sequence.
+
+A gene-centric assembly for a family of orthologous genes F is the assembly of all reads associated with F. One approach to this is simply to run an existing assembly tool on the reads. In this paper, we present a new approach to gene-centric assembly that we call pro- tein-alignment-guided assembly. We provide an imple- mentation of this approach in the latest release of the metagenomic analysis tool MEGAN Community Edition
+and will refer to this as the MEGAN assembler. The defining feature of the protein-alignment-guided assem- bly is that it uses existing protein alignments to detect
+
+ 		DNA overlaps between reads. Our implementation of
+
+* Correspondence: 
+1Center for Bioinformatics, University of Tubingen, Sand 14, 72076 Tubingen, Germany
+2Life Sciences Institute, National University of Singapore, 28 Medical Drive,
+Singapore 117456, Singapore
+Full list of author information is available at the end of the article
+
+this method is easy to use; it only takes a few mouse  clicks to obtain the assembly of any gene family of inter- est, in contrast to other approaches that require some amount of scripting.
+
+
+(c) The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver applies to the data made available in this article, unless otherwise stated.
+
+
+
+
+
+
+We compare the performance of the MEGAN assembler to that of several standalone assemblers including IDBA- UD ], Ray [and SOAPdenovo [], and we also compare its performance to that of Xander a gene-centric assem- bler that employs protein profile HMMs (Hidden Markov Models) rather than sequence alignment to recruit reads. Performance comparisons are based on 41 gene families from a synthetic microbiome community [
+We use two measures of performance. To assess how well individual gene sequences are assembled, we report the percentage of sequence covered by the longest contig that maps to a given reference sequence. To assess how well gene sequences are detected for different organisms, we report the number of organisms for which the lon-  gest mapped contig covers at least half of the corre- sponding reference sequence.
+All assemblers produce similar numbers  of  contigs and few, if any, false positive contigs. In our evaluation, we find that the MEGAN assembler performs best in terms of the percentage of reference genes covered and percentage of reference gene sequences detected.
+
+Methods
+The main technical contribution of this paper is the design and implementation of a "protein-alignment-guided" as- sembly algorithm that is explicitly designed for gene-centric assembly. It is integrated in our metagenome analysis pro- gram MEGAN and can be launched and run interactively. The algorithm is based on the concept of a string graph
+and follows the overlap-layout-consensus paradigm We use existing protein alignments to infer DNA overlaps and provide a simple path-extraction algorithm to layout reads into contigs. As we only consider perfect over- laps, we obtain a consensus sequence for a contig simply by concatenating reads (accounting for overlaps).
+Let F be a family of orthologous genes. For example, the KEGG orthology group K03043 represents the DNA- directed RNA polymerase subunit beta, and there are 3216 protein sequences available for this family in the KEGG database. Let R denote the set of all reads that are assigned to F based on a DIAMOND alignment of all reads  against  a protein reference database such as NCBI-nr or KEGG.
+
+
+Our assembly approach is based on an overlap graph. Usually, the set of nodes of an overlap graph is given by the set of reads. However, in our construction, we only use an aligned part of each read r, which we call the aligned core of r. In more detail, we define the aligned core c(r) of any read r to be the segment of the read that is cov- ered by its highest-scoring local alignment to any protein reference sequence in F, using the forward or reverse strand of the read, depending on whether the frame of the alignment is positive or negative, respectively.
+We build an overlap graph G = (V,E) for F as follows. The set of nodes V consists of the aligned cores of all reads that have at least one significant alignment to a protein reference sequence. Two such nodes r and s are connected by a directed edge e from r to s in E, if there exists a protein reference sequence p[?]F such that:
+
+A suffix of r and a prefix of s each have a significant alignment with p;
+A suffix of the former alignment overlaps a prefix of the latter;
+The induced gap-free DNA alignment between r and
+s has perfect identity; and
+The length of the induced DNA alignment exceeds a specified threshold (20 bp, by default).
+
+We define the weight o(e) of any such edge e to be the length of the induced DNA alignment. See Fig. for an illustration of the overlapping process.
+One advantage of using the aligned cores of reads, ra- ther than the complete reads, is that this reduces the need to perform quality trimming of reads, as local alignments should not usually extend into stretches of low-quality se- quence. The net effect is that reads are filtered and trimmed, not based on some arbitrary quality valued- associated thresholds as with standard read trimming and filtering procedures, but rather based on the outcome of alignment as protein sequence to reference genes.
+We emphasize that overlaps between reads are not only inferred from alignments to just one particular reference sequence (which would be a simple reference-guided assembly), but rather, each read usually participates in
+
+
+
+
+
+
+
+overlaps that are induced by alignments to a number of different reference proteins (typically orthologous proteins from different organisms). There is no need to explicitly reconcile these alignments as they only serve to help detect potential DNA overlaps.
+The construction  of the overlap graph for a given set  of reads and associated alignments to protein references is computationally straightforward to implement.  We  first build a dictionary mapping each reference sequence to the set of reads that align to it. Then, for each refer- ence sequence, we investigate all pairs of overlapping alignments to determine whether to place an  overlap edge between the two nodes representing the corre- sponding aligned cores. Let k denote the number of reference sequences on which at least two alignments overlap. In the worst case, all n reads align to all k refer- ences in an overlapping manner and so the number of edges to add to the overlap graph is at most O(kn2).
+Once the overlap graph has been constructed, the task   is to extract contigs from the graph, by first identifying paths through the graph and then computing a consen- sus sequence from the sequences along those paths. When implementing a sequence assembler under the overlap-layout-consensus paradigm, the layout phase, which consists of determining appropriate paths through the overlap graph that will give rise to contigs, is made difficult by repeat-induced cycles and other artifacts in  the overlap graph 
+Cycles appear only very rarely when assembling the reads of a single gene family. Before processing the graph, we break any directed cycle that exists by deleting the lightest edge in the cycle. Thus, the overlap graph is   a directed acyclic graph.
+Let P = (r1,e1,r2,...,rn-1,en-1,rn) be a directed path of edges in the overlap graph G, where ei is  the  overlap edge between reads ri and ri+1 for i = 1,...,n - 1. We define the weight of P as o(P)= Si o(ei) the total number of overlapping nucleotides along the path.
+Our layout algorithm operates by repeating the follow- ing steps:
+
+Determine a path P of maximum weight;
+Construct a contig C by concatenating all read sequences along P, accounting for overlaps;
+Report C if the contig exceeds a specified threshold for minimum length and/or minimum average coverage;
+Remove all nodes and edges of P from the graph G; and
+Terminate when no paths remain.
+
+The problem of determining a path of maximum weight in an acyclic-directed graph is solvable in linear time by relaxing vertices in topological order (see p. 661-666]).
+
+
+We then build a second overlap graph H whose set of nodes consists of all contigs assembled from reads. Any two contigs c and d are  connected by a directed edge (c,d) in H if and only if there exists an overlap alignment between a suffix of c and a prefix d of length >=20 (by default) and percent identity of at least 98%.
+First, we use the graph H to identify any contig that is completely contained in a longer one with a percent identity of 98% or more. Such contained contigs are dis- carded. This addresses the issue that sequencing errors give rise to shorter contigs that differ from longer ones   by a small number of mismatches. We then proceed as described above for G to assemble the remaining contigs into longer ones, if possible. The number of overlap edges is usually very small, and thus, only a small num- ber of contigs are merged.
+The latest release of MEGAN provides an implementa- tion of protein-alignment-guided assembly. The program allows the user to import the result of a BLASTX or DIAMOND alignment of a file of reads against a protein reference database and assigns the reads to nodes in a taxonomy and a number of functional classifications (KEGG, SEED  eggNOG  or InterPro2GO).
+When importing a BLASTX file or "meganizing" a DIA- MOND file, the user must instruct MEGAN to perform the desired functional classifications by selecting the appropriate check boxes and providing appropriate map- ping files that map NCBI accession numbers to functional entities, as described in  In addition, we provide a command-line implementation called gc-as- sembler for use in a non-interactive setting.
+The MEGAN assembler can be used in a variety of ways. First, the user can select any node(s) in any of the functional classifications to define the gene family or families to assemble. Clicking the "Export Assembly" menu item will then launch the  assembler  on  each  of the selected nodes, and the output will be written to one file per gene family in FASTA format. Second, when viewing the alignments of reads against a particular ref- erence sequence in the MEGAN alignment viewer, the user can launch the assembler for the particular  refer- ence sequence. In addition, the user can have the align- ment viewer layout reads by their membership in  contigs. Figure  shows the alignment of the reads against a protein reference sequence in the alignment viewer, and Fig. shows the alignment of reads laid out by their membership in contigs.
+The main parameters of the assembly algorithm are minOverlapReads, the minimum number of bases that  two reads should overlap by; minReads, the minimum number of reads required for a contig; minLength, the minimum length of a contig; minAvCoverage, the mini- mum average coverage of a contig; minOverlapContigs, the minimum number of bases that two contigs should
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2 Alignment viewer. a Alignment of 13,623 reads against one of the reference sequences representing bacteria rpoB, as displayed in MEGAN's alignment viewer. b More detailed view in which nucleotides that do not match the consensus sequence are highlighted in color. c Reads are ordered by contig membership and decreasing length of contigs
+
+
+
+
+
+
+overlap by to be merged; and minPercentIdentityCon- tigs, the minimum percent identity at which contigs are deemed to overlap or be contained.
+To assemble a given gene, MEGAN first needs to ex- tract the associated reads and alignments from the indexed file containing the full set of reads and align- ments. This usually takes a couple of minutes. Once this step has been completed, protein-alignment-guided assembly of the reads will take on the order of seconds  to minutes (see below).
+
+Experimental evaluation
+We downloaded a dataset of 108 million Illumina reads (54 million per paired-end file) obtained from sequen- cing a synthetic community containing 48 bacterial spe- cies and 16 archaeal species (SRA run SRR606249;  The read length is 101 bp. We aligned these  reads against the NCBI-nr database (downloaded February 2015) using DIAMOND (E value cutoff of 0.01), which resulted in more than one billion  alignments, involving 87 million reads. We ran the resulting DIAMOND file through our program daa-meganizer, which performs taxonomic and functional assignment of all reads in the dataset based on the alignments found by DIAMOND, and then appends the resulting classifications and indi-  ces to the DIAMOND file. This "meganized" DIA- MOND file is publicly accessible in MEGAN via MeganServer.
+We based our experimental analysis on a set of single- copy  phylogenetic marker genes  so as to simplify the task of evaluating the performance of the different methods. We also consider some other genes, archaeal and bacterial rpoB, cheA, ftsZ, and atoB, to see how the assembly methods perform on other types of genes.
+For each gene family in the study, we determined the corresponding KEGG orthology (KO) group and ran the MEGAN assembler on all reads assigned to that family. The assembler was run with the default options of min- OverlapReads = 20, minReads = 2, minLength = 200, minOverlapContigs = 20, and minPercentIdentityCon- tigs = 98. In addition, for each KO group, we saved all assigned reads to a file and then assembled them using IDBA-UD, Ray, and SOAPdenovo. All assemblers were run with default options.
+To evaluate Xander, we downloaded all associated amino acid and nucleotide KEGG gene  sequences  for  the 41 gene families, aligned the amino acid sequences with MAFFT (using the -auto option; version 7.187   and built HMMs and configured supporting files according to Xander documentation.
+Running Xander using default parameters (min_bits = 50 and min_length = 150) gave rise to small number of contigs per gene family that was much lower than the number of gene family members in the community,
+
+
+resulting in an unacceptable number of false negatives. To address this, we experimented with different param- eter settings until Xander produced a number of contigs that is similar to that produced by the other four assemblers. We used the following parameters for  Xander: min_bits = 1, min_length = 1, filter_size = 39, min_count = 1, and max_jvm_heap = 64 GB.
+Table  shows the number of reads assigned to each gene family, as well as the number of reference gene DNA sequences that represent each gene family.
+For a typical gene family with [?]20,000 assigned reads,
+the MEGAN assembler took approximately 30 s to run, while for other assemblers the time taken was as follows: 55 s (IDBA-UD), 75 s (Ray), and 3 s (SOAPdenovo), on a server with 32 cores. Xander took approximately 1 h (excluding the time required to build the de  Bruijn graph) to run on a server with 20 cores. Maximum memory usage was set to 12 GB for the MEGAN assem- bler and 64 GB for Xander, whereas the other  assem- blers used 1.5-3 GB of memory.
+Using a minimum contig length of 200 bp, all assem- blers produced a similar average number of contigs per gene family: 73 (MEGAN), 48 (IDBA-UD), 69 (Ray), 78
+(SOAPdenovo), and 93 (Xander). The number of contigs produced per gene family is shown in Fig. 
+To allow an analysis of the performance of the different methods, we aligned all contigs to all refer- ence genes associated with the synthetic community using BLASTN. In nearly all cases, we found an alignment of at least 98% identity to a reference or- ganism that was part of  the  synthetic  community.  In the few remaining cases, a high-identity BLASTX alignment of at least 98% identity  to  the  correspond- ing protein sequence was found. In  nearly  all  cases,  the alignments covered at least  99%  of  the contig.  This indicates that there are only  very  few,  if  any,  false positive contigs.
+To assess assembly performance, for each assembly, each gene family and each species in the synthetic com- munity that contains a member of the gene family, we determined the percentage of reference gene sequence covered by the longest contig aligned to it (Fig.  In   this calculation, only matching bases are counted.
+To assess detection performance, we consider a ref- erence gene sequence to be successfully  detected by an assembler if the longest contig covers  50%  or more of the sequence, again, counting only matching bases. In Table , for each gene and each  assembler,  we report the number of reference sequences detected (as defined above) and provide a summary of the pro- portion of reference sequences detected per  gene family in Fig.  showing that the protein-alignment- based assembler implemented in MEGAN performs best for most genes.
+
+
+
+
+
+Table 1 For each gene family studied, we report the KEGG orthology group, number of reads assigned to that group by DIAMOND, number of reference gene sequences that exist in the synthetic community, and number of reference genes "detected" by each method: MEGAN, IDBA-UD, Ray, SOAPdenovo, and Xander
+
+
+
+
+
+Table 1 For each gene family studied, we report the KEGG orthology group, number of reads assigned to that group by DIAMOND, number of reference gene sequences that exist in the synthetic community, and number of reference genes "detected" by each method: MEGAN, IDBA-UD, Ray, SOAPdenovo, and Xander (Continued)
+
+Best results are shown in bold. Mean absolute deviation between the number of references genes and the number detected by each method is reported as a summary statistic
+
+
+Results and Conclusions
+The work reported on in this paper provides simple and fast access to assemblies of individual gene families from within MEGAN, a popular microbiome sequence ana- lysis tool. Protein-alignment-guided assembly makes use of pre-computed protein alignments to perform gene- centric assembly. Alternative ways of performing gene- centric assembly include running an external assembly tool on the reads assigned to a specific gene family or using an HMM-based framework such as Xander  for read recruitment and assembly.
+Based on percent coverage by longest contig and num- ber of gene sequences detected, the MEGAN assembler performs best in our experimental study (Figs. and  The average percent coverage values over all gene fam- ilies are 75.4% (MEGAN), 62.4% (IDBA-UD), 64.6%
+(Ray), 67.8% (SOAPdenovo), and 69.6% (Xander).
+
+Figure  indicates that all approaches have difficulties assembling ribosomal protein L29. The reason for this is that members of this gene family are  very  short,  less than 70 aa in many cases, and so the resulting contigs rarely exceed the 200-bp length threshold that we use.
+All assembly methods fail on the species Sulfurihy- drogenibium yellowstonense. In our analysis, only approximately 46,000 (of 108 million) reads are classi- fied as  coming  from  this  species  and  so  this  species  is represented by substantially less reads than the  other species in the mock community. The NCBI-nr database contains 1700 reference proteins for this species, and so, the average number  of  reads  assigned  to each protein is only 27. In addition, none of these reference sequences is  annotated  by  one  of the  41 KOs (KEGG orthology groups)  used in this study. So, the failure is due to a combination of low coverage
+
+
+
+
+
+
+--_,_-,, -c,,,.y.,,.,.d.,.,...o.... _.....
+
+'
+90	-*-*---	90
+.....
+75	75
+
+
+60	60
+
+
+45	45
+
+
+30	30
+
+
+15	15
+
+
+
+
+
+
+
+
+-_,,..-...,,,*.,.,...-,,,_,.-.............
+
+90	-_,-_,,*,.,-..,_-,...-... _	90
+75	75
+
+
+60	60
+
+
+
+45	45
+
+
+30	30
+
+
+15	15
+
+
+
+
+
+,,	_
+
+li!lllllili
+*I
+
+
+
+
+
+
+
+
+
+
+100
+
+90
+90
+
+.....,_,,.,...,.._,....,.,.,.._..,.....
+
+
+80
+
+75	70
+
+60	60
+
+
+50
+45
+40
+
+30
+30
+
+15	20
+
+10
+
+
+.,'-..,.....(,"'
+
+
+
+
+,(j;--'!-.,...
+
+,,,,.,,,....
+<{'"'"'
+
+Gene family
+
+Fig. 4 Reference gene coverage heat map. For each assembler, each gene family (rows), and each reference gene sequence associated with a species in the synthetic community (columns), we indicate the percentage of the reference gene covered by the longest contig. We also plot the average percent coverage per gene family for all assemblers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and the absence of any directly  corresponding  refer- ence sequences.
+Note, however, that there are a number of other spe- cies (Bacteroides vulgatus, Desulfovibrio piger, Gemmati- monas aurantiaca, and Salinispora arenicola) for which there is no directly corresponding  reference  sequence for any of the 41 KOs, yet for these, the gene-centric assembly appears to work well. In particular, we emphasize that for Gemmatimonas aurantiaca, the closest  species that has reference proteins for (any and all of) the 41 KOs is Gemmatirosa kalamazoonesis, which belongs to a different genus.
+In our performance analysis, we assign each contig to at most one organism in the synthetic community. How- ever, in some cases, the same contig aligns equally well to the gene reference sequence of two closely related or- ganisms and as a consequence, the analysis reported in Fig. slightly under-predicts the true performance of all methods. This happens, for example, for ribosomal pro- tein L16 for Thermotoga sp. RQ2 and Thermotoga petro- phila RKU-1. We use a threshold of 98% identity to determine whether contigs generated by our assembler are deemed to be containing or overlapping each other. This is to ensure that the number of contigs produced by our assembler is similar to that produced by the other approaches. Increasing the threshold to 99% produces a
+
+
+handful of additional correct gene detections, while roughly doubling the number of contigs.
+Gene-centric assembly does not replace the computa- tion of a full assembly of all reads, which remains a chal- lenging problem  with some recent advances  DIAMOND alignment of all 108 million reads in the synthetic community ] against the NCBI-nr database, followed by the gene-centric assembly of all 2834 detected KEGG families using MEGAN, took only one and a half days on a single 32-core server. In contrast, assembly of all 108 million reads from the described syn- thetic community  using Ray-2.3.1  took 6 days on the same server. The resulting assembly contains 52,821
+contigs  of  length  >=200  bp,  with  a  median  length  of
+802 bp, mean length of 3789 bp, and maximum length    of 600,408 bp. We estimate that running Xander on all 2834 KEGG families present in the synthetic community will take 10-100 days on a single server with 20 cores.
+We emphasize that protein-alignment-guided assembly as currently implemented in MEGAN only constructs contigs that span known protein domains and so inter- spersed unknown domains will result in contig fragmen- tation. Here, the application of a full-featured assembler to all protein-alignment-recruited reads and their mates may result in longer contigs that cover some of the unknown domains.
+
+
+
+
+
+
+As an all-in-one GUI-based desktop application, MEGAN is especially designed for use by biologists and medical researchers that have limited bioinformatics skills. The built-in assembler now provides such users with simple access to sequence assembly techniques on    a gene-by-gene basis.
+Acknowledgements
+We thank Alexander Seitz for helpful discussions.
+
+Funding
+This work was supported by the Graduate School of the University of Maryland, College Park, and the Institutional Strategy of the University of Tubingen (Deutsche Forschungsgemeinschaft, ZUK 63) and by the Life Sciences Institute of the National University of Singapore.
+
+Availability of data and materials
+Our implementation of protein-alignment-guided assembly presented in this paper is available in the Community Edition of MEGAN, which may be down- loaded here: 
+The alignments computed by DIAMOND on the synthetic community  can be accessed from within MEGAN by connecting to the public MeganServer database and opening the file named Other/Synthetic-Shakya- 2013.daa.
+
+Authors' contributions
+All authors contributed to the study design. DHH implemented the protein- alignment-guided assembly algorithm in MEGAN. RT and ALB ran all assem- blers and analyzed their performance. DHH and MPC wrote the manuscript. All authors read and approved the final manuscript.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Consent for publication
+Not applicable.
+
+Ethics approval and consent to participate
+Not applicable.
+
+Author details
+1Center for Bioinformatics, University of Tubingen, Sand 14, 72076 Tubingen,
+Germany. 2Life Sciences Institute, National University of Singapore, 28 Medical Drive, Singapore 117456, Singapore. 3Center for Bioinformatics and Computational Biology, University of Maryland, 8314 Paint Branch Drive, College Park, MD 20742, USA. 4National Biodefense Analysis and Countermeasures Center, 8300 Research Plaza, Fort Detrick, Frederick, MD 21702, USA. 5Human Longevity Inc., Singapore, Singapore.
+
+Received: 12 September 2016 Accepted: 17 January 2017
+
+
+References
+Wheeler DL, Tanya B, Benson DA, Bryant SH, Kathi C, Vyacheslav C, Church DM, Michael D, Ron E, Scott F, Michael F, Geer LY, Wolfgang H, Yuri K, Oleg K, David L, Lipman DJ, Madden TL, Maglott DR, Vadim M, James O, Pruitt KD, Schuler GD, Shumway M, Sequeira E, Sherry ST, Sirotkin K, Souvorov A, Starchenko G, Tatusov RL, Tatusova TA, Wagner L, Yaschenko E. Database resources of the National Center for Biotechnology Information. Nucleic Acids Res. 2008;36:D13-21.
+Buchfink B, Xie C, Huson DH. Fast and sensitive protein alignment using DIAMOND. Nat Methods. 2015;12:59-60.
+Kanehisa M, Goto S. KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Res. 2000;28(1):27-30.
+Mitchell A, Chang H-Y, Daugherty L, Fraser M, Hunter S, Lopez R, McAnulla C, McMenamin C, Nuka G, Pesseat S, Sangrador-Vegas A, Scheremetjew M, Rato C, Yong SY, Bateman A, Punta M, Attwood TK, Sigrist CJA, Redaschi N, Rivoire C, Xenarios L, Kahn D, Guyot D, Bork P, Letunic I, Gough J, Oates M, Haft D, Huang H, Natale DA, Wu CH, Orengo C, Sillitoe I, Huaiyu M, Thomas
+
+
+PD, Finn RD. The InterPro protein families database: the classification resource after 15 years. Nucleic Acids Res. 2015;43(D1):D213-21.
+Huson DH, Beier S, Flade I, Gorska A, El-Hadidi M, Mitra S, Ruscheweyh HJ, Rewati T. MEGAN Community Edition--interactive exploration and analysis of large-scale microbiome sequencing data. PLoS Comput Biol. 2016;12(6): e1004957. 
+Yu P, Leung HCM, Yiu SM, Chin FYL. IDBA-UD: a de novo assembler for single-cell and metagenomic sequencing data with highly uneven depth. Bioinformatics. 2012;28(11):1420-8.
+Boisvert S, Laviolette F, Corbeil J. Ray: simultaneous assembly of reads from a mix of high-throughput sequencing technologies. J Comput Biol. 2010;17(11):1519-33.
+Luo R, Liu B, Xie Y, Li Z, Huang W, Yuan J, He G, Chen Y, Pan Q, Liu Y, Tang J, Wu G, Zhang H, Shi Y, Liu Y, Yu C, Wang B, Lu Y, Han C, Cheung DW, Yiu SM, Peng S, Xiaoqian Z, Liu G, Liao X, Li Y, Yang H, Wang J, Lam TW, Wang
+J. SOAPdenovo2: an empirically improved memory-efficient short-read de novo assembler. GigaScience. 2012;1(1):18.
+Wang Q, Fish JA, Gilman M, Sun Y, Brown CT, Tiedje JM, Cole JR. Xander: employing a novel method for efficient gene-targeted metagenomic assembly. Microbiome. 2015;3(1):1-13.
+Shakya M, Quince C, Campbell JH, Yang ZK, Schadt CW, Podar M. Comparative metagenomic and rRNA microbial diversity characterization using archaeal and bacterial synthetic communities. Environ Microbiol. 2013;15(6):1882-99.
+Myers EW. The fragment assembly string graph. Bioinformatics. 2005;21 suppl 2:ii79-85.
+Myers EW, Sutton GG, Delcher AL, Dew IM, Fasulo DP, Flanigan MJ, Kravitz SA, Mobarry CM, Reinert KHJ, Remington KA, Anson EL, Bolanos RA, Chou H-H, Jordan CM, Halpern AL, Lonardi S, Beasley EM, Brandon RC, Chen L, Dunn PJ, Lai Z, Liang Y, Nusskern DR, Zhan M, Zhang Q, Zheng X, Rubin GM, Adams MD, Venter JC. A whole-genome assembly of Drosophila. Science. 2000;287:2196-204.
+Kevin Daniel Sedgewick, Robert; Wayne. Algorithms. Addison-Wesley Professional, fourth edition, 2011.
+R Overbeek, R Olson, GD Pusch, GJ Olsen, JJ Davis, T Disz, RA Edwards, S Gerdes, B Parrello, M Shukla, V Vonstein, AR Wattam, F Xia, and R Stevens. The SEED and the Rapid Annotation of microbial genomes using Subsystems Technology (RAST). Nucleic Acids Res. 2013;42(Database issue): D206-D214.
+Powell S, Szklarczyk D, Trachana K, Roth A, Kuhn M, Muller J, Arnold R, Rattei T, Letunic I, Doerks T, Jensen LJ, von Mering C, Bork P. eggNOG v3.0: orthologous groups covering 1133 organisms at 41 different taxonomic ranges. Nucleic Acids Res. 2012;40(Database-Issue):284-9.
+Wu D, Jospin G, Eisen JA. Systematic identification of gene families for use as "Markers" for phylogenetic and phylogeny-driven ecological studies of bacteria and archaea and their major subgroups. PLoS One. 2013;8:10.
+Katoh K, Misawa K, Kuma K, Miyata T. MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform. Nucleic Acids Res. 2002;30(14):3059-66.
+Katoh K, Standley DM. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Mol Biol Evol. 2013;30(4):772-80.
+Treangen T, Koren S, Sommer D, Liu B, Astrovskaya I, Ondov B, Darling A, Phillippy A, Pop M. MetAMOS: a modular and open source metagenomic assembly and analysis pipeline. Genome Biol. 2013;14(1):R2.
+Howe AC, Jansson JK, Malfatti SA, Tringe SG, Tiedje JM, Brown CT. Tackling soil diversity with the assembly of large, complex metagenomes. Proc Natl Acad Sci USA. 2014;111(13):4904-9.

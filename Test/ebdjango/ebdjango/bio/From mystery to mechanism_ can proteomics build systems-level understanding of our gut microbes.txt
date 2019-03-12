@@ -1,0 +1,173 @@
+
+Expert Review of Proteomics
+
+
+
+ISSN: 1478-9450 (Print) 1744-8387 (Online) Journal homepage: 
+
+
+From mystery to mechanism: can proteomics build systems-level understanding of our gut microbes?
+
+Carlos G. Gonzalez, Lichao Zhang & Joshua E. Elias
+
+To cite this article: Carlos G. Gonzalez, Lichao Zhang & Joshua E. Elias (2017) From mystery to mechanism: can proteomics build systems-level understanding of our gut microbes?, Expert Review of Proteomics, 14:6, 473-476, DOI: 10.1080/14789450.2017.1311211
+To link to this article: 
+
+
+
+Accepted author version posted online: 24 Mar 2017.
+ 	Published online: 03 Apr 2017.	
+
+
+
+
+Article views: 738
+
+
+
+
+
+View Crossmark data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Full Terms & Conditions of access and use can be found at 
+
+EXPERT REVIEW OF PROTEOMICS, 2017 VOL. 14, NO. 6, 473-476
+https://doi.org/10.1080/14789450.2017.1311211
+
+EDITORIAL
+From mystery to mechanism: can proteomics build systems-level understanding of our gut microbes?
+Carlos G. Lichao Zhang and Joshua E. Elias
+Department of Chemical and Systems Biology, Stanford School of Medicine, Stanford University, Stanford, CA, USA
+
+ARTICLE HISTORY Received 21 September 2016; Accepted 22 March 2017
+KEYWORDS Gut microbiome; microbiome; host-microbe interaction; proteomics; metaproteomics; multi-omics
+
+
+Introduction
+Research over the past decade has firmly established gut microbiota as a critical component of human health. This immensely complex ecosystem is characterized by dynamic interactions between the host, diet, and the gut microbiota, and contributes to metabolic disorders, autoimmunity, and cancer [,]. Driven by large 16S ribosomal RNA (16S) and metagenomic sequencing efforts, foundational studies have described stereotypical changes in microbiota composition which reflect numerous states of health and pathology []. However, the mechanisms shaping how these fluctuations occur, and how these changes influence host physiology are poorly understood. Multi-omic, systems-level analyses stand to describe host-microbiota interactions with even greater reso- lution, and therefore promise to more rapidly unlock the gut microbiota's therapeutic potential []*. A handful of recent studies have demonstrated the powerful, yet underexploited capability mass spectometry-based proteomics has for build- ing quantitative models of the gut environment. Such 'meta- proteomic' approaches represent an important way to add functional annotations to the extremely deep microbiome sequencing data generated across the globe. However, meth- odological and computational limitations in metaproteomic workflows will need to be overcome in order to build truly mechanistic understanding of host-microbe relationships.
+
+The promise of metaproteomics
+Proteomic investigations focused on individual microbial taxa have cataloged and quantified proteins spanning important in vitro and in vivo scenarios, including pathogenic and dietary perturbations [,]. Gnotobiotic models, in which animals born under germ-free conditions are inoculated with defined microbe communities have helped establish specific host- microbe interactions, and are readily interpreted using con- ventional proteomic methods []. However, a growing number of metaproteomic studies, wherein mass spectra are searched against databases containing very large gut microbe commu- nities, are beginning to reveal how the collective proteomic output of the gut microbiota and the host reflect this intricate and dynamic system []**. These studies demonstrate that
+
+metaproteomics can deliver mechanistic insight that would escape other 'omic' measurements, and that connections between diet, microbes, and host biology can be readily dis- tilled from these kinds of data.
+As with the majority of prior gut microbiome research, we note that stool specimens are well suited to this kind of metaproteomic research because they are collected noninva- sively and in relatively large quantities. Unlike tissue-based assays, stool makes it possible to follow individual human or animal subjects across long time courses of diet, drug, and disease progression. Although proteomic assays of endoscopic mucosal washes or biopsies stand to directly connect proteins with the gut location in which they are generated [], we found that stool represents proteins generated in both the proximal and distal gut []. This supports its utility, if not perfect ability, to survey a broad range of host-microbiota interactions from stool. Furthermore, since stool contains pro- teins from the host, microbes, and diet, researchers can simul- taneously measure all three domains from a single specimen. This is an important consideration when building robust cor- relational networks from high-dimensional data, since it removes the potential confounding influence of sampling from unrelated specimens.
+Despite offering advantages that promote experimentally tractable investigations, as a matrix, stool presents inherent challenges that could limit its wide-scale use. First, while stool contains proteins from all branches of life, no single protein extraction protocol has been demonstrated that minimized biases of one domain over another. Sequential host and microbe protein isolation via differential centrifugation [33] represents one possible solution to this challenge. Second, stool consistency, water content, or even transit time are not uniform between individuals, over time, and between health states. This could lead to artifactual biases in subsequent comparative analyses. Last, stool's sheer complexity could be its Achilles' heel. As such, it may be advantageous to approach stool-focused experiments by first developing more simple, controlled systems ranging from classical liquid mono- and cocultures to gnotobiotic animals, or 'gut on a chip' fermenta- tion models. The latter may be particularly useful for elucidat- ing fine temporal multi-omic trends []. Such comparatively defined systems can teach a great deal regarding the types
+
+
+
+(c) 2017 Informa UK Limited, trading as Taylor & Francis Group
+
+474	C. G. GONZALEZ ET AL.
+
+
+and origins of proteins we might - or might not - be expected to identify from complex, natural systems. Considering that many research questions will have a particular focus - on diet components, on specific aerobic or anaerobic microbial taxa, or on secreted molecules - we advocate leveraging these kinds of model systems to optimize experimental workflows, and identify their blind spots []. In this way, many metapro- teomics' many challenges can be managed, if not completely mitigated.
+
+Toward addressing metaproteomics' challenges
+Despite the advantages of plentiful and easily sampled material for microbiome research, major obstacles prevent metaproteo- mics from approaching the impact traditional proteomics has made on single-organism biology. Addressing present chal- lenges in database construction, statistical analysis of large proteomic search spaces, cross-study comparisons, and multio- mic integration stand to have a disproportionate impact on this field.
+
+Database construction
+Mass spectrometry-based proteomics usually requires one to search spectra against a database of predefined candidate proteins. As long as gut metagenome sequences remain incompletely defined across the human population and for any single specimen, metaproteome analyses will continue to have considerable blind spots. Paired metagenome- metaproteome analysis [], 16S-guided metaproteome data- bases [], iterative database selection [], and host-centric proteomics [] offer complementary solutions to this chal- lenge. These methods strike varying compromises between the time and expense of building an appropriate sequence database, the speed it takes to search an input data set of mass spectra, and the ability to discriminate between correct and incorrect protein assignments.
+
+Statistical analysis of large search spaces
+Rapidly increasing search spaces embodied by metaproteomic sequence databases pose three major challenges. First, mass spectrum search time increases linearly with database size. Consequently, it is generally impractical to search even mod- estly sized mass spectrometry data sets against all known or predicted microbial proteins produced by global sequencing efforts. However, the proliferation and increased access to high-powered supercomputers and bioinfomatic tools could alleviate this bottleneck in the near future, as cloud-based data analysis becomes commonplace in proteomics. Second, larger search spaces also decrease statistical models' ability to classify peptides correctly: as a search algorithm is presented with more candidate identifications, it becomes increasingly likely that one will achieve a high score by chance. Scalable false discovery rate estimations [,] offer possible solutions that have yet to be demonstrated in metaproteomic analysis. Third, considering the high degree of sequence homology between related organisms and the large extent of horizontal gene transfer between even unrelated microbes, conclusively
+
+assigning a peptide sequence to its source organism is a particularly daunting challenge for current proteomic search methods. Nevertheless, implementing conservative higher- level taxon assignments still yields useful metrics for compar- ing different organisms' proteomic output [].
+
+'Meta'-metaproteomics? Toward multiple laboratory analyses
+While paired metagenome-metaproteome studies can identify thousands of proteins from a single specimen, procedural biases can hinder robust comparisons between data sets col- lected by multiple research groups. First, considering the widely varied nature of fecal sample composition, pre- analysis storage conditions, and data standardization proce- dures can vary widely. Experimental or computational normal- ization choices accounting for wet or dry specimen mass or for total protein content may have large effects on apparent changes in protein abundance. Second, choices in sequence database construction can similarly affect metaproteome-wide conclusions. One proposed solution to the latter challenge is to search mass spectra against sequences derived from vali- dated microbe genomes stored in an easily accessed database repository []. Even if comprehensive microbiome sequence databases can be achieved, search time, false positive estima- tion, and normalization challenges described above will likely remain. Thus, broad, multi-laboratory metaproteomic efforts stand to benefit from new computational and experimental methods that address these sources of error.
+
+Integration with other -omic technologies
+As more -omic strategies become commonplace, the need for meaningful integration of these data becomes more urgent. Genomics, proteomics, metabolomics, and allied fields such as phenomics have evolved efficient, yet highly specialized data formats, nomenclatures, data visualization norms, and meth- ods for controlling false discovery, but these standards can block efforts to link one type of data with another. Efforts to standardize these domains should facilitate their cross- disciplinary use, but it will be equally important to preserve the unique properties each represents. Moreover, in order to avoid artifactual correlations, these efforts must account for the varying quality and confidence of each component of a multi-omic analysis, ranging from the definition of a unique taxon, to the method of quantification (e.g., absolute, relative, or ranked). Defining common multi-omic data standards will likely require international coordination [], and several pio- neering efforts referenced here represent important steps toward this goal.
+
+Coping with the gut ecosystem's complexity: extracellular protein enrichment
+In addition to the bioinformatics and technical challenges noted above, many metaproteomic efforts often aim to mea- sure as many microbial proteins as possible. As a result, they can be overwhelmed by abundant intracellular protein classes such as cytoskeleton and intracellular enzymes with little
+
+EXPERT REVIEW OF PROTEOMICS	475
+
+
+direct relevance to host-microbe interactions [,]. One alter- native is to enrich for secreted host and microbe proteins by first removing the majority of fecal and intracellular microbe debris via differential centrifugation [,]. This extracellular protein fraction, which may be more likely to mediate host- microbe interaction such as antimicrobial proteins, proteases, and immunoproteins, can be then inferred with traditional or metaproteome-focused sequence database searches [,,]. Although exhaustive metaproteomic fecal characterization might capture a broader array of host and microbial biochem- ical activities, we have found this extracellular fraction to sensitively and consistently track with subtle changes in the gut ecosystem.
+We recently utilized this approach in combination with 16S in the context of antibiotic-associated pathogen infection dynamics. Comparing host protein and microbial abundances over time and across several perturbation states revealed the uncoupled nature of intestinal immune responses with respect to microbial community recovery []**. One key finding from this work is that host protein signatures can sensitively distin- guish both slight and major microbiota perturbations. Inoculating mice with subclinical amounts of the pathogen
+S. typhimurium, for example, caused reproducible shifts in host protein expression, even though the pathogen was unde- tected by 16S and qPCR. This suggests that a single assay targeting specific host proteins from stool could sensitively diagnose multiple emerging disease states in a widely applic- able manner.
+A second, surprising finding from this work was the starkly different rates at which the host proteome and the microbiota respond to gut ecosystem perturbations. We found that the antibiotic clindamycin rapidly reduced microbial diversity, measured by 16S, as previously shown [], while the infected host concurrently engaged an inflammatory response. However, when mice received fecal transplants from healthy donors, their host proteome signatures returned to conven- tional/healthy states almost immediately, while their micro- biota took several days to demonstrate comparable recovery. This observation is consistent with anecdotal observations that patients suffering from long-term C. difficile infections experience nearly immediate relief following fecal transplants [], while their microbiota continue to evolve over weeks to months []. We believe this strategy holds the potential for revealing host-specific mechanisms by which fecal transplant therapies initiate and sustain recovery from long-term disease. However, by expanding this approach with other '-omic' tech- nologies, researchers can begin to map the complex network linking host regulatory pathways with the microbial adapta- tions that allow them to thrive in diverse host environments.
+
+Outlook: our multi-omics future
+While it is clear that proteomics significantly contributes to our understanding of host-gut microbe interaction networks, complementary -omic technologies represents one strategy for addressing some of the challenges that proteomics faces. For example, 16S can help resolve large sequence spaces. While 16S is commonly used to elucidate relative gut micro- bial composition changes, it can also guide the construction of
+
+
+focused, synthetic metaproteome databases containing both host and microbes []. Additionally, this approach can effec- tively correlate host proteomic signatures with microbe com- positional changes []. Although strictly sequencing the 16S locus ignores eukaryotic components of the microbiota such as diet, fungi, protozoa, and viruses, these can also be addressed by including eukaryotic-specific 18S sequences in the analysis [].
+Other methods may be better suited to the task of popu- lating sample-matched metaproteomic databases. Unlike 16S, metatranscriptomic analyses are not limited to defining the presence or absence of microbes and are often used to esti- mate the gut microbes' collective functional capacity []. However, across many domains of life, transcriptional abun- dance has been found to poorly predict protein abundance and protein post-translational modification states [,]. Moreover, relative to proteins, mRNA's instability adds consid- erable complexity to sample handling procedures that may be incompatible with the most widely used specimen-gathering methods. Despite these drawbacks, combining proteomics and metatranscriptomics opens broader and more complete understanding of complex host-microbe relationships.
+In the same way that assembled metagenomes inform the corresponding metaproteomes, combining metagenomics and metaproteomics can aid in elucidating metabolomes. In health and disease, the gut is bathed in a staggering number of small-molecule metabolites. Microbially sourced molecules such as short-chain fatty acids, glycolipids, and oligosacchar- ides link critical microbe-host functional networks. However, their tremendously diverse structures greatly hinder confident compound identification. Here, multi-omic approaches can provide critical insight into metabolite identity and activity. One powerful identification approach uses of biosynthetic gene clusters for the prediction of microbe-sourced antibiotic- building enzymes, pioneered by Donia et al []*. Once a metabolite has been characterized, proteomic technologies can measure the abundances of its associated enzymes over time following perturbation. They can also implicate addi- tional proteins that regulate, or are regulated by the metabo- lite in question based on highly correlated abundance profiles. Moreover, since several modern mass spectrometers are able to measure both protein and metabolite analytes, these kinds of complex interactions can be investigated within one research laboratory []. Taken together, it is now abundantly clear that no single analytical domain holds all the answers. Rather, linking genomic and metabolomic technologies with proteomics holds immense potential for building robust sys- tems-level analyses that can help elucidate the crosstalk between our microbiota and ourselves.
+
+Acknowledgments
+The authors would like to thank the past and current members of the Elias lab for their initial input and feedback.
+
+
+Disclosure Statement
+The authors have no relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with
+
+476	C. G. GONZALEZ ET AL.
+
+
+the subject matter or materials discussed in the manuscript. This includes employment, consultancies, honoraria, stock ownership or options, expert testimony, grants or patents received or pending, or royalties.
+
+Funding
+This work was supported by the National Science Foundation (DGE- 114747) to C.G.G. and by the Bill and Melinda Gates Foundation (Stanford Human Systems Immunology Center to J.E.E.).
+
+Declaration of interest
+No potential conflict of interest was reported by the authors.
+
+
+References
+Papers of special note have been highlighted as either of interest (*) or of considerable interest (**) to readers.
+Carding S, Verbeke K, Vipond DT, et al. Dysbiosis of the gut micro- biota in disease. Microb Ecol Health Dis. ;26:26191-26199.
+Gagniere J, Raisch J, Veziant J, et al. Gut microbiota imbalance and colorectal cancer. World J Gast Genes Environ. ;22:501-518.
+Walters WA, Xu Z, Knight R. Meta-analyses of human gut microbes associated with obesity and IBD. FEBS Lett. Fed Eur Biochem Societies. ;588:4223-4233.
+Consortium T integrative H (iHMP) RN. The integrative human microbiome project: dynamic analysis of microbiome-host omics profiles during periods of human health and disease corresponding author. Cell Host Microbe. ;16:276-289.
+This article describes the NIH's effort to sequence and catalog all human microbial species.
+Hensbergen PJ, Klychnikov OI, Bakker D, et al. A novel secreted metalloprotease (CD2830) from Clostridium difficile cleaves specific proline sequences in LPXTG cell surface proteins. Mol Cell Proteomics. ;13:1231-1244.
+Turnbaugh PJ, Ridaura VK, Faith JJ, et al. The effect of diet on the human gut microbiome: a metagenomic analysis in humanized gnotobiotic mice. Sci Transl Med. ;1:6ra14.
+Lichtman JS, Marcobal A, Sonnenburg JL, et al. Host-centric pro- teomics of stool: a novel strategy focused on intestinal responses to the gut microbiota. Mol Cell Proteomics. ;12:3310-3318.
+Verberkmoes NC, Russell AL, Shah M, et al. Shotgun metaproteo- mics of the human distal gut microbiota. ISME J. ;3:179-189.
+** This article represents a pioneering successful metaproteo- mic search of human stool, incorporating metagenomic sequencing data as the basis for subsequent metaproteomic analysis
+Li X, LeBlanc J, Truong A, et al. A metaproteomic approach to study human-microbial ecosystems at the mucosal luminal interface. PLoS ONE. 2011;6(11):e26542.
+Lichtman JS, Alsentzer E, Jaffe M, et al. The effect of microbial colonization on the host proteome varies by gastrointestinal loca- tion. ISME J. 2015;10:1170-1181.
+Chin CD, Laksanasopin T, Cheung YK, et al. Microfluidics-based diagnostics of infectious diseases in the developing world. Nat Med. ;17:1015-1019.
+
+Erickson AR, Cantarel BL, Lamendella R, et al. Integrated metage- nomics/metaproteomics reveals human host-microbiota signatures of crohn's disease. PLoS One. 2012;7(11):e49138.
+Cantarel BL, Erickson AR, VerBerkmoes NC, et al. Strategies for metagenomic-guided whole-community proteomics of complex microbial environments. PLoS One. 2011;6(11):e27173.
+Zhang X, Ning Z, Mayne J, et al. MetaPro-IQ: a universal metapro- teomic approach to studying human and mouse gut microbiota. Microbiome. ;4:31.
+Savitski MM, Wilhelm M, Hahne H, et al. Approach for protein false discovery rate estimation in large proteomic data sets. Mol Cell Proteomics. ;14:2394-2404.
+Ivanov MV, Levitsky LI, Gorshkov MV. Adaptation of decoy fusion strategy for existing multi-stage search workflows. J Am Soc Mass Spectrom. 2016;27:1579.
+Grassl N, Kulak NA, Pichler G, et al. Ultra-deep and quantitative saliva proteome reveals dynamics of the oral microbiome. Genome Med. ;8:44.
+Jansson JK, Baker ES. A multi-omic future for microbiome studies. at Microbiol. ;1:16049.
+Zhang Y, Wen Z, Washburn MP, et al. Refinements to label free proteome quantitation: how to deal with peptides shared by multi- ple proteins. Anal Chem Am Chem Soc. ;82:2272-2281.
+Lichtman JS, Ferreyra JA, Ng KM, et al. Host-microbiota interactions in the pathogenesis of antibiotic-associated diseases. Cell Rep. ;14:1049-1061.
+** This article highlights the utility traditional proteomics approaches can have when integrated with parallel micro- biome enumeration, leading to systems-level insights
+Sekirov I, Tam NM, Jogova M, et al. Antibiotic-induced perturba- tions of the intestinal microbiota alter host susceptibility to enteric infection. Infect Immun. ;76:4726-4736.
+Kelly CR, Khoruts A, Staley C, et al. Effect of fecal microbiota trans- plantation on recurrence in multiply recurrent clostridium difficile infection: a randomized trial. Ann Intern Med. 2016;165:609-616.
+Li SS, Zhu A, Benes V, et al. Durable coexistence of donor and recipient strains after fecal microbiota transplantation. Science. ;352:586-589.
+Jovel J. Characterization of the gut microbiome using 16S or shot- gun metagenomics. Evol Genomic Microbiol. ;7:459.
+Wang Y, Tian RM, Gao ZM, et al. Optimal eukaryotic 18S and universal 16S/18S ribosomal RNA primers and their application in a study of symbiosis. PLoS One. 2014;9(3):e90053.
+Bashiardes S, Zilberman-Schapira G, Elinav E. Use of metatranscrip- tomics in microbiome research. Bioinform Biol Insights. ;10:19-25.
+Schwanhausser B, Busse D, Li N, et al. Global quantification of mammalian gene expression control. Nature. ;473:337-342.
+Waldbauer JR, Rodrigue S, Coleman ML, et al. Transcriptome and proteome dynamics of a light-dark synchronized bacterial cell cycle. PLoS One. 2012;7(8):e43432.
+Donia MS, Cimermancic P, Schulze CJ, et al. A systematic analysis of biosynthetic gene clusters in the human microbiome reveals a com- mon family of antibiotics. Cell. ;158:1402-1414.
+This article is a strong example of how two omic domains - metagenomics and metabolomics can be integrated to deduce clear functional relationships.
+Daniel H, Moghaddas Gholami A, Berry D, et al. High-fat diet alters gut microbiota physiology in mice. ISME J. ;8:295-308.

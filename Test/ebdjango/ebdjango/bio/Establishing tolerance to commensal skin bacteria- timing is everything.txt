@@ -1,0 +1,363 @@
+
+Published in final edited form as:
+Dermatol Clin. 2017 January ; 35(1): 1-9. doi:10.1016/j.det.2016.07.007.
+
+
+Establishing tolerance to commensal skin bacteria: timing is everything
+Tiffany C. Scharschmidt, M.D.
+UCSF Department of Dermatology, University of California, San Francisco, 1701 Divisadero Street, 3rd Floor, San Francisco
+
+Synopsis
+Commensal bacteria live in close proximity to and constant dialogue with our skin's immune cells. Regulating our immune response to these bacteria is critical, as failure to do so may contribute to inflammatory skin disease. Using a new murine model to study how cutaneous T cells respond to an antigen expressed by the commensal Staphylococcus epidermidis (S. epi), we found that S. epi colonization during neonatal but not adult life led to adaptive immune tolerance. This tolerance was protective against skin inflammation upon subsequent S. epi exposure and was mediated by a wave of regulatory T cells entering skin during this critical developmental window. These findings provide new insight into how we establish a healthy symbiosis with our commensal skin flora and identify avenues for future research that may result in novel therapeutic approaches for inflammatory skin disease.
+
+
+Keywords
+skin; microbiome; Tregs; tolerance; neonatal; commensals
+
+
+Introduction
+Commensal bacteria in inflammatory skin disease
+As dermatologists, we routinely diagnose and treat overt cutaneous infections, such as folliculitis or cellulitis, where a discrete pathogen is causative and antibiotics are curative. We are also familiar with autoimmune skin conditions, such as pemphigus or pemphigoid, where an immune response to a self-antigen results in destructive skin inflammation, and treatments aim to limit this via immunosuppression. However, we also care for many patients with inflammatory skin disorders that are neither infectious nor autoimmune by classical definitions. A few examples of these include atopic dermatitis, acne vulgaris and hidradenitis suppurativa. While the pathogenesis of these diseases is clearly multifactorial, it is likely that immune responses directed at the cutaneous microbiota help drive inflammation (Figure 1)1.
+
+
+
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Scharschmidt	Page 2
+
+In atopic dermatitis, hereditary defects in skin barrier integrity or host immunity can confer disease susceptibility, perhaps by driving altered responses to skin bacteria2. Flares are accompanied by an increase in the cutaneous burden of Staphylococcus aureus (S. aureus) and Staphylococcus epidermidis (S. epi)3. In acne vulgaris, age of onset coincides with a shift in composition of the skin microbiome4. As sebaceous activity increases, the proportion of Propionibacterium acnes (P. acnes) on healthy skin increases. The presence of
+P. acnes alone is not sufficient to cause disease, but sequencing of P. acnes isolates from acne lesions versus healthy skin has revealed a distinct subset of disease-associated strains5. In
+hidradenitis suppurativa, patients suffer from skin lesions that share many clinical features with infectious furuncles or abscesses. However, microbiological studies of hidradenitis lesions consistently demonstrate altered bacterial communities in which commensal strains from skin or other mucosal body sites predominate over skin pathogens6. Thus, in these
+conditions the presence of a single bacterial strain is not sufficient to initiate disease. Rather, shifts in skin flora composition, accompanied by an altered immune response to these bacteria in susceptible hosts, likely trigger pathogenic inflammation7.
+Present treatment for these inflammatory skin diseases include antibiotics; i.e., a sledgehammer to reduce the burden of skin flora, and topical or systemic immunosuppressives to blunt the resulting immune response. Understanding how our cutaneous immune system regulates inflammation directed against skin microbes will provide additional insight into the pathogenesis of these conditions and may open new opportunities to optimize host-microbe interactions for therapeutic benefit.
+
+Content
+Skin commensal bacteria - how do we keep the peace?
+Billions of bacteria, viruses and fungi reside on our skin's surface and in adenexal structures8. Langerhans cells can protrude through tight junctions to capture bacterial antigens on the skin's surface, and bacterial components have even been identified deep in the dermis9. This close proximity enables constant dialogue between these commensals and our immune system. The presence of bacteria augments the skin's production of antimicrobial peptides and alters the number and function of skin-resident lymphocytes10,11. Indeed, individual strains of commensal bacteria, such as S. epi and P. acnes, elicit distinct profiles of cytokine production by skin lymphocytes, demonstrating that the composition of our skin flora can influence the tissue's immunologic "tone"12.
+
+A primary function of our immune system is to protect us from infections by recognizing and responding to microbial antigens. The observation that our immune system is clearly responding to our skin commensal bacteria on an ongoing basis leaves us with a fundamental question that has important implications for normal skin biology and the pathogenesis of inflammatory skin disease. Why don't our commensal bacteria elicit chronic inflammation in healthy skin?
+
+Scharschmidt	Page 3
+
+Tregs - our immunologic peacekeepers
+Our immune system is constantly making decisions about whether and how to respond to antigens it encounters. Most of these antigens are our own "self" antigens. Although many self-reactive T cells are deleted during development in the thymus, others escape and their response must be regulated locally in the tissues where these antigens reside. Regulatory T cells (Tregs), a CD4+ T cell subset, play a central role in this process of immune regulation or tolerance13. As evidence of this, deficiency in the number or function of Tregs leads to autoimmune disease and inflammation in skin and other tissues14,15.
+Our commensal microbes are in many ways an extension of our human "self" - not only do we rely on them for critical metabolic functions but, as noted above, commensal antigens are pervasive at our body surfaces. Commensal bacteria in our gut have been shown to augment the number and function of Tregs in the intestinal lamina propria16,17, and gut inflammation seen in the absence of Tregs is directed in part toward luminal microbiota18. The skin, like the gut, has a significant population of tissue-resident Tregs19. However, the role of these Tregs in immune tolerance to skin bacteria was until recently unexplored.
+
+A good (immunologic) relationship gets off on the right foot
+The beginning of life represents a critical window of immune maturation in which our immune system is trained to recognize self and non-self. Neonates, especially in prematurity, are more susceptible to certain infections. Previously this was thought to be due to the "immaturity" of their immune systems. Instead, recent evidence suggests that the immune response in this early stage of life is not underdeveloped but rather carefully designed to promote tolerogenic responses20,21. In particular, Tregs generated early in life have a unique propensity to protect tissues from autoimmune attack22. Likely this is an adaptive feature to limit potentially damaging immune responses to many new antigens (self and non-self) that the immune system encounters in this developmental window. Colonization by commensal microbiota also occurs at the beginning of life23, suggesting that perhaps we educate our immune system to recognize and tolerate commensal microbes at the same time as we learn to tolerate our own antigens.
+
+A new model to track commensal-specific T cells and tolerance
+We set out to dissect mechanisms that help us regulate our adaptive immune response to skin commensal bacteria. T cells have unique surface T cell receptors (TCRs), enabling each cell to recognize and respond to a specific antigen. Studying tolerance necessitates isolating just those T cells capable of responding to that antigen and tracking their response in the context of a broad immune repertoire. Tools have not yet been developed to identify and study individual T cells that respond to native antigens made by skin commensal bacteria. Thus, we engineered a skin commensal to express a foreign peptide for which tools are available to track the antigen-specific response (Figure 2)24.
+
+We chose to examine the immune response to S. epi, a prevalent commensal on human skin that also functions as a commensal in mice, and engineered it to express the foreign peptide, 2W (Epi-2W). A subset of CD4+ T cells in wild-type mice are capable of responding to
+
+Scharschmidt	Page 4
+
+2W25. These cells can be isolated and studied by flow cytometry using a MHC-class II tetramer that binds to the T cell receptor unique to these cells26.
+
+We colonized the skin surface of adult wild-type mice with Epi-2W and examined total inflammation in the skin tissue as well as the 2W-specific (i.e. S. epi-specific) CD4+ T cells in these animals. Following skin colonization, we observed expansion of S. epi-specific T cells in both skin-draining lymph nodes and spleen without any accompanying skin inflammation. This suggested that we had successfully created a model of skin commensalism in which we could track a commensal-specific immune response. The robust
+S. epi-specific immune response validated previous lines of evidence that antigens from skin commensals are detected by the immune system even in the setting of an intact physical skin barrier.
+
+A window of opportunity: commensal-specific tolerance is established in neonatal life
+We hypothesized that timing of colonization by a skin commensal might impact the host's ability to regulate the inflammatory response elicited by this foreign antigen, i.e. immune tolerance. To test this, we colonized skin of neonatal or adult mice with Epi2W and challenged them several weeks later with Epi-2W in the setting of mild barrier disruption alongside naive age-matched controls. We chose this approach to elucidate commensal- specific immune responses because it recapitulates exposure to commensal antigens in the setting of incidental skin trauma, a mildly inflammatory context during which mechanisms of immune tolerance would need to be active.
+Only mice colonized with Epi-2W during neonatal life demonstrated immunologic tolerance to Epi-2W upon challenge, as measured by significantly diminished skin inflammation, reduced skin neutrophils, reduced numbers of S. epi-specific effector CD4+ cells in the lymph nodes, and dramatic enrichment of S. epi-specific Tregs in both skin and lymph nodes. These results demonstrate that colonization of neonatal but not adult skin results in commensal-specific T cell tolerance.
+
+Peacekeepers get there early: a wave of regulatory T cells in developing skin
+This observation that the timing of exposure to a commensal bacteria influences the ability to establish tolerance prompted us to explore how neonatal and adult skin differ with respect to the resident immune cell populations. Comprehensive immunologic examination of neonatal skin revealed that a unique population of Tregs enters skin during the second week of life. These neonatal skin Tregs are more activated and abundant than their adult counterparts, constitute the majority of T cells in skin during this key developmental window, and are unique to the skin versus another key barrier site, the gut.
+
+Neonatal skin Tregs: critical players at the peacekeeping table
+The abrupt accumulation of activated Tregs in neonatal skin in conjunction with the preferential ability to establish tolerance to Epi-2W in this window suggested that these neonatal skin Tregs might play a major role in mediating tolerance to skin commensal microbes. To test this hypothesis, we transiently blocked migration of Tregs into skin immediately before colonizing neonatal mice with Epi-2W. Mice in which neonatal skin
+
+Scharschmidt	Page 5
+
+Tregs were blocked failed to establish tolerance to Epi-2W as measured by the aforementioned immunologic parameters. Thus, this wave of activated and abundant Tregs in neonatal skin plays a central role in the host's ability to establish immune tolerance to commensal antigens (Figures 3 and 4).
+
+Summary/Discussion
+These findings build on prior studies and are collectively instructive with respect to how commensal bacteria and our adaptive immune cells peacefully co-exist. Skin lymphocytes continuously recognize and respond to antigens from commensal bacteria even in the absence of skin barrier breach. However, if these commensal bacteria were present on skin during neonatal life, their antigens will elicit a CD4+ T cell response predominated by Tregs, preventing destructive tissue inflammation on subsequent re-exposure. By contrast, primary exposure to these same commensals later in life does not confer this same immune tolerance. The distinct immune effects seen with colonization of neonatal skin are mediated by an abundant and activated population of Tregs present in the tissue during this critical developmental window27. Below we highlight some of the questions raised by our work and discuss how these may inform our understanding and treatment of patients with inflammatory skin disease (Figure 5).
+
+From mice to men
+There are important differences between the adaptive immune system in young humans and young mice. For example, the immune system develops to a large extent in utero during human gestation, whereas T cell development occurs largely post-natally in mice21.
+However recent work demonstrates that Tregs in human infants also display unique properties and may facilitate a similar window of opportunity for developing tolerance to foreign antigens. One study examining lymphoid and mucosal tissue from human infants, adolescents and adults, found that Tregs were more abundant and more activated in infant
+tissues as compared with those from adults28. A separate randomized-controlled trial of 640
+human infants with heighted risk of peanut allergy demonstrated that increased rather than decreased exposure to peanut protein was protective by helping to establish tolerance to these antigens29. These studies suggest that fundamental aspects of our findings may extend to the human biology. Nonetheless, more work is required to define the timing and activation of Tregs in fetal and infant human skin and verify the extent to which our findings in mice extend to humans.
+
+Don't be late to the negotiations
+If there is a time-limited window to establish immune tolerance to skin commensals, then what are consequences of altering the microbiome during this crucial period? Antibiotic treatment can shift composition of our commensal skin flora and may be instructive in this regard30. Though not definitive, several studies suggest that early life exposure to antibiotics increases the risk of asthma and atopy31-33. Our findings offer a potential explanation for this association; i.e., if the commensal population normally present during this critical window is altered, tolerance will not be appropriately established and increased inflammation will be seen when these antigens are introduced later in life. Recognizing
+
+Scharschmidt	Page 6
+
+adverse consequences of skin microbiota perturbations early in life might lead to proactive interventions to mitigate such effects; for example, potentially pairing antibiotics with topical probiotics.
+A related but distinct question is whether failure to establish tolerance to a commensal early in life precludes tolerance from ever being established or whether other mechanisms could compensate for this later in life. While our studies suggest that exposure for 1-2 weeks during adulthood was insufficient to limit subsequent inflammatory responses to commensal antigens, colonization over a longer period of time might attenuate inflammation via alternate mechanisms, much like dose-escalating drug exposure protocols used to desensitize allergic individuals who require that drug for therapy34. Conversely, once tolerance to a commensal is established in neonates, how durable is this immune response? Are there specific mechanisms required to maintain tolerance throughout life or specific events or interventions that could cause it to be lost?
+
+Can foe mascarade as friend?
+Evolutionary pressures to avoid overwhelming inflammation directed at self or highly abundance environmental antigens may have favored mechanisms to establish tolerance to antigens present on skin early in life. The Achilles heel of such a system might be exposure to a bonafide pathogen during this developmental window. Could this result in tolerance to the pathogen and impair the host's ability to fight infection by this pathogen later in life?
+The complexity of the immune response suggests that answers to these questions are unlikely to be black and white. In the case of an overt infection by a skin pathogen during this developmental window, innate immune signals triggered by skin barrier breach might override the tolerogenic response and instead support an effector T cell response to clear the pathogen. However, the immunologic outcome is less clear for skin colonization by bacterial pathogens that do not always breach the epidermidis, e.g. S. aureus. Understanding the consequences of S. aureus colonization early in life, especially in individuals with atopic dermatitis, will have important implications for these patients who are prone to recurrent flares of their disease in association with this bacteria35.
+
+Host-commensal immune dialogue: a 3-dimensional conversation
+Spatial as well as temporal aspects of immune cell interactions are critical to shaping the quality of the resulting immune response36. Thus far, we have explored how temporal factors may influence our ability to establish tolerance to commensals. Thinking about where this dialogue takes place in the tissue may be equally important.
+Cutaneous Tregs localize to hair follicles, where a high burden of commensal bacteria reside19,37. The spatial co-localization of these populations may facilitate establishment and maintenance of commensal-specific tolerance. Mutations in genes critical to the structural integrity of the skin barrier, e.g. filaggrin, increase permeability of interfollicular skin to exogenous antigens and confer significant risk for atopic dermatitis38. If an altered skin barrier directs presentation of commensal antigens away from the hair follicle, it may impair mechanisms that promote establishment of commensal-specific tolerance and result in excessive inflammation directed at these antigens. In acne vulgaris and hidradenitis, skin
+
+Scharschmidt	Page 7
+
+inflammation tends to be focused around hair follicles. If hair follicles provide a structure facilitating commensal-Treg interaction, then physical disruption of this skin niche, as occurs in both these conditions, may impair maintenance of commensal-specific tolerance and lead to increased tissue inflammation directed as these "healthy" microbes.
+
+Commensal bacteria in inflammatory skin disease - what lies ahead?
+Understanding that a healthy immune response to commensal bacteria requires interaction between Tregs and these bacterial antigens early in life may eventually impact clinical practice. For example and as alluded to above, antibiotic-induced alteration of the skin microbiota during infancy may predispose to inflammation later in life33. While often necessary and life-saving, antibiotics should always be used judiciously, especially during this critical developmental window. Recognition of antibiotics' untoward effects on the gut microbiota has increasingly led to administration of probiotics during or after antibiotic therapy to help rescue and restore the normal gut flora. The same may pertain in the future to skin, where antibiotics might be paired with topical probiotics to mitigate disruption of normal commensals.
+
+It may also be possible to exploit these mechanisms for host-commensal tolerance by establishing tolerance to selected foreign antigens for which immune tolerance would be advantageous. For example, patients lacking certain epidermal proteins may soon be able to benefit from gene replacement therapy. A barrier to success with such treatments is the propensity for adaptive immune responses that target and kill cells expressing these "foreign" proteins or those associated with vectors used for gene delivery39. Genetic conditions affecting the skin that might benefit from gene replacement are often diagnosed at birth or soon thereafter, allowing us a window of opportunity for commensal-driven expression of these foreign antigens that might prime the patient's immune system for tolerance upon subsequent replacement therapy.
+
+While there is much yet to learn, harnessing mechanisms that regulate immune responses to commensal bacteria may eventually improve therapy for complex inflammatory skin disorders, such as atopic dermatitis, acne vulgaris or hidradenitis suppurativa. This will require not only characterizing changes in microbiota composition associated with inflammatory skin disease but also determining the extent to which adaptive immune responses in the tissue are directed against and driven by microbial antigens. While not an easy task with tools currently available, emerging technologies enabling analysis of single cells from patient's skin lesions and engineering of chimeric antigen receptor T cells to study effects of commensal-specific T cells in model systems may render these questions tractable40,41. Empowered with this knowledge as well as basic research examining mechanisms required to maintain or re-establish tolerance to commensals later in life, we may start to identify and reverse patterns that drive disease pathogenesis. The many yet unanswered questions pertaining to host-microbe immunobiology make this a rich and exciting field for future investigation and one that has the potential to eventually shift our understanding of and approach to inflammatory skin disease.
+
+Scharschmidt	Page 8
+
+References
+Belkaid Y, Segre JA. Dialogue between skin microbiota and immunity. Science. 2014; 346(6212): 954-959. [PubMed: 25414304]
+Hoffjan S, Stemmler S. Unravelling the complex genetic background of atopic dermatitis: from genetic association results towards novel therapeutic strategies. Arch Dermatol Res. 2015; 307(8): 659-670. [PubMed: 25693656]
+Kong HH, Oh J, Deming C, et al. Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis. Genome Res. 2012; 22(5):850-859. [PubMed: 22310478]
+Oh J, Conlan S, Polley EC, Segre JA, Kong HH. Shifts in human skin and nares microbiota of healthy children and adults. Genome Med. 2012; 4(10):77. [PubMed: 23050952]
+Fitz-Gibbon S, Tomida S, Chiu B-H, et al. Propionibacterium acnes Strain Populations in the Human Skin Microbiome Associated with Acne. J Investig Dermatol. 2013; 133(9):2152-2160. [PubMed: 23337890]
+Nikolakis G, Join-Lambert O, Karagiannidis I, Guet-Revillet H, Zouboulis CC, Nassif A. Bacteriology of hidradenitis suppurativa/acne inversa: A review. Journal of the American Academy of Dermatology. 2015; 73(5 Suppl 1):S12-S18. [PubMed: 26470608]
+Scharschmidt TC, Fischbach MA. What Lives On Our Skin: Ecology, Genomics and Therapeutic Opportunities Of the Skin Microbiome. Drug Discov Today Dis Mech. 2013; 10(3-4)
+Oh J, Byrd AL, Deming C, et al. Biogeography and individuality shape function in the human skin metagenome. Nature. 2014; 514(7520):59-64. [PubMed: 25279917]
+Kubo A, Nagao K, Yokouchi M, Sasaki H, Amagai M. External antigen uptake by Langerhans cells with reorganization of epidermal tight junction barriers. J Exp Med. 2009; 206(13):2937-2946. [PubMed: 19995951]
+Lai Y, Cogen AL, Radek KA, et al. Activation of TLR2 by a Small Molecule Produced by Staphylococcus epidermidis Increases Antimicrobial Defense against Bacterial Skin Infections. J Investig Dermatol. 2011; 130(9):2211-2221.
+Naik S, Bouladoux N, Wilhelm C, et al. Compartmentalized Control of Skin Immunity by Resident Commensals. Science. 2012 Jul.
+Naik S, Bouladoux N, Linehan JL, et al. Commensal-dendritic-cell interaction specifies a unique protective skin immune signature. Nature. 2015 Jan.
+Gratz IK, Rosenblum MD, Abbas AK. The life of regulatory T cells. Ann N Y Acad Sci. 2013; 1283(1):8-12. [PubMed: 23402657]
+Brunkow ME, Jeffery EW, Hjerrild KA, et al. Disruption of a new forkhead/winged-helix protein, scurfin, results in the fatal lymphoproliferative disorder of the scurfy mouse. Nat Genet. 2001; 27(1):68-73. [PubMed: 11138001]
+Wildin RS, Ramsdell F, Peake J, et al. X-linked neonatal diabetes mellitus, enteropathy and endocrinopathy syndrome is the human equivalent of mouse scurfy. Nat Genet. 2001; 27(1):18-20. [PubMed: 11137992]
+Atarashi K, Tanoue T, Shima T, et al. Induction of Colonic Regulatory T Cells by Indigenous Clostridium Species. Science. 2011; 331(6015):337-341. [PubMed: 21205640]
+Round JL, Mazmanian SK. Inducible Foxp3+ regulatory T-cell development by a commensal bacterium of the intestinal microbiota. Proceedings of the National Academy of Sciences. 2010; 107(27):12204-12209.
+Cahill RJ, Foltz CJ, Fox JG, Dangler CA, Powrie F, Schauer DB. Inflammatory bowel disease: an immunity-mediated condition triggered by bacterial infection with Helicobacter hepaticus. Infection and .... 1997
+Sanchez Rodriguez R, Pauli ML, Neuhaus IM, et al. Memory regulatory T cells reside in human skin. J Clin Invest. 2014; 124(3):1027-1036. [PubMed: 24509084]
+Elahi S, Ertelt JM, Kinder JM, et al. Immunosuppressive CD71+ erythroid cells compromise neonatal host defence against infection. Nature. 2013; 504(7478):158-162. [PubMed: 24196717]
+
+Scharschmidt	Page 9
+
+Mold JE, McCune JM. Immunological tolerance during fetal development: from mouse to man. Adv Immunol. 2012; 115:73-111. [PubMed: 22608256]
+Yang S, Fujikado N, Kolodin D, Benoist C, Mathis D. Regulatory T cells generated early in life play a distinct role in maintaining self-tolerance. Science. 2015
+Dominguez-Bello MG, Costello EK, Contreras M, et al. Delivery mode shapes the acquisition and structure of the initial microbiota across multiple body habitats in newborns. Proceedings of the National Academy of Sciences. 2010; 107(26):11971-11975.
+Scharschmidt TC, Vasquez KS, Truong H-A, et al. A wave of regulatory T cells into neonatal skin mediates tolerance to commensal microbes. Immunity. 2015 Nov.
+Moon JJ, Chu HH, Pepper M, et al. Naive CD4(+) T cell frequency varies for different epitopes and predicts repertoire diversity and response magnitude. Immunity. 2007; 27(2):203-213. [PubMed: 17707129]
+Moon JJ, Chu HH, Hataye J, et al. Tracking epitope-specific T cells. Nat Protoc. 2009; 4(4):565- 581. [PubMed: 19373228]
+Scharschmidt TC, Vasquez KS, Truong H-A, et al. A Wave of Regulatory T Cells into Neonatal Skin Mediates Tolerance to Commensal Microbes. Immunity. 2015; 43(5):1011-1021. [PubMed: 26588783]
+Thome JJC, Bickham KL, Ohmura Y, et al. Early-life compartmentalization of human T cell differentiation and regulatory function in mucosal and lymphoid tissues. Nat Med. 2015; 22(1):72- 77. [PubMed: 26657141]
+Toit Du G, Roberts G, Sayre PH, et al. Randomized trial of peanut consumption in infants at risk for peanut allergy. N Engl J Med. 2015; 372(9):803-813. [PubMed: 25705822]
+Marples RR, Kligman AM. Ecological Effects of Oral Antibiotics on the Microflora of Human Skin. Arch Dermatol. 1971; 103(2):148-153. [PubMed: 4251761]
+Russell SL, Gold MJ, Hartmann M, et al. Early life antibiotic-driven changes in microbiota enhance susceptibility to allergic asthma. EMBO reports. 2012; 13(5):440-447. [PubMed: 22422004]
+McKeever TM, Lewis SA, Smith C, et al. Early exposure to infections and antibiotics and the incidence of allergic disease: A birth cohort study with the West Midlands General Practice Research Database. Journal of Allergy and Clinical Immunology. 2002; 109(1):43-50. [PubMed: 11799364]
+Willing BP, Russell SL, Finlay BB. Shifting the balance: antibiotic effects on host-microbiota mutualism. Nature Publishing Group. 2011; 9(4):233-243.
+Akdis CA, Akdis M. Mechanisms of allergen-specific immunotherapy. Journal of Allergy and Clinical Immunology. 2011; 127(1):18-27. [PubMed: 21211639]
+Nagao K, Segre JA. "Bringing Up Baby" to Tolerate Germs. Immunity. 2015; 43(5):842-844. [PubMed: 26588777]
+Qi H, Kastenmuller W, Germain RN. Spatiotemporal Basis of Innate and Adaptive Immunity in Secondary Lymphoid Tissue*. 2014; 30(1):141-167. 
+.
+Gratz IK, Truong H-A, Yang SH-Y, et al. Cutting Edge: memory regulatory t cells require IL-7 and not IL-2 for their maintenance in peripheral tissues. The Journal of Immunology. 2013; 190(9): 4483-4487. [PubMed: 23543753]
+Scharschmidt TC, Man M-Q, Hatano Y, et al. Filaggrin deficiency confers a paracellular barrier abnormality that reduces inflammatory thresholds to irritants and haptens. J Allergy clin immunol. 2009; 124(3) 496-506-506.e1-6.
+Wu T-L, Ertl HCJ. Immune barriers to successful gene therapy. Trends Mol Med. 2009; 15(1):32- 39. [PubMed: 19101205]
+Curran KJ, Pegram HJ, Brentjens RJ. Chimeric antigen receptors for T cell immunotherapy: current understanding and future directions. The Journal of Gene Medicine. 2012; 14(6):405-415. [PubMed: 22262649]
+Shapiro E, Biezuner T, Linnarsson S. Single-cell sequencing-based technologies will revolutionize whole-organism science. Nat Rev Genet. 2013; 14(9):618-630. [PubMed: 23897237]
+
+Scharschmidt	Page 10
+
+Scharschmidt	Page 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Microbiota and immunity in skin disease
+Our skin's microbiota and immune system contribute to the pathogenesis of many diseases. Frank skin infections by pathogens lie at one end of the spectrum; whereas, autoimmune non-infectious conditions resulting from aberrant immune responses to self-antigens lie at
+the other. The pathogenesis of many inflammatory skin diseases fall between these extremes, with important roles for both microbiota and the resulting immune response.
+
+Scharschmidt	Page 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Tracking commensal-specific immune responses
+Studying the adaptive immune response to a skin commensal requires the ability to isolate T cells responding to commensal antigens from a mixed cell population. To create such a system, we engineered the bacteria S. epidermidis to express a small peptide antigen, 2W (Epi-2W). In mice colonized with Epi-2W, antigen-presenting cells are able to internalize the 2W antigen and present it to T cells expressing receptors specific for this antigen. To identify and study this commensal-specific immune response, T cells are isolated from
+Epi-2W colonized mice and incubated with a tetramer of MHC class II molecules loaded with the 2W-peptide. Commensal-specific CD4+ T cells recognizing 2W preferentially bind to this tetramer allowing isolation and characterization of this commensal-specific T cell population by flow cytometry.
+
+Scharschmidt	Page 13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Immune tolerance to commensals is established early in life
+We colonized either neonatal or adult mice with Epi-2W and then several weeks later challenged them again with the bacteria in the setting of skin barrier breach. Following this challenge, we characterized the population of commensal-specific T cells as well as the degree of skin inflammation. Epi-2W colonization of neonates resulted in a population of
+commensal-specific CD4+ T cells that was dominated by Tregs. In contrast, Epi-2W
+colonization of adults led to a predominance of T effectors (Teff) rather than Treg CD4+ T cells. Moreover, neonatal but not adult Epi-2W colonization was protective against skin inflammation upon challenge. Taken together these results show that immune tolerance to skin commensal bacteria is preferentially established early in life.
+
+Scharschmidt	Page 14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Neonatal skin Tregs mediate commensal-specific tolerance
+Mechanisms to promote immune tolerance to skin commensal bacteria are preferentially active in neonatal life. During this period a population of abundant and activated Tregs enters skin. This Treg population plays a critical role in establishing tolerance to these commensal bacteria.
+
+Scharschmidt	Page 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5. Commensal-specific immune tolerance: what lies ahead?
+Recognizing that commensal-specific immune tolerance is established preferentially in early life raises many intriguing questions of relevance to our patients. How do antibiotics, pathogenic microbes, skin barrier function, or hair follicles affect the development of tolerance in neonatal skin and how is it maintained or lost later in life? Answering these and other questions will inform our understanding of cutaneous hostcommensal dialogue.

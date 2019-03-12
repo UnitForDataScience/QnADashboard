@@ -1,0 +1,390 @@
+
+
+ 
+
+
+
+
+
+
+
+
+
+*
+
+Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT, USA
+
+
+
+
+
+
+
+
+
+Edited by: Ludmila Chistoserdova, University of Washington, USA
+Reviewed by:
+Natalia Ivanova, Lawrence Berkeley National
+Laboratory, USA Sergey M. Stolyar, University of Idaho, USA
+*Correspondence:
+
+
+
+
+
+
+
+
+
+Sarah M. Hird received a BS and MS at the University of Idaho and a Ph.D. at Louisiana State University. She completed a post-doc and fellowship at University of California Davis and is currently an Assistant Professor in the Department of Molecular and Cell Biology at the University of Connecticut. Her lab focuses on the interactions between host evolution
+and the microbiome. 
+
+Received: 16 November 2016
+Accepted: 07 April 2017
+Published: 25 April 2017
+Citation: Hird SM (2017) Evolutionary Biology Needs Wild Microbiomes.
+Front. Microbiol. 8:725. doi: 
+
+The microbiome is a vital component to the evolution of a host and much of what we know about the microbiome derives from studies on humans and captive animals. But captivity alters the microbiome and mammals have unique biological adaptations that affect their microbiomes (e.g., milk). Birds represent over 30% of known tetrapod diversity and possess their own suite of adaptations relevant to the microbiome. In a previous study, we showed that 59 species of birds displayed immense variation in their microbiomes and host (bird) taxonomy and ecology were most correlated with the gut microbiome. In this Frontiers Focused Review, I put those results in a broader context by discussing how collecting and analyzing wild microbiomes contributes to the main goals of evolutionary biology and the specific ways that birds are unique microbial hosts. Finally, I outline some of the methodological considerations for adding microbiome sampling to the research of wild animals and urge researchers to do so. To truly understand the evolution of a host, we need to understand the millions of microorganisms that inhabit it as well: evolutionary biology needs wild microbiomes.
+Keywords: gut microbiome, field biology, evolution, ornithology, host-associated microbiota
+
+
+INTRODUCTION
+Animals evolved in a microbial world: prokaryotes precede animals by ~3 billion years (Hickman, 2005). Thus, it may not be surprising that every animal is a host for a complex microbial community (its microbiome), containing billions to trillions of microorganisms, belonging to hundreds to thousands of species (Backhed et al., 2005; Qin et al., 2010; Human Microbiome Project Consortium, 2012) from all divisions of life (Bacteria, Archaea, and Eukaryotes), as well as viruses. There are an estimated near equal number of microbial and human cells on the human body (Sender et al., 2016) and microbial genes may outnumber a host's genes by orders of magnitude (Hooper and Gordon, 2001; Qin et al., 2010).
+
+
+
+
+
+
+The microbiome is of fundamental importance to vertebrates. In addition to aiding digestion (Hooper et al., 1998) and facilitating energy extraction and storage (Backhed et al., 2004; Turnbaugh et al., 2006), it is involved in growth and organ development (Diaz Heijtz et al., 2011; Erny et al., 2015), immune system maturation (Mazmanian et al., 2005; Chung et al., 2012), behavior (Dinan et al., 2015), and defense against pathogens (van der Waaij, 1989). The microbiome can affect mate choice (Sharon et al., 2010) and mating success (Brucker and Bordenstein, 2013), directly linking the microbiome and host evolution.
+Most microbiome research to date has  been  on  humans  and model organisms. But captivity alters the microbiome in mammals (Uenishi et al., 2007; Delsuc et al., 2014; Kreisinger et al., 2014; Clayton et al., 2016; Delport et al., 2016), birds (Scupham et al., 2008; Matsui et al., 2010; Wienemann et al., 2011; Rodriguez-Ruano et al., 2015; Wang et al., 2016), fish (Dhanasiri et al., 2010), reptiles (Keenan et al., 2013), and amphibians (Loudon et al., 2013; Becker et al., 2014; Bataille  et al., 2016), which is likely due to the dietary, social, and environmental conditions of captivity that are so different from those experienced in the wild. Captive microbiomes likely do not represent the natural variation of the microbiome of a species (or population), which is necessary for evolutionary analysis.
+Microbiomes are a relatively new frontier in evolutionary biology but this is not because their existence was unknown or thought unimportant. Instead, recent methodological advances now allow researchers to sequence the DNA of members of these communities without culturing each organism first and we can do so at a reasonable cost. In this Frontiers Focused Review, I discuss how sampling the microbiomes of wild organisms contributes  to the goals of evolutionary biology. I then highlight the ways  in which birds are unique and important microbial hosts and
+
+outline methodological considerations for adding microbiome research to field studies. Now that we have the tools, it is time to acknowledge and explore the fundamental importance of microbiomes in the evolution of hosts and to include them in field studies when possible.
+
+THE GOALS OF EVOLUTIONARY BIOLOGY
+Who shares our planet and where do they live? How and when did they get there? What are they doing, what role do they play in their communities? These general questions fall under three main goals of evolutionary biology: To (1) discover and describe biodiversity, including estimating phylogeny, (2)  understand the natural history and lifestyle of an organism (or group),
+(3) elucidate the forces responsible for the natural history and phylogeny of  an  organism  (or  group).  Microbiomes  present a unique  opportunity  for  understanding  evolution  as  they  are both a force whose emergent properties affect a host, but also a community of millions or more individuals, each with their own genomes and evolutionary history. They complete   the network of biological interactions between "individuals"-- genes, microbes, and hosts--and "communities"--genomes, microbiomes, communities--where every level can influence the others (Figure 1). With modern technologies we can synthesize  genomic,  ecological,  and  environmental  data   into a more complete understanding of biodiversity and evolution.
+Goal 1: Discover and Describe Biodiversity, Including Phylogeny
+Somewhere between several million (Schloss et al., 2016) and one trillion (Locey and Lennon, 2016) bacterial species inhabit the
+
+
+
+
+earth and most of these are not accessible through culture-based techniques (Handelsman, 2004). As the first aim of evolutionary biology (Table 1) is to document life on earth, microbiome research advances this goal by identifying organisms that are otherwise invisible to science (Wright et al., 2009). This is especially true since novel habitats uncover novel biodiversity (e.g., Goffredi et al., 2008; Goffredi, 2010; Petersen et al., 2010; Hug et al., 2016). For example, hoatzins are the only folivorous, foregut-fermenting bird and their crop and lower esophagus function as an extended fermentation chamber for the leaves    in their diet. Hoatzin crop microbiomes contain many novel bacterial strains: one study including six wild individuals found 94% of the bacterial OTUs belonged to unnamed species (Godoy- Vitorino et al., 2008). Another study, focusing on Archaea, found 17 of 24 methanogen OTUs likely represented new species and perhaps three new genera (Wright et al., 2009).
+
+
+Goal 2: Understand Natural History, Lifestyle, and Traits
+The second goal of evolutionary biology is to understand the lifestyle and history of an organism. Here we want to know what an organism does, where it does it and when it existed (Table 1). Describing traits such as home range, species range, daily and seasonal habits, physiological adaptations, phylogeography, etc., are essential for understanding how an organism functions in the world.
+Vultures provide an excellent example of how microbiomes add biological value to our understanding of host traits. Vultures are carrion feeders and this dietary specialization exposes them to many microbes that are known pathogens. Roggenbuck et al. (2014) investigated whether the microbiome enables this lifestyle by providing resistance to pathogens. Black vulture and turkey vulture contain high bacterial diversity on their head skin and
+
+extremely low bacterial diversity in their gut. Quite unusually, the bacterial classes Fusobacteria and Clostridia dominate and their relative abundances are similar across species and in a captive vulture as well. Fusobacteria and Clostridia, which are frequently pathogenic to other bird species, are possibly contributing to carrion digestion in the vulture digestive tract and outcompeting other bacteria that may be suitable for the niche. The avian hindgut is a previously undescribed niche for both bacterial taxa. Thus, Fusobacteria and Clostridia may facilitate the vulture lifestyle.
+There are many available methods to assess the microbiome as a trait. Phylogenies are one powerful tool that provide evolutionary information about the microbiome. Phylogenies can establish which bacteria are important to host or biogeographic micro-environment and can be used to calculate descriptive (alpha diversity) and comparative (beta diversity) statistics. Phylogenetic distance metrics like UniFrac (Lozupone and Knight, 2005) can determine how similar microbial communities are and permutation tests assess significance. Bacterial phylogenies can indicate how long a microbial taxon has inhabited a particular environment (Moodley et al., 2012; Moeller et al., 2016). Categorical statistical tests are another tool that correlate host traits with microbiomes (Godoy-Vitorino et al., 2012; Hird et al., 2014, 2015). Functional analysis of microbiomes using metagenomics can illuminate what genes
+
+
+
+
+
+
+TABLE 1 | The three main goals of evolutionary biology, applied to the microbiome (MB).
+
+Discover and describe	History and lifestyle	Processes and forces
+
+
+What is here? (including: What lives here? What's passing through? What's living? What dead?)
+
+Where does the MB come from? How is the MB seeded (from where)? (Metacommunity dynamics)
+
+Roles of different layers of selection? (on host, on MB, on microbe, on genomes, on genes)
+
+What always lives here? ("core microbiome")	How does the MB change over time? (succession) Role of social contact between hosts (microbial migration)
+
+Why is it here? (Resident or transient; living; or dead)	Analysis of phylogeny of microbes within host
+(including concepts of adaptive radiation, HGT, gut biogeography)
+
+Role of pathogens (disturbed state, succession dynamics, or source-sink dynamics); role of disease or illness of host on MB
+
+How many unique taxa? What is new to science? (endemism)
+Estimate phylogeny of bacteria within a host; estimate phylogeny of bacteria (or clade) across hosts
+
+Analysis of phylogeny of particular microbes across hosts (including concepts from phylogeography)
+What is the maternal contribution (vertical and pseudo-vertical inheritance)?
+
+(How) Does MB aid adaptability of host? (How) Does the MB adapt to new environments?
+Testing for, identifying, quantifying coevolution between host and microbe(s). Differentiating from co-diversification
+
+Defining a bacterial species, a pan-genome	What is the neonatal environment's contribution?	What is the community structure?
+Which taxa co-occur?	What is host ecology's contribution (e.g., diet)?	Extinction/speciation: of microbe and host
+
+
+
+and pathways are found in a sample. Microbiome  functions may be more conserved than taxonomic composition (Lozupone et al., 2012), since convergence, horizontal gene transfer, and functional redundancy may select for function rather than taxonomy.  When  coupled  with  host  genomic  information,   a powerful method to detect concurrent shifts in host and microbial function emerges (Gao et al., 2016).
+
+Goal 3: Elucidate Forces and Processes Affecting Natural History and Phylogeny
+The third major goal of evolutionary biology moves from describing natural history and phylogeny into elucidating the processes that shaped them. All of the major evolutionary forces--selection, drift, migration, mutation, diversification, extinction, and adaptation--are as fundamental to the microbiome are they are to hosts yet at this point we have more questions than answers (Table 1). The microbiome is under multiple levels of selection (Ley et al., 2006): how strong are the different levels and how do they structure the microbiome? Drift (including founder effects and bottlenecks) may be important during times of illness or early in life, when microbial populations are small. How genetic drift  in  the  host  affects the microbiome is unknown. The (relatively) rapid generation time of microbes and the ability of the community to change in response to stimuli may contribute to acclimation in hosts, which in turn could facilitate adaptation of a host to new or changing environments (Alberdi et al., 2016). The microbiome facilitated the mammalian expansion from  carnivory  to  herbivory  (Ley et al., 2008) and it contributes to more minor ecological shifts as well (like the ability to consume toxic plants; Kohl et al., 2014, 2016). Host migration and population structure may drive the extinction of distinct microbial taxa (Dominguez-Bello et al., 2008).
+Comparing microbiomes in the wild  contributes  to  all  three of the major goals of evolutionary biology. Hird et al. (2015) generated a biodiversity catalog for the microbiomes of 59 Neotropical bird species and improved our understanding    of both birds and microbiomes in an evolutionary  context.  First, since Hird et al. (2015) contained the first microbiome information from any of the host species, we described new environments for every microbe  identified,  thus  contributing to Goal 1 of evolutionary biology  (although  whether  the  OTUs are residents or transients, living or dead, is unknown). The Hird et al. (2015) data also contribute to Goal 2: the microbiome--as a trait--has been described for the host species and revealed some interesting patterns. For example, Figure 2 shows the distribution of Fusobacteriales across  a  subset  of the birds in Hird et al. (2015) and the distribution of the  bacteria gives some information about the hosts. Some birds appear to be better suited for  hosting  Fusobacteriales--the  two samples in dark green belong to two Galbula ruficauda (GALRUF71828X072 and GALRUF71831X222). They have many
+more Fusobacteriales than all other birds, including those from the same family (shown in lighter green) and those from the same sampling locality (site G). This supports the hypothesis that G. ruficauda may be selecting for Fusobacteriales in their
+
+gut; on a phylogenetic tree, many short branches from a single environment may indicate adaptive radiations (Ley et al., 2006), an intriguing possibility for G. ruficauda. Furthermore, the OTUs found in GALRUF71828X072 and GALRUF71831X222 are abundant and closely related, possibly indicating diversification of Fusobacteriales within the species, G. ruficauda or the individuals themselves.
+
+
+BIRDS AS MICROBIAL HOSTS
+Modern birds are  a  globally  distributed  (Jenkins  et  al., 2013), economically and socially important, ecologically, and morphologically diverse clade that began diversifying in the mid-Cretaceous, around 95-115 million years ago (Lee et al., 2014). They are ubiquitous. We know very little about how    the microbiome influences avian hosts, especially in the wild. Approximately 90% of published microbiome research has  been on mammals (Colston and Jackson, 2016), but mammals and birds are different in  many  ways  that  likely  influence  the microbiome. For example, mammals are birthed through      a microbially rich vaginal canal that directly shapes the microbiome (Dominguez-Bello et al., 2010). Mammals are fed milk produced by the mother that dynamically responds to the needs of the baby (Hassiotou and Geddes, 2015).
+A bird, on the other hand, lays fertilized eggs into a nest, which is a highly variable structure (Mainwaring et al., 2014). Nest building alters the feather microbiome (Saag et al., 2011; Kilgas et al., 2012) and over time, nest and maternal microbiomes converge (Goodenough et al., 2017). Nests frequently include materials with antimicrobial properties, such feathers (Peralta- Sanchez et al., 2010) and plants (Dubiec et al., 2013; Mainwaring et al., 2014; Ruiz-Castellano et al., 2016). Nest construction behavior, like nest or nesting material reuse or removal, may also affect the microbial ecology of the nest (Gonzalez-Braojos et al., 2012). How does this built environment affect the host microbiome?
+The eggs leave the mother through her cloaca, the bird's joint terminus for the excretory, urinary, and reproductive system that is in contact with the outside environment and mates. Microbes derived from each of these systems may be present in the cloaca. A parent then incubates the egg until it hatches, a behavior that can affect egg microbial load (Cook et al., 2005a,b; Shawkey et al., 2009). Some birds excrete an antimicrobial substance from their uropygial gland and physically cover the eggs with it (Soler et al., 2014; Martinez-Garcia et al., 2016); eggs can even be physically suited to retain the uropygial oil (Martin-Vivaldi et al., 2014). Babies are then fed from the mouth/crop of a parent or if they are precocial, may start feeding themselves immediately. The effects of the initial food source are likely important and deserve further study; what is the influence of the early environment on bird microbiomes?
+The ability to fly put selection pressure on avian digestive efficiency, resulting in short retention times of food, and exaggerated differences in gut morphology (Stevens and Hume, 1995). How the speed of digestion and plasticity of the alimentary canal affects the microbiome in birds is relatively unknown.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 2 | Relationship between bacteria and birds. (A) Phylogenetic tree of bacteria belonging to the order Fusobacteriales and which hosts the bacteria were found in. All members in the original dataset belonging to five bird families are shown for comparative purposes; bird orders are grouped by color and the first six letters of each name represent the species (see Hird et al., 2015, for more information about samples). Whether a particular OTU was found in a particular bird is shown in columns where the letter denotes which sampling locality the bird came from (on map shown in B) and the size of the letter refers to the abundance of the OTU. Patterns of note are shown on the figure.
+
+
+Feathers are an ancient structure unique to birds that facilitate flight and are crucial to avian health and wellness. Significant energy goes into growing and maintaining feathers (Walther
+
+and Clayton, 2005), which protect the bird from the elements, predators and parasites, as well as attract mates. The main function of the uropygial gland is to produce an oily, protective
+
+
+
+substance that is applied to feathers during preening. Uropygial secretions contain antimicrobials (Soler et al., 2012; Czirjak et al., 2013) that can be effective against feather degrading bacteria (Ruiz-Rodriguez et al., 2009) and can respond to changes in environmental bacterial load (Jacob et al., 2014; Leclaire et al., 2014). Furthermore, all birds lose and regrow their feathers at least once a year through molting, a physiologically expensive process that can alter the flight and feeding patterns of birds. Molting is associated with changes in the fecal microbiome in two species of penguin (Dewar et al., 2014).
+Finally, social contact is correlated to the microbiome in birds (Moller et al., 2009; Levin et al., 2016). Birds display a wide variety of social behaviors, varying from a largely solitary lifestyle (like hummingbirds) to a highly gregarious one (like many blackbirds). Parental care is also highly variable; some species share parental duties from incubation to fledging and others provide no parental care at all (like brood parasites). Sexual contact appears to affect the cloacal microbiome: repeated contact between sexual partners homogenizes the cloacal microbiome of barn swallows (Kreisinger et al., 2015) and sexual contact changes the female cloacal microbiome in kittiwakes which reverts to pre-copulatory status as time since intercourse increases (White et al., 2010). The extent to which sexually transmitted microbes affect the microbiome of other biogeographic sites is unknown.
+To better understand birds and their unique features,  we need to incorporate  their  microbiomes  into  ornithological  and evolutionary biology research. We need to characterize microbiome diversity at the population level, as well as across all branches of the Avian tree of life. We need to determine the salient environmental and morphological metadata to describe and compare the microbial samples. Wild microbiomes are necessary to complete these tasks and to transition from descriptive to explanatory research. Approximately one in eight bird species is threatened with extinction (Bird Life International, 2015); understanding microbiomes may help prevent extinction, both of birds (by  informing  animal  husbandry,  management or conservation priorities) and endemic microbes. Collection of microbiome data should be a priority for future field studies.
+
+FIELD COLLECTION OF WILD MICROBIOMES
+Field collection of microbiomes offers unique challenges that are briefly discussed below. General advice on conducting microbiome studies has been reviewed elsewhere (Kuczynski   et al., 2011; Goodrich et al., 2014).
+
+Study Design
+Study design is of utmost importance for field microbiome studies because increasing sample size at a later date may be difficult to impossible. Additionally, microbiomes can change over time or with season (Bailey et al., 2010; Liang et  al., 2015), so securing appropriate sample size during a field trip or field season is best. The research question will largely drive the sampling but the desired molecular data can greatly influence
+
+the budget. There is a direct tradeoff between number of samples one can analyze and the sequencing coverage per sample and this equation needs to be carefully considered. Collecting replicate samples is essential (if possible) because the variation within species (or groups) is likely unknown and the results from a single sample may be misleading. Microbiome samples are relatively cheap to collect in both time and money (Figure 3). This is especially true in comparison to the cost of getting to some field locations or effort to get the host organism in hand.
+
+
+In The Field: Sample Preparation and Storage
+Sample preparation and storage of microbiomes is very important: decomposition begins within minutes of death (Vass, 2001) and triggers a successional change in the microbiome (Metcalf et  al., 2016).  Bacterial taxa  in feces  can change after
+<30 min at room temperature (Gorzelak et al., 2015). Freezing,
+
+
+
+with or without buffer, is thought of as a "gold standard" for sample preservation (Song et al., 2016). This is plausible for some field trips, if access to a freezer, dry ice or liquid nitrogen is available. However, field conditions often prohibit immediate freezing of the sample. High purity ethanol (95% or higher) can fix the bacteria in a sample and this method has been shown to work especially well with fecal samples; Hale et al. (2015) found that frozen and ethanol stored samples had the most similar microbial communities to fresh fecal samples after 8 weeks of storage. Liquid storage buffers are another field possibility and can preserve both RNA (e.g., RNAlater) and DNA [DNAgard or non-proprietary solutions like DMSO/EDTA/saturated sodium chloride (DESS)]. Consistency may be the most important factor for field storage of wild microbiome samples--several storage methods perform well but comparing across methods may be problematic.
+Molecular Methods
+As the costs involved in sequencing will affect sampling design, it is best to have a plan for the molecular work from the beginning of a study. The two main categories of microbial community genetic data are amplicon-based and metagenomics. Amplicon-based studies are those that amplify and sequence   a single homologous locus (usually a variable region of 16S rRNA). These studies are an informative and economical first step in describing and analyzing microbiomes. The data provide taxonomic information (using large, publicly available databases) and diversity statistics that can be used to characterize and compare microbial communities. Amplicon-based studies are limited, though, in that they (1) rely on PCR,  (2)  produce  short sequencing fragments, (3) contain only one marker. In many cases, information  about  the  functional  capabilities  of a community are of interest. Functional information can be estimated from 16S rRNA data with computational approaches (Langille et al., 2013) but how well they perform in novel environments is unknown.
+
+
+Alternative to amplicon-based methods are shotgun metagenomics methods, which analyze a random subset of genetic material from a sample (Zarraonaindia et al., 2013).  One shotgun metagenomics approach is sequence-based metagenomics. Here, random DNA fragments from microbial communities are sequenced and used to infer the genes or metabolic pathways found in a sample based on available
+
+databases, e.g., KEGG Orthology (Kanehisa et  al.,  2004).  With sufficient coverage and analytical tools, full or nearly complete genomes can be reconstructed from a metagenome (Tyson et al., 2004; reviewed in Sangwan et al., 2016). Another shotgun approach, functional metagenomics, can be used to screen genomic fragments for specific traits (e.g., antibiotic resistance). Here, fragmented DNA is cloned into a fosmid vector then transfected into a bacterial host (frequently E. coli), where functional experiments can be performed (e.g., Sommer et al., 2009). Metagenomics are generally  more  expensive  than amplicon based studies, as they require greater sequence coverage to describe a sample and construct high quality contigs, and require more powerful computational tools to analyze. Metatranscriptomics is another option that uses the RNA in a sample to determine what genes are actively being transcribed  at the time of sampling (e.g., Franzosa et al., 2014). Like metagenomics, this method can be expensive but is informative about the metabolic processes occurring at a given time.
+Analysis
+The variable regions of the 16S rRNA molecule are by far the most popular choice for characterization of a microbiome. There are many software packages that are suitable for microbiome sequence analysis, the most popular of which are free and include extensive tutorials [e.g., QIIME (Caporaso et al., 2010), mothur (Schloss et al., 2009)]. Metagenomic and metatranscriptomic analyses are more involved than single locus analyses, requiring contig assembly before annotation and alignment to databases. Oulas et al. (2015) provides a detailed description about the computational steps involved in analyzing metagenomic data. All bioinformatics analyses require computational resources; these can range from relatively cheap, e.g., if one has access to an institutional cluster to extremely expensive e.g., if one needs    to purchase hardware or cluster time. Additionally, analysis is frequently the most time-expensive step, which directly translates to dollars in many instances. Many sequencing facilities can add standard bioinformatics analysis to a project for a fee.
+
+CONCLUSIONS
+The microbiome is important to its host in many ways and investigating this relationship in an evolutionary context is both possible and imperative. Through the microbiome we learn about individuals and communities, hosts and microbes, genes, and genomes. These investigations achieve the three main goals of evolutionary biology--to discover the Earth's biodiversity, understand its history and illuminate the forces that generated  it. Preserving microbiomes as a routine part of evolutionary studies adds an important component to the web of biological interactions and generates questions for continued exploration. Wild microbiomes provide important data to evolutionary biology, but only if we look.
+
+AUTHOR CONTRIBUTIONS
+The author confirms being the sole contributor of this work and approved it for publication.
+
+
+
+FUNDING
+The author wishes to thank the University of Connecticut and the University of California Davis Chancellor's Post-doctoral Fellowship for funding.
+
+ACKNOWLEDGMENTS
+Thank you to the authors of the original research article for  such outstanding work: Cesar Sanchez, Bryan Carstens, and Robb Brumfield.
+
+
+
+
+
+REFERENCES
+Alberdi, A., Aizpurua, O., Bohmann, K., Zepeda-Mendoza, M. L., and Gilbert, M.
+T. (2016). Do vertebrate gut metagenomes confer rapid ecological adaptation?
+Trends Ecol. Evol. (Amst). 31, 689-699. doi:  Backhed, F., Ding, H., Wang, T., Hooper, L. V., Koh, G. Y., Nagy, A., et al. (2004).
+The gut microbiota as an environmental factor that regulates fat storage. Proc. Natl. Acad. Sci. U.S.A. 101, 15718-15723. doi: 
+Backhed, F., Ley, R. E., Sonnenburg, J. L., Peterson, D. A., and Gordon, J. I. (2005). Host-bacterial mutualism in the human intestine. Science 307, 1915-1920. doi: 
+Bailey, M. T., Walton, J. C., Dowd, S. E., Weil, Z. M., and Nelson,
+R. J. (2010). Photoperiod modulates gut bacteria composition in male  Siberian hamsters (Phodopus sungorus). Brain Behav. Immun. 24, 577-584. doi: 
+Bataille, A., Lee-Cruz, L., Tripathi, B., Kim, H., and Waldman, B. (2016). Microbiome   variation   across   amphibian   skin    regions:    implications for  chytridiomycosis  mitigation  efforts.   Microb.   Ecol.   71,   221-232. doi: 
+Becker, M. H., Richards-Zawacki, C. L., Gratwicke, B., and Belden, L. K. (2014). The effect of captivity on the cutaneous bacterial community of the critically endangered Panamanian golden frog (Atelopus zeteki). Biol. Conserv. 176, 199-206. doi: 
+Bird Life International (2015).  "One  in  eight  of  all  bird  species  is  threatened  with  global  extinction,"  in   Presented   as   Part   of   the BirdLife State of the world's Birds Website. Available online at:   (Accessed   October 29, 2016).
+Brucker, R. M., and Bordenstein, S. R. (2013). The hologenomic basis of speciation: gut bacteria cause hybrid lethality in the genus Nasonia. Science 341, 667-669. doi: 
+Caporaso, J. G., Kuczynski, J., Stombaugh, J., Bittinger, K., Bushman,
+F. D., Costello, E. K., et al. (2010). QIIME allows analysis of high- throughput  community  sequencing  data.   Nat.   Methods   7,   335-336.   doi: 
+Chung, H., Pamp, S. J., Hill, J. A., Surana, N. K., Edelman, S. M., Troy, E. B., et al. (2012). Gut immune maturation depends on colonization with a host-specific microbiota. Cell 149, 1578-1593. doi: 
+Clayton, J. B., Vangay, P., Huang, H., Ward, T., Hillmann, B. M., Al-Ghalith, G. A., et al. (2016). Captivity humanizes the primate microbiome. Proc. Natl. Acad. Sci. U.S.A. 113, 10376-10381. doi: 
+Colston, T. J., and Jackson, C. R. (2016). Microbiome evolution along divergent branches of the vertebrate tree of life: what is known and unknown. Mol. Ecol. 25, 3776-3800. doi: 
+Cook, M.  I.,  Beissinger,  S.  R.,  Toranzos,  G.  A.,  and  Arendt,  W.  J.  (2005a).   Incubation   reduces   microbial   growth    on    eggshells    and   the  opportunity   for   trans-shell   infection.   Ecol.   Lett.   8,   532-537.   doi: 
+Cook, M. I., Beissinger, S. R., Toranzos, G. A., Rodriguez, R. A., and Arendt, W. J. (2005b). Microbial infection affects egg viability and incubation behavior in a tropical passerine. Behav. Ecol. 16, 30-36. doi: 
+Czirjak, G. A., Pap, P. L., Vagasi,  C. I., Giraudeau, M., Mure,san,  C., Mirleau,  P., et al. (2013). Preen gland removal increases plumage bacterial load but  not that of feather-degrading bacteria. Naturwissenschaften 100, 145-151. doi: 
+Delport, T. C., Power, M. L., Harcourt, R. G., Webster, K. N., and Tetu, S. G. (2016). Colony location and captivity influence the gut microbial community
+
+
+composition of the Australian sea lion (Neophoca cinerea). Appl. Environ. Microbiol. 82, 3440-3449. doi: 
+Delsuc, F., Metcalf, J. L., Wegener Parfrey, L., Song, S. J., Gonzalez, A., and Knight,
+R. (2014). Convergence of gut microbiomes  in myrmecophagous  mammals.
+Mol. Ecol. 23, 1301-1317. doi: 
+Dewar, M. L., Arnould, J. P., Krause, L., Trathan, P., Dann, P., and Smith, S. C. (2014). Influence of fasting during moult on the faecal microbiota of penguins. PLoS ONE 9:e99996. doi: 
+Dhanasiri, A. K., Brunvold, L., Brinchmann, M. F., Korsnes, K., Bergh, O.,     and Kiron, V. (2010). Changes in the intestinal microbiota of wild Atlantic cod Gadus morhua L. Upon Captive  Rearing.  Microb.  Ecol.  61,  20-30. doi: 
+Diaz Heijtz, R., Wang, S., Anuar, F., Qian, Y., Bjorkholm, B., Samuelsson, A., et al. (2011). Normal gut microbiota modulates brain development and behavior. Proc. Natl. Acad. Sci. U.S.A. 108, 3047-3052. doi: 
+Dinan, T. G., Stilling, R. M., Stanton, C., and Cryan, J. F. (2015). Collective unconscious: how gut microbes shape human behavior. J. Psychiatr. Res. 63, 1-9. doi: 
+Dominguez-Bello, M. G., Costello, E. K., Contreras, M., Magris, M., Hidalgo, G., Fierer, N., et al. (2010). Delivery mode shapes the acquisition and structure of the initial microbiota across multiple body habitats in newborns. Proc. Natl. Acad. Sci. U.S.A. 107, 11971-11975. doi: 
+Dominguez-Bello, M. G., Perez, M. E., Bortolini, M. C., Salzano, F. M., Pericchi, L. R., Zambrano-Guzman, O., et al. (2008). Amerindian Helicobacter pylori strains go extinct, as european strains expand their host range. PLoS ONE 3:e3307. doi: 
+Dubiec, A., Goz'dz', I., and Mazgajski, T. D. (2013). Green plant material in avian nests. Avian Biol. Res. 6, 133-146. doi: 
+Erny, D., HrabeV de Angelis, A. L., Jaitin, D., Wieghofer, P., Staszewski, O., David, E., et al. (2015). Host microbiota constantly control maturation and function of microglia in the CNS. Nat. Neurosci. 18, 965-977. doi: 
+Franzosa, E. A., Morgan, X. C., Segata, N., Waldron, L., Reyes, J., Earl, A. M., et al. (2014). Relating the metatranscriptome and metagenome of the human 
+Gao, G., Zhao, X., Li, Q., He, C., Zhao, W., Liu, S., et al. (2016). Genome and metagenome analyses reveal adaptive evolution of the host and interaction with the gut microbiota in the goose. Sci. Rep. 6, 1-11. doi: 
+Godoy-Vitorino, F., Leal, S. J., Diaz, W. A., Rosales, J., Goldfarb, K. C., Garcia- Amado, M. A., et al. (2012). Differences in crop bacterial community structure between hoatzins from different geographical locations. Res. Microbiol. 163, 211-220. doi: 
+Godoy-Vitorino, F., Ley, R. E., Gao, Z., Pei, Z., Ortiz-Zuazaga, H., Pericchi,
+L. R., et al. (2008). Bacterial community in the crop of the Hoatzin, a neotropical folivorous flying bird. Appl. Environ. Microbiol. 74, 5905-5912. doi: 
+Goffredi, S. K. (2010). Indigenous ectosymbiotic bacteria associated with  diverse hydrothermal vent invertebrates. Environ. Microbiol. Rep. 2, 479-488. doi: 
+Goffredi, S. K., Jones, W. J., Erhlich, H., Springer, A., and Vrijenhoek,
+R.  C.  (2008).  Epibiotic  bacteria  associated  with   the   recently   discovered Yeti crab, Kiwa hirsuta. Environ.  Microbiol.  10,  2623-2634.  doi: 
+Gonzalez-Braojos, S., Vela, A. I., Ruiz-de-Casta-eda, R., Briones, V., Cantarero, A., and Moreno, J. (2012). Is nestling growth affected by nest reuse and skin bacteria in Pied Flycatchers Ficedula hypoleuca? Acta Ornithol. 47, 119-127. doi: 
+
+
+
+Goodenough, A. E., Stallwood, B., Dandy, S., Nicholson, T. E., Stubbs, H., and Coker, D. G. (2017). Like mother like nest: similarity in microbial communities of adult female Pied Flycatchers and their nests. J. Ornithol. 158, 233-244. doi: 
+Goodrich, J. K., Di Rienzi, S. C., Poole, A. C., Koren, O., Walters, W. A., Caporaso,
+J. G., et al. (2014). Conducting a microbiome study. Cell  158, 250-262.    doi: 
+Gorzelak, M. A., Gill, S. K., Tasnim, N., Ahmadi-Vand, Z., Jay, M., and Gibson,
+D. L. (2015). Methods for improving human gut microbiome data by  reducing variability through sample processing and storage of stool. PLoS ONE 10:e0134802. doi: 
+Hale, V. L., Tan, C. L., Knight, R., and Amato, K. R. (2015). Effect of preservation method on spider monkey (Ateles geoffroyi) fecal microbiota over 8 weeks. J. Microbiol. Methods 113, 16-26. doi: 
+Handelsman, J.  (2004).  Metagenomics:  application  of  genomics  to  uncultured  microorganisms.  Microbiol.  Mol.  Biol.  Rev.   68,   669-685. doi: 
+Hassiotou, F., and Geddes, D. T. (2015). Immune cell-mediated protection of the mammary gland and the infant during breastfeeding. Adv. Nutr. 6, 267-275. doi: 
+Hickman, C. S. (2005). "How have bacteria contributed to the evolution of multicellular animals?," in The Influence of Cooperative Bacteria on Animal Host Biology, ed M.-N. M. H. Ruby (New York, NY: Cambridge University Press), 3-33.
+Hird, S. M., Carstens, B. C., Cardiff, S. W., Dittmann, D. L., and Brumfield, R. T. (2014). Sampling locality is more detectable than taxonomy or ecology in the gut microbiota of the brood-parasitic Brown-headed Cowbird (Molothrus ater). PeerJ 2:e321. doi: 
+Hird, S. M., Sanchez, C., Carstens, B. C., and Brumfield, R. T. (2015). Comparative gut microbiota of 59 neotropical bird  species.  Front.  Microbiol.  6:1403. doi: 
+Hooper, L. V., and Gordon, J. I. (2001). Commensal host-bacterial relationships in the gut. Science 292, 1115-1118. doi: 
+Hooper, L. V., Bry, L., Falk, P. G., and Gordon, J. I. (1998). Host-microbial symbiosis in the mammalian intestine: exploring an internal ecosystem. Bioessays 20, 336-343. doi: 10.1002/(SICI)1521-1878(199804)20:4<336::AID- BIES10>3.0.CO;2-3
+Hug, L. A., Baker, B. J., Anantharaman, K., Brown, C. T., Probst, A. J., Castelle,
+C. J., et al. (2016). A new view of the tree of life. Nat. Microbiol. 1:16048. doi: 
+Human Microbiome Project Consortium (2012). Structure, function  and diversity  of  the  healthy  human  microbiome.   Nature   486,   207-214.   doi: 
+Jacob,  S., Immer, A., Leclaire, S., Parthuisot, N., Ducamp, C., Espinasse, G.,     et al. (2014). Uropygial gland size and composition varies according to experimentally modified microbiome in Great tits. BMC Evol. Biol. 14:134. doi: 
+Jenkins, C. N., Pimm, S. L., and Joppa, L. N. (2013). Global patterns of terrestrial vertebrate diversity and conservation. Proc. Natl. Acad. Sci. 110, E2602-E2610. doi: 
+Kanehisa, M., Goto, S., Kawashima, S., Okuno, Y., and Hattori, M. (2004). The KEGG resource for deciphering the genome. Nucleic Acids Res. 32, D277-D280. doi: 
+Keenan, S. W., Engel, A. S., and Elsey, R. M. (2013). The alligator gut microbiome and implications for archosaur symbioses.  Sci.  Rep.  3,  1-7. doi: 
+Kilgas, P., Saag, P., Magi, M., Tilgar, V., and Mand, R. (2012). Plumage bacterial load increases during nest-building in a passerine bird. J. Ornithol. 153, 833-838. doi: 
+Kohl, K. D., Connelly, J. W., Dearing, M. D., and Forbey, J. S. (2016). Microbial detoxification in the gut of a specialist avian herbivore, the Greater Sage- Grouse. FEMS Microbiol. Lett. 363:fnw144. doi: 
+Kohl, K. D., Weiss, R. B., Cox, J., Dale, C., and Dearing, M. D. (2014). Gut microbes of mammalian herbivores facilitate intake of plant toxins. Ecol. Lett. 17, 1238-1246. doi: 
+
+Kreisinger,  J.,  CVizkova,  D.,  Vohanka,  J.,  and  Pialek,  J.  (2014).  Gastrointestinal microbiota of wild and inbred individuals of two house mouse subspecies assessed using high-throughput parallel pyrosequencing. Mol. Ecol. 23, 5048-5060. doi: 
+Kuczynski, J., Lauber, C. L., Walters, W. A., Parfrey, L. W., Clemente, J. C., Gevers, D., et al. (2011). Experimental and analytical tools for studying the human microbiome. Nat. Rev. Genet. 13, 47-58. doi: 
+Langille, M. G., Zaneveld, J., Gregory Caporaso, J., McDonald, D., Knights,    D., Reyes, J. A., et al. (2013). Predictive functional profiling of microbial communities using 16S rRNA marker gene sequences. Nat. Biotechnol. 31, 814-821. doi: 
+Leclaire, S., Pierret, P., Chatelain, M., and Gasparini, J. (2014). Feather bacterial load affects plumage condition, iridescent color, and investment in preening in pigeons. Behav. Ecol. 25, 1192-1198. doi: 
+Lee, M. S. Y., Cau, A., Naish, D., and Dyke, G. J. (2014). Morphological clocks in paleontology, and a mid-Cretaceous origin of crown Aves. Syst. Biol. 63, 442-449. doi: 
+Levin, I. I., Zonana, D. M., Fosdick, B. K., Song,  S.  J.,  Knight,  R.,  and  Safran, R. J. (2016). Stress response, gut microbial diversity and sexual signals correlate with social interactions. Biol. Lett. 12, 20160352-20160354. doi: 
+Ley, R. E., Hamady, M., Lozupone, C., Turnbaugh, P. J., Ramey, R. R., Bircher,
+J. S., et al. (2008). Evolution of mammals and their gut microbes. Science 320, 1647-1651. doi: 
+Ley, R. E., Peterson, D. A., and Gordon, J. I. (2006). Ecological and Evolutionary forces shaping microbial diversity in the human intestine. Cell 124, 837-848. doi: 
+Liang, X., Bushman, F. D., and FitzGerald, G. A. (2015). Rhythmicity of the intestinal microbiota is regulated by gender and the host circadian clock. Proc. Natl. Acad. Sci. U.S.A. 112, 10479-10484. doi: 
+Locey, K. J., and  Lennon,  J.  T.  (2016).  Scaling  laws  predict  global  microbial  diversity.  Proc.  Natl.  Acad.  Sci.   U.S.A.   113,   5970-5975.   doi: 
+Loudon, A. H., Woodhams, D. C., Parfrey, L. W., Archer, H., Knight, R., McKenzie, V., et al. (2013). Microbial community dynamics and effect of environmental microbial reservoirs on red-backed salamanders (Plethodon cinereus). ISME J. 8, 830-840. doi: 
+Lozupone, C. A., Stombaugh, J. I., Gordon, J. I., Jansson, J. K., and Knight, R. (2012). Diversity, stability and resilience of the human gut microbiota. Nature 489, 220-230. doi: 
+Lozupone, C., and Knight, R. (2005). UniFrac: a new phylogenetic method for comparing microbial communities. Appl. Environ. Microbiol. 71, 8228-8235. doi: 
+Mainwaring, M. C., Hartley, I. R., Lambrechts, M. M., and Deeming, D. C. (2014). The design and function of birds' nests. Ecol. Evol. 4, 3909-3928. doi: 
+Martinez-Garcia, A., Martin-Vivaldi, M., Rodriguez-Ruano, S. M., Peralta- Sanchez, J. M., Valdivia, E., and Soler, J. J. (2016). Nest bacterial environment affects microbiome of hoopoe eggshells, but not that of the uropygial secretion. PLoS ONE 11:e0158158. doi: 
+Martin-Vivaldi, M., Soler, J. J., Peralta-Sanchez, J. M., Arco, L., Martin-Platero, A. M., Martinez-Bueno, M., et al. (2014). Special structures of hoopoe eggshells enhance the adhesion of symbiont-carrying uropygial secretion that increase 
+Matsui, H., Kato, Y., Chikaraishi, T., Moritani, M., Ban-Tokuda, T., and Wakita,
+M. (2010). Microbial diversity in ostrich ceca as revealed by 16S ribosomal RNA gene clone library and detection of novel Fibrobacter species. Anaerobe 16, 83-93. doi: 
+Mazmanian, S. K., Liu, C. H., Tzianabos, A. O., and Kasper, D. L. (2005). An immunomodulatory molecule of symbiotic bacteria directs maturation of the host immune system. Cell 122, 107-118. doi: 
+Metcalf, J. L., Xu, Z. Z., Weiss, S., Lax, S., Van  Treuren, W., Hyde, E. R.,         et al. (2016). Microbial community assembly and metabolic function during 
+
+Kreisinger, J.,
+
+CVizkova,    D.,    KropacVkova,    L.,    and    Albrecht,    T.    (2015).
+
+
+
+Cloacal  microbiome  structure  in  a  long-distance   migratory   bird   assessed using deep 16sRNA pyrosequencing. PLoS  ONE  10:e0137401.  doi: 
+
+Moeller, A. H., Caro-Quintero, A., Mjungu, D., Georgiev, A. V., Lonsdorf, E. V., Muller, M. N., et al. (2016). Cospeciation of gut microbiota with hominids. Science 353, 380-382. doi: 
+
+
+
+Moller, A. P., Czirjak, G. A., and Heeb, P. (2009). Feather micro-organisms and uropygial antimicrobial defences in a colonial passerine bird. Funct. Ecol. 23, 1097-1102. doi: 
+Moodley, Y., Linz, B., Bond, R. P., Nieuwoudt, M., Soodyall, H., Schlebusch, C. M., et al. (2012). Age of the association between Helicobacter pylori and man. PLoS Pathog. 8:e1002693. doi: 
+Oulas, A., Pavloudi, C., Polymenakou, P., Pavlopoulos, G. A., Papanikolaou, N., Kotoulas, G., et al. (2015). Metagenomics: tools and insights for analyzing next- generation sequencing data derived from biodiversity studies. Bioinform. Biol. Insights 9, 75-88. doi: 
+Peralta-Sanchez, J. M., Moller, A. P., Martin-Platero, A. M., and Soler, J. J. (2010). Number and colour composition of nest lining feathers predict eggshell bacterial community in barn swallow nests: an experimental study. Funct. Ecol. 24, 426-433. doi: 
+Petersen, J. M., Ramette,  A.,  Lott,  C.,  Cambon-Bonavita,  M.-A.,  Zbinden,  M., and Dubilier, N. (2010). Dual symbiosis of the vent shrimp Rimicaris exoculata with filamentous gamma- and epsilonproteobacteria at four Mid- Atlantic Ridge hydrothermal vent fields. Environ. Microbiol. 12, 2204-2218. doi: 
+Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K. S., Manichanh, C., et al. (2010). A human gut microbial gene catalogue established by metagenomic sequencing. Nature 464, 59-65. doi: 
+Rodriguez-Ruano, S. M., Martin-Vivaldi, M., Martin-Platero, A. M., Lopez- Lopez, J. P., Peralta-Sanchez, J. M., Ruiz-Rodriguez, M., et al. (2015). The hoopoe's uropygial gland hosts a bacterial community influenced by the living 
+Roggenbuck, M., Schnell, I. B., Blom, N., Baelum, J., Bertelsen, M. F., Sicheritz- Ponten, T., et al. (2014). The microbiome of New World vultures. Nat. Commun. 5:5498. doi: 
+Ruiz-Castellano, C., Tomas, G., Ruiz-Rodriguez, M., Martin-Galvez, D., and Soler,
+J. J. (2016). Nest material shapes eggs bacterial environment. PLoS ONE
+11:e0148894. doi: 
+Ruiz-Rodriguez, M., Valdivia, E., Soler, J. J., Martin-Vivaldi, M., Martin-Platero, A. M., and Martinez-Bueno, M. (2009). Symbiotic bacteria living in the hoopoe's uropygial gland prevent feather degradation. J. Exp. Biol. 212, 3621-3626. doi: 
+Saag, P., Tilgar, V., Mand, R., Kilgas, P., and Magi, M. (2011). Plumage bacterial assemblages in a breeding wild passerine: relationships with ecological factors 
+Sangwan, N., Xia, F., and Gilbert, J. A.  (2016).  Recovering  complete  and  draft population genomes  from  metagenome  datasets.  Microbiome  4:8.  doi: 
+Schloss, P. D., Girard, R. A., Martin, T., Edwards, J., and Thrash, J. C. (2016). Status of the archaeal and bacterial census: an update. MBio 7, e00201-e00216. doi: 
+Schloss, P. D., Westcott, S. L., Ryabin, T., Hall,  J.  R.,  Hartmann,  M.,  Hollister, E. B., et al. (2009). Introducing mothur: open-source, platform- independent, community-supported software for describing and comparing microbial   communities.   Appl.   Environ.   Microbiol.   75,    7537-7541. doi: 
+Scupham, A. J., Patton, T. G., Bent, E., and Bayles, D. O. (2008). Comparison of the cecal microbiota of domestic and wild turkeys. Microb. Ecol. 56, 322-331. doi: 
+Sender, R., Fuchs, S.,  and  Milo,  R.  (2016).  Revised  estimates  for  the  number of human and bacteria cells in the body. PLoS Biol. 14:e1002533.  doi: 
+Sharon, G., Segal, D., Ringo, J. M., Hefetz, A., Zilber-Rosenberg, I., and Rosenberg, E. (2010). Commensal bacteria play a role in mating preference  of Drosophila melanogaster. Proc. Natl. Acad. Sci. U.S.A. 107, 20051-20056. doi: 
+Shawkey, M. D., Firestone, M. K., Brodie, E. L., and Beissinger, S. R. (2009). Avian incubation inhibits growth and diversification of bacterial assemblages on eggs. PLoS ONE 4:e4522. doi: 
+
+Soler, J. J., Martin-Vivaldi, M., Peralta-Sanchez, J. M., Arco, L., and Juarez-Garcia- Pelayo, N. (2014). Hoopoes color their eggs with antimicrobial uropygial secretions. Naturwissenschaften 101, 697-705. doi:  Soler, J. J., Peralta-Sanchez, J. M., Martin-Platero, A. M., Martin-Vivaldi, M., Martinez-Bueno, M., and Moller, A. P. (2012). The evolution of size of the uropygial gland: mutualistic feather mites and uropygial secretion reduce bacterial loads of eggshells and hatching failures of European birds. J. Evol. Biol.
+25, 1779-1791. doi: 
+Sommer, M. O., Dantas, G., and Church, G. M. (2009). Functional characterization of the antibiotic resistance reservoir in the human microflora. Science 325, 1128-1131. doi: 
+Song, S. J., Amir, A., Metcalf,  J.  L.,  Amato,  K.  R.,  Xu,  Z.  Z.,  Humphrey, G., et al. (2016).  Preservation  methods  differ  in  fecal  microbiome  stability, affecting suitability for field studies. mSystems 1, e00021-e00016. doi: 
+Stevens, C. E., and Hume, I. D. (1995). Comparative Physiology of the Vertebrate Digestive System, 2nd Edn. New York, NY: Cambridge University Press.
+Turnbaugh, P. J., Ley, R. E., Mahowald, M. A., Magrini, V., Mardis, E. R., and Gordon, J. I. (2006). An obesity-associated gut microbiome with increased capacity for energy harvest. Nature 444, 1027-1031. doi: 
+Tyson, G. W., Chapman, J., Hugenholtz, P., Allen, E. E., Ram, R. J.,  Richardson, P. M., et al. (2004). Community structure and metabolism through reconstruction of microbial genomes from the environment. Nature 428, 37-43. doi: 
+Uenishi, G., Fujita, S., Ohashi, G., Kato, A., Yamauchi, S., Matsuzawa, T., et al. (2007). Molecular analyses of the intestinal microbiota of chimpanzees in the wild and in captivity. Am. J. Primatol. 69, 367-376. doi: 
+van der Waaij, D. (1989). The ecology of the human intestine and its consequences for overgrowth by pathogens such as Clostridium difficile. Annu. Rev. Microbial. 43, 69-87. doi: 
+Vass, A. A. (2001). Beyond the grave-understanding human decomposition. Microbiol. Today 28, 190-193. Available online at:  
+Walther, B. A., and Clayton, D. H. (2005). Elaborate ornaments are costly to maintain: evidence for high maintenance handicaps. Behav. Ecol. 16, 89-95. doi: 
+Wang, W., Zheng, S., Sharshov, K., Cao, J., Sun, H., Yang, F., et al. (2016). Distinctive gut microbial  community  structure  in  both  the  wild  and farmed Swan goose (Anser cygnoides). J. Basic Microbiol. 56, 1299-1307. doi: 
+White, J., Mirleau, P., Danchin, E., Mulard, H., Hatch, S. A., Heeb, P., et al. (2010). Sexually transmitted bacteria affect female cloacal assemblages in a wild bird. Ecol. Lett. 13, 1515-1524. doi: 
+Wienemann, T., Schmitt-Wagner, D., Meuser, K., Segelbacher, G., Schink, B., Brune, A., et al. (2011). The bacterial microbiota in the ceca of Capercaillie (Tetrao urogallus) differs between wild and captive birds. Syst. Appl. Microbiol. 34, 542-551. doi: 
+Wright,  A.  D.,  Northwood,  K.  S.,  and  Obispo,  N.  E.  (2009).  Rumen-     like methanogens identified from the crop of  the  folivorous  South  American bird, the hoatzin (Opisthocomus hoazin). ISME J. 3, 1120-1126. doi: 
+Zarraonaindia, I., Smith, D. P., and Gilbert, J. A. (2013). Beyond the genome: community-level analysis of the microbial world. Biol. Philos. 28, 261-282. doi: 
+
+Conflict of Interest Statement: The author declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Copyright (c) 2017 Hird. This is an open-access article distributed under the terms of the     . The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.

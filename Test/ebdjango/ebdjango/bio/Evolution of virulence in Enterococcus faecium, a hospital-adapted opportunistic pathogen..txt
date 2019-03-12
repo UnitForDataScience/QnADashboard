@@ -1,0 +1,368 @@
+Available online at 
+ScienceDirect
+
+
+Evolution of virulence in Enterococcus faecium, a hospital-adapted opportunistic pathogen
+Wei Gao, Benjamin P Howden3 1
+
+
+
+Enterococci are long-standing members of the human microbiome and they are also widely distributed in nature. However, with the surge of antibiotic-resistance in recent decades, two enterococcal species (Enterococcus faecalis and Enterococcus faecium) have emerged to become significant nosocomial pathogens, acquiring extensive antibiotic resistance. In this review, we summarize what is known about the evolution of virulence in E. faecium, highlighting a specific clone of E. faecium called ST796 that has emerged recently and spread globally.
+
+
+Addresses
+1 Department of Microbiology and Immunology, The Doherty Institute for Infection and Immunity, University of Melbourne, Victoria 3010, Australia 2 Microbiological Diagnostic Unit Public Health Laboratory, Department of Microbiology and Immunology, The Doherty Institute for Infection and Immunity, University of Melbourne, Victoria 3010, Australia
+3 Infectious Diseases Department, Austin Health, Heidelberg, Victoria
+3084, Australia
+
+Corresponding author: Stinear, Timothy P ()
+
+
+
+Introduction
+Enterococci are predominantly non-pathogenic human gastrointestinal commensal bacteria in humans and other animals []. However, since the 1980s two distinct species in the genus, Enterococcus faecalis and Enterococcus faecium, have become recognised as among the most commonly isolated Gram-positive nosocomial pathogens in health- care  settings  all  over  the  world  [].  The  intrinsic antibiotic resistance of these healthcare-associated enterococci and their capacity to rapidly acquire addi- tional antibiotic resistance makes infections very difficult to treat and they thus pose a substantial infection control burden []. Until recently, E. faecalis was responsible for the majority of enterococcal infections, however, infec- tions caused by E. faecium have been increasing and
+
+currently account for around 40% of all enterococcal infections []. Since the first descriptions of vancomy- cin resistant enterococci (VRE) in 1986, research has shown that outbreak-related enterococci have acquired tailored repertoires of genes that are not usually present in commensal or environmental strains, and likely allow these enterococci to persist within hospital environments.
+
+These factors -- best studied within E. faecalis because of the historical dominance of this species -- and grouped under the umbrella term 'virulence factors' include secreted toxins, bacterial cell surface molecules, stress response proteins, transport systems and specific gene regulators. This review focuses attention on what is known about the virulence factors acquired by the spe- cific healthcare-associated lineages of E. faecium which have been experimentally tested, particularly those fac- tors related to gastrointestinal colonization; a key first step along the path to invasive disease.
+
+faecium genomics and population structure Enterococci have been co-evolving with their hosts for hundreds  of  millions  of  years  [ mics of the enterococci has laid out a likely evolutionary trajectory, showing that E. faecalis and E. faecium inde- pendently emerged, primarily via gene attainment events through  mobile  elements  [].  It  has  been  pro- posed that hospital adapted enterococci may have an enhanced capacity to survive extreme conditions com- pared to extant members of the genus that have main- tained a predicted ancestral state. In support of this idea,
+E. faecium specifically has a prominent starvation toler- ance phenotype among, pointing to specific adaptions in this species that help explain its environmental persis- tence  in  health  care  settings  [ afforded by genomics has revealed two distinct E. faecium populations called 'clade A' and 'clade B'. Clade B was initially thought to represent predominantly community- associated E. faecium [], but the discovery of clinical isolates within this lineage are challenging that view [ lineages, where clade A1 is composed of human clinical strains and clade A2 represents animal-derived strains. Clade A1 is also referred to as clonal complex 17 (CC17), a multi-locus sequence type designation that predates the genome-based phylogenetic assignments. Clade A1 iso- lates are normally ampicillin resistant and quinolone resistant and show a higher frequency of spontaneous mutation compared to clades A2 and B1 []. Clade A1 have seem to have larger overall genomes than isolates in
+
+
+
+
+
+the A2 and B lineages including higher number of mobile genetic elements, harbouring putative pathogenicity islands, with genes encoding membrane proteins, antibi- otic resistance and regulatory genes []. These genomic differences point to the distinct evolutionary pathway of clade A1. The split between clades A1 and A2 is estimated to have occurred in the last 76 years ( 30 years), a timeframe that overlaps the introduction of antibiotics into clinical medicine []. However, our view of E. faecium population structure is being reshaped. Recent genomic assessments of longitudinal collections of E. faecium from UK and Ireland do not support discrete A1  and  A2  subclades  [ better represent population genetic diversity are required to resolve these discrepancies and establish its recent evolutionary origins.
+
+Transmission and spread of health care-associated clade A1 (CC17) E. faecium is increasing worldwide [ Several retrospective longitudinal studies have indepen- dently revealed how new health care-associated clones rapidly emerge, often arising by intra-genus recombina- tion and displacing existing E. faecium clones []. Focused examination of a recently emerged E. faecium clone in Australia underscores the propensity of clade A1 members to mutate. E. faecium ST796 was previously unknown before 2011 []. However, by 2015 this clone was responsible for more than half of all VRE bacteraemia episodes    in    Australia    [ revealed E. faecium ST796 evolved from an ST17 ancestor by acquisition of two genomic islands, extensive plasmid and phage activity, chromosomal recombination events, and a small number of single nucleotide chromosome mutations. Gene function predictions suggested carbohy- drate utilization was an important phenotypic gain for this new clone [ struct transmission pathways of E. faecium within health- care institutions, revealing the extent to which hospital- adapted clones of vancomycin resistant E. faecium (VREfm) can be spread between patients [
+
+Evolution of vancomycin resistance
+This genomic expansion within E. faecium has most notably included accumulation of genes conferring resis- tance to various antibiotic classes, including beta-lactams [], aminoglycosides, fluoroquinolones and glycopep- tides []. Research efforts have largely focused on asses- sing the spread of vancomycin resistance genes due to the clinical significance of VRE infections. The vanA and vanB genes encode related D-Ala-D-Lac ligases and they confer high-level resistance to glycopeptide antibiotics []. However, vanA and vanB loci are regulated differ- ently. Vancomycin exposure induces expression of both the vanA and vanB gene clusters, while only the vanA gene cluster responds after exposure to teicoplanin []. The transfer of both vanA and vanB is facilitated by plasmid transfer or by transposon integration [].
+
+The vanB operon is known to be harboured by gastroin- testinal tract commensal anerobic bacteria []. A medical subject headings (MeSH) search study concluded the Tn1546-vanA was located on different plasmids (pRUM/Axe-Txe for USA strains and Inc18-pIP186 for European strains), while a recent Australian vanA VREfm study showed Tn1546 like-vanA can be plasmid-inde- pendent []. The vanB locus is predominantly car- ried on Tn5382 or Tn1549, on the chromosome or on plasmids [ leading to a more nuanced understanding of van gene transmission, with a proportion of VRE also arising de novo within a patient, whereby commensal anaerobic gut bac- teria are probable donors of the Tn1549 vancomycin resistance transposon to resident (or recently acquired) colonizing  E.  faecium  [ Tn1549-vanB is likely gained de novo and in situ by horizontal gene transfer in the human gastrointestinal tract, and explains the appearance and spread of VREfm in hospitals [ onstrated Tn1549-vanB involved in large-fragment hori- zontal exchange between hospital associated E. faecium strains [ position among strains, recombination across regions of homology between donor and recipient chromosomes has also been observed [
+
+E. faecium virulence factors
+Secreted virulence factors
+Cyl is a cytolysin (haemolysin), and was one of the earliest virulence factors identified in both E. faecalis and E. faecium []. The secretion of cytolysin damages host cell membranes and facilitates infection. Gelatinase, encoded by the gelE gene, is a member of the matrix metallopro- teinase family extracellular zinc-endopeptidase that hydrolyses gelatin, collagen, and other small peptides []. GelE has been shown to inhibit complement-medi- ated immune responses []. Cytolysin and GelE have been best studied in E. faecalis, but PCR screening has not shown their widespread presence among clinical E. faecium lineages, with the exception of some clinical and screening isolates reported from Australia [] and Spain []. SagA is a 75 kDa protein and major secreted antigen showing broad-spectrum binding to extracellular matrix (ECM) proteins, and is likely critical for cell growth, stress activation and it might play a role in cell wall metabo- lism []. SagA with specific repeat region in clade A1 strains is reported to contribute to biofilm formation, but not the SagA in clade B [ variation has an important functional consequence. Anti- bodies specifically raised against purified E. faecium SagA have opsonic killing activities again E. faecium, suggesting that SagA might be a good vaccine candidate []. SagA is the  only  'virulence  factor'  known   to  be  specific  for
+E. faecium. Hylefm (initially mistakenly identified as hyal- uronidase) is a 'Family 84' glycosyl hydrolase, and is likely   to   have   b-N-acetylglucosaminidase   activity,
+
+
+
+
+
+without directly contributing to E. faecium colonization []. The hyl gene resides within a 20 kb chromosomal segment, flanked by copies of IS1476 [], and in some E. faecium strains is plasmid-linked []. The protein Hylefm has no impact to the E. faecium colonization, however the isolates possess the plasmid carrying the gene hylefm showing higher bacteria loads during colonization. It suggests potential virulence factors are carried in the plasmids containing hylefm, and hylefm could be served as a marker for virulence factors contributing in colonization ().
+
+Cell surface associated virulence factors
+Enterococci have a complex array of cell surface compo- nents, many involved in colonization and thus required for virulence. These factors are generally associated with resisting phagocytosis, promoting biofilm formation and host or surface adhesion. Membrane structures including lipoteichoic acid (LTA), wall teichoic acid (WTA) and capsular polysaccharides (Cps) are critical immunogenic components of the Gram-positive bacterial cell wall sur- face []. D-Alanine esters of LTA, generated by D- alanine poly ligase (encoded by the dlt operon), in partic- ular contribute to E. faecium biofilm formation and increased susceptibility to antimicrobial peptides []. WTA is associated with protecting E. faecium from com- plement-mediated killing by neutrophils []. Enterococ- cus capsule structures are major virulence factors involved in biofilm formation and evasion of neutrophil killing [ ]. The LPxTG-type surface anchored proteins of E. faecium, including Esp, Acm, Scm, SgrA and EcbA are also important virulence determinants. A total of 24 cell wall anchored LPxTG proteins have been identified [ including nine surface exposed LPxTG proteins (Esp, SgrA, Fms3, Fms6, Fms7, Fms12, Fms22, Orf773 and Orf2109) and 15 microbial surface proteins with charac- teristics of microbial surface components recognizing adhesive matrix molecules (MSCRAMMs) and/or four pili gene clusters (PGC) []. Overall, LPxTG proteins have higher prevalence in Clade A1 isolates than non-A1 isolates. The genes sgrA, ecbA, orf903, orf905(empB) and orf907(Bee3) are significantly enriched in CC17 strains []. Among the LPxTG-containing proteins, four (Acm, Scm, EcbA and Fms15) have been experimentally con- firmed as adhesins, and eleven proteins belong to PGCs: PilA (Fms20-Fms21), PilB (EmpA-EmpB-EmpC), Fms14-Fms17-Fms13 (PGC-2 proteins) and Fms11- Fms19-Fms16 encoded by PGC-4. Acm [] and Esp contribute to initial cell adhesion and have been shown to contribute to pathogenesis in experimental endocarditis. Esp is a large 202 kDa cell surface protein and contrib- utes to the pathogenesis of ascending urinary tract infec- tions (UTI) by significantly increasing urethral cell colo- nization and UTI persistence []. Esp also enhances biofilm formation in the presence of glucose and attach- ment to silicon based surfaces []. Esp is the most widespread virulence factor in clinical E. faecium strains
+
+including CC17 []. EcbA, SgrA and Scm interact with different extracellular matrix components, and they are associated with biofilm formation and cell surface bindings. Pili are filamentous protein surface structures also contributing to virulence. There are two types of pili in E. faecium, PilA and PilB []. The pilB gene is also known as empC/ebpCfm and belongs to the empABC/ ebpABCfm operon []. It augments the formation of biofilms and adherence to extracellular matrix proteins, contributing to primary cell attachment and infection in UTI []. Clinical E. faecium PilA-type pilus structures are assembled from PilA backbone and PilF tip at 37oC. Interestingly, the non-health care-associated E. faecium strains express PilA, PilE and PilF as cell wall-anchored proteins without forming pilus structures, suggesting that the assembly difference is due to a complex post tran- scriptional regulatory mechanism []. A longitudinal study showed a significantly higher prevalence of the surface virulence factors (Esp, Acm, Scm, EcbA, Pili and SgrA) among the outbreak ST78 clinical VREfm strains from August 2008 to May 2013 []. PrpA is a recently reported peptidoglycan-anchored surface protein in E. faecium which is thermosensitive, significantly upre- gulated at 37oC compared to 25oC. Its N-terminus is able to bind to fibrinogen, fibronectin and platelets. PrpA is proposed to contribute to colonization and infection [].
+
+
+PTS as virulence factors
+Clade A1 is characterised by accumulation of antibiotic resistance genes, but genes with other functions are also selectively enriched in this lineage. Most notable are phosphotransferase system (PTS). PTS are transmem- brane proteins that phosphorylate specific carbohydrates and translocate them across the bacterial cell membrane. Some PTS have been reported to be enriched in clinical strains and associated with bacterial virulence in various species, including E. faecium [ involved in enterococcal stress responses []. These loci are likely playing multiple roles in adaptation of E. faecium to health care settings []. A putative PTS named PTSclin facilitates E. faecium colonizing the murine intestinal tract during antibiotic treatment, however the mechanism of action is still unknown []. PTSclin is widespread in clinical strains but absent from human commensal isolates []. BepA is a permease within another putative PTS, found by genome-wide screening [ serum and pathogenesis of endocarditis [ systems were reported significantly downregulated after daptomycin exposure, however the phenotypic conse- quence of these expression changes await experimental investigation []. Interestingly, a recent functional geno- mic study identified a mannitol-specific PTS important for E. faecium growth in the presence of serum, and a mutant in this locus was impaired for virulence in a zebrafish model of systemic infection [
+
+
+
+
+Figure 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary of E. faecium virulence factors.
+
+
+
+
+
+Outlook
+E. faecium has an extraordinarily flexible genome that enables rapid adaption of the pathogen to its changing environment. The acquisition of van gene operons is an evolutionary response to sustained antibiotic exposure in healthcare settings and the wider community. Besides development of resistance, the accumulation of virulence factors in clinical E. faecium likely reflects the presence of various selection pressures in addition to antibiotic expo- sure. E. faecium virulence factors are poorly understood, and the transmission and accumulation of these factors (other than antibiotic resistant genes) have been barely
+
+Functional and comparative genomics of the enterococci, proposing key evolutionary adaptations that have led to the emergence of pathogens in the genus.
+
+
+
+
+
+studied. There are thus many questions that need to be answered. Continued genetic studies, development of
+better E.  faecium-specific molecular  tools  for assessing
+
+
+..
+
+
+  
+
+gene function and long-term surveillance of clinical asso- ciated E. faecium isolates will all be important to under- stand the evolution and emergence of this nosocomial pathogen.
+
+Acknowledgements
+This work was supported by funding the Australian National Health and Medical Research Council (1008549 to TPS and 1105905 to BPH).
+
+References and recommended reading
+Papers of particular interest, published within the period of review,
+
+Large comparative genomic study, revealing unexpected genomic diver-
+sity among clinical E. faecium isolates.
+
+
+
+
+
+have been highlighted as:
+
+of special interest
+.. of outstanding interest
+
+
+17.
+.
+
+   
+
+
+
+
+
+Excellent review of E. faecalis and E. faecium, summarizing the emer- gence of these two species as nosocomial pathogens.
+
+
+
+
+
+
+
+Global assessment of vancomycin resistant E. faecium population struc-
+ture and spread.
+
+
+
+
+
+
+
+
+
+
+
+
+
+23.
+.
+
+
+   
+
+
+
+Comparative genomic dissection of an emergent clone of E. faecium.
+
+
+
+
+
+
+
+
+
+25.
+..
+
+ 
+
+ 
+
+40.
+.
+
+     
+
+
+
+
+Genomic approach to deconstruct the different routes of transmission of vancomycin resistant E. faecium, supporting and expanding understand- ing from earlier studies.
+
+
+
+
+
+
+
+
+
+
+
+Functional analysis of an E. faecium virulence factor, showing allele specificity within clade A1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.
+.
+
+
+    
+
+
+
+
+Comparative genomic study, exploring the pathways for emergence of antibiotic resistance in E. faecium.
+
+ 
+
+32.
+.
+
+   
+
+
+  
+
+
+Study showing the role of recombination as a mechanism for spread of antibiotic resistance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+52.
+..
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Timely summary of virulence factor distribution as assessed by a large PCR screening effort targeting 38 loci among 328 E. faecium isolates across the different lineages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+69.
+..
+
+     
+
+
+
+
+
+
+Nice example of functional genomic approach to identify factors impor-
+tant for pathogenesis in E. faecium.
+
+
+
+
+
+
+
+  
+65. 
+
+73.
+.
+
+    
+
+
+  
+
+A comprehensive 'omic approach to dissect pathways important for the ability of E. faecium to cause invasive disease, includes application of a novel Zebra fish model of systemic disease.

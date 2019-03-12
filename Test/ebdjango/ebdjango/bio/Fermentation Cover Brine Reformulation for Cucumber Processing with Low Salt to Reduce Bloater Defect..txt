@@ -1,0 +1,443 @@
+Fermentation Cover Brine Reformulation
+for Cucumber Processing with Low Salt to Reduce Bloater Defect
+Y. Zhai and I. M. Pe'rez-D'iaz
+
+
+Abstract: Reformulation of calcium chloride (CaCl2) cover brine for cucumber fermentation was explored as a mean to minimize the incidence of bloater defect. This study particularly focused on cover brine supplementation with calcium hydroxide (Ca[OH]2), sodium chloride (NaCl), and acids to enhance buffer capacity, inhibit the indigenous carbon dioxide (CO2)- producing microbiota, and decrease the solubility of the gas. The influence of the cover brine formulations tested, on the cucumber fermentation microbiota, biochemistry, CO2 production, and bloating defect  was studied using metagenetics, HPLC analysis, a portable gas analyzer and bloater index, respectively. Cover brine supplementation with Ca(OH)2 and acetic acid resulted in complete fermentations with final pH values 0.5 units higher than the un-supplemented control. Lactic acid production increased by approximately 22%, possibly inducing the observed reduction in the relative abundance of Enterobacteriaceae by 92%. Ca(OH)2 supplementation also resulted in an increased relative abundance of Leuconostocaceae by 7%, which likely contributed to the observed increment in CO2 levels by 25%. A 50% reduction on acetic acid formation was detected when cover brines were supplemented with Ca(OH)2 and 690 mM (4%) NaCl. No significant difference was observed in bloater index as the result of Ca(OH)2 or NaCl supplementation in cover brines, given that the CO2 levels remained at above the 20 mg/100 mL needed to induce the defect. It is concluded that the modified cover brine formulation containing Ca(OH)2 and NaCl enables the complete conversion of sugars, decreases production of CO2 and levels of Enterobacteriaceae, but insignificantly reduces bloater index.
+Keywords: brine acidification, brine reformulation, buffering capacity, cucumber bloater, cucumber fermentation, lacto- bacilli
+
+Practical Application: A cucumber fermentation cover brine containing Ca(OH)2, 0.26% CaCl2, 345 mM (2%) NaCl, and acetic acid to pH 4.7 has a functional combination of ingredients enabling a complete conversion of sugars to lactic acid with reduced production of acetic acid and CO2. It represents a process ready cover brine formulation with the potential to allow the manufacture of cucumber pickles with low salt, enhanced food safety, and reduce environmental impact and water usage. Pilot commercial scale cucumber fermentations brined with such ingredients are to reveal the efficacy of this process ready formulation in the presence of oxygen from air in tanks, as opposed to 3.8 L (1-US gal) closed jars in the laboratory.
+
+
+
+Introduction
+Bloater defect occurring in cucumber fermentations leads to significant yield and economic losses for the pickling industry in the United States (Fleming and others 1973b). Cucumber bloater defect has been demonstrated to result from the production of carbon dioxide (CO2) in cover brines, which diffuses into the cu- cumber tissue from the surrounding solution forming hollow cav- ities in the endocarp and seed cavities of cucumbers (Etchells and
+
+others 1968; Fleming and others 1973b). Production of CO2 in cucumber fermentations is known to be mostly derived from mi- crobial activity and tissue respiration (Fleming and others 1973b). It is reported that about 20 mg of CO2 / 100 mL of cover brine is required for the initiation of hollow cavities formation in ferment- ing cucumbers (Fleming and others 1973a). Larger size cucumbers, especially 3B (5.1 to 5.7 cm dia.) are known to suffer more bloat- ing as compared to smaller size cucumbers (less than 3.8 cm dia; Fleming and others 1973a). Table 1 illustrates the variation in the
+
+ 	   degree of damage resulting from bloating defect fluctuating from
+
+JFDS-2017-1112 Submitted 7/10/2017, Accepted 9/12/2017. Author Zhai is with Dept. of Food, Bioprocessing and Nutrition Sciences, North Carolina State Univ., 322 Schaub Hall, Box 7624, Raleigh, North Carolina 27695-7624, U.S.A. Author Pe'rez-D'iaz is with U.S. Dept. of Agriculture, Agricultural Research Service, SAA Food Science Research Unit, North Carolina State Univ., 322 Schaub Hall, Box 7624, Raleigh, North Carolina 27695-7624, U.S.A. Direct inquiries to author Pe'rez-D'iaz (E-mail: IlenysM.Perez-Diaz@ars.usda.gov).
+
+Mention of a trademark or proprietary product does not constitute a guarantee or warranty of the product by the U.S. Dept. of Agriculture (USDA) or North Carolina Agricultural Research Service, nor does it imply approval to the exclusion of other products that may be suitable. USDA is an equal opportunity provider and employer.
+
+
+xC 2017 Institute of Food TechnologistsxR
+
+slight and medium to severe, and the types of tissue disruption, which are described as honeycomb, lens, and balloon (Wehner and Fleming 1984).
+Inclusion of a base, such as calcium hydroxide Ca(OH)2, in cucumber fermentation cover brines has been suggested to act in concert with acidification to reduce the numbers of the in- digenous microbiota, in particular the Enterobacteriaceae, able to contribute to CO2 production (McDonald and others 1991). Ca(OH)2 is frequently added in cover brines containing vinegar in enough amounts to produce 0.133 M calcium acetate in solu- tion, so that buffering capacity is enhanced, along with lactic acid
+
+
+*
+
+Table 1-Definition of bloater damage type and weight damage value  (WDV)  used in  this study: description of  slight, medium,  and severe bloater damage and weight damage values (WDV) corresponding to each bloater type, as used for the calculation of bloater index in this study.
+Bloater category	Slight	Medium	Severe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1-Schematic representation of the experimental approach taken in this study.
+
+
+production. Comparatively higher levels of acid production in the presence of a buffer is speculated to result in the more effective inhibition of undesired microbes. Lactic acid has been found to serve as an effective antimicrobial against Escherichia coli O157:H7 in relatively low concentrations as compared to acetic acid in cu- cumber fermentations (Breidt and Caldwell 2011; Lu and others 2011).
+Supplementation of low salt cucumber fermentation in a bag- in-box system with Ca(OH)2 enhanced buffering capacity, as ev- idence by a higher final pH, and enabled the complete utilization of the sugars naturally present in the fruits (McFeeters and others 2002). Cucumber fermentations supplemented with calcium ac- etate also result in pickles with enhanced texture, given the role of calcium as a firming agent (Fleming and others 1978).
+Acidification of cucumber fermentation cover brines, not only helps suppressed the indigenous microbiota, but also reduces the levels of dissolved CO2 (Fleming 1984; McDonald and others 1991). Lower initial pH in cucumber fermentations, achievable by acidification, enables the presence of more HCO3- species as compared to pH values above 5.2. The deriving gaseous form of CO2 is, thus, more readily available for removal by the air purging typically applied in the commercial process at the more acidic pH (Fleming and others 1973b; Greenwood and Earnshaw 1997).
+Sodium chloride (NaCl) in fermentation cover brines influ- ences the solubility of CO2 and thus bloater index (Fleming and others 1973a, 1975, 1979). More gaseous CO2 evolves from fer- mentations brined with NaCl to 40% and 60% saturation than  in those saturated to 20% and 30% (Veldhuis and Etchells 1939).
+
+The sodium salt is also known to significantly reduce fermented cucumber spoilage caused by Lactobacillus buchneri and other in- digenous microbiota if added to 6% in combination with a pH of 3.2 (Johanningsmeier and others 2012). In addition, NaCl is mainly used in cucumber fermentations to inhibit the undesired microbiota and indirectly select for lactic acid bacteria, the central microbes in sugar conversion to organic acids.
+This study intended to define a functional combination of buffer capacity, salt content, and acid in cover brines, so that bloater in- dex is minimized in the newly developed cucumber fermentation system brined with 100 mM CaCl2 and 6 mM potassium sor- bate  instead  of  1.03  M  NaCl  (McFeeters  and  Pe'rez-D'iaz  2010; Pe'rez-D'iaz and others 2015). Although cucumber fermentations brined with CaCl2 are more environmentally benign as compared to the traditional system brined with NaCl, a higher incidence of bloating has been associated with it, in particular, when size 3A and 3B cucumbers are brined (McMurtrie 2016; Zhai and others 2017). Zhai and others (2017) determined that the use of an al- lochthonous malic acid decarboxylase-deficient starter culture in acidified NaCl free cucumber fermentations brined with CaCl2 reduces bloater index, but an incomplete conversion of sugars oc- curs. Thus, the main goal of this study was to achieve a complete cucumber homofermentation with reduced CO2 production and bloater incidence. The approach taken for experimentation is de- scribed in Figure 1. Preservation of cucumbers by acidification was used as a tool to evaluate the concentrations of CO2 in a headspace in the absence of fermentation, mostly contributed by tissue respiration, as a function of acid type. This 1st step essen-
+
+tially defined the contribution of CO2 from sources other than fermentation, which was found to be negligible, justifying the focus of the study on fermentation as the main source of the gas. We used a carbonated water system to test the effectiveness of 3 food grade acids, NaCl and Ca(OH)2, potential ingredients in the cover brine, in liberating dissolved CO2 to a headspace. Acidified laboratory scale cucumber fermentations brined with CaCl2 and potassium sorbate supplemented with either lactic or acetic acid, Ca(OH)2, NaCl or combinations thereof were evaluated for com- pleteness of sugar conversion, final pH, lactobacilli counts, CO2 production and bloater index. The impact of the most effective combination of supplements in cucumber fermentation brines to reduce bloater index on the indigenous microbiota was also eval- uated using metagenetics.
+
+Materials and Methods
+Monitoring tissue respiration in acidified cucumbers without fermentation
+A cucumber preservation method by acidification developed by Pe'rez-D'iaz and McFeeters (2008) was applied to determine the amount of CO2 formed from respiration of the vegetative tissue after brining. In such a preservation system, 12 mM sodium ben- zoate acts as a microbial growth inhibitor, when combined with acetic acid at pH 3.5 at 30 degC. Concentrated acetic (stock concen- tration: 20%, 3.33M), lactic (85%, 9.44M), and hydrochloric acids (3 N) were used to adjust the equilibrated pH to 3.50 0.15, individually or in selected combinations. Acidification with acetic acid and supplementation with 1.03 M NaCl instead of 100 mM CaCl2, was applied in the control treatment to simulate conditions typical of commercial processing with high salt. The volume of the different acids to be added to the cover brines was determined by titrating 3 samples of 100 mL of a 50:50 slurry suspension con- sisting of cover brine and the blended size 3B fresh cucumbers used for experimentation. The concentration of CO2 formed as  a function of time and bloaters index at the ending point were measured as described below. Acidified cucumbers were brined and packed as described by Pe'rez-D'iaz and McFeeters (2008).
+
+Evaluation of the influence of different acidulants, salts, and Ca(OH)2 on the release of CO2 as a function of acidification
+Commercially available carbonated water was used as a source of dissolved CO2 to understand the effect of Ca(OH)2 and CaCl2 on the release of the gas from the liquid phase to a headspace  in response to acidification with 3 different acids. Commercially available carbonated water was bought from a local grocery store containing approximately 620 mg/100 mL of water. The CO2 containing carbonated water was supplemented with Ca(OH)2, CaCl2, NaCl, or combinations thereof. The bottles of carbonated water were opened one day before supplementation to release insoluble gas due to pressure difference with the atmosphere. The ingredients of interest were mixed in the carbonated water bottles and aliquoted into vacutainers. Sequential acetic acid additions were done for acidification, although CO2 concentrations in the headspace were measured as described below. It took 409 mM (700 uL) of acetic acid in vinegar to achieve a pH at around 2.8 in carbonated water containing salts and 555 mM (1000 uL) acid to achieve a pH of 3.4 when Ca(OH)2 was in solution. Each titration was conducted in duplicate using the same lot of carbonated water for each duplicate. pH was measured as a function of acidification using an AccumetTM AR25 pH/mV/degC/ISE pH meter (catalog
+
+no. 13-636-AR25B; Fisher ScientificTM, Hampton, N.H., U.S.A), equipped with a thin gel filled probe (catalog no. 13-620-290; Fisher ScientificTM).
+In the experiment to investigate 3 different acidulants, the bot- tles of commercially available carbonated water were opened 3 d before taking samples. The initial pH measurements were taken after minimal changes in CO2 were detected, on day 3 after open- ing the bottles, which was at 6.00 0.10. At this time point, aliquots of 5 mL of the carbonated water were  collected us-  ing a gastight syringe and injected into 10 mL BD vacutainer tubes (Becton Dickinson and Co., Franklin Lakes, N.J., U.S.A.). Aliquots were treated with increasing amounts of one out of 3 acids tested, until a final pH of 2.8 was reached. Sequential acid addi- tions were done in individual vacutainer tubes. It took 900 uL of 20% (3.33 M) acetic acid in vinegar (Fleischmann Vinegar, Republic, Mo., U.S.A.), 15 uL of 85% (9.44 M) lactic acid (Fisher Scientific Co., Fair Lawn, N.J., U.S.A.) and 25 uL of 29.4% (3M) phosphoric acid (Sigma-Aldrich Inc., St. Louis, Mo., U.S.A.) to achieve a pH of 2.8.
+
+Laboratory scale cucumber fermentations in closed jars
+Cucumber fermentations were conducted in 1-gallon jars with 2 to 3 lots of size 3B cucumbers (2A: 2.7 to 3.8 cm dia. or 3B: 3.8 to 5.1 cm dia.). Jars were packed with 1600 g of cover brine and 1600 g of cucumbers and acidified to either pH 5.0 0.1 or 4.7
+0.1 with a 20% (3.33 M) acetic acid vinegar or a 85% (9.44 M) lac- tic acid solution. When non-acidified cover brines were used as a control for experimentation, the initial pH was measured at 5.5
+0.1. 20.2 mM Ca(OH)2  (Fisher  Scientific  Co.)  and  25  to  100 mM CaCl2 (Brenntag, Durham, N.C., U.S.A.) were added to the cover brines as indicated on the text. When studying laboratory scale cucumber fermentations acidified to pH 4.6 with lactic acid (Table 3), the positive control was acidified with acetic acid to pH
+4.6 and the negative control was brined with 25 mM CaCl2 and 12 mM potassium sorbate, to simulate conditions known to pro- mote a complete homofermentation and the inhibition of fer- mentation, respectively. When evaluating laboratory scale fer- mentations acidified to pH 5.0 with acetic acid, the positive and negative controls were not acidified and only the positive control was inoculated with L. plantarum FS965 (Table 4).
+Jars were inoculated with either the malic acid decarboxylase deficient Lactobacillus plantarum FS965 (Daeschel and others 1984; McFeeters and others 1984) or L. plantarum LA0445 (Daeschel and others 1984; McDonald and others 1993) to 105 or 106 CFU/ mL as indicated on the text. Starter cultures were incubated in lac- tobacilli deMan, Rogosa, and Sharpe (MRS; catalog no. 288130; DifcoTM, Becton Dickinson and Co., Franklin Lakes, N.J., U.S.A.) broth at 30 degC overnight prior to the inoculation of the jars. Jars were inoculated with cultures prior to closing them with metal lug lids equipped with rubber septa so that samples could be col- lected using a gas-tight syringe and needle assembly (Hamilton, 10 mL, catalog no. LG-07939-54). Cover brine samples were col- lected as a function of time to monitor lactobacilli colony counts from MRS agar plates, fermentation biochemistry by HPLC and changes in pH, as described elsewhere in this section. Amounts of CO2 in the headspace were measured as described below. Bloater index was determined by evaluating the vegetables at the end of the incubation period (14 or 21 d) as described below.
+Measurement of CO2 content
+Cover brine samples (5 mL) were collected from jars using a gastight syringe (Hamilton, 10 mL, catalog no. LG-07939-54,
+
+
+
+Reno, Nevada) inserted through a rubber septa placed on the lids prior to closing the containers after brining the cucumbers. Cover brine samples were immediately injected in plastic vacutainers with Hemogard closure (Pulmolab, 10 mL, BD #366643, Northridge, Calif., U.S.A.) and stored at 4 degC until analysis. Upon sample processing, a 20% (3.33 M) acetic acid solution in the form of vinegar was used as the CO2-liberating substance (Fleming and others 1973b). Aliquots of 3 mL of 20% vinegar were injected into the vacutainer tubes filled with 2 mL of the cover brine samples followed by the application of even and vigorous agitation for 10 s, to accelerate the release of the targeted gas immediately prior to the injection of the samples in the benchtop Map-Pak Combi Gas Analyzer (AGC Instruments, Co., Clare, Ireland) to measure CO2. The values obtained from the instrument in total % CO2 were converted to CO2 content in mg/100 mL of cover brine using the Henry's Law after converting actual measurements to the partial pressure of the gas in the headspace as follows:
+
+as described above, prior to storage at 20 degC until HPLC analysis was conducted to measure organic acids and sugars. Cover brine supernatants were transferred to HPLC vials for analysis. Quantifi- cation of organic acid and sugar concentrations were done using the HPLC method published by McFeeters and Barish (2003) using an Aminex 300 7.8 mm HPX-87H resin column (Bio- Rad Laboratories, Hercules, Calif., U.S.A.) for the separation of components with some modifications. The operating conditions of the system included a column temperature of 65 degC and a 0.01 N H2SO4 eluent set to flow at 0.9 mL/min. A SPD-20A UV-vis detector (Shimadzu Corporation, Canby, Oreg., U.S.A.) was set at 210 nm at a rate of 1 Hz to quantify malic, lactic, succinic, propionic, and butyric acids. An RID-10A refractive index de- tector (Shimadzu Corp.) connected in series with the diode array detector was used to measure acetic acid, glucose, fructose, and ethanol. External standardization of the detectors was done using at least 5 concentrations of the standard compounds.
+
+
+PCO2
+
+ % CO2
+=	100	x ( PS - PWV - PAAV)
+
+
+Determining colony counts for lactobacilli
+Colony counts of lactobacilli were obtained by plating on MRS
+
+where PCO
+
+represents the CO2 partial pressure in the headspace,
+
+agar. Cover brine samples were aseptically collected as a function of
+
+P	2	time, serially diluted in 0.85% saline solution and plated on MRS
+
+S represents the standard barometric pressure (760 mm Hg or 1 atm.), Pwv is the water vapor pressure at 30 or 25 degC (31.8 and
+23.8 mm Hg, respectively), and PAAV  represents  the  acetic acid partial pressure at 30 or 25 degC (21.3 and 15.8 mm Hg, respectively).
+CO2mg/100mL of  cover brine =  Pco2  x MW(CO2)100
+where KH is the Henry's law constant is either cited (Sander 2015) or calculated using the Van't Hoff equation (Cohen 1989) at 30 or 25 degC (25.8 and 29.4 atm/mol, respectively) and MW is molecular weight for CO2 (44.01 g/mol).
+
+Determination of bloater index
+The bloater index was calculated for fermented cucumbers by cutting the vegetables longitudinally to observe the extent and type of hollow cavities formed. The degree of damage was classified as slight, medium or severe using the references presented on Table 1. The bloater index calculation was adapted from Fleming and oth- ers (1977) and determined as follows:
+
+supplemented with 0.1% cycloheximide for the enumeration of presumptive lactic acid bacteria (LAB). An Autoplate 400 (Spiral Bioteh, Norwood, Mass., U.S.A.) was used to inoculate MRS plates prior to anaerobic incubation at 30 degC for 48 h. Colonies were enumerated using a Flash & Go Automated Colony counter (catalog no. 90006010; IUL Instruments, Barcelona, Spain).
+
+16S rRNA amplicon sequencing using Illumina sequencing platform for laboratory scale cucumber fermentation cover brine samples
+Cells were harvested from 10 mL of fermentation  cover  brine samples by  centrifugation at 10000  g for 10 min at   room temperature (Eppendorf Centrifuge 5810R, Fisher Sci- entific, Fremont, Calif., U.S.A.). Only fermentations supple- mented with salts and/or Ca(OH)2 were subjected to this metagenetic analysis. Cell pellets were resuspended in 490 uL sterile saline and treated with 10 uL of 2.5 mM propidium monoazide (PMA) stock solution (1.3 mg/mL PMA in 20% DMSO; Biotium, Inc., Hayward, Calif., U.S.A.) to eliminate dead bacterial and extracellular DNA as described by Pan and Breidt (2007). PMA-treated samples were stored as cell pellets
+
+% of the cucumbers affected by
+bloater damage
+
+weight damage values (WDV) for specific hollow cavity type
+
+at   20 degC until DNA extraction. One sample for time points    on days 3 and 10 were selected for each replicate for further pro- cessing and analysis.
+
+Bloater index =
+
+100
+
+Total  genomic  DNA  was  extracted  from  PMA-treated cell
+pellets using a MasterPureTM  DNA Purification Kit (Epicentre,
+
+where all types of bloater damage (balloon, lens, and honeycomb) were considered; and the WDV defined as described in Table 1.
+
+Evaluation of cucumber fermentations biochemistry (pH and HPLC)
+Cover brine samples (1 mL) were collected with gas-tight needle and syringe assemblies (Hamilton, 10 mL, catalog no. LG-07939-
+54) through rubber septa placed in the jar's lids at the time points indicated in the text. Such samples were spun at 12000 rpm for 10 min (Brushless Microcentrifuge, Denville 260D, Denville Sci- entific, Inc., Holiston, Mass., U.S.A.) at room temperature twice to remove particulate prior to pH measurement and HPLC analysis. The supernatant's pH was measured with an Accumet pH meter
+
+Madison, Wis., U.S.A.). DNA concentrations were quantified us- ing PicoGreen dsDNA reagent (Invitrogen; Life Technologies) on a 96-well plate reader and mixed at equimolar concentrations. Se- quencing services were obtained from the Microbiome Core Fa- cility, Univ. of North Carolina-Chapel Hill Campus (Chapel Hill, N.C., U.S.A.).
+12.5 ng of total DNA were amplified using primers consist- ing of the locus-specific sequences targeting the V3-V4 region of the bacterial 16S rDNA (Caporaso and others 2011). Primer sequences contained overhang adapters appended to the 5! end of each primer for compatibility with Illumina sequencing platform. The complete sequences of the primers were: F - 5! TCGTCG- GCAGCGTCAGATGTGTATAAGAGACAG GTGCCAGCM GCCGCGGTAA 3! and R - 5! GTCTCGTGGGCTCGGAGAT
+
+Table 2-Carbon dioxide (CO2) and bloater index in size 3B cucumbers brined with 100 mM CaCl2 and preserved by acidification with lactic, acetic or hydrochloric acid to pH 3.5 +- 0.15 and 12 mM sodium benzoate.	
+
+
+Acidulation treatment
+Control
+
+Equilibrated acid concentration (mM)
+
+Equilibrated cover brine pH
+
+CO2 (mg / 100 mL)
+
+Bloater index (n = 32)
+
+(Acetic acid and 1.03 M NaCl / no CaCl2)
+
+212	3.63 +- 0.07A	4.36 +- 0.22A	24 +- 11A
+
+HCl	34	3.58	0.00A	5.43	0.73A	7	4B
+Acetic acid	212	3.69	0.02A	4.36	0.22A	2	1B
+Lactic acid	52	3.57	0.03AB	5.91	1.07A	2	0 B
+Acetic acid	Lactic acid	16 (Acetic)	3.56	0.02AB	5.79	0.90A	5	3B
+44 (Lactic)
+No severe bloaters were detected in these trials. Data shown represents the average and standard deviations of duplicates of 2 independent replicates with 2 lots of cucumbers. Data were collected after 3 d of incubation at 30 degC.
+
+
+GTGTATAAGAGACAGGGACTACHVGGGTWTCTAAT     3!.
+Master mixes contained 12.5 ng of total DNA, 0.2 uM of each primer and 2x KAPA HiFi HotStart ReadyMix (KAPA Biosys- tems, Wilmington, Mass., U.S.A.). The thermal profile for the amplification of each sample had an initial denaturing step at  95 degC for 3 min, followed by a cycling of denaturing of 95 degC for 30 s, annealing at 55 degC for 30 s and a 30 s extension at     72 degC (25 cycles), a 5 min extension at 72 degC and a final hold  at 4 degC. Each 16S amplicon was purified using the AMPure XP reagent (Beckman Coulter, Indianapolis, Ind., U.S.A.). In the next step each sample was amplified using a limited cycle PCR program, adding Illumina sequencing adapters and dual-index barcodes (in- dex 1[i7] and index 2[i5]; Illumina, San Diego, Calif., U.S.A.) to the amplicon target. The thermal profile for the amplification of each sample had an initial denaturing step at 95 degC for 3 min, followed by a denaturing cycle of 95 degC for 30 s, annealing at 55 degC for 30 s and a 30 s extension at 72 degC (8 cycles), a 5 min extension at 72 degC and a final hold at 4 degC. The final libraries were again purified using the AMPure XP reagent (Beckman Coulter), quantified and normalized prior to pooling. The DNA library pool was then denatured with NaOH, diluted with hybridization buffer and heat denatured before loading on the MiSeq reagent cartridge (Illumina) and on the MiSeq instrument (Illumina). Au- tomated cluster generation and paired-end sequencing with dual reads were performed according to the manufacturer's instructions.
+
+16S rDNA amplicon sequencing data processing
+Multiplexed paired-end fastq files were produced from the se- quencing results of the Illumina MiSeq using the Illumina software configureBclToFastq. The paired-end fastqs were joined into a sin- gle multiplexed, single-end fastq using the software tool fastq-join. Demultiplexing and quality filtering was performed on the joined results. Quality analysis reports were produced using the FastQC software. Bioinformatics analysis of bacterial 16S rRNA amplicon sequencing data was conducted using the Quantitative Insights Into Microbial Ecology (QIIME) software (Caporaso and others 2010). OTU picking was performed on the quality filtered results using pick_de_novo_otus.py. Chimeric sequences were detected and removed using ChimeraSlayer. Alpha diversity and beta diver- sity analysis were performed on the data set using the QIIME rou- tines: alpha_rarefaction.py and beta_diversity_through_plots.py (Lozupone and Knight 2005; Lozupone and others 2006, respectively).
+
+Statistical analysis
+Significant differences among the treatments were determined by LSMeans Tukey HSD using JMP Pro 12 (SAS Inst., Inc., Cary,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2-CO2 measured from cucumbers brined with 100 mM CaCl2 pre- served by acidification to pH 3.5  0.15 and inclusion of 12.3   0.2   mM sodium benzoate in the cover brine. Cucumbers were acidified with
+3.33 M acetic acid ( ), 9.44 M lactic acid ( ), a combination of 3.33 M acetic acid and 9.44 M lactic acid ( ) or3N HCl ( ). The traditional cucum- ber fermentation brine is represented here by a treatment containing a cover brine without CaCl2 and with 3.33 M acetic acid and 1.03 M NaCl ( ). Data shown represents the average and standard deviations of duplicates of 2 independent replicates with 2 lots of cucumbers.
+
+
+
+N.C., U.S.A.). A difference between treatments based on date was considered and the interactions between treatments and dates were assessed at the P < 0.05 level using analysis of variance. For all data sets, levels not connected by the same letter were significantly different.
+
+
+
+Results
+Monitoring CO2 production in acidified cucumbers
+Table 2 shows that CO2 production in cucumbers preserved by acidification is independent of the type of acid used in the cover brine formulation. Between 4.36 0.22 and 5.79  0.90 mg of  CO2 were produced per 100 mL of cover brine in acidified cu- cumber jars with limited oxygen availability, resulting in minimal bloater indexes (Table 2). No substantial differences were observed in CO2 production among different acid type or the acid-salt combination. Jars acidified with acetic acid presented the lowest production of CO2 followed by lactic acid. Although the levels of CO2 formed were the same in the presence of the NaCl or the CaCl2 salt, when acetic acid was used for acidification, the bloater index was 10X lower in the absence of the sodium salt (Table 2). Figure 2 shows that 66% of the total CO2 measured in acidified cucumber jars, formed 24 h after brining.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3-Levels of CO2 measured in vacutainer tubes headspaces as a func- tion of carbonated water acidification with lactic, acetic, and phosphoric acids. Values shown are the average and standard deviations of triplicates. Levels not connected by the same letter are significantly different.
+
+Evaluation of the release of CO2 from carbonated water as a function of acidification with lactic, acetic,
+and phosphoric acids
+Acidification with any of the acids induced an increment in CO2 in the headspace from 19.04   0.22 mg/100 mL to a maximum of 26.11 6.39 mg/100 mL (Figure 3). Although, no significant differences were detected among the 3 acids, figure 3 shows that increasing amounts of lactic and phosphoric acids in the system induced a greater proportion of the CO2 in the carbonated water to be displaced to the headspace as compared to acetic acid.
+
+Influence of Ca(OH)2 and NaCl on the release of CO2 from carbonated water
+Treatments containing Ca(OH)2 had a higher final pH at 3.40
+0.10 after adding 555 mM acetic acid, presumably due to the for- mation of calcium acetate, a buffer (Table 5). Addition of calcium derivatives to the carbonated water resulted in no significant dif- ferences in the amounts of CO2 measured from the headspace of vacutainer tubes, indicating such compounds are not affecting the release of the gas (Figure 4). No significant differences in the con- centrations of the evolving gas were observed when adding from 128 to 555 mM acetic acid as well (data not shown).
+
+Release of CO2 and bloater index in cucumber fermentation brined with CaCl2 and potassium sorbate acidified with lactic acid to pH 4.6
+No significant differences were found in the end of fermentation pH, lactobacilli colony counts, CO2 amounts, and bloater index among treatments (Table 3). CO2 levels in the negative control jars, in which the cucumbers were subjected to preservation by acidification without fermentation, were approximately 30% of that detected in the fermenting jars (Table 3), confirming that most of the gas produced derives from microbial activity instead of tissue respiration. With no significant difference between the fermentation acidified with acetic acid and lactic acid, in particular with regards to CO2 levels and bloater index, acetic acid becomes the optimum acidulant in fermentations, given its lower cost if added as vinegar.
+
+Release of CO2 and bloater index in cucumber fermentation brined with CaCl2 and potassium sorbate acidified with acetic acid to pH 5.0
+There were no significant differences in end of the fermen- tation pH, lactobacilli colony counts, and glucose, fructose, and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4-Influence of CaCl2, Ca(OH)2, and NaCl on the release of CO2 by acidification with acetic acid. Amounts of CO2 measured in vacutainer tubes' headspace after its release from carbonated water ( ), treated with 100 mM CaCl2 ( ), 25mM CaCl2 ( ), or 20.2 mM Ca(OH)2 ( ) (top panel). The bottom panel shows amounts of CO2 measured in the vacu- tainer tubes' headspace after its release from carbonated water treated with relevant combinations of the variables listed for the top panel: ( ) 80 mM CaCl2 and 20.2 mM Ca(OH)2, ( ) 25 mM CaCl2 and 20.2 mM Ca(OH)2,( ) 25 mM CaCl2, 20.2 mM Ca(OH)2 and 690 mM NaCl and ( ) 25 mM CaCl2, 20.2 mM Ca(OH)2 and 345 mM NaCl. No significant differ- ences were observed between 128 mM acetic acid and 409 mM (data not shown). Values shown represent the average and standard deviations of independent duplicates.
+
+
+
+malic acid utilization as a function of acidification with acetic acid or starter culture type used (Table 4). Minimal pH values were reached by day 14 at 3.33 0.05 and maximum cell den- sities reached 108 CFU/mL by day 3 (data not shown). The use of a starter culture delayed the utilization of malic acid, how- ever, changes in this organic acid were detected even when the malic acid decarboxylase deficient starter culture was used (data not shown). Fermentations that were not inoculated or inoculated with the malic acid decarboxylase deficient L. plantarum FS965 produced 6 to 14 mM acetic acid (data not shown). Approximately 59% of total CO2 was produced prior to day 3 fluctuating from 14.55  5.14 mg /100 mL on day 3 to 24.67   7.05 mg /100 mL on day 14 (Figure 5). The negative control in which wild fer- mentations proceeded, produced significantly more CO2 than all other treatments (Table 4 and Figure 5). Fermentations inoculated with L. plantarum FS965 in the absence of acidification (positive control) also produced significantly more CO2 than the 2 exper- imental treatments, in which the brines were acidified (Table 4 and Figure 5). The combination of a starter culture with cover brine acidification generated a reduction in the CO2 measured in particular when L. plantarum FS965 was used as a starter culture (Table 4 and Figure 5).
+
+
+Table 3-Characteristics of laboratory scale cucumber fermentations brined with CaCl2, potassium sorbate (6.0 +- 0.2 mM) and Ca(OH)2, acidified to pH 4.6 +- 0.1 with lactic acid.	
+CO2 (mg / 100 mL of cover brine)
+
+
+
+3.39 +- 0.03B	7.88 +- 0.18A	7.14 +- 2.24A	13.96 +- 4.04A	20.91 +- 4.54AB	44 +- 32A
+
+
+
+
+Values shown represent averages and standard deviations of 4 runs from duplicate trials with different lots of cucumbers. Levels not connected by the same letter are significantly different. Each fermentation jar was inoculated to 105 CFU/mL with L. plantarum LA0445. The preservation negative control treatment did not contain Ca(OH)2.
+
+Table 4-Characteristics of laboratory scale cucumber fermentations brined with CaCl2 and potassium sorbate (6.0 0.2 mM), acidified to pH 5.0 with acetic acid.
+
+
+
+
+
+
+
+
+
+72.15 +- 14.15A	1.16 +- 0.19A	0.92 +- 1.22C	21.08 +- 3.35BC
+Values shown represent the averages and standard deviations of 6 runs from triplicate trials with different lots of cucumbers. Levels not connected by the same letter are significantly different. Each fermentation jar was inoculated to 105 CFU/mL with either L. plantarum LA0445 or the malic acid decarboxylase deficient (MDC-) L. plantarum FS965. Malic acid was not detected in the treatments tested after 14 d of fermentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5-CO2 measured from cover brine samples of cucumber fermenta- tions brined with CaCl2 and potassium sorbate acidified to pH 5.0 with acetic acid. Values shown represent averages and standard deviations of 6 runs from triplicate trials with different lots of cucumbers. Levels not connected by the same letter are significantly different. Cucumber fer- mentations were inoculated with either L. plantarum LA0445 ( ) or the malic acid decarboxylase deficient L. plantarum FS965 ( ). The nega- tive control fermentation was not inoculated or acidified ( ). The positive control fermentation was inoculated with L. plantarum FS965 and not acidified ( ).
+Influence of Ca(OH)2 and NaCl on the release of CO2 from cucumber fermentation cover brines and corresponding bloater indexes
+End of fermentation pH were at least 0.4 units higher in the jars supplemented with Ca(OH)2 as compared to that observed
+
+
+in the absence of the buffer (3.05 0.01; Table 5), enabling the complete utilization of glucose and fructose (data not shown). Microbial growth peaked by day 3, in all treatments with no sig- nificant differences (Table 5). Glucose and fructose at 49.4 2.2 and 51.3 3.1 mM, respectively, were consumed in all treat- ments, except the positive control without buffer, in which 2.1
+0.4 mM fructose was detected after 14 d. Most of the lactic acid was produced before day 7, and increased about 10 mM in the following 7 d (data not shown). Although the highest amount of lactic acid produced was observed when CaCl2 was supplemented to 25 mM instead of 100 mM, the same treatment enabled the production of 14 mM acetic acid (Table 5). Supplementation of such treatment with NaCl minimized the formation of acetic acid to about 2.37 0.95 mM, with slightly less lactic acid formed (Table 5). The 12.3 0.9 mM of malic acid detected from fresh cucumber slurry were undetectable in the fermentations on day 14 (data not shown), likely due to the inoculation with L. plan- tarum LA0445 as a starter culture, able to decarboxylate the organic acid, and possibly to the metabolic activity of the indigenous mi- crobiota. CO2 was detectable on day 1 (Figure 6). A significant portion (approximately 60%) of the CO2 detected was present by day 3, and continued to increase by 3 to 12 mg/100 mL in the subsequent sampling days (Figure 6). In general, lower amounts of CaCl2 added induced a lower amount of evolving CO2. The cover brines formulated with NaCl showed lower CO2 as compared to cover brine containing only CaCl2 and buffer. However, supple- mentation of the CaCl2 treatment with 690 mM NaCl resulted in the formation of more CO2 (Table 5). Overall, the fermentation
+
+incorporation of buffer capacity. Cucumbers preserved by acidi- fication in vacuum sealed jars were used to determine amounts
+of CO2 produced from sources other than the microbial activity
+
+
+
+
+
+
+
+
+
+
+Figure 6-Influence of CaCl2, Ca(OH)2, and NaCl on the release of CO2 by acidification with acetic acid in cucumber fermentations: Amounts of CO2 measured in vacutainer tubes headspace after its release from fermenta- tion cover brines: ( ) 20.2 mM Ca(OH)2; ( ) 25 mM CaCl2; ( ) 25 mM CaCl2, 20.2 mM Ca(OH)2, and 680 mM NaCl; ( ) 25 mM CaCl2, 20.2 mM
+Ca(OH)2, and 340 mM NaCl; and ( ) 100 mM CaCl2. Values shown are the average and standard deviations of 4 jars corresponding to duplicates with 2 independent cucumber lots.
+
+cover brine formulated with reduced CaCl2, addition of Ca(OH)2, and the supplementation with 345 mM NaCl had the higher pH, acceptable bacterial counts and acetic and lactic acids production, no residual sugars, and a bloater index below that observed in the absence of the NaCl.
+
+Bacterial population composition as a function of cover brine formulation
+Figure 7 shows data corresponding to the analysis of OTUs in cover brine samples collected from cucumber fermentations containing CaCl2 and potassium sorbate, supplemented with and without Ca(OH)2 or NaCl and acidified to pH 4.7 0.1 with acetic acid. Two time points were selected for such analysis on days 3 and 10 of the fermentations. It was observed that the Lac- tobacillaceae family dominated in all the fermentations studied at a minimum relative abundance of 72%. Two members of the Lactobacillaceae family were identified to the genera level, Lacto- bacillus, and Pediococcus with relative abundance scores of 12% and 4%, respectively. The control fermentations brined with 100 mM CaCl2 and acidified with acetic acid to pH 4.7 had the lowest incidence of Lactobacillaceae and appreciable abundance of En- terobacteriaceae on days 3 and 10. The Leuconostocaceae family was also detected in several treatments to a maximum relative abundance of 10% (Figure 7).
+
+
+Discussion
+It was the focus of this study to determine if supplementation of cucumber fermentation cover brines, containing CaCl2, and potassium sorbate, with Ca(OH)2, NaCl, and/or acids would aid in reducing the incidence of bloaters. Identification of strategies to reduce the incidence of bloaters in the newly developed NaCl free cucumber fermentation system at the commercial scale rep- resents economical gains for the pickling industry. The approach taken here included the utilization of a carbonated water system in vacutainer tubes to observed the release of CO2 to the gas phase in response to acidification with various food grade acids, and supplementation with Ca(OH)2 or NaCl (Figure 1). Acetic acid, Ca(OH)2 and NaCl are cover brine ingredients typically used in cucumber fermentations that are associated with positive function- alities such as suppression of growth of undesired microbes, and
+
+required for fermentation, given that the microbiota is suppressed by the acids and preservatives added (Pe'rez-D'iaz and McFeeters 2008), within the 1st few days after packing. Equilibration of brined cucumbers proceeds in less than 18 h (Passos and others 2003). Thus, it is possible that the amount of CO2 possibly pro- duced by tissue respiration in acidified jars is underestimated due to the effect of acidification to pH 3.5, which affects the physi- ological state of the brined cucumbers. The effect of cover brine acidification and/or supplementation with NaCl and Ca(OH)2 on the incidence of bloaters in low salt cucumber fermentations was determined in vacuum sealed laboratory scale vessels. Utilization of sealed jars for cucumber fermentations, limits the contribution of tissue respiration to the formation of CO2, and maximizes the influence of the metabolic activity from anaerobic microbes on the incidence of bloaters. The impact of the experimental vari- ables, supplementation with Ca(OH)2, NaCl and acids, in the microbiota of cucumber fermentations was analyzed by determin- ing the relative abundance of OTUs in fermentation cover brine samples.
+In this study, it was possible to determine that acidification with lactic, acetic or phosphoric acids aided in releasing CO2 to a headspace from carbonated water and preservation or fermenta- tion cover brines in similar ways (Tables 2-4; Figure 2, 3, and 5). Buffered and acidified fermentations yielded a reduction in the formation of CO2 and bloater index (Table 5). Utilization of a malic acid decarboxylase deficient starter culture in combination with acidification in low salt cucumber fermentations yielded a lower bloater index under the conditions of this study (Table 4). McFeeters and others (1984) showed that the inability of a L. plantarum starter culture to decarboxylate the malic acid inherently present in cucumbers (McFeeters and others 1982) aided in re- ducing bloater incidence by diminishing the total levels of CO2 in the system and maintaining them below the concentration needed to induce bloating. Although, malic acid disappeared in all the fermentations monitored in this study, it is likely that decarboxy- lation of such organic acid in fermentations inoculated with the deficient starter culture occurred by the indigenous microbiota at a slower rate as compared to that in fermentations inoculated with the wild L. plantarum. Utilization of malic acid at a slower rate en- ables the maintenance of a CO2 concentration below that needed for bloating during the active fermentation period, minimizing the incidence of the defect.
+The CO2 levels in jars of cucumbers preserved by acidification was estimated at 25% of the total gas that forms in cucumber fermentations in jars (Table 2 and 3; Figure 2, 5, & 6). This observation is in line with those made by Fleming and others (1973a), concluding that the CO2 level in pasteurized unfer- mented cucumber jars is about 7%. Thus, it was confirmed that the majority of the gas formed in cucumber fermentations derives from anaerobic microbial activity.
+It was learned that the presence or absence of CaCl2, NaCl, and/or Ca(OH)2 in carbonated water did not impact the release of CO2 to a headspace (Figure 4). The levels of the calcium and sodium salts tested in this experiment were not sufficient to affect the solubility of the gas under the conditions of our test at 30 degC (Veldhuis and Etchells 1939; Fleming and others 1973b, 1975). However, supplementation of cover brines acidified with acetic acid, with Ca(OH)2 so that calcium acetate, a buffer, could form in solution, aided in maintaining a higher end of fermentation
+
+
+Table 5-Characteristics of cucumber fermentations brined with CaCl2 and potassium sorbate (6.0	0.2 mM) supplemented with calcium hydroxide (20.2 mM) and NaCl.
+
+NaCl
+80 mM CaCl2	3.41 +- 0.02ABC	7.33 +- 0.05AB	82.24 +- 6.34AB	32.31 +- 26.16A	23.05 +- 8.81BC	19 +- 13A
+25 mM CaCl2	3.49 +- 0.04ABC	7.58 +- 0.09A	94.19 +- 12.36A	14.41 +- 8.17AB	22.33 +- 6.34BC	47 +- 2B
+
+25 mM CaCl2 & 690 mM NaCl
+25 mM CaCl2 and 345 mM NaCl
+
+3.52 +- 0.07AB	6.42 +- 0.11B	83.57 +- 5.63AB	1.70 +- 1.08BC	25.78 +- 6.96AB	16 +- 9A
+3.51 +- 0.11ABC	7.09 +- 0.15AB	88.27 +- 4.06AB	3.04 +- 3.12BC	22.17 +- 6.23CD	25  +- 1A
+
+All jars were inoculated with L. plantarum LA0445 and supplemented with acetic acid in the form of vinegar to pH 4.7. Values shown are the average and standard deviations of 4 jars corresponding to duplicates with 2 independent cucumber lots. No residual glucose was detected in any of the experimental fermentation cover brines. All measurements were taken from samples collected on day 14 of the fermentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 7-Composition of the bacterial population in cucumber fermentations brined with CaCl2 and potassium sorbate (6.0 0.2) supplemented with Ca(OH)2 (20.2 mM) and NaCl. All jars were inoculated with L. plantarum LA0445 and supplemented with acetic acid as vinegar to pH 4.7. Values shown are the average of 2 jars corresponding to duplicates with independent cucumber lots. The control fermentation brined with 100 mM CaCl2 was not supplemented with Ca(OH)2. Value of each treatment at each time point indicate the average of 2 independent lots.
+
+
+pH and enabled the complete conversion of sugars to lactic acid (Table 5; Fleming and others 1978).
+In addition, the inclusion of Ca(OH)2 in fermentation cover brines influenced the composition of the microbiota, in particular with regards to the exclusion of Enterobacteriaceae (Figure 7). Supplementation of acidified fermentations with reduced CaCl2 (25 mM), enabled the production of acetic acid (Table 5), presum- ably, by the indigenous microbiota in particular the heterofermen- tative LAB, Leuconostocaceae (Figure 7; Kihal and others 2007). However, production of acetic acid in fermentations  buffered  by calcium acetate, was minimized by the inclusion of NaCl, a preservative (Table 5), suggesting relevant variations within the Leuconostocaceae family occurred in the presence of the salt. Ad- dition of less than 690 mM (4%) NaCl would still enable the implementation of a sustainable low salt cucumber fermentation system.
+Table 2 and Figure 2 show that bloater index is lower in the absence of NaCl, even though there is no significant difference in CO2 levels as a function of acid type or the combination of acid and salt type. Thus, bloater index is independent of the measur- able CO2 levels, possibly due to more of the CO2 been trapped in the endocarp and/or seed cavity in the presence of the sodium
+
+salt. The presence of 1.03 M NaCl in solution is expected to decrease the solubility of oxygen (MacArthur 1915). Thus, the higher bloater index in the high salt brine may be the result of the availability of more molecular oxygen or CO2 in the system becoming less soluble and more readily available for bloater for- mation. Increase availability of oxygen combined with CO2 or converted to CO2 by tissue respiration may have also induced a higher bloater index. In addition, NaCl may impact the physical tissue structure enabling its displacement at lower gas pressure as compared to salting with CaCl2, a known tissue firming agent.
+Analysis of the relative abundance of OTUs in laboratory scale cucumber fermentations brined with CaCl2 and potassium sorbate, acidified with acetic acid to pH 4.7 0.1 and sup- plemented with Ca(OH)2 and/or NaCl suggest the dominance  of the Lactobacillaceae family, which includes the L. plantarum starter culture inoculated to 106 CFU/mL. However, cucumber fermentations brined without Ca(OH)2 supported the presence of Enterobacteriaceae beyond day 10 of incubation at 30 degC. Selected members of the Enterobacteriaceae family have been associated with fermented cucumbers spoilage (Franco and Pe'rez-D'iaz 2012; Breidt and others 2013; Medina-Pradas and others 2016) and human pathogenicity. The reduction of the relative abundance of
+
+Enterobacteriaceae from 16% on day 3% to 1.23% on day 10 also suggest their eradication from the fermentation as a function of time and acidification in a NaCl and Ca(OH)2 free system (Figure 7). It is speculated that the presence of the buffer, calcium acetate (0.133M), in the fermentation promotes a complete fermentation with enhanced lactic acid production. The resulting availability of an increased lactic acid concentration is consequently available for the inhibition of the acid-sensitive Enterobacteriaceae.
+Conclusion
+A cover brine formulation containing Ca(OH)2, 25 mM CaCl2, 345 mM (2%) NaCl, and acetic acid to pH 4.7 represents a func- tional combination of variables to achieve a complete conversion of sugars, with minimal production of acetic acid (likely by Leu- conostocaceae), a reduce Enterobacteriaceae population, and with reduced levels of CO2. However, additional strategies are needed to impact bloater index and reduce the levels of CO2 produced below the 20 mg/100 mL needed to induce the defect. Such cover brine formulation may enable the manufacture of cucum- ber pickles with low salt, reduce environmental impact, a reduced population of potential pathogens early in the process (Figure 7) and minimal water input. The data presented on Table 5 addition- ally suggests that combining such formulation with a L. plantarum starter culture deficient in malic acid decarboxylation can enable a further reduction in CO2 and bloater index.
+Acknowledgments
+We thank Ms. Janet Hayes and Ms. Sandra Parker with the USDA-ARS Food Science Research Unit located in Raleigh, NC for exceptional technical support and excellent administrative support, respectively. We thank Dr. Joscelin Diaz for her comments and suggestions on experimental design. We also thank Dr. Andrea Azcarate-Peril and Dr. Natasha Butz at the Microbiome Core Facility, Dept. of Cell Biology and Physiology, School of Medicine at the Univ. of North Carolina, Chapel Hill, NC for assistance with the metagenetics analysis. Ms. Yawen (Karen) Zhai, affiliated with Nort Carolina State Univ., was partially funded by Mount Olive Pickle Comp., Mount Olive, N.C.
+Conflicts of Interest
+The authors declare no conflicts of interest.
+References
+Breidt F, Caldwell JM. 2011. Survival of Escherichia coli O157:H7 in cucumber fermentation brines. J Food Sci 76(3):M198-M203.
+Breidt F, Medina-Pradas E, Wafa D, Pe'rez-D'iaz IM, Franco W, Huang H, Johanningsmeier SD, Kim J. 2013. Characterization of cucumber fermentation spoilage bacteria by enrichment culture and 16S rDNA cloning. J Food Sci 78(3):M470-M6.
+Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bushman FD, Costello EK, Fierer N, Pena AG, Goodrich JK, Gordon JI, et al. 2010. QIIME allows analysis of high-throughput community sequencing data. Nat Methods 7:335-6.
+Caporaso JG, Lauber CL, Walters WA, Berg-Lyons D, Lozupone CA, Turnbaugh PJ, Fierer N, Knight R. 2011. Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample. Proc Natl Acad Sci 108:4516-22.
+Cohen P, ed. 1989. The ASME handbook on water technology for thermal power systems. The American Society of Mechanical Engineers, New York, NY, USA. p 442.
+Daeschel MA, McFeeters RF, Fleming HP, Klaenhammer TR, Sanozky RB. 1984. Mutation and selection of Lactobacillus plantarum strains that do not produce carbon dioxide from malate. Appl Environ Microbiol 47:419-20.
+Etchells JL, Borg AF, Bell TA. 1968. Bloater formation by gas-forming lactic acid bacteria in cucumber fermentations. Appl Microbiol 16(7):1029-35.
+Fleming HP. 1979. Purging carbon dioxide from cucumber brines to prevent bloater damage--a review. Pickle Pak Sci 6(1):8-22.
+Fleming HP. 1984. Developments in cucumber fermentation. J Chem Technol Biotechnol 34B:241-52.
+Fleming HP, Etchells JL, Thompson RL, Bell TA. 1975. Purging of CO2 from cucumber brines to reduce bloater damage. J Food Sci 40(6):1304-10.
+Fleming HP, Thompson RL, Bell TA, Hontz LH. 1978. Controlled fermentation of sliced cucumbers. J Food Sci 43(3):888-91.
+Fleming HP, Thompson RL, Bell TA, Monroe RJ. 1977. Effect of brine depth on physical properties of brine-stock cucumbers. J Food Sci 42(6):1464-70.
+
+
+Fleming HP, Thompson RL, Etchells JL, Kelling RE, Bell TA. 1973a. Bloater formation in brined cucumbers fermented by Lactobacillus plantarum. J Food Sci 38(3):499-503.
+Fleming H, Thompson R, Etchells J, Kelling R, Bell T. 1973b. Carbon dioxide production in the fermentation of brined cucumbers. J Food Sci 38:504-6.
+Franco W, Pe'rez-D'iaz IM. 2012. Role of selected oxidative yeasts and bacteria in cucumber secondary fermentation associated with spoilage of the fermented fruit. Food Microbiol 32:338-44.
+Greenwood NN, Earnshaw A. 1997. Chemistry of the elements. 2nd ed. Butterworth- Heinemann, Oxford, UK. p 310. ISBN 0-08-037941-9.
+Johanningsmeier  SD,  Franco  W,  Pe'rez  D'iaz  IM,  McFeeters  RF.  2012.  Influence  of  sodium chloride, pH, and lactic acid bacteria on anaerobic lactic acid utilization during fermented cucumber spoilage. J Food Sci 77(7):M397-404.
+Kihal M, Prevost H, Henni DE, Benmechernene Z, Divie`s C. 2007. Carbon dioxide production by Leuconostoc mesenteroides in single and mixed culture with Lactococcus lactis in skimmed milk. World J Dairy Food Sci 2(2):62-8.
+Klindworth  A,  Pruesse  E,  Schweer  T,  Peplies  J,  Quast  C,  Horn  M,  Glo" ckner  FO.  2013. Evaluation of general 16S ribosomal RNA gene PCR primers for classical and next-generation sequencing-based diversity studies. Nucleic Acids Res 41(1):e1. doi:10.1093/nar/gks808.
+Lozupone C, Hamady M, Knight R. 2006. UniFrac-an online tool for comparing microbial community diversity in a phylogenetic context. BMC Bioinformatics 7:371-85.
+Lozupone C, Knight R. 2005. UniFrac: a new phylogenetic method for comparing microbial communities. Appl Environ Microbiol 71:8228-35.
+Lu  HJ,  Breidt F,  Pe'rez-D'iaz  IM, Osborne  JA.  2011. The  antimicrobial  effects  of  weak  acids on the survival of Escherichia coli O157:H7 under anaerobic conditions. J Food Prot 6:893- 8.
+MacArthur CG. 1915. Solubility of oxygen in salt solutions and the hydrates of these salts. J Physical Chem 20(6):495-502.
+McDonald LC, Fleming HP, Daeschel MA. 1991. Acidification effects on microbial populations during initiation of cucumber fermentation. J Food Sci 56(5):1353-6, 1359.
+McDonald LC, Shieh D-H, Fleming HP, McFeeters RF, Thompson RL. 1993. Evaluation of malolactic-deficient strains of Lactobacillus plantarum for use in cucumber fermentations. Food Microbiol 10(6):489-99.
+McFeeters RF, Barish AO. 2003. Sulfite analysis of fruits and vegetables by high-performance liquid chromatography (HPLC) with ultraviolet spectrophotometric detection. J Agric Food Chem 51(6):1513-7.
+McFeeters RF, Fleming HP, Daeschel MA. 1984. Malic acid degradation and brined cucumber bloating. J Food Sci 49(4):999-1002.
+McFeeters RF, Fleming HP, Fasina OO, Papageorge LM. 2002. BAG-IN-BOX TECH- NOLOGY: preservation of brined vegetables without fermentation. Pickle Pak Sci VIII(1): 34-37.
+McFeeters RF, Fleming HP, Thompson RL. 1982. Malic acid as a source of carbon dioxide in cucumber fermentations. J Food Sci 47(6):1862-5.
+McFeeters RF, Perez-Diaz IM. 2010. Fermentation of cucumbers brined with calcium chloride instead of sodium chloride. J Food Sci 75(3):C291-C6.
+McMurtrie EK. 2016. Quality of cucumbers fermented in acidified and non-acidified calcium chloride brines for reduced environmental impact of brining operations. Thesis of Master degree, Department of Food, Bioprocessing and Nutrition Sciences, under the direction of Dr. Suzanne Johanningsmeier.
+Medina-Pradas E, Pe'rez-D'iaz IM, Breidt F, Hayes JS, Franco W, Butz N, Azcarate-Peril A. 2016. Bacterial ecology of fermented cucumber rising pH spoilage as determined by non-culture based methods. J Food Sci 80(1):M121-M9. doi:10.1111/1750-3841.13158.
+Pan Y, Breidt F. 2007. Enumeration of viable Listeria monocytogenes cells by real-time PCR with propidium monoazide and ethidium monoazide in the presence of dead cells. Appl Environ Microbiol 73(24):8028-31.
+Passos FV, Fleming HP, Hassan HM, McFeeters RF. 2003. Effect of malic acid on the growth kinetics of Lactobacillus plantarum. Appl Microbiol Biotechnol 63:207-11.
+Pe'rez-D'iaz IM, McFeeters RF. 2008. Microbiological preservation of cucumbers for bulk storage by the use of acetic acid and food preservatives. J Food Sci 73(6):M287-M91.
+Pe'rez-D'iaz   IM,   McFeeters   RF,   Moeller   L,   Johanningsmeier   SD,   Hayes   JS,   Fornea   D, Gilbert C, Custis N, Beene K, Bass D. 2015. Commercial scale cucumber fermentations brined with calcium chloride instead of sodium chloride. J Food Sci 80(12):M2827-M36. 
+Sander R. 2015. Compilation of Henry's law constants (version 4.0) for water as solvent. Atmos Chem Phys 15:4399-981.
+Veldhuis MK, Etchells JL. 1939. Gaseous products of cucumber pickle fermentations. Food Res 4(6):621-30.
+Wehner TC, Fleming HP. 1984. Evaluation of bloater resistance in pickling cucumbers using a brine carbonation method. J Am Soc Hortic Sci 109(2):261-5.
+Zhai Y, Pe'rez-D'iaz IM, Diaz JT, Lombardi RL, Connelly L. 2017. Evaluation of the use of malic acid decarboxylase deficient starter culture in NaCl free cucumber fermentation to reduce bloating incidence. J Appl Microbiol. 
+
+
+
+
+
+
+
+Supporting Information
+Additional Supporting Information may be found in the online version of this article at the publisher's website:
+Table S1 Summary sheet with statistical information and the Chao1, Shannon, and Phylogenetic Diversity alpha diversity metrics for the 16S rRNA sequencing results presented on Figure 7.

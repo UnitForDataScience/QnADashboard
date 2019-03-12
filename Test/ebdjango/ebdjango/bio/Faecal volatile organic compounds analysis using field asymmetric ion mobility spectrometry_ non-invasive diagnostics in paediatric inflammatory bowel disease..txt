@@ -1,0 +1,340 @@
+Journal of Breath Research
+
+
+
+
+
+
+PAPER
+
+Faecal volatile organic compounds analysis using field asymmetric ion mobility spectrometry: non- invasive diagnostics in paediatric inflammatory bowel disease
+To cite this article: Nora van Gaal et al 2018 J. Breath Res. 12 016006
+
+
+
+View the for updates and enhancements.
+
+Related content
+
+S F Shepherd, N D McGuire, B P J de Lacy Costello et al.
+
+
+Kseniya Dryahina, David Smith, Martin Bortlik et al.
+
+
+R P Arasaradnam, M McFarlane, K Ling et al.
+
+
+Recent citations
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This content was downloaded from IP address 129.219.8.0 on 22/03/2018 at 22:46
+
+
+
+
+
+PAPER
+ 	 Faecal volatile organic compounds analysis using field asymmetric
+RECEIVED
+
+
+7 March 2017
+
+ACCEPTED FOR PUBLICATION
+25 April 2017
+
+PUBLISHED
+28 November 2017
+
+ion mobility spectrometry: non-invasive diagnostics in paediatric
+inflammatory bowel disease
+Nora van Gaal, Rozanne Lakenman, James Covington, Richard Savage, Evelien de Groot, Marije Bomers, Marc Benninga, Chris Mulder, Nanne de Boer and Tim de Meij
+1 Department of Gastroenterology and Hepatology, VU University Medical Centre, De Boelelaan 1117, 1081 HV Amsterdam, The Netherlands
+2 Department of Paediatric Gastroenterology, VU University Medical Centre, De Boelelaan 1117, 1081 HV Amsterdam, The Netherlands
+3 School of Engineering, University of Warwick, Coventry, CV4 7AL, United Kingdom
+4 Department of Statistics/Zeeman Institute, University of Warwick, Coventry, CV4 7AL, United Kingdom
+5 Department of Internal Medicine, VU University Medical Centre, Amsterdam, The Netherlands
+6 Emma Children's Hospital/Academic Medical Centre, Amsterdam, The Netherlands
+7 Department of Gastroenterology and Hepatology, VU University Medical Centre, Amsterdam, The Netherlands
+8 Both first authors contributed equally to this work, listed alphabetically.
+9 Shared last, listed alphabetically.
+10 Author to whom any correspondence should be addressed.
+E-mail: , , , , , , , , and 
+Keywords: volatile organic compounds, electronic nose, ion mobility spectrometry, inflammatory bowel disease Supplementary material for this article is available 
+
+
+Abstract
+Background and Objectives: Inflammatory bowel disease (IBD), including Crohn's disease (CD) and ulcerative colitis (UC), remains challenging to diagnose. Diagnostic work-up carries a high burden, especially in paediatric patients, due to invasive endoscopic procedures. IBD is associated with alterations in intestinal microbiota composition. Faecal volatile organic compounds (VOCs) reflect gut microbiota composition. The aim of this study was to assess the diagnostic accuracy of faecal VOC profiling as a non-invasive diagnostic biomarker for paediatric IBD. Methods: In this diagnostic accuracy study performed in two tertiary centres in the Netherlands, faecal VOC profiles of 36 de novo, treatment-naive paediatric IBD patients (23 CD, 13 UC), and 24 healthy, matched controls were measured by field asymmetric ion mobility spectrometry (Owlstone Ltd, Lonestar(r), UK). Results: Faecal VOC profiles of de novo paediatric IBD patients could be differentiated from healthy controls (AUC +- 95% CI, p-value, sensitivity, specificity; 0.76 +- 0.14, p < 0.001, 79%, 78%). This discrimination from controls was observed in both CD (0.90 +- 0.10, p < 0.0001, 83%, 83%) and UC (0.74 +- 0.19, p = 0.02, 77%, 75%). VOC profiles from UC could not be discriminated from CD (0.67
++- 0.19, p = 0.0996, 65%, 62%). Conclusion: Field asymmetric ion mobility spectrometry allowed for discrimination between faecal VOC profiles of de novo paediatric IBD patients and healthy controls, confirming the potential of faecal VOC analysis as a non-invasive diagnostic biomarker for paediatric IBD. This method may serve as a complementary, non-invasive technique in the diagnosis of IBD, possibly limiting the number of endoscopies needed in children suspected for IBD.
+
+
+
+
+Non-standard abbreviations
+VOC	volatile organic compound
+
+FAIMS	field asymmetric ion mobility spectrometry
+eNose	electronic nose
+
+
+
+
+(c) 2017 IOP Publishing Ltd
+
+GC-MS	gas chromatography- mass spectrometry
+
+
+Introduction
+
+Inflammatory bowel disease (IBD) is a chronic, relap- sing disorder of the gastrointestinal tract, which presents itself in two major forms, Crohn's disease (CD) and ulcerative colitis (UC). Paediatric patients with CD or UC mostly present with classical symp- toms such as abdominal pain, diarrhoea, rectal bleed- ing and weight loss []. Currently, the diagnosis of IBD is based on a combination of clinical symptoms, laboratory markers, radiologic findings and endo- scopy of the upper and lower gastrointestinal tract, with histologic examination of mucosal biopsies []. These endoscopic procedures remain essential in both initial work-up and in following up of the disease activity, but carry a high burden on patients, especially in children. Typically, this group requires hospitalisa- tion for intensive bowel preparation by nasogastric tube, and general anaesthesia to perform the endo- scopy. This emphasizes the need to develop new, non- invasive, cost-effective tests with high accuracy for diagnosing and monitoring disease activity of paedia- tric IBD.
+Current biomarkers in the diagnosis and follow- up of IBD disease activity include C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), faecal calprotectin (FC) and lactoferrin, but these bio- markers are characterized by relatively low specificity, especially in children []. Intestinal microbiota has increasingly been recognized as a relevant disease fac- tor in IBD. Previous studies have described a decrease in bacterial diversity and an alteration in the abun- dance of specific bacterial communities, compared to healthy controls [-]. Although microbiome-based diagnostics can currently not replace standard diag- nostic techniques, it has been considered to have potential as a complementary, non-invasive technique in the diagnosis of IBD. Microbiota-based diagnostic algorithms are not yet available, microbiota analysis is expensive, and its application in daily practice is lim- ited by the need for intensively trained personnel to perform the complex, time-consuming statistical ana- lyses. The colonic microbiota produces a characteristic metabolic profile by fermentation of non-starch poly- saccharides, composed of gaseous carbon-based mole- cules (including volatile organic compounds (VOCs)) []. VOCs also originate from human physiological metabolic processes and pathophysiological processes such as oxidative stress and inflammation, and are excreted as waste products through all conceivable bodily excrements []. Therefore, changes in the fae- cal VOC fingerprint are considered to reflect altera- tions of both gut microbiota and human metabolism []. Assessment of VOCs using sophisticated analytical techniques has led to the identification of potential
+
+disease-specific biomarkers for a variety of gastro- intestinal diseases, including malignancies, infections and inflammatory diseases [-].
+More recently, a technology that has found use in medical diagnostics is field asymmetric ion mobility spectrometry (FAIMS). Used extensively in military applications, it is now increasingly being used for the detection of gas phase biomarkers from human waste [-]. Compared with traditional gas chromato- graphy-mass spectrometry (GC-MS) and electronic noses it has higher sensitivity, a compact form factor, uses air as the carrier gas and has minimal drift. It achieves separation by measuring the mobility of ionised molecules in high-electric fields. Furthermore, faecal samples do not require specialized preparations or solutions prior to analysis. Thus, with low drift and high sensitivity, it should be feasible in a clinical setting to monitor changes of VOC pattern over time. In the present study we have aimed to measure faecal VOCs by FAIMS to discriminate paediatric IBD patients from healthy controls.
+
+
+Materials and methods
+
+Subjects
+Between December 2013 and October 2015 we included all eligible children aged 4 to 17 years suspected for IBD in this two-centre study (VU University Medical Centre and Academic Medical Centre, both located in Amsterdam, the Netherlands). The diagnosis of IBD was made according to the revised diagnostic Porto-criteria for paediatric IBD, including endoscopic and histologic and radiologic findings []. Localization and behaviour of disease were classified according to the Paris Classification. Disease activity was assessed by Physician Global Assessment (PGA-score) []. C-reactive protein (CRP), leucocytes and faecal calprotectin (FC) levels were determined at diagnosis. The exclusion criteria were a diagnosis of an unclassified type of IBD, use of antibiotics or immune modulating agents within the last six months prior to the study, culture-proven infectious gastroenteritis in the last six months prior to inclusion, history of surgery of the gastrointestinal tract (except appendectomy), and a previous diagnosis of chronic gastrointestinal disease (such as inflamma- tory bowel disease, celiac disease, functional constipa- tion or short bowel syndrome).
+The control group consisted of asymptomatic
+healthy volunteers in the age range of 4-17 years, attending primary and secondary schools in similar regions of the Netherlands (Noord-Holland, Zuid- Holland, Flevoland). An identical protocol was used for collection, storage, transport, handling and VOC analysis of these faecal samples. The study was approved by the University's Ethics Committee of both participating centres (2015.393).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samples
+Paediatric patients undergoing diagnostic ileocolono- scopy and esophagogastroduodenoscopy under suspi- cion of IBD were instructed to collect a faecal sample prior to bowel preparation. The faecal samples were collected in a sterile container, stored at home preferably at -20 degC, within 2 h of collection, and after delivery to the hospital stored at -20 degC until analysis by FAIMS. The protocol on collection and storage of the faecal samples of the control groups was similar to the study group [].
+
+Field asymmetric ion mobility spectroscopy
+(FAIMS)
+A commercial setup was used for FAIMS analysis (Lonestar(r) with ATLAS sampling system, Owlstone Ltd, UK). This instrument uses a Ni-63 radiation source to ionize VOCs after entering the instrument. In the FAIMS process, an increasing electric field is applied to the ionised molecules as they pass between two plates. To one of these plates a compensation voltage is added, which removes the effect of the molecular movement brought about by the applica- tion of the electric field. Thus, only molecules with specific mobilities exit the plates and are detected. By scanning through a series of compensation voltages and field strengths (described as the dispersion field), we are able to create a 3D VOC map of a complex mixture of chemicals in a faecal headspace (figure ). Further details about this analysis have been described previously [].
+
+VOC profiling
+Faecal VOC profiling using FAIMS took place after a mean sample storage period of 23 months in IBD (CD 25, UC 21) and 39 months in healthy controls. Faecal samples were thawed to room temperature (20 degC) one hour prior to VOC analysis. A mixture of a 0.5 g
+
+faecal sample with 10 ml of tap water was manually shaken to homogenize the sample, according to previous studies. To move the sample headspace into the FAIMS instrument, the sample was first placed in the ATLAS sample system. Here room air was compressed (0.1 MPa) and cleaned before being pushed over the top of the sample and into the FAIMS machine at a flow rate of 2 l min-1. The temperatures were set at 35 degC for the sample/bottle holder, 70 degC for the lid and 100 degC for the filter region (figure ) []. The air in the FAIMS was refreshed between samples by analysing the headspace of a clean jar. The dispersion field (DF) passed through 51 equal settings between 0% and 100%. The compensation voltage (CV) was set between +6 V and -6 V in 512 steps for each dispersion field, to produce 26 112 data points per sample. Measuring both positive and negative ion counts, a total of 52 224 data points were generated. To preclude environmental effects, each faecal sample was analysed three times sequentially, producing three matrices in 540 s; for analysis we used only the second and third matrix.
+
+
+Statistical methods
+The FAIMS data was processed using a well-estab- lished pipeline, which has been developed specifically for these types of studies and has previously been reported upon [, , ]. In brief, first a pre- processing step was applied to each run in the form of a 2D wavelet transform (using Daubechies D4 wave- lets). This performs two tasks, first as a data compres- sion step and secondly as a possible aid in the selection of chemical species by extracting 'peaks', which results in concentrating the chemical information into a small number of wavelet coefficients. This has the effect of improving and simplifying subsequent steps of analy- sis. A threshold is then applied to remove data with
+
+
+
+(n = 13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note. Values were obtained at study inclusion. Localization of the disease was determined by ileocolonoscopy and esophagogastroduodenoscopy before treatment initiation, and MR enteroclysis. Location and behavior is classified. Abbreviations: UQR, upper-quartile range; LQR, lower-quartile range; NA, not applicable.
+
+
+little or no discriminatory power (known from previous work).
+This was followed by a five-fold cross-validation, using 80% of the data as a training set, and the remain- ing 20% as a test set. Within each fold, important fea- tures were identified using a Wilcoxon rank sum test from the training set. The two most statistically impor- tant features were then used to predict the result of the test set. Four different classifiers were used for predic- tion, specifically random forest, Gaussian process clas- sifier, XGB (a boosting algorithm) and sparse logistic regression. Of these, the following generated the best classification results: healthy versus disease (random forest), CD versus healthy (XGB), CU versus healthy (sparse logistic regression), CD versus CU (sparse logistic regression). We note that in this paper we are focusing on the best classifier in each case (which could be considered a source of overfitting), and there- fore all the results are shown in the supplementary information. However, we note that the results were generally consistent across multiple classifiers in each case, suggesting that a range of classifiers can be effec- tive for this task. This is also our experience with FAIMS data in other contexts.
+
+Ethical considerations
+
+The study is approved by the Medical Ethical Review Committee (METc) of VU University Medical Centre, registered with the US Office for Human Research Protections (OHRP) as IRB00002991. Written informed consent was obtained from all of the paediatric IBD patients, healthy children and their parents.
+
+Results
+
+Thirty-six children with de novo, treatment-naive IBD were included (13 UC, 23 CD). The control group consisted of 24 asymptomatic healthy children. All controls were age matched. The subject characteristics of the IBD patients and the control group are described in table . Besides a female gender predominance in the UC group compared to the other subgroups, no statistically significant differences in subject character- istics were present between CD, UC and controls.
+The results of the FAIMS data comparing CD, UC and controls are displayed in table , and visualized in a box plot of probability (figure ). An overview of the complete outcome of the four performed classifiers is displayed in supplementary tables 1-4, available online   at   . An overview of the complete outcome of the four
+
+Table 2. Performance characteristics for the discrimination of ulcerative colitis, Crohn's disease and healthy controls by faecal VOC analysis.
+
+Note. Sensitivities, specificities, p-values and AUCs are reported for the respective optimum cut-points. Abbreviations: UC, ulcerative colitis; CD, Crohn's disease; AUC 95%CI, area under the curve with 95% confidence interval.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+performed classifiers is displayed in supplementary tables S1-4. Faecal VOCs of IBD patients could be dis- criminated from the control group (AUC +- 95%CI, p-value, sensitivity, specificity; 0.76 +- 0.14, p < 0.001, 79%, 78%). Faecal VOC profiles of CD patients dif- fered from the healthy control group (0.90 +- 0.10,   p < 0.001, 83%, 83%). Furthermore, patients with UC could be discriminated from the healthy control group (0.74 +- 0.19, p < 0.02, 77%, 75%). VOC profiles could not distinguish UC from CD (0.67 +- 0.19, p = 0.0996, 65%, 62%).
+
+Discussion
+
+In the present study, we have compared faecal VOC patterns of de novo, treatment-naive paediatric IBD patients with active disease to healthy controls by means of field asymmetric ion mobility spectrometry (FAIMS). We observed that faecal VOC profiles of children diagnosed with active CD and UC could be discriminated from healthy controls with modest accuracy. Our results are in line with a previous study on the potential of faecal gas analysis as biomarkers of
+
+Table 3. VOC studies IBD.
+
+Note. Results of VOC studies of patients with IBD. Abbreviations: VOC, volatile organic compounds; IBD, inflammatory bowel disease; UC, ulcerative colitis; CD, Crohn's disease; AUC 95%CI, area under the curve with 95% confidence interval.
+
+
+
+disease activity in paediatric IBD, using an electronic nose device (Cyranose(r)). In that study, faecal VOC profiles of 55 children with de novo IBD (26 UC, 29 CD) could be discriminated from 28 healthy controls during both exacerbation and upon achieving clinical remission. A similar distinction was observed between UC versus CD, both during exacerbation and remis- sion [].
+An overview of studies on VOC analysis in IBD is given in table . Recent studies using FAIMS technol- ogy have shown that VOCs derived from breath and urine can be used to discriminate adult patients with de novo IBD from healthy controls [, ]. However, there is currently a lack of data involving VOC analysis in paediatric patients using FAIMS []. It could be hypothesized that in the diagnostic work-up of gastro- intestinal diseases, analysis of faecal VOCs is more appropriate compared to VOCs deriving from other excreta. Human faeces contains the end-product of digestive, excretory processes, of diet and the bacterial metabolism of the colon []. Since IBD is character- ized by mucosal inflammation of the intestines and is associated with intestinal microbial shifts, analysis of faecal VOCs could possibly offer a more direct and int- egral view on disease activity compared to, for exam- ple, breath and urine.
+Observations on differences in VOC outcome between IBD subjects and controls are in concordance with observations of several studies on microbiota profiling in IBD, describing significant differences in
+
+gut microbiota composition between adult CD, UC and healthy controls [].
+In children, microbial diversity and richness of specific bacterial communities also seemed to differ between de novo CD and UC, although described results in studies on microbiota in IBD are not con- sistent [, , ]. In contrast to our previous study on faecal VOC analysis in paediatric IBD, in the present study we did not observe a significant difference in VOC profiles between UC and CD. A possible expla- nation for this apparent discrepancy may be caused by differences in examined cohorts. However, IBD cohorts in both studies were comparable with similar participating hospitals and comparable patient char- acteristics. It seems more likely that observed differ- ences are due to the way VOCs were detected. By eNose (Cyranose(r)), VOC groups present in the gas- eous mixture of interest interacts with one or more eNose sensor, creating VOC patterns based on a change in the electronic resistance of each sensor. By FAIMS a smell print is obtained based on ionized VOCs' mobility over an electric field, which is a com- pletely different mechanism. Hypothetically, minor differences in VOC profiles as measured by FAIMS may induce significant differences in VOC outcome as measured by a traditional eNose and vice versa. Nota- bly, eNoses in particular employ sensors which are prone to batch variation, fouling and ageing effects, so one eNose might perform differently to another exam- ple of the same nominal type. Future studies
+
+comparing both techniques, and using similar sam- ples, are needed to obtain detailed insight on this aspect which may affect VOC outcome. These studies should preferably include a subgroup of controls with gastrointestinal symptoms such as diarrhea and abdominal pain, allowing a comparison of faecal VOC profiles of IBD with an intention-to-diagnose cohort. Furthermore, it has been shown that different sam- pling conditions and characteristics, like sample mass, fecal sample temperature, water content, and duration of storage at room temperature, all seem to affect VOC outcome []. Optimal conditions have not yet been defined, but these observations underline the need for standardization of study protocols.
+The strength of this study's technique is the exclu- sion of bias by medication since all patients were treat- ment-naive prior to collection of the faecal sample. We used a standard methodology guideline on sample col- lection, storage and preparation for comparability to future studies and easy application for medical prac- tice. Furthermore, we used a well-defined, matched control group. One of the limitations of this study is the relatively small sample size. This prevented us from assessing the potential influence of exogenous VOCs from environmental factors, previous use of medication and diet. Possibly, parents of children suf- fering from IBD may have altered their normal diet in an attempt to control symptoms. In the case of sys- tematic dietary alterations, this may have resulted in a type I error (false positive outcome). The paediatric patients and the children from the control group are derived from a relatively limited geographic area with a more or less common culture and diet. However, detailed daily dietary information would be valuable to investigate a possible correlation with measured faecal VOCs. Patient characteristics were similar in the three subgroups, except for sex, with a predominance of females in the UC subgroup; however, previous stu- dies have shown that gender does not affect VOC com- position [, , ].
+In conclusion, we observed that faecal VOC analy- sis by FAIMS could discriminate paediatric de novo IBD patients from healthy controls, with modest acc- uracy. The apparently high specificity of faecal VOCs compared to faecal calprotectin underlines the poten- tial of this method to serve as a complementary, non- invasive technique in the diagnosis of paediatric IBD, possibly limiting the number of endoscopies needed in a subset of children suspected for IBD.
+
+Conflict of interest
+NONE
+Financial disclosure
+NONE
+Grand support
+NONE
+Declaration of funding interest
+
+NONE
+
+References
+Cuffari C 2009 C C Diagnostic considerations in pediatric inflammatory bowel disease management Gastroenterology & Hepatology 5 775-83
+Canavese G et al 2013 Inflammatory bowel disease: a proposal to facilitate the achievement of an unequivocal diagnosis World
+J. Gastroenterol. 
+Vermeire S, Van Assche G and Rutgeerts P 2006 Laboratory markers in IBD: useful, magic, or unnecessary toys? Gut 
+Sheehan D, Moran C and Shanahan F 2015 The microbiota in inflammatory bowel disease J. Gastroenterol. 
+Kolho K L et al 2015 Fecal microbiota in pediatric inflammatory bowel disease and its relation to inflammation Am. J. Gastroenterol. 
+Schwiertz A, Jacobi M, Frick J S, Richter M, Rusch K and Kohler H 2010 Microbiota in pediatric inflammatory bowel disease J. Pediatr. 
+Swidsinski A, Loening-Baucke V, Vaneechoutte M and Doerffel Y 2008 Active Crohn's disease and ulcerative colitis can be specifically diagnosed and monitored based on the biostructure of the fecal flora Inflamm. Bowel Dis. 
+Conte M P et al 2006 Gut-associated bacterial microbiota in paediatric patients with inflammatory bowel disease Gut 
+Waugh N et al 2013 Faecal calprotectin testing for differentiating amongst inflammatory and non-inflammatory bowel diseases: systematic review and economic evaluation Health Technol. Assess. 
+Cicolella A 2008 Volatile organic compounds (VOC): definition, classification and properties Rev. Mal. Respir. 
+Arasaradnam R P et al 2014 Detection of colorectal cancer (CRC) by urinary volatile organic compound analysis PLoS One 
+de Meij T G et al 2014 Electronic nose can discriminate colorectal carcinoma and advanced adenomas by fecal volatile biomarker analysis: proof of principle study Int. J. Cancer 
+Cavaleiro Rufo J, Madureira J, Oliveira Fernandes E and Moreira A 2016 Volatile organic compounds in asthma diagnosis: a systematic review and meta-analysis Allergy 
+Bomers M K et al 2015 Rapid, accurate, and on-site detection of C difficile in stool samples Am. J. Gastroenterol. 
+Eiceman G A and Stone J A 2004 Ion mobility spectrometers in national defence Anal. Chem. 
+Guo D, Wang Y, Li L, Wang X and Luo J 2015 Precise determination of nonlinear function of ion mobility for explosives and drugs at high electric fields for microchip FAIMS J. Mass Spectrom. 
+Armenta S, Alcala M and Blanco M 2011 A review of recent, unconventional applications of ion mobility spectrometry (IMS) Anal. Chim. Acta 
+Levine A et al 2014 ESPGHAN revised Porto criteria for the diagnosis of inflammatory bowel disease in children and adolescents J. Pediatr. Gastroenterol. Nutr. 58 795-806
+Hyams J S et al 1991 Development and validation of a pediatric Crohn's disease activity index J. Pediatr. Gastroenterol. Nutr. 
+Samson C M et al 2012 Improved outcomes with quality improvement interventions in pediatric inflammatory bowel disease J. Pediatr. Gastroenterol. Nutr. 
+Covington J A, van der Schee M P, Edge A S, Boyle B, Savage R S and Arasaradnam R P 2015 The application of FAIMS gas analysis in medical diagnostics Analyst 
+de Meij T G et al 2014 Faecal gas analysis by electronic nose as novel, non-invasive method for assessment of active and quiescent paediatric inflammatory bowel disease: proof of
+
+principle study J. Crohns Colitis accepted (PMID: 25248313)
+Arasaradnam R P et al 2014 Differentiating coeliac disease from irritable bowel syndrome by urinary volatile organic compound analysis-a pilot study PLoS One 
+Arasaradnam R P et al 2016 Non-invasive exhaled volatile organic biomarker analysis to detect inflammatory bowel disease (IBD) Dig. Liver Dis. 
+Patel N et al 2014 Metabolomic analysis of breath volatile organic compounds reveals unique breathprints in children with inflammatory bowel disease: a pilot study Aliment.
+Pharmacol. Ther. 
+Probert C S, Ahmed I, Khalid T, Johnson E, Smith S and Ratcliffe N 2009 Volatile organic compounds as diagnostic biomarkers in gastrointestinal and liver diseases
+J. Gastrointestin. Liver Dis. 18 337-43
+
+Sokol H et al 2006 Specificities of the fecal microbiota in inflammatory bowel disease Inflamm. Bowel Dis. 
+Berkhout D J et al 2016 Effects of sampling conditions and environmental factors on fecal volatile organic compound analysis by an electronic nose device Sensors (Basel) 
+Arasaradnam R P et al 2015 Non-invasive distinction of non- alcoholic fatty liver disease using urinary volatile organic compound analysis: early results J. Gastrointestin. Liver Dis. 24 197-201
+Arasaradnam R P, Covington J A, Harmston C and Nwokolo C U 2014 Review article: next generation diagnostic modalities in gastroenterology--gas phase volatile compound biomarker detection Aliment. Pharmacol. Ther. 
+Shvartsburg A A, Smith R D, Wilks A, Koehl A,
+Ruiz-Alonso D and Boyle B 2009 Ultrafast differential ion mobility spectrometry at extreme electric fields in multichannel microchips Anal. Chem. 

@@ -1,0 +1,461 @@
+
+
+
+Special Report
+For reprint orders, please contact: 
+
+
+
+
+Epigenetics, obesity and early-life cadmium or lead exposure
+
+
+
+
+
+
+
+Obesity is a complex and multifactorial disease, which likely comprises multiple subtypes. Emerging data have linked chemical exposures to obesity. As organismal response to environmental exposures includes altered gene expression, identifying the regulatory epigenetic changes involved would be key to understanding the path from exposure to phenotype, and provide new tools for exposure detection and risk assessment. In this report, we summarize published data linking early-life exposure to the heavy metals, cadmium and lead, to obesity. We also discuss potential mechanisms, as well as the need for complete coverage in epigenetic screening to fully identify alterations. The keys to understanding how metal exposure contributes to obesity are improved assessment of exposure and comprehensive establishment of epigenetic profiles that may serve as markers for exposures.
+
+First draft submitted: 5 August 2016; Accepted for publication: 19 October 2016;
+Published online: 16 December 2016
+
+Keywords:  cadmium * DNA methylation * epigenetics * lead * obesity
+
+Sarah S Park1, David A Skaar1, Randy L Jirtle1,2,3 & Cathrine Hoyo*,1
+1Department of Biological Sciences, 
+Center for Human Health & the Environment, North Carolina State University, Raleigh, NC 27695, USA 
+2Department of Oncology, McArdle 
+Laboratory for Cancer Research, University of Wisconsin-Madison, Madison, WI 53705, USA
+3Department of Sport & Exercise 
+Sciences, Institute of Sport & Physical Activity Research, University of Bedfordshire, Bedford, Bedfordshire, UK
+*Author for correspondence: 
+
+
+
+Approximately 17% of US children and 35% of adults are obese [1], and annual expendi- tures attributable to obesity and related care exceed US$190 billion [2]. Obese children are more likely to be obese as adults, and its comorbid conditions include Type 2 diabetes, hypertension and cardiovascular disease [3]. Established risk factors are genetic predis- position and energy imbalance, defined as higher caloric intake compared with output. These factors alone, however, do not fully account for the magnitude and rapid increase in the incidence of obesity, especially in early life. A compelling hypothesis receiving con- sideration posits that increased exposure to epigenetically disruptive chemicals during key developmental stages causes stable epi- genetic alterations that may promote obesity. Due to their endocrine-disrupting proper- ties, environmental pollutants including the heavy metals, cadmium and lead, are being investigated as risk factors for obesity. Assess- ing whether exposure to these chemicals
+
+increases obesity risk remains a challenge. Low-level exposure to heavy metals often elicits no immediate symptoms and there is often a long latent period between exposure and obesity outcomes. These exposures may occur as early as the prenatal period while obesity in children may not become evident until middle childhood.
+Common heavy metals such as cadmium and lead are ubiquitous environmental pol- lutants. They frequently co-occur in the environment, and are ranked in  the  top  ten environmental chemicals of concern by environmental health agencies [4]. This con- cern is driven by well-documented effects of exposure to these heavy metals on neuro- developmental outcomes. Cadmium or lead exposure increases the risk for both neuro- developmental disorders [5-8] and lower birth weight [9-12]. Lower birth weight, followed by rapid weight gain is a consistent risk factor for cardiometabolic impairment later in life, such as cardiovascular disease, Type 2 diabetes,
+
+
+
+
+10.2217/epi-2016-0047 (c) Catherine Hoyo
+
+Epigenomics (2017) 9(1), 57-75	ISSN 1750-1911	57
+
+Special Report	Park, Skaar, Jirtle & Hoyo
+
+
+
+hypertension and dyslipidemia [13-15]. Disentangling these relationships has been complicated by several methodological shortcomings, including short-term follow-up in contemporary cohorts and the inability to account for competing risk factors for cardiometabolic and neurodevelopmental disorders in older cohorts, complicating causal inference. Given the substantial cost to patients and the healthcare system associated with obesity and its sequelae, including cardiometa- bolic diseases, it is imperative that biomarkers are found that identify individuals at risk of obesity early in development so it can be more effectively prevented. Because the etiology of obesity is multifactorial,
+a potential way of addressing this challenge is to identify epigenetic alterations that occur in response to risk factors such as heavy metal exposure, and  to delineate those patterns associated with obesity. Since altering epigenetic gene regulation is a way in which organisms normally respond to environmental change, the identification of these epigenetic modi- fications has the potential to clarify the etiology of obesity. These epigenetic alterations can also contrib- ute to defining obesity subtypes [16,17] or endotypes that are likely to be responsive to different interven- tions, if such endotypes exist. To accomplish this, however, requires the gathering of data that dem- onstrate relationships between epigenetic marks and both obesity and exposure. Alterations in DNA methylation - the most studied epigenetic modifica- tion in humans - are proposed to be useful in provid- ing mechanistic insights and identifying stable expo- sure biomarkers [18-20]. In this report, we discuss the current research examining the epigenetic alterations associated with childhood obesity, developmental exposure to cadmium or lead, potential mechanisms at play and the potential role that cadmium- or lead- induced epigenetic dysregulation has on obesity and cardiometabolic outcomes.
+
+Childhood obesity & epigenetics
+The evidence is mounting that DNA methylation alterations at regulatory regions contribute to early onset obesity [21-24]. DNA methylation in the pro- moter region of genes has been studied extensively because increased methylation of regions leads to tran- scriptional silencing [25,26]. We conducted a literature search in PubMed using the keywords 'child, obesity, and epigenetics and/or methylation'. The search gener- ated 168 results primarily of reviews and earlier reports on Prader-Willi syndrome, a genetic disorder associ- ated with hyperphagia and obesity, and 24, for the purposes of our review, were relevant original research articles. Summaries of these articles are included in reverse chronological order in Table 1.
+
+
+
+In targeted analyses using bisulfite-sequenced DNA, promoter regions of genes known to be involved in obesity or its correlates, such as dyslipidemia or hyperglycemia [29,33,36-39,41,46] and regulatory regions of imprinted genes [40,42,45,51] were among the first epigenomic regions to be interrogated. Regulatory regions of genomically imprinted genes are character- ized by parent-of-origin methylation that controls gene expression. Using DNA methylation measurements, imprint control regions associated with obesity include ZAC1 (PLAGL1/HYMA1), a putative nodal regulator of a large network of growth effector genes [52], and IGF2/H19: these genes are involved in growth regu- lation, lipid distribution and early obesity [42,45,53,54]. Data from targeted analyses also support that obesity in children is associated with differential DNA methyl- ation in the regulatory regions of multiple genes, some not imprinted. These include POMC, FAIM2, BDNF, HIF3A and the IGF2/H19 imprinted domain [29,32,33, 36,37,41,42,45,46]. One study utilized a combination of  in vitro and in vivo experimental approaches to evaluate the role of SOX6 in adipogenesis. The authors reported that SOX6 was an enhancer of adipogenesis through its regulation of adipogenic genes such as MEST, PPARg, C/EBPa and FABP4. SOX6 expression was higher in adipocytes from small for gestational age (SGA) neonates. CpGs adjacent to putative SOX6-binding sites in the MEST promoter were hypomethylated in SGA-differentiated adipocytes with increased expres- sion of MEST. SGA has been shown to be a risk factor for obesity. In mice, SOX6 was also shown to regu- late lipid metabolism where Sox6 knockdown reduced serum and liver triglycerides and serum cholesterol levels. Loss of Sox6 in zebrafish larvae also resulted in reduced adipogenesis [55]. These data support the role of epigenetics in the genesis of obesity; however, the regions interrogated thus far remain limited.
+Agnostic experimental approaches, primarily using array technology of preselected CpG dinucleotides, have also identified regions associated with obesity in children. These studies utilized the 450K methylation array [28,30-32] or 385K methylation array [35], and alter- native and older methods: the 27K methylation array, GoldenGate, MassARRAY [34,47,48,50,56] and global methylation [44,49]. Consistent relationships have been found between LINE-1 hypomethylation and obesity [44,49]. Gene-specific methylation associated with obesity that were identified using these agnos- tic approaches include CORO7 [34], FZD7, PRLHR, EXOSC4 and EIF6 [35], as well as TAOK3, PIWIL4
+and FYN [30]. Furthermore, differential DNA methyl- ation of miRNA-coding regions in obese compared with nonobese children were identified [28] as were differences in the distribution of differentially meth-
+
+
+
+58	Epigenomics (2017) 9(1)	future science group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special Report	Park, Skaar, Jirtle & Hoyo
+
+
+
+ylated regions between chromosomes where specific chromosomes were over-represented for demethyl- ation of promoters and CpG islands in obese versus nonobese children [35]. A combination of methylation array and genome-wide genetic variant analysis showed an enrichment for obesity-related genes [43]. The strong relationships between DNA methylation and RNA expression supports the functional significance of many differentially methylated regions identified [57].
+While the number of studies is growing, replicating the multiple CpGs identified has remained a challenge. First, these earlier human studies were conducted in DNA obtained from accessible specimens, such as saliva and peripheral blood leukocytes, which may not have direct relevance to obesity, as methylation marks are cell specific. Second, these studies are often under- powered with the majority of reviewed studies interro- gating epigenetic marks in <200 individuals. Third, the scope of CpGs investigated thus far using existing array technology is also relatively small compared with the >28 million present in the human genome [58]. Coverage is based on annotated genes, promoters and CpG islands, which excludes most of the genome, including most intergenic regions and large portions of intragenic regions. Also, some imprint control regions are not covered partly due to their distance from genes as well as their low CpG content. Furthermore, com- parisons of available data are also complicated by dif- ferences in the obesity indicators to which the CpGs are evaluated in different studies, with varying use of overall weight with or without adjusting for height, age or sex, waist circumference or skinfold thickness, and other indicators of early truncal fat accrual. Thus, it is still unclear which CpG dinucleotides are asso- ciated with patterns of childhood obesity. Although the identification of epigenomic regions related to childhood obesity has provided clues about the poten- tial pathways leading to obesity in children, a com- prehensive analysis tool that captures the entirety of the epigenome, and relating these to specific obesity outcomes, is needed.
+As the cost of treating obesity and its comorbidities increases with age, it is critical to identify epigenetic perturbations that occur during early development and use these data to better focus early intervention efforts for obesity endotypes based on epigenetic biomarkers. Identification of such biomarkers will require comprehensive and unbiased screening, with tools such as whole-genome bisulfite sequencing at sufficient depth to measure DNA methylation at most cytosines, including atypical non-CpG sites, to iden- tify obesity related regions. For clinical utility, it will also be important to demonstrate that biomarkers identified in surrogate cell types, accessible without
+
+
+invasive sampling from otherwise healthy humans, are relevant to cell types targeted by the exposure. Only then can methylation marks identified from agnostic approaches be useful in identifying the  endotypes of obesity. Recently, this endotyping approach was employed to identify epigenetically labile regions in the peripheral blood of obese asthmatic children [59]. Overlapping genes and pathways identified in these obesity studies could potentially provide patterns of epigenetically dysregulated genes that characterize the obesity endotypes.
+
+Exposure to cadmium or lead & obesity
+An example of the application of epigenetic endotyp- ing is in addressing the emerging question of whether epigenetic mechanisms mediate, at least in part, observed associations between early exposure to heavy metals and obesity risk in children. Cadmium or lead exposure during the prenatal period has long been associated with lower birth weight and SGA [9-12,60]. Low birth weight, which is often followed by rapid adiposity gain is a consistent risk factor for cardiovas- cular and metabolic impairment later in life [13]. Some but not all [61-63] human observational studies demon- strate a positive association between lead or cadmium exposure and obesity [64,65] as well as cardiovascular disease or metabolic syndrome [66,67]. In support of these human observations, animal studies of perinatal lead exposure show increased fat mass, body weight or food intake in adulthood [68-71]. Early-life cadmium exposure has also been shown to increase fat mass in male mice. This study utilized the transplantation of fecal microbiota from cadmium-exposed male mice to recipient controls and they exhibited increased fat mass and body fat percentage compared with recipi- ent controls from unexposed control donors [72]. Cad- mium exposure has also been associated with altered adipocyte differentiation [73].
+Thus far, there are limited data available to demon- strate associations between prenatal or early postnatal exposure to these compounds and subclinical mark- ers of cardiometabolic impairment during childhood. Given the evidence linking cadmium and lead expo- sure to low birth weight and data linking low birth weight to rapid weight gain and obesity in childhood, it is important to determine if these heavy metals alter the epigenome early in development. If informative epigenetic marks are identified, these marks could serve as a predictive tool for identifying children at risk for obesity or cardiovascular diseases in later life.
+A PubMed literature search using keywords 'child, epigenetics or methylation, and lead exposure or cad- mium' generated 35 results of which five were primary research articles. This was further augmented with a
+
+
+
+64	Epigenomics (2017) 9(1)	future science group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epigenetics, obesity & early-life cadmium or lead exposure Special Report
+
+
+search for articles in the reference sections of relevant papers pertaining to epigenetics, birth weight or adi- posity generating 18 additional articles, for a total of 23 articles included in Tables 2 & 3.
+Studies of targeted methylation analysis of DNA from human embryonic kidney cells exposed in culture to lead, and tissues exposed in vivo to lead report epigen- etic perturbations at the regulatory regions of imprinted genes and altered expression of DNA methyltransfer- ases [79,82,83]. Targeted DNA methylation analysis iden- tified differential methylation at the imprinted loci of PEG3, PEG1/MEST, IGF2/H19 and DLK1/MEG3 that
+is attributable to prenatal cadmium or lead exposure, and associated with dysregulated growth outcomes in both mice and humans [12,71,73,74].
+In humans, agnostic approaches using global methylation screening of Alu and LINE-1 elements demonstrated hypomethylation of LINE-1 related to increased patellar lead levels [84,85]. Sex-specific effects resulting from cadmium [81] and lead [77,78] exposure as well as multigenerational effects from lead exposure [75] have also been reported.
+For future work to be comprehensive, tools such as whole-genome bisulfite sequencing are needed to identify DNA methylation patterns and genes that are dysregulated by exposure to cadmium or lead in cell types relevant to the genesis of obesity. It will also be important to identify the overlap in epigenetic profiles associated with cadmium or lead exposure and those associated with obesity.
+
+Potential mechanisms by which cadmium & lead may alter obesity risk
+Cadmium and lead have well-established roles as neurotoxins impacting neurodevelopment [86-88]. The relationship between obesity and brain function is also established [89,90]. The role of neurodegenera- tion on obesity mediated by neurotoxic heavy metals was reviewed [91]. One mechanism by which heavy metal exposure might lead to obesity may involve the effects of metal neurotoxicity on brain function and signaling related to appetite and satiety. Since brain development is affected by both lead and cad- mium, a disruption in energy balance could result from dysregulated appetite and satiety response, with consequent increased caloric intake. For exam- ple, both cadmium and lead exposures have been shown to reduce the levels of BDNF [8,92,93], an obe- sity related gene that regulates energy balance [94]. Meanwhile, lower methylation of BDNF promoter in the salivary DNA of obese adolescents has also been reported [36], while increased adiposity is related to decreased levels of circulating BDNF [95]. Likewise, prenatal lead exposure results in decreased sponta-
+
+
+
+future science group
+
+	69
+
+Special Report	Park, Skaar, Jirtle & Hoyo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Hypothesized relationships linking exposure, epigenetics and obesity. This schema summarizes the hypothesized relationships between an exposure such as to heavy metals and increased risk of obesity and its comorbidities including cardiovascular disease, Type 2 diabetes and dyslipidemia. Epigenetic alterations may provide a means by which metal exposure alters obesity risk, but the known neurodevelopmental effects and remodeling of gut microbiota by metal exposures may also contribute, influencing behavior and metabolism. Bidirectional interactions between neurodevelopmental effects, the microbiome and the epigenome could together alter each of these factors to individually or synergistically contribute to obesity. The suggested complexity of interactions highlights the need for comprehensive ascertainment of exposure and their effects.
+
+
+neous motor activity, altered dopamine levels and obesity in adult male mice [69]. In humans, early-life cadmium or lead exposure is also associated with higher risk of attention-deficit/hyperactivity dis- order [96,97], a neurodevelopmental condition that is linked with obesity [98]. In addition, PLAGL1, found to be involved in neocortical development [99], had  a positive association between its methylation and lead exposure [76], while its reduced expression is associated with obesity [27]. Inflammation and oxi- dative stress may play a mechanistic role. Increased oxidative stress and inflammation are associated with childhood obesity [100-102], as is early-life exposure to cadmium [103,104], and the brain is a primary target of cadmium-mediated oxidative stress [105]. How- ever, determining cause-and-effect remains a chal- lenge. If regions of the epigenome targeted by these heavy metals are determined, epigenetics may play a key role in clarifying the relationships and pathways connecting neurotoxicity and obesity.
+Another area warranting further study is the link between the diversity of specific gut microbial spe- cies with environmental exposures [106] and obesity. In male mice, prenatal lead and early-life cadmium exposure have been shown to alter gut microbiota and lead to increases in adult body weight [70,] and fat mass [ 72]. Pathways epigenetically perturbed by cadmium and lead, especially the pathways altered in obesity, will be important for understanding its pathogenesis potentially via the microbiota-gut- brain axis [107-109] in childhood. We summarize these putative relationships in Figure 1.
+
+Conclusion
+Epigenetics can be a powerful tool in understanding the etiology of complex diseases. In the context of obesity, a multifactorial and chronic disease, epigen- etic patterns may contribute to delineating the path- ways that contribute to comorbidities and severity. Furthermore, connecting exposure and effect is often challenging and epigenetics has the potential to elu- cidate relationships between the two. In this report, we review and discuss the utility and application of comprehensive DNA methylation analysis as an epi- genetic screening tool in childhood obesity, however, methodological shortcomings remain.
+
+Future perspective
+This report provides a summary of how patterns of epigenetic response could be used to characterize early exposure to ubiquitous environmental toxicants of con- cern such as cadmium and lead. This approach could be useful in endotyping obesity, improving exposure assessment, identifying epigenetic profiles to serve as indicators for specific heavy metal exposures and also for clarifying the role of the microbiota-gut-brain axis. Furthermore, studying populations with known expo- sures to heavy metals [9,110] and a higher incidence of obe- sity [111] may help expand and clarify these links. This can only be accomplished by increasing the capability of next-generation sequencing to produce whole-genome methylation maps from humans and animal models for multiple exposures known to be risk factors for com- mon chronic diseases including obesity. We anticipate that these methylation maps will have the ability to:
+
+
+
+
+70	Epigenomics (2017) 9(1)
+
+future science group
+
+Epigenetics, obesity & early-life cadmium or lead exposure Special Report
+
+
+
+subdivide obesity phenotypes; and provide gene targets for expression studies and therapeutic intervention. We also anticipate that animal models will soon determine the extent of epigenetic alterations due to chronic low- level exposure to heavy metals, and alterations in the gut-brain axis. It is in this context that human stud- ies can identify, with specificity, heavy metal-induced epigenetic changes that occur during early development that contribute to obesity risk. Overall, the identifica- tion of epigenetic alterations in response to environ- mental exposures such as cadmium and lead exposure will elucidate mechanisms that may be involved in the genesis of obesity and cardiometabolic disease, allow for exposure detection, and provide a new means for reducing obesity incidence and its severity.
+
+
+Open access
+This work is licensed under the Attribution-NonCommercial- NoDerivatives  4.0  Unported  License.  To  view  a  copy  of  this license,     visit            nd/4.0/
+
+Financial & competing interests disclosure
+This  work  was  supported  by  funding  from  NIEHS  awards T32ES007046 and P30ES025128. The authors have no other relevant affiliations or financial involvement with any organi- zation  or  entity  with  a  financial  interest  in  or  financial  con- flict  with  the  subject  matter  or  materials  discussed  in  the 
+ manuscript apart from those disclosed.
+No writing assistance was utilized in the production of this manuscript.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+Ogden CL, Carroll MD, Kit BK, Flegal KM. Prevalence of childhood and adult obesity in the United States, 2011-2012. JAMA 311(8), 806-814 (2014).
+Cawley J, Meyerhoefer C. The medical care costs of obesity: an instrumental variables approach. J. Health Econ. 31(1), 219-230 (2012).
+Selassie M, Sinha AC. The epidemiology and aetiology of obesity: a global challenge. Best Pract. Res. Clin. Anaesthesiol. 25(1), 1-9 (2011).
+Atsdr. Agency for toxic substances and disease registry. Secondary Agency for Toxic Substances and Disease Registry (2015).
+Cecil KM, Brubaker CJ, Adler CM et al. Decreased brain volume in adults with childhood lead exposure. PLoS Med. 5(5), e112 (2008).
+Davis JM, Svendsgaard DJ. Lead and child development.
+Nature 329(6137), 297-300 (1987).
+Dietrich KN, Krafft KM, Bornschein RL et al. Low- level fetal lead exposure effect on neurobehavioral
+
+development in early infancy. Pediatrics 80(5), 721-730 (1987).
+Wang Y, Chen L, Gao Y et al. Effects of prenatal exposure to cadmium on neurodevelopment of
+infants in Shandong, China. Environ. Pollut. 211, 67-73 (2016).
+Berkowitz Z, Price-Green P, Bove FJ, Kaye WE. Lead exposure and birth outcomes in five communities in Shoshone County, Idaho. Int. J. Hyg. Environ. Health 209(2), 123-132 (2006).
+Gonzalez-Cossio T, Peterson KE, Sanin LH et al. Decrease in birth weight in relation to maternal bone-lead burden. Pediatrics 100(5), 856-862 (1997).
+Tian LL, Zhao YC, Wang XC et al. Effects of gestational cadmium exposure on pregnancy outcome and development in the offspring at age 4.5 years. Biol. Trace Elem. Res. 132(1-3), 51-59 (2009).
+Vidal AC, Semenova V, Darrah T et al.
+Maternal cadmium, iron and zinc levels, DNA
+methylation and birth weight. BMC Pharmacol. Toxicol. 16, 20 (2015).
+
+
+
+
+future science group
+
+	71
+
+Special Report	Park, Skaar, Jirtle & Hoyo
+
+
+
+Barker DJ, Eriksson JG, Forsen T, Osmond C. Fetal origins of adult disease: strength of effects and biological basis. Int. J. Epidemiol. 31(6), 1235-1239 (2002).
+Barker DJ, Osmond C, Kajantie E, Eriksson JG. Growth and chronic disease: findings in the Helsinki Birth Cohort. Ann. Hum. Biol. 36(5), 445-458 (2009).
+Eriksson JG, Osmond C, Kajantie E, Forsen TJ, Barker DJ. Patterns of growth among children who later develop Type 2 diabetes or its risk factors. Diabetologia 49(12), 2853-2858 (2006).
+Karelis AD, St-Pierre DH, Conus F, Rabasa-Lhoret R, Poehlman ET. Metabolic and body composition factors in subgroups of obesity: what do we know? J. Clin. Endocrinol. Metab. 89(6), 2569-2575 (2004).
+Muller MJ, Lagerpusch M, Enderle J, Schautz B, Heller M, Bosy-Westphal A. Beyond the body mass index: tracking body composition in the pathogenesis of obesity and the metabolic syndrome. Obes. Rev. 13(Suppl. 2), 6-13 (2012).
+Heijmans BT, Tobi EW, Lumey LH, Slagboom PE. The epigenome: archive of the prenatal environment. Epigenetics 4(8), 526-531 (2009).
+Hoyo C, Murphy SK, Jirtle RL. Imprint regulatory elements as epigenetic biosensors of exposure in epidemiological studies.
+J. Epidemiol. Community Health 63(9), 683-684 (2009).
+Ray PD, Yosim A, Fry RC. Incorporating epigenetic data into the risk assessment process for the toxic metals arsenic, cadmium, chromium, lead, and mercury: strategies and challenges. Front. Genet. 5, 201 (2014).
+Drummond EM, Gibney ER. Epigenetic regulation in obesity.
+Curr. Opin. Clin. Nutr. Metab. Care 16(4), 392-397 (2013).
+Rhee KE, Phelan S, Mccaffery J. Early determinants of obesity: genetic, epigenetic, and in utero influences. Int. J. Pediatr. 2012, 463850 (2012).
+Sullivan EL, Grove KL. Metabolic imprinting in obesity.
+Forum Nutr. 63, 186-194 (2010).
+Van Dijk SJ, Molloy PL, Varinli H, Morrison JL, Muhlhausler BS. Epigenetics and human obesity. Int. J. Obes. (Lond.) 39(1), 85-97 (2015).
+Feinberg AP. An epigenetic approach to cancer etiology.
+Cancer J. 13(1), 70-74 (2007).
+Weidman JR, Dolinoy DC, Murphy SK, Jirtle RL. Cancer susceptibility: epigenetic manifestation of environmental exposures. Cancer J. 13(1), 9-16 (2007).
+Dalgaard K, Landgraf K, Heyne S et al. Trim28 haploinsufficiency triggers bi-stable epigenetic obesity. Cell 164(3), 353-364 (2016).
+Mansego ML, Garcia-Lacarte M, Milagro FI, Marti A, Martinez JA. DNA methylation of miRNA coding sequences putatively associated with childhood obesity. Pediatr. Obes. doi:10.1111/ijpo.12101 (2016) (Epub ahead of print).
+Wang S, Song J, Yang Y, Zhang Y, Wang H, Ma J. HIF3A DNA methylation is associated with childhood obesity and ALT. PLoS ONE 10(12), e0145944 (2015).
+Huang RC, Garratt ES, Pan H et al. Genome-wide methylation analysis identifies differentially methylated CpG loci associated with severe obesity in childhood. Epigenetics 10(11), 995-1005 (2015).
+
+
+
+Cao-Lei L, Dancause KN, Elgbeili G et al. DNA methylation mediates the impact of exposure to prenatal maternal stress on BMI and central adiposity in children at age 13(1/2) years: Project Ice Storm. Epigenetics 10(8), 749-761 (2015).
+Pan H, Lin X, Wu Y et al. HIF3A association with adiposity: the story begins before birth. Epigenomics 7(6), 937-950 (2015).
+Wu L, Zhao X, Shen Y et al. Influence of lifestyle on the FAIM2 promoter methylation between obese and lean children: a cohort study. BMJ Open 5(4), e007670 (2015).
+Eriksson A, Williams MJ, Voisin S et al. Implication of coronin 7 in body weight regulation in humans, mice and flies. BMC Neurosci. 16, 13 (2015).
+Ding X, Zheng D, Fan C et al. Genome-wide screen of DNA methylation identifies novel markers in childhood obesity. Gene 566(1), 74-83 (2015).
+Gardner KR, Sapienza C, Fisher JO. Genetic and epigenetic associations to obesity-related appetite phenotypes among African-American children. Pediatr. Obes. 10(6), 476-482 (2015).
+Wu L, Zhao X, Shen Y et al. Promoter methylation of fas apoptotic inhibitory molecule 2 gene is associated with obesity and dyslipidaemia in Chinese children. Diab. Vasc. Dis. Res. 12(3), 217-220 (2015).
+Yan Z, Zhang H, Maher C et al. Prenatal polycyclic aromatic hydrocarbon, adiposity, peroxisome proliferator- activated receptor (PPAR) gamma methylation in offspring, grand-offspring mice. PLoS ONE 9(10), e110706 (2014).
+Garcia-Cardona MC, Huang F, Garcia-Vivas JM et al. DNA methylation of leptin and adiponectin promoters in children is reduced by the combined presence of obesity and insulin resistance. Int. J. Obes. (Lond.) 38(11), 1457-1465 (2014).
+Azzi S, Sas TC, Koudou Y et al. Degree of methylation of ZAC1 (PLAGL1) is associated with prenatal and post-natal growth in healthy infants of the EDEN mother child cohort. Epigenetics 9(3), 338-345 (2014).
+Yoo JY, Lee S, Lee HA et al. Can proopiomelanocortin methylation be used as an early predictor of metabolic syndrome? Diabetes Care 37(3), 734-739 (2014).
+Deodati A, Inzaghi E, Liguori A et al. IGF2 methylation is associated with lipid profile in obese children. Horm. Res. Paediatr. 79(6), 361-367 (2013).
+Xu X, Su S, Barnes VA et al. A genome-wide methylation study on obesity: differential variability and differential methylation. Epigenetics 8(5), 522-533 (2013).
+Perng W, Mora-Plazas M, Marin C, Rozek LS, Baylin A, Villamor E. A prospective study of LINE-1DNA methylation and development of adiposity in school-age children. PLoS ONE 8(4), e62587 (2013).
+St-Pierre J, Hivert MF, Perron P et al. IGF2 DNA methylation is a modulator of newborn's fetal growth and development. Epigenetics 7(10), 1125-1132 (2012).
+Kuehnen P, Mischke M, Wiegand S et al. An Alu element- associated hypermethylation variant of the POMC gene
+
+
+
+72	Epigenomics (2017) 9(1)	future science group
+
+Epigenetics, obesity & early-life cadmium or lead exposure Special Report
+
+
+
+is associated with childhood obesity. PLoS Genet. 8(3), e1002543 (2012).
+Relton CL, Groom A, St Pourcain B et al. DNA methylation patterns in cord blood DNA and body size in childhood. PLoS ONE 7(3), e31821 (2012).
+Almen MS, Jacobsson JA, Moschonis G et al. Genome wide analysis reveals association of a FTO gene variant with epigenetic changes. Genomics 99(3), 132-137 (2012).
+Michels KB, Harris HR, Barault L. Birthweight, maternal weight trajectories and global DNA methylation of LINE-1 repetitive elements. PLoS ONE 6(9), e25254 (2011).
+Godfrey KM, Sheppard A, Gluckman PD et al. Epigenetic gene promoter methylation at birth is associated with child's later adiposity. Diabetes 60(5), 1528-1534 (2011).
+Perkins E, Murphy SK, Murtha AP et al. Insulin-like growth factor 2/H19 methylation at birth and risk of overweight and obesity in children. J. Pediatr. 161(1), 31-39 (2012).
+Soubry A, Murphy SK, Wang F et al. Newborns of obese parents have altered DNA methylation patterns at imprinted genes. Int. J. Obes. (Lond.) 39(4), 650-657 (2015).
+Hernandez-Valero MA, Rother J, Gorlov I, Frazier M, Gorlova O. Interplay between polymorphisms and
+methylation in the H19/IGF2 gene region may contribute to obesity in Mexican-American children. J. Dev. Orig. Health Dis. 4(6), 499-506 (2013).
+Huang RC, Galati JC, Burrows S et al. DNA methylation of the IGF2/H19 imprinting control region and adiposity distribution in young adults. Clin. Epigenetics 4(1), 21 (2012).
+Leow SC, Poschmann J, Too PG et al. The transcription factor SOX6 contributes to the developmental origins of obesity by promoting adipogenesis. Development 143(6), 950-961 (2016).
+Liu ZW, Zhang JT, Cai QY et al. Birth weight is associated with placental fat mass- and obesity-associated gene expression and promoter methylation in a Chinese population. J. Matern. Fetal Neonatal Med. 29(1), 106-111 (2016).
+Dave V, Yousefi P, Huen K, Volberg V, Holland N. Relationship between expression and methylation of obesity- related genes in children. Mutagenesis 30(3), 411-420 (2015).
+Lovkvist C, Dodd IB, Sneppen K, Haerter JO. DNA methylation in human epigenomes depends on local topology of CpG sites. Nucleic Acids Res. 44(11), 5123-5132 (2016).
+Rastogi D, Suzuki M, Greally JM. Differential epigenome- wide DNA methylation patterns in childhood obesity- associated asthma. Sci. Rep. 3, 2164 (2013).
+Sanin LH, Gonzalez-Cossio T, Romieu I et al. Effect of maternal lead burden on infant weight and weight gain at one month of age among breastfed infants. Pediatrics 107(5), 1016-1023 (2001).
+Cassidy-Bushrow AE, Havstad S, Basu N et al. Detectable blood lead level and body size in early childhood. Biol. Trace Elem. Res. 171(1), 41-47 (2016).
+Delvaux I, Van Cauwenberghe J, Den Hond E et al.
+Prenatal exposure to environmental contaminants and body
+
+
+composition at age 7-9 years. Environ. Res. 132, 24-32
+(2014).
+Scinicariello F, Buser MC, Mevissen M, Portier CJ. Blood lead level association with lower body weight in NHANES
+1999-2006. Toxicol. Appl. Pharmacol. 273(3), 516-523 (2013).
+Kim R, Hu H, Rotnitzky A, Bellinger D, Needleman H.
+A longitudinal study of chronic lead exposure and physical growth in Boston children. Environ. Health Perspect. 103(10), 952-957 (1995).
+Wang N, Chen C, Nie X et al. Blood lead level and its association with body mass index and obesity in China - results from SPECT-China study. Sci. Rep. 5, 18299 (2015).
+Rhee SY, Hwang YC, Woo JT et al. Blood lead is significantly associated with metabolic syndrome in Korean adults: an analysis based on the Korea National Health
+and Nutrition Examination Survey (KNHANES), 2008.
+Cardiovasc. Diabetol. 12, 9 (2013).
+Lee BK, Kim Y. Blood cadmium, mercury, and lead and metabolic syndrome in South Korea: 2005-2010 Korean National Health and Nutrition Examination Survey. Am. J. Ind. Med. 56(6), 682-692 (2013).
+Faulk C, Barks A, Sanchez BN et al. Perinatal lead (Pb) exposure results in sex-specific effects on food intake, fat, weight, and insulin response across the murine life-course. PLoS ONE 9(8), e104273 (2014).
+Leasure JL, Giddabasappa A, Chaney S et al. Low-level human equivalent gestational lead exposure produces sex- specific motor and coordination abnormalities and late-onset obesity in year-old mice. Environ. Health Perspect. 116(3), 355-361 (2008).
+Wu J, Wen XW, Faulk C et al. Perinatal lead (Pb) exposure alters gut microbiota composition and results in sex-specific bodyweight increases in adult mice. Toxicol. Sci. 151(2), 324-333 (2016).
+Faulk C, Barks A, Liu K, Goodrich JM, Dolinoy DC. Early- life lead exposure results in dose- and sex-specific effects on weight and epigenetic gene regulation in weanling mice. Epigenomics 5(5), 487-500 (2013).
+Ba Q, Li M, Chen P et al. Gender-dependent effects of cadmium exposure in early life on gut microbiota and fat accumulation in mice. Environ. Health Perspect. doi:10.1289/ ehp360 (2016) (Epub ahead of print).
+Kawakami T, Sugimoto H, Furuichi R et al. Cadmium reduces adipocyte size and expression levels of adiponectin and Peg1/Mest in adipose tissue. Toxicology 267(1-3), 20-26 (2010).
+Nye MD, King KE, Darrah TH et al. Maternal blood lead concentrations, DNA methylation of MEG3 DMR regulating the DLK1/MEG3 imprinted domain and early growth in a multiethnic cohort. Environmental Epigenetics doi:10.1093/eep/dvv009 (2016) (Epub ahead of print).
+Sen A, Heredia N, Senut MC et al. Multigenerational epigenetic inheritance in humans: DNA methylation changes associated with maternal exposure to lead can be transmitted to the grandchildren. Sci. Rep. 5, 14466 (2015).
+Li Y, Xie C, Murphy SK et al. Lead exposure during early human development and DNA methylation of imprinted
+
+
+
+
+future science group
+
+	73
+
+Special Report	Park, Skaar, Jirtle & Hoyo
+
+
+
+gene regulatory elements in adulthood. Environ. Health Perspect. 124(5), 666-673 (2015).
+Sen A, Heredia N, Senut MC et al. Early life lead exposure causes gender-specific changes in the DNA methylation profile of DNA extracted from dried blood spots. Epigenomics 7(3), 379-393 (2015).
+Sen A, Cingolani P, Senut MC et al. Lead exposure induces changes in 5-hydroxymethylcytosine clusters in CpG islands in human embryonic stem cells and umbilical cord blood. Epigenetics 10(7), 607-621 (2015).
+Senut MC, Cingolani P, Sen A et al. Epigenetics of
+early-life lead exposure and effects on brain development.
+Epigenomics 4(6), 665-674 (2012).
+Sanders AP, Smeester L, Rojas D et al. Cadmium exposure and the epigenome: exposure-associated patterns of DNA methylation in leukocytes from mother-baby pairs. Epigenetics 9(2), 212-221 (2014).
+Kippler M, Engstrom K, Mlakar SJ et al. Sex-specific effects of early life cadmium exposure on DNA methylation and
+implications for birth weight. Epigenetics 8(5), 494-503 (2013).
+Schneider JS, Kidd SK, Anderson DW. Influence of developmental lead exposure on expression of DNA methyltransferases and methyl cytosine-binding proteins in hippocampus. Toxicol. Lett. 217(1), 75-81 (2013).
+Nye MD, Hoyo C, Murphy SK. In vitro lead exposure changes DNA methylation and expression of IGF2 and PEG1/MEST. Toxicol. In vitro 29(3), 544-550 (2015).
+Wright RO, Schwartz J, Wright RJ et al. Biomarkers of lead exposure and DNA methylation within retrotransposons. Environ. Health Perspect. 118(6), 790-795 (2010).
+Pilsner JR, Hu H, Ettinger A et al. Influence of prenatal lead exposure on genomic methylation of cord blood DNA. Environ. Health Perspect. 117(9), 1466-1471 (2009).
+Bellinger D, Leviton A, Waternaux C, Needleman H, Rabinowitz M. Longitudinal analyses of prenatal and postnatal lead exposure and early cognitive development. N. Engl. J. Med. 316(17), 1037-1043 (1987).
+Bellinger DC. Very low lead exposures and children's neurodevelopment. Curr. Opin. Pediatr. 20(2), 172-177 (2008).
+Ciesielski T, Weuve J, Bellinger DC, Schwartz J, Lanphear B, Wright RO. Cadmium exposure and neurodevelopmental outcomes in U.S. children. Environ. Health Perspect. 120(5), 758-763 (2012).
+De Groot CJ, Van Den Akker EL, Rings EH, Delemarre- Van De Waal HA, Van Der Grond J. Brain structure, executive function and appetitive traits in adolescent obesity.
+Pediatr. Obes. doi:10.1111/ijpo.12149 (2016) (Epub ahead of print).
+Tsai CL, Chen FC, Pan CY, Tseng YT. The neurocognitive performance of visuospatial attention in children with obesity. Front. Psychol. 7, 1033 (2016).
+Aitlhadj L, Avila DS, Benedetto A, Aschner M, Sturzenbaum SR. Environmental exposure, obesity, and Parkinson's disease: lessons from fat and old worms. Environ. Health Perspect. 119(1), 20-28 (2011).
+
+
+
+Stansfield KH, Pilsner JR, Lu Q, Wright RO, Guilarte TR. Dysregulation of BDNF-TrkB signaling in developing hippocampal neurons by Pb(2+): implications for an environmental basis of neurodevelopmental disorders. Toxicol. Sci. 127(1), 277-295 (2012).
+Weston HI, Weston DD, Allen JL, Cory-Slechta DA. Sex-dependent impacts of low-level lead exposure and prenatal stress on impulsive choice behavior and
+associated biochemical and neurochemical manifestations.
+Neurotoxicology 44, 169-183 (2014).
+An JJ, Liao GY, Kinney CE, Sahibzada N, Xu B. Discrete BDNF neurons in the paraventricular hypothalamus control feeding and energy expenditure. Cell Metab. 22(1), 175-188 (2015).
+Kaur S, Gonzales MM, Tarumi T et al. Serum brain-derived neurotrophic factor mediates the relationship between abdominal adiposity and executive function in middle age. J. Int. Neuropsychol. Soc. 22(5), 493-500 (2016).
+Huang S, Hu H, Sanchez BN et al. Childhood blood lead levels and symptoms of attention deficit hyperactivity disorder (ADHD): a cross-sectional study of mexican children. Environ. Health Perspect. 124(6), 868-874 (2016).
+Luo M, Xu Y, Cai R et al. Epigenetic histone modification regulates developmental lead exposure induced hyperactivity in rats. Toxicol. Lett. 225(1), 78-85 (2014).
+Cortese S, Moreira-Maia CR, St Fleur D, Morcillo-Penalver C, Rohde LA, Faraone SV. Association between ADHD and obesity: a systematic review and meta-analysis. Am. J. Psychiatry 173(1), 34-43 (2016).
+Adnani L, Langevin LM. Zac1 regulates the differentiation and migration of neocortical neurons via Pac1. 35(39), 13430-13447 (2015).
+Butte NF, Liu Y, Zakeri IF et al. Global metabolomic profiling targeting childhood obesity in the Hispanic population. Am. J. Clin. Nutr. 102(2), 256-267 (2015).
+Cho K, Moon JS, Kang JH et al. Combined untargeted and targeted metabolomic profiling reveals urinary biomarkers for discriminating obese from normal-weight adolescents. Pediatr. Obes. doi:10.1111/ijpo.12114 (2016) (Epub ahead of print).
+Laura Anca P, Bogdana V, Olivia T, Horia V, Dumitru O, Leon Z. The relations between immunity, oxidative stress and inflammation markers, in childhood obesity. Free Radic. Biol. Med. 75(Suppl. 1) S44-S45 (2014).
+Kippler M, Hossain MB, Lindh C et al. Early life low-level cadmium exposure is positively associated with increased oxidative stress. Environ. Res. 112, 164-170 (2012).
+Pizzino G, Bitto A, Interdonato M et al. Oxidative stress and DNA repair and detoxification gene expression in adolescents exposed to heavy metals living in the Milazzo-Valle del Mela area (Sicily, Italy). Redox Biol. 2, 686-693 (2014).
+Agnihotri SK, Agrawal U, Ghosh I. Brain most susceptible to cadmium induced oxidative stress in mice. J. Trace Elem. Med. Biol. 30, 184-193 (2015).
+Claus SP, Guillou H, Ellero-Simatos S. The gut microbiota: a major player in the toxicity of environmental pollutants? Npj Biofilms Microbiomes 2, 16003 (2016).
+
+
+
+74	Epigenomics (2017) 9(1)	future science group
+
+Epigenetics, obesity & early-life cadmium or lead exposure Special Report
+
+
+
+Schele E, Grahnemo L, Anesten F, Hallen A, Backhed F, Jansson JO. Regulation of body fat mass by the gut microbiota: possible mediation by the brain. Peptides 77, 54-59 (2016).
+Mayer EA, Tillisch K, Gupta A. Gut/brain axis and the microbiota. J. Clin. Invest. 125(3), 926-938 (2015).
+Kumar H, Lund R, Laiho A et al. Gut microbiota as an epigenetic regulator: pilot study based on whole-genome methylation analysis. mBio 5(6), e02113-e02114 (2014).
+Dietrich KN, Ware JH, Salganik M et al. Effect of chelation therapy on the neuropsychological and behavioral
+
+
+development of lead-exposed children after school entry.
+Pediatrics 114(1), 19-26 (2004).
+Van Oostdam J, Donaldson SG, Feeley M et al. Human health implications of environmental contaminants in Arctic Canada: a review. Sci. Total Environ. 351-352, 165-246 (2005).
+Senut MC, Sen A, Cingolani P, Shaik A, Land SJ, Ruden DM. Lead exposure disrupts global DNA methylation
+in human embryonic stem cells and alters their neuronal differentiation. Toxicol. Sci. 139(1), 142-161
+(2014).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+future science group
+
+	75

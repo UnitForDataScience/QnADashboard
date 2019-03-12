@@ -1,0 +1,405 @@
+
+
+
+
+
+RESEARCH ARTICLE
+Exploring the salivary microbiome of children stratified by the oral hygiene index
+Izumi Mashima1,2,3, Citra F. Theodorea3,4, Boonyanit Thaweboon5, Sroisiri Thaweboon5, Frank A. Scannapieco2, Futoshi Nakazawa3*
+1 Japan Society for the Promotion of Science, Chiyoda-ku, Tokyo, Japan, 2 Department of Oral Biology, School of Dental Medicine, University at Buffalo, The State University of New York, Buffalo, New York, United States of America, 3 Department of Microbiology, School of Dentistry, Health Sciences University of Hokkaido, Ishikari-Tobetsu, Hokkaido, Japan, 4 Department of Oral Biology, Faculty of Dentistry, Universitas Indonesia, Jakarta, Indonesia, 5 Department of Oral Microbiology, Faculty of Dentistry, Mahidol University, Bangkok, Thailand
+
+* 
+
+
+Abstract
+
+
+
+
+OPEN ACCESS
+Citation: Mashima I, Theodorea CF, Thaweboon B, Thaweboon S, Scannapieco FA, Nakazawa F (2017) Exploring the salivary microbiome of children stratified by the oral hygiene index. PLoS ONE 12 (9): e0185274.  
+Editor: Alexander V. Alekseyenko, Medical University of South Carolina, UNITED STATES
+Received: April 10, 2017
+
+Accepted: September 8, 2017
+
+Published: September 21, 2017
+
+Copyright: (c) 2017 Mashima et al. This is an open access article distributed under the terms of the , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Data Availability Statement: All relevant data are within the paper and its Supporting Information files and the obtained sequence data are available in DDBJ Sequence Read Archive under accession number DRA005424.
+Funding: This study was supported by the Japan Society for the Promotion of Science (15J30007 to IM, 26462793 to FN;  ), Research Institute of Personalized Health Sciences, Health Sciences University of Hokkaido (2014-200-3, 2016-200-4 to FN; 
+
+Poor oral hygiene often leads to chronic diseases such as periodontitis and dental caries result- ing in substantial economic costs and diminished quality of life in not only adults but also in chil- dren. In this study, the salivary microbiome was characterized in a group of children stratified by the Simplified Oral Hygiene Index (OHI-S). Illumina MiSeq high-throughput sequencing based on the 16S rRNA was utilized to analyze 90 salivary samples (24 Good, 31 Moderate and 35 Poor oral hygiene) from a cohort of Thai children. A total of 38,521 OTUs (Operational Taxo- nomic Units) with a 97% similarity were characterized in all of the salivary samples. Twenty tax- onomic groups (Seventeen genera, two families and one class; Streptococcus, Veillonella, Gemellaceae, Prevotella, Rothia, Porphyromonas, Granulicatella, Actinomyces, TM-7-3, Lepto- trichia, Haemophilus, Selenomonas, Neisseria, Megasphaera, Capnocytophaga, Oribacterium, Abiotrophia, Lachnospiraceae, Peptostreptococcus, and Atopobium) were found in all subjects and constituted 94.5-96.5% of the microbiome. Of these twenty genera, the proportion of Strep- tococcus decreased while Veillonella increased with poor oral hygiene status (P < 0.05). Fur- thermore, an unassigned species of Veillonella, Veillonella dispar and Veillonella parvula tended to be elevated in the Poor oral hygiene group. This is the first study demonstrating an important association between increase of Veillonella and poor oral hygiene status in children. However, further studies are required to identify the majority of Veillonella at species level in sali- vary microbiome of the Poor oral hygiene group.
+
+
+
+
+
+
+Introduction
+Oral bacteria within biofilms associated with teeth cause two of the most common diseases in humans, dental caries and periodontal diseases. Poor oral hygiene resulting in dental caries and periodontal disease can detrimentally affect children's performance in school and achieve- ment in later life, and they can lead individuals to systemic infections, and even death in
+
+
+
+), The Institute for Fermentation, Osaka (Research grant 2016 and 2017 to IM;  ), and the Mahidol University Faculty of Dentistry (0517.033/62 to BT;  ). The funders had no role in this study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing interests: The authors have declared that no competing interests exist.
+
+vulnerable []. Children who experience the ill effects of poor oral hygiene are 12 times more inclined to miss school than the individuals who do not [].
+Microbial biofilms play an important role in host homeostasis, metabolic processes, nutri- tion and protection against deleterious infections [, ]. Indeed, disturbance of these commu- nities and changes on their composition have been associated with the development of a variety of diseases [-]. Poor oral hygiene status leads to changes in the structure of resident microbial communities driven by an inter-play between the microorganisms and the host response []. Hence, an understanding of the composition and ecological events that drive changes in biofilm composition, from good to poor oral hygiene status, is required to develop novel preventive strategies to promote oral health in children.
+Recently, high-throughput methods have been developed and employed for epidemiologic investigations relating microbiome profiles to disease risk [, ]. As described previously, major approaches to cost-efficient high-throughput characterization of the human micro- biome exploit the high variability in microbial 16S ribosomal RNA (rRNA) gene sequence, uniquely found in prokaryotes and considered as a barcode that can be used to identify groups of microbes, including both previously cultivable and so far not-cultivated organisms []. The development of now affordable methods has allowed conduct of cohort studies of the human microbiome, providing insight into the diversity and community structure comparing health with disease []. These advances have already documented the variability in the oral micro- biome as related to dental caries and periodontal diseases [-].
+In this study, we analyzed the salivary microbiome in Thai children stratified by oral hygiene status. This cohort of children is notable for having only sporadic access to dental care minimal to oral hygiene practice. The bacterial community structure was assessed using high- throughput gene sequences based on bacterial 16S rRNA. The goal was to determine differ- ences in the bacterial profile of saliva of children with poor to good oral hygiene status.
+
+Materials and methods
+Ethics statement
+This study received approval from the Ethics Committee, Mahidol University, Bangkok, Thai- land under process number MU-DT/PY-IRB 2015/DT028, and samples were collected at the Dental Hospital, Mahidol University. The participants and their parents were made aware of the objectives and procedures of the study and agreed to participate by providing written informed consent.
+
+Subjects and sample collection
+A total of 90 Thai children were enrolled in the study: 41 males and 49 females (age range: 7 to 15 years). The participants were recruited on March 23rd, 2015. All participants were randomly selected by teachers from 191 Border Patrol Police Schools in Thailand after announcement of the project called "Youth Tooth Ambassador" (Youth Tooth Ambassador Project). All partici- pants received an oral examination. They also attended an oral health care course for them to gain knowledge of oral health care as well as general health. The knowledge and information that they received from participating in this activity enabled them to educate their families and communities about the value of oral care. Parents reported their child's medical history. Chil- dren with a history of immunosuppression or systemic diseases (e.g. diabetes and HIV), use
+of medications that reduce saliva flow, or exposure to antimicrobials in the previous three months were excluded from the study. All other subjects voluntarily joined this study. Regard- ing sample collection, subjects were informed to refrain from eating, drinking or cleaning their teeth 2 h before their examination. The participants were evaluated by the Simplified
+
+
+Oral Hygiene Index (OHI-S) according to the criteria of Greene & Vermillion [] and divided into three groups. Six calibrated dentists examined the children for OHI-S and for dental caries using WHO criteria. All examiners took a three-hour training session during which they were calibrated by a senior faculty who served as a gold standard. After training, 10 trial patients were screened by all dentists. The agreement among all examiners in dental caries (DMFT; decayed, missing and filled teeth index) and oral hygiene (OHI-S) was found to be 100% (kappa statistics = 1.0).
+The first group (Good oral hygiene) was composed of 24 children with OHI-S scores of 0-1.2. The second group (Moderate oral hygiene) was composed of 31 children with OHI-S scores of 1.3-3.0. The third group (Poor oral hygiene) was composed of 35 children with OHI-S scores of 3.1-6.0. Also at the same time, dental caries experience was measured by using DMFT (for permanent teeth) /dmft (for primary teeth).
+After the dental examination, stimulated saliva samples were collected at according to a standardized protocol []: each subject was instructed to chew 1 gram of paraffin gum for 1 minute until a solid bolus was formed. Finally, the participant was instructed to expectorate repeatedly for 4 minutes, and for the last 3 minutes saliva was collected in a sterile plastic cup, transferred by a sterile pipette into a sterile plastic tube, which was then stored at--80@C until analysis.
+
+DNA extraction, library construction and sequencing
+Bacterial DNA in saliva was extracted using the Saliva DNA Isolation Kit (NORGEN BIOTEK CORPORATION, Ontario, Canada) according to the manufacture's instruction. Amplicon libraries were prepared in triplicate by using 16S Metagenomic Sequencing Library Prepara- tion (Preparing 16S Ribosomal RNA Gene Amplicons for the Illumina MiSeq System, illu- mina1) according to the manufacture's instruction. Briefly, the protocol included the primer pair sequences, 16S amplicon PCR forward primer overhang adapter: 5'-TCGTCGGCAGCG TCAGATGTGTATAAGAGACAGCCTACGGGNGGCWGCAG-3' and 16S amplicon PCR reverse
+primer overhang adapter: 5'-GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGGACTAC HVGGGTATCTAATCC-3', for the V3 and V4 region that created a single amplicon of approx- imately ~460 bp []. After the steps to amplify the V3 and V4 region, the amplicons were gel- purified using DNA Gel Extraction Kit (QIAGEN, Valencia, CA) according to the manufac- turer's instructions. These amplicons were applied to a limited cycle PCR adding Illumina sequencing adapters and dual-index barcodes to the amplicon target using the full comple- ment of Nextera XT indices. After purification of the 16S V3 and V4 amplicon away from free primers and primer dimer species using AMPure XP beads (BECKMAN COULTER, Life Sci- ences, IN, USA) according to the manufacturer's instruction, a quality and concentration of these amplicons were controlled by Qubit1 3.0 Fluorometer (Thermo Fisher SCIENTIFIC, MA, USA) and Agilent 2200 TapeStation (Agilent Technologies, CA, USA). They were sequenced on Illumina Miseq platform using paired 300 bp reads and Miseq v3 regents at Hokkaido System Science Co., Ltd. (Sapporo, JAPAN). The ends of each read are overlapped to generate high-quality, full-length reads of the V3 and V4 region.
+
+Data analysis and taxonomy assignments
+All raw sequences were trimmed by using Cutadapt (version 1.1,  ) against Illumina adaptor sequences and Trimmomatic (version 0.32,  ) against an average quality score <20. After that, read1/read2 (Pair-ends) was concatenated by using fastq-join (ea-utils version 1.1.2-537, ). Similar sequences were clustered into
+
+
+operational taxonomic units (OTUs) using UCLUST [] in QIIME (version 1.8.0,  ) [] with a 97% similarity cutoff. The most abundant sequence in each OTU was chosen to represent OTU. Chimeras were removed from the representative set after being identified using ChimeraSlayer []. The representative sequences were annotated using UCLUST algorism with Greengenes database (version 13_8: 16S rDNA database,  ) [] in QIIME using a minimum identity of 90%.
+
+Statistical analysis
+Sampling effectiveness was evaluated by reflection curve that were drown from a raw OTU table. The UniFrac metric [] was used to determine the dissimilarity between any pair of bacterial communities. The similarity relationship, assessed using the UniFrac metric, was presented in a PCoA (Principal Coordinate Analysis) plots, drawn using beta_diversity_ through_plots.py in QIIME after the data were normalized to an equal number of reads per sample. EMPEROR () was used to visualize 3D PCoA plots. To identify differences of microbial communities between the three groups, analysis   of similarities (ANOSIM) [] and multi-response permutation procedure (MRPP) [, ] were performed based on the Bray-Curtis dissimilarity distance matrices using R vegan package (version 2.4-1). In addition, UniFrac metric cluster tree was also constructed to evaluate the differences of microbial communities among subjects using QIIME and visual- ized by FigTree (version 1.4.3) (). Number of OTUs and the Shannon index (alpha diversity) were calculated using alpha_diversity.py also in QIIME after the data were normalized to an equal number of reads per sample according to analysis using beta_diversity_through_plots.py. The Kruskal-Wallis H-test post hoc Mann- Whitney U-test with Bonferroni correction was performed to compare age, OHI-S score, DMFT, dmft, a-diversity and the relative abundances of bacterial genera using ystat2008 software. Fisher's exact test was conducted to look for differences by sex using R version 3.
+3. 2. P < 0.05 and P < 0.002 were considered statistically significant. Correlational analysis between OHI-S score and DMFT/dmft were evaluated using analysis tool in Excel 2010. Heat-map were created using JAVA Treeview [] after OTUs were clustered using Cluster
+3.0 ().
+
+Accession numbers
+The obtained sequence data were deposited in DDBJ Sequence Read Archive under accession number DRA005424.
+
+Results
+The demographic and oral data of the study population is shown in . OHI-S scores of the Poor and the Moderate oral hygiene groups were significantly higher than those of Good oral hygiene group (P < 0.002), and also the Poor oral hygiene group had significantly higher OHI-S scores than those of the Moderate oral hygiene group (P < 0.002). In addition, DMFT and dmft of the Poor and the Moderate oral hygiene groups were significantly higher com- pared to the Good oral hygiene groups.
+Furthermore, correlational analysis between OHI-S score and DMFT or dmft showed a strong correlation (r2 = 0.898 and r2 = 0.999, respectively). This result suggested that OHI-S status was strongly associated with caries history.
+The variable regions (V3-V4) of the bacterial 16S rRNA gene from DNA extracted from each saliva sample were PCR amplified using barcoded universal primers. Sequencing using the Illumina Miseq instrument produced a dataset comprised of 4,019,174 reads (containing
+
+
+ General and oral condition of the 90 subjects.
+
+
++- shows standard deviations.
+a Significant differences among groups were evaluated by the Kruskal-Wallis H-test post hoc Mann-Whitney U-test with Bonferroni correction.
+b Significant differences were evaluated by Fisher's exact test.
+c Significantly higher than the Good oral Hygiene group (P <0.002)
+d Significantly higher than the Moderate oral hygiene group
+e Significantly higher than the Good oral hygiene group (P < 0.002)
+f Significantly higher than the good oral hygiene group (P < 0.05 and P < 0.002, respectively).
+
+
+
+the V3-V4 region), of which 3,521,550 passed quality control tests with an average length of 423 +- 1 bp (). These sequences were assigned to 38,521 OTUs with at least 97% similarity.
+The PCoA plot based on the phylogenetic community analysis with the UniFrac metric were demonstrated overall bacterial community composition in each of the three groups (). The PCoA plot showed a partially similar tendency in the distances based on the weighted (counting OTUs and the number of the reads in OTUs of each samples) versions of this metric (). Fur- thermore, the unweighted (counting OTUs of each samples) versions of this metric showed more similar tendency than the weighted version (). However, the differences were con- firmed statistically only in weighted versions of this metric using ANOSIM and MRPP analysis (P < 0.05, R = 0.75). The data indicated that the microbiome of the three groups of subjects had different community structures. In detail, the PCoA diagram showed that the Good oral hygiene group individuals were localized in the negative direction of principal component 1 (PC1) and in the positive direction of principal component 2 (PC2) relative to the other two groups. On the other hand, the Poor oral hygiene group individuals were localized in the positive direction in principal component 3 (PC3) relative to other two groups. These results suggest that the micro- biome in the Good and Poor oral hygiene groups differed relative to the Moderate oral hygiene group. From another point of view, the weighted UniFrac cluster tree showed the microbiome of subjects with poor oral hygiene tended to become similar to each other than to the microbiome of subjects of the other groups (). However, these clusters or sub-branches in each group had large phylogenetic distances each other. These findings indicated that salivary microbiome in children differed by OHI-S score, but there were some similar microbiome compositions in each group.
+Two indices of alpha diversity indicated that salivary bacterial communities in the Good and Poor oral hygiene group were less diverse compared to the Moderate oral hygiene group
+(P < 0.05) (). The dominant phyla (Firmicutes, Bacteroidetes, and Actinobacteria) accounted for 89.74-94.58% of all sequences, Proteobacteria, Fusobacteria and TM7 for > 1.56% of the sequences in all three groups. The sequences obtained in this study represented 115 genera and 88 upper-level taxa; 64 of the 115 genera and 34 of the 88 upper-level taxa and 225 species were present in the three groups of populations. Twenty genera including three upper level taxa (Streptococcus, Veillonella, Gemellaceae, Prevotella, Rothia, Porphyromonas, Granulicatella, Actinomyces, TM-7-3, Leptotrichia, Haemophilus, Selenomonas, Neisseria, Megasphaera, Capnocytophaga, Oribacterium,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Principal coordinate analysis (PCoA) plot showing the similarity relationships among bacterial community samples from 90 Thai children divided to the three oral hygiene groups using weighted UniFrac distance metric. The green (triangles), blue (squares), and red (circles) indicate the Good, Moderate, and Poor oral hygiene groups, respectively. (a) The two components explained 36.78 and 11.60% of the variance, respectively. (b) The two components explained 36.78 and 5.85% of the variance, respectively. (c) Two components explained 5.85 and 11.60% of the variance, respectively. (d), (e) 3D PCoA plots were visualized by the EMPEROR.
+
+
+Abiotrophia, Lachnospiraceae, Peptostreptococcus, and Atopobium) were found in all 90 subjects and constituted 94.5-96.5% of the microbiome. Of these twenty genera, genus Streptococcus and genus Veillonella showed significant differences (P < 0.05) in their proportions between the Good oral hygiene group and the Poor oral hygiene group (). More specifically the proportion of Strepto- coccus decreased and those of Veillonella increased with worse oral hygiene status.
+Regarding Streptococcus and Veillonella, a heat map was constructed to show the relative abundances of OTUs at the species level, including upper-level taxa in all 90 subjects (). Streptococcus; Other, Veillonella; Other and Streptococcus sobrinus were associated with all groups (). In contrast, Streptococcus; s_ and Streptococcus anginosus (S. anginosus) were associated strongly with the Good oral hygiene group, and Veillonella; s_, Veillonella dispar (V. dispar) and Veillonella parvula (V. parvula) were associated strongly with the Poor oral hygiene group (). This finding suggested that Streptococcus; s_ and S. anginosus were found in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weighted UniFrac clustering tree of the 90 Thai children individuals. This clustering tree shows the result of weighted UniFrac PCoA plots and visualized the phylogenetic relationship among each salivary microbiome. Each branch represents an individual salivary sample. Samples having similar salivary microbiome compositions are more clustered as highlighted. Green represents Good, blue Moderate and red Poor hygiene branches. Bar length is proportional to phylogenetic distance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mean number of operational taxonomic units (OTUs) and Shannon Index in the salivary microbiome of the 90 Thai children divided to the three groups. The significant differences were evaluated by the Kruskal-Wallis H-test post hoc Mann-Whitney U-test with Bonferroni correction (P < 0.05). The error bar indicated 95% confidence intervals.
+
+
+great proportions in the Good oral hygiene groups relative to the Moderate or Poor oral hygiene groups. On the other hand, Veillonella; s_, V. dispar and V. parvula were found in great proportions in the Poor oral hygiene group relative to the Good or Moderate oral hygiene group.
+
+Discussion
+This study found that the salivary microbiome of children varied depending on oral hygiene status evaluated by OHI-S. The oral cavity consists of a humid environment with relatively constant temperature between 34 and 36@C, neutral pH, and shelters a large variety of micro- organisms due to its numerous anatomical structures []. Oral bacteria are organized as bio- films that are adapted to every niche within the mouth (for example on the tongue and teeth) as the result of variations in oxygen partial pressure, nutrient availability and so on. The pre- dominant bacteria in saliva are commensal, that detach from the oral tissues [], for example through bacterial enzymes that degrade biofilm matrix polymers []. Also, all epithelial sur- face cells desquamate, releasing adherent bacteria into the bathing saliva.
+The results of the alpha diversity analysis showed that the number of OTUs and Shannon index in the Moderate oral hygiene group were significantly higher than those in other two groups (). Pereira et al. reported similar results as the present study, where greater bacte- rial diversity was found in the saliva of patients with low dental plaque than that of patients with high dental plaque []. It is accepted that the number of bacteria in saliva is inversely related to oral hygiene status, however it is not clear if the diversity of bacteria is affected by oral hygiene status. However, further studies are required to clarify if salivary bacterial diver- sity is related to oral hygiene status.
+The microbiome of the subjects of the three groups were dominated by twenty genera including three upper-level taxa, especially Streptococcus and Veillonella (). The salivary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relative abundances of 20 bacterial genera including upper-taxa among three oral hygiene groups. C, f, and g indicated the class, family and genus, respectively. Some OTUs were not assignable to a genus since the sequence was absent from the database. The significant differences were evaluated using the Kruskal-Wallis H-test post hoc Mann-Whitney U-test with Bonferroni correction (P < 0.05). The error bars indicated 95% confidence intervals.
+
+
+microbiome appears to consist disproportionally of microorganisms from the tongue biofilm. Marger et al. reported that the papillate surface of the tongue harbor a microbiome skewed towards anaerobic bacteria such as Prevotella and Veillonella, whereas the ventral surface bears a microbiome rich in Streptococci and Gemella []. Consistent with the contribution of tongue biofilm populations, the salivary microbiome has been reported to contain a number of genera with the most prevalent or autochthonous being Prevoella and Streptococcus []. These four genera including upper-taxa were found in our results at the top of four higher proportions (). Our results in the present study supported these previous reports also in case of children.
+This study demonstrates several limitations. First, only salivary samples were collected. Of course, the oral microbiome also includes supra- and sub-gingival plaque that may be more pertinent to dental caries and periodontal inflammation, respectively [, ]. Also, correla- tional analysis between OHI-S score and DMFT or dmft showed a strong correlation. The
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heatmap displaying species of Streptococcus and Veillonella distribution patterns in the three oral hygiene groups. To show the distribution of abundant OTUs, the relative abundances of OTU data were normalized to have a mean of 0 and standard deviation of 1 (z-score normalization) at the species level using cluster 3.0. The distribution of the OTUs represented as the color intensity of each grid (blue, low abundance; red, high abundance). All assigned species of genus Streptococcus and Veillonella in this study were ordered across the three oral hygiene groups. S indicates the species. "Other" indicates that no more than half of the sequences in each OTU were obtained from the taxonomic information of that genus. Some OTUs were not assignable to a species since the sequence was absent from the database.
+
+
+analysis of supragingival plaque would help to better understand the relationship between oral hygiene status and caries history. In addition, the salivary microbiome as related to diet, socio- economic status of their parents, geographical location (outside Thailand) and population was not considered in this study. Several studies have reported that dietary treatments were effec- tive to influence the gut microbiome [, ]. The salivary microbiome might be influenced by diet as well. The bacterial profile of saliva might also be influenced by socioeconomic status and the geographical location and population [, , ]. Accordingly, these factors should be considered in future studies.
+It has been suggested that many protocols for bacterial DNA isolation from clinical samples is problematic due to non-uniform lysis of bacterial cells, particularly gram positive bacteria []. However, Vesty et al. [] recently reported that representation of bacterial genera in pla- que and saliva samples did not significantly differ across DNA extraction methods []. Fur- thermore, while Nisiwaki et al. [] reported that the enzymatic lysis method is the preferred method to extract bacterial DNA in stool samples, several commercial DNA extraction kits appear adequate []. We choose the Saliva DNA Isolation Kit (NORGEN BIOTEK CORPO RATION), which has been used for many studies [, ].
+Another limitation centers on the use of different hypervariable regions (V1-V9) of 16S rRNA gene for accurate and reliable analysis of salivary microbiome structure, composition and function. Many oral microbiome studies have used the 16S V3-V4 regions because they have been predicted to provide adequate phylogenetic assignment [-]. Thus, we choose the V3-V4 regions for analysis of the salivary microbiome. Additionally, the Greengenes data- base (version 13_8: 16S rDNA database, ) [] was used to annotate the representative sequences in this study. Human Oral Microbiome Data- base (HOMD, ) [] has also been commonly used to annotate the sequences in many studies of oral microbiome.
+
+
+Streptococcus species catabolize carbohydrates to short-chain organic acids, such as lactic acid and pyruvic acid []. Veillonella cannot catabolize sugars; instead, they rely on the fer- mentation of organic acids to propionic and acetic acids, carbon dioxide, and hydrogen []. Thus, a rudimentary food web is established whereby oral Veillonella depend upon organic acids produced by oral Streptococcus [, ]. The proximity of the producer to the consumer could be important in such metabolite transfers [, ]. Furthermore, Streptococcus partici- pate in biofilm formation as initial colonizer in oral cavity [] and produce organic acids.
+After that, the accumulation and maturation of oral biofilm provide anaerobic environment and promote a growth of Veillonella, obligate anaerobe, as early colonizer which has central roles to form oral biofilm []. It was also reported that the growth of anaerobic organisms such as Veillonellae and Fusobacteria was dependent upon prior growth of aerobic and facul- tative organisms with a resultant increase in plaque thickness yielding conditions suitable for anaerobic growth []. In this study, it was shown that the growth of Streptococcus, a facultative anaerobe, may be inhibited by anaerobic conditions in favor of the growth of Veillonella. Thus, Veillonella is associated with poor oral hygiene status. These shifts in bacterial composition in oral biofilm are reflected in the salivary microbiome. From these results, it was indicated that the proportion of Veillonella in salivary microbiome might be a biological indicator for poor oral hygiene and caries activity in children. In several reports regarding salivary and plaque microbiome, Veillonella was found in higher proportion in caries or periodontal subjects [, , ]. According to these results, it was suggested that Veillonella tended to be found fre- quently in microbiome of subjects having poor oral health from children to adults.
+Previous studies have reported results of high-throughput microbial gene sequencing based on 16S rRNA to analyze the differences in oral microbiome composition as related to dental caries and periodontal diseases [-]. Rajendhran & Gunasekaran reported that some 16S rRNA sequences could be used to assign an unknown organism to a group (genus or family) []. Veillonella species cannot be differentiated on the basis of 16S rRNA gene sequencing because they share at least 99% of their rrs gene nucleotide bases [, ]. We previously used a one-step PCR method based on rpo B gene sequence to specify oral Veillonella species [].
+The present study suggested that Veillonella; Other was a frequent species and Veillonella; s_,
+V. dispar and V. parvula were found in greater proportions in saliva from these children with the poor oral hygiene status (). Future studies that utilize techniques that can identify Veil- lonella to the species level will validate this finding.
+In summary, the present study suggests that differences in salivary bacterial profile may depend on oral hygiene status. However, this could also be influenced by diet, socioeconomic status, as well as the geographic location or population studied [, -]. This is the first study demonstrating a potentially important association between Veillonella and poor oral hygiene status in children, suggesting that Veillonella may serve as a biological indicator for poor oral hygiene status.
+
+
+
+Supporting information
+S1 Fig. (a)-(e) Principal coordinate analysis (PCoA) plot showing the similarity relationships among bacterial community samples from the 90 Thai children divided to the three oral hygiene groups using unweighted UniFrac distance metric. The green (triangles), blue (squares), and red (circles) colors showed the Good, Moderate, and Poor oral hygiene groups, respectively. Multiple colors showed the 90 Thai children individuals in (e). (a) The two compo- nents explained 6.95 and 6.48% of the variance, respectively. (b) The two components explained
+and 4.01% of the variance, respectively. (c) Two components explained 4.01 and 6.48% of the
+
+
+variance, respectively. (d), (e) 3D PCoA plots were visualized by the EMPEROR. (TIF)
+S1 Table. Summary of sequencing analysis. +- shows standard deviations. (PDF)
+
+
+Acknowledgments
+We are grateful to Dr. Tippanart Vichayanrat in the Department of Oral Microbiology, Faculty of Dentistry, Mahidol University for oral examination.
+
+Author Contributions
+Conceptualization: Izumi Mashima, Citra F. Theodorea, Futoshi Nakazawa.
+Data curation: Izumi Mashima, Citra F. Theodorea, Boonyanit Thaweboon, Sroisiri Thawe- boon, Futoshi Nakazawa.
+Formal analysis: Izumi Mashima.
+Funding acquisition: Izumi Mashima, Boonyanit Thaweboon, Sroisiri Thaweboon, Futoshi Nakazawa.
+Investigation: Izumi Mashima.
+Methodology: Izumi Mashima, Frank A. Scannapieco, Futoshi Nakazawa. Project administration: Izumi Mashima, Sroisiri Thaweboon, Futoshi Nakazawa. Resources: Citra F. Theodorea, Boonyanit Thaweboon, Sroisiri Thaweboon.
+Validation: Izumi Mashima, Frank A. Scannapieco.
+Visualization: Izumi Mashima.
+Writing - original draft: Izumi Mashima.
+Writing - review & editing: Citra F. Theodorea, Boonyanit Thaweboon, Sroisiri Thaweboon, Frank A. Scannapieco, Futoshi Nakazawa.
+
+
+References
+Seirawan H, Faust S, Mulligan R. The impact of oral health on the academic performance of disadvan- taged children. Am J Public Health 2012 102(9): 1729-1734. PMID:
+Prabhu S, John J. Oral health education for improving oral health status of school children--a system- atic review. J Dent Med Sci 2015 14(2): 101-106.
+Ismail AS, Behrndt CL, Hooper LV. Reciprocal interactions between commensal bacteria and gamma delta intraepithelial lymphocytes during mucosal injury. J Immunol 2009 182(5): 3047-3054. PMID:
+Kau AL, Ahern PP, Griffin NW, Goodman AL, Gordon JI. Human nutrition, the gut microbiome and the immune system. Nature 2011 474: 327-336. PMID:
+Chang JY, Antonopoulos DA, Kalra A, Tonelli A, Khalife WT, Schmidt TM et al. Decreased diversity of the fecal microbiome in recurrent Clostridium difficile-associated diarrhea. J Infect Dis 2008 197(3): 435-438. PMID:
+Turnbaugh PJ, Gordon JI. The core gut microbiome, energy balance and obesity. J Physiol 2009 587 (Pt 17): 4153-4158. PMID:
+Ravel J, Gajer P, Abdo Z, Schneider GM, Koenig SS, McCulle SL et al. Vaginal microbiome of reproduc- tive-age women. Proc Natl Acad Sci USA 2011 108(Suppl 1): 4680-4687.
+
+
+Marsh PD. Are dental diseases examples of ecological catastrophes? Microbiology 2003 149(Pt 2): 279-294. PMID:
+Jo JH, Kennedy EA, Kong HH. Topographical and physiological differences of the skin microbiome in health and diseases. Virulence. 2016 in press.
+Gao R, Gao Z, Huang L, Qin H. Gut microbiota and colorectal cancer. Eur J Clin Microbiol Infect Dis 2017 in press.
+Ahn J, Yang L, Paster BJ, Ganly I, Morris L, Pei Z et al. Oral microbiome profiles: 16S rRNA pyrose- quencing and microarray assay comparison. PLOS ONE 2015 6(7): e22788.
+Belda-Ferre P, Alcaraz LD, Cabrera-Rubio R, Romero H, Simo'n-Soro A, Pignatelli M et al. The oral metagenome in health and disease. ISME J 2012 6(1): 46-56. PMID:
+Johansson I, Witkowska E, Kaveh B, Holgerson LP, Tanner ACR. The Microbiome in populations with a low and high prevalence of caries. J Dent Res 2016 95(1): 80-86. PMID:
+Zhou J, Jiang N, Wang S, Hu X, Jiao K, He X et al. Exploration of human salivary microbiomes-Insights into the novel characteristics of microbial community structure in caries and caries-free subjects. PLOS ONE 2016 11(1): e0147039.PMID:
+Greene JC, Vermillion JR. The simplified oral hygiene index. J Am Dent Assoc 1964 68: 7-13. PMID:
+Belstrom D, Holmstrup P, Nielsen CH, Kirkby N, Twetman S, Heitmann BL et al. Bacterial profiles of saliva in relation to diet, lifestyle factors, and socioeconomic status. J Oral Microbiol 2014 6: 23609. eCollection 2014.
+Klindworth A, Pruesse E, Schweer T, Peplies J, Quast C, Horn M et al. Evaluation of general 16S ribo- somal RNA gene PCR primers for classical and next-generation sequencing-based diversity studies. Nucreic Acids Res. 2013 41(1): e1.
+Edgar RC. Search and clustering orders of magnitude faster than BLAST. Bioinfomatics 2010 26(19): 2460-2461.
+Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bushman FD, Costello EK et al. QIIME allows analysis of high-throughput community sequencing data. Nat Methods 2010 7(5): 335-336.PMID:
+Haas BJ, Gevers D, Earl AM, Feldgarden M, Ward DV, Giannoukos G et al. Human Microbiome Con- sortium, Petrosino JF, Knight R, Birren BW. Chimeric 16S rRNA sequence formation and detection in Sanger and 454-pyrosequenced PCR amplicons. Genome Res 2011 21(3): 494-504.PMID:
+DeSantis TZ, Hugenholtz P, Larsen N, Rojas M, Brodie EL, Keller K, Huber T, Dalevi D, Hu P, Andersen GL. Greengenes, a chimera-checked 16S rRNA gene database and workbench compatible with ARB. Appl Environ Microbiol 2006 72(7): 5069-5072.PMID:
+Lozupone C, Knight R. UniFrac: a new phylogenetic method for comparing microbial communities. App Environ Microbiol 2005 71(12) 8228-8235.
+Clarke KR. Non-parametric Multivariate Analyses of Changes in Community Structure. Aust Ecol 1993 18(1): 117-143.
+McCune, Grace B, James B. Analysis of ecological communities. Mjm Software Design Glenden Beach 2002 289(3): 448.
+Mielke PW, Berry KJ. Permutation methods. A distance function approach. Sankhya 2010 3: 350.
+Saldanha AJ. JAVA Treeview-extenxible visualization of microarray data. Bioinformatics 2004 20(17): 3246-3248.PMID:
+Pereira VJ, Leomil L, Rodrigues-Albuquerque F, Pereira OJ, Astolfi-Filho S. Bacterial diversity in the saliva of patients with different oral hygiene indexes. Braz Dent J 2012 23(4): 409-416. PMID:
+Kaplan JB, Ragunath C, Velliyagounder K, Fine DH, Ramasubbu N. Enzymatic detachment of Staphy- lococcus epidermidis biofilms. Antimicrob Agents Chemother 2004 48(7): 2633-2636.PMID:
+Mager DL, Ximenez-Fyvie LA, Haffajee AD, Socransky SS. Distribution of selected bacterial species on intraoral surfaces. J Clin Periodont 2003 30: 644-654.
+Keijser BJ, Zaura E, Huse SM, van der Vossen JM, Schuren FH, Montijn RC, et al. Pyrosequencing analysis of the oral microflora of healthy adults. J Dent Res 2008 87: 1016-1020.PMID:
+
+
+Aas JA, Paster BJ, Stokes LN, Olsen I, Dewhirst FE. Defining the normal bacterial flora of the oral cav- ity. J Clin Microbiol 2005 43(11): 5721-32.PMID:
+Zaura E, Keijser BJ, Huse SM, Crielaard W. Defining the healthy "core microbiome" of oral microbial communities. BMC Microbiol 2009 Dec 15; 9: 259.PMID:
+Shanahan F, van Sinderen D, O'Toole PW, Stanton C. Feeding the microbiota: transducer of nutrient signals for the host. Gut 2017 Jun 29; pii: gutjnl-2017-313872 in press.
+Bo T, Shao S, Wu D, Niu S, Zhao J, Gao L. Relative variations of gut microbiota in disordered choles- terol metabolism caused by high-cholesterol diet and host genetics. Microbiologyopen 2017 Jun 28; in press.
+Takeshita T, Matsuo K, Furuta M, Shibata Y, Fukami K, Shimazaki Y et al. Distinct composition of the oral indigenous microbiota in South Korean and Japanese adults. Sci Rep 2014 4: 6990.PMID:
+Nasidze I, Li J, Schroeder R, Creasey JL, Li M, Stoneking M. High diversity of the saliva microbiome in Batwa Pygmies. PLOS ONE 2011 6(8): e23352.PMID:
+Lazarevic V, Gaia N, Girard M, Franc,ois P, Schrenzel J. Comparison of DNA extraction methods in analysis of salivary bacterial communities. PLOS ONE 2103 8(7): e67699.PMID:
+Vesty A, Biswas K, Taylor MW, Gear K, Douglas RG. Evaluating the impact of DNA extraction method on the representation of human oral bacterial and fungal communities. PLOS ONE 2017 12(1): e0169877.PMID:
+Nishiwaki M, Abe K, Naito T, Hosokawa N, Omi K, Hara R. Evaluation of DNA extraction methods from stool samples aimed at standardization of gut microbiome analysis. Nippon Saikingaku Zasshi 2017 72 (1): 57.
+Jahangir GZ, Ashraf DS, Nasir IS, Sadiq M, Shahzad S, Naz F et al. The myth of oral hygiene using syn- thetic mouthwash products. Springer Plus 2016 5(1): 1481. PMID:
+Nieto-Pelegr'in E, Rivera-Arroyo B, Sa'nchez-Vizca'ino JM. First detection of antibodies against African swine fever virus in Faeces samples. Transbound Emerg Dis 2015 Dec; 62(6): 594-602.PMID:
+Yu G, Phillips S, Gail MH, Goedert JJ, Humphrys MS, Ravel J et al. The effect of cigarette smoking on the oral and nasal microbiota. Microbiome 2017 5(1): 3. PMID:
+Jiang S, Gao X, Jin L, Lo EC. Salivary microbiome diversity in caries-free and caries-affected children. Int J Mol Sci 2016 Nov 25; 17(12) pii: E1978. PMID:
+Furquim CP, Soares GM, Ribeiro LL, Azcarate-Peril MA, Butz N, Roach J et al. The salivary microbiome and oral cancer risk: A pilot study in Fanconi anemia. J Dent Res 2017 96(3): 292-299.PMID:
+Chen T, Yu W-Han Izard J, Baranova OV, Lakshmanan A, Dewhirst FE. The Human Oral Microbiome Database: a web accessible resource for investigating oral microbe taxonomic and genomic informa- tion. Database, 2010 Vol. 2010; Article ID baq013,PMID:
+Cotter PD, Hill C. Surviving the acid test: responses of gram-positive bacteria to low pH. Microbiol Mol Biol Rev 2003 67(3): 429-53.PMID:
+Delwiche EA, Pestka JJ, Tortorello ML, The Veillonellae: gram-negative cocci with a unique physiology. Annu Rev Microbiol 1985 39: 175-193.PMID:
+Palmer RJ Jr, Diaz PI, Kolenbrander PE. Rapid succession within the Veillonella population of a devel- oping human oral biofilm in situ. J Bacteriol 2006 188(11): 4117-4124.PMID:
+Mashima I, Nakazawa F. The influence of oral Veillonella species on biofilms formed by Streptococcus
+species. Anaerobe 2014 28: 54-61. PMID: 
+Saravanan P, Kolenbrander PE. Central role of the early colonizer Veillonella sp. in establishing multi- species biofilm communities with initial, middle, and late colonizers of enamel. J Bacteriol 2010 192 (12): 2965e72.
+Ritz HL. Microbial population shifts in developing human dental plaque. Arch Oral Biol 1967 12: 1561- 1568. PMID:
+
+
+Zhang M, Chen Y, Xie L, Li Y, Jiang H, Du M. Pyrosequencing of plaque microflora in twin children with discordant caries phenotypes. PLoS ONE 2015 10(11): e0141310.PMID:
+Rajendhran J, Gunasekaran P. Microbial phylogeny and diversity: Small subunit ribosomal RNA sequence analysis and beyond. Microbial Res 2011 166: 99-110.
+Marchandin H, Teyssier C, Jumas-Bilak E, Robert M, Artigues AC, Jean-Pierre H. Molecular identifica- tion of the first human isolate belonging to the Veillonella ratti-Veillonella criceti group based on 16S rDNA and dnaK gene sequencing. Res Microbiol 2005 156: 603-607.PMID:
+Byun R, Carlier JP, Jacques NA, Marchandin H, Hunter N. Veillonella denticariosi sp. nov., isolated from human carious dentine. Int J Syst Evol Microbiol 2007 57: 2844-2848.PMID:
+Mashima I, Theodorea CF, Thaweboon B, Thaweboon S, Nakazawa F. Identification of Veillonella spe- cies in the tongue biofilm by using a novel one-step polymerase chain reaction method. PLOS ONE 2016 11(6): e0157516.PMID:

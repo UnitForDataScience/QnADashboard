@@ -1,0 +1,308 @@
+
+
+
+Environmental Microbiology (2017) 19(4), 1439-1449	doi:10.1111/1462-2920.13625
+
+
+Eye of the Finch: characterization of the ocular microbiome of house finches in relation to mycoplasmal conjunctivitis
+
+
+
+
+
+Courtney A. Thomason,* Ariel Leon, Laila T. Kirkpatrick, Lisa K. Belden and Dana M. Hawley
+Department of Biological Sciences, Virginia Tech, Blacksburg, VA, USA.
+
+Summary
+Vertebrate ocular microbiomes are poorly character- ized and virtually unexplored in wildlife species. Pathogen defense is considered a key function of microbiomes, but determining microbiome stability during disease is critical for understanding the role of resident microbial communities in infectious dis- ease dynamics. Here, we characterize the ocular bacterial microbiome of house finches (Haemorhous mexicanus), prior to and during experimental infection with an inflammatory ocular disease, Mycoplasmal conjunctivitis, caused by Mycoplasma gallisepticum. In ocular tissues of healthy house finches, we identified 526 total bacterial operational taxonomic units (OTUs, 97% similarity), primarily from Firmicutes (92.6%) and Proteobacteria (6.9%), via 16S rRNA gene amplicon sequencing. Resident ocular communities of healthy female finches were characterized by greater evenness and phylogenetic diversity compared to healthy male finches. Regard- less of sex, ocular microbiome community structure significantly shifted 11 days after experimental inocu- lation with M. gallisepticum. A suite of OTUs, including taxa from the genera Methylobacterium, Acinetobacter and Mycoplasma, appear to drive these changes, indicating that the whole finch ocular microbiome responds to infection. Further study is needed to quantify changes in absolute abundance of resident taxa and to elucidate potential functional roles of the resident ocular microbiome in mediating individual responses to this common songbird bacte- rial pathogen.
+
+Received 28 September, 2016; revised 17 October, 2016; accepted
+16 November, 2016. *For correspondence. E-mail couthoma@vt. edu; Tel. (1540)-231-8882.
+
+VC  2016 Society for Applied Microbiology and John Wiley & Sons Ltd
+
+Introduction
+Animals host diverse symbiotic microbes that are now recognized as crucial for many organismal functions, including ATP and nutrient biosynthesis (The Human Microbiome Project Consortium, 2012), immune system maturation and responsiveness (MacPherson et al., 2000; Mazmanian et al., 2005), and intestinal epithelial cell turn- over (Rakoff-Nahoum et al., 2004). Much is known about the vertebrate gut microbiome because of the abundance of microbes in the gastrointestinal tract and their essential role in digestion. Comparatively, the structure and function of vertebrate ocular microbiomes are poorly characterized. The eye, conjunctiva, lens and tears in healthy humans appear to harbor diverse bacteria (Graham et al., 2007; Dong et al., 2011; Hutchinson et al., 2014; Shin et al., 2016). There is some debate about whether these ocular microbes represent transient colonizers or a stable, active community (Zegans and Van Gelder, 2014), but the con- sistency of bacterial taxa found across studies is strongly suggestive of a stable human ocular microbiome (Kugadas and Gadjeva, 2016; Shin et al., 2016). Both culture-based and next-generation sequencing studies have found that Gram-positive bacterial genera in the phyla Proteobacteria and Actinobacteria, including Pseudomonas, Propionibac- terium and Corynebacterium, tend to dominate human ocular communities (Dong et al., 2011; Smith et al., 2013; Wilcox, 2013; Zhou et al., 2014). Furthermore, resident ocular microbiomes in humans have been shown to differ by sex: male ocular microbiomes tend to be dominated by Actinobacteria and Firmicutes, while female ocular micro- biomes are dominated by Proteobacteria (Shin et al., 2016). To date, the resident ocular microbiomes of verte- brate wildlife remain virtually unexplored (but see dos Santos et al., 2014; Alfano et al., 2015). However, the low diversity of these microbiomes make them particularly well suited for characterizing individual-level variation and eluci- dating potential function.
+A key function of mucosal microbiomes is host pathogen defense (McDermott and Huffnagle, 2014), and determin- ing whether microbiomes are stable or in flux during disease has been identified as a critical benchmark for understanding the function of ocular microbiomes (Zegans
+
+and Van Gelder, 2014). The eye, itself, is often considered to be immune privileged (i.e. antigens are tolerated and inflammatory and local immune responses are limited to prevent tissue damage; Zhou and Caspi, 2010). Interac- tions between commensal microbiota and the ocular environment may therefore be critical in maintaining homeostasis of the eye (Miller and Lovieno, 2009). Fur- thermore, it has been suggested that disruption of the microbiome of the cornea and conjunctiva may open a pathway for ocular disease (Abelson et al., 2015). Across diverse types of tissues, including the nose, gut, and skin, reductions in microbiome diversity have been associated with the development of and severity of infection (Chang et al., 2008, Biswas et al., 2015; Holden et al., 2015; Sekirov et al., 2008). There are also numerous examples of resident microbiomes responding to pathogens (e.g. reduced gut biodiversity in swine following viral diarrheal infection [Koh et al., 2015]; reduced microbial diversity in reef-building corals infected with white plague disease [Cardenas et al., 2012]) and the ocular microbiomes of Sprague-Dawley rats were found to change in response to a non-infectious disease, type I diabetes mellitus (Yang et al., 2015). Overall, revealing the extent to which the composition of the microbiota shifts during infection is criti- cal to understanding the role of the microbiome in disease outcome.
+Here, we characterize the ocular microbiome of a com- mon North American songbird species, house finches (Haemorhous mexicanus), prior to and during experimen- tal infection with a debilitating inflammatory ocular pathogen, Mycoplasma gallisepticum (MG), which causes Mycoplasmal conjunctivitis. A distinct clade of the poultry bacterial pathogen MG has caused annual epidemics in eastern North American house finches since the mid- 1990s (Dhondt et al., 1998) and causes conjunctivitis in house finches (Luttrell et al., 1998). The house finch-MG system is therefore particularly well suited for exploring how disease may influence the ocular microbiome in a wild vertebrate. Our study had two overarching goals: first, to characterize the resident ocular microbiome in healthy house finches, and to test whether resident ocular commu- nities vary with sex, as was recently detected in human ocular microbiomes (Shin et al. 2016). Second, we aimed to test how experimental inoculation with low doses of MG alters the resident ocular microbiome of finches.
+
+Results
+Characterizing healthy ocular bacterial communities of house finches
+Using 16S Illumina sequencing, we identified 526 total bacterial operational taxonomic units (OTUs) in the ocular samples of all healthy house finches (n 5 17) included in this study. Predominant identified phyla included
+
+Firmicutes (mean relative abundance 6 SD 5 92.6% 6
+6.65),   Proteobacteria   (6.9% 6 6.67),  Actinobacteria
+(0.5% 6 0.57), Bacteroidetes (0.1% 6 0.06) and Teneri-
+cutes (<0.1% 6 0.02; Fig. 1a), which comprised 20 different genera present in all samples (Fig. 1b). The resi- dent ocular microbiomes of healthy house finches were dominated by bacteria from the genera Lactococcus (77.1% 6 6.42), Enterococcus (6.8% 6 1.26), Vagococcus
+(3.5% 6 1.46) and Acinetobacter (3.2% 6 4.49). In fact, these four genera comprised over 90% of the relative abundance of the resident ocular community.
+Ocular bacterial communities differed between healthy male (n 5 8) and female (n 5 9) finches; female finches harbored a greater phylogenetic diversity of bacteria com- pared to males (Faith's phylogenetic diversity, t 5 2.40, df 5 14.95, p 5 0.03; mean phylogenetic distance 6 SD:
+female: 12.7 6 1.1 and male: 11.4 6 1.0). Female ocular communities were also significantly more even (Simpson index,  t 5 5.09,  df 5 12.28,  p 5 0.0002;  mean 6 SD:
+female: 0.30 6 0.03, male: 0.23 6 0.01) than male ocular communities (Fig. 1b). These differences appear to be driven by a higher relative abundance of Lactococcus spp. in the ocular microbiomes of males than females (79.7% relative abundance in males versus  69.6% in females; t 5 25.28, df 5 10.13, p 5 0.0003). Based on PERMA-
+NOVA and NMDS ordination, OTU community structure also differed significantly between healthy males and females (NMDS stress: 0.1022, adonis pseudo F 5 6.57,
+R2 5 0.30, p < 0.0001; Fig. 2).
+
+Influence of M. gallisepticum infection on ocular bacterial communities
+Following characterization of the resident ocular micro- biome, house finches were inoculated with one of two low doses of MG: 3.0 3 102 CCU ml21 (males n 5 4;
+females n 5 4) or 3.0 3 103 CCU ml21 (males n 5 4; females n 5 4) of MG. Ocular bacterial community struc- ture on day 11 post-inoculation significantly differed from that of healthy birds (NMDS stress: 0.0675; Date: adonis pseudo F 5 16.85, R2 5 0.35, p < 0.0001), with no effect of sex either alone or in interaction with time (Sex: ado- nis pseudo F 5 0.17, R2 5 0.005, p 5 0.710; Date 3 Sex:
+adonis pseudo F 5 0.37, R2 5 0.01, p 5 0.527; Fig. 3). There was also no effect of inoculation dose on commu- nity structure (Dose 3 Date: adonis pseudo F 5 0.11, R2 5 0.01, p 5 0.896) despite significantly higher abso- lute levels of MG (measured via quantitative PCR) on day 11 in birds given the higher of two infective doses (mean log MG: 3.0 3 102 CCU ml21 5 2.82 6 0.78,
+3.0 3 103 CCU ml21 5 5.11 6 0.43; Dose: R2 5 0.30,
+F1, 13 5 7.05, p 5 0.020).
+The detected differences in community structure follow- ing MG inoculation are likely largely driven by changes in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Mean relative abundances of (a) bacterial phyla present in the complete healthy microbiome of wild house finches (Haemorhous mexicanus) and (b) bacterial genera present in all ocular samples of healthy male (open bars) and female (closed bars) H. mexicanus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Community structure of healthy house finch (Haemorhous mexicanus) ocular bacterial communities varied significantly by sex.
+Stress 5 0.10
+
+
+the relative abundance of MG, which became a dominant community member in most birds post-infection. Indeed, absolute abundance of MG in our conjunctival swabs as detected by our MG-specific qPCR was also a strong pre- dictor of Illumina read number of Mycoplasma OTUs, a measure of relative abundance based on rarefaction of the dataset (R2 5 0.97, F1, 14 5 528.9, p < 0.0001; Fig. 4).
+However, we used the K-S measure, a variable screening method extension of Kolmogorov-Smirnov statistics, to identify OTUs driving community-level differences and found that Mycoplasma was not solely responsible for the detected differences in pre- versus post-inoculation bacte- rial communities. Nine OTUs, including Mycoplasma (OTU X694430), comprised the final set of OTUs defining differ- ences between pre- and post-infection communities, with K-S measures ranging from 0.34 to 0.50 (Table 1). Inter- estingly,   five   OTUs   had   larger   K-S   measures  than
+
+Fig. 3. Beta diversity of house finch (Haemorhous mexicanus) ocular microbial communities before and after experimental inoculation with Mycoplasma gallisepticum. Pre-inoculation communities are represented by grey circles and post-inoculation communities by open symbols. Though four birds did not develop pathology (open triangles), MG was detected at low levels in these individuals on day 11 post-inoculation (see Fig. 4). The single control bird (ID #529) is included for reference and is represented by a asterisk (pre-infection) and a cross symbol (post-infection).
+Stress 5 0.07
+
+
+
+Mycoplasma (OTU X694430), suggesting that bacteria other than Mycoplasma contributed strongly to the changes in post-infection community structure (Table 1, Fig. 5). The OTU with the highest K-S measure (X4396717), indicating that it contributed most strongly to differences between pre- and post-inoculation ocular com- munities, was a Methylobacterium species. Most of the remaining OTUs identified as drivers of post-inoculation community composition were Acinetobacter species (X103411, X1790396, denovo3638 and denovo2394). OTUs from the Families Methylobacteriaceae, Mycobac- teriaceae, Moraxellaceae and Sphingomonadaceae experienced significant shifts in relative abundance after
+
+
+Fig. 4. Absolute abundance of Mycoplasma gallisepticum (MG) in house finch conjunctival swabs on day 11 post- inoculation, as quantified by qPCR, significantly predicts the number of Illumina 16S rRNA amplicon 'reads' from the same day 11 samples (R2 5 0.97).
+Though four birds did not develop pathology (open triangles), MG was detected in all birds (black circles) on day 11 post-inoculation.
+
+
+Table 1. K-S measures and taxonomic information for nine OTUs that best define differences in the pre- and post-infection ocular microbiomes  of house finches (Haemorhous mexicanus) before and after infection with Mycoplasma gallisepticum.
+
+a. Indicates OTUs with K-S measures that remain in the top nine taxa that define differences between pre- and post-infection ocular microbiomes when Mycoplasma gallisepticum (bolded) is removed from the analysis.
+
+
+MG inoculation, as the confidence intervals for the mean changes in relative abundance do not cross zero (Fig. 5b).
+To further confirm that changes in relative abundance of other taxa were not solely driven by an increasing relative abundance of MG, we recalculated relative abundances after removing MG from the community. Using this sub- tracted community, K-S scores and OTU identity were consistent for 7 of 9 OTUs that defined the differences between pre- and post-infection microbiomes (Supporting Information Table S1). Thus, the detected changes in the ocular microbiome post-inoculation appear to be driven by a suite of ocular community members, including but not limited to Mycoplasma.
+
+Discussion
+Here we characterized the ocular bacterial microbiome of captive house finches before and after experimental inocu- lation with a common bacterial ocular pathogen, MG. We found that the resident ocular microbiomes of house finches was comprised of 526 total bacterial OTUs repre- senting only 9 phyla, and only 4 genera comprised 90% of the total relative abundance. For comparison, human ocu- lar microbiomes have been found to be comprised of 6 phyla dominated by upward of 10 genera (Dong et al., 2011; Kugadas and Gadjeva, 2016; Shin et al., 2016), while koala ocular microbiomes were dominated by 5 phyla and 3-4 genera representing over 90% of the relative abundance (Alfano et al., 2015), rat ocular microbiomes were comprised of 8 genera that represent 100% of ocular bacterial diversity (Yang et al., 2015), and bat ocular micro- biomes were comprised of 8 culturable taxa representing 100% of bacterial diversity (dos Santos et al., 2014). House finch ocular bacterial community diversity was com- parable to other non-human vertebrate animals, while human ocular bacterial communities were characterized by a greater diversity of genera by comparison.
+The resident house finch ocular bacterial communities were dominated primarily by Lactococcus spp. in the
+
+Phylum Firmicutes. In contrast, the few vertebrate ocular microbiomes that have been characterized (humans, lab rats and koalas) were found to be dominated by members of the Phyla Actinobacteria  and  Proteobacteria  (Dong et al., 2011; Alfano et al., 2015; Yang et al. 2015; Kugadas and Gadjeva, 2016; Shin et al., 2016). Although Firmicutes have been identified in these microbiomes as well, they are at much lower relative abundance in comparison to the house finch ocular microbiome (Dong et al., 2011; Lee  et al., 2012; Zhou et al., 2014). Lactococcus species, members of the group of lactic acid producing bacteria (LAB) and the most dominant genus in the house finch ocular microbiome, are known to be beneficial members of the microbiomes of humans and other animals, including honeybees (Vasquez et al., 2012), because they inhibit the growth of pathogenic bacteria and fungi via production of antimicrobial metabolites and host immune modulation (Ventura et al., 2009). Lactococcus spp. may play a similar protective role in the eyes of house finches, but further work is needed in order to characterize the potential func- tion of Lactococcus spp. in house finch conjunctiva.
+We found sex differences in the resident ocular micro- biomes of healthy house finches, where female finch microbiomes were characterized by higher phylogenetic diversity and evenness than male microbiomes. These dif- ferences in evenness appear to be largely driven by relative abundance of the dominant community member, Lactococcus spp, which was higher in males. Sex differ- ences were recently documented in human ocular microbiomes (Shin et al., 2016) and have been docu- mented for a suite of microbiomes in other tissues including the skin and gut (Fierer et al, 2008; Markle et al., 2013). In some cases, these difference may contribute to known sex biases in the development of autoimmune and inflammatory disease (Whitacre et al, 1999; Zandman- Goddard et al., 2007; Markle et al., 2013; Yurkovetskiy   et al., 2013). A prior field study detected sex differences in the prevalence of Mycoplasmal conjunctivitis: hatch year female house finches had higher rates of conjunctivitis
+
+
+Fig. 5. (a) A heatmap illustrating relative abundance of nine OTUs shown to be driving differences between the ocular microbiome pre- and post-experimental infection with Mycoplasma gallisepticum. The intensity of colour indicates the relative abundance of these OTUs prior to experimental inoculation (left) in the 'healthy' resident microbiome and following experimental inoculation (right).
+Birds are ordered from lowest to highest pathology (left to right) at day 11 post-inoculation. Although the single control individual (ID:
+529) is included in this figure as a visual baseline, this individual was excluded from statistical analysis of K-S scores driving differences pre- and post-infection. Though four birds did not develop pathology following inoculation (highlighted in black boxes), the ocular community still changed. Relative abundance is shown on a log scale. (b) Mean change in relative abundance of the eight non-MG OTUs responsible for pre- and post-infection differences in the ocular microbiome of all 16 inoculated house finches. Note that the scales on the x axes differ. The asterisk denotes significant changes (standard error does not cross zero) in relative abundance. (c) Mean change in relative abundance of the same eight non-MG OTUs in the four birds that did not develop pathology after inoculation with MG. Circles represent changes in these OTUs in the control bird (ID: 529)  for comparison. Note that  the scales on the x axes differ. The asterisk denotes significant differences (>2 standard deviations different) between the control bird and the birds that did not develop pathology.
+
+than hatch year males (Altizer et al., 2004). However, an experimental study using a high inoculation dose of MG did not find any sex differences in the severity of conjuncti- vitis (Kollias et al., 2004). Overall, further work is needed to confirm the detected sex differences in the resident ocular microbiome and to determine whether these differences influence the likelihood or severity of MG in house finches.
+House finch ocular communities were found to differ sig- nificantly after experimental inoculation with MG. These pre- and post-inoculation community differences are likely largely driven by the addition of the bacterium MG; in fact, the absolute abundance of MG in house finch conjunctiva was a strong predictor of the relative abundance measured by amplicon sequencing (Fig. 4). However, the changes in ocular communities during MG infection do not appear to be driven by Mycoplasma alone; eight other OTUs were found to drive these community-level differences pre- vs. post-inoculation. In fact, when communities were com- pared after MG was removed from the dataset and relative abundances were recalculated, these pre-and post-infec- tion differences persisted (Supporting Information Table S1), suggesting that post-inoculation community structure may be driven by a suite of microbes. Together, these results suggest that direct or indirect interactions between MG and commensal bacteria may be occurring during infection. However, genera-specific qPCR assays are needed to definitely determine how commensal bacteria change in absolute abundance during MG infection. Intriguingly, a few individuals did not develop pathology in response to MG inoculation despite pathogen loads indi- cating that these birds might have become infected at low levels (see Fig. 4), but there was still evidence of change in the relative abundance of eight non-MG OTUs in these individuals (see Fig. 5). However, further study with a larg- er control group is needed to determine whether the post- inoculation changes in the birds that did not develop pathology are truly in response to MG inoculation and not representative of natural temporal fluctuations.
+We used a statistical metric, the K-S measure, to identify OTUs that were responsible for observed differences in the communities of birds prior to and following experimen- tal infection. The OTUs with the highest K-S measure, even when Mycoplasma remained in the dataset, were Methylobacterium and Acinetobacter species. Methylobac- terium spp. (Methylobacteriaceae_X4396717) have been identified as members of the core microbiome of human eyes (Dong et al., 2011; Shin et al., 2016). However, they have also been reported as opportunistic pathogens that can form biofilms (Kovaleva et al., 2014). Acinetobacter spp. (Moraxellaceae_X103411) also forms biofilms, but they are regularly found on human skin as well. Some have been correlated with lower allergy incidence (DeBarry et al., 2010; Hanski et al., 2012) and documented as core microbiota of human eyes (Dong et al., 2011). Because
+
+MG is also known to form biofilms (Chen et al., 2012), it may be that its addition to the ocular community resulted in the depletion of resources at the conjunctival surface nec- essary for biofilm formation, resulting in the observed decreases in relative abundance of other bacteria that form biofilms. However, in addition to direct interference, microbial community changes can result from blocking access to attachment sites (Collado et al., 2008; Rendueles et al., 2012), interbacterial warfare via produc- tion of antibiotics, bacteriocins or other metabolites (Ohland and Macnaughton, 2010; Short et al., 2014), or immune mediated-modulation (Higgins and Johnson, 2001). Chemical signals produced during interbacterial interactions can result in subtle manipulation of the com- petitor to the benefit of the signal producer; many of these interactions, including chemical-based interactions, often rely on the close proximity of bacterial cells that is likely during biofilm formation (Short et al., 2014). Overall, fur- ther study is needed to confirm changes in absolute abundance of resident ocular taxa following MG inocula- tion and to investigate the potential mechanisms underlying these changes.
+Overall, our results suggest that the resident ocular microbiome of house finches differs by sex and shifts in response to MG inoculation. Future work should determine whether the ocular microbiome communities of captive finches, as characterized here, reflect those of free-living birds. Effects of captivity on gut and skin microbiomes have been detected in past studies (e.g. Becker et al., 2014; Kohl et al., 2014; Bataille et al., 2016). However, wild and captive amphibian skin communities retain 70% simi- larity even after multiple generations in captivity (Becker et al. 2014), suggesting that ocular communities for free- living and captive finches are likely to be largely similar even if effects of captivity are present. Future work should also experimentally determine whether the resident ocular microbiome of house finches is important for regulating host responses to MG infection. Our results suggest that the observed post-inoculation community changes are not solely a result of domination of the microbiome by MG, and further study should investigate potential direct and indirect interactions between MG and commensal bacteria during infection.
+
+Experimental procedures
+Host species capture and housing
+Sixty-six house finches were captured in June-August 2014 in Montgomery County, VA and Williamsburg, VA using cage traps and mist nets (under federal and state permits USFWS MB158404-1 and VDGIF 50352) for a separate study on the effects of repeated low-dose MG exposure on host disease response and immune protection (Leon and Hawley, unpub- lished). The microbiomes of only a subset (n 5 17) of the 66 birds in that larger study were characterized here (see Study
+
+
+Design). Birds (n 5 10) that were captured in Williamsburg, VA were temporarily housed in flocks in outdoor aviaries for a maximum of 3 days and transported to Virginia Tech by state vehicle. All finches were then pair-housed at constant day length and temperature, and were fed ad libitum pelleted diet (Daily Maintenance Diet, Roudybush Inc., Woodland, CA). Eighteen days prior to inoculation, all finches were moved to individual cages for the duration of the experiment. All birds were blood-sampled and screened via ELISA, and only those found to be seronegative for MG at capture (following Hawley et al., 2011) were included in experiments. All animal capture, housing and sampling procedures were approved by the Insti- tutional Animal Care and Use Committee of Virginia Tech (BIOL-12-124).
+
+
+Study design
+In order to characterize the 'healthy' ocular microbiome of house finches, we used 17 birds (8 males, 9 females) that were sampled 14 days prior to experimental inoculation with MG. To examine how the ocular microbiome changes with MG infection, those same 17 birds were then resampled on day 11 post-inoculation (the date of peak pathology; Supporting Infor- mation Fig. S1), after receiving one of the following three treatments: inoculation with 3.0 3102 CCU ml21 of MG (n 5 8;
+4 males, 4 females), inoculation with 3.0 3 103 CCU ml21 dose of MG (n 5 8; 4 males, 4 females) or sham inoculation of bacteria media (Frey's broth media with 15% swine serum) alone (n 5 1; female).
+
+
+Experimental inoculation
+House finches were inoculated in the palpebral conjunctiva of both eyes with a total volume of 70 ml of either MG diluted in Frey's broth media with 15% swine serum (FMS) at a total concentration of approximately 3.0 3 102  or  3.0  3  103 CCU ml21 or FMS alone (sham inoculation). The MG isolate used, VA1994, was isolated from a house finch captured in Virginia in 1994 (7994-1 7P 2/12/09; D.H. Ley, North Carolina State University, College of Veterinary Medicine, Raleigh, NC, USA; Ley et al., 1996). Dilutions were calculated from the starting viable count of 2.24 3 107 CCU ml21. Inoculum was maintained  at  2808C  and  was  not  diluted  until  immediately after thawing.
+
+
+Conjunctival sampling
+To characterize both pre- and post-inoculation ocular bacterial communities, as well as to assess MG pathogen load via qPCR, each bird's conjunctiva was swabbed by the same indi- vidual for 5 s with a sterile cotton swab dipped in sterile tryptose phosphate broth (TPB). Immediately after swabbing, swabs were swirled in 300 ll of sterile TPB and then wrung out into the tube to collect as much conjunctival fluid as possi- ble for subsequent DNA extraction. Samples from both eyes were pooled in one 300 ml aliquot of TPB within sample date for a given individual and were then frozen at 2208C until fur- ther processing.
+
+Molecular methods
+Genomic DNA was extracted from conjunctival samples (TPB broth) with Qiagen DNeasy 96 Blood and Tissue kits (Qiagen, Valencia, CA). The extracted genomic DNA from each sample was used as the template for two assays: a qPCR assay to measure overall numbers of MG present in the conjunctival sample, and 16S rRNA gene amplicon sequencing to charac- terize the bacterial community of the house finch eye. MG pathogen load was assessed using a qPCR assay targeting the mgc2 gene of MG using the primers from (Grodio et al., 2008) and qPCR methods outlined by Adelman and col- leagues (2013). 16S rRNA gene amplicon sequencing of the V4 region was done using primers 515F and barcoded 806R (Caporaso et al., 2012).
+PCR reactions for amplicon sequencing consisted of 12
+ll molecular grade PCR water, 10 ll 5 Prime Hot Master Mix,
+ll each of the forward and reverse primers (10 lM final concentration)  and  2.0  ll  genomic  DNA.  PCR  conditions included a denaturation step of 3 min at 948C, an amplification step for 35 cycles for 45 s at 948C, annealing for 60 s at 508C, extension for 90 s at 728C and a final extension of 10 min at 728C. For each sample, we also ran a control with no tem- plate. Each sample was amplified in triplicate reactions, with the triplicates pooled. Each resulting pooled sample was then visualized on a 1.5% agarose gel, quantified with a Qubit 2.0 fluorometer (Invitrogen, Carlsbad, California) and combined into a final single pooled sample containing an equal amount of DNA from each sample for amplicon sequencing. The final pool was cleaned using the Qiagen QIAquick PCR clean up kit (Qiagen, Valencia, CA) and sent for sequencing at the Dana Farber Cancer Institute's Molecular Biology Core Facility on an Illumina MiSeq using protocols as per Caporaso and colleagues (2012). Due to anticipated low diversity within these samples, the samples were split among two different sequencing runs and each set was run with samples from another system (amphibian skin/lizard cloacal swabs) and also with a 10% PhiX addition. We used a 250 bp paired-end sequencing strategy, but due to poor quality of reverse reads, we used only the forward reads to produce the final dataset. Because samples were extracted using our standard protocols for quantifying absolute abundance of MG via qPCR, we did not use the bead-beating step during DNA extraction that is now standardly used for microbiome studies (Wu et al., 2010; Shin et al., 2016). Thus, some spore-forming bacterial taxa may be underrepresented in the bacterial communities (Guo and Zhang, 2013).
+Resulting amplicon data were processed using the QIIME pipeline (Caporaso et al., 2010). Initial quality filtering allowed no barcode errors and required a phred score of 20. The resulting fasta file was imported into Geneious (version 8.1.8; Biomatters) where 250 bp sequences were selected, and PhiX and house finch mitochondrial sequences were removed using rapid 'map to reference'. The resulting file of 250 bp sequences was then exported. In QIIME, OTU identification was assigned based on 97% similarity of sequences using the UCLUST method (Edgar, 2010), and the most abundant sequence from each cluster was chosen to represent each OTU. Sequences were aligned to the Greengenes 13_8 refer- ence database (DeSantis et al., 2006), and taxonomy was assigned using the RDP classifier (Wang et al., 2007). After
+
+
+the OTU table was generated, any remaining taxa assigned to chloroplast or mitochondria were removed, resulting in a file of 33 samples with a total of 2104714 reads. We then filtered out any OTUs with fewer than 0.001% of the total reads (Bokulich et al., 2012) and rarefied samples at a depth of 30,400 reads to standardize sequencing. Rarefaction curves generated from this dataset indicated that rarefaction at 30,400 reads was sufficient to represent bacterial community richness. The final dataset consisted of 33 samples (one post-inoculation sample [Band ID: 534] did not amplify; pre-inoculation n 5 17, post-inoculation n 5 16), with a total of 526 OTUs, and a range of 81-309/OTUs per bird; this dataset is available in the National Center for Biotechnology Information Sequence Read Archive repository (accession # SRP073372,  ).
+
+
+Statistical analyses
+To characterize the healthy ocular bacterial community of house finches, we used Student's t-tests to assess differences in alpha-diversity, based on OTU richness and phylogenetic diversity, and we used the Simpson index to evaluate differ- ences in ocular community structure between male and female house finches sampled prior to MG inoculation. We also tested whether alpha diversity metrics differed by popula- tion origin (Williamsburg vs. Montgomery County), but because no differences were found (p > 0.17 for all metrics), population was not included in any further analyses.
+We determined whether bacterial communities changed in response to MG inoculation using multi-dimensional analysis of beta diversity. We limited this analysis to the 16 birds that were exposed to MG (e.g. the single sham control was exclud- ed). First, we asked whether the ocular communities of birds differed prior to and following inoculation (n 5 32 total samples from 16 birds, each sampled prior to and following infection). Bacterial OTU community data were transformed into distance matrices using Bray-Curtis dissimilarities, and significance was tested using permutational multivariate analysis of vari- ance (PERMANOVA) and the adonis function in package
+{vegan} (Oksanen et al., 2016). Because no significant differ- ences were found among post-inoculation bacterial communities based on MG inoculation dose (3.0 3 102 or 3.0 3 103 CCU ml21), we pooled individuals across inoculation dose for all subsequent analyses. Results were visualized using non-metric multidimensional scaling (NMDS).
+To identify OTUs important for driving differences between pre-inoculation and post-inoculation bacterial communities, we used a novel variable screening method called the K-S measure, an extension of the K-S statistic, as described by Belden and colleagues (2015) and Loftus and colleagues (2015). The K-S measure uses weighted sums of the K-S sta- tistics calculated for all pairwise comparisons of the distributions defined by K groups, and ranges in value from 0 to 1; higher values imply larger differences between K distribu- tions. K-S measures for the ocular OTU community data were calculated and plotted in descending order, and a natural break in K-S measure values detected after the 9th value was used as a cutoff to identify the OTUs most responsible for dif- ferences in bacterial communities resulting from MG infection. To ensure that MG, which became a dominant community member for most birds in the study, was not solely driving our
+
+
+results, we repeated this analysis after removing MG from the community and calculating relative abundance of all remaining community members. Finally, we used general linear regres- sion to test whether absolute abundance of Mycoplasma gallisepticum detected by qPCR predicted the Illumina read abundance of Mycoplasma spp. from the same conjunctival swab on day 11 post-inoculation.
+
+Acknowledgements
+
+This work was funded by NIH grant 5R01GM105245 (to DMH) as part of the joint NIH-NSF-USDA Ecology and Evolution of Infectious Diseases program and NSF grant #1136640 to LKB. AL was supported by funding from DMH's NIH grant and funding from Virginia Tech's NIH/NIGMS funded IMSD Pro- gram 5R25GM072767-07. Authors thank Daniel Medina for help preparing samples for Illumina sequencing, and Myra Hughey and Daniel Medina for statistical assistance. They also thank Jim Adelman, Sahnzi Moyers, Courtney Youngbar, Catherine Beach, Johanel Caceres and David Vasquez for experimental and sample collection assistance for this study. The authors declare that they have no conflicts of interest to report.
+
+References
+
+Abelson, M.B., Lane, K., and Slocum, C. (2015). The secrets of ocular microbiomes. In: Review of Ophthalmology Online. [WWW document]. URL  /. [5 December 2016, last day accessed.]
+Adelman, J.S., Carter, A.W., Hopkins, W.A., and Hawley, D.M. (2013) Deposition of pathogenic Mycoplasma gallisepticum onto bird feeders: host pathology is more important than temperature-driven increases in food intake. Biol Lett 9: 5. doi: 20130594.
+Alfano, N., Courtiol, A., Vielgrader, H., Timms, P., Roca, A.L., and Greenwood, A.D. (2015) Variation in koala micro- biomes within and between individuals: effect of body region and captivity status. Sci Rep 5. doi: 10.1038/ srep10189.
+Altizer, S., Davis, A.K., Cook, K.C., and Cherry, J.J. (2004) Age, sex, and season affect the risk of mycoplasmal con- junctivitis in a southeastern house finch population. Can J Zool 82: 755-763.
+Bataille, A., Lee-Cruz, L., Tripathi, B., Kim, H., and Waldman,
+(2016) Microbiome variation across amphibian skin regions: implications for Chytridiomycosis mitigation efforts. Microb Ecol 71: 221. doi:10.1007/s00248-015-0653-0.
+Belden, L.K., Hughey, M.C., Rebollar, E.A., Umile, T.P., Loftus, S.C., Burzynski, E.A., et al. (2015) Panamanian frog spe- cies host unique skin bacterial communities. Front Microbiol 6: 1171. doi: 10.3389/fmicb.2015.01171.
+Becker, M.H., Richards-Zawacki, C.L., Gratwicke, B., and Belden, L.K. (2014) The effect of captivity on the cutaneous bacterial community of the critically endangered Panamani- an golden frog (Atelopus zeteki). Biol Conserv 176: 199- 206.
+Biswas, K., Hoggard, M., Jain, R., Taylor, M.W., and Douglas,
+R.G. (2015) The  nasal  microbiota  in health and disease:
+
+
+variation within and between subjects. Front Microbiol 6. doi: 10.3389/fmicb.2015.00134.
+Bokulich, N.A., Subramanian, S., Faith, J.J., Gevers, D., Gordon, J.I., Knight, R., et al. (2012) Quality-filtering vastly improves diversity estimates from Illumina amplicon sequencing. Nat Methods 10: 57-59. doi: 10.1038/ nmeth.2276.
+Caporaso, J.G., Kuczynski, J., Stombaugh, J., Bittinger, K., Bushman, F.D., Costello, E.K., et al. (2010) QIIME allows analysis of high-throughput community sequencing data. Nat Methods 7: 335-336.
+Caporaso, J.G., Lauber, C.L., Walters, W.A., Berg-Lyons, D., Huntley, J., Fierer, N., et al. (2012) Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms. ISME J 6: 1621-1624. doi: 10.1038/ ismej.2012.8.
+Cardenas, A., Rodriguez, R., L.M., Pizarro, V., Cadavid, L.F., and Arevalo-Ferro, C. (2012) Shifts in bacterial communities of two reef-building coral species affected by white plague disease. ISME J 6: 505-512.
+Chang, J.Y., Antonopoulos, D.A., Kalra, A., Tonelli, A., Khalife, W.T., Schmidt, T.M., et al. (2008) Decreased diversity of the fecal microbiome in recurrent Clostridium difficile - associ- ated diarrhea. J Infect Dis 197: 435-438.
+Chen, H., Yu, S., Hu, M., Han, X., Chen, D., Qiu, X., and Ding,
+(2012) Identification of biofilm formation by Mycoplasma gallisepticum. Vet Microbiol 161: 96-103.
+Collado, M.C., Isolauri, E., and Salminen, S. (2008) Specific probiotic strains and their combinations counteract adhe- sion of Enterobacter sakazakii to intestinal mucus. FEMS Microbiol Lett 282: 58-64.
+DeBarry, J., Hanuszkiewicz, A., Stein, K., Holst, O., and Heine, H. (2010) The allergy-protective properties of Acine- tobacter lwoffi F78 are imparted by its lipopolysaccharide. Allergy 65: 690-697.
+DeSantis, T.Z., Hugenholtz, P., Larsen, N., Rojas, M., Brodie, E.L., Keller, K., et al. (2006) Greengenes, a chimera- checked 16S rRNA gene database and workbench compat- ible with ARB. Appl Environ Microbiol 72: 5069-5072.
+Dhondt, A.A., Tessaglia, D.L., and Slothower, R.L. (1998) Epi- demic mycoplasmal conjunctivitis in house finches from eastern North America. J Wildl Dis 34: 265-280.
+Dong, Q., Brulc, J., Iovieno, A., Bates, B., Garoutte, A., Miller,
+D., et al. (2011) Diversity of bacteria at healthy human con- junctiva. Invest Ophthalmol Vis Sci 52: 5408-5413.
+Edgar, R.C. (2010) Search and clustering orders of magnitude faster than BLAST. Bioinform 26: 2460-2461.
+Fierer, N., Hamady, M., Lauber, C.L., and Knight, R. (2008) The influence of sex, handedness, and washing on the diversity of hand surface bacteria. Proc Natl Acad Sci USA 105: 17994-17999.
+Graham, J., Moore, J., Jiru, X., Moore, J.E., Goodall, E.A., Dooley, J.S.G., et al. (2007) Ocular pathogen or commen- sal: a PCR-based study of surface bacterial flora in normal and dry eyes. Invest Ophthalmol Vis Sci 48: 5616-5623.
+Grodio, J.L., Dhondt, K.V., O'connell, P.H., and Schat, K.A. (2008) Detection and quantification of Mycoplasma gallisepticum genome load in conjunctival samples of experimentally infected house finches (Carpodacus mexicanus) using real-time polymerase chain reaction. Avian Pathol 37: 385-391.
+
+
+Guo, F., and Zhang, T. (2013) Biases during DNA extraction of activated sludge samples revealed by high throughput sequencing. Appl Microbiol Biotechnol 97: 4607. doi: 10.1007/s00253-012-4244-4
+Hanski, I., von Hertzen, L., Fyhrquist, N., Koskinen, K., Torppa, K., Laatikainen, T., et al. (2012) Environmental bio- diversity, human microiota, and allergy are interrelated. Proc Natl Acad Sci USA 109: 8334-8339.
+Hawley, D.M., Grodio, J., Frasca, S., Kirkpatrick, L., and Ley,
+D.H. (2011) Experimental infection of domestic canaries (Serinus canaria domestica) with Mycoplasma gallisepti- cum: a new model system for a wildlife disease. Avian Pathol 40: 321-327.
+Higgins, P., and Johnson, L. (2001) Prior Helicobacter pylori infection ameliorates Salmonella typhimurium-induced coli- tis: mucosal crosstalk between stomach and distal intestine. Inflamm Bowel Dis 17: 1398-1408.
+Holden, W.M., Hanlon, S.M., Woodhams, D.C., Chappell, T.M., Wells, H.L., Glisson, S.M., et al. (2015) Skin bacteria provide early protection for newly metamorphosed southern leopard frogs (Rana sphenocephala) against the frog-killing fungus, Batrachochytrium dendrobatidis. Biol Conserv 187: 91-102.
+Hutchinson, D.S., Pflugfelder, S.C., and Petrosino, J.F. (2014). Microbiome, eye. In: Encyclopedia of Metagenomics. Nel- son, K.E. (ed.). New York: Springer-Verlag, pp. 400-403.
+Koh, H., Kim, M.S., Lee, J., Kim, H., and Park, S. (2015) Changes in the swine gut microbiota in response to porcine epidemic diarrhea infection. Microbes Environ 30: 284-287. Kohl, K.D., Skopec, M.M., and Dearing, M.D. (2014) Captivity results in disparate loss of gut microbial diversity in closely related hosts. Conserv Physiol 2: cou009. doi: 10.1093/con-
+phys/cou009.
+Kollias, G.V., Sydenstricker, K.V., Kollias, H.W., Ley, D.H., Hosseini, P.R., Connolly, V., et al. (2004) Experimental infection of house finches with Mycoplasma gallisepticum. J Wildl Dis 40: 79-86.
+Kovaleva, J., Degener, J.E., and van der Mei, H.C. (2014) Methylobacterium and its role in health care-associated infection. J Clin Microbiol 52: 1317-1321.
+Kugadas, A., and Gadjeva, M. (2016) Impact of microbiome on ocular health. Ocular Surf 14: 342-349.
+Lee, S.H., Oh, D.H., Jung, J.Y., Kim, J.C., and Jeon, C.O.
+(2012) Comparative ocular microbial communities in humans with and without blepharitis. Invest Ophthalmol Vis Sci 53: 5585-5593.
+Ley, D.H., Berkhoff, J.E., and McLaren, J.M. (1996) Mycoplas- ma gallisepticum isolated from house finches (Carpodacus mexicanus) with conjunctivitis. Avian Dis 40: 480-483.
+Loftus, S.C., House, L.L., Hughey, M.C., Walke, J.B., Becker, M.H., and Belden, L.K. (2015). Dimension reduction for Mul- tinomial Models via a Kolmogorov-Smirnov Measure (KSM). [WWW document]. URL  . [5 December 2016, last date accessed.]
+Luttrell, M.P., Stallknecht, D.E., Fischer, J.R., Sewell, C.T., and Kleven, S.H. (1998) Natural Mycoplasma gallisepticum infection in a captive flock of house finches. J Wildl Dis 34: 289-296.
+Macpherson, A.J., Gatto, D., Sainsbury, E., Harriman, G.R., Hengartner, H., and Zinkernagel, R.M. (2000) A primitive T cell-independent mechanism of intestinal mucosal IgA
+
+
+responses to commensal bacteria. Science 288: 2222- 2226.
+Markle, J.G.M., Frank, D.N., Mortin-Toth, S., Robertson, C.E., Feazel, L.M., Rolle-Kampczyk, U., et al. (2013) Sex differ- ences in the gut microbiome drive hormone-dependent reg- ulation of autoimmunity. Science 339: 1084-1088.
+Mazmanian, S.K., Liu, C.H., Tzianabos, A.O., and Kasper,
+D.L. (2005) An immunomodulatory molecule of symbiotic bacteria directs maturation of the host immune system. Cell 122: 107-118.
+McDermott, A.J., and Huffnagle, G.B. (2014) The microbiome and regulation of mucosal immunity. Immunol 142: 24-31.
+Miller, D.,  and Lovieno,  A. (2009) The role of microbial flora  on the ocular surface. Curr Opin Allergy Clin Immunol 9: 466- 470.
+Ohland, C.L., and Macnaughton, W.K. (2010) Probiotic bacte- ria and intestinal epithelial barrier function. Am J Physiol Gastrointest Liver Physiol 298: G807-G819.
+Oksanen, J., Blanchet, F.G., Kindt, R., Legendre, P., Minchin, P.R., O'hara, R.B., et al. (2016). Package 'vegan.' [WWW document]. URL https://cran.r-project.org/web/packages/ vegan/vegan.pdf. [5 December 2016, last date accessed.]
+Rakoff-Nahoum, S., Paglino, J., Eslami-Varzaneh, F., Edberg, S., and Medzhitov, R. (2004) Recognition of commensal microflora by toll-like receptors is required for intestinal homeostasis. Cell 118: 229-241.
+Rendueles, O., Ferrieres, L., Fretaud, M., Begaud, E., Herbomel, P., Levraud, J., et al. (2012) A new zebrafish model of oro-intestinal pathogen colonization reveals a key role for adhesion in protection by probiotic bacteria. PLoS Pathog 8: e1002815.
+dos Santos, L.L., Montiani-Ferreira, F., Lima, L., Lange, R., and de Barros Filho, I.R. (2014) Bacterial microbiota of the ocular surface of captive and free-ranging microbats: Des- modus rotundus, Diameus youngi and Artibeus lituratus. Vet. Opthalmol 17: 157-161.
+Sekirov, I., Tam, N.M., Jogova, M., Robertson, M.L., Li, Y., Lupp, C., et al. (2008) Antibiotic-induced perturbations of the intestinal microbiota alter host susceptibility to enteric infection. Infect Immunity 76: 4726-4736.
+Shin, H., Price, K., Albert, L., Dodick, J., Park, L., and Dominguez-Bello, M.G. (2016) Changes in the eye micro- biota associated with contact lens wearing. mBio 7: e00198-e00116.
+Short, F.L., Murdoch, S.L., and Ryan, R.P. (2014) Polybacte- rial human disease: the ills of social networking. Trends Microbiol 22: 508-516.
+Smith, D., Kennedy, S., Gibbs, R., Jones, D., De Paiva, C., Pflugfelder, S., et al. (2013) Challenges of microbiome research on the ocular surface. Invest Ophthalmol Vis Sci 54: 3380.
+The Human Microbiome Project Consortium. (2012) Struc- ture, function and diversity of the healthy human micro- biome. Nature 486: 207-214.
+Vasquez, A., Forsgren, E., Fries, I., Paxton, R.J., Flaberg, E., Szekely, L., and Olofsson, T.C. (2012) Symbionts as major modulators of insect health: lactic acid bacteria and honey- bees. PLoS One 7: e33188.
+
+
+Ventura, M., O'flaherty, S., Claesson, M.J., Turromi, F., Klaenhammer, T.R., van Sinderen, D., et al. (2009) Genome-scale analyses of health-promoting bacteria: pro- biogenomics. Nat Rev Microbiol 7: 61-71.
+Wang, Q., Garrity, G.M., Tiedje, J.M., and Cole, J.R. (2007) NaEURive Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Appl Environ Microbiol 73: 5261-5267.
+Whitacre, C.C., Reingold, S.C., and O'looney, P.A.; Task Force on Gender, Multiple Sclerosis and Autoimmunity. (1999) A gender gap in autoimmunity. Science 283: 1277-1278.
+Wilcox, M.D.P. (2013) Characterization of the normal micro- biota of the ocular surface. Exp Eye Res 117: 99-105.
+Wu, G.D., Lewis, J.D., Hoffmann, C., Chen, Y., Knight, R., Bittinger, K., et al. (2010) Sampling and pyrosequencing methods for characterizing bacterial communities in the human gut using 16S sequence tags. BMC Microbiol 10: 206. doi: 10.1186/1471-2180-10-206
+Yang, C., Fei, Y., Qin, Y., Luo, D., Yang, S., Kou, X., et al. (2015) Bacterial flora changes in conjunctiva of rats with streptozotocin-induced type I diabetes mellitus. PLoS One 10: e0133021. doi: 10.1371/journal.pone.0133021.
+Yurkovetskiy, L., Burrows, M., Khan, A.A., Graham, L., Volchkov, P., Becker, L., et al. (2013) Gender bias in autoimmunity is influenced by microbiota. Immunity 39: 400-412.
+Zandman-Goddard, G., Peeva, E., and Schoenfeld, Y. (2007) Gender and autoimmunity. Autoimmun Rev 6: 366-372.
+Zegans, M.E., and Van Gelder, R.N. (2014) Considerations in understanding the ocular surface microbiome. Am J Oph- thalmol 158: 420-422.
+Zhou, R., and Caspi, R.R. (2010) Ocular immune privilege.
+Biol Rep 2: 3. doi: 10.3410/B2-3.
+Zhou, Y., Holland, M.J., Makalo, P., Joof, H., Roberts, C.H., Mabey, D.C.W., et al. (2014) The conjunctival microbiome in health and trachomatous disease: a case control study. Genome Med 6: 99.
+
+Supporting information
+
+Additional Supporting Information may be found in the  online version of this article at the publisher's web-site.
+Table S1. K-S measures and taxonomic information for 9 OTUs that best define differences in the ocular microbiomes of house finches (Haemorhous mexicanus) before and after infection with Mycoplasma gallisepticum. Because M. galli- septicum is likely driving a large portion of the post- inoculation microbiome changes, the analysis was rerun without M. gallisepticum to determine if the post-inoculation compositional changes persist. Here, the asterisk indicate agreement of K-S OTU rankings in the top 9 between the two K-S measure analyses.
+Fig. S1. Timeline of the development of house finch (Haemorhous mexicanus) pathology following experimental inoculation with Mycoplasma gallisepticum. Peak pathology for both inoculation doses occurred around day 11 post- inoculation.

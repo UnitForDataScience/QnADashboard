@@ -1,0 +1,548 @@
+
+
+Establishing Causality: Opportunities of Synthetic Communities
+for Plant Microbiome Research
+Julia A. Vorholt,,Christine Vogel,Charlotte I. Carlstro" m,and Daniel B. MuEURller
+1Institute of Microbiology, ETH Zurich, 8093 Zurich, Switzerland
+*Correspondence:  
+
+Plant microbiome research highlights the importance of indigenous microbial communities for host pheno- types such as growth and health. It aims to discover the molecular basis by which host-microbe and microbe- microbe interactions shape and maintain microbial communities and to understand the role of individual microorganisms, as well as their collective ecosystem function. Here, we discuss reductionist approaches to disentangle the inherent complexity of interactions in situ. Experimentally tractable, synthetic communities enable testing of hypotheses by targeted manipulation in gnotobiotic systems. Modifications of microbial, host, and environmental parameters allow for the quantitative assessment of host and microbe characteris- tics with dynamic and spatial resolution. We summarize first insights from this emerging field and discuss current challenges and limitations. Using multifaceted approaches to detect interactions and functions will provide new insights into the fundamental biology of plant-microbe interactions and help to harness the power of the microbiome.
+
+
+The natural environment, including animals and plants, provides a multitude of ecological niches for microorganisms, allowing diverse strains to coexist and to form complex microbial com- munities. Researchers working with plants, vertebrates, and invertebrates are increasingly acknowledging the impact of these microbial inhabitants on their hosts, and, consequently, each multicellular host and its microbiota can be regarded as a supra-/metaorganism or holobiont ( ). Although various host-microbe systems, including terrestrial plants, are clearly distinct, conceptually similar questions  regarding  the  nature of host-microbe and microbe-microbe interactions can be addressed; for example, to understand the functions of the microbiota with regard to host fitness and how these are accom- plished. Viewing host organisms and their microbiota as metaor- ganisms broadens the more traditional perspective of host- microbe interactions that centered on threatening  pathogens  or specific plant-symbiotic microbes such as nitrogen-fixing bacteria or phosphate-mobilizing mycorrhiza. In the following, we provide a brief introduction to plant microbiomes and then discuss reductionist experimental approaches focusing on using synthetic microbial communities in gnotobiotic systems to address fundamental principles of plant microbiomes. In addi- tion, we provide exemplary links to other host-microbe systems to illustrate advances made in other fields.
+
+Plant Microbiomes
+Recent advances in next-generation sequencing technology have marked the beginning of a new era in gathering information on the genetic repertoires of microbial communities from various hosts. This strategy has offered insights into the relative abun- dances of different phylogenetic groups in a community and  the metabolic and physiological potential of its members. For example, we have learned that the most abundant bacterial
+
+142 Cell Host & Microbe 22, August 9, 2017 a 2017 Elsevier Inc.
+
+phyla in the human gut are Firmicutes and Bacteroidetes ( ), whereas Proteobacteria, followed by Actinobacteria, Bacteroidetes, and Firmicutes, dominate the bacterial community of Arabidopsis thaliana plants (). Some microbes might be pre- sent by chance as a result of stochastic events; however, there is growing evidence that core microorganisms establish consis- tently and reproducibly on healthy plants across space, time, and, in part, across organs, not only at the phylum level, but also at higher taxonomic resolution (uEUR). Never- theless, the relative abundances of individual phyla, classes, or genera can differ, at least in part due to variations in the environ- ment and plant genotypes ( ). Taken together, recent data from cultivation-independent investigations indicate that microbial communities do not assemble randomly but establish consis- tently in a similar pattern year after year ( uEUR). Thus, structuring  principles must exist that determine the architecture of various community configurations; however, these are presently insufficiently described.
+Understanding the mechanisms underlying the formation
+and function of host-associated microbial community structures is particularly relevant, as the associated microbiota contrib- utes to the host's phenotype. Examples of known plant-benefi- cial and/or microbe-mediated traits include plant protection, macroelement acquisition, drought and salinity resistance, and flowering time ( ). As these phenotypes affect reproduc- tive fitness, it seems reasonable to assume that plants have evolved mechanisms to attract and maintain microbial popula- tions based on their key functional capabilities through innate or induced, stimulating or inhibitory activities and have thus co-evolved with their associated microbes ().
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure        1.         Layers        of        Plant        Microbiomes        and        Opportunities        for        Data        Generation        and        Analysis The top layer (Metaorganism) represents the organismic level, showing the plant, bacteria, and other microorganisms living in association with plants. The middle layer (Metagenome) represents the metagenome, comprising the totality of genetic information, i.e., the genomes of the plant and all microorganisms. The lower layer (Metatranscriptome, -proteome, -metabolome) represents the molecular level of the organisms (plant and microbes), which is composed of networks built from the metatranscriptome, metaproteome, and metametabolome. Options for targeted manipulation and analysis are exemplarily indicated and include the various layers, as well as abiotic and biotic environmental factors, in addition to spatio-temporal investigations.
+
+
+
+The plant immune system, best known for its role in direct pathogen defense (), is also involved   in sensing  of beneficial microbes () and   is thus a prime candidate for shaping the microbiota by a com- bination of constitutive and induced mechanisms. Recognition of microbe-associated molecular patterns (MAMPs, rebranded from the term PAMP for pathogen-associated molecular pattern; ) may play a crucial role in such induced processes, as it does in animals and humans (). It has also been shown in plants and animals that members of the micro- biota can tune the immune system; for example, by molecules that serve as signals to trigger developmental processes that result in host protection against pathogens ( ). In plants, hormones such as salicylic acid, jasmonate, and ethylene serve as sig- nals that integrate recognition of microbes ( ). Memory effects (also termed sensitization or defense priming) provide broad resis- tance in plants, are potentially inheritable, and  come  with  both benefits and fitness costs ( ). Historically, plant protec- tion research has focused on only a few pathogens and a limited selection of beneficial microbes (for example of the
+
+
+Pseudomonas fluorescens group). Thus, it is important to extend the analysis of plant protection as well as other plant phenotypes (e.g., nutrient acquisition) to the  full  breadth  of the plant microbiota, not just as single strains, but also as a community. For example, recently inves- tigated microbiome-mediated phosphate uptake, which we discuss in more detail below.
+Viewing plants from a systems level highlights the need to inte- grate expertise on both plants and their associated microbiota. It requires work at the interface of classical disciplinary boundaries to investigate and interpret interactions not only among mi- crobes (archaea, bacteria, fungi, and oomycetes) and between plants and microbes, but also interactions with viruses, herbi- vores, and environmental factors, collectively referred to as the phytobiome ().
+
+Challenges and Objectives of Reductionist Approaches Plant-microbe interaction research is currently reaching new di- mensions by addressing the complexity of this interplay from the organismic to the molecular level (). While gener- ating catalogs of sequencing data through various methods (e.g., 16S rRNA gene-amplicon sequencing or whole-genome shotgun metagenomics) is readily accomplished, elucidating the biological mechanisms involved in microbial community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Concept of Synthetic Community Experiments in Plant Microbiome Research
+Strain collections are generated from plant material and stored for further investigations. Based on the research question of interest, synthetic communities are designed by creating bottom-up mixtures of microbial strains and are subsequently used to inoculate plants of selected genotypes grown under chosen controlled conditions. Readouts of interest are determined and analyzed. Modeling may assist in data interpretation and can help in the design of future ex- periments. Overall, a deeper understanding of microbiome functions is generated. This knowledge should help guide next-generation applications of biologicals in agriculture.
+
+
+
+assembly, dynamics, and resilience/resistance, as well as es- tablishing causal relationships between the microbiota and plant phenotypes, is not clear-cut. Addressing such funda- mental principles is challenging and will require experimental approaches that allow for reproducible conditions and targeted modifications of selected factors in order to identify and link changes at the genetic or molecular level to host and commu- nity phenotypes (and ). Adjustable factors include, for example, the presence/absence and abundance of partic- ular microbes or groups, the order in which various microbes are introduced, genetic alterations of particular strains or the host, and growth conditions. For plants, modifiable environ- mental factors include soil type, temperature, humidity, and in- tensity and quality of light, in addition to biotic factors such as insects. Having full control over all these parameters will minimize confounding factors and facilitate the interpretation   of results. In addition, by utilizing  appropriate  containment  and targeted manipulation techniques, the inherent complexity provided by the genotype of the host, the genotype of the mi- crobiome, and the environment (GH 3 GM 3 E) can be reduced in order to establish causality, ideally by integrating all layers that constitute the plant microbiome ().
+Evidently, any experimental setup must be carefully designed in order to appropriately address the question of interest. Gener- ated data may include the quantitative assessment of the community composition and abundance, the entire genomic repertoire, gene-expression profiles at the transcriptional or proteomic level, detection of metabolites in situ, and spatial in- formation at various scales, ideally all of the above in a dynamic
+
+
+way. To accomplish these tasks, cutting-edge methods have been developed so that various levels of information can be inte- grated. However, there is a need to continuously push state-of- the-art approaches and develop new technologies to generate data not only for individual organisms or compounds, as is commonly done in biochemistry and genetics, but to microbial consortia in planta. Acquiring high-resolution, quantitative data reflecting in situ conditions will be important and will benefit from the increasing sensitivity of analytical methods. In addition, analytical advances will help reduce the biological material required for analyses, especially from destructive samplings and for analyses not focused on nucleic acids (e.g., proteome or metabolome data) where no analyte amplification can be conducted.
+Focusing on genome-sequenced model plants such as
+A. thaliana and others (e.g., rice, maize, and soybean) () will allow for the consolidation of resources and in- formation, as there is hope that results obtained in one model system can be translated to other systems, thus leading to bene- ficial applications in agriculture (). Importantly, public resources such as mutant libraries and strain collections (accessions; i.e., natural inbred lines that are products of natural selection under various environmental conditions), as well as re- positories for phenotypes ( ) are available for A. thaliana and other plants. All of these plant resources will be instrumental to disentangling the complexity resulting from interactions among microorganisms and with the plant host, and we envision that microbiome data could be included in such repositories in the future.
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Advantages and Limitations of Low- and High-Complexity Synthetic Communities in Plant Microbiome Research Compared with Microcosm Experiments
+Reconstitution experiments using synthetic communities aim to establish causality by modifying the composition and/or functional abilities of a given mixture. Synthetic communities can mimic natural complexity, with higher-diversity communities reaching a higher, more natural representation, thus reducing the inherent risk of missing keystone organisms and functions provided by the genotype of the microbiome (GM). Reproducibility is achieved in synthetic community experiments at all levels of diversity, being particularly high for lower-diversity communities as stochastic events are minimized. Tractability, which is required to establish the molecular basis for phenotype-genotype relations, and thus causality, is facilitated by lower-diversity communities.
+
+
+Experimental plant microbiome systems can, on the one hand, rely on complex uncharacterized microbial communities, thus providing a good starting point for the isolation of crucial mem- bers responsible for a phenotype of interest using top-down approaches. For example, this strategy was recently used to identify bacterial families that potentially contribute to the dis- ease-suppressive phenotype of a particular soil against  the root pathogenic fungus Rhizoctonia solani ( ), thus following up on earlier findings on ''suppressive soils'' (). On the other hand, fully synthetic microbial communities can be used in a bottom-up manner (). The latter requires indigenous culture collections of microorganisms that allow for the reconstitution of synthetic communities under gnotobiotic conditions that, albeit artificial, mimic the natural environment or features thereof as closely as possible. Both types of approaches (top-down and bottom-up) have strengths and limitations regarding community complexity, experimental reproducibility, and their potential to affirm conclu- sions, and are further discussed below with a focus on synthetic communities.
+
+The Synthetic Microbial Community Approach
+Synthetic systems, by definition, result from the assembly of artificial building blocks for a certain purpose, i.e., mimicking a natural product. Translated to the plant microbiota, a synthetic community or constructed microbiome is a microbial community
+
+designed by mixing selected strains using bottom-up combina- tions and applying it to plants to study various aspects of plant- microbe interactions with the aim to uncover fundamental principles and generate knowledge that can be translated into agricultural applications (). A great advantage of this sys- tem is that it allows for the detailed study of its components under controlled and reproducible conditions, facilitating the establish- ment of causal links between genotypes and phenotypes. How- ever, the true strength of the synthetic community approach is that organisms can be added, eliminated, or substituted at the strain level. In addition, changes can be implemented not only at the organismic level, but also at the functional level, where in- dividual functions can be specifically removed or added, for example, via gene expression or silencing in situ. Consequences of perturbations (biotic or abiotic) can then be monitored at all different levels (), which is essential to understand the roles of individual microorganisms in a community context. Inte- grating different readouts, revising hypotheses, and careful experimental design are required to ultimately understand the fundamental principles of community ecology ().
+Synthetic communities have an inherently lower complexity compared with natural populations (). One may therefore argue that, because they might miss important community mem- bers, they do not represent a complete replicate of a natural plant microbiome. This is true and represents a limitation of this approach. In addition, simplified experimental systems do not
+
+
+
+
+
+represent the full breadth of  environmental  heterogeneity,  with many varying factors acting simultaneously. However, reduced-complexity systems are a prerequisite for experimenta- tion as a means to uncover causality through targeted manipula- tion. Even if these reduced-complexity systems do not exactly mimic nature, they allow for the recapitulation of microbiome- mediated phenotypes that can be further tested with alternative communities and/or be used to search for structure/function correlations in environmental samples to demonstrate general principles beyond a specific experimental setup.
+
+Culture Collections, Genomes, and Gnotobiotics Premises
+Comprehensive culture collections of microorganisms are a pre- requisite for building synthetic communities. Representativeness, that is, how well do these collections represent natural popula- tions, is a key issue and is inherently difficult to achieve and deter- mine. For estimation, cross-referencing against direct sequencing approaches from environmental samples is important. Such benchmarks can typically be generated based on taxa at the basis of the 16S rRNA gene sequence for bacteria and internal tran- scribed spacers of the 18S rRNA gene for eukaryotes, followed by sequence clustering into operational taxonomic units (OTUs). Shotgun metagenome sequencing can provide additional valu- able information and is expected to be used more frequently as sequencing costs continue to decline. Notwithstanding the above, in order to create model microbiota-strain collections it is impor- tant to cover as many species as possible (ideally all that constitute a core microbiota based on environmental samples) and include multiple exemplars from each species. Bai and coworkers applied extensive cultivation-dependent approaches to establish bacte- rial culture collections of leaf and root isolates of A. thaliana plants grown in different soil types and various environmental sites ( ). By using commonly used microbiological growth media, the majority of bacterial taxa that reproducibly colonize these plants under natural conditions were cultivated. A represen- tative set of 206 root-derived and 224 leaf-derived isolates were selected as a core collection, and draft genome sequences were acquired. Most importantly, leaf-specific and root-specific syn- thetic communities of this core collection formed reproducible communities under controlled gnotobiotic conditions, and these communities resembled the natural microbiota at the genus and phylum levels. However, despite substantial phylogenetic coverage, these strain collections need to be extended to mini- mize the proportion of uncharacterized taxa. The use of a wide range of growth media, including plant-mimic media, more specific minimal media that target different subsets of microor- ganisms, and various gradients of nutrient concentration, pH, or oxygen, might increase culturability. Furthermore, microfluidic de- vices offer the opportunity to co-cultivate strains that cannot be easily grown otherwise; for example, those relying on symbiotic or syntrophic relationships (). Alternatively, strains can be collected as impure strain collections, identified first by multiplex amplicon sequencing and isolated upon demand, for example to target previously underrepresented species ( ).
+Importantly, strain collections need to be produced from distinct plant organs (leaves, roots, flowers, and seeds), from various plant species including crop plants (for recent, smaller-
+
+
+scale collections from the model legume Medicago truncatula and maize see , for addi- tional references see ) and from plants grown under different conditions; for example, poor soil quality and different climates. Such small-scale strain collections can be readily achieved in parallel to culture-independent community surveys, yet still represent a highly valuable resource for follow-up research. So far, strain collections have largely focused on bacteria; however, in order to be comprehensive, cultivation efforts need to be extended to include fungi, oomy- cetes, and, for some plants, archaea, to reflect the microbial di- versity in planta.
+Extended culture collections will not only increase resemblance to the natural microbiota and facilitate synthetic microbiome research, but also represent a highly valuable resource in them- selves. Comprehensive strain collections will enable the screening of habitats for individual strain characteristics, such as production of novel natural products. Binary microbe-microbe interaction assays help identify beneficial and harmful relation- ships that contribute to niche separation, while microbe-plant interaction screens represent a powerful opportunity to identify strains that bear the potential for host disease protection or growth promotion (see, for example,  ), aspects which will then be test- able in a community context. Genome sequences of microorgan- isms constituting the culture collections will enhance data integra- tion of culture-independent community analyses, as well as of functional genomics approaches such as proteomics, transcrip- tomics, and metabolomics. Furthermore, genomic databases enable the mining of the microbial habitat for specific traits and comparing genomes between individual isolates or clades. For example, found that phylogenetic and functional diversification of genomes is driven by taxonomy rather than the plant organ used for isolation (leaf versus root), suggesting a sub- stantial functional overlap within the plant microbiome. Nonethe- less, evidence for niche specialization was obtained at the level of individual functions, as was shown with carbohydrate metabolism being enriched in leaf versus root bacteria. Another study used a quantitative proteomics approach focusing on two abundant and ubiquitous leaf species, Methylobacterium and Sphingomonas, and revealed organism-specific adaptations regarding amino acid metabolism, one-carbon (methanol) and two-carbon (oxa- late) metabolism, and accessory modes of energy conservation. A subsequent comparative genomics analysis estimated the dis- tribution of identified target genes within the plant microbiota and allowed the discrimination between general and taxa-specific adaptations (uEUR).
+As emphasized above, collections of microbial strains but also of their genomes will allow functional assessment. Apart from the biological resources per se, the ability to manipulate the ge- nomes of community members will be important to test for gene-phenotype relationships; the standard classical tools applicable to Escherichia coli, Bacillus subtilis, and Saccharo- myces cerevisiae are unlikely to work for most isolates. However, it appears that many Proteobacteria are genetically amenable, and tools are available for a range of plant isolates of the Alpha- and Gammaproteobacteria, abundant members of plant micro- biotas (see, for example,  ).
+
+
+
+
+
+To extend the biological toolbox of plants and associated mi- croorganisms, gnotobiotic systems need further adaptations. Several model systems have emerged for laboratory plant growth and analysis of binary or complex plant-microbe inter- actions. These range from agar-based culture conditions in Magenta boxes, microboxes, and  multiwell  plates  (  ) to calcined clay as inert soil substitute (    ), to autoclaved soil (). However, multiple factors including light quality and quantity, UV radia- tion, temperature, humidity, and plant density,  may  need  to be adapted in order to design more natural gnotobiotic model systems that faithfully mimic environmental conditions and facilitate translation of laboratory-derived observations to the field ().
+
+Designing Microbiomes
+Synthetic communities are built bottom-up from individual mi- crobial cultures and allow the dissection of the roles played by distinct strains in higher-complexity interaction networks (see above). This experimental approach enables the specific removal (drop-out) or inhibition of individual strains, populations, or functions, and the monitoring of the system's response as a whole. In addition, the invasiveness of individual strains and pri- ority effects can also be tested by introducing them into a pre-es- tablished community, thus providing insights into the historical contingency of community assembly. Further, by changing plant genotypes and using the same microbial community, the func- tions of particular plant genes on the community can be deter- mined (for exemplary illustrations of the vast potential experi- mental design options see ).
+Synthetic community systems with a range of complexities can be designed within the constraints provided by available strain collections. While low-complexity systems facilitate testing of the role played by individual strains, they might miss crucial nodes in microbial interaction networks that would nor- mally occur under environmental conditions ( ) (). The chance to omit important commu- nity functions decreases as community complexity increases; however, even highly complex communities might miss crucial elements, as mentioned before.
+Generally, to be as natural as possible, synthetic communities should mimic the corresponding culture-independent commu- nity profiles when taking the 16S/18S rRNA gene as reference, even if it remains  difficult  to  translate  OTUs  to  strains  due to within OTU variability. Thus, selecting multiple strains per OTU represents a natural choice; however, this requires bio- informatics pipelines that can confidently discriminate closely related strains below the classical OTU definition (97% sequence identity) (). Plant-associated Pseudomonas isolates for example, cause plant phenotypes ranging from beneficial to detrimental even within species (), empha- sizing the difficulty of correlating phylogeny with physiology. Ultimately, however, the effects of individual strains are testable by substituting strains belonging to the same OTU or ecotype, finally demonstrating whether these strains behave similarly, community outputs are robust, and individual exemplars are interchangeable, or not.
+
+
+Contrary to building synthetic communities based on phy- logeny, the corresponding genome sequences together with gene-expression profiles can assist in designing a microbiota based on functional capabilities; for example, predicted meta- bolic ability or potential for the synthesis of natural products, including signaling molecules or antibiotics that might potentially shape microbial community structures (). Regarding functional features, it is of interest to note that a meta- genomic study of the human gut microbiome, where no single bacterial phylotype was abundant in all acquired samples, led to the suggestion that the gut microbiota may not be best defined by prominent species, but by shared genes and func- tions (). Another study using the green macroalga Ulva australis demonstrated low phylogenetic (only 15% OTUs shared between hosts) but high functional overlap (70% of Clusters of Orthologous Groups similarity) among the host microbiota, again suggesting that communities might be assembled on the basis of function rather than taxonomy ( ). Yet another type of rationale for assembling syn- thetic communities originates from phenotypic observations of individual strains. In one recent study, the authors used coloniza- tion experiments and composition assessment to obtain a stable bacterial community to be used in further experiments ( ). Other phenotypes of potential interest by which to assemble microbial communities might be, for example, based on observed growth promotion, enhanced nutrient acquisition, or plant protection in mono-associations. Synthetic communities might then be used to understand which combinations of mi- crobes lead to additive or redundant effects.
+Regardless of whether a synthetic community is selected based on phylogeny or physiological function (genome or exper- imentally deduced) (), additional criteria based on the known metadata are of interest. Such metadata include, for example, plant site, plant organ, and epiphytic or endophytic occurrence, and will be helpful in the design of mixtures accord- ing to chosen criteria, which could also be applied to the selec- tion of ''non-native'' communities to investigate their succession ability. Studies using germ-free mice or zebrafish, for example, illustrate the selective pressure imposed by the host environ- ment in shaping the ultimate community in these systems ( ).
+In addition to specifically modifying the interacting organisms themselves, synthetic communities can be analyzed upon addi- tion of chemicals that mimic positive or negative interactions (e.g., antibiotics or signaling molecules such as those involved in quorum sensing or quenching) or inhibit ligand-receptor inter- actions (). Such chemical interven- tions offer in situ validation tools and ultimately have potential as prebiotics.
+Other more practical aspects in designing synthetic commu- nity experiments need careful consideration as well: Will the strains be grown in liquid or solid medium? How long should the strains grow prior to the experiment? Should all strains be mixed in the same ratio to one another, and, if so, how is the ratio accurately measured (e.g., optical density, cell counts, volume)? How will the synthetic communities be introduced to the plant host? These experimental issues may lead to vastly different re- sults, diminishing reproducibility and interpretation if techniques are not kept consistent and accurate. On the other hand,
+
+
+
+
+
+Selection based on phylogeny
+
+Example
+Are communities stable across varying conditions or host genotypes?
+
+
+Figure 4. Exemplary Design Options and Readouts for Reconstitution Experiments in Plant Microbiome Research
+Strategies for composing a synthetic community for hypothesis testing includes the selection of strains (or mutant variants) based on phylogeny, classification, interaction networks, or specific functions. Experimental setups can be modified to test for the effects of plant genotypes or environ- mental factors. Various readouts can be applied to analyze, for example, relative and absolute com- munity changes or plant phenotypes.
+
+
+
+
+
+
+Selection based on OTU clustering
+
+
+Example
+Are OTU exemplars interchangable?
+
+interchangeable
+
+
+
+
+
+
+
+more competitive	less competitive
+
+Selection based on interaction networks
+
+
+
+Example
+Are highly connected nodes essential for network stability?
+
+
+
+
+Essential node
+
+
+
+Non-essential node
+
+
+
+
+Selection based on function
+
+Example
+What functions are beneficial for the host?
+
+
+-	+
+
+
+
+
+
+explicitly modifying individual parameters will test the reproduc- ibility and robustness of the data. In addition, growth conditions for the plants are just as critical as for microbial growth, as the physiology of the plant changes as a function of growth condi- tions. For example, it was shown that the phosphate starvation response (PSR) differs in soil and in vitro (agar) systems ( ).
+
+Analyses and Readouts to Establish Causality
+In-depth understanding of the plant microbiota will require anal- ysis at multiple levels, including relative and absolute abun- dances, spatial distributions, and molecular analyses. In its simplest, nonetheless powerful form, cultivation can be used to generate overall colony-forming units from synthetic commu- nities and to distinguish individual strains, at least in low- complexity communities ( ). However, care needs to be taken that microbes do not inhibit each other on solid media upon colony formation. In addi- tion, low-complexity communities can be analyzed by profiling techniques such as automated ribosomal intergenic spacer analysis () or individual strain tagging (see below). For more complex synthetic communities, multi- plexed amplicon sequencing on state-of-the-art sequencing platforms can handle hundreds of samples at a time to generate relative OTU abundances from these reads followed by data analysis using well-established bioinformatic pipelines ( ). An apparent limitation of 16S rRNA gene analyses is the lack of absolute numbers and the difficulty of correlating read frequencies with cell counts due to variation in PCR amplification efficiency and gene copy numbers. However, 16S rRNA gene copy numbers can be obtained from closed genome sequences, and, in the case of high-quality draft genomes, 16S rRNA gene sequence read coverage can be used to estimate copy numbers ( ). PCR efficiency can be evaluated for individual strains, and derived information could then be used to correct relative abundance patterns and, in combination with internal sequencing standards, estimate total cell numbers based on read counts. In addition, qPCR approaches to determine overall plant colonization have been applied (). As an alternative to amplicon sequencing, metagenomic sequencing could also be used, as the metagenome is defined for completely genome-sequenced synthetic  communities, thus alleviating read-binning difficulties (). Both metagenomic and amplicon sequencing are subject to bias (); nonetheless, they correlate relatively well for a primer set commonly used to assess the plant microbiota (). In addition, read quantity and distribution contain additional information  that can be used, for example, to quantify in situ growth rates  of individual strains (). Furthermore, flow cy- tometry analysis of specifically labeled strains allows for abso- lute quantification of lower-complexity synthetic  communities or the tracking of particular individuals in a more complex com- munity. Fluorescence-based cell sorting further enables tar- geted retrieval of individual sub-populations prior to subsequent analysis (). Beyond these molecular tools, a variety of different fluorophores and luminescence-based ap- proaches have been used to quantify microbial growth in planta.
+
+
+For example, introduced the lux operon into the foliar pathogen P. syringae pv. tomato DC3000 to monitor path- ogen growth in planta. This approach has been adapted to facil- itate the transposon library screening of a plant-protecting commensal, upon pathogen challenge in tripartite interactions (). On the other hand, imaging technologies can link phylogenetic patterns to the spatial distribution of mi- crobes in planta and enable detailed co-localization analysis to shed light on direct microbe-microbe interactions with single- cell resolution ( ). In addition, bioreporters have been used to monitor the expression of genes of interest that, for example, sense sugars, methyl halides, or osmotic stress (   ). Alternatively, reporter systems could be used to assess local strain reproduction on leaf surfaces ( ). In a more recent example, a microfluidics-based approach was used to image the dynamics of bacterial coloniza- tion in real time. The authors observed chemotactic behavior of Bacillus subtilis during root elongation with concomitant exclu- sion of E. coli cells ().
+Genomic databases of culture collections enable the shift from phylogenetic to functional analysis, which is required to under- stand the plant-microbe interplay. Proteomics has been used  to analyze microbial host adaptation in binary plant-microbe sys- tems (uEUR). Furthermore, metabolomics has been used to examine the plant exometabolome (here, metabolites on leaf surfaces) as a func- tion of colonization by selected bacteria (). Both nuclear magnetic resonance and MALDI-imaging were used, the latter providing spatially resolved in planta metabolite profiles that differ markedly when bacteria are present. Further- more, transcriptomics has been applied to analyze P. syringae adaptation to growth on leaf surfaces and within the apoplastic space, as well as to investigate regulatory networks in planta (). On the plant side, inves- tigated the host's response to colonization with commensals versus a pathogenic P. syringae strain and discovered striking differences among bacterial treatments, most notably a strong immune response to the protective commensal Sphingomonas melonis Fr1 but not the non-protective Methylobacterium extorquens PA1. Of late, with the development of dual RNA sequencing, it is possible to monitor host and microbe transcrip- tomes in parallel. In a recent study, this approach was used to study the interaction between sugar cane and a root-associated, diazotrophic Burkholderia strain ( ). During plant colonization, expression of bacterial genes encoding proteins involved in triggering an immune response were downregulated, while biofilm formation genes were upre- gulated. In addition, there is evidence that the plant host and the bacterium react to each other, as the host upregulates genes involved in oxygen diffusion, while the bacterium upregulates a predicted high-affinity terminal oxidase. Similar to analyzing complex microbial communities in planta under environmental conditions using metaproteomics  ( ) or metatranscriptomics ( ), these approaches can readily be applied to reduced- complexity synthetic communities. The field will largely benefit from technical advances in systems biology, enabling integration
+
+
+
+
+
+of multiple -omics approaches as has been shown for human gut communities (). Forward genetic transposon screens of microbial mutant libraries colonizing the host under competitive conditions will identify essential capabil- ities in the community context and unravel links between genes and functions. Two pioneering studies using the mouse gut model system serve as examples to illustrate the power of such in vivo screens: in one study, the authors showed that the bacterium Bacteroides thetaiotaomicron requires the expression of vitamin B12-biosynthesis genes, and that corresponding fitness effects are dependent on the (synthetic) community context (); another study focused on Sal- monella and revealed the importance of an uptake hydrogenase for gut microbiota invasion ().
+Genome-wide association studies are broadly used to relate plant genotype to phenotype and have been applied to plant mi- crobiome analysis (). In the future, metage- nome (microbiome)-wide association studies (MWAS) ( ) will likely generate exciting per- spectives to establish causal links explaining why certain strains associate with plant phenotypes of interest. In planta testing of genome-sequenced strain collections, either in mono-associa- tions or as a multitude of synthetic community experiments with varying microbiome composition, will provide a valuable ba- sis to associate individual genes or single nucleotide polymor- phisms with host phenotypes; such associations could then be verified by experimental testing of genotype-phenotype correla- tions. An example study from the Drosophila melanogaster mi- crobiome field may serve to illustrate the approach.    tested a collection of 41 genome-sequenced bacte- rial strains for two microbiota-responsive host traits (here, host development time and triglyceride content), and were able to correlate pyrroloquinoline quinone biosynthesis and bacterial glucose metabolism with the host phenotypes. These results confirmed earlier findings generated by transposon mutagenesis and were furthermore exemplarily validated by ectopic expres- sion of individually identified genes, thus showing the power of the gnotobiotic MWAS approach ().
+Plant phenotyping represents an important readout providing quantitative data on shoot or root biomass, macroelement (e.g., phosphorous) content, carbon-nitrogen ratios, photosynthetic activity, disease index, and more. Dedicated platforms have great potential to monitor various parameters on the host side to complement microbiome-to-plant phenotype associations. Recent technological advances increase throughput by ro- botic-assisted imaging platforms and automated image analysis in non-destructive ways (plant phenomics), and are particularly suited for investigations of the phyllosphere for some of the above-mentioned parameters (). Measuring root growth in soil is more difficult, and artificial soil substitutes or agar(ose) systems have been used. Tomography methods, in particular, offer new opportunities to investigate root growth or architecture ().
+
+Model Building and Testing
+Microbial ecosystem  modeling  is  a  crucial  field  that  aims  at enhancing our understanding of microbial community dy- namics. However, building mathematical models to predict mi- crobiota functions based on community structure remains a
+
+
+key challenge in microbial ecology (). Microbe-microbe and plant-microbe interactions reside on a continuum from positive to neutral to negative and are context dependent. Due to a multitude of interactions occurring at the same time, the entire system with its stability and dynamics is difficult to capture experimentally and computationally. Close coordination of experimental studies with model designs will facilitate data integration, which is needed to advance the pre- dictive abilities of microbiota dynamics and functions. For example, recently showed they could pre- dict the outcomes of three-way or seven- to eight-way competi- tions between bacteria based on the outcome of pairwise or tripartite competitions, respectively, with a model based on a simple assembly rule. Co-occurrence interaction networks allow for the deduction of ecological predictions, including metabolic interactions, the resistance and stability of communities  (or vice versa their fragility), and the identification of key species  or genes (). Interactions can be predicted in multiple ways, including by correlation, local similarity anal- ysis, and Bayesian networks, and have been implemented in network analysis platforms ().
+The application of basic ecological concepts (for example, see   ) will be important, as it will help explain patterns and provide a basis to validate them in designated experiments. Population dynamics models are highly valuable to analyze community-assembly processes or data from strain-invasion experiments designed to test historical contingency rules. Coop- eration theories have been developed in various  fields  and can be adapted to complex synthetic communities. Exemplarily, these include game theory to model complex social behaviors such as cooperation resulting from sharing  a  public  good (e.g., secreted siderophores for iron acquisition in planta). Other models rely on prey-predator systems and have been adapted to microbial systems with generalized Lotka-Volterra equations (). In addition, market theories offer a complementary approach to analyze interactions observed in complex systems (). Besides commonly applied population-level models, individual-based models could also be used to track the fate of individual microbial cells within communities ().
+Network inference can help set up testable experiments to support or falsify established models. Because the microbiota, both as individual strains and as the sum of their interactions, modifies its habitat and provokes responses in the plant host, major efforts will be required to build models that integrate the system as a whole, including environmental factors. Another challenge resides in bridging the organismic abundance levels with the mechanistic level regarding cellular biochemistry. This, however, will create the basis to tackle the challenge of engineer- ing complex communities with predictable outcomes and pro- vide a guide in terms of missing information that needs to be integrated when improving models.
+
+Microbiome Engineering for Plant-Beneficial Phenotypes
+The indigenous microbiota influences plant properties such as nutrient status, biomass production, and resistance to biotic or
+
+
+
+
+
+abiotic stresses (uEUR ). Consequently, microbial communities can be selected for by means of artificial microbiome selection to obtain a plant microbiota with superior properties and service to the plant (). Although novel as a method conducted under laboratory conditions, it is based on the fundamental principle of natural selection, which people have unconsciously exploited since the beginning of agriculture thousands of years ago. The key element of the approach is mi- crobiome selection based on host phenotype. In the modern era, first applied this principle of microbiome engineering to select for plant biomass and pH as plant traits. More recently, this approach was applied to select for a micro- biota that affected flowering time and thus plant development (). In this study, soil microbiota that stimulated earlier or later flowering times were enriched over ten generations. This exemplary study demonstrates the poten- tial of using plant microbiota to modify plant fitness; moreover, it also showed that the evolved community could impact other plant species as well and was thus not specific. Both of the aforementioned studies used a microcosm setup (that is, pots with soil as a natural inoculum), the advantage being that selec- tion acted on a starting inoculum of maximum diversity.
+Using comprehensive strain collections that cover the majority of bacterial species from the plant as the starting inoculum, together with gnotobiotic conditions, will be highly valuable for microbiome selection experiments. Although they might miss some parts of the plant microbiome (see discussion on strain collections above), synthetic communities are tractable and help generate an understanding of the causes responsible for plant phenotype improvement by resequencing of selected or evolved strains via next-generation sequencing. For example,  it would be possible to determine whether observed differences are solely explained by changes in the relative abundances of different bacterial species, or whether, more likely, genetic changes and altered gene-expression profiles of individual members are responsible for community changes and, in turn, for the altered plant phenotype. Ultimately, synthetic community experiments might provide new insights into the underlying causal relationships between microbiome genotype and plant phenotype by pinpointing community changes and individual gene functions that correlate with plant phenotype. In addition, they could be used to track trajectories leading to a certain phenotype by analysis of ''fossil record'' communities  over  time in replicate selection experiments. Furthermore, selection experiments might pave the way toward a diagnostic assess- ment of community shifts that result from not only beneficial, but also detrimental, plant microbiota selection lines.
+
+First Insights from Synthetic Community  Experiments Research using synthetic communities to investigate plant- microbe investigations is still in its infancy. However, the field can be expected to develop rapidly due to publicly available and in-house strain collections with concomitant genome se- quences. A simple synthetic community composed of seven strains was built to test how the compositions of phyllosphere communities varied as a function of A. thaliana genotypes ( ). Importantly, the study showed that a model microbiota developed reproducibly and was stable after
+
+
+a short time, a prerequisite for the examination of perturbations. A subsequent screen of different plant genotypes revealed that mutants affected in cuticle formation experienced changes in community composition and had increased bacterial abun- dances relative to the wild-type plants, suggesting that different bacteria can benefit from a modified cuticle to varying extents (). The study also showed that the ein2 mutant, which is blind to the plant hormone ethylene ( ), had an effect on the community, in particular on a Variovorax strain, as measured by community profiling and enumeration of colony-forming units. In addition, this first syn- thetic community study showed that four out of nine A. thaliana accessions tested harbored an altered community composition compared with the reference accession Col-0, underlining the great potential for the identification of novel plant factors affecting the microbiota ().
+Synthetic community experiments have also been used to follow-up on observations made in microcosm experiments, thereby linking the testing of hypotheses in a complex natural community to studies carried out under more controlled condi- tions allowing readouts at a lower taxonomic level. Such inte- grated observations from complex natural communities and a 38-member synthetic community were used to study the impact of plant immunity on proper root microbiota establishment ( ). The authors investigated mutants with defects in biosynthesis and/or signaling of the hormones salicylic acid, jas- monic acid, and ethylene, and showed that salicylic acid signaling affects the assembly of the root microbiota. Consistent changes across different families occurred, suggesting that hor- mone signaling is an important factor in structuring at least part of the microbiome. In a subsequent study, the same laboratory reported the assembly and influence of the root microbiota dur- ing plant nutrient stress (). A. thaliana mu- tants with an altered PSR assembled different root microbiota than wild-type plants both in soil as well as in an agar system  in the presence of a 35-member synthetic community. The syn- thetic community enhanced the activity of the master transcrip- tional regulator of the PSR, PHR1, and activated PSR under phosphate-limiting conditions (). Interest- ingly, PHR1 not only activated genes of the phosphate stress response under these conditions but also directly repressed expression of plant immunity genes, thereby establishing a mo- lecular link between plant nutrition and immunity.
+Apart from varying the plant genotype to test for community alterations, experiments were conducted to test varying micro- biota composition on a fixed plant genotype (A. thaliana Col-0).  showed that leaf-specific and root-specific synthetic communities not only colonize the original habitat but also ectopically populate the other respective organ, whereas competition experiments between leaf and root strains indicated a competitive advantage during colonization of the cognate or- gan. Furthermore, it was shown that synthetic communities converged to a stable  community  that  was  robust  against  an imbalance in the initial inoculum, highlighting reproducible assembly.
+Another recent study by focused on potential bacterial interactions and their role in community assembly on maize roots. Using a seven-species synthetic community and removing one species at a time, the authors found that an
+
+
+
+
+
+Enterobacter species is crucial for community assembly in an agar-based experimental system. In the absence of E. cloacae, the absolute abundance of Curtobacterium pusillum increased, whereas other species were lost, suggesting that the Entero- bacter is the keystone species under the tested conditions. Furthermore, the authors demonstrated that the seven-member community was better at inhibiting the causal agent of late blight disease, Fusarium verticillioides, than each member individually. Experiments mixing synthetic communities with natural, com- plex communities can be helpful to test how a simple community behaves in a complex environment. introduced Pseudomonas species consortia of varying diversity to the to- mato rhizosphere grown in natural soil, and found that the sur- vival of the introduced Pseudomonas species was positively correlated with the diversity of the introduced consortia. Further- more, consortia with high Pseudomonas diversity suppressed the bacterial plant pathogen Ralstonia solanacearum, potentially by intensified resource competition and pathogen interference. Taken together, these synthetic community studies demon- strate the potential of synthetic community experiments and highlights their value to uncover microbe-microbe and plant- microbe interactions. They also provide first avenues to link
+purely synthetic communities to environmental conditions.
+
+Conclusion
+Factors shaping microbial communities, especially in the context of plant growth and health,  are  poorly  understood  due to the inherent complexity of the biological system. These factors accentuate the need to investigate and interpret inter- actions among microbes, in addition to those between plants and microorganisms, as a basis for phenotypic analyses. Research based on multispecies experimental systems is needed to uncover the mechanisms that are important in mi- crobial interactions and in determining community structure  and function in planta. Similar to the use of model bacteria in combination with systems-level and  reductionist  approaches in microbiological discovery, tractable bacterial model commu- nities in a gnotobiotic-plant model system will help elucidate  the roles of populations, organisms, proteins, genes, and me- tabolites in a community context, beyond bipartite interactions. Importantly, it will provide the basis to functionally validate mechanisms and causal relationships that might have been hy- pothesized from environmental observations or correlations. Thus, synthetic community experiments  are not a substitute  for environmental studies but rather a complement aiming to discover the molecular basis driving observations made under natural conditions and transferring them to a testable system. Vice versa, mechanistic insights gleaned from synthetic com- munity studies can subsequently be validated in greenhouse and field experiments for translational potential.
+Reference model systems hold great promise for establishing causality of observed phenotypes. Rather than following a one- sided view to investigate the  plant  microbiome,  they  allow  for multifaceted perspectives. Complementary empirical ap- proaches will involve modifications on the bacterial and plant sides at the organismic and molecular levels, and will lead to the discovery of simultaneous interactions occurring among many entities (). Strategies for improved crop production might consist of breeding plants that select for beneficial mi-
+
+
+crobes () or implementing targeted genetic engi- neering strategies directly ().
+Finally, there is ambition to not only improve our understand- ing of the underlying principles emerging from reductionist ap- proaches, but also translating this knowledge into agriculture (). Understanding the plant microbiome core functions might help overcome some of the current limitations, such as inconsistency when using biocontrol strains, and to address resistance mechanisms. In addition, novel strategies using synthetic communities as biologicals provide an opportunity to build a sustainable next-generation agriculture.
+
+ACKNOWLEDGMENTS
+
+Work in the authors' laboratory is supported by a European Research Council (ERC) Advanced Grant (PhyMo), and by grants from the Swiss National Sci- ence Foundation (31003A_173094), the ETH Zurich (ETH Research Grant ETH-41 14-2), the Swiss Initiative in Systems Biology (SystemsX), and the Volkswagen Foundation to J.A.V.
+
+
+REFERENCES
+
+
+.
+
+   .
+
+  .
+
+  .
+
+  .
+
+uEUR uEUR  .
+
+   .
+
+  .
+
+  .
+
+  .
+
+.
+
+ .
+
+   .
+
+
+
+
+
+  .
+
+   .
+
+   .
+
+  .
+
+   .
+
+  .
+
+  .
+
+   .
+
+ .
+
+ .
+
+  .
+
+  .
+
+  .
+
+   .
+
+  .
+
+ .
+
+  .
+
+  .
+
+   .
+
+ .
+
+
+
+.
+
+ .
+
+  .
+
+  .
+
+  .
+
+  .
+
+  .
+
+   .
+
+  .
+
+  .
+
+   .
+
+   .
+
+   .
+
+  .
+
+ .
+
+
+.
+
+  .
+
+   .
+
+ .
+
+  .
+
+
+
+
+
+ .
+
+   .
+
+  .
+
+  .
+
+ .
+
+   .
+
+  .
+
+  .
+
+
+.
+
+    .
+
+   .
+
+   .
+
+  .
+
+  .
+
+   .
+
+   .
+
+ .
+
+uEUR   .
+
+uEUR .
+
+
+
+
+
+ .
+
+ .
+
+  .
+
+  .
+
+ .
+
+   .
+
+  .
+
+  .
+
+   .
+
+  .
+
+  .
+
+ .
+
+  .
+
+uEURuEUR   .
+
+  .
+
+  .
+
+  .
+
+    .
+
+  .
+
+    .
+
+
+
+
+
+  .
+
+Sczyrba, A., Hofmann, P., Belmann, P., Koslicki, D., Janssen, S., Droege, J., Gregor, I., Majda, S., Fiedler, J., Dahms, E., et al. (2017). Critical assessment of metagenome interpretation a benchmark of computational metageno-  mics software. Nat. Methods. .
+
+  .
+
+  .
+
+  .
+
+  .
+
+  .
+
+ .
+
+ .
+
+
+.
+
+       .
+
+ .
+
+
+  .
+
+   .
+
+  .
+
+  .
+
+   .
+
+   .
+
+ .
+
+  .
+
+   .
+
+   .
+
+   .

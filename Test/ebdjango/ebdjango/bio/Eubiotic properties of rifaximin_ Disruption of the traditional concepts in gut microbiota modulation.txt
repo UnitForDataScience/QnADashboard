@@ -1,0 +1,357 @@
+
+Submit a Manuscript:  DOI: 10.3748/wjg.v23.i25.4491
+
+World J Gastroenterol 2017 July 7; 23(25): 4491-4499
+
+ISSN 1007-9327 (print)   ISSN 2219-2840  (online)
+
+
+
+
+Eubiotic properties of rifaximin: Disruption of the traditional concepts in gut microbiota modulation
+
+Francesca Romana Ponziani, Maria Assunta Zocco, Francesca D'Aversa, Maurizio Pompili, Antonio Gasbarrini
+
+
+Francesca Romana Ponziani, Maria Assunta Zocco, Francesca D'Aversa, Maurizio Pompili, Antonio Gasbarrini, Internal Medicine, Gastroenterology and Hepatology Division, Agostino Gemelli Hospital, 00168 Rome, Italy
+
+Author contributions: Ponziani FR, Zocco MA and D'Aversa F performed literature research, wrote the paper and approved the final version of the manuscript; Pompili M and Gasbarrini A approved the final version of the manuscript.
+
+Conflict-of-interest statement: No potential conflicts of interest relevant to this article were reported.
+
+Open-Access: This article is an open-access article which was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See:  licenses/by-nc/4.0/
+
+Manuscript source: Invited manuscript
+
+Correspondence to: Francesca Romana Ponziani, MD, Internal Medicine, Gastroenterology and Hepatology Division, Agostino Gemelli Hospital, largo Agostino Gemelli 8, 00168 Rome, Italy. 
+Telephone: +39-347-1227242
+Fax: +39-063-0156265
+
+Received: February 25, 2017
+Peer-review started: February 27, 2017
+First decision: April 7, 2017
+Revised: April 14, 2017
+Accepted: May 19, 2017
+Article in press: May 19, 2017
+Published online: July 7, 2017
+
+
+
+Abstract
+Antibiotics are usually prescribed to cure infections but
+
+they also have significant modulatory effects on the gut microbiota. Several alterations of the intestinal bacterial community have been reported during antibiotic treatment, including the reduction of beneficial bacteria as well as of microbial alpha-diversity. Although after the discontinuation of antibiotic therapies it has been observed a trend towards the restoration of the original condition, the new steady state is different from the previous one, as if antibiotics induced some kind of irreversible perturbation of the gut microbial community. The poorly absorbed antibiotic rifaximin seem to be different from the other antibiotics, because it exerts non-traditional effects additional to the bactericidal/bacteriostatic activity on the gut microbiota. Rifaximin is able to reduce bacterial virulence and translocation, has anti-inflammatory properties and has been demonstrated to positively modulate the gut microbial composition. Animal models, culture studies and metagenomic analyses have demonstrated an increase in Bifidobacterium , Faecalibacterium prausnitzii and Lactobacillus abundance after rifaximin treatment, probably consequent to the induction of bacterial resistance, with no major change in the overall gut microbiota composition. Antibiotics are therefore modulators of the symbiotic relationship between the host and the gut microbiota. Specific antibiotics, such as rifaximin, can also induce eubiotic changes in the intestinal ecosystem; this additional property may represent a therapeutic advantage in specific clinical settings.
+
+Key words: Intestinal bacteria; Antibiotic; Rifaximin; Gut microbiota; Eubiosis; Dysbiosis; Gut microbiota modulation
+
+(c) The Author(s) 2017. Published by Baishideng Publishing Group Inc. All rights reserved.
+
+
+Ponziani FR et al . Rifaximin eubiotic effects on gut microbiota
+
+
+
+
+
+Ponziani FR, Zocco MA, D'Aversa F, Pompili M, Gasbarrini
+Eubiotic properties of rifaximin: Disruption of the traditional concepts in gut microbiota modulation. World J Gastroenterol 2017; 23(25): 4491-4499 Available from: URL:  wjgnet.com/1007-9327/full/v23/i25/4491.htm DOI:  org/10.3748/wjg.v23.i25.4491
+
+
+
+INTRODUCTION
+
+is to antagonize local or systemic infections. However, after the discovery of the gut microbiota potential, several studies have focused on the effects of antibiotic therapies on commensal gut microbes[21-27]. Beta-lactamics, fluoro-quinolones, glycylcyclines, lincosamide, nitroimidazole, and various combina- tions of antibiotics are able to produce a profound alteration of the gut microbiota composition, mainly characterized by the reduction of autochthonous taxa and by the increase of potentially pathogenic bacteria, such as Enterobacteriaceae. In contrast, Bifidobacteria, Faecalibacterium prausnitzii and Lactobacilli, which usually exert beneficial effects to the gut, seem to be reduced after antibiotic treatment. Bifidobacteria are included into several probiotic preparations and have intestinal and systemic anti-inflammatory effects, being also protective against antibiotic associated diarrhea and infective colitis[28-53]. Faecalibacterium prausnitzii is a butyrate-producing bacterium with a high metabolic activity[54]; butyrate is involved in intestinal cells life cycle, has immunomodulatory
+
+ 		effects and protects against infections caused by
+
+The human gut microbiota has been the main target of scientific research in the very recent years. Studies based on metagenomic techniques have revealed the multifaceted abilities of gut microbes, ranging from metabolic functions to immunomodulation, from anti- pathogen activity to behavior conditioning[1-5]. As the gut microbiota plays a crucial role in maintaining humans' health, less or more specific gut microbiota alterations have been associated with various gastrointestinal diseases[6-20]. These findings strongly support the use of gut microbiota modulators such as antibiotics, prebiotics and probiotics as the treatment of choice in almost all gastrointestinal disorders.
+In addition to the speculative and intriguing value of these physiopathological findings, it is also interesting to address which modifications of the gut microbiota may occur after a therapeutic intervention, such as antibiotic treatment. In particular, recent metagenomic studies have highlighted a positive modulation of gut bacteria associated with the administration of rifaximin, one of the antibiotics most frequently used for the treatment of digestive diseases. This has opened the scenario to the new concept of antibiotic-related gut microbiota modulation, which overcomes the traditional bactericidal and bacteriostatic effects and involves the possibility of more complex interactions, resulting in a modulation of the gut flora favorable to the host.
+In this paper, we will focus on the effects of antibiotics, and in particular rifaximin, on gut bacteria, discussing both its traditional and non-traditional properties, and defining the new concept of "eubiotic modulation" of the gut microbiota.
+
+ANTIBIOTICS AND GUT MICROBIOTA
+
+pathogens[55,56]. Finally, Lactobacilli are known for their anti-inflammatory, immunomodulatory, anti-oxidant, anti-bacterial and anti-viral properties[57].
+Besides the effect on specific bacterial strains, antibiotic treatment decreases taxonomic richness, diversity, and evenness of the gut microbial community, producing a shift to an alternative state that is different from the baseline[27,58]. These alterations seem to recover after the end of antibiotic administration; however, the gut microbial composition does not exactly return to the pre-treatment condition, but rather it acquires a new connotation, similar (but not identical) to the original one. All these modifications are highly variable among individuals, and the consequences of antibiotics-associated gut microbiota perturbation in humans remain unknown.
+Morgun et al[59] analyzed metagenomic and
+metatranscriptomic changes in a mouse model of microbiota depletion after the administration of an antibiotic cocktail (ampicillin, vancomycin, neomycin and metronidazole). The main registered effects, in addition to the drop in total bacterial mass and the emergence of resistan strains, were (1) the impairment of local mucosal immunity, with a depletion of immune cells in the lamina propria and in the villous epithelium, as well as of IgA-producing plasma cells; and (2) mitochondrial toxicity, leading to increased apoptosis and cell death in the intestinal epithelium of treated animals. The authors concluded that gut microbiota depletion as well as the development of resistance among the remaining bacteria and the consequent effects on host tissues were the major consequences produced by antibiotics on the gut.
+Therefore, two main properties of antibiotics should be recognized: the classic effect against pathogens,
+
+ 		which is the main indication for their use in clinical
+The traditional use of antibiotics in the clinical practice	practice,  and the modulation  of the commensal gut
+
+Ponziani FR et al . Rifaximin eubiotic effects on gut microbiota
+
+
+
+Systemic antibiotics
+
+Gut-specific antibiotics (rifaximin)
+Gut microbiota modulation
+
+
+
+Inhibition of bacterial virulence: Adherence to gut mucosa Internalization
+Translocation
+Anti-inflammatory effects
+
+In addition to the bactericidal and bacteriostatic activity, which is typical of an antibiotic, rifaximin can also exert non-traditional effects on the gut microbiota (Figure 1). In particular, rifaximin can down-regulate the inflammatory response triggered by the gut microbes by inhibiting the activation of the nuclear factor (NF)-kB via the pregnane X receptor (PXR) and by reducing the expression of the pro-inflammatory cytokines interleukin (IL)-1B and tumor necrosis factor-alpha (TNFa)[67-71].
+Moreover, rifaximin alters bacterial virulence through the inhibition of adhesion, internalization and translocation[72-75], and can modify bacterial meta- bolism[76].
+Rifaximin modulation of gut microbial composition
+
+Figure 1 Effects of antibiotics on the gut microbiota. Systemic antibiotics are mainly used to treat extra-intestinal infections but they indirectly affect the gut microbiota composition. Rifaximin is a poorly absorbed antibiotic, exerting its action exclusively in the gastrointestinal tract. In addition to the expected antimicrobial properties, rifaximin inhibits bacterial virulence, down-regulates inflammatory response and has the potential to positively modulate the composition of gut microbial community.
+
+microbiota, which is a "collateral" effect. Although the consequences of this last feature on the host are still not clear, the reduction of beneficial bacteria may cause the loss of the favorable influence exerted by the gut microbiota on human health.
+This may reasonably induce to suppose a detri- mental effect of antibiotics on intestinal ecology. However, this is not the case of all antibiotics. Recent findings have pointed out that rifaximin can positively modulate the gut microbiota. This peculiar characteristic may differentiate rifaximin from the other systemic antibiotics.
+
+RIFAXIMIN: A POORLY ABSORBED ANTIBIOTIC WITH NON-TRADITIONAL EFFECTS ON GUT BACTERIA
+
+also belongs to the non-traditional features of this poorly absorbed antibiotic.
+
+EUBIOTIC EFFECTS OF RIFAXIMIN ON THE GUT MICROBIOTA
+In addition to the aforementioned activity against bacterial adherence, internalization and translocation and to the anti-inflammatory effects, there is evidence of a positive modulation of the gut microbiota as a consequence of rifaximin treatment (Table 1).
+The pioneering study that demonstrated for the first time the increase in beneficial bacterial strains associated with rifaximin intake was conducted more than ten years ago on twelve patients affected by ulcerative colitis[77]. Rifaximin was administered at the dose of 1800 mg daily for 3 treatment cycles, each lasting for 10 d, followed by a wash-out period of 25
+d. By means of standard bacteriological analysis, the Authors observed an increase in the concentration of Bifidobacteria after treatment, which tended to decrease in the interval periods. A subsequent study by the same group using a continuous culture model of the gut microbiota of four patients with active Crohn's
+
+ 		disease (CD)[78] also confirmed this preliminary result.
+
+Rifaximin is an antibiotic with broad-spectrum activity against Gram positive and Gram negative aerobic and anaerobic bacteria, effective for the treatment of travelers' diarrhea and other gastrointestinal infective conditions such as Clostridium difficile colitis[60-62]. As a consequence of the negligible systemic absorption (< 0.4%)[63], rifaximin reaches high tissue concentrations, as high as 8000 mcg/g in fecal samples after a 3-d regimen of 800 mg daily[64], far beyond the minimal inhibitory concentrations observed for local microbial isolates. Another characteristic of rifaximin is bile acids-dependent solubility; this makes the drug more effective in the small intestine while colonic bacteria are poorly inhibited[65]. Indeed, changes in the colonic gut microbiota composition are progressively but completely reversed after rifaximin interruption, differently from the effects on duodenal bacteria that appear more stable[66].
+
+Indeed, rifaximin administration at the same dose of 1800 mg daily did not alter the overall composition of the gut microbiota, but promoted the growth of Bifidobacterium, Atopobium and Faecalibacterium prausnitzii.
+More recently, Xu et al[79] demonstrated that Lactobacilli could grow in response to rifaximin administration. In particular, in the mouse model of visceral hyperalgesia used in the study, the administration of rifaximin increased the abundance of Lactobacilli in the ileum; this effect was restricted only to this antibiotic, since in the same experimental conditions the administration of another poorly absorbed antibiotic, neomycin, produced just an increase in Proteobacteria.
+Finally, two metagenomic analyses of the gut microbiota of human subjects affected by gastro- intestinal and liver diseases have been recently
+
+Ponziani FR et al . Rifaximin eubiotic effects on gut microbiota
+
+
+
+
+
+Pts: Patients; UC: Ulcerative colitis; CD: Crohn's disease; FISH: Fluorescence in situ hybridization; PCR: Polymerase chain reaction; HE: Cirrhosis with hepatic encephalopathy; non-C IBS: Irritable bowel syndrome without constipation; DD: Diverticular disease.
+
+
+published.
+In the first one[80], patients with non-constipated irritable bowel syndrome were treated with rifaximin 550 mg tid for 14 d. Fecal specimens were collected before starting the treatment, at the end of it, and after a 6-wk wash-out period. As one of the most intriguing result of the study, the Authors observed an increase in Faecalibacterium prausnitzii abundance at the end of treatment, without any major modification of the overall gut microbiota composition.
+In the second study[81], rifaximin was administered
+at the dose of 1200 mg daily for 10 d to patients with different gastrointestinal diseases, including irritable bowel syndrome, CD, ulcerative colitis and diverticular disease, and also to patients with liver cirrhosis complicated by hepatic encephalopathy. Stool samples were analyzed before, at the end and 1 mo after the end of rifaximin treatment. Lactobacillus abundance was increased at the end of treatment with rifaximin and 1 mo thereafter, while no modification of the overall composition of the gut microbiota was observed, even stratifying patients according to treatment timepoints and considering the original disease.
+In conclusion, rifaximin is able to increase the abundance of beneficial intestinal bacteria, while
+
+keeping stable the overall composition of the gut microbial community. Although this peculiar behavior has been described so far only in association with rifaximin, it is related to one of the most common consequences of antibiotic therapies: the deve- lopment of microbial resistance. Indeed, members of Bifidobacterium, Lactobacillus, Bacteroides, Clostridium, Eubacterium, Atopobium and Collinsella genera may develop mechanisms of resistance after rifaximin exposure, becoming able to grow at rifaximin concentrations higher than 1024 mg/L[82,83].
+In the previously reported study, Brigidi et al[77] demonstrated that the increase in Bifidobacteria consequent to rifaximin intervention was associated with the increase of minimal inhibitory concen- trations (MIC) values from 16 mcg/mL to 40 mcg/mL. Notably, rifaximin inhibits bacterial RNA synthesis acting on the b subunit of the RNA polymerase, and missense mutations of the core region of the rpoB gene encoding the b subunit of RNA polymerase have been described in Bifidobacterium infantis following rifaximin exposure[84,85]. Therefore, in the case of rifaximin, the acquisition of resistance may represent an advantage for the host rather than a detrimental consequence. However, the development of rifaximin resistance requires chromosomal mutation, which
+
+Ponziani FR et al . Rifaximin eubiotic effects on gut microbiota
+
+
+is vertically transmitted and has, therefore, a rare diffusion among intestinal microorganisms[61]; as a consequence, almost all resistant bacteria disappear within weeks after treatment discontinuation[86]. Data from metagenomic studies reflect this characteristic. Indeed, immediately after the beginning of rifaximin treatment, bacterial alpha diversity shows a trend towards reduction, reverting to values similar to pre- treatment after a wash-out period[80,81].
+Based on these considerations, and also on the preliminary evidence that rifaximin effects do not
+
+and flatulence. The incidence of infections was low too, and the few cases of C. difficile colitis reported during rifaximin treatment were generally associated with predisposing conditions, such as hospitalization and prolonged antibiotic use.
+Therefore, rifaximin eubiotic properties are asso- ciated with a good safety and tolerability profile, which makes possible a wide use of this molecule in different clinical settings.
+
+EUBIOSIS: A NEW-OLD CONCEPT
+
+abruptly disappear after treatment interruption, lasting	 	
+
+in the short time period, further studies are needed to investigate if the positive modulation of the gut microbiota produced by rifaximin could persist over time.
+
+RIFAXIMIN AS EUBIOTIC AGENT IN CLINICAL PRACTICE
+In addition to the favorable modulation of the gut microbiota, rifaximin presents other features that make its use safely applicable in clinical practice.
+Rifaximin is poorly absorbed and a negligible concentration is retrieved in urine after oral ad- ministration. This feature is typical of the branded formulation of the drug, which contains only the crystal polymorph -a, while a higher systemic bioavailability has been demonstrated for the generic formulation containing an amorphous form of the molecule[87]. Considerations about careful use of rifaximin in con- ditions increasing intestinal permeability, such as liver impairment, should also been provided. Rifaximin systemic exposure is increased by 10, 13 and 20 folds in Child A, B and C cirrhotic patients, respectively; although no dose adjustment is required by the manufacturer, a careful use is advisable in this clinical setting[88].
+Rifaximin drug interactions are also expected to be rare, as confirmed by two studies including healthy individuals on treatment with CYP450 substrates[89,90]. P-glycoprotein is also involved in the metabolism of rifaximin but the clinical consequences of the co-administration of p-glycoprotein inhibitors are unknown.
+Rifaximin has also been safely used in elderly subjects[91] and children[92]. However, teratogenic effects on the fetus have been demonstrated in animal models, and the benefits of rifaximin in pregnant women should be weighed against this risk[88].
+A final consideration should be drawn about rifaximin tolerability in clinical practice. In the major studies reporting on rifaximin use in gastrointestinal diseases and hepatic encephalopathy, a low rate of adverse events has been registered, mainly of mild/ low grade and with a similar frequency compared to the placebo[93]. The most frequent ones have been headache, nausea, dizziness, dyspepsia, abdominal discomfort, abdominal distention, diarrhea, constipation
+
+The increase in bacteria beneficial to the gut associated with rifaximin treatment, together with its additional properties and its local action, reasonably support a reclassification of this molecule, which can be defined not only as an antibiotic but also as an "eubiotic", namely a positive modulator of the gut ecosystem.
+Usually, humans live in a commensal and mutualistic symbiotic relationship with their own gut microbiota, which is a prolonged and close association resulting in a benefit for one or both the organisms[94].
+However, the term "symbiosis" does not com- pletely describe the exact nature of this cooperation, failing to depict the dynamism that is the culprit  of this relationship. Indeed, while the human host can be considered a relatively stable system, it is extremely difficult to take a static picture of the gut microbiota. However, trying to partially summarize the high variability of the microbial ecosystem, two main conditions may be outlined: "dysbiosis" and "eubiosis". Dysbiosis has been defined as a condition characterized by "imbalanced intestinal microbial community with quantitative and qualitative changes in the composition of the microbiota itself, in its metabolic activities or in the local distribution of its members"[94]; in contrast, a proper definition of eubiosis has not been provided yet. Intuitively, a quantitative and qualitative harmonic balance of the gut microbial components, resulting in a healthy metabolic and immunologic cooperation with the host, should be the main feature of eubiosis. However, apart from infections caused by opportunistic and non-opportunistic pathogens, it is difficult to figure-out which could be the main change conditioning the transition from eubiosis to dysbiosis in other pathologic settings (e.g., irritable bowel syndrome, inflammatory bowel diseases etc.). Probably dysbiosis may occur transiently in healthy individuals, usually resolving spontaneously without any clinical manifestation or presenting with mild symptoms. Conversely, changes in the composition of the gut microbiota observed in patients with gastrointestinal diseases may be configured as a the persistence of dysbiotic alterations that fails to recover, thus contributing to the onset and to the progression of the pathologic condition in predisposed individuals, as well as to the worsening of clinical symptoms. This explains the efficacy of eubiotic compounds such as rifaximin in
+
+Ponziani FR et al . Rifaximin eubiotic effects on gut microbiota
+
+
+these clinical settings: the beneficial modulation of the gut microbiota produced by rifaximin, together with its other non-traditional effects, result in a beneficial anti- inflammatory and trophic action on the intestine.
+
+CONCLUSION
+The symbiotic host-gut microbiota relationship is a condition of relational harmony fluctuating between eubiosis and dysbiosis. Since dysbiosis plays a role in the pathogenesis and in the progression of several gastrointestinal and systemic diseases, the use of eubiotics, such as rifaximin, should be reconsidered in these settings in the light of the positive modulating effects on the gut microbial community, and their use should be further supported and integrated with the other available medical treatments.
+
+REFERENCES
+Nieuwdorp M, Gilijamse PW, Pai N,  Kaplan LM.  Role  of the microbiome in energy regulation and metabolism. Gastroenterology 2014; 146: 1525-1533 [PMID: 24560870 DOI: 10.1053/j.gastro.2014.02.008]
+Hollister EB, Gao C, Versalovic J. Compositional and functional features of the gastrointestinal microbiome and their effects on human health. Gastroenterology 2014; 146: 1449-1458 [PMID: 24486050 DOI: 10.1053/j.gastro.2014.01.052]
+Sommer F, Backhed F. The gut microbiota--masters of host development and physiology. Nat Rev Microbiol 2013; 11: 227-238 [PMID: 23435359 DOI: 10.1038/nrmicro2974]
+Sekirov I, Russell SL, Antunes LC, Finlay BB. Gut microbiota   in health and disease. Physiol Rev 2010; 90: 859-904 [PMID: 20664075 DOI: 10.1152/physrev.00045.2009]
+Tremaroli V, Backhed F. Functional interactions  between  the gut microbiota and host metabolism. Nature 2012; 489: 242-249 [PMID: 22972297 DOI: 10.1038/nature11552]
+Frank DN, St Amand AL, Feldman RA, Boedeker EC, Harpaz N, Pace NR. Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc Natl Acad Sci USA 2007; 104: 13780-13785 [PMID: 17699621 DOI: 10.1073/pnas.0706625104]
+Sokol H, Seksik P. The intestinal microbiota in inflammatory bowel diseases: time to connect with the host. Curr Opin Gastroenterol 2010; 26: 327-331 [PMID: 20445446 DOI: 10.1097/ MOG.0b013e328339536b]
+Elson CO, Cong Y. Host-microbiota interactions in inflammatory bowel disease. Gut Microbes 2012; 3: 332-344 [PMID: 22572873 DOI: 10.4161/gmic.20228]
+Machiels K, Joossens M, Sabino J, De Preter V, Arijs I, Eeckhaut V, Ballet V, Claes K, Van Immerseel F, Verbeke K, Ferrante M, Verhaegen J, Rutgeerts P, Vermeire S. A decrease of the butyrate- producing species Roseburia hominis and Faecalibacterium prausnitzii defines dysbiosis in patients with ulcerative colitis. Gut 2014; 63: 1275-1283 [PMID: 24021287 DOI: 10.1136/ gutjnl-2013-304833]
+Hansen R, Russell RK, Reiff C, Louis P, McIntosh F, Berry  SH, Mukhopadhya I, Bisset WM, Barclay AR, Bishop J, Flynn DM, McGrogan P, Loganathan S, Mahdi G, Flint HJ, El-Omar EM, Hold GL. Microbiota of de-novo pediatric IBD: increased Faecalibacterium prausnitzii and reduced bacterial diversity in Crohn's but not in ulcerative colitis. Am J Gastroenterol 2012; 107: 1913-1922 [PMID: 23044767 DOI: 10.1038/ajg.2012.335]
+Lepage P, Hasler R, Spehlmann ME, Rehman A, Zvirbliene A, Begun A, Ott S, Kupcinskas L, Dore J, Raedler A, Schreiber S. Twin study indicates loss of interaction between microbiota and mucosa
+
+of patients with ulcerative colitis. Gastroenterology 2011; 141: 227-236 [PMID: 21621540 DOI: 10.1053/j.gastro.2011.04.011]
+Rajilic-Stojanovic M, Biagi E, Heilig HG, Kajander K, Kekkonen RA, Tims S, de Vos WM. Global and deep molecular analysis of microbiota signatures in fecal samples from patients with irritable bowel syndrome. Gastroenterology 2011; 141: 1792-1801 [PMID: 21820992 DOI: 10.1053/j.gastro.2011.07.043]
+Jalanka-Tuovinen J, Salojarvi J, Salonen A, Immonen O, Garsed K, Kelly FM, Zaitoun A, Palva A, Spiller RC, de Vos WM. Faecal microbiota composition and host-microbe cross-talk following gastroenteritis and in postinfectious irritable bowel  syndrome. Gut 2014; 63: 1737-1745 [PMID: 24310267 DOI: 10.1136/ gutjnl-2013-305994]
+Lin HC. Small intestinal bacterial overgrowth: a framework for understanding irritable bowel syndrome. JAMA 2004; 292: 852-858 [PMID: 15316000 DOI: 10.1001/jama.292.7.852]
+Riordan SM, Kim R. Bacterial overgrowth as a cause of irritable bowel syndrome. Curr Opin Gastroenterol 2006; 22: 669-673 [PMID: 17053447 DOI: 10.1097/01.mog.0000245544.80160.46]
+Bouhnik Y, Alain S, Attar A, Flourie B, Raskine L, Sanson-Le Pors MJ, Rambaud JC. Bacterial populations contaminating the upper gut in patients with small intestinal bacterial overgrowth syndrome. Am J Gastroenterol 1999; 94: 1327-1331 [PMID: 10235214 DOI: 10.1111/j.1572-0241.1999.01016.x]
+Sanchez E, Donat E, Ribes-Koninckx C, Fernandez-Murga ML, Sanz Y. Duodenal-mucosal bacteria associated with celiac disease in children. Appl Environ Microbiol 2013; 79: 5472-5479 [PMID: 23835180 DOI: 10.1128/AEM.00869-13]
+Olivares M, Neef A, Castillejo G, Palma GD, Varea V,  Capilla  A, Palau F, Nova E, Marcos A, Polanco I, Ribes-Koninckx C, Ortigosa L, Izquierdo L, Sanz Y. The HLA-DQ2 genotype selects for early intestinal microbiota composition in infants at high risk of developing coeliac disease. Gut 2015; 64: 406-417 [PMID: 24939571 DOI: 10.1136/gutjnl-2014-306931]
+Gevers D, Kugathasan S, Denson LA, Vazquez-Baeza Y, Van Treuren W,  Ren B, Schwager E, Knights D, Song SJ, Yassour   M, Morgan XC, Kostic AD, Luo C, Gonzalez A, McDonald D, Haberman Y, Walters T, Baker S, Rosh J, Stephens M, Heyman M, Markowitz J, Baldassano R, Griffiths A, Sylvester F, Mack D, Kim S, Crandall W, Hyams J, Huttenhower C, Knight R, Xavier RJ. The treatment-naive microbiome in new-onset Crohn's disease. Cell Host Microbe 2014; 15: 382-392 [PMID: 24629344 DOI: 10.1016/ j.chom.2014.02.005]
+Kostic AD , Xavier RJ, Gevers D. The microbiome in inflammatory bowel disease: current status and the future ahead. Gastroenterology 2014; 146: 1489-1499 [PMID: 24560869 DOI: 10.1053/j.gastro.2014.02.009]
+Penders J, Thijs C, Vink C, Stelma FF,  Snijders B, Kummeling  I, van den Brandt PA, Stobberingh EE.  Factors influencing the composition of the intestinal microbiota in early infancy. Pediatrics 2006; 118: 511-521 [PMID: 16882802 DOI: 10.1542/ peds.2005-2824]
+Donskey CJ, Hujer AM, Das SM, Pultz NJ, Bonomo RA, Rice LB. Use of denaturing gradient gel electrophoresis for analysis of the stool microbiota of hospitalized patients. J Microbiol Methods 2003; 54: 249-256 [PMID: 12782380]
+De La Cochetiere MF, Durand T, Lepage P, Bourreille A, Galmiche JP, Dore J. Resilience of the dominant human fecal microbiota upon short-course antibiotic challenge. J Clin Microbiol 2005; 43: 5588-5592 [PMID: 16272491 DOI: 10.1128/JCM.43.11. 5588-5592.2005]
+Young VB, Schmidt TM. Antibiotic-associated diarrhea accompanied by large-scale alterations in the composition of the fecal microbiota. J Clin Microbiol 2004; 42: 1203-1206 [PMID: 15004076]
+Bassis CM, Theriot CM, Young VB. Alteration of the murine gastrointestinal microbiota by tigecycline leads to increased susceptibility to Clostridium difficile infection. Antimicrob Agents Chemother 2014; 58: 2767-2774 [PMID: 24590475 DOI: 10.1128/ AAC.02262-13]
+Jernberg C, Lofmark S, Edlund C, Jansson JK. Long-term
+
+Ponziani FR et al . Rifaximin eubiotic effects on gut microbiota
+
+
+impacts of antibiotic exposure on the human intestinal microbiota. Microbiology 2010; 156: 3216-3223 [PMID: 20705661 DOI: 10.1099/mic.0.040618-0]
+Dethlefsen L, Relman DA. Incomplete recovery and individualized responses of the human distal gut microbiota to repeated antibiotic perturbation. Proc Natl Acad Sci USA 2011; 108 Suppl 1: 4554-4561 [PMID: 20847294 DOI: 10.1073/pnas.1000087107]
+Correa NB, Peret Filho LA, Penna FJ, Lima FM, Nicoli JR. A randomized formula controlled trial of Bifidobacterium lactis and Streptococcus thermophilus for prevention of antibiotic-associated diarrhea in infants. J Clin Gastroenterol 2005; 39: 385-389 [PMID: 15815206]
+Weizman Z, Asli G, Alsheikh A. Effect of a probiotic infant formula on infections in child care centers: comparison of two probiotic agents. Pediatrics 2005; 115: 5-9 [PMID: 15629974 DOI: 10.1542/peds.2004-1815]
+Kajander K, Myllyluoma E, Rajilic-Stojanovic M, Kyronpalo S, Rasmussen M, Jarvenpaa S, Zoetendal EG, de Vos WM, Vapaatalo H, Korpela R. Clinical trial: multispecies probiotic supplementation alleviates the symptoms of irritable bowel syndrome and stabilizes intestinal microbiota. Aliment Pharmacol Ther 2008; 27: 48-57 [PMID: 17919270 DOI: 10.1111/j.1365-2036.2007.03542.x]
+Guyonnet D, Chassany O, Ducrotte P, Picard C, Mouret M, Mercier CH, Matuchansky C. Effect of a fermented milk containing Bifidobacterium animalis DN-173 010 on the health- related quality of life and symptoms in irritable bowel syndrome in adults in primary care: a multicentre, randomized, double-blind, controlled trial. Aliment Pharmacol Ther 2007; 26: 475-486 [PMID: 17635382 DOI: 10.1111/j.1365-2036.2007.03362.x]
+Agrawal A, Houghton LA, Morris J, Reilly B, Guyonnet D, Goupil Feuillerat N, Schlumberger A, Jakob S, Whorwell PJ. Clinical trial: the effects of a fermented milk product containing Bifidobacterium lactis DN-173 010 on abdominal distension and gastrointestinal transit in irritable bowel syndrome with constipation. Aliment Pharmacol Ther 2009; 29: 104-114 [PMID: 18801055 DOI: 10.1111/j.1365-2036.2008.03853.x]
+Guyonnet D, Schlumberger A, Mhamdi L, Jakob S, Chassany O. Fermented milk containing Bifidobacterium lactis DN-173 010 improves gastrointestinal well-being and  digestive  symptoms in women reporting minor digestive symptoms: a randomised, double-blind, parallel, controlled study. Br J Nutr 2009; 102: 1654-1662 [PMID: 19622191 DOI: 10.1017/S0007114509990882]
+Marteau P, Guyonnet D, Lafaye de Micheaux P, Gelu S. A randomized, double-blind, controlled study and pooled analysis  of two identical trials of fermented milk containing probiotic Bifidobacterium lactis CNCM I-2494 in healthy women reporting minor digestive symptoms. Neurogastroenterol Motil 2013; 25: 331-e252 [PMID: 23480238 DOI: 10.1111/nmo.12078]
+Tillisch K, Labus J, Kilpatrick L, Jiang Z, Stains J, Ebrat B, Guyonnet D, Legrain-Raspaud S, Trotin B, Naliboff B, Mayer EA. Consumption of fermented milk product with probiotic modulates brain activity. Gastroenterology 2013; 144: 1394-1401, 1401. e1-1401.e4 [PMID: 23474283 DOI: 10.1053/j.gastro.2013.02.043]
+Waller PA, Gopal PK, Leyer GJ, Ouwehand AC, Reifer C, Stewart ME, Miller LE. Dose-response effect of Bifidobacterium lactis HN019 on whole gut transit time and functional gastrointestinal symptoms in adults. Scand J Gastroenterol 2011; 46: 1057-1064 [PMID: 21663486 DOI: 10.3109/00365521.2011.584895]
+Lin HC, Hsu CH, Chen HL, Chung MY, Hsu JF, Lien RI, Tsao LY, Chen CH, Su BH. Oral probiotics prevent necrotizing enterocolitis in very low birth weight preterm infants: a multicenter, randomized, controlled trial. Pediatrics 2008; 122: 693-700 [PMID: 18829790 DOI: 10.1542/peds.2007-3007]
+Kajander K, Hatakka K, Poussa T, Farkkila M, Korpela R. A probiotic mixture alleviates symptoms in irritable bowel syndrome patients: a controlled 6-month intervention. Aliment Pharmacol Ther 2005; 22: 387-394 [PMID: 16128676 DOI: 10.1111/ j.1365-2036.2005.02579.x]
+Ishikawa H, Matsumoto S, Ohashi Y, Imaoka A, Setoyama H, Umesaki Y, Tanaka R, Otani T. Beneficial effects of probiotic
+
+bifidobacterium and galacto-oligosaccharide in patients with ulcerative colitis: a randomized controlled study. Digestion 2011; 84: 128-133 [PMID: 21525768 DOI: 10.1159/000322977]
+Almeida CC, Lorena SL, Pavan CR, Akasaka HM, Mesquita MA. Beneficial effects of long-term consumption of a probiotic combination of Lactobacillus casei Shirota and Bifidobacterium breve Yakult may persist after suspension of therapy in lactose- intolerant patients. Nutr Clin Pract 2012; 27: 247-251 [PMID: 22402407 DOI: 10.1177/0884533612440289]
+O'Mahony L, McCarthy J, Kelly P, Hurley G, Luo F, Chen K, O'Sullivan GC, Kiely B, Collins JK, Shanahan F, Quigley EM. Lactobacillus and bifidobacterium in irritable bowel syndrome: symptom responses and relationship to cytokine profiles. Gastroenterology 2005; 128: 541-551 [PMID: 15765388]
+Whorwell PJ, Altringer L, Morel J, Bond Y, Charbonneau D, O'Mahony L, Kiely B, Shanahan F,  Quigley EM.  Efficacy of  an encapsulated probiotic Bifidobacterium infantis 35624 in women with irritable bowel syndrome. Am J Gastroenterol 2006; 101: 1581-1590 [PMID: 16863564 DOI: 10.1111/ j.1572-0241.2006.00734.x]
+Groeger D, O'Mahony L, Murphy EF, Bourke JF, Dinan TG, Kiely B, Shanahan F, Quigley EM. Bifidobacterium infantis 35624 modulates host inflammatory processes beyond the gut. Gut Microbes 2013; 4: 325-339 [PMID: 23842110 DOI: 10.4161/ gmic.25487]
+Lin HC, Su BH, Chen AC, Lin TW, Tsai CH, Yeh TF, Oh W. Oral probiotics reduce the incidence and severity of necrotizing enterocolitis in very low birth weight infants. Pediatrics 2005; 115: 1-4 [PMID: 15629973 DOI: 10.1542/peds.2004-1463]
+Bin-Nun A, Bromiker R, Wilschanski M, Kaplan M, Rudensky B, Caplan M, Hammerman C. Oral probiotics prevent necrotizing enterocolitis in very low birth weight neonates. J Pediatr 2005; 147: 192-196 [PMID: 16126048 DOI: 10.1016/ j.jpeds.2005.03.054]
+Miele E, Pascarella F, Giannetti E, Quaglietta L, Baldassano RN, Staiano A. Effect of a probiotic preparation (VSL#3) on induction and maintenance of remission in children with ulcerative colitis. Am J Gastroenterol 2009; 104: 437-443 [PMID: 19174792 DOI: 10.1038/ajg.2008.118]
+Guandalini S, Magazzu G, Chiaro A, La Balestra V,  Di Nardo  G, Gopalan S, Sibal A, Romano C, Canani RB, Lionetti P, Setty
+VSL#3 improves symptoms in children with irritable bowel syndrome: a multicenter, randomized, placebo-controlled, double- blind, crossover study. J Pediatr Gastroenterol Nutr 2010; 51: 24-30 [PMID: 20453678 DOI: 10.1097/MPG.0b013e3181ca4d95]
+Sood A, Midha V, Makharia GK, Ahuja V, Singal D, Goswami P, Tandon RK. The probiotic preparation, VSL#3 induces remission in patients with mild-to-moderately active ulcerative colitis. Clin Gastroenterol Hepatol 2009; 7: 1202-1209, 1209.e1 [PMID: 19631292 DOI: 10.1016/j.cgh.2009.07.016]
+Tursi A, Brandimarte G, Papa A, Giglio A, Elisei W, Giorgetti GM, Forti G, Morini S, Hassan C, Pistoia MA, Modeo ME, Rodino' S, D'Amico T, Sebkova L, Sacca' N, Di Giulio E, Luzza F, Imeneo M, Larussa T, Di Rosa S, Annese V, Danese S, Gasbarrini
+Treatment of relapsing mild-to-moderate ulcerative colitis with the probiotic VSL#3 as adjunctive to a standard pharmaceutical treatment: a double-blind, randomized, placebo-controlled study. Am J Gastroenterol 2010; 105: 2218-2227 [PMID: 20517305 DOI: 10.1038/ajg.2010.218]
+Gionchetti P, Rizzello F, Helwig U, Venturi A, Lammers KM, Brigidi P, Vitali B, Poggioli G, Miglioli M, Campieri M. Prophylaxis of pouchitis onset with probiotic therapy: a double- blind, placebo-controlled trial. Gastroenterology 2003; 124: 1202-1209 [PMID: 12730861]
+Mimura T, Rizzello F, Helwig U, Poggioli G, Schreiber S, Talbot IC, Nicholls RJ, Gionchetti P, Campieri M, Kamm MA. Once daily high dose probiotic therapy (VSL#3) for maintaining remission in recurrent or refractory pouchitis. Gut 2004; 53: 108-114 [PMID: 14684584]
+Pronio A, Montesani C, Butteroni C, Vecchione S, Mumolo
+
+Ponziani FR et al . Rifaximin eubiotic effects on gut microbiota
+
+
+G, Vestri A, Vitolo D, Boirivant M. Probiotic administration in patients with ileal pouch-anal anastomosis for ulcerative colitis is associated with expansion of mucosal regulatory cells. Inflamm Bowel Dis 2008; 14: 662-668 [PMID: 18240282 DOI: 10.1002/ ibd.20369]
+Selinger CP, Bell A, Cairns A, Lockett M, Sebastian S, Haslam
+Probiotic VSL#3 prevents  antibiotic-associated  diarrhoea  in a double-blind, randomized, placebo-controlled clinical trial. J Hosp Infect 2013; 84: 159-165 [PMID: 23618760 DOI: 10.1016/ j.jhin.2013.02.019]
+Flint HJ, Scott KP, Duncan SH, Louis P, Forano E. Microbial degradation of complex carbohydrates in the gut. Gut Microbes 2012; 3: 289-306 [PMID: 22572875 DOI: 10.4161/gmic.19897]
+Macfarlane GT, Macfarlane S. Fermentation in the human large intestine: its physiologic consequences and the potential contribution of prebiotics. J Clin Gastroenterol 2011; 45 Suppl: S120-S127 [PMID: 21992950 DOI: 10.1097/MCG.0b013e31822fecfe]
+Ploger S, Stumpff F, Penner GB, Schulzke JD, Gabel G, Martens H, Shen Z, Gunzel D, Aschenbach JR. Microbial butyrate and    its role for barrier function in the gastrointestinal tract. Ann N Y Acad Sci 2012; 1258: 52-59 [PMID: 22731715 DOI: 10.1111/ j.1749-6632.2012.06553.x]
+Di Cerbo A, Palmieri B, Aponte M, Morales-Medina JC, Iannitti
+T. Mechanisms and therapeutic effectiveness of lactobacilli.  J Clin Pathol 2016; 69: 187-203 [PMID: 26578541 DOI: 10.1136/ jclinpath-2015-202976]
+Dethlefsen L, Huse S, Sogin ML, Relman DA. The pervasive effects of an antibiotic on the human gut microbiota, as revealed by deep 16S rRNA sequencing. PLoS Biol 2008; 6: e280 [PMID: 19018661 DOI: 10.1371/journal.pbio.0060280]
+Morgun A, Dzutsev A, Dong X, Greer RL, Sexton DJ, Ravel J, Schuster M, Hsiao W, Matzinger P, Shulzhenko N. Uncovering effects of antibiotics on the host and microbiota using transkingdom gene networks. Gut 2015; 64: 1732-1743 [PMID: 25614621 DOI: 10.1136/gutjnl-2014-308820]
+Scarpignato C, Pelosini I. Experimental and clinical pharmacology of rifaximin, a gastrointestinal selective antibiotic. Digestion 2006; 73 Suppl 1: 13-27 [PMID: 16498249 DOI: 10.1159/000089776]
+Scarpignato C, Pelosini I. Rifaximin, a poorly absorbed antibiotic: pharmacology and clinical potential. Chemotherapy 2005; 51 Suppl 1: 36-66 [PMID: 15855748 DOI: 10.1159/000081990]
+Marchese A, Salerno A, Pesce A, Debbia EA, Schito GC. In vitro activity of rifaximin, metronidazole and vancomycin against Clostridium difficile and the rate of selection of spontaneously resistant mutants against representative anaerobic and aerobic bacteria, including ammonia-producing species. Chemotherapy 2000; 46: 253-266 [PMID: 10859431]
+Chang YY, Lan MY, Wu HS, Huang SH, Chen SS, Liu JS. Decreased muscular radionuclide uptake in Tc-99m MIBI scintigraphy during paralytic phase of thyrotoxic periodic paralysis. Clin Nucl Med 2008; 33: 297-298 [PMID: 18356677 DOI: 10.1097/RLU.0b013e3181662be7]
+Jiang ZD, Ke S, Palazzini E, Riopel L, Dupont H. In vitro activity and fecal concentration of rifaximin after oral administration. Antimicrob Agents Chemother 2000; 44: 2205-2206 [PMID: 10898704]
+Darkoh C, Lichtenberger LM, Ajami N, Dial EJ, Jiang ZD, DuPont HL. Bile acids improve the antimicrobial effect of rifaximin. Antimicrob Agents Chemother 2010; 54: 3618-3624 [PMID: 20547807 DOI: 10.1128/AAC.00161-10]
+Kim MS, Morales W, Hani AA, Kim S, Kim G, Weitsman S, Chang C, Pimentel M. The effect of rifaximin on gut flora and Staphylococcus resistance. Dig Dis Sci 2013; 58: 1676-1682 [PMID: 23589147 DOI: 10.1007/s10620-013-2675-0]
+Mencarelli A, Migliorati M, Barbanti M, Cipriani S, Palladino G, Distrutti E, Renga B, Fiorucci S. Pregnane-X-receptor mediates the anti-inflammatory activities of rifaximin on detoxification pathways in intestinal epithelial cells. Biochem Pharmacol 2010; 80: 1700-1707 [PMID: 20816942 DOI: 10.1016/j.bcp.2010.08.022]
+Hirota SA. Understanding the Molecular Mechanisms of
+
+Rifaximin in the Treatment of Gastrointestinal Disorders--A Focus on the Modulation of Host Tissue Function. Mini Rev Med Chem 2015; 16: 206-217 [PMID: 26202186]
+Cheng J, Shah YM, Ma X, Pang X, Tanaka T, Kodama T, Krausz KW, Gonzalez FJ. Therapeutic role of rifaximin in inflammatory bowel disease: clinical implication of human pregnane X receptor activation. J Pharmacol Exp Ther 2010; 335: 32-41 [PMID: 20627999 DOI: 10.1124/jpet.110.170225]
+Ma X, Shah YM, Guo GL, Wang T, Krausz KW, Idle JR, Gonzalez FJ. Rifaximin is a gut-specific human pregnane X receptor activator. J Pharmacol Exp Ther 2007; 322: 391-398 [PMID: 17442842 DOI: 10.1124/jpet.107.121913]
+Mencarelli A, Renga B, Palladino G, Claudio D, Ricci P, Distrutti E, Barbanti M, Baldelli F, Fiorucci S. Inhibition of NF-kB by a PXR-dependent pathway mediates counter-regulatory activities of rifaximin on innate immunity in intestinal epithelial cells. Eur J Pharmacol 2011; 668: 317-324 [PMID: 21806984 DOI: 10.1016/ j.ejphar.2011.06.058]
+Jiang ZD, Ke S, Dupont HL. Rifaximin-induced alteration of virulence of diarrhoea-producing Escherichia coli and Shigella sonnei. Int J Antimicrob Agents 2010; 35: 278-281 [PMID: 20045287 DOI: 10.1016/j.ijantimicag.2009.11.013]
+Brown EL, Xue Q, Jiang ZD, Xu Y,  Dupont HL. Pretreatment   of epithelial cells with rifaximin alters bacterial attachment and internalization profiles. Antimicrob Agents Chemother 2010; 54: 388-396 [PMID: 19858255 DOI: 10.1128/AAC.00691-09]
+Schrodt C, McHugh EE, Gawinowicz MA, Dupont HL, Brown EL. Rifaximin-mediated changes to the epithelial cell proteome: 2-D gel analysis. PLoS One 2013; 8: e68550 [PMID: 23922656 DOI: 10.1371/journal.pone.0068550]
+Fiorucci S, Distrutti E, Mencarelli A, Barbanti M, Palazzini E, Morelli A. Inhibition of intestinal bacterial translocation with rifaximin modulates lamina propria monocytic cells  reactivity and protects against inflammation in a rodent model of colitis. Digestion 2002; 66: 246-256 [PMID: 12592101]
+Bajaj JS, Heuman DM, Sanyal AJ, Hylemon PB, Sterling RK, Stravitz RT, Fuchs M, Ridlon JM, Daita K, Monteith P, Noble  NA, White MB, Fisher A, Sikaroodi M, Rangwala H, Gillevet PM. Modulation of the metabiome by rifaximin in patients with cirrhosis and minimal hepatic encephalopathy. PLoS One 2013; 8: e60042 [PMID: 23565181 DOI: 10.1371/journal.pone.0060042]
+Brigidi P, Swennen E, Rizzello F, Bozzolasco M, Matteuzzi D. Effects of rifaximin administration on the intestinal microbiota in patients with ulcerative colitis. J Chemother 2002; 14: 290-295 [PMID: 12120885 DOI: 10.1179/joc.2002.14.3.290]
+Maccaferri S, Vitali B, Klinder A, Kolida S, Ndagijimana M, Laghi L, Calanni F, Brigidi P, Gibson GR, Costabile A. Rifaximin modulates the colonic microbiota of patients with Crohn's disease: an in vitro approach using a continuous culture colonic model system. J Antimicrob Chemother 2010; 65: 2556-2565 [PMID: 20852272 DOI: 10.1093/jac/dkq345]
+Xu D, Gao J, Gillilland M 3rd, Wu X, Song I, Kao JY, Owyang C. Rifaximin alters intestinal bacteria and prevents stress-induced gut inflammation and visceral hyperalgesia in rats. Gastroenterology 2014; 146: 484-496.e4 [PMID: 24161699 DOI: 10.1053/j.gastro. 2013.10.026]
+Soldi S, Vasileiadis S, Uggeri F, Campanale M, Morelli L, Fogli MV, Calanni F, Grimaldi M, Gasbarrini A. Modulation of the  gut microbiota composition by rifaximin in non-constipated irritable bowel syndrome patients: a molecular approach. Clin Exp Gastroenterol 2015; 8: 309-325 [PMID: 26673000 DOI: 10.2147/ CEG.S89999]
+Ponziani FR, Scaldaferri F,  Petito V,  Paroni Sterbini F,  Pecere  S, Lopetuso LR, Palladini A, Gerardi V, Masucci L, Pompili M, Cammarota G, Sanguinetti M, Gasbarrini A. The Role of Antibiotics in Gut Microbiota Modulation: The Eubiotic Effects of Rifaximin. Dig Dis 2016; 34: 269-278 [PMID: 27027301 DOI: 10.1159/000443361]
+Finegold SM, Molitoris D, Vaisanen ML. Study of the in vitro activities of rifaximin and comparator agents against 536
+
+Ponziani FR et al . Rifaximin eubiotic effects on gut microbiota
+
+
+anaerobic intestinal bacteria from the perspective of potential utility in pathology involving bowel flora. Antimicrob Agents Chemother 2009; 53: 281-286 [PMID: 18955526 DOI: 10.1128/ AAC.00441-08]
+Gillis JC, Brogden RN. Rifaximin. A review of its antibacterial activity, pharmacokinetic properties and therapeutic potential in conditions mediated by gastrointestinal bacteria. Drugs 1995; 49: 467-484 [PMID: 7774516]
+Vitali B, Turroni S, Serina S, Sosio M, Vannini L, Candela M, Guerzoni ME, Brigidi P. Molecular and phenotypic traits of in- vitro-selected mutants of Bifidobacterium resistant to rifaximin. Int J Antimicrob Agents 2008; 31: 555-560 [PMID: 18462927 DOI: 10.1016/j.ijantimicag.2008.02.002]
+Vitali B, Turroni S, Dal Piaz F, Candela M, Wasinger V, Brigidi P. Genetic and proteomic characterization of rifaximin resistance in Bifidobacterium infantis BI07. Res Microbiol 2007; 158: 355-362 [PMID: 17408927 DOI: 10.1016/j.resmic.2007.02.002]
+De Leo C, Eftimiadi C, Schito GC. Rapid disappearance from the intestinal tract of bacteria resistant to rifaximin. Drugs Exp Clin Res 1986; 12: 979-981 [PMID: 3569008]
+Blandizzi C, Viscomi GC, Marzo A, Scarpignato C. Is generic rifaximin still a poorly  absorbed antibiotic? A comparison  of branded and generic formulations in healthy volunteers. Pharmacol Res 2014; 85: 39-44 [PMID: 24836868 DOI: 10.1016/ j.phrs.2014.05.001]
+Highlights of prescribing information. Available from: URL: https:// 021361s013lbl.pdf
+Trapnell CB, Connolly M, Pentikis H, Forbes WP, Bettenhausen
+
+DK. Absence of effect of oral rifaximin on the pharmacokinetics of ethinyl estradiol/norgestimate in healthy females. Ann Pharmacother 2007; 41: 222-228 [PMID: 17284510 DOI: 10.1345/aph.1H395]
+Pentikis HS, Connolly M, Trapnell CB, Forbes WP, Bettenhausen DK. The effect of multiple-dose, oral rifaximin on the pharmacokinetics of intravenous and oral midazolam in healthy volunteers. Pharmacotherapy 2007; 27: 1361-1369 [PMID: 17896891 DOI: 10.1592/phco.27.10.1361]
+Bass NM, Mullen KD, Sanyal A, Poordad F, Neff G, Leevy CB, Sigal S, Sheikh MY, Beavers K, Frederick T, Teperman L, Hillebrand D, Huang S, Merchant K, Shaw A, Bortey E, Forbes WP. Rifaximin treatment in hepatic encephalopathy. N Engl J Med 2010; 362: 1071-1081 [PMID: 20335583 DOI: 10.1056/ NEJMoa0907893]
+Scarpellini E, Giorgio V, Gabrielli M, Filoni S, Vitale G, Tortora A, Ojetti V, Gigante G, Fundaro C, Gasbarrini A. Rifaximin treatment for small intestinal bacterial overgrowth in children with irritable bowel syndrome. Eur Rev Med Pharmacol Sci 2013; 17: 1314-1320 [PMID: 23740443]
+Ponziani FR, Pecere S, Lopetuso L, Scaldaferri F,  Cammarota  G, Gasbarrini A. Rifaximin for the treatment of irritable bowel syndrome - a drug safety evaluation. Expert Opin Drug Saf 2016; 15: 983-991 [PMID: 27149541 DOI: 10.1080/14740338.2016.118 6639]
+Stecher B, Maier L, Hardt WD. 'Blooming' in the gut: how dysbiosis might contribute to pathogen evolution. Nat Rev Microbiol 2013; 11: 277-284 [PMID: 23474681 DOI: 10.1038/ nrmicro2989]
+
+P- Reviewer: Giamarellos-Bourboulis EJ, Tosetti C	S- Editor: Qi Y
+L- Editor: A    E- Editor: Zhang FF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published by Baishideng Publishing Group Inc
+7901 Stoneridge Drive, Suite 501, Pleasanton, CA 94588, USA
+Telephone: +1-925-223-8242
+Fax: +1-925-223-8243
+E-mail: 
+Help Desk:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I S S N 1 0 0 7 - 9 3 2 7
+
+
+
+9 7710 07 9 3 2 0 45

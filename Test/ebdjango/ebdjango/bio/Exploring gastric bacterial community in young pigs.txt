@@ -1,0 +1,284 @@
+
+
+
+
+
+RESEARCH ARTICLE
+Exploring gastric bacterial community in young pigs
+Vincenzo Motta, Paolo Trevisi, Francesca Bertolini, Anisa Ribani, Giuseppina Schiavo, Luca Fontanesi, Paolo Bosi*
+Department of Agricultural and Food Sciences (DISTAL), University of Bologna, Bologna, Italy
+
+* 
+
+
+Abstract
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPEN ACCESS
+Citation: Motta V, Trevisi P, Bertolini F, Ribani A, Schiavo G, Fontanesi L, et al. (2017) Exploring gastric bacterial community in young pigs. PLoS ONE 12(3): e0173029. doi:10.1371/journal. pone.0173029
+Editor: Hauke Smidt, Wageningen University, NETHERLANDS
+Received: June 1, 2016
+
+Accepted: February 14, 2017
+
+Published: March 1, 2017
+
+Copyright: (c) 2017 Motta et al. This is an open access article distributed under the terms of the , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Data Availability Statement: Raw reads of all samples were deposited at the EBI Short Read Archive (SRA) under the study accession number ERP010584.
+Funding: The authors received no specific funding for this work.
+Competing interests: The authors have declared that no competing interests exist.
+
+Microbiota plays an important role in the homeostasis of the gastrointestinal tract. Under- standing the variations of the commensal microbiota composition is crucial for a more effi- cient control of enteric infectious diseases and for the reduction of the use of antibiotics in animal production, which are the main points of interest for improved animal healthcare and welfare and for consumer health protection. Even though the intestinal microbiota has been extensively studied, little is known about the gastric microbiota. This pilot study was aimed at a descriptive analysis of the gastric microbiota in healthy pigs and at the identification of any differences among four potentially distinct microbial niches in the stomach. Gastric mucosal samples from the oxyntic area, the pylorus and the gastric groove, and a sample of gastric contents were collected from four healthy weaned pigs. Bacterial DNA was isolated and extracted from each sample and amplicons from the V6 region of the 16S rRNA gene were sequenced using Ion Torrent PGM. The data were analysed by an "unsupervised" and a "supervised" approach in the Ribosomal Database Project (RDP) pipeline. Proteobacteria was the dominant phylum in all the samples. Differences in bacterial community composition were found between mucosal and content samples (one-way ANOSIM pairwise post hoc test, p < 0.05); instead, the different mucosal regions did not show differences between them. The mucosal samples were characterised by Herbiconiux and Brevundimonas, two genera which include cellulolytic and xylanolytic strains. Nevertheless, additional larger trials are needed to support the data presented in this pilot study and to increase the knowledge regarding the resident microbiota of the stomach.
+
+
+
+Introduction
+The importance of the microbiota to the health status of the gastrointestinal tract is widely rec- ognised. Over the years, the Microbial Ecology of the GI tract has been extensively explored
+but the stomach ecosystem has received less attention; this was due to the technical limita- tions and to the fact that the gastric environment was considered too inhospitable. The poten- tiality of the gastric environment as a microbial niche was reconsidered after the discovery of Helicobacter pylori and thanks to successive technological advances []. In recent years, one of the most used methods for exploring the microbial diversity of an environment is 16S rRNA profiling conducted using Next Generation Sequencing (NGS) approaches; however, the
+
+
+studies which use these techniques to analyse the stomach microbiota of monogastric animals (non-human) are still infrequent [,]. In particular, as regards the pig, only the work [] of Mann et al. (2014) which also analyses the gastric microbiota using this technique was found.
+The stomach is a system of temporary storage and pre-processing of the food bolus for additional digestion and absorption; this system is directed by an integrated control (neural, hormonal, paracrine) which takes into account the different signals (chemicals, nutrients, xenobiota components) from the luminal content []. In the stomach three anatomic parts (fundus, corpus and antrum) and two functional regions -oxyntic (acid secretion) and pyloric (gastrin secretion) glandular mucosa- can be distinguished.
+This anatomical and functional geography within the stomach has been investigated in sev- eral ways [,].
+In the pig, the oxyntic glands are found in the cardia gland and the fundic gland regions (OXY), while the antral-type mucous glands are found in the pyloric gland region (PYL).
+Furthermore, in the pig stomach, regional differences were also observed in the protective layer of the mucus[,] which represents the first line of interaction between bacteria and the gastrointestinal tract [].
+The question arises as to whether the different gastric regions may represent distinct niches for diverse communities within that ecosystem; this possibility has been investigated for monogastric mammals in only a few studies, such as in humans (corpus and antrum) [] and in horses (squamous, glandular, antral) [] but the identification of a specific gastric micro- biota, excluding H. pylori, requaires additional investigation [].
+The present study fits into the context of our other studies regarding the pig gastric mucosa [,-] our aim was to contribute to the description of the gastric microbiota, in particular, of the pig, and to identify possible differences of the bacterial community in different parts of the stomach.
+For this purpose, Next generation semiconductor-based sequencing of the V6 hypervariable region of the 16S rRNA gene was used on gastric mucosal samples from the oxyntic area (acid production), the pylorus (gastrin secretion)and the gastric groove, a point in the small curva- ture close to cardia, (immunological function) [] and also from the gastric content.
+
+Materials and methods
+Pigs and sample collection
+The procedures were conducted in compliance with Italian laws regarding experimental ani- mals and were approved by the Ethic-Scientific Committee for Experiments on Animals of the University of Bologna. Four crossbred (Large White x Landrace) healthy weaned pigs (6.5 weeks of age, 15.30 kg average body weight), normally fed a standard post-weaning diet (ingre- dient composition: corn 38.2%, barley13%, wheat middlings 16%, soybean meal, 50% crude protein 13%, dried milk whey 9%, potato protein concentrate 4%, soybean oil 3%, vitamin- mineral premix 1%, dicalcium phosphate 1.2%, calcium carbonate 0.61%, salt 0.3%, L-lysine
+HCl 0.38%, Dl-methionine 0.11%, L-threonine 0.15%, L-tryptophan 0.05%), were anaesthe- tised 1 h after the morning meal with sodium thiopental (10 mg/kg body weight) and were then slaughtered by intracardiac injection (Tanax, 0.5 mL/kg body weight; Intervet Italia, Peschiera Borromeo, Italy). For each subject, the stomach was removed, and gastric mucosal samples from the oxyntic area, the pylorus, and the small curvature close to cardia (hereinafter called Groove) were collected. A sample of gastric contents was also collected from each pig; in total 16 samples were obtained (4 from each pig). The samplings in each pig and each stomach region were carried out using sterile instruments to avoid potential cross-contamination of the microbial DNA.
+
+
+The samples were stored at -80@C until use. The bacterial DNA was isolated and extracted using QiaAmp DNA Stool Mini Kit (Qiagen, Hilden, Germany). The protocol followed the manufacturer's instructions with a pretreatment step with TES buffer + Lysozyme at 37@C for two hours. After isolation, the purified DNA was eluted in 50 ml of elution buffer. The quality and purity of the isolated DNA was checked using spectrophotometry on the NanoDrop (Fisher Scientific, Schwerte, Germany).
+
+Library generation and sequencing
+Polymerase chain reaction (PCR) amplification of the V6 hypervariable region from the 16S rRNA gene was carried out with a pool of 5 forward primers and 4 reverse primers pooled equimolar as described by Huber et al. []. Phusion Hot Start Flex 2X Master Mix (New England Biolabs Inc., Beverly, MA) was used following the manufacturer's protocol for a 25ml reaction; the PCR conditions were as follows: 98@C for 30 s, followed by 35 cycles at 98@C for 5 s, 61@C for 8 s, 72@C for 12 s, and a final elongation step at 72@C for 5 s.
+Ion Torrent sequencing was obtained from 16 different DNA libraries. The libraries were constructed using the aforementioned amplified products, after ExoSAP-IT (USB Corpora- tion, Cleveland, Ohio, USA) treatment, and 16 equimolar pools of amplicons were obtained. The preparation of the libraries was carried out according to the instructions for the Ion Tor- rent Personal Genome Machine (PGM; Life Technologies,Carlsbad, CA) sequencing of short amplicons; for each library, 200 ng of amplified DNA was end-repaired and ligated with a spe- cific barcode, in total 16 different barcodes were used, using the Ion Xpress(tm) Barcode Adapters 1-16 kits (Life Technologies). Subsequently, the protocol included the following steps: quanti- fication of each library with the Ion Library Quantitation Kit (Life Technologies) by quantita- tive polymerase chain reaction (qPCR), utilising a StepOnePlus(tm) Real-Time PCR System (Life Technologies); equimolar pooling of the 16 barcoded libraries, amplification by emulsion
+PCR with the Ion One TouchTM 200 Template kit (Life Technologies), and purification and sequencing with the Ion PGMTM Sequencing 200 kit using a Ion 314 chip (Life Technologies), following the manufacturer's protocols.
+Raw reads of all the samples were deposited at the EBI Short Read Archive (SRA) under the study accession number ERP010584.
+
+Data analysis
+A total of 353,656 Raw reads from sequencing were filtered for length ::: 70 and average quality ::: 20. The following steps were carried out in the Ribosomal Database Project (RDP) pipeline of the RDP release 11.3, using both 'unsupervised' and 'supervised' methods ( ) []; primer matching and trimming were performed by the 'Pipeline Ini- tial Processor' of the RDP pipeline (Maximum number of Ns: 0; Max forward primer distance: 0; Max reverse primer distance: 0; Minimum sequence length: 50), chimera checking was car- ried out using the tool 'Find Chimeras' in DECIPHER (Database Enabled Code for Ideal Probe Hybridization Employing R) []. Non-chimeric sequences were aligned by RDP Aligner and the sequence reads not covering the V6 region were eliminated. After quality con- trol steps, 86,731 total sequences were obtained.
+For bacterial taxonomy assignment, the RDP-classifier (version 2.2) [] was used with 50% as confidence value threshold and gene copy number adjustment. Operational Taxo- nomic Unit (OTU) analysis was carried out on a clustering at the 97% identity threshold using the complete linkage clustering algorithm.
+For the unsupervised approach 2961 reads (the lowest number of reads recovered in a single sample) were randomly subsampled from each sample (package GUniFrac in R) in order to
+
+
+minimise the impact of the varied sequencing depth among samples. For the supervised approach, sequence tag data were normalised to relative abundance within the sample for anal- ysis and visualisation. The statistical software PAST version 2.17 [] was used to analyse the abundance data of the reads assigned to taxa within the samples, with one-way ANOSIM (Analysis of Similarities) testing significance of the difference between the groups of samples based on differences in the gastric region. Cluster Analysis and Principal Components Analy- sis were used to generate graphical representations of the differences in community composi- tion. The SIMPER (Similarity Percentage) analysis was used to identify the specific genera with the greatest contribution to the differences observed between the groups identified.
+
+Results
+Unsupervised approach
+After rarefaction, 2,020 OUTs were represented among the 47,376 reads from the16 samples in this study. The sequencing depth and the total OTU richness within individual samples are reported in and the per sample rarefaction curves are reported in .
+The Shannon-Weaver diversity index and Eveness were calculated for each sample and the average indices at each of the points (Content, Groove, Oxyntic and Pyloric) showed a quite similar diversity, though with a lower equitability (eveness) of the OTUs within the Content samples ().
+The Cluster analysis based on the abundance of the different OTUs in the samples () showed two well-supported clusters; one consisted of all the samples from the content and the other consisted of all the samples from the mucosa. The clustering did not show an individual effect or an effect of the regions in the mucosa; however, 3 out of the 4 samples from pyloric region formed a sub-cluster poorly supported by bootstrap probability (BP = 41).
+The null hypothesis, that there were no significant differences in community structure based on the sample type (Content, Oxyntic, Pyloric, Groove), was rejected by one-way ANO- SIM with an R of 0.632 (p = 0.0001). The pairwise post hoc test showed significant differences
+
+ Distribution of reads and Operational Taxonomic Units (OTUs), before (pre rarefaction) and after (post rarefaction) normalization by sub- sampling to the lowest number of reads recovered in a single sample.
+doi:10.1371/journal.pone.0173029.t001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Box-plot of the Shannon-Weaver (a) and Eveness (b) index values in the samples from different regions of the stomach.
+doi:10.1371/journal.pone.0173029.g001
+
+(p < 0.05) between the mucosal and the content samples, but no significant differences were seen for the comparisons between the different mucosal regions ().
+
+Supervised approach
+The quality checked reads were analysed using the taxonomy-supervised method in the RDP pipeline, which consists of a 'taxonomy binning' of the reads on the basis of the existing bacte- rial taxonomy. This approach has some advantages, such as the least computational effort required, minor sensibility at the sequencing errors and easier handling of the data [].
+First of all the classification at the phylum level showed the dominance of the unclassified bacterial reads and chloroplast sequences, which represented chloroplast from the ingested vegetal matter, in the content samples and a uniform distribution of the phyla in the different regions of the mucosa (). In order to focus the study on the classifiable bacterial commu- nity, the unclassified and plasmidial sequences were excluded from additional analysis.
+The dominant phylum was Proteobacteria with 50% (on average) in the content samples and 60.9% (on average) in the mucosal samples, the second phylum was Firmicutes for the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unweighted Pair Group Method with Arithmetic Mean (UPGMA) Cluster analysis (Bray-Curtis distance) of the samples of the gastric mucosa based on the abundance of the OTUs. Labels indicate the pig identification number and the stomach region (CO: contents, OX: oxyntic, PY: pyloric, GR: groove) with 10,000 Bootstrap resamplings used: the bootstrap Probability values (BP) are shown at the nodes.
+doi:10.1371/journal.pone.0173029.g002
+
+
+ ANOSIM (analysis of similarities) post hoc test based on abundance of OTUs in samples.
+
+Significant differences in pairwise comparisons are highlighted in gray. The one-way ANOSIM was performed on Bray-Curtis distance with 10,000 permutations, the samples were grouped according to the point of origin.
+doi:10.1371/journal.pone.0173029.t002
+
+content samples (27.5% on average) and Actinobacteria for mucosal samples (30.8% on aver- age) followed by Bacteroidetes (5.53% in the content samples; 2.78% in the mucosal samples). One-way ANOSIM showed weak (R = 0.272) but significant (p = 0.0075) differences in com- munity structure; in the pairwise post hoc test, significant differences (p < 0.05) were reported between the mucosal and the content samples but not for the comparisons between the differ- ent mucosal regions.
+The classification at the genus level identified 238 genera in total. The Cluster analysis, based on the relative abundance of the Genera (), showed a situation similar to that seen in the unsupervised approach with a cluster for all samples from the content samples and another cluster for all the mucosal samples. No clusterings by subject or for different mucosal regions were found.
+One-way ANOSIM again showed significant differences (R = 0.354; p = 0.0018) between the mucosal and the content samples but not for the comparisons between the different muco- sal regions ().
+The SIMPER analysis () was carried out in order to identify the Genera wich most influenced the difference between the bacterial communities of mucosa and content. The over- all average dissimilarity (Mucosa VS Content) was 51.43%. The SIMPER analysis showed that the differences between the bacterial communities of the gastric mucosa are primarily driven by the dominance of the genus Herbiconiux with an average abundance of 41.9% in the muco- sal samples and 21.6% in the content samples. Other principal genera characterising the mucosa are Brevundimonas and Moritella; instead, Pasteurella, Streptococcus, Lactobacillus and Lactococcus characterise the contents.
+Principal component analysis (PCA) regarding the relative abundances of the bacterial gen- era showed that the 78.5% of variance in the data could be explained by the first two principal
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relative abundance (average) of the principal phyla in the different stomach regions. Before and after removal of unclassified Bacteria and Chloroplast reads. Verrucomicrobia, Fusobacteria and Acidobacteria phyla (not visible in the Figure) were also found with abundances <1%.
+doi:10.1371/journal.pone.0173029.g003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unweighted Pair Group Method with Arithmetic Mean (UPGMA) Cluster analysis (Bray-Curtis distance) on the samples of the gastric mucosa based on the relative abundance of the sequence reads classified at the genus level. Labels indicate the pig identification number and the stomach region (CO: contents, OX: oxyntic, PY: pyloric, GR: groove) with 10,000 Bootstrap resamplings used; bootstrap probability values (BP) are shown at nodes.
+doi:10.1371/journal.pone.0173029.g004
+
+components. This analysis confirmed the subdivision of the samples into two main clusters along the first component (), a cluster consisting of contents samples and a cluster con- taining samples obtained from the mucosa and the PCA biplot () shows the influence on this clustering of genera also reported by SIMPER analysis.
+
+Discussion
+The current study revealed values of alpha diversity of the pig gastric microbiota similar in the different areas of the stomach anlysed (Oxyntic, Pyloric, Gastric Groove and Content), and comparable to those reported by Mann (2014). The bacterial community composition, ana- lysed at different taxonomic levels (Phyla, Genera, OTUs), did not show differences in the dis- tribution of the bacterial populations between the different areas of the gastric mucosa. This indicated that the anatomic and physiological differences in the different gastric areas (see ) may not directly impact the bacterial community, which is probably more influ- enced by the outer mucus layer. Unfortunately, however, the exact location of the microbiota in the stomach of mammals is still unknown [].
+Instead, significant differences in bacterial distribution at the phyla, genera and OTU levels are observed between the mucosa and gastric content. Even if our results should be treated with caution since they are based on a limited number of replicates, this differentiation between the mucosal and the luminal microbiota has already been described for the gastrointestinal tract of
+
+ ANOSIM post hoc test based on relative abundance of genera in samples.
+
+
+Significant differences in pairwise comparisons are highlighted in gray. The one-way ANOSIM was performed on Bray-Curtis distance with 10,000 permutations the samples were grouped according to the point of origin.
+doi:10.1371/journal.pone.0173029.t003
+
+
+ Similarity Percentage (SIMPER) genera contribution.
+
+
+"Contribution" represents the average contribution of a given Genus to the average dissimilarity between samples (overall mean = 51.43%). "Mean ab. Cont." is the average relative abundance (in %) in content samples "Mean ab. Muc." is the average relative abundance (in %) in mucosal samples. The list of genera is not exhaustive, an arbitrary threshold of a mean contribution of 0.5 was used as a cut-off.
+doi:10.1371/journal.pone.0173029.t004
+
+other mammals [], indicating that the digesta bacterial community may not be sufficiently informative of the bacterial community associated with the gastric mucosa.
+First of all regarding the taxonomic classification of the reads, the large number of unclassi- fiable bacterial sequences, approximately 55% in the content and 30% in the mucosa at the phylum level is first of all evident. This gives a general idea regarding the bacterial diversity still unexplored. When focusing on the reads taxonomically identified, it can be seen that the principal phyla (Proteobacteria, Actinobacteria, Firmicutes and Bacteroidetes) are those usu- ally reported for the gastric ecosystem of mammals []. In our study, however, the dominant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biplot of the Principal Component Analysis of the stomach samples based on the relative abundance of bacterial genera per sample. Labels indicate the pig identification number and the stomach region (+ CO: contents, # OX: oxyntic, * PY: pyloric, ^ GR: groove). Names of the bacterial genera with the highest loadings are plotted as vectors according to their correlation to the first two components.
+doi:10.1371/journal.pone.0173029.g005
+
+
+phylum was Proteobacteria, in contrast to what was reported by Mann et al. (2014) for the non-glandular area of the pig stomach in which Firmicutes represented the dominant phylum with Lactobacillus genus. This difference could be due to the different gastric area analysed; in fact, the non-glandular stomach area is reported as that which hosts primarily lactobacilli [,].
+In the present study, classification at the genus level identified Pasteurella, Streptococcus and Lactobacillus as those most characterising the gastric content. In the pig, Pasteurella is mainly reported for the upper respiratory tract [] and it is linked to diseases of the respiratory sys- tem []. Streptococci and lactobacilli, for which our study found relative abundances slightly in favour of streptococci (6.79% vs. 5.58%), have already been described in the pig stomach as competitors in the post weaning period [].
+Instead, the bacterial genera which characterise the gastric mucosa were Herbiconiux and Brevundimonas; Herbiconiux included strains associated with plant matter [,] which has never been described before in the gastrointestinal tract of mammals. The genus Brevundimo- nas includes opportunistic strains ubiquitous in the environment, and a strain with growth requirements typical of Helicobacter wich has been reported in the gastric mucosa of dogs []. The presence of both Herbiconiux and Brevundimonas was also observed in a set of samples of the pyloric mucosa analysed, using the same technique, in another our study (unpublished data), but with lower abundances (about 4%), this could be explained by the association of these bacteria with the last meal ingested. Interestingly, Herbiconiux and Brevundimonas include strains which can degrade cellulose and xylan found in the gut of some insects [,] and it was noted that the bacteria associated with the plant matter of the meal could represent an inoculum of functionally similar strains in mammals []. Furthermore, the action of cellu- lase and xylanase enzymes has already been the subject of interest in pig feeding studies [,]; the possibility of exogenous xylanase activity in the pig gastric environment has also been reported []. Mann et al. (2014), for example, suggest for Prevotella the degrading activity
+of hemicelluloses in the stomach of pig; regrettably, microbiota profiling through the 16s rRNA gene cannot provide information regarding the functionality and vitality of the bacteria reported.
+Finally, must not be forgotten that the bacterial community of the stomach is more directly influenced by the last meal ingested [] and by the sampling and the management of the ani- mals [], and that the scarcity of studies in the literature explicitly addressing the gastric micro- biota makes the formulation of stronger hypotheses regarding the impact of different gastric locations on microbiota composition difficult. The present results indicated that proper designs could be formulated for the additional identification and isolation of variables which modify gastric microbiota in the pig; nevertheless, the exploratory nature of this pilot study must be pointed out, and larger studies focused on the stomach would provide validation of the data presented herein. It is hoped, therefore, that the efforts now dedicated to the descrip- tion of the gut microbiota will stimulate additional studies involving the gastric ecosystem.
+
+Supporting information
+S1 Fig. Per Sample Rarefaction Curves. Numbers indicate the pig identification number and the initials indicate stomach region (CO, contents; OX, oxyntic; PY, pyloric; GR, groove). (PDF)
+
+
+Author Contributions
+Conceptualization: PB PT.
+
+
+Data curation: VM GS. Funding acquisition: PB LF. Investigation: FB AR. Methodology: LF PT. Software: VM GS. Supervision: PT LF. Visualization: VM GS.
+Writing - original draft: VM PT.
+Writing - review & editing: PB LF.
+
+References
+Zoetendal EG, Cheng B, Koike S, Mackie RI. Molecular microbial ecology of the gastrointestinal tract: from phylogeny to function. Curr Issues Intest Microbiol. 2004; 5(2):31-47. PMID: 
+Walker MM, Talley NJ. Review article: Bacteria and pathogenesis of disease in the upper gastrointesti- nal tract--Beyond the era of Helicobacter pylori. Vol. 39, Alimentary Pharmacology and Therapeutics. 2014. p. 767-79. doi: PMID:
+Perkins GA, den Bakker HC, Burton AJ, Erb HN, McDonough SP, McDonough PL, et al. Equine stom- achs harbor an abundant and diverse mucosal microbiota. Appl Environ Microbiol. 2012; 78(8):2522- 32. doi: PMID:
+Mann E, Schmitz-Esser S, Zebeli Q, Wagner M, Ritzmann M, Metzler-Zebeli BU. Mucosa-associated bacterial microbiome of the gastrointestinal tract of weaned pigs and dynamics linked to dietary cal- cium-phosphorus. PLoS One. 2014; 9(1).
+Chu S, Schubert ML. Gastric secretion. Vol. 28, Current Opinion in Gastroenterology. 2012. p. 587-93. doi: PMID:
+Choi E, Roland JT, Barlow BJ, O'Neal R, Rich AE, Nam KT, et al. Cell lineage distribution atlas of the human stomach reveals heterogeneous gland populations in the gastric antrum. Gut [Internet]. 2014;1-
+10. Available from: 
+Colombo M, Priori D, Trevisi P, Bosi P. Differential Gene Expression in the Oxyntic and Pyloric Mucosa of the Young Pig. PLoS One [Internet]. 2014; 9(10):e111447. Available from: doi:PMID:
+Karlsson NG, Nordman H, Karlsson H, Carlstedt I, Hansson GC. Glycosylation differences between pig gastric mucin populations: a comparative study of the neutral oligosaccharides using mass spectrome- try. Biochem J. 1997; 326 (Pt 3:911-7.
+Nordman H, Davies JR, Carlstedt I. Mucus glycoproteins from pig gastric mucosa: different mucins are produced by the surface epithelium and the glands. Biochem J. 1998; 331 (Pt 3:687-94.
+Johansson ME V, Sjo" vall H, Hansson GC. The gastrointestinal mucus system in health and disease. Nat Rev Gastroenterol Hepatol [Internet]. 2013; 10(6):352-61. Available from:doi:PMID:
+Li XX, Wong GLH, To KF, Wong VWS, Lai LH, Chow DKL, et al. Bacterial microbiota profiling in gastritis without Helicobacter pylori infection or non-steroidal anti-inflammatory drug use. PLoS One. 2009; 4 (11).
+Lopetuso LR, Scaldaferri F, Franceschi F, Gasbarrini A. Best Practice & Research Clinical Gastroenter- ology The gastrointestinal microbiome e Functional interference between stomach and intestine. Best Pract Res Clin Gastroenterol [Internet]. Elsevier Ltd; 2014; 28(6):995-1002. doi:PMID:
+Mazzoni M, Bosi P, De Sordi N, Lalatta-Costerbosa G. Distribution, organization and innervation of gas- tric MALT in conventional piglet. J Anat. 2011; 219(5):611-21. doi: PMID:
+Trevisi P, Gandolfi G, Priori D, Messori S, Colombo M, Mazzoni M, et al. Age-related expression of the polymeric immunoglobulin receptor (pIgR) in the gastric mucosa of young pigs. PLoS One [Internet]. 2013 Jan [cited 2015 Apr 16]; 8(11):e81473. Available from: 
+
+
+doi:  PMID: 
+Priori D, Trevisi P, Mazzoni M, Messori S, Bosi P. Effect of fasting and refeeding on expression of genes involved in the gastric nutrient sensing and orexigenic control of pigs. J Anim Physiol Anim Nutr (Berl) [Internet]. 2014 Dec 10 [cited 2015 Apr 16]; Available from:
+Huber JA, Mark Welch DB, Morrison HG, Huse SM, Neal PR, Butterfield DA, et al. Microbial population structures in the deep marine biosphere. Science (80-) [Internet]. 2007; 318(5847):97-100. Available from:doi:PMID:
+Cole JR, Wang Q, Fish JA, Chai B, McGarrell DM, Sun Y, et al. Ribosomal Database Project: Data and tools for high throughput rRNA analysis. Nucleic Acids Res. 2014; 42(D1).
+Wright ES, Yilmaz LS, Noguera DR. DECIPHER, a search-based approach to chimera identification for 16S rRNA sequences. Appl Environ Microbiol. 2012; 78(3):717-25. doi:PMID:
+Wang Q, Garrity GM, Tiedje JM, Cole JR. Naive Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Appl Environ Microbiol. 2007; 73(16):5261-7. doi:PMID:
+Hammer O, Harper DAT, Ryan PD. Paleontological statistics software package for education and data analysis. Palaeontol Electron [Internet]. 2001; 4:9-18. Available from:
+Sul WJ, Cole JR, Jesus E da C, Wang Q, Farris RJ, Fish JA, et al. Bacterial community comparisons by taxonomy-supervised analysis independent of sequence alignment and clustering. Proc Natl Acad Sci U S A. 2011; 108(35):14637-42. doi:PMID:
+Yang I, Nell S, Suerbaum S. Survival in hostile territory: The microbiota of the stomach. Vol. 37, FEMS Microbiology Reviews. 2013. p. 736-61. doi:PMID:
+Malmuthuge N, Griebel PJ, Guan LL. Taxonomic Identification of Commensal Bacteria Associated with the Mucosa and Digesta throughout the Gastrointestinal Tracts of Preweaned Calves. Appl Environ Microbiol [Internet]. 2014; 80(6):2021-8. Available from:doi:PMID:
+Yuki N, Shimazaki T, Kushiro a., Watanabe K, Uchida K, Yuyama T, et al. Colonization of the stratified squamous epithelium of the nonsecreting area of horse stomach by Lactobacilli. Appl Environ Microbiol. 2000; 66(11):5030-4. PMID:
+Sheh A, Fox JG. The role of the gastrointestinal microbiome in Helicobacter pylori pathogenesis 2013 Landes Bioscience. Do not distribute 2013 Landes Bioscience. Do not distribute. 2013;(Decem- ber):505-31.
+Kernaghan S, Bujold AR, MacInnes JI. The microbiome of the soft palate of swine. Anim Heal Res Rev. 2012; 13(01):110-20.
+MacInnes JI, Gottschalk M, Lone AG, Metcalf DS, Ojha S, Rosendal T, et al. Prevalence of Actinobacil- lus pleuropneumoniae, Actinobacillus suis, Haemophilus parasuis, Pasteurella multocida, and Strepto- coccus suis in representative Ontario swine herds. Can J Vet Res. 2008; 72(3):242-8. PMID:
+Su Y, Yao W, Perez-Gutierrez ON, Smidt H, Zhu WY. Changes in abundance of Lactobacillus spp. and Streptococcus suis in the stomach, jejunum and ileum of piglets after weaning. FEMS Microbiol Ecol. 2008; 66(3):546-55. doi:PMID:
+Behrendt U, Schumann P, Hamada M, Suzuki KI, Spro" er C, Ulrich A. Reclassification of Leifsonia gin- sengi (Qiu et al. 2007) as Herbiconiux ginsengi gen. nov., comb. nov. and description of Herbiconiux solani sp. nov., an actinobacterium associated with the phyllosphere of Solanum tuberosum L. Int J Syst Evol Microbiol. 2011; 61(5):1039-47.
+Hamada M, Komukai C, Tamura T, Evtushenko LI, Vinokurova NG, Suzuki KI. Description of Herbico- niux flava sp. nov. and emended description of the genus Herbiconiux. Int J Syst Evol Microbiol. 2012; 62(4):795-9.
+Buczolits S, Rosengarten R, Hirt R, Busse HJ. Classification of a Brevundimonas strain detectable after PCR with a Helicobacter-specific primer pair. Syst Appl Microbiol. 2001; 24(3):368-76. doi:PMID:
+Kim BC, Park DS, Kim H, Oh HW, Lee KH, Shin KS, et al. Herbiconiux moechotypicola sp. nov., a xyla- nolytic bacterium isolated from the gut of hairy long-horned toad beetles, Moechotypa diphysis (Pas- coe). Int J Syst Evol Microbiol. 2011; 62(1):90-5.
+Hu X, Yu J, Wang C, Chen H. Cellulolytic bacteria associated with the gut of Dendroctonus armandi lar- vae (Coleoptera: Curculionidae: Scolytinae). Forests. 2014; 5(3):455-65.
+
+
+Van Gylswyk NO, Van Der Toorn JJTK. Clostridium aerotolerans sp. nov., a Xylanolytic Bacterium from Corn Stover and from the Rumina of Sheep Fed Corn Stover. Int J Syst Bacteriol. 1987; 37(2):102-5.
+Bhat MK. Cellulases and related enzymes in biotechnology. Biotechnol Adv. 2000; 18(5):355-83. PMID:
+Pedersen NR, Azem E, Broz J, Guggenbuhl P, Le DM, Fojan P, et al. The degradation of arabinoxylan- rich cell walls in digesta obtained from piglets fed wheat-based diets varies depending on digesta collec- tion site, type of cereal, and source of exogenous xylanase. J Anim Sci. 2012; 90(SUPPL4):149-51.
+Varloud M, Fonty G, Roussel a., Guyonvarch a., Julliand V. Postprandial kinetics of some biotic and abi- otic characteristics of the gastric ecosystem of horses fed a pelleted concentrate meal. J Anim Sci. 2007; 85(10):2508-16. doi:PMID:

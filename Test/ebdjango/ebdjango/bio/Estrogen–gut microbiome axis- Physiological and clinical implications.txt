@@ -1,0 +1,364 @@
+
+
+
+Review
+Estrogen-gut microbiome axis: Physiological and clinical implications
+James M. Baker,,, Layla Al-Nakkash, Melissa M. Herbst-Kralovetz,,
+a Department of Basic Medical Sciences, College of Medicine-Phoenix, University of Arizona, Phoenix, AZ, USA
+b Department of Biology and Biochemistry, University of Bath, Bath, UK
+c Department of Physiology, Arizona College of Osteopathic Medicine, Midwestern University, Glendale, AZ, USA
+d Department of Obstetrics and Gynecology, College of Medicine-Phoenix, University of Arizona, Phoenix, AZ, USA
+
+
+
+A R T I C L E I N F O  
+
+Keywords: Estrobolome Phytoestrogen Dysbiosis Cancer Fertility
+Metabolic syndrome
+
+
+A B S T R A C T  
+
+Low levels of gonadal circulating estrogen observed in post-menopausal women can adversely impact a diverse range of physiological factors, with clinical implications for brain cognition, gut health, the female reproductive tract and other aspects of women's health. One of the principal regulators of circulating estrogens is the gut microbiome. This review aims to shed light on the role of the gut microbiota in estrogen-modulated disease. The gut microbiota regulates estrogens through secretion of b-glucuronidase, an enzyme that deconjugates estrogens into their active forms. When this process is impaired through dysbiosis of gut microbiota, characterized by lower microbial diversity, the decrease in deconjugation results in a reduction of circulating estrogens. The alteration in circulating estrogens may contribute to the development of conditions discussed herein: obesity, metabolic syndrome, cancer, endometrial hyperplasia, endometriosis, polycystic ovary syndrome, fertility, cardiovascular disease (CVD) and cognitive function. The bi-directional relationship between the metabolic profile (including estrogen levels) and gut microbiota in estrogen-driven disease will also be discussed. Promising therapeutic interventions manipulating the gut microbiome and the metabolic profile of estrogen- driven disease, such as bariatric surgery and metformin, will be detailed. Modulation of the microbiome com- position subsequently impacts the metabolic profile, and vice versa, and has been shown to alleviate many of the estrogen-modulated disease states. Last, we highlight promising research interventions in the field, such as dietary therapeutics, and discuss areas that provide exciting unexplored topics of study.
+
+
+
+
+Introduction
+
+The impact of the gut microbiota, and bacteria that reside on other mucosal sites, on health has become a rapidly growing and exciting area of research over the last 10 years. The functional relevance of the bacteria that compose the gut microbiome has been demonstrated in probiotic, fecal-microbiome transplant (FMT) and bariatric surgery studies . The impact of the gut microbiome extends beyond the gut through the inflammatory and metabolic changes induced by the gut microbiome . Similarly, the host microenvironment of the gut influences the gut microbiome . The gut microbiome has been shown to be influenced by estrogen, however, the gut microbiome also sig- nificantly impacts estrogen levels . The gut microbiome impacts estrogen levels in the host through the secretion of b-glucuronidase, an enzyme which deconjugates estrogen, enabling it to bind to estrogen receptors and leading to its subsequent physiological downstream ef- fects . It is only the unbound, free estrogen that is biologically active. Most conjugated estrogen is bound via a glycoprotein sex hormone
+
+binding globulin (SHBG) produced by the liver  with low SHBG levels being implicated in the development of metabolic syndrome . It is widely accepted that estrogen plays a significant role in many disease states including gynecologic conditions and cancers in addition to less obvious estrogen-mediated diseases such as metabolic syndrome () . This review will demonstrate the influence the gut microbiome has on estrogen, and therefore estrogen-mediated disease, and related health outcomes ().
+
+Methods
+
+A search of the scientific literature was conducted using PubMed/ Medline or Google Scholar using the following search terms "estrobo- lome", "estrogen and gut microbiome", "phytoestrogen and gut mi- crobiome", "phytoestrogens and cancer", "bariatric surgery and gut microbiome", "gut microbiome and epithelial function" and "phy- siology and estrogen or phytoestrogen". Further search terms included the disease states or aspects of health i.e. "cancer", "obesity",
+
+
+* Corresponding author at: The University of Arizona College of Medicine-Phoenix, Building ABC-1, Office 330, Lab 331E, 425 North 5th St., Phoenix, AZ 85004-2157, USA.
+E-mail address: (M.M. Herbst-Kralovetz).
+1 Present address: Department of Basic Medical Sciences, College of Medicine, University of Arizona, Phoenix, Arizona, USA.
+
+
+R03e7ce8i-v5e1d222/J(c)un2e021071E7;lsReveiceerivBe.dV.inAlrlerviigshetdsfroersmerv2e0d.June 2017; Accepted 22 June 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1.  Estrogen-gut microbiome interactions exhibit physiological and clinical implications. Dysbiosis and a reduction of gut microbiota diversity impacts the estrobolome, which       may lead to a wide range of disease states, illustrated. Reduction in gut microbiome diversity as result of dysbiosis and inflammation reduces the b-glucuronidase activity. This reduced b- glucuronidase activity results in decreased deconjugation of estrogen and phytoestrogen into their circulating and active forms. The subsequent decrease in circulating estrogens alters estrogen receptor activations which may lead to the hypoestrogenic pathologies: obesity, metabolic syndrome, CVD and cognitive decline. Hyperestrogenic pathologies can also be driven by the estrobolome through the increased abundance of b-glucuronidase-producing bacteria, which leads to elevates levels of circulating estrogens to drive diseases such as endometriosis and cancer. Obesity/metabolic syndrome can impact other disease states such including PCOS, EH and ultimately fertility. Intervention: Bariatric surgery, metformin and FMT provide therapeutic interventions that can mitigate the associated disease state through modulation of the gut microbiota composition. Solid arrows indicate the established interaction between estrobolome and disease states; dashed arrows indicate putative feedback mechanisms or interactions.
+
+
+"metabolic syndrome", "endometriosis", "endometrial hyperplasia", "polycystic ovary syndrome" "cardiovascular disease", "infertility" and "cognition" which were combined with the terms "estrogen" and "gut microbiome". Studies were manually examined and included for their relevance to the topic of this review. Pertinent original articles and reviews that were peer-reviewed, indexed in PubMed and written in English were included. The publication dates were not limited in order to fully review the literature available regarding gut microbiome and estrogen levels. The literature searches were performed between March 2017 and May 2017.
+
+Gut microbiome and homeostasis
+
+The gut epithelial barrier is maintained by a healthy, diverse gut microbiome composed primarily of 4 phyla: Bacteriodetes, Firmicutes, Actinobacteria and Proteobacteria. A balanced bacterial composition is key to maintaining intestinal immunity and homeostasis. A healthy gut microbiome consists of > 90% of species within the Bacteroidetes and Firmicutes phyla . However, it is not only merely the combined abundance of Bacteroidetes and Firmicutes that have been associated with gut microbiome homeostasis. A lower Firmicutes/Bacteroidetes
+
+
+(F/B) ratio also correlates with health , for example, lean humans and mice have a significantly lower F/B ratio compared to their obese counterparts . The metabolic profile also provides a key component of microbiota homeostasis in the gut microenvironment. Short chain fatty acids (SCFAs) such as butyrate provide a well-defined example of how the metabolites produced by a healthy microbiome confer with epithelial barrier integrity and immunological homeostasis () . Butyrate provides an energy source for colonic epithelial cells and exhibits immunmodulatory and anti-inflammatory properties that contribute to the maintenance of epithelial barrier integrity . Gut microbiome diversity is important since a more diverse gut microbiome contains a greater diversity and abundance of enzymes capable of synthesizing metabolites such as butyrate that then contribute to gut homeostasis and health .
+An imbalance of the gut microbiota is referred to as dysbiosis and has pathophysiological consequences. Dysbiosis disrupts homeostasis through a reduction of bacterial diversity and an increased F/B ratio that leads to an inflammatory response and metabolic profile that is detrimental to gut epithelial health . Gut epithelial barrier integrity has been shown to be influenced by dysbiosis through the reduction in cell-cell junctions leading to increased permeability and subsequently
+
+Fig. 2. Estrogen and the gut microbiome  main- tain physiological health and homeostasis locally and at distal sites. A) Bile acid-secreted conjugated estrogen and phytoestrogens are deconjugated by the gut microbiome through bacterial secretion of b- glucuronidase. This enables the metabolized es- trogen and phytoestrogens to be reabsorbed by the gut and translocate into the bloodstream B) Metabolized estrogen and phytoestrogen is then transported to distal mucosal sites through the cir- culatory system. C) Estrogen and phytoestrogen metabolites then act on estrogen receptors at distal sites (shown here using the vaginal epithelia as an example). D) Downstream effects of estrogen re- ceptor binding in the vaginal epithelium which leads to physiological changes through downstream gene activation, epigenetic effects and triggering of in- tracellular signaling cascades. Dysbiosis in the gut microbiome potentially disrupts this homeostasis at this site through disruption of estrogen metabolism. A reduction in gut microbiota diversity leads to a decrease in the estrogen metabolism through a lack of estrogen metabolizing bacteria as well as other metabolic effects such as a reduction of short chain fatty acids. A lack of estrogen metabolizing bacteria leads to a decrease in circulating estrogens which may influence hypoestrogen-related disease.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bacterial translocation . Bacterial translocation can lead to systemic inflammation leading to the exacerbation or induction of disease . The effects of dysbiosis have been shown to be alleviated through fecal microbiome transplant (FMT), bariatric surgery and pharmaceutical interventions (metformin), enabling the re-establishment of home- ostasis by increasing gut microbiome diversity, decreasing inflamma- tion and altering metabolite composition () .
+
+Physiological role of estrogen
+
+The role of estrogens in female reproductive development and maintenance is well defined . In the lower female reproductive tract estrogen regulates this microenvironment through mechanisms involving increasing epithelial thickness, increasing glycogen levels, increasing mucus secretion and indirectly by decreasing vaginal pH
+through promotion of lactobacilli abundance and lactic acid production
+
+. Phytoestrogens have been shown to have the opposite effect on the female reproductive tract compared to estrogen. Mice able to pro- duce the phytoestrogen, equol, have significantly thinner vaginal epi- thelia as well as lower uterine weight . However, the action of estrogen is not limited to reproductive tissues . Gut epithelial barrier integrity can also be modified by estrogen () . The dichotomy of gut epithelial integrity is illustrated through murine stu- dies demonstrating that females are more resistant to gut injury com- pared to their male counterparts . Furthermore, it has been shown that inhibition of androgens in male mice with flutamide results in reduced gut injury . A variety of tissues express estrogen receptors, including, intestine, brain, bone and adipose tissue . As a result of this global expression, estrogen has been shown to influence a variety of physiological responses including neural development , cardio- vascular health , bone density  and neoplastic diseases in- cluding cancers . During menopause a variety of negative
+
+health outcomes may occur from the depletion of circulating estrogen. This is a particularly important health issue as life expectancy continues to increase and the number of women >=50 years old will increase by 60% between 2000 and 2025 .
+
+Estrobolome: complex interplay between estrogen, the gut microbiome and distal mucosal sites
+
+The estrobolome is defined as the gene repertoire of the microbiota of the gut that are capable of metabolizing estrogens . Estrogens are metabolized by microbial secreted b-glucuronidase from their con- jugate forms to their deconjugated forms . It is these "active" de- conjugated and unbound estrogens that enter the bloodstream and subsequently act on estrogen receptor alpha (ERa) and estrogen re- ceptor beta (ERb) () . Phytoestrogens are also metabolized in this manner, enabling their ability to act via mechanisms involving ERa and ERb . Both estrogens and phytoestrogens can act genomically by binding to estrogen receptors, eliciting downstream gene activation and epigenetic effects and triggering of intracellular signaling cascades . This interaction leads to physiological changes across a variety of tissues ranging from neural development to reproductive health () . Therefore the gut microbiota regulates homeostasis at in- testinal and distal mucosal sites . When dysbiosis occurs, these physiological responses are altered and contribute to disease states described below and highlighted in .
+
+Clinical implications
+
+Obesity and metabolic syndrome
+
+Obesity, as well as other hallmarks of metabolic syndrome, are significantly more prevalent in postmenopausal women . As such, a main driver of obesity could be related to the low circulating estrogen levels observed in postmenopausal women. However, estrogen levels are not solely mediated through their level of endogenous secretion. As described above metabolism of circulating estrogen and phytoestro- gens, are mediated by the gut microbiome . Modulation of the gut microbiota through FMT and probiotics has been shown to reduce the effects of metabolic syndrome (diabetes, obesity and heart disease) . A recent study in mice investigated the metabolic function of the gut microbiota and demonstrated that diet drives the gut mi- crobiota composition more dramatically than obesity alone . Bu- tyrate, an essential nutrient in the gut, plays an important role in epi- thelial barrier health and function . The role of butyrate was investigated in a mouse study aimed at identifying the impact of diet on the gut microbiome in two mouse models: one obesity prone and the other obesity resistant . The number of genes capable of metabo- lizing converting products into butyrate in the gut microbiota (butyryl- CoA transferase related-genes) was assessed to investigate the role of microbial metabolism of butyrate . Xiao et al., also hypothesized that obesity resistant mice are less prone to obesity because they have a higher level of butyryl-CoA transferase related-genes in the gut micro- biota compared to the obesity prone mouse strain of the same diet . Furthermore, Greiner et al. provided evidence indicating that the gut microbiota is a regulator of diabetic autoimmunity and glucose meta- bolism, suggesting that changes in microbial metabolism can influence the pathogenesis of type I diabetes .
+Alteration of the gut microbiota through bariatric surgery has been
+shown to alter many of the negative metabolic signatures indicative of metabolic syndrome such as hyperlipidemia and hypertension . Many of the conditions illustrated in such as metabolic syndrome, infertility, polycystic ovary syndrome (PCOS) and cancer have been shown to be alleviated via bariatric surgery . The pleiotropic benefits of bariatric surgery demonstrates the interrelatedness of the
+diseases illustrated in and also highlights the therapeutic power of gut microbiota modulation in treatment of these disease states.
+
+Phytoestrogens have also shown to be promising therapeutic mo- lecules in combating metabolic syndrome through their interaction with estrogen receptors. Panneerselvam et al., found that soy based phytoestrogen consumption effectively restored lipid metabolism in their mouse model of obesity and estrogen deficiency . Further- more, obese individuals were more likely to be N/a incapable of pro- ducing the phytoestrogen O-desmethylangolensin (ODMA) from its soy isoflavone precursor daidzein . Similarly, another study found that individuals able to produce the phytoestrogen metabolite S-equol were significantly less likely to be obese . This demonstrates that it is not only phytoestrogen consumption that influences the potential health benefits; the appropriate gut microbiota composition capable of meta- bolizing phytoestrogens also plays a crucial role. Dietary supple- mentation with soy isoflavone phytoestrogens has been shown to sig- nificantly decrease insulin levels as well as insulin resistance in a recent meta-analysis of over 1500 postmenopausal women . Additionally, in a separate meta-analysis it was found that soy isoflavone consump- tion significantly correlated with reduced body weight, glucose and insulin levels in non-Asian postmenopausal women . High levels of dietary phytoestrogen consumption in Asian populations may explain the reduced incidence of metabolic syndrome . Further character- ization of this consequence may prove to be a useful therapeutic tool in combating postmenopausal-induced metabolic syndrome.
+
+Endometriosis
+
+Estrogen stimulates epithelial proliferation throughout the female reproductive tract and has been shown to drive proliferative diseases such as endometrial cancer, endometriosis and uterine fibroids . Endometriosis is common in premenopausal women, and coupled with its hyper-proliferative condition advocates that the disease may be mediated by high estrogen levels . Proliferation of endometrial tissue outside the uterus resulting in pelvic pain and infertility are hallmarks of endometriosis . Moreover, endometriosis can also result in menstrual disorders including menorrhagia . It is therefore promising that mediation of estrogen levels may alleviate hyper-pro- liferation associated with endometriosis. One caveat however is that other conditions can cause pelvic pain or ovarian cysts, thereby re- sulting in diagnostic dilemmas. For example, it may be confused with irritable bowel syndrome (IBS), since it too causes diarrhea, constipa- tion and abdominal cramping. Furthermore IBS can accompany en- dometriosis, making it even more complex to diagnose . Gut mi- crobiota shifts (lower lactobacilli concentrations and higher Gram- negative bacteria levels) have been demonstrated in a primate study of endometriosis, although the mechanisms linking these remain unclear . Gonadotropin releasing hormone agonist (GnRHa) stimulates the production of follicle-stimulating hormone and luteinizing hormone thereby suppressing estrogen production making it a common treat- ment for the estrogen-driven disease, endometriosis. Interestingly, GnRHa has been shown to impact the local microbiota of the uterus demonstrating the ability of hormonal regulation to modulate micro- biota composition . Data elucidating b-glucuronidase activity in the gut microbiota of endometriosis patients may provide mechanistic in- sights into the role the estrobolome plays in endometriosis. The gut microbiome in patients with endometriosis may have a large number of b-glucuronidase producing bacteria which may lead to increased levels of estrogen metabolites and therefore drive endometriosis.
+
+Polycystic ovary syndrome
+
+Polycystic Ovary Syndrome (PCOS) patients have an increased in- cidence of metabolic syndrome, however, this incidence is not uniform across women from different countries and of varying ethnicity . PCOS is a hyperandrogen and low estrogen driven disease, and patients suffering from PCOS have significantly lower gut microbiota diversity
+compared   to   healthy   controls   .   These   variations   in   gut
+
+microbiome compositions highlight the interaction between micro- biome composition, sex hormone levels and PCOS. Gut microbiome transfer from adult male mice to immature female mice has been shown to alter the microbiota resulting in increased levels of testosterone and to provide protection against type I diabetes . Testosterone has been shown to be produced in the gut by Clostridium scindens . Evidence of an increase in testosterone levels due to gut microbiome transfer coupled with direct evidence of testosterone synthesis from bacteria that inhabit the gut alludes to the existence of the "testrobolome". Si- milar to the estrobolome, the testrobolome may influence sex hormone driven disease states that lack a clear link to estrogen such as PCOS.
+
+Endometrial hyperplasia
+
+High levels of estrogen relative to progesterone can be found as a result of diseases such as PCOS and obesity . For example, the in- creased amount of adipose tissue in obesity results in the increased level of estrone conversion . This is particularly relevant in obese post- menopausal women for whom their major source of estrogen is adipose tissue . Increased estrogen production due to the high levels of adipose tissue is thought to be a key driver in female reproductive cancers and therefore hyperplasia . This idea is supported by the fact that female reproductive tract cancers are more prevalent in obese women . It is the reduction of progesterone levels relative to es- trogen levels that is the principal driver of endometrial hyperplasia (EH) due to the lack of progesterone to oppose estrogen . Increased estrogen levels as a result of estrogen-only hormone therapy results in an increased risk of developing EH . Much like PCOS, the risk of developing EH has been shown to be reduced following bariatric sur- gery . As previously alluded to in this review, bariatric surgery significantly alters both the microbiome composition and metabolic profile of obese women . Therefore it may be the shift in the mi- crobiome and metabolome composition as a result of bariatric surgery that plays a role in the reduced incidence of EH. The modulation of the estrobolome composition following bariatric surgery is a plausible driver in reduced risk of developing EH considering the critical role estrogen plays in driving the disease.
+
+Infertility
+
+Obesity has been shown to reduce spontaneous pregnancy rates and is associated with other obstetric complications such as preterm birth . Following bariatric surgery in obese women, fertility is im- proved and women with PCOS, a disease strongly associated with in- fertility, exhibit reduced symptoms . However, the metabolic as- pects of PCOS are not restricted to obese women. Non-obese women with PCOS retain several hallmarks of metabolic syndrome such as insulin resistance, hypertension and increased risk of cardiovascular disease (CVD) . This demonstrates that the alleviation of hallmark symptoms of PCOS is not simply mediated through weight loss, but rather through the modulation of the metabolic, including hormonal, aspects of PCOS perhaps through alterations in gut microbiota com- position. PCOS patients have an altered hormonal profile, which results in a dysfunctional menstrual cycle that ultimately leads to infertility . The gut microbiome composition is altered following bariatric surgery and that may be the driving factor that increases fertility and resolution of PCOS . There is an increase in circulating bile acids following bariatric surgery, which may be a direct consequence of the shift in microbiota composition . It is possible that a shift in mi- crobiota composition that resolves PCOS also reduces a women's risk of developing another infertility-linked pathology: endometrial hyper- plasia (EH), following bariatric surgery. Fecal transplantation from healthy rats to a rat PCOS model as well as lactobacilli transplantation has been shown to improve estrous cycles and decrease androgen bio- synthesis (a key component of PCOS) . PCOS has also been shown to be resolved through administration of metformin and clomiphene .
+
+Metformin and clomiphene are used in treatment of type II diabetes and in regulation of estrogen respectively . Metformin is now used to help treat the lack of glycemic control found in PCOS patients, which subsequently improves PCOS-associated infertility . Metformin has been shown to alter the gut microbiome composition, increasing Ak- kermansia spp. abundance . Clearly, a complex interaction exists between the disease states which impact fertility illustrated in  and gut microbiota composition that requires further investigation.
+
+Cancer and phytoestrogens
+
+Estrogen has been associated with a variety of sex-hormone driven cancers including: endometrial , cervical , ovarian , prostate  and breast cancer . Gut microbiota composition is altered in many of these cancers and could play a role in promoting carcinogenesis by impacting the hallmarks of cancer (e.g. genomic in- stability, cell proliferation and apoptosis, etc.) . Therefore it has been postulated that alteration of the estrobolome may be a key driver in many of these cancers () . The gut microbiota deconjugates estrogens through bacterial secretion of b-glucuronidase enabling them to bind to estrogen receptors . Estrogen receptor activation increases the number of G0/G1 cells entering the cell cycle promoting cell pro- liferation, which is particularly well defined in breast cancer .
+Estrogen receptor positive breast cancer is the most common sub- type of breast cancer . This particular cancer subtype is sig- nificantly mediated by estrogen . Goedert et al. found that breast cancer patients had a significantly altered gut microbiota composition  in terms of alpha and beta diversity, however there was no difference in fecal estrogens between cancer patients and controls . This is contrary to the previous literature, which consistently found higher levels of circulating estrogens in breast cancer patients . However is it worth noting that fecal estrogens are exclusively conjugated whereas urinary estrogens can be either conjugated or deconjugated . A previous study by Flores et al. found that Clostridia taxa, as well as three genera in the Ruminococcaceae family were significantly associated with urinary estrogen and microbiome richness . Overall these data sug- gest that there is a relationship between gut microbiota, the estrobo- lome, estrogen levels and breast cancer.
+Elevated estrogen levels are also indicative of other cancer types, particularly female-specific cancers such as endometrial cancer . Endometrial cancer is also linked to the gut microbiota in obesity, as obese women who undergo bariatric surgery have a reduced risk of developing EH and subsequently endometrial cancer . It may be that the microbiome composition or diversity favors bacteria capable of metabolizing estrogens, enabling increased reabsorption and increased estrogen receptor binding which contribute to the development of EH .
+Phytoestrogens can be estrogenic or anti-estrogenic . Much like estrone, phytoestrogens only bind weakly to estrogen receptors, pre- venting estrogens with higher affinity (estradiol) from binding . Thus phytoestrogens can be considered to have estrogenic and anti- estrogenic activity. This dual activity may explain why phytoestrogens can be therapeutic in both hyper- and hypo-estrogen diseases . Phytoestrogen consumption has been shown to reduce cancer incidence in reproductive and non-reproductive tissue . Consumption of soy- based food, which is high in phytoestrogens, has been shown to reduce lung cancer risk in a meta-analysis by Yang et al. . Increased serum phytoestrogen concentrations have also been shown to be inversely correlated to risk of gastric cancer in a study of male and female Korean individuals . Furthermore, Chinese ERa positive gastric cancer patients, had a significantly worse prognosis compared to those that were ERb positive . The most well characterized correlation be- tween cancer incidence and phytoestrogen consumption is found in breast cancer. Numerous meta-analyses have reported a decreased risk in breast cancer with increased consumption of phytoestrogens . Decreased risk of breast cancer may be mediated through an
+
+anti-estrogenic action of phytoestrogen and subsequent reduction in estrogen receptor mediated proliferation of cancer. However, the in- teraction between the gut microbiome and phytoestrogens may not be unidirectional. Non-obese diabetic mice fed with the phytoestrogen genistein, have been shown to have significantly different gut microbial beta-diversity linked to immune homeostasis . Gut microbiota al- teration following phytoestrogen consumption may be a factor in the alleviation or causation of cancer.
+
+Cardiovascular disease
+
+Premenopausal women have a decreased risk of cardiovascular disease (CVD) compared to their age-matched male counterparts . However, once women reach the age of 55 years old, they have an increased risk of CVD compared to men , which may be due to the reduction of circulating estrogen levels found in postmenopausal women. Estrogen has been shown to promote beneficial physiological responses that promote cardiovascular health and lessen CVD risk in- cluding enhancing endothelial function and decreasing vascular re- sistance, promoting attenuation of proinflammatory mediator pathways such as the NFkB pathway, and decreasing levels of plasma low-density lipoprotein cholesterol . The protective role of estrogen in CVD is further evidenced by the decreased risk of CVD in women on hormone replacement therapy .
+Interestingly, the metabolic risk factors in men and women differ . For example, high cholesterol is an effective predictor of CVD in men, however, in women lipoprotein(a) levels provides a much more powerful predictor of CVD incidence . Gut microbiome composi- tion has been shown to impact levels of metabolites strongly associated with CVD, such as equol . Postmenopausal women able to produce equol, a phytoestrogen metabolite, have been shown to have better cardiometabolic health (decreased arterial stiffness and improved en- dothelial function) . However, in a prospective study of equol and non-equol producing men, the cardiometabolic benefit of equol pro- ducing gut microbiota was limited to a decrease in arterial stiffness, and reduced CVD risk to 11-12% for middle aged men at moderate risk of CVD . The low estrogen levels in postmenopausal women may explain why women capable of producing equol had both decreased arterial stiffness and endothelial function, whereas men solely had de- creased arterial stiffness. The restoration of normal estrogen signaling through phytoestrogens may mitigate the negative CVD health im- plications of low estrogen levels in postmenopausal women.
+Using a spontaneously hypertensive rat (SHR) model it has been
+shown that gut microbiome diversity is decreased in SHR relative to controls . In addition SHR have an increased Firmicutes/Bacter- oidetes (F/B) ratio relative to controls . Treatment with the anti- biotic minocycline reduced hypertension in chronic angiotensin II in- fusion rat model as well as decreased the F/B ratio and increased gut microbiome diversity . In the same study researchers performed fecal transplantation from hypertensive humans to germ free mice, which resulted in increased blood pressure, compared to mice that underwent fecal transplantation from healthy controls . Further- more, clinical studies have revealed gut dysbiosis and reduced gut microbiome diversity in both pre-hypertensive and hypertensive in- dividuals .
+The reduction in diversity of the gut microbiome in CVD patients and the putative reduction in estrogen and phytoestrogen levels through reduced b-glucuronidase activity may be a key aspect of the gut microbiome-CVD interaction, considering the important protective role estrogen plays against CVD. Gut microbiome diversity impacts the metabolic profile modulating metabolites such as short chain fatty acids, which subsequently modulate cholesterol metabolism . Given the numerous physiological facets of estrogen on cardiovascular health, there could be a link between reduced gut microbiome diversity, reduced estrogen levels and hallmarks of CVD such as increased arterial
+stiffness  and  impaired  endothelial  function.  It  is  also  important  to
+
+consider other factors associated with gut microbiome dysbiosis and hypertension including environmental, nutritional and genetic factors . Lastly, dietary interventions may serve as an innovative strategy to reinstate gut homeostasis to alleviate hypertension.
+
+Gut-brain axis
+
+The gut microbiota regulates neurophysiological behaviors by al- tering neural, endocrine and immune pathways . Postmenopausal women show a decline in cognition, most notably in memory, as a re- sult of declining estrogen levels . Estrogen depletion can also im- pact fine motor coordination as well as depression and anxiety . Animal studies have replicated these cognitive effects through obser- ving the decline in performance in memory tasks in ovariectomized perhaps linked to significantly lower densities of spinal neurons . While beyond the scope of this review, numerous fecal microbiome transplant and antibiotic studies have been performed illustrating the role of the gut microbiome in cognitive conditions such as anxiety, depression and memory impairment . Studies have shown that estrogen stimulates neural growth in both in vitro  and in an- imal studies . Furthermore, endogenous estrogen levels have been shown to be positively associated with verbal memory in both post- menopausal women and older men .
+The interplay of the gut microbiome and the brain is a rapidly
+growing area of research. Germ free mice have been shown to have reduced working memory compared to conventionally colonized con- trols . Administration of a variety of antibiotics through drinking water has also been shown to impair object recognition behavior in mice . As previously described in this review, a reduction in gut microbiota diversity reduces the estrobolome and therefore the de- conjugative ability of the gut microbiome . Reduction of estrogen deconjugation by the gut microbiome could be driving the cognitive decline in germ free mice through reduction of bioactive estrogen.
+
+Future areas of study
+
+Phytoestrogens have a range of affinities to estrogen receptors making certain phytoestrogens more appropriate for putative treatment of particular disease . Similarly, some phytoestrogens have been shown to have antiestrogenic effects which could be utilized as a therapeutic treatment of hyperestrogenic disease . Therefore an important future area of study will be to assess the most effective phytoestrogens for particular diseases in terms of estrogen receptor affinity and their interaction with estrogen receptors. The role of the gut microbiome in modulating estrogen levels also promises to have exciting therapeutic applications. Randomized control studies are needed to better define the therapeutic efficacy of treatment of es- trogen-modulated disease. Characterization of the microbiota and me- tabolome composition before and after bariatric surgery may help elucidate microbial and metabolic components of healthy and disease states which could have further therapeutic and diagnostic applications. Gut microbiota could also be used to diagnostically in unison with serum, urinary and fecal estrogen levels to determine risk factors for disease or as a biomarker. Profiling of the gut microbiome could be taken a step further by metagenomic analysis to assess the levels of genes encoding b-glucuronidase and other genes that influence estrogen metabolism in the context of these diseases outlined herein.
+
+Conclusion
+
+The number of postmenopausal women is increasing; therefore diseases resulting from low estrogen levels will become an increasing public health burden. Modulating the gut microbiome to subsequently impact estrogen levels provides an exciting future therapeutic appli- cation.  Novel  estrogen  modulation  methods  through microbiome al-
+teration and/or phytoestrogen consumption may have greater efficacy
+
+and provide an alternative to current treatment of estrogen-mediated conditions and disease. Modulation of the gut microbiome and meta- bolic profile as a means of treating estrogen-driven disease through surgical (bariatric surgery), fecal microbiome transfer, nutraceutical (genistein) and pharmaceutical (metformin) methods also shows pro- mise for combating the metabolic aspects of disease states, which subsequently aids in resolving the associated disease (). The im- pact of bacterial therapeutics on the estrobolome should also be taken into consideration when developing probiotics especially in diseases prevalent in women. However, the impact of the estrobolome is not exclusive to women. More broadly, the impact of particular microbiota composition on the metabolic profile is an emerging area of research. These studies could prove to have particularly pertinent health appli- cations extending to a vast number of major public health concerns. Overall, the estrobolome is an important component of the gut micro- biota as demonstrated by the range of putative estrobolome-mediated diseases illustrated in this review and may provide an attractive diag- nostic and therapeutic target for future research to enhance women's health.
+
+Contributors
+
+MMH-K designed the scope and organization of the review.
+JMB, LA-N and MMH-K conducted literature reviews, figure con- struction and contributed to the writing of the manuscript.
+MMH-K supervised the writing and critically edited and reviewed the complete manuscript, and figures.
+All authors approved the final manuscript for submission.
+
+Conflict of interest
+
+The authors declare that they have no conflict of interest.
+
+Funding
+
+This work was supported by the University of Arizona.
+
+Provenance and peer review
+
+This article has undergone peer review.
+
+Acknowledgements
+
+The authors would like to thank the members of the Herbst- Kralovetz research team for thoughtful discussions on this topic and Dr. Rayna Gonzales for critical review of the manuscript. The authors would also like to acknowledge the University of Bath Placement Program.
+
+References
+
+
+
+
+
+
+ff
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ fl
+
+
+
+
+fl
+
+ffi
+
+
+
+
+ff
+
+
+
+
+
+fi
+
+
+
+
+fl
+fl
+
+ff
+fl
+fl
+
+ff
+
+
+
+
+
+flfi
+fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+ff
+
+
+
+
+ff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fl
+fi
+
+
+fl
+
+
+
+
+
+
+fl
+
+
+
+fiflff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+

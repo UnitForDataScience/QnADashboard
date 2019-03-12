@@ -1,0 +1,798 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation of matrix-assisted laser desorption ionization-time of flight mass spectrometry for identification of human oral Capnocytophaga species Anne Jolivet-Gougeon, Nicolas Helsens, Elise Renard, Zohreh
+Tamanai-Shacoori, Martine Bonnaure-Mallet
+
+
+
+To cite this version:
+Anne Jolivet-Gougeon, Nicolas Helsens, Elise Renard, Zohreh Tamanai-Shacoori, Martine Bonnaure- Mallet. Evaluation of matrix-assisted laser desorption ionization-time of flight mass spectrometry for identification of human oral Capnocytophaga species. Anaerobe, Elsevier Masson, 2017, 48, pp.89-93.
+<10.1016/j.anaerobe.2017.07.003>. <hal-01619482>
+
+
+
+
+
+
+
+
+
+HAL  Id: hal-01619482
+
+Submitted on 12 Dec 2017
+
+
+
+
+
+HAL is a multi-disciplinary open access archive for the deposit and dissemination of sci- entific research documents, whether they are pub- lished or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers.
+
+L'archive ouverte pluridisciplinaire HAL, est destinee au depot et a la diffusion de documents scientifiques de niveau recherche, publies ou non, emanant des etablissements d'enseignement et de recherche francais ou etrangers, des laboratoires publics ou prives.
+
+
+1
+
+Evaluation of Matrix-Assisted Laser Desorption Ionization-Time Of Flight Mass 
+
+Spectrometry for identification of human oral Capnocytophaga species 
+
+4
+
+Anne  Jolivet-Gougeonl,2*,  Nicolas  Helsensl,  Elise  Renardl,  Zohreh  Tamanai-Shacooril,  and 
+
+Martine Bonnaure-Malletl,2 
+
+7
+
+8
+
+1 Universite de Rennes, INSERM U 1241, INRA, Nutrition Metabolisms and Cancer, 2 avenue 
+du Professeur Leon Bernard, 35043 Rennes, France 
+11	. 
+12	 
+13	2 CHU Pontchaillou, 2 rue Henri Le Guilloux - 35033 RENNES Cedex 9, France 
+14	 
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+*Corresponding author 
+Anne Jolivet-Gougeon, Universite de Rennes, INSERM NuMeCan/CIMIAD, 2, avenue du 
+Professeur Leon Bernard, 35043 Rennes, France 
+24	Phone: (33) 2 23 23 49 05 - Fax: (33) 2 23 23 49 l3  
+25	E-mail:  
+26	 
+
+27
+
+Abstract
+
+Matrix-assisted laser desorption ionization-time of flight mass spectrometry (MALDI-
+
+TOF MS) was evaluated for rapid identification of cfxA PCR positive and negative
+
+Capnocytophaga strains. Colonies were grown on blood agar, incubated anaerobically at
+
+37degC for 48 h, and were then evaluated by MALDI-TOF MS and l6S rRNA gene sequencing.
+
+Both methods identified all colonies to the genus level. The MALDI-TOF MS method gave the
+
+same result, at the species level, as l6S rRNA gene sequencing for 4l/53 Capnocytophaga
+
+sp. strains (77.4%), but the limit of this technique was the absence of some species (C.
+
+leadbetteri, C. AHN) in the Biotyper-Bruker database used in this study. Distinction
+
+between the cefotaxime resistant and susceptible strains was unsuccessful using the MALDI-
+
+TOF MS method. This technique had low discriminatory power to rapidly detect beta-
+
+lactamase-producing Capnocytophaga strains in clinical samples. However, the results from
+
+a score-oriented dendrogram confirmed MALDI-TOF MS is a rapid, inexpensive, and reliable
+
+method for Capnocytophaga species identification. Enrichment of the reference database
+
+used (Biotyper(r)) will improve future results.
+
+43
+
+44
+Key   words:   MALDI-TOF   Mass   Spectrometry;   Capnocytophaga;   cfxA;   l6S   rRNA;   PCR;
+
+dendrogram
+
+47
+
+48
+
+49	1. Introduction
+50
+Capnocytophaga are part of the normal bacterial flora of the oral cavity of humans
+51
+and animals. Generally, they are considered commensal bacteria but, in immunocompetent
+52
+or immunocompromised patients, they can be responsible for systemic diseases [l]. These
+53
+bacteria belong to the family Flavobacteriaceae, order Flavobacteriales, class Flavobacteria,
+54
+Bacteroidetes  phylum,  and  Bacteria  domain.  This  genus  includes  l0  different  commensal
+55
+species. There are six isolated from the oral cavity of humans: Capnocytophaga ochracea, C.
+56
+gingivalis, C. granulosa, C. haemolytica, C. sputigena, C. leadbetteri, and four isolated from
+57
+the oral cavity of animals: C. canimorsus, C. cynodegmi, C. stomatis, and C. canis. The
+58
+classification of many described strains (AHN) remains uncertain.
+
+Matrix-assisted laser desorption ionization-time of flight mass spectrometry (MALDI-
+
+TOF MS) is based on the protein composition of the microbial cell, particularly ribosomal
+
+protein contents, and can discriminate clinical and environmental species. This technique is
+
+effective to identify anaerobic bacteria in the routine clinical microbiology laboratory setting
+
+[2-4]. Some clinical case reports used this technique to correctly identify Capnocytophaga
+
+species at the genus level [5, 6].
+
+The MALDI-TOF MS has also been used to detect several beta-lactamases, such as
+
+extended-spectrum  -lactamase  (ESBL)  [7,  8]  and  carbapenemases  [2,  9,  l0].  Only  a  few
+
+studies screened beta-lactamases in anaerobes, such as the class B metallo-beta-lactamase
+
+encoded  by  cfiA  in  Bacteroides  fragilis  [2]  or  carbapenemases  [9,  ll].  The  prevalence  of
+
+beta-lactamase producing Capnocytophaga sp. is increasing in the human oral cavity, as
+
+demonstrated by the high prevalence of cfxA-positive PCR strains [l2-l4], which is the major
+
+cause of third generation cephalosporin resistance in Capnocytophaga sp. The cfxA gene,
+
+conferring constant resistance to third generation cephalosporins, especially cefotaxime
+
+[l5], has been described on plasmids and/or on chromosomes harbouring mobile genetic
+
+elements. This ability to gene mobilisation can be responsible for resistance gene
+
+dissemination and transfer [l2]. When a beta-lactamase-producing Capnocytophaga strain is
+
+detected  in  a clinical sample, the empirical antimicrobial treatment administered to the
+
+patient should often be  rapidly modified. However, the detection of the cfxA gene is not
+
+sufficient to assert the resistance. In previous work, we showed that the expression of this
+
+gene  is  not  always  constant:  if  lst  and  2nd  generation  cephalosporins  are  most  often
+
+affected by the CfxA beta-lactamase, the phenotypic expression of resistance for
+
+cephalosporins  of  3rd  generation  is  reported  variable  according  to  the  strains  [l6].
+
+Expression of cfxA genes (cfxA mRNA levels) was quantified by using quantitative PCR, in
+
+cfxA PCR-positive isolates differentiated by their beta-lactam resistance profiles. One isolate
+
+remained susceptible to beta-lactams (despite a positive cfxA PCR), and the cfxA gene was
+
+not expressed (Ct value identical to distilled water used as negative control). But the
+
+normalized Ct values for the third-generation cephalosporins were not directly related to
+
+MIC levels. This expression could also be influenced by replacing the sequence in the cfxA
+
+gene, and enhanced expression related to the proximity of mobile elements such as mobA
+
+[l6].  A  simple  and  rapid  method  for  detecting  the  presence  of  the  CfxA  beta-lactamase
+
+would therefore be useful for better interpreting the PCR results. Wybo et al. [2] managed to
+
+differentiate cfiA-positive from cfiA-negative isolates in a routine laboratory setting and so
+
+pinpoint B. fragilis strains potentially resistant to carbapenems. In the same way, we hoped
+
+to discriminate negative and positive cfxA strains: culture of bacteria with cefotaxime was
+
+also tested to confirm the experiment.
+
+The aim of this study was to use MALDI-TOF MS for rapid species identification of
+
+Capnocytophaga. The study also tested the discriminatory power of this technique to
+
+differentiate the cefotaxime resistant from cefotaxime susceptible Capnocytophaga strains.
+
+98
+
+99	2. Materials And Methods
+
+2.1 Strains used
+
+Reference strains (n=5) were used for this study: C. sputigena ATCC 33595, C. sputigena
+
+ATCC  336l2,  C.  gingivalis  ATCC  33624,  C.  ochracea  ATCC  27872,  and  C.  granulosa  ATCC
+
+5l502. Clinical strains of Capnocytophaga sp. (n=48) were isolated from routine cultures, at
+
+the Teaching Hospital of Rennes (France). Clinical strains were isolated from oral swabs
+
+(n=30) and sputum samples (n=8) on TBBP (Trypticase-blood-bacitracin-polymyxin B) agar
+
+[l7], and from surgical bone samples (n=4), abscesses (n=4), and blood samples (n=2) on
+
+horse blood agar (Oxoid). All samples were conserved in frozen stock cultures (Cryobanks,
+
+MAST diagnostics), and cultured on horse blood agar in an anaerobic chamber for 24 to 48 h
+
+at 37degC for further experiments.
+
+
+
+2.2 Susceptibility testing
+
+The MICs were determined by Etest methodology (Etest (r), BioMerieux, France), and
+
+interpreted according to CLSI recommendations for anaerobes [l8], since no breakpoint for
+
+third generation cephalosporins (as cefotaxime) is currently available for anaerobes,
+
+according  to  EUCAST  recommendations  [l9].  The  CLSI  breakpoints  of  cefotaxime  for
+
+susceptible,  intermediate,  and  resistant  strains  were  l6  mg/L,  32  mg/L,  and  ;?64  mg/L,
+
+respectively.
+
+
+
+2.3 PCR amplification
+
+Amplification of the cfxA gene by PCR was performed as previously described [20]. Briefly,
+
+the	primers	used	were:	cfxAl	(5'-CTTTGTCGGCAAATAAAGAT-3')	and	cfxA4	(5'-
+
+TGAACGAGGAATGAGTGTGG-3'),	generating	a	580bp	fragment	and	cfxA5	(5'-
+
+TGGTTAATGTCGCTCAAACA-3')   and   cfxA6 (5'-TCAAAGCAAGTGCAGTTTAAGA-3'),
+
+generating a 507bp fragment. A 966-bp consensus sequence of cfxA3 was then determined.
+
+The amplification conditions were 94degC for l min, 55degC for l min, and 72degC for l min (35
+
+cycles).
+
+Sequencing  of  the  l6S  rRNA  gene  was  used  as  a  reference  method  for  Capnocytophaga
+
+species identification, based on previous work [2l]. Real-time PCR was performed with Sybr
+
+green to target the 5' part of the l6S rRNA gene (forward primer 27F, 5'-AGA GTT TGA TCM
+
+TGG CTC AG-3'; reverse primer 685R3, 5'-TCT RCG CAT TYC ACC GCT AC-3'; 658-bp
+
+amplification product; GenBank accession number NR_024570).  The  corresponding
+
+amplicons were sequenced in both strands and assembled, and the consensus sequences
+
+were compared with those in the Bioinformatics Bacteria Identification (BIBI) and BLAST
+
+databases. The rates of concordance between l6S rRNA gene PCR and bacteriological results
+
+were based on results at the genus (;?96% similarity) and species (;?98% similarity) levels.
+
+Positive and negative controls were added in each series [2l]. To control DNA extraction and
+
+confirm the absence of PCR inhibitors, a fragment of the human beta-globin gene was
+
+amplified for each negative sample.
+
+
+
+2.4 Matrix-assisted laser desorption/ionization-time of flight mass spectrometry {MALDI-TOF
+
+MS}
+
+MALDI-TOF MS (Biotyper, Bruker) analyses were performed in positive linear mode in the
+
+range of 2000-20,000 masses-to-charge ratio (m/z), and used to identify the isolates to the
+
+level of species. Colonies were selected after culturing on horse blood agar in an anaerobic
+
+chamber for 24 to 48 h, in the absence of antibiotic or around to the cefotaxime disk
+
+(BioRad, 30 ug). Colony spotting was performed in triplicate and spectra were obtained and
+
+analyzed with MALDI Biotyper 2.0 software and references (Bruker Daltonik, GmbH,
+
+Bremen, Germany), according to the manufacturer's instructions. For the direct colony
+
+method, bacteria were applied as a thin film onto a 96-spot steel plate (Bruker Daltonics)
+
+and allowed to dry at room temperature. Subsequently, l.2 ul of MALDI matrix (a saturated
+
+solution of a-cyano-4-hydroxycinnamic acid [HCCA; Bruker Daltonics] in 50% acetonitrile
+
+and 2.5% trifluoroacetic acid) was applied to the colony and allowed to dry before testing.
+
+For the extraction method, l to 2 colonies were extracted as already described [22]. Each
+
+series of measurements was preceded by calibration with a bacterial test standard (BTS
+
+255343; Bruker Daltonik), to calibrate the instrument and validate the run. Negative controls
+
+were a matrix deposit alone and Brucella broth (supplemented with 5% blood, vitamin Kl
+
+and cefotaxime (0.5mg/L)). For identification, scores and reproducibility were considered
+
+according to the manufacturer's instructions (Bruker). Results of the pattern matching
+
+process  were  expressed  as  log  (score)  values  ranging  from  0  to  3.  Values  from  0-l.6999
+
+indicated not suitable identification, >l.7 indicated relationships on the genus level, and >2.0
+
+indicated relationships on the species level (score: 2.3 to 3: high probability of identification
+
+to the species level, 2 to 2.2999: high probability of identification to the genus level and
+
+probable identification to the species level, l.7-l.999: probable identification to the genus
+
+level). The interpretation considered two independent parameters: the value of the
+
+homology   score   and   the   reproducibility   of   the   identification   obtained   (from   l0
+
+measurements carried out after laser impacts where the same bacterial species must be
+
+found at least three times with the highest scores).
+
+To test if MALDI-TOF MS was able to differentiate between cfxA-negative and cfxA-positive
+
+isolates, bacterial pellets were also extracted after incubation of each isolate in the presence
+
+of cefotaxime (0.5 mg/L) in Brucella broth supplemented with 5% blood and vitamin Kl (l
+
+mg/L) under anaerobic conditions for 6 h. Identification was performed, as indicated above,
+
+from a deposit of a drop of pellet left to dry and score-oriented dendrogram of matrix-
+
+assisted laser desorption ionization time-of-flight mass spectrometry profiles were
+
+compared.
+
+The MALDI-TOF MS spectral data resulting from the analysis of 53 isolates were processed
+
+using the Bruker database software to identify species-specific masses that were then used
+
+to generate dendrograms. A class dendrogram of all the study isolates was constructed (with
+
+the correlation distance measured by the average linkage algorithm; Euclidean distances) of
+
+the Biotyper 2.0 software (Bruker Daltonics) [23]. The MALDI-TOF spectra similarity
+
+dendrogram between cfxA positive and negative strains, based on the mass  spectral
+
+patterns, was used to study dispersion of spectra [24].
+
+
+
+3. Results
+
+3.1 Identifications of strains by MALDI-TOF MS and l6S rRNA gene sequencing
+
+The  MALDI-TOF  MS  and  l6S  rRNA  gene  sequencing  of  the  clinical  and  reference
+
+isolates clearly identified all strains as Capnocytophaga (l00% agreement) at the genus level,
+
+and 4l/53 (77.4%) were identified as the same at the species level (Table l), with a score
+
+>l.8  and  a  reproducibility  >4  (minimum  of  3/l0  replicates  had  MALDI  confidence  scores
+
+>l.8). Both methods identified the C. sputigena (n=3l) and C. ochracea (n=3) strains. The
+
+four  Capnocytophaga  AHN  {AHN9576/AHN9798/AHN847l/ChDc)  strains  identified  by  l6S
+
+rRNA sequencing were characterized as C. sputigena by MALDI-TOF MS. The six C.
+
+leadbetteri strains recognized by l6S rRNA sequencing were identified as Capnocytophaga.
+
+sp. by MALDI-TOF MS. One strain classified as Capnocytophaga geno sp., C. granulosa and
+
+another as C. gingivalis by l6S rRNA sequencing were identified as C. sputigena, C. gingivalis
+
+and C. granulosa, respectively, by MALDI-TOF MS. The MALDI-TOF MS technique had limited
+
+ability to discriminate between C. gingivalis and C. granulosa (two misidentified strains), but
+
+these species were similar, as shown on the dendrogram of all Capnocytophaga species
+
+identified using MALDI-TOF MS (Figure l).
+
+3.2	Susceptibility testing
+
+From the total clinical Capnocytophaga sp. (n=48), 35 strains were cefotaxime-susceptible,
+
+three were intermediate, and l0 were resistant, according to CLSI criteria [l7]. The MICs of
+
+cefotaxime were: MIC50 = l.5 and MIC90 ;?256 mg/L (range: 0.0l6->256 mg/L). Among these
+
+Capnocytophaga sp. isolates, the cfxA gene was amplified by PCR in 42 (87.5%) all resistant
+
+to  cefalotin  (data  not  shown):  l3  strains  were  resistant/intermediate  and  29  remained
+
+phenotypically susceptible to cefotaxime despite a positive cfxA PCR. Five of the latter (four
+
+from saliva and one from osteo-articular fluid) cfxA+, susceptible to cefotaxime with MIC
+
+range:   0.0l6-0.5   mg/L   were   found   to   be   gene   misexpressed   and/or   beta-lactamase
+
+inactivated, as previously suggested. The five reference strains were cfxA PCR negative and
+
+susceptible to beta-lactams.
+
+3.3 MALDI-TOF spectra similarity dendrogram
+
+The MALDI-TOF spectra similarity dendrogram, in which the strains were dispersed
+
+irrespective of their mass spectral patterns, was unsuccessful in differentiating susceptible
+
+and resistant strains (data not shown).
+
+
+
+4. Discussion
+
+In a previous study, Conrads et al. [25] used oligonucleotide probes and
+
+demonstrated  that   the  dendrogram  of  l6S  rRNA  sequences  of  the  Capnocytophaga
+
+reference strains showed a very close relationship, especially C. granulosa and C. gingivalis
+
+(97.7% similarity) and C. ochracea and C. sputigena (95.0% similarity). Previously, MALDI-TOF
+
+MS was used with success to identify strict anaerobes, such as Bacteroides [26] or Prevotella
+
+[27], with clinical isolates of Prevotella sp. identified to the species (62.7%) and genus
+
+(73.5%) levels. Recently, Magnette et al. [28] showed that MALDI-TOF MS provided a reliable
+
+identification to the species level for l00% of 45 blind-coded Capnocytophaga canimorsus
+
+and C. cynodegmi, but only following the establishment of a complementary homemade
+
+reference database. Using MALDI-TOF MS in this study, we found improved Capnocytophaga
+
+genus  level  identification  (l00%)  and  a  good  human  oral  Capnocytophaga  species  level
+
+identification (77.4%). The six C. leadbetteri and four C. AHN strains (recognized by l6S rRNA
+
+sequencing) were identified by MALDI-TOF MS as C. spp. and C. sputigena, respectively. This
+
+result was not surprising because C. leadbetteri and C. AHN do not exist in the Biotyper-
+
+Bruker database used, as was previously observed [4]. In addition, the MALDI-TOF MS
+
+method could not completely discriminate between C. gingivalis and C. granulosa, a finding
+
+that is consistent with previous reports using multilocus enzyme electrophoretic analysis and
+
+serotyping of immunoglobulin Al proteases [29]. Thus, our results suggest that MALDI-TOF
+
+MS can be used for rapid and reliable identification of most clinical Capnocytophaga strains.
+
+We also investigated if MALDI-TOF MS could be used to detect the presence of the
+
+beta-lactamase CfxA (mainly responsible for cefotaxime resistance) or one of its metabolites
+
+in Capnocytophaga strains. The MALDI-TOF MS method failed to detect cfxA positive
+
+Capnocytophaga strains (compared to cfxA negative strains), cultured in the presence or
+
+absence of cefotaxime. Most previous studies used inhibitors of beta-lactamases (ESBL or
+
+carbapenemases) to reveal by MALDI-TOF MS the intermediates of beta-lactamases [30] or
+
+enzyme inhibition [3l]. We did not do this because the intrinsic activity of all beta-lactamase
+
+inhibitors was demonstrated in Capnocytophaga species [32]. Wybo et al. [2] demonstrated
+
+that MALDI-TOF MS could be used to differentiate between cfiA-positive and cfiA-negative
+
+Bacteroides strains, cultured on fastidious anaerobic agar at 35degC in an anaerobic chamber
+
+for 24 to 48 h, without use of antibiotic or beta-lactamase inhibitors. This result was
+
+confirmed by Fenyvesi et al. [33], who characterized 5/60 cfiA positive strains using this
+
+method. In our study, we could not discriminate between cefotaxime susceptible (cfxA-
+
+positive) and resistant (cfxA-negative) strains using the MALDI-TOF MS method and MALDI
+
+Biotyper 2.0 software, as recommended by Wybo et al. [2].
+
+The limits of this technique for beta-lactamase detection have already been
+
+highlighted.   Trevino   et   al.   [ll]   used   MALDI-TOF   MS   for   rapid   characterization   of
+
+carbapenemase-producing  Enterobacteriaceae  and genetic diversity among carbapenemase-
+
+producing strains. Trevino et al. [ll] also showed that fingerprinting analyses by automated
+
+repetitive extragenic palindromic-polymerase chain reaction (rep-PCR) (DiversiLab system)
+
+showed higher discriminatory power than MALDI-TOF MS for clonal strain typing. With this
+
+last method, distinct mass spectra were obtained only within a mass range of 2,000 to
+
+20,000 Da using whole cell MALDI-TOF MS [34], and the mass range of the CfxA beta-
+
+lactamase was estimated to 35,275 Da and CfiA to be 27,260 Da. By MALDI-TOF MS, only
+
+degradation products of the beta-lactam cefotaxime might have been detected, but no
+
+difference in profiles was observed when Capnocytophaga strains were cultured with and
+
+without antibiotic. Moreover, the expression of CfxA enzyme has been described as variable
+
+with different MICs reported. Wybo et al. [2] suggested that the cfiA gene was not always
+
+activated, and Soki et al. [35] hypothesized that the cfiA gene was activated by its own
+
+promotor. The differentiation of cfiA-negative and cfiA-positive Bacteroides fragilis [2] was
+
+probably due to a selection bias in identifying strains, because the cfiA gene, encoding the
+
+unique carbapenemase found in Bacteroides, was restricted to division II Bacteroides fragilis
+
+strains [36].
+
+
+
+5. Conclusion
+
+In conclusion, MALDI-TOF MS can be used for rapid and low cost oral human
+
+Capnocytophaga genus identification. But the limits of this technique was the absence of
+
+some species (C. leadbetteri, C. AHN) in the Biotyper-Bruker database used in this study,
+
+and its inability to completely discriminate between C. gingivalis and C. granulosa. This
+
+method	was	not	also	suitable	for	quickly	detecting	beta-lactamase	producing
+
+Capnocytophaga strains.
+
+
+
+Acknowledgements
+
+We thank Philippe Gautier for his help with sequence analysis, Nolwenn Oliviero for
+
+technical assistance, Adina Pascu for help in formatting the manuscript, and San Francisco
+
+Edit for help in translating the manuscript.
+
+Compliance with ethical standards: no funding to declare; the authors declare no conflict of
+
+interests; ethical approval: not applicable; Informed consent: not necessary.
+
+
+
+References
+
+[l]	J.D. Beck, P. Eke, G. Heiss, P. Madianos, D. Couper, D. Lin, et al., Periodontal disease
+and coronary heart disease: a reappraisal of the exposure, Circulation ll2 (2005) l9-24.
+[2]	I. Wybo, A. De Bel, O. Soetens, F. Echahidi, K. Vandoorslaer, M. Van Cauwenbergh, et
+al., Differentiation of cfiA-negative and cfiA-positive Bacteroides fragilis isolates by matrix-
+assisted laser desorption ionization-time of flight mass spectrometry, J. Clin. Microbiol. 49
+290	(20ll) l96l-4.
+[3]	O. Garner, A. Mochon, J. Branda, C.A. Burnham, M. Bythrow, M. Ferraro, et al., Multi-
+centre evaluation of mass spectrometric identification of anaerobic bacteria using the
+VITEK(R) MS system, Clin. Microbiol. Infect. 20 (20l4) 335-9.
+[4]	B. Rodriguez-Sanchez, L. Alcala, M. Marin, A. Ruiz, E. Alonso, E. Bouza, Evaluation of
+MALDI-TOF	MS	(Matrix-Assisted	Laser	Desorption-Ionization	Time-of-Flight	Mass
+
+
+
+
+
+
+
+
+
+
+Govorun, A MALDI TOF MS-based minisequencing method for rapid detection of TEM-type
+extended-spectrum beta-lactamases in clinical strains of Enterobacteriaceae, J. Microbiol.
+306	Methods 75 (2008) 385-9l.
+[8]	R. Schaumann, N. Knoop, G.H. Genzel, K. Losensky, C. Rosenkranz, C.S. Stingu, et al., A
+step	towards	the	discrimination	of	beta-lactamase-producing	clinical	isolates	of
+Enterobacteriaceae and Pseudomonas aeruginosa by MALDI-TOF mass spectrometry, Med.
+Sci. Monit. l8 (20l2) MT7l-7.
+[9]	A. Johansson, E. Nagy, J. Soki, ESGAI, Detection of carbapenemase activities of
+Bacteroides fragilis strains with matrix-assisted laser desorption ionization--time of flight
+mass spectrometry (MALDI-TOF MS), Anaerobe 26 (20l4) 49-52.
+
+[l0]	M. Berrazeg, S.M. Diene, M. Drissi, M. Kempf, H. Richet, L. Landraud, et al., Biotyping
+of multidrug-resistant Klebsiella pneumoniae clinical isolates from France and Algeria using
+MALDI-TOF MS, PLoS One 8 (20l3) e6l428.
+[ll]	M.  Trevino,  P.  Areses,  M.D.  Penalver,  S.  Cortizo,  F.  Pardo,  M.L.  del  Molino,  et  al.,
+Susceptibility trends of Bacteroides fragilis group and characterisation of carbapenemase-
+producing strains by automated REP-PCR and MALDI TOF, Anaerobe l8 (20l2) 37-43.
+[l2]	T.   Handal,   C.   Giraud-Morin,   D.A.   Caugant,   I.   Madinier,   I.   Olsen,   T.   Fosse,
+Chromosome- and plasmid-encoded beta-lactamases in Capnocytophaga spp, Antimicrob.
+322	Agents Chemother. 49 (2005) 3940-3.
+[l3]	A. Jolivet-Gougeon, Z. Tamanai-Shacoori, L. Desbordes, V. Gandemer, J.L. Sixou, N.
+Morvan-Graveline,	et	al.,	Prevalence	of	oropharyngeal	beta-lactamase-producing
+Capnocytophaga spp. in pediatric oncology patients over a ten-year period, BMC Infect. Dis.
+326	5 (2005) 32.
+[l4]	E.  Ehrmann,  T.  Handal,  Z.  Tamanai-Shacoori,  M.  Bonnaure-Mallet,  T.  Fosse,  High
+prevalence of beta-lactam and macrolide resistance genes in human oral Capnocytophaga
+species, J. Antimicrob. Chemother. 69 (20l4) 38l-4.
+[l5]	Z. Tamanai-Shacoori, A. Dupont, M. Auffret, V. Peton, F. Barloy-Hubler, E. Ehrmann,
+et al., Genetic determinants associated with cfxA-positive clinical Capnocytophaga isolates,
+Int J Antimicrob Agents 46 (20l5) 356-8.
+[l6]	Z.  Tamanai-Shacoori,  C.  Monfort,  N.  Oliviero,  P.  Gautier,  M.  Bonnaure-Mallet,  A.
+Jolivet-Gougeon, cfxA expression in oral clinical Capnocytophaga isolates, Anaerobe 35
+335	(20l5) 68-7l.
+[l7]	E. Ehrmann, A. Jolivet-Gougeon, M. Bonnaure-Mallet, T. Fosse, Antibiotic content of
+selective culture media for isolation of Capnocytophaga species from oral polymicrobial
+samples, Lett. Appl. Microbiol. 57 (20l3) 303-9.
+[l8]	CLSI Ml00 S26:20l6. Performance Standards for Antimicrobial Susceptibility Testing;
+26th Edition pll5. pll5.
+[l9]	EUCAST, 
+[20]	A. Jolivet-Gougeon, Z. Tamanai-Shacoori, L. Desbordes, N. Burggraeve, M. Cormier,
+M. Bonnaure-Mallet, Genetic analysis of an ambler class A extended-spectrum beta-
+lactamase from Capnocytophaga ochracea, J. Clin. Microbiol. 42 (2004) 888-90.
+[2l]	P.  Bemer,  C.  Plouzeau,  D.  Tande,  J.  Leger,  B.  Giraudeau,  A.S.  Valentin,  et  al.,
+Evaluation of l6S rRNA gene PCR sensitivity and specificity for diagnosis of prosthetic joint
+infection: a prospective multicenter cross-sectional study, J. Clin. Microbiol. 52 (20l4) 3583-
+348	9.
+[22]	A.A. Alatoom, S.A. Cunningham, S.M. Ihde, J. Mandrekar, R. Patel, Comparison of
+direct colony method versus extraction method for identification of gram-positive cocci by
+use of Bruker Biotyper matrix-assisted laser desorption ionization-time of flight mass
+spectrometry, J. Clin. Microbiol. 49 (20ll) 2868-73.
+[23]	E. Kim, Y. Cho, Y. Lee, S.K. Han, C.G. Kim, D.W. Choo, et al., A proteomic approach for
+rapid identification of Weissella species isolated from Korean fermented foods on MALDI-
+TOF MS supplemented with an in-house database, Int. J. Food Microbiol. 243 (20l7) 9-l5.
+[24]	A. Jung, M. Metzner, M. Ryll, Comparison of pathogenic and non-pathogenic
+Enterococcus cecorum strains from different animal species, BMC Microbiol. l7 (20l7) 33.
+[25]	G. Conrads, R. Mutters, I. Seyfarth, K. Pelz, DNA-probes for the differentiation of
+Capnocytophaga species, Mol. Cell. Probes ll (l997) 323-8.
+
+[26]	E. Nagy, T. Maier, E. Urban, G. Terhes, M. Kostrzewa, E.S.G.o.A.R.i.A. Bacteria, Species
+identification of clinical isolates of Bacteroides by matrix-assisted laser-desorption/ionization
+time-of-flight mass spectrometry, Clin. Microbiol. Infect. l5 (2009) 796-802.
+[27]	I. Wybo, O. Soetens, A. De Bel, F. Echahidi, E. Vancutsem, K. Vandoorslaer, et al.,
+Species identification of clinical Prevotella isolates by matrix-assisted laser desorption
+ionization-time of flight mass spectrometry, J. Clin. Microbiol. 50 (20l2) l4l5-8.
+[28]	A. Magnette, T.D. Huang, F. Renzi, P. Bogaerts, G.R. Cornelis, Y. Glupczynski,
+Improvement of identification of Capnocytophaga canimorsus by matrix-assisted laser
+desorption ionization-time of flight mass spectrometry using enriched database, Diagn.
+Microbiol. Infect. Dis. 84 (20l6) l2-5.
+[29]	E.V. Frandsen, W.G. Wade, Differentiation of human Capnocytophaga species by
+multilocus enzyme electrophoretic analysis and serotyping of immunoglobulin Al proteases,
+Microbiology l42 ( Pt 2) (l996) 44l-8.
+[30]	C.R. Bethel, M. Taracila, T. Shyr, J.M. Thomson, A.M. Distler, K.M. Hujer, et al.,
+Exploring the inhibition of CTX-M-9 by beta-lactamase inhibitors and carbapenems,
+Antimicrob. Agents Chemother. 55 (20ll) 3465-75.
+[3l]	J.E.   Hugonnet,   J.S.   Blanchard,   Irreversible   inhibition   of   the   Mycobacterium
+tuberculosis beta-lactamase by clavulanate, Biochemistry 46 (2007) ll998-2004.
+[32]	A. Jolivet-Gougeon, A. Buffet, C. Dupuy, J.L. Sixou, M. Bonnaure-Mallet, S. David, et
+al., In vitro susceptibilities of Capnocytophaga isolates to beta-lactam antibiotics and beta-
+lactamase inhibitors, Antimicrob. Agents Chemother. 44 (2000) 3l86-8.
+[33]	V.S. Fenyvesi, E. Urban, N. Bartha, M. Abrok, M. Kostrzewa, E. Nagy, et al., Use of
+MALDI-TOF/MS for routine detection of cfiA gene-positive Bacteroides fragilis strains, Int. J.
+Antimicrob. Agents 44 (20l4) 474-5.
+[34]	S.Y. Hsieh, C.L. Tseng, Y.S. Lee, A.J. Kuo, C.F. Sun, Y.H. Lin, et al., Highly efficient
+classification and identification of human pathogenic bacteria by MALDI-TOF MS, Mol. Cell.
+386	Proteomics 7 (2008) 448-56.
+[35]	J. Soki, R. Edwards, M. Hedberg, H. Fang, E. Nagy, C.E. Nord, et al., Examination of
+cfiA-mediated carbapenem resistance in Bacteroides fragilis strains from a European
+antibiotic susceptibility survey, Int. J. Antimicrob. Agents 28 (2006) 497-502.
+[36]	E. Nagy, S. Becker, J. Soki, E. Urban, M. Kostrzewa, Differentiation of division I (cfiA-
+negative) and division II (cfiA-positive) Bacteroides fragilis strains by matrix-assisted laser
+desorption/ionization time-of-flight mass spectrometry, J. Med. Microbiol. 60 (20ll) l584-
+393	90.
+394
+
+395
+
+396	FIGURE LEGEND
+
+397
+
+Figure 1 Score-oriented dendrogram of matrix-assisted laser desorption ionization time-of-
+
+flight mass spectrometry profiles generated by the default setting in MALDI Biotyper
+
+software version 2.0. for 53 Capnocytophaga strains cultured on blood agar for 48 h under
+
+anaerobic conditions. Reference strains were C. sputigena ATCC 33595 (strain 40), C.
+
+sputigena  ATCC  336l2  (strain 4l),  C.  ochracea  ATCC  27872  (strain  42), C.  gingivalis  ATCC
+
+33624  (strain  43),  and  C.  granulosa  ATCC  5l502  (strain  44).  The  misidentified  (compared
+
+with the l6S rRNA gene sequencing identification technique) species were: C. granulosa/C.
+
+gingivalis (n=l), C. spp./C. leadbetteri (n=6), C. sputigena/C. AHN (n=4), and C. sputigena/C
+
+sp. (n=l). Two distinct clades appeared on dendrogram using MALDI-TOF corresponding to:
+
+clade at the top: clade for C. gingivalis/granulosa, and clade down: clade for other
+
+Capnocytophaga spp.
+
+
+
+
+
+
+
+Table 1 The number of isolates identified at the indicated level by matrix-assisted laser
+
+desorption ionization-time of flight mass spectrometry (MALDI-TOF MS) compared with l6S
+
+rRNA gene sequencing results for 53 Capnocytophaga strains.
+
+
+
+
+Identification by 16S rRNA gene sequencing
+
+No. of isolates identified at the indicated level by MALDI-TOF MS using the Bruker Reference Library 3.2.0 database
+
+
+ 	ACCEPTED MANUSCRIPT	
+
+
+
+
+
+
+Maldi-Tof MS identification
+
+16SrRNA sequencing identification (strain number)
+
+
+
+
+C. gingivalis {43)
+
+C. leadbetteri {53) C. leadbetteri {9) C. leadbetteri {32) C. leadbetteri {12) C. leadbetteri {11)
+AHN9607/AHN9576/AHN9798/AHN8471/ChDC {17)
+
+
+C. leadbetteri {36)
+
+AHN9576/AHN9798/AHN8471/ChDc {7) AHN9607/AHN9576/AHN9798/AHN8471/ChDCOS43 {30)
+
+Capnocytophaga geno sp. 99% {6)
+
+
+
+
+
+
+
+
+C. AHN9576/AHN9798/AHN8471/ChDc {13)

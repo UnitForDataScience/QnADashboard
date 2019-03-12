@@ -1,0 +1,609 @@
+
+
+
+
+
+See discussions, stats, and author profiles for this publication at: 
+
+
+Article in Beneficial Microbes * January 2017
+DOI: 10.3920/BM2016.0027
+
+
+CITATIONS
+0
+
+READS
+22
+
+
+10 authors, including:
+
+
+
+6 PUBLICATIONS 6 CITATIONS   
+
+
+
+15 PUBLICATIONS 23 CITATIONS   
+
+
+
+
+
+
+
+
+17 PUBLICATIONS 28 CITATIONS   
+
+
+
+2 PUBLICATIONS 0 CITATIONS   
+
+
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+Effects of fiber diet and gut microbiota in host inflammation 
+
+
+Evaluation of mucositis induced by irinotecan 
+
+Author's copy
+provided for non-commercial and educational use only
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No material published in Beneficial Microbes may be reproduced without first obtaining written permission from the publisher.
+The author may send or transmit individual copies of this PDF of the article, to colleagues upon their specific request provided no fee is charged, and further- provided that there is no systematic distribution of the manuscript, e.g. posting on a listserve, website or automated delivery. However posting the article on a secure network, not accessible to the public, is permitted.
+For other purposes, e.g. publication on his/her own website, the author must use an author-created version of his/her article, provided acknowledgement is given to the original source of publication and a link is inserted to the published article on the Beneficial Microbes website by referring to the DOI of the article.
+
+
+For additional information please visit .
+
+Editor-in-chief
+Koen Venema, Beneficial Microbes Consultancy, Wageningen, the Netherlands
+Section editors
+animal nutrition	Isaac Cann, University of Illinois at Urbana-Champaign, USA
+processing and application	Knut Heller, Max-Rubner-Institute, Germany
+medical and health applications	Ger Rijkers, Roosevelt Academy, the Netherlands
+regulatory  and safety aspects	Mary Ellen Sanders, Dairy and Food Culture Technologies, USA
+food, nutrition and health	Koen Venema, Beneficial Microbes Consultancy, Wageningen, the
+Netherlands
+
+Editors
+Alojz Bomba, Pavol Jozef Safarik University, Slovakia; Yuliya Borre, Utrecht University, the Netherlands; Robert- Jan Brummer, Orebro University, Sweden; Michael Chikindas, Rutgers University, USA; James Dekker, Fonterra Co-operative Group, New Zealand; Leon Dicks, University of Stellenbosch, South Africa; Ana Paula do Carmo, Universidade Federal de Vicosa, Brazil; Margareth Dohnalek, PepsiCo, USA; George C. Fahey, Jr., University of Illinois, USA; Benedicte Flambard, Chr. Hansen, Denmark; Melanie Gareau, University of California San Diego, USA; H. Rex Gaskins, University of Illinois at Urbana-Champaign, USA; Audrey Gueniche, L'Oreal, France; Dirk Haller, Technical University Munchen, Germany; Arland Hotchkiss, USDA-ARS, ERRC, USA; Sin-Hyeog Im, Pohang University of Science and Technology, Republic of Korea; David Keller, Ganeden Biotech, USA; Dietrich Knorr, Technical University Berlin, Germany; Lee Yuan Kun, National University of Singapore, Singapore; Irene Lenoir- Wijnkoop, Danone research, France; Baltasar Mayo, CSIC, Spain; Eveliina Myllyluoma, Valio Ltd., Finland; Peter Olesen, ActiFoods ApS, Denmark; Maria Rescigno, European Institute of Oncology, Italy; Ryuichiro Tanaka, Yakult Central Institute, Japan; David Topping, CSIRO Human Nutrition, Australia; Roel Vonk, University of Groningen, the Netherlands; Barbara Williams, University of Queensland, Australia; Zhongtang Yu, The Ohio State University, USA
+Founding editors:
+Daniel Barug, Bastiaanse Communication, the Netherlands; Helena Bastiaanse, Bastiaanse Communication, the Netherlands
+Publication information
+Beneficial Microbes: ISSN 1876-2883 (paper edition); ISSN 1876-2891 (online edition)
+
+Subscription to 'Beneficial Microbes' (4 issues, calendar year) is either on an institutional (campus) basis or a personal basis. Subscriptions can be online only, printed copy,  or both. Prices are available upon request from the Publisher or   from the journal's website (www.BeneficialMicrobes.org). Subscriptions are accepted on a prepaid basis only and are entered on a calendar year basis. Subscriptions will be renewed automatically unless a notification of cancelation has    been received before the 1st of December. Issues are send by standard mail. Claims for missing issues should be made within six months of the date of dispatch.
+Further information about the journal is available through the website .
+Paper submission
+
+Editorial office
+Wageningen Academic Publishers
+P.O. Box 220
+
+The  Netherlands Tel: +31 317 476516
+Fax: +31 317 453417
+
+For questions related to paper submission: 
+For questions related to orders, claims and back volumes: 
+
+
+Beneficial Microbes, 2017; 8(2): 217-230
+
+
+Wageningen Academic P u b l i s h e r s
+
+
+
+
+
+Evaluation of colonisation resistance in stool of human donors using ex vivo, in vitro
+and in vivo assays
+
+M.F. Galvao1, R.W. Bastos1, L.B. Acurcio1, B.B. Nascimento2, S.H.C. Sandes3, R.M.E. Arantes2, M.R. Souza4,
+F.S. Martins1, L.Q. Vieira5 and J.R. Nicoli1*
+1Departamento de Microbiologia, Universidade Federal de Minas Gerais, Avenida Antonio Carlos 6627, C.P. 486, Belo Horizonte, MG 31270-901, Brazil; 2Departamento de Patologia Geral, Universidade Federal de Minas Gerais, Avenida Antonio Carlos 6627, C.P. 486, Belo Horizonte, MG 31270-901, Brazil; 3Departamento de Biologia Geral, Universidade Federal de Minas Gerais, Avenida Antonio Carlos 6627, Belo Horizonte, MG 31270-901, Brazil; 4Escola de Veterinaria, Inspecao e Tecnologia de Produtos de Origem Animal, Universidade Federal de Minas Gerais, Avenida Antonio Carlos 6627, Belo Horizonte, MG 30123-970, Brazil; 5Departamento de Imunologia-Bioquimica, Universidade Federal de Minas Gerais, Avenida Antonio Carlos 6627, Belo Horizonte, MG 30123-970, Brazil; 
+Received: 9 March 2016 / Accepted: 18 October 2016
+(c) 2017 Wageningen Academic Publishers
+
+
+
+Abstract
+
+RESEARCH ARTICLE
+
+
+The indigenous microbiota is the population of microorganisms normally present on the surface and mucosa of an individual, where it performs essential health functions, including the colonisation resistance (CR) against pathogens. To identify the bacteria responsible and the mechanisms involved in the CR, the germ-free (GF) animal model has been used, because in vitro studies cannot always be extrapolated to what occurs in vivo. In this study, ex vivo antagonism assays against seven enteropathogenic bacteria using stools from 15 healthy human donors confirmed that the CR showed individual variation. Using in vitro antagonism assays, 14 strains isolated from dominant faecal microbiota of donors with elevated CR were selected for mono-association in GF mice to test the in vivo antagonism against Salmonella enterica ser. Typhimurium. Mice mono-associated with Enterococcus hirae strain 8.2, Bacteroides thetaiotaomicron strain 16.2 and Lactobacillus ruminis strain 18.1 had significant reductions in faecal counts of the pathogen during the challenge. After five days of infection, the group associated with E. hirae 8.2 showed a reduction in the translocation of S. Typhimurium to the spleen, while the group associated with L. ruminis 18.1 presented an increased translocation to the liver. The histological data confirmed these results and revealed that the mice associated with E. hirae 8.2 showed fewer lesions on ileum and liver, compared to the damage caused by S. Typhimurium alone, while in mice associated with L. ruminis 18.1 there was significantly worse lesions. Concluding, from the dominant faecal microbiota from healthy human with high CR, through ex vivo, in vitro and in vivo assays, a bacterium was characterised for its high CR potential, being a candidate for probiotic use.
+Keywords: colonisation resistance, microbiota, antagonism, inhibitory diffusible compounds, germ-free mice
+
+
+
+Introduction
+
+The indigenous intestinal microbiota is responsible for important host health functions, such as colonisation resistance ( CR), nutritional contribution, and immunomodulation. For this reason, fast and appropriate colonisation after birth is crucial for the establishment of a microbial ecosystem with these powerful functions, since this community, by its size and metabolic activity, can be
+
+
+considered as a separate 'organ' essential to its host. At the genus level, the dominant and subdominant microbiota remain relatively stable over time and from one individual to another. However, at species and strain level, considerable variations may occur. These variations reflect the fact that microbiota functions are not equal between individuals, and this is particularly noted for CR, a key function for protection and good health of the host's intestinal tract (Lawley and Walker, 2013; Stecher and Hardt, 2011).
+
+
+ISSN 1876-2883 print, ISSN 1876-2891 online, DOI 10.3920/BM2016.0027	217
+
+M.F. Galvao et al.
+
+
+CR is the ability of the indigenous microbiota associated with man and animals to protect these hosts against the unwanted establishment of pathogens (Buffie and Pamer, 2013). The production of antimicrobial compounds by components of the indigenous microbiota is probably one of the most important mechanisms responsible for this antagonistic phenomenon. Although the presence of these antimicrobial metabolites has been demonstrated in vitro, it is unclear whether they are produced in a similar way or have any activity in vivo (Huang et al., 2015; Servin, 2004). It is known that the antagonism seen in vitro between bacteriocinogenic and sensitive strains is not always expressed in vivo in the digestive tract of gnotobiotic mice. Moreover, for some data obtained in the gastrointestinal ecosystem of gnotobiotic animals, a sensitive strain exerted a barrier effect against a strain that produced a bacteriocin (Duval-Iflah et al., 1981). On the other hand, Ramare et al. (1993) demonstrated the presence of an antibacterial substance in the faeces of gnotobiotic rats mono-associated with a human Peptostreptococcus sp. This compound appeared to be produced through the concerted action of host's trypsin and a substance produced only in vivo by the Peptostreptococcus sp. This last example shows the active participation of the host in a bacterial interaction occurring in the digestive ecosystem and demonstrates the importance of the in vivo model, such as the gnotobiotic one, to study these inter-relationships.
+In the present study, ex vivo, in vitro and in vivo (using gnotobiotic mice) assays were used to evaluate the CR from human healthy volunteers' stool as well as the identity of the bacteria species responsible for this phenomenon.
+Methods
+Experimental design
+
+The sequence of experimental steps used in this study was presented in Figure 1.
+Human volunteers
+
+Stool samples were obtained from 15 healthy human volunteers of both sex (5 male and 10 female), in an age range from 5 to 80 years (3 in the range from 5 to 20 years,
+10 from 21 to 50 years and 2 from 51 to 80 years), who have not used antimicrobial agents, other drugs and/or probiotics for at least one month prior to collection. Stools were collected into a sterile flask and taken within 1 h after collection to the laboratory. Each volunteer filled out a form containing some demographic information (address, contacts, sex, age, occupation, diet) and signed an Informed Consent Form.
+
+
+
+
+Stool samples from 15 human volunteers
+|
+Ex vivo antagonism
+|
+Selection of stool with high colonisation resistance (at least five positive antagonisms)
+|
+Isolation of dominant stool microbiota
+|
+In vitro antagonism
+|
+Selection of bacteria with high antagonism (at least five positive antagonisms)
+|
+Identification by 16S rDNA sequencing
+|
+In vivo and ex vivo antagonisms (monoassociated mice)
+|
+Selection of bacteria showing ex vivo antagonism and reducing Salmonella Typhimurium levels
+|
+Use of selected bacteria to protect mice against oral challenge with S. Typhimurium
+(spleen and liver translocation, histopathological examination, morphometric determination)
+
+Figure 1. Experimental steps used in the study.
+
+
+Animals
+
+Germ-free (GF) 6-8 weeks-old Swiss/NIH mice of both sexes (Taconic, Germantown, NY, USA) were used for experiments. GF mice were housed in flexible plastic isolators (Standard Safety Equipment Company, McHenry, IL, USA) and handled according to previously established procedures (Pleasants, 1974). Experiments with gnotobiotic mice were carried out in micro-isolators (Uno Roestvaststaal, Zevenaar, the Netherlands). Water and commercial autoclavable diet (Nuvital, Curitiba, Brazil) were steam sterilised and administered ad libitum. Animals were maintained in a ventilated animal caging system (Alesco Ltda., Campinas, Brazil) with controlled lighting (12 h light, 12 h dark), humidity (60-80%) and temperature (23+-1 degC). All experimental procedures were carried out according to the standards set forth by the Brazilian Society of Laboratory Animal Science/Brazilian College for Animal Experimentation (COBEA, 2006). The study was approved by the Ethics Committee in Animal Experimentation of  the Federal University of Minas Gerais (CEUA/UFMG, protocol no. 118/2014).
+
+Colonisation resistance in human stools
+
+
+
+Indicator bacteria
+
+For antagonistic assays, the following enteropathogenic bacteria were used as indicators: Shigella flexneri and Vibrio cholerae, isolated from a human being at the Fundacao Ezequiel Dias (FUNED; Belo Horizonte, MG, Brazil), Clostridium difficile ATCC 9689, Clostridium perfringens type A ATCC 13124, Escherichia coli (EPEC) CDC O126, Listeria monocytogenes ATCC 15313, and Salmonella enterica serovar Typhimurium ATCC 14028. The facultative anaerobic bacteria were stored at -20 degC in brain heart infusion broth (BHI; Acumedia, Lasing, MI, USA) supplemented with 20% of sterile glycerol. For the experiments, bacteria were activated in BHI broth at 37 degC for 18 h. The obligate anaerobic bacteria were stored at -80 degC in BHI-S broth (BHI supplemented with 0.5% yeast extract, 10 ug/ml hemin and 1 ug/ml menadione) supplemented with 20% of sterile glycerol. The activation of these strains was in BHI-S broth at 37 degC for 24-48 h in an anaerobic chamber containing an atmosphere of 85% N2, 10% H2 and 5% CO2 (Forma Scientific Company, Marietta, OH, USA).
+Ex vivo and in vitro antagonistic assay
+
+The antagonistic assay was performed by the double agar layer diffusion method. For the ex vivo assay, an aliquot of freshly collected stools from human donors (standardised at 0.5 g) or from mice (10 mg) was included into a Petri dish containing De Man, Rogosa and Sharp agar (MRS; Difco, Detroit, MI, USA), just before agar solidification, and incubated at 4 degC for 48 h. For the in vitro assay, 5 ul from bacterial cultures containing 108 colony forming units (cfu)/ ml were spotted onto MRS agar's surface in a Petri dish and incubated at 37 degC for 24-48 h. After incubation, cells were killed by exposure to chloroform for 30 min and the residual chloroform was allowed to evaporate for other 30 min. The plates were overlaid with 3.5 ml of BHI or BHI-S soft agar (Acumedia) (0.75%) which had been inoculated with 106 cfu/ml of the indicator bacteria and incubated at 37 degC for 24-48 h. The plates were then checked for the presence or absence of an inhibitory halo around the faeces or spot.
+Isolation of bacteria from stools of human donors
+
+The dominant faecal microbiota cultivable on blood agar from donors with high CR was obtained by decimal dilution in an anaerobic chamber (Forma Scientific). Faecal samples diluted from 10-7 to 10-9 were spread onto blood agar supplemented with 0.5% yeast extract, 10 ug/ml hemin and 1 ug/ml menadione. After incubation at 37 degC for 7 days, colonies with different morphologies were isolated and submitted to microscopic examination, growth atmosphere determination and catalase test.
+
+
+In vivo antagonistic assay
+
+For this step, only bacterial isolates showing in vitro antagonism against at least five indicator bacteria were tested. Experiments were performed using groups of two to three GF mice for each bacterial isolate. Each group of animals received, by gavage, a single dose of 0.1 ml containing 109 cfu/ml of the bacteria. The success of mono- association was evaluated by determining the population levels of the bacteria in the faeces of mono-associated mice after 5 and 7 days after gavage, by spread-plating aliquots of serial decimal faecal dilutions onto BHI-S agar (Acumedia) and incubating at 37 degC under anaerobic conditions. After seven days of association, gnotobiotic groups of animals received intragastrically 0.1 ml of a suspension containing 104 cfu of S. Typhimurium ATCC 14028 (adapted from Martins et al., 2010). Immediately after this challenge and on days 1, 3, 5, 7, 9 and 10, faeces were collected by anal stimulation, weighed, and suspended in 0.9% saline solution in order to get the 10-1 dilution, then they were homogenised. Serial 10-fold dilutions were made and 0.1 ml was plated onto MacConkey agar (Acumedia) and MRS agar (Difco) with gentamicin (32 ug/ml) for Salmonella and mono-associated bacteria counts, respectively. The plates were incubated at 37 degC for two days under aerobic or anaerobic conditions. The results were expressed as log10 of the mean number of cfu/g of faeces. In addition, before and after mono-association with the bacterial isolates, faecal samples were collected for an ex vivo antagonism assay against S. Typhimurium, as described above. At the end of the experiments, the animals were sacrificed by cervical dislocation.
+Experimental infection
+
+Only the bacterial isolates which were able to significantly reduce S. Typhimurium population levels in faecal samples of mono-associated mice were used for histological examination and translocation  determination.  Groups of five GF mice were mono-associated by intragastric administration of 108 cfu of the selected bacteria, seven days before the experimental infection. For challenge, mice (control and experimental groups) were inoculated intragastrically with an inoculum of 0.1 ml containing 104 cfu of S. Typhimurium. After five days of challenge, the animals were sacrificed by cervical dislocation.
+Determination of Salmonella Typhimurium translocation
+
+Spleen and liver samples were weighed, homogenised in sterile PBS (1:10, w/v) and submitted to decimal dilutions in sterile peptone saline. Aliquots of 0.1 ml of selected dilutions were plated onto MacConkey agar (Acumedia) and incubated for 24 h at 37 degC under aerobic conditions for enumeration of S. Typhimurium. The results were expressed as the log10 mean of cfu per gram of organ.
+
+M.F. Galvao et al.
+
+
+
+Histopathological examination
+
+The organs (liver and ileum) were removed after opening of the abdominal cavity and washed in PBS. The liver was fixed by immersion in formaldehyde 4% solution for 24 h. Once transected, the ileums were processed for histologic analysis as described by Arantes and Nogueira (1997). Briefly, after opening the anti-mesenteric border and removing carefully the intestinal content, the tissues were prefixed in Bouin's solution containing 2% glacial acetic acid for 10 min. After prefixed, ileums were rolled into a spiral with the mucosa facing inward, so as to form rolls, the distal portion towards the proximal. The rolls were fixed in formalin solution (10%). The liver samples and rolls were processed routinely for paraffin embedding and submitted to microtome to obtain histological slides of 4 um thick. Histological sections were stained with haematoxylin and eosin for routine histological interpretation. The slides were assessed by a pathologist blinded to the experimental condition of each group, under an Olympus BX51 microscope (Olympus, Tokyo, Japan), and images were obtained with a CoolSnap-Procf camera (Megacybernetics, Bethesda, MD, USA) by the image acquisition software Image Pro-Express (Megacybernetics).
+The morphometry of the liver (measured in the total area of the liver section) was performed using the KS 300 Software built in a Kontron/Carl Zeiss image analyser (Oberkochen, Germany). In the ileum, the total ileum wall and Peyer's patch perimeters was determined with the ImageJ Software (version 1.47f; National Institutes of Health, Bethesda, MD, USA).
+An ileum damage score was graded (ranging from 0 to 4) as described below, and indicated in graph as the average and standard deviation of 5 animals. Grade 0: ileum was normal. Grade 1 was characterised by very mild mucosal damage of morphologically normal lining epithelium without leukocytic infiltrates. Grade 2: only a few focal leukocytic infiltrates, consisting predominantly of mononuclear cells in the lamina propria mucosa, were detected. Presence of oedema of lamina propria areas. Peyer's patches presented usual aspects. Grade 3: most of the ileum extension was preserved, and in small areas of the ileum a discrete increase of cellularity was observed, but with morphologically normal lining epithelium. Focal mixed leukocytic infiltrates were present in areas of lamina propria. Edema, including oedema presence at the top of the villi was visible and more intense than in Grade
+At least half of the extension of the organ architecture was affected. Grade 4: most of the organ architecture was affected with villi fusion and presence of nodular infiltrate foci of mono and polymorphonuclear cells. Leukocytic infiltrates, predominantly neutrophils, appeared multifocal to diffuse in the lamina propria mucosae and tunica sub- mucosa; sometimes inflammation was transmural. Erosions and ulcers of the epithelium were present.
+
+
+Molecular identification of isolates
+
+The isolates selected for the in vivo antagonism test were identified by molecular techniques. The bacteria were centrifuged at 3,000xg for 10 min, washed with 1 ml of deionised water, suspended in 1 ml of 5 M LiCl and kept under stirring for 1 h. Next, another centrifugation was performed, the precipitate was washed with 1 ml of deionised water and suspended in protoplasmic buffer (50 mM Tris-HCl pH 8.0, 10 mM EDTA and 25 mM sucrose) supplemented with lysozyme (10 mg/ml) and maintained at 37 degC for 1 h. The sample was again centrifuged and genomic DNA was obtained using the Wizard SV Genomic DNA Purification System kit (Promega Corporation, Madison, WI, USA) according to the manufacturer's recommendations.
+The identification method was based on the similarity analysis of 16S ribosomal DNA sequences. The sample region was amplified using 10 pmol of the primers 27F (5 'AGA GTT TGA TCC TGG CTC AG 3') and 1492R
+(5 'GGT TAC CTT GTT ACG ACT T 3') described by Lane (1991), PCR Master Mix (Promega Corporation) with 0.2 mM of each deoxyribonucleotide  triphosphate,
+1.5 mM MgCl2, 1.5 units (U) of Taq DNA polymerase and 10 ng of DNA. The amplicons were purified using the Wizard(r) SV Gel kit and PCR Clean-Up System (Promega Corporation) and sequenced using the BigDye Terminator v3.1 Cycle Sequencing kit (Life Technologies, Carlsbad, CA, USA) for the automatic sequencing system ABI3130  (Life
+Technologies). Obtained sequences were compared with those belonging to type strains deposited at the GenBank and RDP (Ribosomal Database project II:  ).
+Statistical analysis
+
+Statistical analysis and graphics were performed using the GraphPad Prism version 5.00 for Windows (GraphPad Software, La Jolla, CA, USA) and a 5% significance level. The tests applied were paired Student-t test for in vivo antagonism and one-way ANOVA test, with Tukey post- test for analysis of translocation to the spleen and liver and for morphometric analysis.
+Results
+Ex vivo antagonistic assay
+
+A representative assay demonstrating an ex vivo antagonism around the stool sample from a healthy human donor against one of the pathogenic indicator strains is shown in Figure 2. As expected, the data obtained in these assays showed a great variability in the CR capacity of the stool samples, with some of them presenting inhibition against all the enteropathogenic indicators (stools from donors 8, 15,
+
+Colonisation resistance in human stools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Result of one representative ex vivo assay. Agar double layer diffusion assay using De Man, Rogosa and Sharp agar for faecal sample and semi-solid brain heart infusion broth containing 106 cfu of indicator bacteria/ml (Salmonella enterica ser. Typhimurium).
+
+
+16 and 22), while this antagonism was observed against only one of the indicators for other donors (stools from donors 7, 10 and 21). According to Table 1, 27% of the stool samples showed antagonistic activity against all the seven indicators,
+
+
+20% against six, 13% against five and four, 7% against two and 20% against only one. Table 1 also shows that in terms of sensitivity of each indicator bacteria, L. monocytogenes and enteropathogenic E. coli were inhibited by 80% of the stool samples, S. Typhimurium and S. flexneri by 73%, V. cholerae by 67%, C. perfringens by 47% and C. difficile by 40%. For the following steps of in vitro tests, nine donors (four men and five women) were selected because of their stool sample's antagonism against at least five indicator bacteria: 3, 8, 9, 15, 16, 17, 18, 19 and 22 (Table 1).
+In vitro antagonistic assay
+
+From the stools of the nine volunteers selected above,  a total of 51 bacteria were isolated from the dominant microbiota cultivable on blood agar to be submitted to in vitro antagonistic assays. However, 23 of them were extremely sensitive to oxygen and/or were not adapted to MRS agar growth and, for this reason; it was not possible to perform the antagonism assay by the diffusion method in double layer, even in the anaerobic chamber. Table 2 shows the results of the in vitro antagonism against the seven indicator pathogens detected in the remaining 28 bacterial isolates (from seven donors, being 18 Gram- positive and 10 Gram-negative). Among the 14 isolates which showed high antagonistic activity in vitro (against at least five pathogens), 10 were Gram-positive bacteria (71%) and only four were Gram-negative (29%). Table 2 also
+
+
+
+Table 1. Ex vivo antagonism against enteropathogenic bacterial indicators as inhibitory activity (presence or absence of halos) from stool samples of 15 healthy human donors.1,2
+
+
+
+M.F. Galvao et al.
+
+
+Table 2. In vitro antagonism against enteropathogenic bacterial indicators as inhibitory zone around 28 bacteria isolated from stool samples from healthy human donors.1,2
+
+
+
+
+
+shows, regarding sensitivity of indicator bacteria, S. flexneri and S. Typhimurium were inhibited by 89% of the isolates, enteropathogenic E. coli by 82%, L. monocytogenes and V. cholerae by 46%, C. difficile by 50% and C. perfringens by 32% of the isolates.
+The isolates 8.2, 15.6, 16.1, 18.1 and 18.4 had the highest inhibitory spectrum, acting against 100% of the pathogens, while the isolates 8.3 and 19.1 did not inhibit any pathogen. It may also be noted that a same stool donor can have more than one bacterium in his/her faecal microbiota with the same pathogenic target (for example, for donor 18, all her four bacteria 18.1, 18.3, 18.4 and 18.5 inhibited the
+
+growth of S. flexneri and S. Typhimurium). Finally, in the case of volunteer 22, the antagonist capacity against all the indicator bacteria observed in the ex vivo assay could be explained by the complementary action of his faecal isolates (for example, 22.7 and 22.8 or 22.4 and 22.1 together covered the entire spectrum of indicator pathogens).
+In vivo antagonistic assay
+
+From the in vitro antagonism assays, 14 bacteria were selected because they showed inhibition against at least five indicator bacteria (Table 3). The 16S rDNA sequencing of these isolates revealed the presence of one Enterococcus
+
+Colonisation resistance in human stools
+
+
+Table 3. Identification by rDNA 16S sequencing of bacteria isolated from stool samples from healthy human donors and ex vivo
+assay against Salmonella Typhimurium after their mono-association with germ-free mice.
+
+
+
+
+
+
+species, two Lactobacillus species, three Bifidobacterium species, four Bacteroides species and four bacteria were not determined. Each of these isolates was mono-associated with a group of GF mice, and the results of the ex vivo antagonism assay against S. Typhimurium using the faeces of the gnotobiotic mice are also shown in Table 3. As expected, no antagonist effect was observed from the faeces of GF mice, and after mono-association, ex vivo antagonist activity from only seven gnotobiotic groups (8.2, 16.1, 16.2,
+16.3, 16.5, 22.1 and 22.7) was detected. Interestingly, donors 8, 16 and 22 correspond to three among the four volunteers who showed 100% of ex vivo antagonism around their stool against the enteropathogenic indicators (Table 1). However, all 14 isolates presented in vitro antagonistic activity against S. Typhimurium (Table 2), reinforcing the limitation of the results obtained with in vitro assays and the importance of a gnotobiotic animal model to confirm in vivo an antagonistic effect observed in vitro.
+Figure 3 shows the faecal population levels of S. Typhi- murium in GF mice previously mono-associated or not (control) during seven days with three of the 14 selected bacteria - Enterococcus hirae strain 8.2, Bacteroides thetaiotaomicron strain 16.2 and Lactobacillus ruminis strain 18.1, as well as the faecal levels of the mono- associated bacterium. Among the 14 bacteria tested in these in vivo assays (Supplementary Table S1), only groups mono-associated with these three bacteria showed a significant decrease (P<0.05) of 1.0 to 2.0 log10 cfu/g in
+
+Salmonella faeces' populations throughout the challenge (Figure 3). After five days of mono-association, all three bacteria reached levels of approximately 9.0 log10 cfu/g in faeces, and in the control group, only challenged with Salmonella, the pathogen reached similar levels. It must be noted that the groups mono-associated with E. hirae
+8.2 and B. thetaiotaomicron 16.2 were positive for the ex vivo assay, while the group with L. ruminis 18.1 did not show such phenomenon (Table 3). This could be explained by the fact that the ex vivo assay is based on the diffusion of inhibitory compounds from the faeces, but other mechanisms may reduce the population levels or eliminate a bacterial pathogen, such as competition for nutrients or adhesion sites. It is important to note here that the faeces were weighted for determination of bacterial populations and there were no differences between the groups. This eliminates a possible higher faecal excretion due to watery diarrhoea in the animals only infected with Salmonella, which could influence by dilution the faecal bacterial counts. Additionally, it must be pointed out that during the 14 previous mono-associations with each of the bacterium isolates the mice were healthy, but after the pathogenic challenge, five of the mono-associations led to a surprising mortality of all the animals in the group (Supplementary Table S1).
+
+Galvao et al.
+
+
+
+ST (control)
+ST (group with E. hirae 8.2)
+E. hirae 8.2 10
+8
+*
+6
+4
+2
+0
+
+
+Determination of Salmonella Typhimurium translocation and histopathological examination and morphometric analysis
+
+The determination of translocation of S. Typhimurium to the spleen and liver and histopathological examination of ileum and liver were performed in GF mice mono- associated with E. hirae 8.2, B. thetaiotaomicron 16.2 or
+L. ruminis 18.1 strains and challenged seven days later with
+S. Typhimurium (Figure 4, 5 and 6). Mice mono-associated with E. hirae 8.2 had lower levels of S. Typhimurium when compared to other groups, but this was statistically
+
+0	2	4	6	8 10 12 14 16 18
+Time (days)
+
+significant only in the spleen (P<0.05). Inversely, the group with L. ruminis 18.1 showed higher S. Typhimurium counts
+
+
+ST (control)	A	6
+ST (group with B. thetaiotaomicron 16.2)
+B. thetaiotaomicron 16.2
+10	4	*
+8	*
+6
+2
+4
+2
+0
+0
+0	2	4	6	8 10 12 14 16 18
+Time (days)	B	6
+*
+
+ST (control)
+ST (group with L. ruminis 18.1)	4
+L. ruminis 18.1 10
+    	2
+8
+*
+6
+4	0
+2
+0
+
+0	2	4	6	8 10 12 14 16 18
+Time (days)
+
+Figure 3. Faecal counts (log10 cfu/g of faeces) of Salmonella enterica ser. Typhimurium (ST) in germ-free mice infected with ST (104 cfu/ml) or infected with ST after previous colonisation with a bacterial strain (108 cfu/ml) from stool samples of healthy human donors: (A) Enterococcus hirae strain 8.2; (B) Bacteroides thetaiotaomicron strain 16.2 and (C) Lactobacillus ruminis strain 18.1. * indicates statistical significant difference (P<0.05) by paired Student-t test (n=2-3). Vertical bars represent standard deviations of the means. Arrow: S. Typhimurium challenge.
+
+
+
+Figure 4. Translocation levels (log10 cfu/g of organ) of Salmonella enterica ser. Typhimurium (ST) to the spleen (A) and liver (B) of germ-free mice challenged with ST (104 cfu/ ml) (control), or challenged with ST and previously colonised (108 cfu/ml) with Enterococcus hirae strain 8.2, Bacteroides thetaiotaomicron strain 16.2 or Lactobacillus ruminis strain
+18.1. * indicates statistical significant difference (P<0.05) by One-way ANOVA test with Tukey post-test (n=5).
+
+Colonisation resistance in human stools
+
+K  0.05
+
+0.04
+
+0.03
+
+0.02
+
+0.01
+
+0.00
+
+L	5	*
+*
+4
+
+3
+
+2
+
+1
+
+0
+
+
+
+
+
+
+Figure 5. Histopathological aspect of ileum: ((A and B) germ-free mice; (C and D) germ-free mice challenged with Salmonella enterica ser. Typhimurium (ST); (E and F) germ-free mice mono-associated with Lactobacillus ruminis strain 18.1 and challenged with ST; (G and H) germ-free mice mono-associated with Bacteroides thetaiotaomicron strain 16.2 and challenged with ST; (I and J): germ-free mice mono-associated with Enterococcus hirae strain 8.2 and challenged with ST. Long arrows indicate lymphoid aggregate in plaques and areas of increased cellularity of the lamina propria, resulting in enlargement of the villi. Short arrows indicate oedema on the top of villi. Asterisks indicate areas of loss of epithelial layer (superficial erosion). Figure representative of five animals per group. Haematoxylin and eosin staining; A, C, E and G = 4x. B, D, F, H = 10x. Bar = 10 um. (K) Morphometric analysis of Peyer's patches and (L) ileum damage score. * indicate statistical significant differences (P<0.05) by One-way ANOVA test with Tukey post-test (n=5).
+
+
+
+than the other groups, but with a statistically significant difference only in the liver (P<0.05). Thus, while E. hirae 8.2 was able to exercise a slight protection against the pathogen translocation, L. ruminis 18.1 seems to cause a worsening of the clinical condition in challenged animals. These results could be confirmed by the histopathological examination.
+Figure 5 and 6 show lesions in the ileum and liver, respectively, attributable to the infection with S. Typhimurium similar to those described previously in the same murine model by our group (Martins et al., 2005, 2007; Silva et al., 2004). The ileum of control group only challenged with S. Typhimurium showed moderate acute ileitis characterised by increased cellularity in the lamina propria of the submucosa and in the intestinal villi, oedema at the top of the villi associated with small areas of epithelial
+
+
+coating loss, villi fusion, and presence of nodular infiltrate foci of mono and polymorphonuclear cells (Figure 5C and 5D). The Peyer's patches were increased in relation to the GF uninfected animals (Figure 5A and 5B). The liver in the infected control group presented characteristically foci of mixed cell infiltrate, diffuse and dispersed randomly in the liver parenchyma, always associated with intense hepatocyte degeneration around, as well as with necrosis of small groups of hepatocytes in the inflamed region (Figure 6C and 6D).
+The mice mono-associated with the three bacterial strains varied in terms of response, with only the group with E. hirae 8.2 showing histopathological evidence of protection in relation to damage caused by challenge with the pathogen. In this group (Figure 5I and 5J), the
+
+M.F. Galvao et al.
+
+
+K	3
+*
+
+4	*
+
+
+2
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 6. Histopathological aspect of the liver: (A and B) germ-free mice; (C and D) germ-free mice challenged with Salmonella enterica ser. Typhimurium (ST); (E and F) germ-free mice mono-associated with Lactobacillus ruminis strain 18.1 and challenged with ST; (G and H) germ-free mice mono-associated with Bacteroides thetaiotaomicron strain 16.2 and challenged with ST; (I and J): germ-free mice mono-associated with Enterococcus hirae strain 8.2 and challenged with ST. Arrows indicate foci with increased cellularity. Note that the frequency varies between the groups. Asterisks shows areas with presence of hepatocyte degenerative changes. Figure representative of five animals per group. Haematoxylin and eosin staining; A, C, E and G = 4x. B, D, F, H = 10x. Bar = 10 um. (K) Morphometric analysis of inflammatory foci. *Asterisks indicate statistical significant difference (P<0.05) by One-way ANOVA test with Tukey post-test (n=5).
+
+
+
+lesions observed in the ileum were discrete, and in some histological slides of the same tissue sample, the appearance resembled the uninfected control group (Figure 5A and 5B). There were only discrete areas of increased cellularity and the volume of Peyer's patches was less exuberant. There was no accumulation of polymorphonuclear cells and only discrete degenerative alterations and oedema presence at the top of the villi (Figure 5I and 5J). The livers of mice in this group (Figure 6I and 6J) showed a decrease in number, size, and degree of degenerative alterations when compared to the infected control group (Figure 6C and 6D).
+Mice mono-associated with L. ruminis 18.1 showed a degree and extent of intestinal injury not only with no evidence of protection, but apparently with a worsening of the lesions (Figure 5E and 5F) when compared to the infected control group (Figure 5C and 5D). In the liver (Figure 6E and 6F), the lesions were also significantly more intense than in the
+
+
+infected control (Figure 6C and 6D). In the ileum of mice mono-associated with B. thetaiotaomicron 16.2 (Figure 5G and 5H), although there was a slight protection of the epithelium surface integrity, the pattern of cellularity and the reactivity of the Peyer's patches were similar to the infected control group. There was also no evidence of protection in the liver (Figure 6G and 6H) when compared to the infected control group. Morphometric analysis of the ratio inflammatory focus area/total liver area confirmed the histological observation (Figure 6K). Morphometric analysis of the ratio Peyer's patch perimeter/total ileum wall perimeter confirmed the histological observation (Figure 5K), but the difference was not statistically significant. In addition, the ileum damage score was presented in Figure 5L and confirmed our histological qualitative analyses.
+
+Colonisation resistance in human stools
+
+
+Discussion
+
+Since the proposal of Van der Waaij, in the 1990s (Van der Waaij and Van der Waaij, 1990), to call CR the capacity of the indigenous microbiota to impede the installation in the intestinal environment of exogenous bacteria, pathogenic or not, it is known that this phenomenon varies from one individual to another and that high CR is generally found in host with rich diversity in gut microbiota (Stecher et al., 2010). The presence of more than one bacterium in the faecal microbiota of a same donor with antagonism against the same pathogenic target could confirm the concept of ecological redundancy in which the disappearance of one of the protective bacterium can be compensated by other ones with a similar action. Interestingly, three of the bacterial isolates with the highest antagonistic capacity (8.2, 15.6 and 16.1) correspond to the donors who also showed the highest inhibitory effect in ex vivo tests of their stools (8, 15 and 16). However, this observation is not confirmed in the case of volunteer 18 (which housed two bacteria with 100% of in vitro inhibition capacity, but showed only 86% of ex vivo antagonism). This could be because a positive test observed in in vitro assay is not always confirmed in ex vivo or in vivo situations. One explanation is that the production of an antagonist compound could occur in proximal regions of the intestinal tract with subsequent inactivation by proteolytic enzymes or inhibitory substances in the distal portions (Martins et al., 2010). The limitation of in vitro data extrapolation to in vivo conditions also applies to the reverse situation, as evidenced by Ramare et al. (1993). This could also explain some contradictory data observed for donor 19 who presented a positive ex vivo test against
+L. monocytogenes and V. cholerae, but not by the faecal bacteria in vitro. Alternatively, the  bacteria  responsible for the inhibitory effect against L. monocytogenes and V. cholerae observed ex vivo for the donor 19 may not have been isolated in order to be tested in the in vitro assay.
+In a study of our group (Gomes et al., 2006), Gram-positive bacteria isolated from the dominant faecal microbiota of healthy human showed a high frequency of in vitro antagonism against the enteropathogens Shigella sonnei and S. Typhimurium, but with some variation among the donors. On the other hand, regarding to Gram-negative bacteria, only three out of 143 strains tested showed antagonistic activity against these indicator bacteria. The study agrees with our results, confirming that, at least in vitro, Gram-positive components of the dominant faecal microbiota generally have a higher potential for antagonism than the Gram-negative ones.
+After mono-association with 14 bacteria, only seven groups showed ex vivo antagonistic activity against S. Typhimurium, although all isolates presented antagonistic activity in the in vitro assays. Similar results were described in a study of our group (Martins et al., 2010) in which two strains of
+
+
+Bifidobacterium animalis subsp. lactis, capable of producing in vitro diffusible inhibitory substances against most of the tested enteropathogens, inhibited only two of them, including S. Typhimurium, in ex vivo assays. This could be explained by the absence of the indicator bacterium in a mono-associated model. For reasons of energy saving, there would be no need to produce an inhibitory substance whose bacterial target would not be present in the environment. Furthermore, just groups mono- associated with E. hirae strain 8.2, B. thetaiotaomicron strain 16.2 and L. ruminis strain 18.1 showed reductions in the faecal levels of Salmonella along the challenge. This 10 to 100 fold reduction (one to two decimal log), with a concomitant more efficient immunological response could be responsible for the protective effect. In the in vivo assay of our study cited above, we also reported antagonist activity against S. Typhimurium in groups of GF mice previously mono-associated with the strains of Bifidobacterium, which showed reduction in pathogen population levels from 1.0 to 2.0 log10 CFU/g of faeces. Lievin et al. (2000) studied the inhibitory activity of 14 human strains of Bifidobacterium against S. Typhimurium and showed that only two of them expressed in vitro antagonist activity. In GF mice, these two strains colonised the intestinal tract and protected the animals against lethal infection by the pathogen. However, faecal levels of S. Typhimurium have not been determined and compared with control animals, as was done in this study.
+
+In the in vivo assay, it was also observed that groups mono- associated with the bacterial strains 15.6, 16.3, 17.5, 18.3 and 18.4 succumbed to infection before the end of the experiment (Supplementary Table S1). There is no a clear explanation for this phenomenon, but a hypothesis for these surprising results could be an altered response of the T helper type 1 (Th1) in animals colonised and stimulated by each of these Gram-positive or Gram-negative bacteria and then challenged with Salmonella. It is known that the GF mice have a deficient Th1 response, not being able to respond with cytokines such as interferon-g, tumour necrosis factor-a and interleukin (IL)-6 against an infection or exposure to microbial stimuli, as described by Ganal et al. (2012). These authors showed that in response to a first microbial stimulation, phagocytes residing in non-mucosal lymphoid organs of germ-free mice failed to induce the expression of inflammatory response in a second stimulation.
+In a study of our group, Silva et al. (2001) showed that a Lactobacillus sp. and a Peptostreptococcus sp., isolated from dominant faecal microbiota of a healthy human, showed antagonistic activity against V. cholerae in vitro, ex vivo and in vivo, being able to eliminate the pathogenic bacteria from the intestinal tract of the gnotobiotic mice five days after  the  challenge.  Drastic  elimination  of  a pathogenic
+C. perfringens type A  strain  from  the  digestive  tract  of
+
+M.F. Galvao et al.
+
+
+
+gnotobiotic mice has also been described by Nicoli et al. (1992) by a Peptostreptococcus sp. from the human faecal microbiota. Interestingly, in both studies, V. cholerae and C. perfringens disappeared from faecal content of gnotobiotic animals in a few days, while there are practically no reports that this occurred in challenges with S. Typhimurium, at least when antagonistic bacteria from the human faecal microbiota were tested. This could be explained by the fact that pathogens are weak competitors and need a relatively high infectious dose to cause disease. Furthermore,  the two pathogens have in common the fact of causing disease mainly by producing toxins with  different  actions.  On the other hand, Salmonella is a facultative intracellular pathogen able to invade intestinal epithelial cells and macrophages to undergo translocation (LaRock et al., 2015). In this sense, further studies are needed in order to compare the in vivo antagonistic capacity of each isolated against all the indicator pathogens as it has been performed through in vitro assays.
+L. ruminis has been identified as a component of intestinal microbiota from various mammals, including humans, and is the only species of Lactobacillus formally recognised as movable by a flagellum (Reuter, 2001). The bacterial flagellum filament is composed by a polymeric protein called flagellin, a pathogen-associated molecular pattern which is recognised by the Toll-like receptor 5 (Hayashi et al., 2001). The recognition of flagellin by innate immune epithelial cells leads to a pro-inflammatory response having as central component the production of interleukin 8 (IL-8) (Gewirtz et al., 2001). Thus, Neville et al. (2012) showed that a flagellated strain of L. ruminis stimulated an increased production of IL-8 by human colon epithelial cells in comparison with a non-flagellated strain, indicating that flagellin protein, more than any other component of the cell surface was responsible for IL-8 secretion. This information could explain why the group mono-associated with L. ruminis strain 18.1 showed a worsening in the context of salmonellosis, with an increase of inflammatory foci in the liver and increased translocation of Salmonella to the liver. Translocation of S. Typhimurium can be through lymphatic or vascular route following an intracellular (phagocytosis) or extracellular passage (epithelial damage), respectively (Sherman, 2010). In the context of salmonellosis, L. ruminis strain 18.1 and E. hirae 8.2 showed totally opposite actions, with probable different routes of translocation, which could explain why Salmonella was preferentially observed in the liver for mice with L. ruminis. Therefore, L. ruminis
+18.1 seems to have simultaneously a beneficial effect, causing significant reduction in faecal population levels of Salmonella, and a negative influence in the internal compartment, leading to an excessive inflammatory response.
+Relatively few studies have described antagonistic phenomena in obligate anaerobic Gram-negative bacteria.
+
+
+As was mentioned above, Gomes et al. (2006) found that in vitro antagonism by Gram-negative bacteria is not as frequent as by Gram-positive ones. In a study of Farias et al. (1992), nine species from the Bacteroides fragilis group were tested against six Gram-positive and ten Gram-negative indicator bacteria, and showed interspecific activity only against Streptococcus pyogenes and Streptococcus sanguis. Furthermore, in a subsequent study (Farias et al., 1994), a bacteriocin produced by a B. fragilis strain was extracted, purified and characterised. In the present study, the B. thetaiotaomicron 16.2 showed an unusual broad spectrum of antagonistic action, inhibiting five indicators in vitro (L. monocytogenes, S. Typhimurium, S. flexneri, V. cholera, and E. coli), as well as S. Typhimurium in the ex vivo assay. Therefore, a study aiming to purify and characterise the inhibitory compounds responsible for the antagonistic activities observed in the B. thetaiotaomicron strain 16.2 seems to be important.
+Enterococci are sometimes used as starter cultures in the food industry and many of them are found in large numbers in fermented meats, dairy and plant products (Gomes et al., 2008). Among the species, Enterococcus faecium is most commonly found in probiotic products, essentially for animal use. When compared to other probiotic micro- organisms, enterococci have some advantages such as resistance to acidic pH or bile salts and low selectivity for growth and multiplication, not being exclusively acidophilic, microaerophilic and/or mesophilic as many of the other lactic acid bacteria. However, the use of these bacteria as probiotics has been questioned due to virulence factors in some strains, as well as to the presence of antibiotic resistance genes transmissible to other bacteria. However, in a study characterising six strains of Enterococcus found in probiotic products, it was shown that all of them were E. faecium and none was resistant to vancomycin. Moreover, a clear genetic difference between these probiotic strains and clinical isolates was observed, and no virulence gene has been reported in the first ones (Nogushi et al., 2011). In another study, Nueno-Palop and Narbad (2011) isolated 70 bacteria from healthy human microbiota and reported that an Enterococcus faecalis strain showed potential for probiotic use due to its high resistance to the gastrointestinal environment and adhesion to Caco-2 cells. However, this strain showed some virulence genes which are commonly found in commensal enterococci of the gastrointestinal tract. Thus, further studies are needed about the presence and transmission capacity of virulence and antimicrobial resistance genes (especially for vancomycin resistance) in the E. hirae strain 8.2.
+Concluding, a sequence of ex vivo, in vitro and in vivo assays can be an interesting model to evaluate the intestinal CR in healthy individuals as well as patients with digestive dysbiosis. Although there are data in the literature showing that sometimes in vitro antagonism results cannot be
+
+Colonisation resistance in human stools
+
+
+
+extrapolated to the in vivo condition, these tests are admittedly useful when one wants to use them to screen for possible strains with potential probiotic use. In this way, the in vitro antagonism is one of the tests recommended by the World Health Organization and the Food and Agriculture Organization of the Guidelines for Evaluation of Probiotics (FAO/WHO, 2002). Using this sequential methodology, it was confirmed that CR varies from one individual to another, that there is redundancy in this phenomenon for the safety of the gastrointestinal ecosystem and that an E. hirae isolated from stool of a healthy donor could be an interesting candidate as probiotic, provided that its use is safe.
+Supplementary material
+
+Supplementary material can be found online at  .
+Table S1. Faecal counts of Salmonella Typhimurium in germ-free mice infected with Salmonella after previous colonisation with one of the bacterial strains isolated from stool samples of healthy human donors.
+Acknowledgements
+
+The authors are grateful to Clelia N. Silva and Karine
+P.S. Martins for valuable technical help. This study was supported by grants from Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq) and Fundacao de Amparo a Pesquisa do Estado de Minas Gerais (FAPEMIG).
+References
+
+Arantes, R.M.E. and Nogueira, A.M.M.F., 1997. Distribution of enteroglucagon- and peptide YY-immunoreactive cells in the intestinal mucosa of germ-free and conventional mice. Cell and Tissue Research 290: 61-69.
+Buffie, C.G. and Pamer, E.G. 2013. Microbiota-mediated colonization resistance against intestinal pathogens. Nature Review Immunology 13: 790-801.
+Colegio Brasileiro de Experimentacao Animal (COBEA), 2006. Legislacao e Etica. Available at: .
+Duval-Iflah, Y., Raibaud, P. and Rousseau, M., 1981. Antagonisms among isogenic strains of Escherichia coli in the digestive tracts of gnotobiotic mice. Infection and Immunity 34: 957-969.
+Food and Agriculture Organization of the United Nations/World Health Organization (FAO/WHO), 2002. Guidelines for the evaluation of probiotics in food. Report of a Joint FAO/WHO working group on drafting guidelines for the evaluation of probiotics in food. Available at: .
+Farias, L.M., Carvalho, M.A., Damasceno, C.A., Cisalpino, E.O. and Vieira, E.C., 1992. Bacteriocin-like activity of Bacteroides fragilis group isolated from marmosets. Research in Microbiology 143: 151-159.
+
+
+Farias, L.M., Totola, A.H., Miranda, C.M., Carvalho, M.A., Damasceno, C.A., Tavares, C.A., Cisalpino, E.O. and Vieira, E.C., 1994. Extraction, partial purification and characterization of a bacteriocin (fragicilin) produced by a strain of Bacteroides fragilis isolated from Callithrix penicillata. Research in Microbiology 145: 9-16.
+Ganal, S.C., Sanos, L.C., Kallfass, C., Oberle, K., Johner, C., Kirschning, C., Lienenklaus, S., Weiss, S., Staehli, P., Aichele, P. and Diefenbach, A., 2012. Priming of natural killer cells by non-mucosal mononuclear phagocytes requires instructive signals from commensal microbiota. Immunity 37: 171-186.
+Gewirtz, A.T., Navas, T.A., Lyons, S., Godowski, P.J. and Madara, J.L., 2001. Cutting edge: bacterial flagellin activates basolaterally expressed TLR5 to induce epithelial proinflammatory gene expression. Journal of Immunology 167: 1882-1885.
+Gomes, D.A., Souza, A.M.L., Lopes, R.V., Nunes, A.C. and Nicoli, J.R., 2006. Comparison of antagonistic ability against enteropathogens by G+ and G- anaerobic dominant components of human fecal microbiota. Folia Microbiologica 51: 141-146.
+Gomes, B.C., Esteves, C.T., Palazzo, I.C., Darini, A.L., Felis, G.E., Sechi, L.A., Franco, B.D. and De Martinis, E.C., 2008. Prevalence and characterization of Enterococcus spp. isolated from Brazilian foods. Food Microbiology 25: 668-675.
+Hayashi, F., Smith, K.D., Ozinsky, A., Hawn, T.R., Yi, E.C., Goodlett,
+D.R., Eng, J.K., Akira, S., Underhill, D.M. and Aderem. A., 2001. The innate immune response to bacterial flagellin is mediated by Toll-like receptor 5. Nature 410: 1099-1103.
+Huang, R., Tao, X., Wan, C., Li, S., Xu, H., Xu, F., Shah, N.P. and Wei, H., 2015. In vitro probiotic characteristics of Lactobacillus plantarum ZDY 2013 and its modulatory effect on gut microbiota of mice. Journal of Dairy Science 98: 5850-5861.
+Lane, D.J., 1991. 16S/23S rRNA sequencing. In: Stackebrandt, E.  and Goodfellow, M. (eds.) Nucleic acid techniques in bacterial systematic. Wiley, Chichester, UK, pp. 115-175.
+LaRock, D.L., Chaudhary, A. and Miller, S.I., 2015. Salmonellae interactions with host processes. Nature Review Microbiology 13: 191-205.
+Lawley, T.D. and Walker, A.W., 2013. Intestinal colonization resistance. Immunology 138: 1-11.
+Lievin, V., Peiffer, I., Hudault, S., Rochat, F., Brassart, D., Neeser, J.R. and Servin, A.L., 2000. Bifidobacterium strains from resident infant human gastrointestinal microflora exert antimicrobial activity. Gut 47: 646-652.
+Martins, F.S., Nardi, R.M.D, Arantes, R.M.E., Rosa, C.A., Neves, M.J. and Nicoli, J.R., 2005. Screening of yeast as probiotic based on capacities to colonize the gastrointestinal tract and to protect against enteropathogen challenge in mice. Journal of General and Applied Microbiology 51: 83-92.
+Martins, F.S., Rodrigues, A.C.P., Tiago, F.C.P., Penna, F.J., Rosa, C.A.,
+Arantes, R.M.E., Nardi, R.M.D., Neves, M.J. and Nicoli, J.R., 2007. Saccharomyces cerevisiae strain 905 reduces the translocation of Salmonella enterica serotype Typhimurium and stimulates the immune system in gnotobiotic and conventional mice. Journal of Medical Microbiology 56: 352-359.
+
+M.F. Galvao et al.
+
+
+
+Martins, A.K.S., Martins, F.S., Gomes, D.A., Elian, S.D.A., Vieira, A.T.,
+Teixeira, M.M., Cara, D.C., Nardi, R.M.D. and Nicoli, J.R., 2010. Evaluation of in vitro antagonism and of in vivo immune modulation and protection against pathogenic experimental challenge of two probiotic strains of Bifidobacterium animalis var. lactis. Archives of Microbiology 192: 995-1003.
+Neville, B.A., Forde, B.M., Claesson, M.J., Darby, T., Coghlan, A., Nally, K., Ross, R.P. and O'Toole, P.W., 2012. Characterization of pro- inflammatory flagellin proteins produced by Lactobacillus ruminis and related motile Lactobacilli. PLoS ONE 7: e0592.
+Nicoli, J.R., Ramare, F. and Raibaud, P., 1992. Antagonistic effect against Clostridium perfringens of a diffusible compound produced by a Peptostreptococcus sp. from human intestinal flora in mice. Revista de Microbiologia 23: 226-230.
+Noguchi, N., Nakaminami, H., Nakase, K. and Sasatsu, M., 2011. Characterization of Enterococcus strains contained in probiotic products. Biological and Pharmaceutical Bulletin 34: 1469-1473.
+Nueno-Palop, C. and Narbad, A., 2011. Probiotic assessment of Enterococcus faecalis CP58 isolated from human gut. International Journal of Food Microbiology 145: 390-394.
+Pleasants, J.R., 1974. Gnotobiotics. In: Melby Jr., E.C. and Altmann,
+N.H. (eds.) Handbook of laboratory animal science. CRC Press, Cleveland, USA, pp. 119-174.
+Ramare, F., Nicoli, J., Dabard, J., Corring, T., Ladire, M., Gueugneau,
+A.M. and Raibaud, P., 1993. Trypsin-dependent production of an antibacterial substance by a human Peptostreptococcus strain in gnotobiotic rats and in vitro. Applied and Environmental Microbiology 59: 2876-2883.
+
+Reuter, G., 2001. The Lactobacillus and Bifidobacterium microflora of the human intestine: composition and succession. Current Issues in Intestinal Microbiology 2: 43-53.
+Servin, A.L., 2004. Antagonistic activities of lactobacilli and bifidobacteria against microbial pathogens. FEMS Microbiology Reviews 28: 405-440.
+Sherman, M.P., 2010. New concepts of microbial translocation in the neonatal intestine: mechanisms and prevention. Clinics in Perinatology 37: 565-579.
+Silva, S.H., Vieira, E.C., Dias, R.S. and Nicoli, J.R., 2001. Antagonism against Vibrio cholerae by a diffusible substances produced by bacterial components of the human faecal microbiota. Journal of Medical Microbiology 50: 161-164.
+Silva, A.M., Barbosa, F.H.F., Duarte, R., Vieira, L.Q., Arantes, R.M.E. and Nicoli, J.R., 2004. Effect of Bifidobacterium longum ingestion on experimental salmonellosis in mice. Journal of Applied Microbiology 97: 29-37.
+Stecher, B., Chaffron, S., Kappeli, R, Hapfelmeier, S., Freedrich, S., Weber, T.C., Kirundi, J., Suar, M., McCoy, K.D., Von Mering, C., McPherson, A.J. and Hardt, W.D., 2010. Like will to like: abundances of closely related species can predict susceptibility to intestinal colonization by pathogenic and commensal bacteria. PLoS Pathogens 6: e1000711.
+Stecher, B. and Hardt, W.D., 2011. Mechanisms controlling pathogen colonization of the gut. Current Opinion in Microbiology 14: 82-91. Van der Waaij, D. and Van der Waaij, B.D., 1990. The colonization resistance of the digestive tract in different animal species and in man: a comparative study. Epidemiology and Infection 105: 237-243.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+230	Beneficial Microbes 8(2)
+
+

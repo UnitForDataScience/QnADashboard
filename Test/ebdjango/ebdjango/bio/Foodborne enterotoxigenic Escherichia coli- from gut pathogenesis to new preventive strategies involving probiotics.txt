@@ -1,0 +1,629 @@
+
+
+
+
+
+See discussions, stats, and author profiles for this publication at: 
+
+
+Article in Future Microbiology * December 2016
+DOI: 10.2217/fmb-2016-0101
+
+
+CITATIONS
+2
+
+READS
+171
+
+
+4 authors, including:
+
+
+ 
+5 PUBLICATIONS 5 CITATIONS   
+
+ 
+57 PUBLICATIONS 980 CITATIONS   
+
+
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+Antagonistic effect of probiotics on ETEC 
+
+Metodos rapidos de analisis y estudios de biodisponibilidad in vitro para una evaluacion mas certera de la exposicion a los metales toxicos presentes en los productos pesqueros 
+
+
+
+Review
+For reprint orders, please contact: 
+
+
+Foodborne enterotoxigenic Escherichia coli: from gut pathogenesis to new preventive strategies involving probiotics
+
+Charlene Roussel1,2, Adeline Sivignon3, Tom Van de Wiele2 & Stephanie Blanquet-Diot*,1
+
+Enterotoxigenic Escherichia coli (ETEC) are a major cause of traveler's diarrhea and infant mortality in developing countries. Given the rise of antibiotic resistance worldwide, there is an urgent need for the development of new preventive strategies. Among them, a promising approach is the use of probiotics. Although many studies, mostly performed under piglet digestive conditions, have shown the beneficial effects of probiotics on ETEC by interfering with their survival, virulence or adhesion to mucosa, underlying mechanisms remain unclear. This review describes ETEC pathogenesis, its modulation by human gastrointestinal cues as well as novel preventive strategies with a particular emphasis on probiotics. The potential of in vitro models simulating human digestion in elucidating probiotic mode of action will be discussed.
+
+First draft submitted: 27 May 2016; Accepted for publication: 30 September 2016;
+Published online: 16 December 2016
+
+
+Background
+While Escherichia coli isolates form part of the endogenous microbiota of the human gut, some strains have evolved pathogenic mechanisms to cause significant diarrheal and extraintestinal dis- eases in humans. Pathogenic E. coli associated with gastrointestinal illness have been divided into eight pathotypes based on their virulence profiles: enteropathogenic E. coli; enterohaemorrhagic
+E. coli; enterotoxigenic E. coli (ETEC); enteroinvasive E. coli; enteroaggregative E. coli; diffusely adherent E. coli; adherent invasive E. coli; and shiga toxin-producing enteroaggregative E. coli [1]. Among them, ETEC infect both humans and several species of farm animals such as pigs. In pigs, enteric diseases due to strains of ETEC are the most commonly occurring form of colibacillosis. In humans, ETEC are the main bacterial cause of diarrhea in adults and children in developing countries and are also a leading cause (30-60%) of traveler's diarrhea in people visiting or return- ing from endemic areas, including military personnel [2,3]. Overall, this pathogen is responsible of 210 million of diarrheal episodes worldwide per year [4]. The annual incidence of ETEC-associated diarrhea is highest in young children, with up to 500,000 infant deaths under the age of 5 years per year, mostly in low-income countries [5]. ETEC are transmitted primarily via contaminated water and weaning food [2], increasing the burden of developing countries that lack the infrastructure to reliably provide treated drinking water. The clinical symptoms of ETEC infections can range from mild diarrhea to a severe cholera-like syndrome [2]. Major aspects of ETEC virulence are
+
+Keywords
+ETEC * foodborne pathogen * gastrointestinal cues * in vitro digestion models * nutritional strategies * pig * probiotics
+ST/LT toxins * vaccine
+virulence factors
+
+
+
+1Clermont Universite, Universite d'Auvergne, Centre de Recherche en Nutrition Humaine Auvergne, EA 4678 CIDAM, Conception Ingenierie et Developpement de l'Aliment et du Medicament, 63000 Clermont-Ferrand, France
+2Cmet, Center for Microbial Ecology & Technology, Ghent University, 9000 Ghent, Belgium
+3Clermont Universite, UMR 1071 INSERM/Universite d'Auvergne, Clermont-Ferrand, France INRA, Unite Sous Contrat 2018, Clermont- Ferrand, France
+*Author for correspondence: Tel.: +33 473 178 390; Fax: +33 473 178 392; 
+
+
+
+
+colonization of the small intestine and secretion of enterotoxins which elicit diarrhea. To date, the treatment of ETEC-associated diarrhea is the same as that for any acute secretory diarrheal disease with oral rehydration and use of antimi- crobials [6]. Nevertheless, the use of antibiotics is increasingly controversial due to side effects and ongoing surge of antibiotic-resistant bacte- ria. There is therefore a crucial need to develop nonantimicrobial prophylactic strategies aim- ing to tackle ETEC infections. A better under- standing at a molecular level of the mechanisms mediating pathogenesis, especially in the human digestive environment, would help to speed up the development of such approaches.
+In this context, the current review will first provide a state of the art of ETEC physiopa- thology, focusing on the regulation of bacterial virulence traits in the human digestive environ- ment. Then, it will give an overview of cur- rent treatments and novel preventive strategies against ETEC infections, with an emphasis on probiotics as an alternative to antibiotic therapy. The last part of the review on probiotics was extended to studies in pigs as a model of humans.
+
+
+of 10-72 h, ETEC may induce acute watery diarrhea leading to rapid dehydration, usually associated with nausea, vomiting, abdominal cramps and prostration [2]. ETEC cannot be distinguished from cholera on clinical grounds. Most patients suffering from travelers' diarrhea recover within 4 days with supportive meas- ures alone and do not require hospitalization. Nevertheless, some patients may have prolonged diarrheal illness lasting a week and rarely more than 3 weeks [11]. Symptoms are much more severe in children from developing countries where diarrhea and malnutrition combine to form a vicious cycle leading to declining health status and death.
+
+**Main virulence factors
+Even if the virulence profiles of strains isolated from travelers seem to considerably differ from those observed in children [12], ETEC pathogen- esis (Figure 1) is mainly mediated by two plasmid- encoded virulence factors. First, ETEC must penetrate the mucus barrier and adhere to the epithelium of the small intestine by means of several colonization factors (CFs). At the present
+
+ 		time, there is no consensus on the site of bacterial
+
+eTeC physiopathology in humans
+**Reservoir & route of transmission
+Humans are the major reservoir for human ETEC strains [7]. Transmission of ETEC occurs through the fecal-oral route, primarily via con- taminated food or water. Contaminated waters (surface waters, bathing and water used for weaning food) are the most common source of infection, mainly in developing countries that lack appropriate sanitation and drinking water treatment facilities [2,8]. Fruits and vegetables that are washed with contaminated water and not cooked can also serve as vehicles of transmis- sion. Direct person-to-person contact, through observed, is not a major route of transmission. Infectious doses are high and fluctuate between 106 to 1010 cells but can be lower in at-risk populations such as infants [9]. ETEC follow seasonality with infections being most frequent in warm periods, but can also occurred during natural disasters, such as floods, when acute deterioration in the quality of drinking water and sanitation happens [10].
+
+**Clinical manifestations
+The clinical symptoms of ETEC infections can range from minor discomfort to a severe cholera- like syndrome. Following an incubation period
+
+colonization, from the upper jejunum [13] to the ileum [14]. Then, watery diarrhea is produced due to the effects of the heat-labile (LT) and/or heat-stable (ST) enterotoxins.
+CFs are antigenically and structurally diverse. Within the 25 CFs identified, seven are gener- ally more prevalent than others: CFA/I (CF antigen) and CS1 to CS6 (coli surface anti- gen) [15]. Most CFs receptors have not been yet identified, but CFs are thought to  bind  to glycoprotein conjugates in mucus fraction from the small intestine and on the surface of host cells. Recently, mucin-degrading enzymes which allow temporary access to cell membrane receptors have been identified in ETEC: YghJ, a mucin-binding metalloprotease [16] and EatA, a member of serine protease autotransporters of the Enterobacteriaceae family [17]. Nonfimbrial adhesins such as TibA, a glycosylated autotrans- porter, Tia, an outer membrane protein, and EtpA, which acts as a molecular bridge binding host cell receptors to tips of ETEC flagella, have also been implicated in the pathogenesis [15].
+Once a close contact established with the host cell, ETEC strains can produce ST and/or LT enterotoxins which induce f luid secretion and/or inhibition of electrolytes absorption by activation of the cystic fibrosis
+
+
+
+transmembrane regulator [15,18]. Different strains of ETEC can secrete either one or two toxins, those expressing both ST and LT leading to more severe diarrhea [19]. The LT toxins (eltAB gene) which share 80% homology to Cholera toxins, have an AB5 configuration consisting in a A enzymatic subunit linked to a pentameric ring of B subunits necessary for binding and internalization [2]. LT are mainly secreted asso- ciated with outer membrane vesicles and bind irreversibly to GM1 ganglioside on the host cell,
+
+
+ETEC-inflammation process, even if a recent study suggests that ETEC strain H10407 sub- verts NF-kb signaling through secretion of a proteinaceous factor [24]. Lastly, links were estab- lished between ETEC toxins and inflammation. Wang et al. [25] have recently shown that LT acti- vates both MAPK and NF-kb pathways and that p38 MAPK activation is involved in LT-induced ETEC adherence. The GC-C signaling system triggered by ST may be also important to human intestinal inflammation.
+
+the same identical ganglioside receptors that are	 	
+
+recognized by the cholera toxin. A recent in vitro study has shown that EatA could enhance toxins access to their receptors thanks to mucin degra- dation [17]. In addition to causing diarrhea, LT plays multiple roles in modulating host cell func- tion and providing a competitive advantage to ETEC adherence to cultured intestinal epithelial cells [20]. ST toxins are small cysteine-rich pep- tides (estAB gene). They can be divided into two structural and antigenically distinct groups: STa (methanol soluble, protease resistant) and STb (methanol insoluble, protease sensitive) which reversibly bind to guanylyl cyclase C (GC-C) and sulphatide, respectively [18].
+
+**intestinal inflammation
+ETEC are classically considered to cause non- inflammatory watery diarrhea. Nevertheless, leucocytes, lactoferrin, IL-1b and IL-8 have been detected in fecal samples of ETEC- infected patients [21]. This suggests that ETEC, like other noninvasive pathogens, could rather elicit a mild inflammatory response as a result of their interaction with the host's enteric cells. Likewise, challenging human Caco-2 cells with ETEC causes strong upregulation of proinflam- matory mediators that lead to membrane dam- age [22]. The means by which enteric pathogens elicit mucosal inflammation is complex and not completely understood. Intestinal epithe- lium cells first detect bacteria through their pathogen-associated recognition receptors, such as Toll-like receptors (TLR). Studies on TLR expression in porcine intestinal epithelial cells demonstrated that TLR4 is most strongly con- stitutively expressed [23]. Activation of epithelial and resident subepithelial immune cells results in a rapid burst of proinflammatory media- tors (e.g. IL-1, IL-6 and IL-8) leading to the recruitment of effector cells such as neutrophils to the site of infection. MAPK and NF-kb signaling pathways have been involved in the
+
+Modulation of eTeC survival & virulence in the human gut
+Both the survival of ETEC strains and the regu- lation of virulence genes in the human digestive environment are key factors in bacterial patho- genesis. Nevertheless, the influence of the main biotic and abiotic factors of the human gut on these factors remains largely unclear [26]. The available data are restricted to in vitro stud- ies that have investigated the effect of specific parameters of the human digestive environment on ETEC survival and virulence, as described below and recapitulated in Figure 2.
+
+**pH gradient in the Gi tract
+Following ingestion, ETEC are exposed to the host digestive tract characterized by acidic con- ditions in the stomach followed by basic envi- ronment in the small intestine, where pH grad- ually increases from pH 6 in the duodenum to
+in the terminal ileum. Few in vitro studies have investigated the effect of pH on human ETEC survival. Masters et al. [27] have shown that after exposure to pH 2, ETEC became undetectable by plate counting after 2 h but could be detected by PCR for up to 24 h (due to detection of both live and dead bacteria). A recent study using flow cytometry analysis indicates that there were no significant differ- ences in the percentage of live bacteria when ETEC was subjected to pH 5, 7 or 9 [28]. There is no specific data in ETEC on the expression of genes conferring protection against acid conditions. Nevertheless, five acid resistance pathways have been described in E. coli, among them the glutamate decarboxylase system (AR2) is thought to offer the best protection below pH 3. Johnson et al. [29] suggested that the release of ST was not pH-dependent while it is acknowledged that extracellular pH has an influence on the release of LT toxin which increases with alkalinity [28]. ETEC seems to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Physiopathology of enterotoxigenic Escherichia coli infections. The figure resumes the main features of enterotoxigenic E. coli physiopathology. (A) Contaminated waters mostly resulting from a lack of sanitation (drinking water and weaning foods) are the most common sources of ETEC infections. (B) After ingestion, ETEC have to face acidic conditions of the stomach before colonizing the small intestine. (C) Thanks to CFs (such a CS6 or CFA/I), ETEC will be able to adhere both to the mucus layer and enterocytes. Mucin-degrading enzymes EatA and YghJ will favor the adhesion of bacteria to enterocytes and later on the toxin access to their receptors. Non fimbrial adhesins (TibA, Tia and EtpA) also mediate the initial host/pathogen interactions. (d) ETEC adhesion promotes the secretion of LT and/or ST toxins. LTb subunits in OMV bind GM1 monoganglioside at the surface of the enterocyte. (e) The LTa subunit is endocytosed and joins
+the cytosol via retrograde transport. (F) LTa ADP-rybosylates the GSa subunit of adenylate cyclase leading to an increase in cAMP. (G) STa binds to the GC-C receptor and STb to sulphatide resulting in an increase in cGMP and Ca2+, respectively.
+
+
+Figure 1. Physiopathology of enterotoxigenic Escherichia coli infections (cont. from facing page). (H) All these pathways induce CFTR phosphorylation, leading to a net efflux of electrolytes and water into the lumen of the small intestine and acute watery diarrhea. CF: Colonization factor; CFTR: Cystic fibrosis transmembrane regulator; GC-C: guanylate cyclase C; OMV: Outer membrane vesicle.
+
+
+use the pH gradient in the GI tract to modu- late LT toxin production and secretion: when bacteria reach the small intestine, alkaline pH induces both transcription and maximal release of LT [28].
+
+**Bile & digestive enzymes
+One major challenge that bacteria encounter in the small intestine is the high concentra- tion of bile salts which act as an emulsifier of dietary fats but also as effective physiologi- cal antimicrobials. Surprisingly, no study has investigated the impact of bile on ETEC sur- vival, but it has been shown that bile can serve as an environmental cue for the pathogen by modulating the expression of specific virulence factors.
+Chatterjee and Chowdhury [30] have shown that crude bile can prevent the binding of LT toxin to GM1. Among the bile components, this inhibitory effect was assigned to unsatu- rated fatty acids such as linoleic acid. Another study by Nicklasson et al. [31] has demonstrated that crude bile, sodium deoxycholate and bile salts sodium glycocholate hydrate induced expression of csfD gene encoding for CS5 (but not that of CS6), in a dose-dependent man- ner for the last one. These results suggest that expression of ETEC CFs may be differentially induced along the human intestine, as the con- centrations of bile salts sequentially decrease from duodenum to ileum due to reabsorp- tion. Finally, a global transcriptional analy- sis of two human ETEC strains has shown that the presence of bile salts in LB medium upregulated estA, eltA or etpA (encoding for STa, LTa enterotoxins and EtpA, respectively) while csoA and cstA (encoding for CS1 and CS3 CFs) were downregulated [32]. In this study, the transcriptional response to bile salts was strain- dependent, suggesting that the results should not be extrapolated to the entire pathovar without further investigation. Data on ETEC virulence gene regulation by digestive enzymes are scare. Trypsin, an endopeptidase secreted in the duodenum, is able to increase LT release [33] and its secretory activity [34]. These findings suggest that bile and intestinal enzymes may act to favor ETEC colonization and virulence in the small intestine.
+
+**Gut nutrients & gut microbiota generated metabolites
+Among carbon sources found in the intestinal lumen, available studies have mainly focused on the influence of glucose on ETEC virulence. A recent study by Wijemanne and Moxley [35] has shown that, at a concentration optimal for LT expression (0.25%), glucose enhances bac- terial adherence to porcine intestinal epithelial cells, through the promotion of LT production. In contrast, glucose prevents transcription of estB (STb) and estA (STa) through catabolite repression [36]. Therefore, the concentration of glucose in the lumen of the small intestine may determine which enterotoxin is maximally expressed. A global transcriptomic analysis by Sahl and Rasko [32] also indicated that the pres- ence of glucose in the growth medium upreg- ulates the expression of fliC and eatA in the E24377A human strain while Haines et al. [37] found that it induces CFA/I surface expression. Mucin is also an important source of carbon for bacteria in the human gut. Two proteases have recently been described for their role in mucin degradation by ETEC [16,17], indicating that this pathogen may sense and respond to the presence of mucus. The effect of mucin on ETEC virulence has been very poorly investi- gated. Only one study by Haines et al. [37] has shown that mucin positively influences CFAI, CS1 and CS3 expression.
+During passage through the human gut, enteric pathogenic bacteria such as ETEC also face a high number of commensal bacte- ria that compete with them for nutrients and space. A recent study in a cohort of infected patients from Bangladesh has shown that there is a rapid and reversible change in gut micro- bial community structure and gene abundance after ETEC infection in infants and adults [38]. However, we are not aware of how gut micro- biota could influence ETEC virulence. Only one study by Takashi et al. [39] has investigated how short chain fatty acids (SCFAs), major end products of gut microbial fermentation, modulate the production of human ETEC enterotoxins. Addition of SCFAs from C-2 to C-7 (acetic, propionic, butyric, valeric, cap- roic and heptylic acids) at a concentration of 2 mg/ml in the culture medium significantly
+
+
+
+
+reduced or even abolished LT production. In the human gut, SCFAs concentrations var- ied from the small intestine to the colon. It would be of high interest to investigate how the various concentrations of SCFAs found in the different sections of the human intestine may influence the expression of ETEC virulence genes.
+
+**Cathecholamine hormones
+Microbial endocrinology is a newly recog- nized microbiology research area investigating the interactions of bacteria with host stress- associated hormones. Among them, catecho- lamines such as epinephrine (adrenaline) and norepinephrine (noradrenaline) play roles as hormones and neurotransmitters. Both have
+
+
+also been investigated as an environmental cue for ETEC [40]. Lyte et al. [41] demonstrated that norepinephrine (used in physiological concen- trations) increased the in vitro growth of an ETEC strain isolated from calf, as well as the expression of the F5 fimbrial adhesin. On the contrary, Sturbelle et al. [42] did not observe any effect of norepinephrine or epinephrine on the in vitro growth of a piglet ETEC strain and Haines et al. [37] even found a significant inhibition of porcine ETEC by norepinephrine. However, a significant increase in motility and expression of F4 fimbriae and LT toxin encod- ing genes was shown in the ETEC culture sup- plemented with conditioned medium (contain- ing autoinducer) and epinephrine [42]. Lastly, Haines et al. [37] found that norepinephrine
+
+
+
+
+Figure 2. Modulation of enterotoxigenic Escherichia coli survival and virulence by gastrointestinal cues. The figure recapitulates how physicochemical parameters of the human gut may influence ETEC survival and expression of virulence genes, including toxin production.
+ETEC: Enterotoxigenic E. coli; ND: Not determined; LT: Heat-labile; SCFA: Short chain fatty acid; ST: Heat-stable.
+
+
+
+
+inhibited CFA/I expression in an ETEC strain isolated from human.
+Taken together, these results indicate that ETEC may use a variety of environmental cues, mainly present in the small intestine, to modu- late toxin and CF expression. Nevertheless, for a more comprehensive understanding of ETEC pathogenesis, the effect of additional variables of the human digestive environment, such as gut microbiota, antimicrobial peptides, oxygen levels, fluid shear or neuroendocrine peptides remain to be explored.
+
+
+colonization, and structural, functional and immunological closely related toxins), Dukoral(r) (Chiron Healthcare SAS, Suresnes, France) can be prescribed to prevent traveler's diarrheas due to ETEC, but the prescription is limited solely to Cholera in the EU and Australia. Dukoral(r) may provide protection (reaching 67%) against LT toxin of ETEC in traveler's diarrhea [43] but protection of populations of children in endemic areas has been more difficult to demonstrate [44]. Economically, it would be more interesting to provide a vaccine that is effective on both travel-
+
+ 		ers' and children ETEC diarrheas, which is
+
+Current treatments & future prospects in the fight against eTeC infections in humans
+**Symptomatic treatments during eTeC diarrhea
+The treatment of diarrheal disease due to ETEC is the same as that for cholera or any other acute secretory diarrheal diseases. The Center for Control Diseases gives some recommendation to treat ETEC diarrhea in travelers and in chil- dren living in ETEC-endemic areas [6]. Clear liquids such as oral rehydration salts are of utmost importance to prevent dehydration and loss of electrolytes. Bismuth subsalicylate com- pounds can help reduce the number of bowel movements. Antimotility agents can effectively relieve ETEC-associated diarrhea and cramps but they may be not recommended as they pro- long the time it takes the body to rid itself of the toxins [6]. The use of antimicrobials in the treatment of ETEC diarrhea is problematic since an etiologic diagnosis cannot be made rapidly, mainly in childhood diarrhea [2]. The antimicro- bial treatment of traveler's diarrhea has changed over the years because of the increasing resist- ance of ETEC to common antibiotics, includ- ing trimethoprim-sulfamethoxazole and ampi- cillin. Currently, fluoroquinolones are shown to be effective therapy in ETEC traveler's diar- rhea [6]. However, because resistance to antibiot- ics is increasing worldwide, the decision to use antibiotics should be carefully weighed against the severity of illness and the risk of adverse reac- tions, such as rash, antibiotic-associated colitis and vaginal yeast infections.
+
+**vaccination strategies
+Up to now, there is no commercially avail- able vaccine directed against ETEC bacteria. Nevertheless, given that ETEC share some similarities with Vibrio cholerae (same site of
+
+definitely not feasible with Dukoral.
+Among several vaccine candidates widely reported in the literature [45,46], the most con- vincing and still on course could be classified into four groups: cellular candidates (ETVAX, ACE527); subunit candidates (antiadhesin- based subunit vaccine), antitoxin candidates (dmLT) and novel antigen candidates (Flagellin, EtpA, EatA, YghJ). These vaccines are actually under development from preclinical to Phase II assays, but the path seems to be long to counter- act lack of protection and adverse effects in order to achieve a protective and long-term efficacy.
+Indeed, even if the development of an effective ETEC vaccine is a top priority for WHO and sev- eral public health institutions around the world, it is still limited by numerous challenges [45]: the serological heterogeneity of ETEC and the wide variety of structurally and functionally distinct CFs; the limited knowledge of ETEC bacterial structure and disease mechanisms; the high costs of each vaccine program.
+
+**Micronutrient strategies
+There is a growing interest in the role of micro- nutrients as a 'natural' nonantibiotic alternative to combat ETEC infections. Zinc supplemen- tation may be used in infant in low-income countries either in prophylaxis to reduce diar- rhea morbidity or as a treatment to shorten the duration of symptoms [47]. Even if the mecha- nisms of this protective effect have not yet been elucidated, several in vitro and in vivo studies have provided some evidence. Zinc administra- tion enhances innate immunity against ETEC infections in children [48]. Besides, zinc oxide protects cultured human enterocytes from the damage induced by ETEC by inhibiting the adhesion of bacteria, preventing the increase of tight junction permeability and modulat- ing cytokine gene expression [49]. The effect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Overview of probiotic activity against enterotoxigenic Escherichia coli under piglet digestive conditions. The figure recapitulates all the in vivo studies in piglets and in vitro studies in porcine intestinal epithelial cells reporting a beneficial effect of probiotics during ETEC infections. Probiotics may act following three modes of action: immunomodulation (in blue), direct antagonism (in green) or exclusion (in orange).
+ETEC: Enterotoxigenic E. coli; TEER: Transepithelial electrical resistance; TLR: Toll-like receptor; ZO: Zonula occludens.
+
+on ETEC survival or virulence of other metals such as iron and silver has been also suggested. Addition of iron to growth media repressed the expression of CFA/I fimbriae by ETEC [50] while under iron starvation, production of the CFA/I fimbriae was increased in the H10407 strain [37]. Oral administration of silver nanoparticles to infant mice colonized with ETEC bacteria sig- nificantly reduced the colonization rate of the pathogen [51].
+Other dietary components like phenolic com- pounds and vitamins might also have potential as new agents against ETEC infections. In vitro,
+
+ETEC infections among children in Mexico City [55].
+The available data highlight some beneficial effects of micronutrients in ETEC infections but the level of evidence (from in vitro studies to clinical trial) widely depends on the tested compound. Besides, this strategy only focused on infantile diarrhea in malnourished children and was not yet applied to traveler's diarrhea. Lastly, the therapeutic benefits attributable to such micronutrients might be modulated by dif- ferential levels of nutrient deficiency in individu- als or populations within developing countries.
+
+polyphenol extracts inhibited the LT toxin	 	
+
+binding to its intestinal receptor GM1 through aggregation [52]. In ETEC-infected piglets, die- tary polyphenol and black tea extract reduced diarrhea prevalence [53,54]. A placebo-controlled double-blind study has shown that vitamin A supplementation led to shorter duration of
+
+Probiotic-based strategies in the prevention of eTeC infections
+Given growing concerns about effects of ETEC illness in human [3,5], prevention remains an important area to address. Besides, in the face of antibiotic resistance increasing worldwide,
+
+
+
+
+
+
+the development of nonantimicrobial strate- gies against pathogens is widely encouraged by the EU and WHO. In this respect, one of the most promising preventive strategies in the fight against ETEC infections is the use of probiotic micro-organisms. The internationally endorsed definition of probiotics is 'Live micro-organisms that, when administered in adequate amounts, confer a health benefit on the host' [56]. Most micro-organisms recognized to date as probiot- ics are Gram-positive lactic acid bacteria, with Lactobacillus and Bifidobacterium being the main species used, and yeasts from Saccharomyces genus. Up to date, most probiotics commercial- ized are single strains. Nevertheless, the efficacy and functionality of multistrain and multispe- cies probiotics is not called into question since they could be more effective and consistent than monostrain probiotics [57,58]. Even if the underly- ing mechanisms associated with probiotic pro- tection against enteric pathogens are still largely unclear, three general classes of antipathogenic mechanisms have been proposed: direct antag- onism, immunomodulation and competitive
+
+
+exclusion [59]. Here, we reviewed the in vitro and in vivo studies that have been carried out both in pigs (Figure 3) and in humans (Figure 4) and that show beneficial effects of probiotic bacteria and yeast against ETEC pathogens for each of the three mechanisms listed previously. This part of the review was extended to studies on pigs due to scare data in humans and to similarities between pigs and humans regarding digestive physiology and ETEC infectious process. All these studies are summarized in Table 1 (immu- nomodulation), Table 2 (direct antagonism) and Table 3 (competitive exclusion).
+
+**immunomodulation
+Probiotics can interact with the host immune system to enhance the functionality of innate and/or adaptive immunity or to limit the abil- ity of pathogen to induce an immune response. A large number of studies have investigated the immunomodulatory properties of probi- otics in ETEC infections. Most of them have been carried out in vitro using porcine intesti- nal epithelial cells and the K88 ETEC strain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Overview of probiotic activity against enterotoxigenic Escherichia coli under human digestive conditions. The figure recapitulates all the in vitro studies in human intestinal epithelial cells showing a beneficial effect of probiotics during ETEC infections. Only two modes of action of probiotics have been investigated: immunomodulation (in blue) and exclusion (in orange).
+BIF: Binding inhibitory factor; ETEC: Enterotoxigenic E. coli; TEER: Transepithelial electrical resistance; TLR: Toll-like receptor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+review	Roussel, Sivignon, Van de Wiele & Blanquet-Diot
+
+
+
+(F4+) which is the most prevalent in pig post- weaning diarrhea. Probiotic strains from the Lactobacillus [61,62,66] and Saccharomyces [64,65] genus significantly reduced the expression of proinflammatory cytokines, such as IL-1, IL-6 and IL-8 and induced an upregulation of the anti-inflammatory IL-10. These effects have been observed both in prophylaxis and curative treatments. The mechanisms associated with the anti-inflammatory effect of probiotic strains were further explored for Bifidobacterium [60,63] and Lactobacillus strains [62]. These probiotics inhibited ETEC-mediated MAPK and NF-kB
+
+
+activation by upregulating TLR negative reg- ulators [60,62,63]. Only two studies [67,68] have investigated the effects of bacterial probiotics on ETEC-induced inflammatory response in human Caco-2 intestinal cells, but still using the porcine K88 strain. Both Enterococcus faecium [67] and Lactobacillus amylovorus [68] inhibited the overproduction of proinflamma- tory cytokines induced by ETEC and blocked the upregulation of heat shock protein (Hsp), especially that of Hsp72 and Hsp90 which are critical for TLR4 function. In the study by Finamore et al. [68], both the Lactobacillus
+
+
+
+
+
+10.2217/fmb-2016-0101	Future Microbiol. (Epub ahead of print)
+
+future science group
+
+
+
+
+strain and its secreted products showed anti-inflammatory properties.
+In vivo studies in ETEC-infected piglets con- firmed the anti-inflammatory potential of pro- biotic strains, mainly that of Lactobacillus spp strains. Challenged pigs fed with Lactobacillus pro- biotic strains had lower levels of proinflammatory cytokines in intestinal tissues [70-72]. Zhu et al. [70] have also investigated the modulation of systemic and intestinal lymphocyte T cells subpopulations by Lactobacillus rhamnosus and showed that the probiotic strain can attenuate the ETEC-induced increase in CD3+ CD4+ CD8+ T cells in the small intestine. Li et al. [72] found that the same probiotic strain reduced the increase of TLR4 expression observed both at the mRNA and protein levels in the jejunum of infected piglets. Of note, the results of these two studies suggest that pretreatment with a low dose of Lactobacillus rhamnosus might be more effective than with a high one.
+
+**Direct antagonism
+In direct antagonism, probiotics kill or inhibit the growth of pathogen to limit the spread of the infection or they downregulate the expression of virulence factors, such as toxins or adhesins, required for pathogenesis. Only two in vitro studies showed the inhibition of the growth of ETEC strains isolated from human or pig, fol- lowing co-incubation of the pathogen with the culture supernatant of Lactobacillus species. In the study by Tsai et al. [74], the inhibitory activity was partially affected by lactate deshydrogenase treatment showing that it may result from lactic acid production. Strains of Lactobacillus spp also increased the rate of decline of ETEC K88 in a continuous culture of porcine intestinal bacteria, which provides a more realistic in vitro situa- tion for the examination of probiotic potential than co-culture does [75]. In piglets orally chal- lenged with ETEC strain K88 or ECL13795, ingestion of diets containing Escherichia coli [69], Lactobacillus plantarum [78], Lactobacillus reu- teri [77] or Saccharomyces cerevisiae [76], probi- otic strains led to a lower fecal shedding of the pathogen. Similarly, Lactobacillus sobrius signif- icantly reduced the prevalence of ETEC K88 in the ileum of piglets supplemented with the probiotic [79]. This antagonistic effect was not associated with any change in luminal pH. The reduced levels of ETEC in the ileum and feces may result from colonization of gut mucosa by the probiotic thereby reducing the attachment of the pathogen to the intestinal surface or from
+
+
+host microbiota modulation (see the section on 'Exclusion').
+Only two studies have assessed the effect of a probiotic strain on the expression of ETEC virulence genes. Zhou et al. [61] have shown that Lactobacillus reuteri reduced the expression of ST encoding genes (estA and estB) but not that of LT (elt), in ETEC K88 strain JG280 at the early stage of its infection to porcine intestinal epithelial cells. The underlying mechanisms have not been explored by these authors but Yang et al. [77] have shown in weaning piglets that reuteran-containing diets (an exopoly- saccharide produced by Lactobacillus reuteri) reduces the copy number of ST gene and the toxin level in samples from the ileum, cecum and colon.
+
+**exclusion
+Exclusion is used to describe all mechanisms that make the gastrointestinal environment less hospitable for pathogens. These mechanisms include decreasing luminal pH, modulating gut microbiota, improving epithelium barrier function, interfering with pathogen binding and translocation and stimulating production of defense-associated factors, such as mucins and defensins. Even if most of the available studies have investigated the probiotic activity of lactic acid bacteria, none of them has associ- ated their beneficial effect with a decrease in luminal pH. Only two studies in piglets have investigated how probiotics may modulate gut microbiota during ETEC infections. In both studies, oral administration of Lactobacillus rhamnosus counteracted the rise in the fecal shedding of coliforms in ETEC-infected ani- mals and increased the number of Lactobacilli and Bifidobacteria [72,73]. These findings sug- gest that treatment with specific Lactobacillus strains may be used in piglets to restore the homeostasis of an impaired microbial ecosys- tem associated with weaning [72] and/or ETEC challenge [73].
+In vitro studies using both pig and human enterocytes in culture and in vivo studies in piglets also showed that probiotic strains from Lactobacillus genus and Enterococcus faecium spp may protect the integrity of intestinal epithelial barrier damaged by ETEC. In vitro, treatment of intestinal cells with probiotics prevented the ETEC-induced decrease of transepithelial resistance [67,80,81], reduced the permeation of tracers such as dextran [22] and regulated tight
+
+
+
+
+
+junction and cytoskeleton proteins by inhibit- ing delocalization of zonula occludens (ZO)-1, reduction of occludin amount, rearrangement of F-actin and dephosphorylation of occludin caused by ETEC [66,80]. Such in vitro beneficial effects of probiotic Lactobacillus strains have been strengthened by an in vivo study in pig- lets. Yang et al. [86] showed that Lactobacillus plantarum prevented the damage to intestinal morphology and greater intestinal permeability (measured by a functional lactulose-mannitol absorption test) induced by ETEC K88 chal- lenge and lowered plasma endotoxin concentra- tions. In addition, the reduction in ZO-1 and occludin mRNA abundance observed in the jejunum after ETEC infections was inhibited in piglets fed Lactobacillus plantarum. Lastly, a recent study by Trevisi et al. [85] have also shown that feeding pigs with Saccharomyces cerevisiae was effective in counteracting the detrimental effect of ETEC infection by limiting the early activation of genes related to the impairment of the jejunal mucosa.
+In addition, several in vitro studies on pig [64] or human [82] intestinal cells in culture have shown that probiotic bacteria or yeast may decrease the number of adhering ETEC. In these studies, ETEC strains from both porcine and human origins have been tested. Only an in vivo study in piglets has demonstrated that Pediococcus acidilactici and Saccharomyces bou- lardii significantly reduced attachment of ETEC K88 to the ileal mucosa [87]. Little is known about the mechanism of inhibition of ETEC adhesion by probiotics. It has been assumed that probiotics may (i) impede the access of pathogens to tissue receptors by nonspecific steric hindrance, (ii) interact with the levels of mucins produced and thus impair the adhesion of pathogens or (iii) block the binding site of ETEC to intestinal epithelial cells by recep- tor competition. This last hypothesis was the most studied with regards to ETEC pathogens. Purified adhesin of Bifidobacterium adolescentis effectively inhibits ETEC adherence to intesti- nal epithelial cells in vitro [83]. Fujiwara et al. [84] reported that Bifidobacterium longum produces a proteinaceous inhibitory factor termed bind- ing inhibitory factor (BIF), which prevents the binding of ETEC to GA1 in a dose-dependent manner and also inhibits their adherence to HCT-8 human epithelial cells. Other authors rather suggest the role of carbohydrate structures in the inhibition of adhesion [64,82].
+
+**Human trials involving probiotics
+Up to date, the vast majority of in vivo stud- ies involving ETEC and probiotic strains have been carried out in piglets, most often in the specific context of the postweaning phase. Only two studies have investigated the effect of probiotics in human volunteers when orally challenged with live attenuated ETEC strains. Unfortunately, these two studies showed that supplementation with either a single strain of Lactobacillus acidophilus [88] or a blend of pro- biotic bacteria and yeast [89] was ineffective in reducing ETEC infection symptoms in healthy men. Besides, the study by Ouwehand et al. [88] provides useful data on changes in human intestinal microbiota associated with ETEC infections, the authors showing a reduction of the fecal levels of Bacteroides-Prevotella, Bifidobacterium and Clostridium clusters XIVa and b. The ineffective effects of probiotics may be linked to the challenge model or to the fact that in these studies the disease mechanisms was toxin independent (ETEC strains do not produce LT and ST toxins). Other studies have shown a significant reduction in the risk of traveler's diarrhea when probiotics such as
+S. boulardii are given [90], but ETEC strains have not been clearly involved in the etiology of diarrhea.
+Then, a significant number of  in  vitro or in vivo studies have shown the beneficial effects of probiotics against ETEC pathogens, by interfering with their survival, adhesion to mucosa or expression of virulence genes. Nevertheless, most of these studies involve strains such as K88 which are pathogenic for piglets but not for human and the two only in vivo studies in humans were performed with non toxigenic strains. As it is highly probable that the outcomes would be strain-dependent, additional studies involving strains pathogenic for humans are required.
+
+these studies have been carried out under piglet digestive conditions that can markedly differ from those observed in the human GI tract. Notable divergences between pig and human digestive conditions are known to be the follow- ing ones: dietary intake and coprophagy; volume of stomach and length of intestinal tract; gastric lipase biochemical characterization and bile acid composition; gut microbiota composition; and privileged caecal fermentation in pigs [91-97]. In addition, ETEC physiopathology shows specific features in pigs: most of strains pathogenic in pigs are not pathogenic in humans; animal CFs are distinct from those in human isolates (the most common in pigs are F4 -K88-, F5 -K99- and F6 -987P-); pigs produce STp (STa toxins undercategorized) and LT-Ip enterotoxins struc- turally and antigenically different from human toxins; and host genetic susceptibility can vary with the pig genotype [2,96,97]. Besides, the avail- able studies remain merely descriptive and fur- ther efforts have to be made to better understand the underlying modes of action. In particular, even if probiotics may act through modulation of human intestinal microbiota, no study has yet investigated the interactions between ETEC, probiotics and gut microbiota.
+As studies on human volunteers are ethi- cally inconceivable with nonattenuated ETEC strains, a relevant alternative to explore interac- tions between pathogen and probiotics would be to use human microbiota-associated pigs [98] or in vitro models that mimic the conditions found in the human digestive tract. To date, a large number of artificial digestive systems have been developed but most of them are simulat- ing oversimplified conditions compared with the in vivo situation [99,100]. Only two well-val- idated dynamic multicompartmental systems are currently available, the TNO (Nederlandse Organisatie Voor Toegepast) GastroIntestinal Model (TIM) and the Simulator of Human
+
+ 		Intestinal Microbial Ecosystem (SHIME).
+
+Future perspective
+Among the new preventive therapies in ETEC infections, probiotics emerge as a relevant strat- egy, a significant number of in vitro and in vivo studies showing their beneficial effects through immunomodulation, direct antagonism or exclu- sion. Probiotics may use a combination of these mechanisms, giving the opportunity to consider a multifaceted approach in the fight against ETEC pathogens, definitely more relevant than a targeted one. Nevertheless, up to date, most of
+
+These models simulate the complex evolution of the main physicochemical (e.g. pH, digestive secretions, transit time) and biotic (gut micro- biota) parameters of human digestion, which are key parameters in the survival, virulence and/or activity of pathogens and probiotics. In particular, TIM and SHIME are of great interest to: assess how the dose and mode of administration of probiotics (e.g. galenic forms or functional foods) may influence their viabil- ity in the human GI tract and their antagonistic
+
+effects against ETEC bacteria [101]; and inves- tigate how probiotics and ETEC interact with luminal and mucosal gut microbiota under
+
+reduction' (Article 14 from the EC Regulation No. 1924/2006 on nutrition and health claims made on foods).
+
+physiological fluid shear stresses and micro-	 	
+
+aerobic conditions [102]. They could be there- fore advantageously used as a complement to in vivo assays to better define the cellular and molecular mechanisms of probiotic strains and their appropriate conditions of use, which are questions that need to be addressed before com- mercialization and use of probiotics in ETEC infected patients. Here, the most likely scenario for probiotics is their marketing as food supple- ment with a specific health claim on 'disease risk
+
+Financial & competing interests disclosure
+This work was supported by a grant from Lesaffre Company (Marcq-en-Baroeul, France) to Charlene Roussel. The authors have no other relevant affiliations or financial involvement with any organization or entity with a finan- cial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed.
+No writing assistance was utilized in the production of this manuscript.
+
+
+exeCutive summAry
+eTeC physiopathology
+Enterotoxigenic Escherichia coli (ETEC) are major food and water-borne pathogens responsible for cholera-like diarrhea.
+Main virulence traits of the pathogen are colonization factors mediating intestinal adhesion and production of enterotoxins.
+Modulation of eTeC survival & virulence in the human gut
+Few in vitro studies have addressed the influence of biotic and abiotic factors of the human gut on ETEC survival and virulence.
+ETEC may use a variety of gastrointestinal cues, such as variations in pH, bile, short chain fatty acids concentrations or host hormones, to modulate toxin and colonization factor expression.
+Current treatments & future prospects in the fight against eTeC
+Treatment of ETEC infections is essentially symptomatic and antibiotics should be used with caution due to the growing burden of antimicrobial resistance worldwide.
+Main alternative prophylactic treatments include vaccination and nutritional strategies.
+Probiotic-based strategies in the prevention of eTeC infections
+Use of probiotics is among the most promising preventive strategies in ETEC infections.
+In vitro and in vivo studies have shown the beneficial effects of probiotics, mainly lactic acid bacteria, against ETEC through immunodulation, direct antagonism or exclusion.
+Most of these studies were carried out under piglet digestive conditions and remain merely descriptive.
+Dynamic human digestion models could be advantageously used to better describe the interactions between ETEC, probiotics and human gut microbiota.
+
+
+References
+Papers of special note have been highlighted as:
+of interest; ** of considerable interest
+Clements A, Young JC, Constantinou N, Frankel G. Infection strategies of enteric pathogenic Escherichia coli. Gut Microbes 3(2), 71-87 (2012).
+Qadri F, Svennerholm AM, Faruque ASG, Sack RB. Enterotoxigenic Escherichia coli in developing countries: epidemiology, microbiology, clinical features, treatment, and
+
+prevention. Clin. Microbiol. Rev. 18(3),
+465-483 (2005).
+** Gives a comprehensive review on enterotoxigenic Escherichia coli (ETEC) pathogen in developing countries from historical aspects to treatments.
+Kotloff KL, Nataro JP, Blackwelder WC et al. Burden and aetiology of diarrhoeal disease in infants and young children in developing countries (the Global Enteric Multicenter Study, GEMS): a prospective, case-control study. Lancet 382(9888), 209-222 (2013a).
+
+Steffen R, Castelli F, Dieter Nothdurft H, Rombo L, Jane Zuckerman N. Vaccination against enterotoxigenic Escherichia coli, a cause of traveler's diarrhea. J. Travel.
+Med. 12(2), 102-107 (2005).
+Lanata CF, Fischer-Walker CL, Olascoaga AC et al. Global causes of diarrheal disease mortality in children <5 years of age: a systematic review. PLoS ONE 8(9), e72788 (2013).
+6	CDC (2014).
+
+
+Doyle MP, Padhye VV. Escherichia coli. In:
+Foodborne Bacterial Pathogens. Doyle MP (Ed.). Marcel Dekker, NY, USA, 235-281 (1989).
+Lothigius A, Sjoling A, Svennerholm AM, Bolin I. Survival and gene expression of enterotoxigenic Escherichia coli during long-term incubation in sea water and freshwater. J. Appl. Microbiol. 108(4), 1441-1449 (2010).
+Levine MM, Nalin DR, Hoover DL, Bergquist EJ, Hornick RB, Young CR. Immunity to enterotoxigenic Escherichia coli. Infect. Immun. 23(3), 729-736 (1979).
+Harris AM, Chowdhury F, Begum YA et al. Shifting prevalence of major diarrheal pathogens in patients seeking hospital care during floods in 1998, 2004, and 2007 in Dhaka, Bangladesh. Am. J. Trop. Med.
+Hyg. 79(5), 708-714 (2008).
+Yoder JS, Cesario S, Plotkin V, Ma X,
+Kelly-Shannon K, Dworkin MS. Outbreak of enterotoxigenic Escherichia coli infection with an unusually long duration of illness. Clin. Infect. Dis. 42(11), 1513-1517 (2006).
+Torres OR, Gonzalez W, Lemus O et al. Toxins and virulence factors of enterotoxigenic Escherichia coli associated with strains isolated from indigenous children and international visitors to a rural community in Guatemala. Epidemiol.
+Infect. 143(8), 1662-1671 (2015).
+Stintzing G, Mollby R. Colonization of the upper jejunum by enteropathogenic and enterotoxigenic Escherichia coli in paediatric diarrhoea. Acta. Paediatr. Scand. 71(3), 457-465 (1982).
+Allen KP, Randolph MM, Fleckenstein JM. Importance of heat-labile enterotoxin in colonization of the adult mouse small intestine by human enterotoxigenic Escherichia coli strains. Infect. Immun. 74(2), 869-875 (2006).
+Fleckenstein JM, Hardwidge PR, Munson GP, Rasko DA, Sommerfelt H, Steinsland H. Molecular mechanisms of enterotoxigenic Escherichia coli infection. Microbes
+Infect. 12(2), 89-98 (2010).
+Covers the major molecular mechanisms of ETEC infections.
+Luo Q, Kumar P, Vickers TJ et al. Enterotoxigenic Escherichia coli secretes a highly conserved mucin-degrading metalloprotease to effectively engage intestinal epithelial cells. Infect.
+Immun. 82(2), 509-521 (2014).
+Kumar P, Luo Q, Vickers TJ, Sheikh A, Lewis WG, Fleckenstein JM. EatA, an
+
+immunogenic protective antigen of enterotoxigenic Escherichia coli, degrades intestinal mucin. Infect. Immun. 82(2), 500-508 (2014).
+Describes ETEC mucinase, a new virulence factor of the pathogen.
+Dubreuil JD. The whole shebang: the gastrointestinal tract, Escherichia coli enterotoxins and secretion. Curr. Issues Mol. Biol. 14(2), 71-82 (2012).
+Read LT, Hahn RW, Thompson CC, Bauer DL, Norton EB, Clements JD. Simultaneous exposure to Escherichia coli heat-labile and heat-stable enterotoxins increases fluid secretion and alters cyclic nucleotide and cytokine production by intestinal epithelial cells. Infect. Immun. 82(12), 5308-5316 (2014).
+Johnson AM, Kaushik RS, Rotella NJ, Hardwidge PR. Enterotoxigenic Escherichia coli modulates host intestinal cell membrane asymmetry and metabolic activity. Infect. Immun. 77(1), 341-347 (2009).
+Mercado EH, Ochoa TJ, Ecker L et al. Fecal leukocytes in children infected with diarrheagenic Escherichia coli. J. Clin. Microbiol. 49(4), 1376-1381 (2011).
+Yu Q, Yuan L, Deng J, Yang Q. Lactobacillus protects the integrity of intestinal epithelial barrier damaged by pathogenic bacteria. Front. Cell Infect. Microbiol. 5, 26 (2015).
+Demonstrates that probiotics can prevent ETEC-induced inflammation (immunomodulation) and epithelial barrier damages (exclusion).
+Villena J, Kitazawa H. Modulation of intestinal TLR4-inflammatory signaling pathway by probiotic microorganisms: lessons learned from Lactobacillus jensenii TL2937. Front. Immunol. 4(512), 1-12 (2013).
+Wang X, Hardwidge PR. Enterotoxigenic Escherichia coli prevents host NF-kB activation by targeting IkBa polyubiquitination. Infect. Immun. 80(12), 4417-4425 (2012).
+Wang X, Gao X, Hardwidge PR. Heat-labile enterotoxin-induced activation of NF-kB and MAPK pathways in intestinal epithelial cells impacts enterotoxigenic Escherichia coli (ETEC) adherence. Cell. Microbiol. 14(8), 1231-1241 (2012).
+Gonzales-Siles L, Sjoling A. The different ecological niches of enterotoxigenic Escherichia coli. Environ. Microbiol. 18, 741-751 (2016).
+** Describes the ecology of ETEC in their different habitats.
+
+Masters CI, Shallcross JA, Mackey BM. Effect of stress treatments on the detection of Listeria monocytogenes and enterotoxigenic Escherichia coli by the polymerase chain reaction. J. Appl. Bacteriol. 77(1), 73-79 (1994).
+Gonzales L, Ali ZB, Nygren E et al. Alkaline pH Is a signal for optimal production and secretion of the heat labile toxin, LT in enterotoxigenic Escherichia coli (ETEC). PLoS ONE 8(9), e74069 (2013).
+Johnson WM, Lior H, Johnson KG.
+Heat-stable enterotoxin from Escherichia coli: factors involved in growth and toxin production. Infect. Immun. 20(2), 352-359
+(1978).
+Chatterjee A, Chowdhury R. Bile and unsaturated fatty acids inhibit the binding of cholera toxin and Escherichia coli heat-labile enterotoxin to GM1 receptor. Antimicrob. Agents Chemother. 52(1), 220-224 (2008).
+Nicklasson M, Sjoling A, Von Mentzer A, Qadri F, Svennerholm AM. Expression of colonization factor CS5 of enterotoxigenic Escherichia coli (ETEC) is enhanced in vivo and by the bile component Na glycocholate hydrate. PLoS ONE 7(4), e35827 (2012).
+Sahl JW, Rasko DA. Analysis of global transcriptional profiles of enterotoxigenic Escherichia coli isolate E24377A. Infect. Immun. 80(3), 1232-1242 (2012).
+Kunkel SL, Robertson DC. Factors affecting release of heat-labile enterotoxin by enterotoxigenic Escherichia coli. Infect. Immun. 23(3), 652-659 (1979).
+Rappaport RS, Sagin JF, Pierzchala WA, Bonde G, Rubin BA, Tint H. Activation of Heat-labile Escherichia coli enterotoxin by trypsin. J. Infect. Dis. 133 Suppl, 41-54 (1976).
+Wijemanne P, Moxley RA. Glucose significantly enhances enterotoxigenic Escherichia coli adherence to intestinal epithelial cells through its effects on heat-labile enterotoxin production. PLoS ONE 9(11), e113230 (2014).
+Bodero MD, Munson GP. Cyclic AMP receptor protein-dependent repression of heat-labile enterotoxin. Infect. Immun. 77(2), 791-798 (2009).
+Haines S, Gautheron S, Nasser W, Renauld- Mongenie G. Identification of novel components influencing colonization factor antigen I expression in enterotoxigenic Escherichia coli. PLoS ONE 10(10), e0141469 (2015).
+David LA, Weil A, Ryan ET et al. Gut microbial succession follows acute secretory
+
+diarrhea in humans. MBio 6(3), e00381-e00315 (2015).
+Takashi K, Fujita I, Kobari K. Effects of short chain fatty acids on the production of
+heat-labile enterotoxin from enterotoxigenic Escherichia coli. Japan. J. Pharmacol. 50(4), 495-498 (1989).
+Freestone P. Communication between bacteria and their hosts. Scientifica 2013, 361073 (2013).
+Lyte M, Erickson AK, Arulanandam BP, Frank CD, Crawford MA, Francis DH. Norepinephrine-induced expression of the K99 pilus adhesion of enterotoxigenic Escherichia coli. Biochem. Biophys. Res. Comm. 323, 682-686 (1997).
+Sturbelle RT, da Costa de Avila LF, Roos TB et al. The role of quorum sensing in Escherichia coli (ETEC) virulence factors. Vet. Microb. 180, 245-252 (2015).
+Jelinek T, Kollaritsch H. Vaccination with Dukoral against travelers' diarrhea (ETEC) and cholera. Expert Rev. Vaccines 7(5), 561-567 (2008).
+Nickonchuk T, Lindblad AJ, Kolber MR. Oral cholera vaccine for traveler's diarrhea prophylaxis. Can. Fam. Physician 60(5), 451 (2014).
+Zhang W, Sack DA. Current progress in developing subunit vaccines against enterotoxigenic Escherichia coli-associated diarrhea. Clin. Vaccine Immunol. 22(9), 983-991 (2015).
+Ahmed T, Bhuiyan TR, Zaman K, Sinclair D, Qadri F. Vaccines for preventing enterotoxigenic Escherichia coli (ETEC) diarrhoea. Cochrane Database Syst. Rev. 7, CD009029 (2013).
+Galvao TF, Thees S, Pontes RF, Silva MT, Pereira MG. Zinc supplementation for treating diarrhea in children: a systematic review and meta-analysis. Rev. Panamericana de Salud Publica 33(5), 370-377 (2013).
+Sheikh A, Shamsuzzaman S, Ahmad SM et al. Zinc influences innate immune responses in children with enterotoxigenic Escherichia
+coli-induced diarrhea. J. Nutr. 140(5),
+1049-1056 (2010).
+Roselli M, Finamore A, Garaguso I, Britti MS, Mengheri E. Zinc oxide protects cultured enterocytes from the damage induced by Escherichia coli. J. Nutr. 133(12), 4077-4082 (2003).
+Karjalainen TK, Evans DG, Evans DJ, Graham DY, and Lee CH. Iron represses the expression of CFA/I fimbriae of enterotoxigenic E. coli. Microb. Pathog. 11(5), 317-323 (1991).
+
+Salem W, Leitner DR, Zingl FG et al. Antibacterial activity of silver and zinc nanoparticles against Vibrio cholerae and enterotoxic Escherichia coli. Int. J. Med. Microbiol. 305(1), 85-95 (2015).
+Verhelst R, Schroyen M, Buys N, Niewold TA. E. coli heat labile toxin (LT) inactivation by specific polyphenols is aggregation dependent. Vet. Microbiol. 163(3-4), 319-324 (2013).
+Bruins MJ, Vente-Spreeuwenberg MAM, Smits CH, Frenken LGJ. Black tea reduces diarrhoea prevalence but decreases growth performance in enterotoxigenic Escherichia coli-infected post-weaning piglets. J. Anim. Physiol. Anim. Nutr. (Berl.) 95(3), 388-398 (2011).
+Verhelst R, Schroyen M, Buys N, Niewold T. Dietary polyphenols reduce diarrhea in enterotoxigenic Escherichia coli (ETEC) infected post-weaning piglets. Livest. Sci. 160, 138-140 (2014).
+Long KZ, Santos JI, Rosado JL et al. Impact of vitamin A on selected gastrointestinal pathogen infections and associated diarrheal episodes among children in Mexico City, Mexico. J. Infect. Dis. 194(9), 1217-1225 (2006).
+Hill C, Guarner F, Reid G et al. Expert consensus document. The international scientific association for probiotics and prebiotics consensus statement on the scope and appropriate use of the term probiotic. Nat. Rev. Gastroenterol. Hepatol. 11(8),
+506-514 (2014).
+Chapman CMC, Gibson GR, Rowland I. Health benefits of probiotics: are mixtures more effective than single strains? Eur. J. Nutr. 50, 1-17 (2011).
+Timmerman HM, Koning CJM, Mulder L, Rombouts FM, Beynen AC. Monostrain, multistrain and multispecies probiotics - a comparison of functionality and efficacy. Int. J. of Food. Microbiol. 96, 219-233 (2004).
+Preidis GA, Hill C, Guerrant RL, Ramakrishna BS, Tannock GW, Versalovic J. Probiotics, enteric and diarrheal diseases, and global health. Gastroenterology 140(1), 8-14 (2011).
+** Describes the main mechanisms of action of probiotics against enteropathogenic bacteria.
+Murata K, Tomosada Y, Villena J et al. Bifidobacterium breve MCC-117 induces tolerance in porcine intestinal epithelial cells: study of the mechanisms involved in the immunoregulatory effect. Biosci. Microbiota Food Health 33(1), 1-10 (2014).
+Zhou M, Zhu J, Yu H et al. Investigation into
+in vitro and in vivo models using intestinal
+
+epithelial IPEC-J2 cells and Caenorhabditis elegans for selecting probiotic candidates to control porcine enterotoxigenic Escherichia coli. J. Appl. Microbiol. 117(1), 217-226
+(2014).
+Wachi S, Kanmani P, Tomosada Y et al. Lactobacillus delbrueckii TUA4408L and its extracellular polysaccharides attenuate enterotoxigenic Escherichia coli-induced inflammatory response in porcine intestinal epitheliocytes via Toll-like receptor-2 and 4. Mol. Nutr. Food Res. 58(10), 2080-2093 (2014).
+Tomosada Y, Villena J, Murata K et al. Immunoregulatory effect of bifidobacteria strains in porcine intestinal epithelial cells through modulation of ubiquitin-editing enzyme A20 expression. PLoS ONE 8(3), e59259 (2013).
+Badia R, Zanello G, Chevaleyre C et al. Effect of Saccharomyces cerevisiae var. Boulardii and b-galactomannan oligosaccharide on porcine intestinal epithelial and dendritic cells challenged in vitro with Escherichia coli F4 (K88). Vet. Res. 43, 4 (2012).
+Zanello G, Berri M, Dupont J et al. Saccharomyces cerevisiae modulates immune gene expressions and inhibits ETEC-mediated ERK1/2 and p38 signaling pathways in intestinal epithelial cells. PLoS ONE 6(4), e18573 (2011a).
+Roselli M, Finamore A, Britti MS et al. The novel porcine Lactobacillus sobrius strain protects intestinal cells from enterotoxigenic Escherichia coli K88 infection and prevents membrane barrier damage. J. Nutr. 137(12), 2709-2716 (2007).
+Klingspor S, Bondzio A, Martens H et al. Enterococcus faecium NCIMB 10415 modulates epithelial integrity, heat shock protein, and proinflammatory cytokine response in intestinal cells. Mediators Inflamm. 304149 (2015).
+Finamore A, Roselli M, Imbinto A, Seeboth J, Oswald IP, Mengheri E. Lactobacillus amylovorus inhibits the TLR4 inflammatory signaling triggered by enterotoxigenic Escherichia coli via modulation of the negative regulators and involvement of TLR2 in intestinal Caco-2 cells and pig explants. PLoS ONE 9(4), e94891 (2014).
+Khafipour E, Munyaka PM, Nyachoti CM, Krause DO, Rodriguez-Lecompte JC. Effect of crowding stress and Escherichia coli K88+ challenge in nursery pigs supplemented with anti-Escherichia coli K88+ probiotics. J. Anim. Sci. 92(5), 2017-2029 (2014).
+Zhu YH, Li XQ, Zhang W, Zhou D, Liu HY, Wang JF. Dose-dependent effects of
+
+Lactobacillus rhamnosus on serum interleukin-17 production and intestinal T-cell responses in pigs challenged with Escherichia coli. Appl. Environ.
+Microbiol. 80(5), 1787-1798 (2014).
+Chytilova M, Mudronova D, Nemcova R et al. Anti-inflammatory and
+immunoregulatory effects of flax-seed oil and Lactobacillus plantarum - BiocenolTM LP96 in gnotobiotic pigs challenged with enterotoxigenic Escherichia coli. Res. Vet.
+Sci. 95(1), 103-109 (2013).
+Li XQ, Zhu YH, Zhang HF et al. Risks associated with high-dose Lactobacillus rhamnosus in an Escherichia coli model of piglet diarrhoea: intestinal microbiota and immune imbalances. PLoS ONE 7(7), e40666 (2012).
+Zhang L, Xu YQ, Liu HY, Lai T, Ma JL, Wang JF, Zhu YH. Evaluation of Lactobacillus rhamnosus GG using an Escherichia coli K88 model of piglet diarrhoea: effects on diarrhoea incidence, faecal microflora and immune responses. Vet. Microbiol. 141(1-2), 142-148 (2010).
+Tsai CC, Lin PP, Hsieh YM. Three Lactobacillus strains from healthy infant stool inhibit enterotoxigenic Escherichia coli grown in vitro. Anaerobe 14(2), 61-67 (2008).
+Hillman K, Spencer RJ, Murdoch TA, Stewart CS. The effect of mixtures of Lactobacillus spp. on the survival of enterotoxigenic Escherichia coli in in vitro continuous culture of porcine intestinal bacteria. Lett. Appl. Microbiol. 20(2), 130-133 (1995).
+Trevisi P, Colombo M, Priori D et al. Comparison of three patterns of feed supplementations with live Saccharomyces cerevisiae yeast on postwean in diarrhea, health status, and blood metabolic profile of susceptible weaning pigs orally challenged with Escherichia coli F4ac. J. Anim. Sci. 93, 2225-2233 (2015).
+Yang Y, Galle S, Le MH, Zijlstra RT, Ganzle MG. Feed fermentation with Reuteran-and- Levan-producing Lactobacillus reuteri reduces colonization of weanling pigs by enterotoxigenic Escherichia coli. Appl. Environ. Microbiol. 81(17), 5743-5752 (2015).
+Shows that probiotics can inhibit toxin production (direct antagonism).
+Lee JS, Awji EG, Lee SJ et al. Effect of Lactobacillus plantarum CJLP243 on the growth performance and cytokine response of weaning pigs challenged with enterotoxigenic Escherichia coli. J. Anim. Sci. 90(11), 3709-3717 (2012).
+
+Konstantinov SR, Smidt H, Akkermans ADL et al. Feeding of Lactobacillus sobrius reduces Escherichia coli F4 levels in the gut and promotes growth of infected piglets. FEMS Microbiol. Ecol. 66(3), 599-607 (2008).
+Wu Y, Zhu C, Chen Z et al. Protective effects of Lactobacillus plantarum on epithelial barrier disruption caused by enterotoxigenic Escherichia coli in intestinal porcine epithelial cells. Vet. Immunol. Immunopathol. 172,
+55-63 (2016).
+Lodemann U, Strahlendorf J, Schierack P, Klingspor S, Aschenbach JR, Martens H. Effects of the probiotic Enterococcus faecium and pathogenic Escherichia coli strains in a pig and human epithelial intestinal cell model. Scientifica 2015, 235184 (2015).
+Osmanagaoglu O, Kiran F, Ataoglu H. Evaluation of in vitro probiotic potential of Pediococcus pentosaceus OZF isolated from human breast milk. Probiotics Antimicrob. Proteins 2(3), 162-174 (2010).
+Zhong SS, Zhang ZS, Wang JD et al. Competitive inhibition of adherence of enterotoxigenic Escherichia coli, enteropathogenic Escherichia coli and Clostridium difficile to intestinal epithelial cell line Lovo by purified adhesin of Bifidobacterium adolescentis 1027. World J. Gastroenterol. 10(11), 1630-1633 (2004).
+Fujiwara S, Hashiba H, Hirota T, Forstner JF. Inhibition of the binding of enterotoxigenic Escherichia coli Pb176 to human intestinal epithelial cell line HCT-8 by an extracellular protein fraction containing BIF of Bifidobacterium longum SBT2928: suggestive evidence of blocking of the binding receptor gangliotetraosylceramide on the cell surface. Int. J. Food Microbiol. 67(1-2), 97-106 (2001).
+Trevisi P, Latorre R, Priori D et al. Effect of feed supplementation with live yeast on the intestinal transcriptompe profile of weaning pigs orally challenged with Escherichia coli F4. Animal, 30, 1-12 (2016).
+Yang KM, Jiang ZY, Zheng CT, Wang L, Yang XF. Effect of Lactobacillus plantarum on diarrhea and intestinal barrier function of young piglets challenged with enterotoxigenic Escherichia coli K88. J. Anim. Sci. 92(4), 1496-1503 (2014).
+Daudelin JF, Lessard M, Beaudoin F et al. Administration of probiotics influences F4 (K88)-positive enterotoxigenic Escherichia coli attachment and intestinal cytokine expression in weaned pigs. Vet. Res. 42, 69 (2011).
+Ouwehand AC, ten Bruggencate SJM, Schonewille AJ, Alhoniemi E, Forssten SD, Bovee-Oudenhoven IMJ. Lactobacillus
+
+acidophilus supplementation in human subjects and their resistance to enterotoxigenic Escherichia coli infection. Br. J. Nutr. 111(3), 465-473 (2014).
+Ten Bruggencate SJM, Girard SA, Floris- Vollenbroek EGM, Bhardwaj R, Tompkins TA. The effect of a multi-strain probiotic on the resistance toward Escherichia coli challenge in a randomized, placebo-controlled,
+double-blind intervention study. Eur. J. Clin. Nutr. 69(3), 385-391 (2015).
+McFarland LV. Meta-analysis of probiotics for the prevention of traveler's diarrhea. Travel Med. Infect. Dis. 5(2), 97-105 (2007).
+Roura E, Koopmans SJ, Lalles JP et al. Critical review evaluating the pig as model for human nutritional physiology. Nutr. Res.
+Rev. 29, 60-90 (2016).
+Sams L, Paume J, Giallo J, Carriere F. Relevant pH and lipase for in vitro models of gastric digestion. Food Funct. 7(1), 30-45 (2016).
+Heinritz SN, Mosenthin R, Weiss E. Use of pigs as a potential model for research into dietary modulation of the human microbiota. Nutr. Res. Rev. 26, 191-209 (2013).
+Lundell K, Wikvall K. Species-specific and age-dependent bile acid composition: aspects on CYP8B and CYP4A subfamilies in bile acid biosynthesis. Curr. Drug. Metab. 9(4), 323-331 (2008).
+Kararli TT. Comparison of the gastrointestinal anatomy, physiology, and biochemistry of humans and commonly used laboratory animals. Biopharm. Drug.
+Dispos. 16(5), 351-380 (1995).
+Turner SM, Scott-Tucker A, Cooper LM, Henderson IR. Weapons of mass destruction: virulence factors of the global killer Enterotoxigenic Escherichia coli. FEMS Microbiol. Lett. 263, 10-20 (2006).
+Geary SJ, Marchlewicz BA, Finkelstein RA. Comparison of heat-labile enterotoxins from porcine and human strains of Escherichia coli. Infect. Immun. 36(1), 215-220 (1982).
+Zhang Q, Widmer G, Tzipori S. A pig model of the human gastrointestinal tract. Gut Microbes 4(3), 193-200 (2013).
+Guerra A, Etienne-Mesmin L, Livrelli V, Denis S, Blanquet-Diot S, Alric M. Relevance and challenges in modeling human gastric and small intestinal digestion. Trends Biotechnol. 30(11), 591-600 (2012).
+** Describes the main in vitro models of the human gut, their interests and limits.
+Payne AN, Chassard C, Banz Y, Lacroix C. The composition and metabolic activity of child gut microbiota demonstrate differential
+
+adaptation to varied nutrient loads in
+an in vitro model of colonic fermentation.
+FEMS Microbiol. Ecol. 80(3), 608-623 (2012).
+Blanquet-Diot S, Denis S, Chalancon S, Chaira F, Cardot JM, Alric M. Use of
+
+artificial digestive systems to investigate the biopharmaceutical factors influencing the survival of probiotic yeast during gastrointestinal transit in humans. Pharm. Res. 29(6), 1444-1453 (2012).
+
+Marzorati M, Vanhoecke B, De Ryck T et al. The HMITM module: a new tool to study the host-microbiota interaction in the human gastrointestinal tract in vitro. BMC Microbiol. 14(133) (2014).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+future science group		10.2217/fmb-2016-0101
+
+

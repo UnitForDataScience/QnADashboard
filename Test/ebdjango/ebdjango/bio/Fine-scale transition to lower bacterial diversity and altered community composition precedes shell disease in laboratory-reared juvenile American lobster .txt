@@ -1,0 +1,371 @@
+
+
+
+
+Fine-scale transition to lower bacterial diversity and altered community composition precedes shell disease in laboratory-reared juvenile American lobster
+Sarah G. Feinman1, Andrea Unzueta Martinez2, 5, Jennifer L. Bowen1, 5, Michael F. Tlusty3, 4,*
+1Biology Department, University of Massachusetts Boston, Boston, MA 02125, USA 2Biology Department, University of Hawaii at Manoa, Honolulu, HI 96822, USA   3Anderson Cabot Center for Ocean Life, New England Aquarium, Boston, MA 02110, USA 4School for the Environment, University of Massachusetts Boston, Boston, MA 02125, USA
+5Present address: Department of Marine and Environmental Science, Northeastern University, Nahant, MA 01908, USA
+
+
+
+
+ABSTRACT: The American lobster Homarus americanus supports a valuable commercial fishery in the Northeastern USA and Maritime Canada; however, stocks in the southern portion of the lobster's range have shown declines, in part due to the emergence of shell disease. Epizootic shell disease is a bacterially induced cuticular erosion that renders even mildly affected lobsters unmar- ketable because of their appearance, and in more severe cases can cause mortality. Despite the importance of this disease, the associated bacterial communities have not yet been fully character- ized. We sampled 2 yr old, laboratory-reared lobsters that displayed signs of shell disease at the site of disease as well as at 0.5, 1, and 1.5 cm away from the site of disease to determine how the bacterial community changed over this fine spatial scale. Illumina sequencing of the 16S rRNA gene revealed a distinct bacterial community at the site of disease, with significant reductions in bacterial diversity and richness compared to more distant sampling locations. The bacterial com- munity composition 0.5 cm from the site of disease was also altered, and there was an observable decrease in bacterial diversity and richness, even though there were no signs of disease at that location. Given the distinctiveness of the bacterial community at the site of disease and 0.5 cm from the site of disease, we refer to these communities as affected and transitionary, and suggest that these bacteria, including the previously proposed causative agent, Aquimarina 'homaria', are important for the initiation and progression of this laboratory model of shell disease.
+
+KEY WORDS: American lobster * Shell disease * Bacterial communities * Microbiome * High  throughput sequencing * 16S rRNA gene
+Resale or republication not permitted without written consent of the publisher
+
+
+
+INTRODUCTION
+
+The American lobster Homarus americanus sup- ports a valuable commercial fishery in the Gulf of Maine, with landings totaling over half a billion dol- lars in 2014 (National Marine Fisheries Service 2014). Although landings are at historic highs, the southern extent of this fishery has recently come under threat, with epizootic lobster shell disease being one poten-
+
+*Corresponding author: 
+
+tial driver (Tlusty et al. 2014). This disease occurs when bacteria consume the lobster cuticle resulting in deep lesions on infected lobsters (Smolowitz et al. 2005). Most types of shell disease first appear as melanized spots on the epicuticle (Tlusty & Metzler 2012). In the epizootic form of shell disease, these spots quickly develop into shallow lesions on the exo- cuticle that ultimately penetrate into the endocuticle and eventually cause ulceration (Smolowitz et al.
+
+(c) Inter-Research 2017 * 
+
+
+
+
+2005). Due to the physical severity of epizootic shell disease, even mildly affected lobsters are generally considered unmarketable due to the unappealing appearance of their shells, thus affecting the value of this important commercial fishery (Castro et al. 2012). In addition to aesthetic changes associated with epizootic shell disease, animals can also suffer from decreased health (Tlusty et al. 2014) and increased mortality (Castro et al. 2012). Lobsters affected by shell disease are energetically compromised, with disruptions to their metabolism and hormone signal- ing (Tarrant et al. 2012). They also tend to have high levels of the molting hormone ecdysone, which can disrupt their reproductive cycle (Laufer et al. 2005). These physiological changes may in turn influence population dynamics, particularly since disease pre- valence among egg-bearing females can be as high as 70% (Castro & Somers 2012). The recent decline in the southern New England American lobster pop- ulation has been positively associated with an increase in epizootic shell disease (Castro et al. 2012, Howell 2012), highlighting the importance of understanding
+the ecological dynamics of this disease.
+Despite the importance of epizootic shell disease to the health of the American lobster and the importance of this fishery to coastal economic sustainability, the bacteria associated with epizootic shell disease have not yet been fully identified. Initial investigation of the bacteria associated with epizootic shell disease identified a few key members of the shell micro- biome (Chistoserdov et al. 2005); however, this study was based on culturing techniques, which typically assess less than 1% of the bacterial community (Sta- ley & Konopka 1985). Later studies based on culture- independent fingerprinting methods eliminated this culture bias; however, those studies did not fully characterize the bacterial community associated with both healthy and diseased shell throughout the pro- gression of the disease (Chistoserdov et al. 2012, Quinn et al. 2012b, Whitten et al. 2014). A higher res- olution sequencing study using next-generation se- quencing techniques identified 170 different bacter- ial species associated with the lobster shell, an order of magnitude more than previous studies (Meres et al. 2012). This study examined the lobster shell bac- terial community associated with 3 distinct disease states: diseased cuticle, healthy cuticle from diseased animals, and healthy cuticle from healthy animals, and concluded that the epizootic shell disease may be due to a dysbiotic shift in the shell bacterial com- munity (Meres et al. 2012). These results highlight the importance of examining the bacterial commu- nity as a whole, as this disease may be due to changes
+
+in the community, not individual bacteria. Further, an assessment of temporal changes in shell bacterial communities is needed to better understand the pro- gression of shell disease.
+The importance of microbially induced diseases to coastal ecosystem health is well documented (Harvell et al. 1999, Fey et al. 2015); however, it is still difficult to link specific bacterial taxa to these diseases. In this study, we used a laboratory-based model that has been used in numerous studies of lobster shell dis- ease (Quinn et al. 2012a,b, Tlusty & Metzler 2012, Whitten et al. 2014) to characterize the bacterial com- munities recovered from lobster shells. Our objec- tives were to (1) compare healthy and diseased areas of the lobster shell, (2) investigate how these commu- nities changed spatially and temporally as the dis- ease progressed, and (3) identify any associated dys- biotic shifts that occurred in the bacterial community. We used Illumina 16S rRNA gene sequencing on samples collected over very fine spatial scales from the shell of diseased and healthy juvenile lobsters to analyze the lobster shell bacterial community and we examined how this community changed with dis- tance from the site of disease. The animals used in this study were not formally diagnosed with epizootic shell disease, they instead suffered from a laboratory model of shell disease (LMSD) that is common in cap- tivity and likely due to environmental stress. These results, nonetheless, allow closer scrutiny of the pro- cess of lesion initiation and spread, which would not be possible in wild lobster populations. Based on pre- vious studies of LMSD (Whitten et al. 2014), we hypothesized that the bacterial community would gradually change and become less diverse with in- creasing distance from the site of melanization. Our results indicate shifts in bacterial community compo- sition at the site of disease as well as at 0.5 cm from the site of disease, though these shifts were ac- companied by a decrease, rather than an increase, in bacterial richness and diversity compared to unaf- fected shell.
+
+
+MATERIALS AND METHODS
+
+Sample collection
+
+Samples were collected from 5 juvenile American lobsters raised at the New England Aquarium Lob- ster Research and Rearing Facility (Boston, MA, USA), which features a semi-closed recirculation system with water from Boston Harbor (15% water replace- ment daily). Lobsters were housed in conditions sim-
+
+
+
+
+ilar to those described in prior shell disease research (Chistoserdov et al. 2012, Quinn et al. 2012b, Tlusty & Metzler 2012, Whitten et al. 2014). Briefly, all lob- sters were kept in individual 9 cm diameter contain- ers (hereafter referred to as pens) and fed a diet con- sisting of Economac-4(tm) (Aquafauna Bio-Marine), a commercially available shrimp feed. This diet lacks the carotenoid astaxanthin, causing the lobster shell to have no color, a desirable phenotype for this study as it allows early detection and better visualization of the melanization associated with LMSD (Tlusty & Hyland 2005).
+The diseased lobsters used in this study were ap- proximately 2 yr old and had all molted approxi- mately 5 to 6 mo before the initiation of sampling, with the exception of a single lobster that molted approxi- mately 3 mo prior to the initiation of sampling. These lobsters were chosen because they all had visible signs of LMSD on their left claw, though the degree of melanization varied among lobsters. Although LMSD was also present on other parts of the lobsters' shells, we focused solely on the left claw of each lob- ster in order to eliminate any potential confounding differences that could arise from comparing different parts of the lobster shell (Meres et al. 2012). We cate- gorized the degree of melanization on each lobster claw, defining lesions as melanized areas of the shell that had become soft or pitted, and spots as areas that were melanized, but maintained a rigidity similar to that of the unaffected lobster shell.
+We sampled the diseased lobsters approximately every 10 d over the course of the experiment for a total of 4 time points per lobster. Shell microbiome samples were collected using sterile toothpicks to scrape the bacterial community from the desired area of each lobster shell. Gentle contact was made be- tween the toothpick and the lobster and this contact was maintained over the entire sampling area. Each toothpick was then stored in an individual cryovial and transported to the laboratory on dry ice where it was transferred to a -20degC freezer. During each sam- pling, shell scrapings were taken from the center of the lesion or spot on the left claw (referred to as 0 cm) as well as at a distance of 0.5, 1, and 1.5 cm laterally at an angle away from the dactylus (Fig. 1). Samples were also taken from each lobster pen at a point just below the waterline, while the pen was out of the water, on all 4 sampling dates, for a total of 100 sam- ples (5 samples per lobster, 5 lobsters, 4 time points). We kept photographic records of each lobster through- out the course of the experiment and used these pho- tographs to guide our sampling and ensure that sim- ilar shell locations were sampled on each visit. Some
+
+of the lobsters molted during the course of the exper- iment, but we continued to sample the same locations as described above after molting.
+In addition to these samples, we also collected shell bacterial community samples from 5 lobsters that appeared to be free of disease. These additional lob- sters were from the same age group and housed in the same conditions, but had all molted approximately 1 mo before the initiation of sampling and showed no visible signs of LMSD. We sampled these lobsters on the same dates as the diseased lobsters, but only took a single bacterial community sample from the left claw of each lobster. These lobsters served as a rep- resentation of what a healthy bacterial community might look like on a disease-free lobster, so lobsters from this group that developed signs of LMSD were subsequently eliminated from the study.
+
+
+DNA extraction and sequencing
+
+DNA was extracted from toothpicks using the Pow- erSoil(r) DNA Extraction Kit (MOBIO) following the manufacturer's instructions. Kit negative controls, extractions containing no toothpick, were performed periodically and subsequently amplified to ensure that there was no kit contamination in the extracts (Salter et al. 2014). Additionally, DNA was extracted directly from a sterile toothpick, to ensure there was no amplification from the toothpick alone. DNA ex- tracts from lobster and pen samples were amplified in triplicate using bacterial specific (515F: 5'-GTG CCA GCM GCC GCG GTA A-3'; 806R: 5'-GGA CTA
+CHV GGG TWT CTA AT-3'), uniquely barcoded, 16S rRNA primers containing adaptors for Illumina se- quencing (Caporaso et al. 2012). Each 25 ul PCR reaction contained 10  ul  5-Prime  Hot  Master  Mix  (5 Prime(r), Thermo Fisher Scientific) and 0.2 uM of each primer. In addition, 0.5 to 2 ul of DNA was ad- ded to each reaction, depending on the original DNA
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Main sampling scheme employed in this study. Shell scrapings were taken from (S) center of lesion or spot on the left claw (referred to as 0 cm), and (S) 0.5 cm, (S) 1.0 cm, and (S) 1.5 cm from the lesion or spot
+
+
+
+
+concentration. PCR products were purified using the QIAquick(r) PCR Purification Kit (QIAGEN) following the manufacturer's instructions, and quantified using a Qubit(r) 2.0 Fluorometer (Life Technologies, Thermo Scientific). PCR products were pooled in equimolar amounts and the quantity of the pool was checked using the KAPA Library Quantification Kit for Illumina Sequencing Platforms (Kapa Biosystems). The pool was then loaded onto a MiSeq sequencer (Illumina) and sequenced using a paired-end V2 300 cycle kit.
+
+
+Sequence analysis
+
+Quality filtering and sequence analysis was per- formed in QIIME using default parameters unless noted (Caporaso et al. 2010). Paired-end reads were joined specifying at least 10 base pairs in overlap and sequences within a Phred score of 30 or higher were retained (indicating 99.9% accuracy in base calling). Chimeric sequences were identified using usearch61, an algorithm that performs both de novo and refer- ence-based chimera detection, with the Genomes OnLine Database (GOLD) as a reference, and chimeras were subsequently removed (Edgar et al. 2011, Reddy et al. 2015). After these quality-filtering steps, 2 726 677 sequences remained. Operational taxonomic units (OTUs) were assigned at 97% sequence iden- tity using Swarm (Mahe et al. 2014). OTUs identified as Archaea or chloroplasts, or that were unassigned at the kingdom level using the Ribosomal Database Project (RDP) classifier (Wang et al. 2007), were re- moved from downstream analysis. Samples were rar- ified to the lowest sequencing depth, 4735 OTUs per sample, for analysis of community composition and alpha diversity.
+
+
+Statistical analysis
+
+The weighted UniFrac metric was used for analysis of community composition because it considers both phylogenetic distance and abundance (Lozupone et al. 2011). We visualized differences in bacterial com- munity structure among 0.5 cm increments on each lobster using principal coordinates analysis and tested for differences between these communities using per- mutational multivariate analysis of variance (PERM- ANOVA; Anderson 2001) with individual lobster as a blocking component. To test for pairwise differences in each 0.5 cm increment we compared logit-trans- formed weighted UniFrac similarities of each 0.5 cm comparison using a Welch's t-test, which accounts for
+
+unequal variance, again using individual lobster as a blocking component (R Core Team 2014). We also used QIIME to calculate 2 alpha diversity metrics: phylogenetic distance, a richness estimator that takes phylogeny into account (Faith & Baker 2006), and Shannon diversity. Significance testing of alpha diver- sity measures was done using analysis of variance on linear models that included the individual lobster sampled as a random effect.
+We defined the core microbiome as OTUs that were in n - 1 samples within a given shell condition. This resulted in 76 OTUs that were considered to be 'core' to 1 or more shell condition. We then identified representative sequences from each of these OTUs using the NCBI Basic Local Alignment Search Tool (BLAST). All sequence information produced from this study is available from the Sequence Read Archive under accession no. PRJNA307069.
+
+
+RESULTS
+
+Sequence analysis of the 100 bacterial samples taken from 5 diseased lobsters and their pens  yielded 2 726 677 sequences corresponding to 18 204 unique OTUs defined at 97% sequence identity. Analysis of samples taken from the left claw of lob- sters affected by LMSD showed that bacterial com- munity composition at the site of disease (distance   0 cm) clustered separately from most other samples (Fig. 2A), indicating that  lobster  shell  at  the  site of disease harbors a distinct bacterial community (PERMANOVA, F = 22.77, p < 0.001, df = 62). The
+bacterial community found on lobster shell 0.5 cm away from the site of LMSD (Fig. 2A) was between the 0 cm community and the 1 and 1.5 cm communi- ties, and distinct from each (F = 7.13, p < 0.001, df = 31, and F = 6.18, p < 0.001, df = 46), indicating that this may be a transitionary bacterial community, intermediate between affected and unaffected lob- ster shell. Bacterial communities from lobster shell 1 and 1.5 cm away from the site of the LMSD clus- tered together and more tightly than the bacterial communities from the other 2 sets of samples, indi- cating that these communities are more  similar  (Fig. 2A) and may represent an unaffected bacterial community distinct from affected and transitionary communities (F = 17.00, p < 0.001, df = 62). Impor- tantly, we did not see a change in bacterial commu- nity composition driven by sampling date (Fig. S1 in the Supplement at  ), indicating that distance from the site of disease was more important than temporal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Principal coordinates analysis of the weighted UniFrac metric comparing bacterial community composition of (A) dis- eased lobster shell and (B) unaffected lobster shell. Diseased lobster shell includes samples collected from (red) the site of LMSD, as well as (blue) 0.5 cm, (green) 1 cm, and (purple) 1.5 cm away from the site of the disease. Unaffected lobster shell in- cludes (F) samples from those same distances on lobsters affected by LMSD that had recently molted and were therefore con- sidered disease free, (n) samples from the left claw of lobsters with no recorded history of disease, and samples collected from diseased lobsters (d) 1 and (d) 1.5 cm from the site of LMSD
+
+
+patterns in determining bacterial community compo- sition in this study.
+Since the 1 and 1.5 cm distances appeared to rep- resent unaffected lobster shell, we compared the bacterial community found at these locations to the bacterial community found on lobsters that did not have LMSD, including samples from the left claw of lobsters that showed no visible signs disease, and samples from 4 different locations on the left claw of lobsters that had recently molted (Fig. 2B). Samples taken 1 and 1.5 cm from the site of disease on dis- eased lobster shell clustered together with samples taken from the left claw of lobsters that showed no visible signs of LMSD (Fig. 2B, 'clean' lobsters com- pared to diseased lobsters; F = 6.13, p > 0.95, df = 41), indicating that locations 1 and 1.5 cm from the site of LMSD are in fact representative of unaffected, dis- ease-free shell.
+Bacterial communities recovered from the shell of molted lobsters (Fig. 2B) showed no differences among location on the shell (F = 0.64, p > 0.40, df = 15), sug- gesting that, in the area sampled, there was no sys- tematic change in bacterial community composition across disease-free lobster shell. We therefore used molted lobsters as a baseline for what might be ex- pected for community change among locations on a clean, disease-free lobster claw, and compared this to
+
+the bacterial community change of each 0.5 cm incre- ment on the lobsters (Fig. 3). We found that there was less similarity between bacterial communities at 0 and 0.5 cm (Fig. 3) in lobsters with lesions (Welch's t-test, t = -3.89, p < 0.005, df = 7) and spots (t = -3.58,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3. Median weighted UniFrac similarity of each sequen- tial 0.5 cm increment on the lobster claw. Midline indicates the median value, box indicates the 25th and 75th quartiles, and whiskers extend to the smallest or largest value ob- served within 1.5 x interquartile range beyond the box. Values not within that range are represented as outliers
+
+
+
+
+p < 0.01, df = 8) than in molted lobsters, indicating that the bacterial community at the site of disease was more different from adjacent sites than would be expected based on molted lobsters that showed no signs of the LMSD.
+The weighted UniFrac similarities found when comparing bacterial community composition at 0.5 and 1 cm (Fig. 3) were statistically different on lob- sters that had a lesion at 0 cm compared to lobsters that had molted (t = -2.16, p < 0.05, df = 16), but were not statistically different at a = 0.05 for lobsters that had a spot at 0 cm (t = -2.10, p > 0.06, df = 10). Despite this discrepancy on lobsters with a spot at    0 cm, we still consider the 0.5 cm distance a transi- tionary zone in LMSD. First, the average weighted UniFrac similarity among the 0.5 and 1 cm distances on lobsters with a spot at 0 cm was lower than on molted lobsters, indicating that the 0.5 cm bacterial community on lobsters with a spot at 0 cm was less similar to adjacent sites than expected. Second, the results of the Welch's t-test were reasonably close  (p = 0.062) to being significant at an arbitrarily selected a = 0.05. Finally, PERMANOVA analysis showed significant support for grouping the data into 3 different groups: 0, 0.5, and 1 and 1.5 cm when comparing all lobsters with a lesion at 0 cm (F = 16.30, p < 0.001, df = 30), and lobsters with a spot at 0 cm (F = 13.06, p < 0.001, df = 30). We therefore defined the 0.5 cm distance as a transitionary zone harboring a bacterial community that was differentiated from the unaffected lobster shell community before the visual onset of LMSD.
+The transitionary zone was limited to the 0.5 cm distance as the weighted UniFrac similarity on lob- sters that had lesions or spots on their left claw was not statistically different from the same comparison on the molted lobster shell at a dis-
+tance of 1 and 1.5 cm (Fig. 3, t = 0.35,
+p > 0.7, df = 6, and t = -0.97, p > 0.3,
+df = 7). This indicates that the bacterial community was not altered by LMSD at 1 cm away from the site of melaniza- tion (and presumably at more distant locations), and was therefore represen- tative of what was found on unaffected lobster shell at this point in the molt cycle. Given these results, we here- after differentiate 3 categories of shell:
+
+sidered a transitionary condition from unaffected shell to the more advanced lesion shell. The lack of a distinct separation in the principal coordinates analy- sis between lobsters with lesions at 0 cm and spots at 0 cm (Fig. 2A) suggests that the categories of lesion and spot may not be meaningful with regard to the associated bacterial communities. To test this, we compared the bacterial community composition of lobsters with lesions to those with spots on both af- fected and transitionary shell, and found there was no statistical evidence to support separating lesion bacterial communities from spot bacterial communi- ties (F = 1.83, p > 0.1, df = 15, and F = 0.82, p > 0.3,
+df = 15). These data suggest that, once there was visual evidence of LMSD, there was little subsequent change in bacterial community composition, and we therefore no longer distinguish between lesion and spot in our analysis.
+After classifying samples into 3 discrete shell con- dition groups (affected, transitionary, and unaf- fected) based on bacterial community composition, we compared differences in diversity within each group, using the pen where each lobster was kept    as a baseline for maximum bacterial diversity (Fig. 4). Regardless of shell condition, bacterial diversity was consistently lower on the lobster shell than in the pen. Alpha diversity varied among shell conditions, with the lowest diversity observed on the affected shell. Bacterial diversity on the transitionary shell was intermediate between the affected shell and unaffected shell, indicating that the drop in bacterial diversity began before the visual appearance of LMSD. These differences in diversity account for some of the differences seen in the rank  abun-  dance curve of each shell condition (Fig. S2 in the Supplement).
+
+0 cm, affected shell; 0.5 cm, transitio- nary shell; and 1 cm and 1.5 cm, un- affected shell.
+We also examined if the bacterial community within a spot could be con-
+
+Fig. 4. Analysis of alpha diversity associated with LMSD for 3 different shell
+conditions and the lobster pen. Differences in diversity between shell condi- tions were significant at a p < 0.001 for each diversity metric as indicated by letters (lowercase letters are used for comparisons using phylogenetic distance as a measure; uppercase letters are used for comparisons using Shannon diversity). Error bars represent standard deviation
+
+
+
+
+We identified the bacteria that were important to changes in diversity among different shell conditions by analyzing the core microbiome. We defined the core microbiome as bacteria that were present in n - 1 samples from each shell condition because bacteria that are truly important to causing a shift to a shell condition should be present in nearly all samples from that shell condition. While this criterion does not capture all of the most abundant bacteria present (see Fig. S2 in the Supplement), it narrows the focus to those that are more likely to be contributing to the progression of LMSD.
+There were 76 OTUs considered  to  be  part  of the core microbiome of 1 or more shell condition
+
+(Fig. 5). These 76 OTUs comprised a total of 49% of the sequences recovered from affected shell, 38%   of the sequences recovered from transitionary shell, and 36% of the sequences recovered from unaf- fected shell. Of these OTUs, 16 were considered unique to the core microbiome of unaffected shell (Fig. 5A,D), yet they only constituted 5% of the sequences from this shell condition. Conversely, there were 14 OTUs that were unique to the core microbiome of affected shell, accounting for 34% of the sequences from this shell condition (Fig. 5A,B). This stark contrast is due in part to the significantly lower diversity in the affected shell compared to the unaffected shell (Fig. 4). From the affected core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. (A) Core microbiome of each shell condition, with (B-G) accompanying bar charts of each operational taxonomic unit (OTU) in that core microbiome and its relative abundance within each shell condition (title text color matches the portion of (A) corresponding to the bar chart). Please note the difference in scale for each bar plot. Individual OTUs are designated by their OTU number along the x-axis. Error bars represent standard deviation. Numbers within the Venn diagram indicate the number of OTUs that belong to each core microbiome, while italics indicate the percent those OTUs account for in each shell condition
+
+
+
+
+microbiome, we identified OTU 0, from the candi- date genus Candidatus Thioglobus, and OTU 18, genus Aquimarina, as important to LMSD based on their proportional  abundances  (combined  27%, Fig. 5B, Table 1).
+There were 13 OTUs that were unique to the tran- sitionary core microbiome, accounting for 5% of the sequences recovered from this part of  the  shell  (Fig. 5A,C). The presence of OTUs that are unique to the transitionary core microbiome indicates that there are members of the transitionary bacterial com- munity beyond what might be expected from a sim- ple mixing of the microbiota from healthy and dis- eased lobster shell. OTUs 44, 78, and 160 from the genera Marinobacter, Loktanella, and Candidatus Endobugula, stood out as important members of the transitionary core microbiome due to their abun- dance in both the affected and transitionary shell conditions (Fig. 5C, Table 1).
+There were also 33 OTUs found in the core micro- biome of more than 1 shell condition. Of these 33 OTUs, 19 were shared between the transitionary and unaffected shell (Fig. 5A,G), whereas only 4 OTUs
+
+were shared between the transitionary and affected shell (Fig. 5A,E). This low number of OTUs shared between the core microbiomes of transitionary and affected shell provides further evidence that the bac- teria associated with this transition zone are not merely a result of the outward expansion of the bac- teria inhabiting affected shell. There were no OTUs shared between the affected and unaffected core microbiome that were not also a part of the transi- tionary core microbiome, which also highlights the importance of the bacterial community found 0.5 cm from the site of LMSD as a transition between these 2 shell conditions. From the affected/transitionary core microbiome overlap, we identified OTU 47 from the genus Colwellia, and OTU 118 from the genus Areni- cella to be of interest based on their relative abun- dances (Fig. 5E, Table 1). Finally, there were 10 ubi- quitous OTUs shared among the core microbiomes of all 3 shell conditions (Fig. 5A,F). OTU 1 from the genus Perspicuibacter, and OTU 19 from the genus Lutimonas were of particular importance due to their abundances on the transitionary and affected shell, respectively (Fig. 5F, Table 1).
+
+
+
+Table 1. Taxonomy for core operational taxonomic units (OTUs) identified in this study. Closest cultured representative for all OTUs, listed in order, from Fig. 5. Bold OTUs are those shown in Fig. 6. Abundance is the relative abundance in that shell condition. Note: OTU 0 has not yet been classified at the order or family level
+
+
+
+
+
+
+(Table continued on next page)
+
+
+
+Table 1 (continued)
+
+aCandidate classification
+
+
+
+
+DISCUSSION
+
+High-throughput sequencing results from lobsters with and without visible signs of LMSD (i.e. lobsters with spots, lobsters with lesions, and lobsters that had recently molted and did not exhibit signs of LMSD) indicate the presence of 3 distinct bacterial commu- nities (Fig. 6A). We classified these 3 distinct commu- nities as affected, transitionary, and unaffected shell communities based on weighted UniFrac analysis of community composition (Figs. 2 & 3). The presence of a distinct bacterial community at the site of disease agrees with prior work indicating that bacteria are the causative agent of shell disease (Chistoserdov et al. 2012). However, our small spatial scale sampling allowed a more comprehensive characterization of the bacterial community associated with LMSD, enabling
+
+us to separate out the bacterial communities associ- ated with the transition from unaffected to affected shell and thus identifying the presence of a third bac- terial community on shells affected with LMSD, the transitionary community.
+Interestingly, our results indicate no differentiation among bacterial communities found on lobsters with lesions and spots in either affected or transitionary shell. This finding is counter to previously reported genetic fingerprinting results that showed differ- ences in the bacterial communities among lesions and spots (Quinn et al. 2012b). Based on their initial findings, Quinn et al. (2012b) suggested that the bac- teria present in a spot may be important in initiating shell disease in lobsters, whereas bacteria found in lesions were secondary, opportunistic colonizers that thrived in the new conditions. The lack of differenti-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 6. Conceptual diagram of the laboratory model of shell disease (LMSD). Visual summary of the findings of this study show- ing (A) the main observations of this study and (B,C) 2 different alternate models of these data, though others are possible. (A1) The 3 distinct bacterial communities present on diseased lobster shell: unaffected, transitionary, and affected shell communi- ties, highlighting the lack of difference between spot and lesion communities. The post-molt community is fairly similar to the unaffected shell community, though this community, devoid of disease, is fairly uniform across the sampling area. (A2) The ob- served decrease in bacterial diversity as LMSD progresses. (A3) Several operational taxonomic units (OTUs) that are of inter- est to LMSD based on their abundances in either the transitionary or affected shell communities. (B) Alternate Model 1. The transitionary bacterial community, though unique, is unimportant to the progression of LMSD and simply represents a community that is able to live in the proximity of disease-causing bacteria. (C) Alternate Model 2. The transitionary bacterial community consists of precursory bacteria that are present before visual signs of the disease occur
+
+
+
+
+ation between lesion and spot communities in our data suggests that this may not be the case. The tran- sitionary shell bacterial community that we identi- fied, however, may be important for initiation of LMSD while the affected shell bacterial community could represent secondary colonizers.
+In addition to identifying 3 distinct bacterial com- munities, we observed a positive association between bacterial diversity and distance from the site of LMSD (Figs. 4 & 6A). This is contrary to work done by Whit- ten et al. (2014), which showed greater bacterial diversity in diseased shell compared to healthy shell. These previous results, however, were based on methods that recovered an average of 8 to 11 taxa per sample. The sequencing methods we used allowed for a much greater depth, which revealed a greater proportion of low abundance taxa, thereby increas- ing apparent diversity. The reduction in bacteria at the site of LMSD indicates that the diseased shell environment may be highly selective for specific bac- terial taxa, perhaps due to the host response and the antibacterial effects of melanin. Alternatively, op- portunistic bacteria associated with the newly ex- posed chitin matrix may outcompete other bacteria, thereby excluding them. Since bacterial diversity was also reduced on the transitionary shell compared to the unaffected shell, we suggest that competition, rather than environmental factors, lowered bacterial diversity at the site of LMSD. It is also possible that, along with changes in the bacterial community, changes occurred in the physical environment of the transitionary shell prior to the onset of disease that have yet to be identified.
+The presence of a transitionary community sug- gests that it is not just the bacteria at the site of dis- ease that are altered during LMSD, but that there is also a change in the bacterial community composi- tion at distances up to 0.5 cm away from the site of melanization. The transitionary community could represent several possibilities, the 2 most parsimo- nious being (1) an outer edge of the disease zone that is fouled by disease causing bacteria, or (2) a novel community that is a precursor for pathogenic bacteria that later infect the lobster shell. These 2 alternate models for disease transmission, depicted in Fig. 6B,C, provide possible explanations for the changes in both bacterial diversity and community structure we ob- served over space and time. In Alternate Model 1 (Fig. 6B), the transitionary and affected bacterial communities both appear when spots are first ob- servable on the lobster shell. Here the transitionary community is not involved as a causative agent of LMSD, but instead is present due to fouling from the
+
+disease-causing community and changes in the shell environment that occur due to the presence of dis- ease-causing bacteria. As LMSD progresses, the affected area of the shell increases (transition from spot to lesion), until the lobster eventually molts. This model is in agreement with previous reports regard- ing the progression of shell disease (Chistoserdov et al. 2012, Davies et al. 2014, Whitten et al. 2014), though the sampling schemes in these previous stud- ies did not allow for the detection of a transitionary community. Alternate Model 2 (Fig. 6C) interprets the transitionary bacterial community as a precursor community arriving prior to the onset of visual signs of LMSD. In this model, the transitionary community represents initial colonizers that may cause a shift in the lobster shell bacterial community and lower bac- terial diversity prior to visual signs of disease. This initial invasion creates an environment that allows for secondary colonization that advances the disease state, at which time the melanization associated with shell disease becomes observable. The fact that the bacterial community at 0.5 cm is distinct from the community at 0 cm (Figs. 2 & 3), and that there are bacteria that are unique to the core microbiome at
+0.5 cm (Fig. 5), offers support for this second model. This model hinges on the existence of a currently unobserved state, where the transitionary and un- affected communities are present prior to visual signs of disease. This state will be difficult to observe in future studies as discovery would only come from researchers predicting the exact location where shell disease might occur and sampling that predicted location prior to visual signs of disease. While both of these alternate models differ from the currently pro- posed model for the progression of epizootic shell disease, both are in agreement with the previously proposed polymicrobial nature of shell disease that  is either caused by or amplified by a dysbiosis in bacterial communities on unaffected shell (Meres et al. 2012). Culture studies examining growth dynamics of potential pathogens in the presence and absence  of members of the transitionary community could offer additional insights into the location and initia- tion of LMSD and could refine the models proposed here.
+Given the potential importance of the transitionary and affected shell communities to the initiation and progression of LMSD, we identified key bacterial members of these shell conditions from the core microbiome (Figs. 5 & 6A) and evaluated them in terms of the 2 hypothesized models. The affected shell was dominated by just 2 OTUs, 0 and 18, which accounted for nearly 27% of the sequences from this
+
+
+
+
+shell condition (Fig. 5B). Given their proportional dominance, these taxa appeared to be very important to the affected shell community. The closest cultured representative to OTU 0 was from Candidatus Thio- globus singularis, a mixotrophic bacterium belong- ing to the SUP05 clade, known for its potential to oxi- dize sulfur and fix carbon in the dark ocean and in low oxygen zones (Marshall & Morris 2015). This cul- tured representative, however, only shared 91% sequence identity with OTU 0. Therefore, this OTU likely represents a new, uncultured species. As this was the most abundant OTU from both the affected and transitionary shell (see Table S1 in the Supple- ment), better identification and classification of this bacterium is important for understanding its role in the progression of LMSD. OTU 18, the second most abundant OTU on the affected shell (see Table S1), shared 100% sequence identity with a representa- tive from the genus Aquimarina (Esteves et al. 2013), and 99% sequence identity with bacteria recovered from lobster shells after having been exposed to Aquimarina 'homaria' (Quinn et al. 2012a). Aquima- rina 'homaria' has been identified by several studies as a potential causative agent of epizootic shell dis- ease as it can readily be recovered from lesions (Chistoserdov et al. 2005, 2012, Quinn et al. 2012a, Whitten et al. 2014). The abundance of OTU 18 on the affected shell in this study (12%, Fig. 5B) con- firms the potential importance of Aquimarina 'homaria' to LMSD, though its lack of dominance on the transi- tionary shell (2%, Fig. 5B) suggests that it is not as successful outside of melanized areas of the shell (see Table S1).
+In the transitionary core microbiome (Fig. 5C), OTUs 44 and 160 appeared to be particularly impor- tant. OTU 44 was one of the most abundant OTUs in all shell conditions; however, it was only considered core to the transitionary shell (Table 1, see Table S1). This OTU was most closely related to Marinobacter salsuginis (100% sequence identity; S. V. Law et al. unpubl. data, accession no. KT921331). Other species from this genus have proteins for the deacetylation of chitin (Song et al. 2013), which suggests that OTU 44 may be important to initiation of disease, creating conditions under which opportunistic colonizers asso- ciated with LMSD might thrive (Malloy 1978, Chisto- serdov et al. 2005). OTU 160 was most closely related to the candidate species Endobugula sertula (99% sequence identity, McGovern & Hellberg 2003), a bryozoan symbiont that produces polyketides to pro- tect the host larvae from predation (Lindquist & Hay 1996, Lopanik et al. 2004). In addition to OTUs 44 and 160, OTU 78 was part of the transitionary core
+
+microbiome, though quantitatively it appeared to be more important to the affected shell. Although this OTU was not a member of the affected shell core microbiome, it was present in 13 of the 16 affected shell samples and was present at relatively high abundance in 7 of those samples. This OTU, genus Loktanella, which shared 100% sequence identity with bacteria recovered from other diseased lobster shells (Quinn et al. 2012a), may therefore be infecting the shell alongside early colonizers, and, in some in- stances, growing in abundance as LMSD progresses. Of the 4 OTUs shared between the affected and transitionary core microbiomes (Fig. 5E), OTUs 47 and 118 were numerically dominant in both commu- nities. OTU 47 belonged to the genus Colwellia, which Meres et al. (2012) reported as one of the many groups of species that helped to differentiate dis- eased and healthy lobster shell. In the current study, this bacterium was abundant on transitionary shell, an area of the shell that would have previously re- mained unsampled, indicating that members of this genus may be more important in promoting LMSD than previously thought, if the transitionary shell indeed reflects an initial invasion. OTU 118 was most closely aligned with Arenicella chitinivorans (99% sequence identity), a bacterium that differs from oth- ers in the same genus by its ability to degrade chitin (Nedashkovskaya et al. 2013). Given that previous work by Whitten et al. (2014) also recovered mem- bers of this genus from lesioned areas of the lobster shell, it appears that the ability to degrade chitin may be an important characteristic allowing bacteria to
+thrive on both the affected and transitionary shell. Many studies have reported the incidence of  ubiq-
+uitous bacteria on the lobster shell, both on diseased and healthy shell (Chistoserdov et al. 2005, Meres et al. 2012, Whitten et al. 2014). In this study there were 10 OTUs present in the core microbiome of all 3 shell conditions (Fig. 5F), and OTUs 1 and 19 were propor- tionally dominant on the transitionary and affected shell, respectively, though they were highly abun- dant in all 3 shell conditions (see Table S1). OTU 1 is most likely Perspicuibacter marinus (99% sequence identity), an aerobic marine bacterium recently iso- lated from surface seawater in Japan (Teramoto et al. 2015). At this time, not much is known about this organism, but it has been cultured and therefore could be used in future studies exploring the dynam- ics of the transitionary lobster shell community. OTU 19, an important shell bacterium found on affected shell, was most similar to other bacteria found in association with sponges (99% sequence identity, Sipkema et al. 2011). It is likely that this bacterium is
+
+
+
+
+from the genus Lutimonas (96% sequence identity, Buerger et al. 2012), which is part of the same family as Aquimarina and may represent another oppor- tunistic colonizer of diseased lobster shell.
+In addition to these core microbiome members, which appear to be important due to their relative abundance on either the transitionary or affected shell, there were a number of other core microbiome OTUs that had identities similar to taxa identified in previous studies of epizootic shell disease. Several studies have reported Aquimarina 'homaria' as a potential causative agent in shell disease, including a bacterial challenge study that was able to recover this bacterium from lobsters with lesions (Quinn et al. 2012a) and a next-generation sequencing study that examined healthy and diseased shell (Meres et al. 2012). Although we only recovered a single OTU that was associated with the genus Aquimarina (OTU 18), we recovered several other OTUs, including Lutimo- nas, that were from the Flavobacteria family (Table 1). Several studies have reported that members of this family aside from Aquimarina are important to epi- zootic shell disease (Chistoserdov et al. 2012, Meres et al. 2012, Quinn et al. 2012b). In addition to Aqui- marina, the 'Thalassobius' genus has been associated with epizootic shell disease (Meres et al. 2012, Quinn et al. 2012a). Although we did not recover any bacte- ria from this genus, we recovered several bacteria from the Rhodobacteraceae family, including previ- ously observed bacteria from the Loktanella and Jan- naschia genera (Chistoserdov et al. 2012, Meres et al. 2012). In addition to Aquimarina, Loktanella, and Jannaschia, Meres et al. (2012) also reported bacteria from the genus Cardiobacterium and suborder Micro- coccineae as some of the most abundant bacteria in their study. We did not recover any bacteria from either of these groups, nor their respective orders. These differences could be due to the taxonomic identification tools used in different studies, but may also reflect differences in wild versus captive-raised lobsters.
+In conclusion, using a fine spatial scale, we charac- terized changes in bacterial community composition that occur during the progression of LMSD. We demonstrated that affected areas of lobster shell have altered bacterial community composition and reduced bacterial diversity compared to unaffected shell. We also demonstrated that areas close to the site of dis- ease, but not yet melanized, have altered bacterial communities and reduced bacterial diversity in com- parison to unaffected shell, and represent a transi- tionary community that may be important in the initi- ation of LMSD. We identified key bacteria associated
+
+with each stage of the disease and proposed 2 differ- ent conceptual models, one that suggests that the transitionary bacterial community arises due to foul- ing, and another that suggests the transitionary shell harbors bacteria important to the initiation of LMSD. Understanding the full complement of bacteria asso- ciated with affected, transitionary, and asymptomatic lobster shells is the first step toward understanding the role of the transitionary bacterial community, and helping us develop mechanisms to diminish the spread and severity of this disease.
+
+
+Acknowledgements. We thank Anita Kim from the New England Aquarium Lobster Research and Rearing Facility for caring for the animals used in this study, and Jeff Dusen- berry for the use of the supercomputing facilities managed by the Research Computing Department at the University of Massachusetts Boston. We also thank Rachel Vincent, an undergraduate assistant on this research, as well as Patrick Kearns, John Angell, and all the members of the Bowen Laboratory. Funding for this project was provided by the Sanofi Genzyme Doctoral Research Fellowship (S.G.F.), the University of Massachusetts Boston Doctoral Dissertation Research Grant (S.G.F.), and the National Science Founda- tion Research Experience for Undergraduates Award DBI- 1359241 to Dr. Rachel Skvirsky.
+
+
+LITERATURE CITED
+
+Anderson MJ (2001) A new method for non-parametric mul- tivariate analysis of variance. Austral Ecol 26:32-46
+ SS (2012) Microbial scout hypothesis and microbial dis- covery. Appl Environ Microbiol 78:3229-3233
+ others (2010) QIIME allows analysis of high-throughput community sequencing data. Nat Methods 7:335-336
+ others (2012) Ultra-high-throughput microbial commu- nity analysis on the Illumina HiSeq and MiSeq platforms. ISME J 6:1621-1624
+ shell disease in American lobsters, Homarus americanus, in southern New England. J Shellfish Res 31:423-430
+ Epizootic shell disease in American lobsters Homarus americanus in southern New England: past, present and future. Dis Aquat Org 100:149-158
+ ture-dependent characterization of the microbial com- munity associated with epizootic shell disease lesions in American lobster, Homarus americanus. J Shellfish Res 24:741-747
+ (2012) Bacterial communities associated with lesions of shell disease in the American lobster, Homarus ameri- canus Milne-Edwards. J Shellfish Res 31:449-462
+ A comparison of the structure of American (Homarus americanus) and European (Homarus gammarus) lobster
+
+
+
+
+cuticle with particular reference to shell disease. J Inver- tebr Pathol 117:33-41
+ UCHIME improves sensitivity and speed of chimera detection. Bioinformatics 27:2194-2200
+ Costa R (2013) Molecular richness and biotechnological potential of bacteria cultured from Irciniidae sponges in the north-east Atlantic. FEMS Microbiol Ecol 85:519-536  biodiversity conservation: some bioinformatics chal-
+lenges. Evol Bioinform Online 2:121-128
+ others (2015) Recent shifts in the occurrence, cause, and magnitude of animal mass mortality events. Proc Natl Acad Sci USA 112:1083-1088
+ (1999) Emerging marine diseases: climate links and anthropogenic factors. Science 285:1505-1510
+ lobster stock. J Shellfish Res 31:573-579
+ American lobster to the stress of shell disease. J Shellfish Res 24:757-760
+ defense of marine invertebrate larvae. Ecol Monogr 66: 431-450
+ produced by a microbial symbiont protect host larvae from predation. Oecologia 139:131-139
+ (2011) UniFrac: an effective distance metric for microbial community comparison. ISME J 5:169-172
+ robust and fast clustering method for amplicon-based studies. PeerJ 2:e593
+ (Homarus americanus). J Wildl Dis 14:2-10
+ didatus Thioglobus singularis' strain PS1, a mixotroph from the SUP05 clade of marine gammaproteobacteria. Genome Announc 3:e01155-15
+ endosymbionts, and geographical variation in chemical defences in the bryozoan Bugula neritina. Mol Ecol 12: 1207-1215
+ JD, Gillevet PM (2012) Dysbiosis in epizootic shell dis- ease  of  the  American  lobster  (Homarus  americanus). J Shellfish Res 31:463-472
+National Marine Fisheries Service (2014) NOAA Current Fishery Statistics. Fisheries of the United States, 2014 US Department of Commerce
+ deVos P (2013) Arenicella chitinivorans sp. nov., a gamma- proteobacterium isolated from the sea urchin Strongylo- centrotus intermedius. Int J Syst Evol Microbiol 63: 4124-4129
+ dov AY (2012a) Exposures of Homarus americanus shell to three bacteria isolated from naturally occurring epi-
+
+zootic shell disease lesions. J Shellfish Res 31:485-493 
+Chistoserdov AY (2012b) Lesion bacterial communities in American lobsters with diet-induced shell disease. Dis Aquat Org 98:221-233
+R Core Team (2014) R: A language and environment for sta- tistical computing. R Foundation for Statistical Comput- ing, Vienna
+ (2015) The Genomes OnLine Database (GOLD) v. 5: a metadata management system based on a four level (meta)genome project classification. Nucleic Acids Res 43:D1099-D1106
+ Reagent and laboratory contamination can critically impact sequence-based microbiome analyses. BMC Biol 12:87
+ Blanch HW (2011) Multiple approaches to enhance the cultivability of bacteria associated with the marine sponge Haliclona (gellius) sp. Appl Environ Microbiol 77: 2130-2140
+ of the pathology of epizootic shell disease in the Ameri- can lobster, Homarus americanus, H. Milne Edwards 1837. J Shellfish Res 24:749-756
+ plete genome sequence of Marinobacter sp. BSs20148. Genome Announc 1:e00236-13
+ ties of nonphotosynthetic microorganisms in aquatic and terrestrial habitats. Annu Rev Microbiol 39:321-346
+ sion in American lobster (Homarus americanus) with epi- zootic shell disease. J Shellfish Res 31:505-513
+ marinus gen. nov., sp. nov., a semi-transparent bacterium isolated from surface seawater, and description of Areni- cellaceae fam. nov. and Arenicellales ord. nov. Int J Syst Evol Microbiol 65:353-358
+ cuticle of juvenile American lobster (Homarus ameri- canus): implications for phenotypic and genotypic col- oration. Mar Biol 147:113-119
+ ture and shell disease in laboratory populations of juve- nile American lobsters (Homarus americanus). J Shell- fish Res 31:533-541
+ in American lobster (Homarus americanus) as individ- ual-based health trajectories. Can J Fish Aquat Sci 71: 808-813
+ Bayesian classifier for rapid assignment of rRNA se- quences into the new bacterial taxonomy. Appl Environ Microbiol 73:5261-5267
+ Chistoserdov AY, Rowley AF (2014) Cuticles of European and American lobsters harbor diverse bacterial species and differ in disease susceptibility. MicrobiologyOpen 3: 395-409
+
+
+
+Editorial responsibility: Jeffrey Shields, Gloucester Point, Virginia, USA
+
+Submitted: May 17, 2016; Accepted: February 6, 2017 Proofs received from author(s): March 21, 2017

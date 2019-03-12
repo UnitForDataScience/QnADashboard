@@ -1,0 +1,164 @@
+Microbes Environ. Vol. 32, No. 4, 386-389, 2017
+ doi:10.1264/jsme2.ME17071
+
+Short Communication
+First Report of Swim Bladder-Associated Microbiota in Rainbow Trout (Oncorhynchus mykiss)
+AlejAndro VillAsAnte1, CArolinA rAmirez1, nAtAliA CAtAlan2, and jAime romero2*
+1Laboratorio de Biotecnologia, Instituto de Nutricion y Tecnologia de los Alimentos (INTA), Universidad de Chile Avda. El Libano 5524, Santiago, Chile; and 2Laboratorio de Biotecnologia, Unidad de Alimentos, Instituto de Nutricion y Tecnologia de los Alimentos (INTA), Universidad de Chile Avda. El Libano 5524, Santiago, Chile
+(Received April 26, 2017--Accepted July 23, 2017--Published online October 14, 2017)
+
+The aim of the present study was to identify major bacteria associated with the swim bladder in the rainbow trout, Oncorhynchus mykiss. We extracted DNA from the swim bladder and gut contents in order to perform a temporal temperature gradient gel electrophoresis (TTGE) analysis of 16S rRNA amplicons for bacterial identification to further compare both profiles. Arthrobacter and Cellulosimicrobium were the major genera observed in the swim bladder in fish, but were not present in fish gut contents; Mycoplasma were instead observed in these samples. Further research to investigate the possible symbiotic roles of the swim bladder-associated microbiota in salmonids is needed.
+Key words: swim bladder, microbiota, rainbow trout, salmonids, symbiosis
+
+
+In the last few decades, most research on fish microbiota has been conducted on the gut-associated microbiota in an attempt to elucidate its role in regulating physiology and promoting health in fish (9, 17). However, microbiota associated with anatomic compartments open to the environment other than the gastro-enteric system, including the swim bladder mucosa of physostomes, has received less attention. Few studies have focused on using the mucosa of the swim bladder as a model to investigate mucosal candidiasis in zebrafish larvae (7, 8).
+The swim bladder is described as a homolog structure of the tetrapod lung, the primary function of which is to counteract the force of gravity by modulating whole body density, thereby providing an energetic and cost-efficient buoyancy-controlling system in fish (23, 26). Based on studies conducted in the zebrafish model, the swim bladder and lungs have been shown to share an embryonic origin, a single or paired pouch of the cranial part of the embryonic digestive tube (24, 27). From an evolutionary perspective, the tetrapod lung and teleost swim bladder have been proposed to diverge from a primitive fish lung, similar to that found in Polypterus (14). In teleost species, a direct connection exists between the swim bladder and esophagus via the pneumatic duct, which appears during the late embryonic stage (24). In physostomes, the pneumatic duct persists throughout the entire life cycle, while physoclists lose this connection after the first inflation of the swim bladder, and, thus, these species have a closed swim bladder during the juvenile and adult stages (25). In physostomes, including some of economic importance, such as salmonids and carp, the swim bladder is mainly filled with gas by "gulping" air from the environment. Some species may develop abnormal swim bladder distention due to the action of pathogens (i.e., bacteria, fungi, and/or parasites) (18). The pneumatic duct appears to constitute the major route of access for these
+
+pathogens and, hypothetically, to commensal microbes that inhabit the swim bladder mucosa. Hence, we hypothesize that the swim bladder mucosa of physostomes may harbor ecolog- ical niches for commensal bacteria in healthy fish, and, thus, constitute a similar non-sterile structure to that reported in the human lung microbiome (3, 20).
+To the best of our knowledge, the resident bacterial com- munity of the swim bladder mucosa in physostomes, such as the rainbow trout, has not yet been reported. This topic requires further study in order to obtain a better understanding of the role of the swim bladder microbiota in regulating aspects of the immune system and physiology of physostomes, par- ticularly in aquaculture species. Therefore, the main goal of the present study is to identify bacteria associated with the swim bladder, and compare them with distal gut bacteria obtained from the same host.
+Ten fish (Oncorhynchus mykiss) were kept in a 100-L fiberglass tank supplied with well-aerated fresh water at a constant temperature (15+-0.5degC, 8 L min-1). Fish were exposed to a constant photoperiod (14 h light/10 h dark) and fed a commercial diet three times every d for eight weeks. Five fish (50+-5 g) were sampled to collect the swim bladder and intestinal contents. However, only four fish had intestinal contents at the time of sampling. Fish were euthanized as described by Navarrete et al. (2012) (13) and the recommen- dations of the Guide for the Care and Use of Laboratory Animals of the National Institutes of Health, and the Committee on the Ethics of Animal Experiments of Universidad de Chile. The swim bladder was aseptically dissected and washed in 15 mL of PBS, following by gentle vortexing at room temperature for 5 min. Washing was repeated twice. The cloudy liquid was transferred to 1.5-mL tubes and centri- fuged at 13,000xg for 1 min. The resulting pellet was stored at -80degC until nucleic acid extraction. The intestinal contents
+
+ 		were collected and flash frozen at -80degC until further analyses.
+
+* Corresponding author. E-mail: jromero@inta.uchile.cl;
+Tel: +56-22-9781524; Fax: +56-22-2214030.
+
+Nucleic acid extraction was performed using swim bladder-
+derived pellets and intestinal contents with MoBio kit Power
+
+Swim Bladder Microbiota in Rainbow Trout	387
+
+Table 1. Nearest-match identification of TTGE bands (swim bladder and gut contents) to known sequences in the RDP II database
+
+1) Found in the swim bladder.
+2) >95% identity.
+3) Found in intestinal contents.
+4) >90% identity.
+5) x, number of individuals with this microorganism; y, total number of individuals analyzed (n=5).
+6) Sequence accession number deposited in GenBank.
+
+
+
+soil and MoBio kit Fecal, respectively (MoBio Laboratories, Carlsbad, CA, USA) according to the manufacturer's instruc- tions, with an initial enzymatic treatment using lysozyme and proteinase as described by Navarrete et al. (2010) (12). In order to obtain fingerprints of the bacterial communities present in the swim bladder and intestinal contents, the 16S rRNA gene was amplified by PCR and analyzed using temporal temperature gradient gel electrophoresis (TTGE), as described by Navarrete et al. (2012) (12). Dominant bands from TTGE gels were excised, eluted, and reamplified (12). Amplicons were sequenced by the Macrogen USA sequencing service (Rockville, MD, USA). 16S rRNA gene sequences were compared with those available in the Ribosomal Database Project II  jsp) in order to identify their closest relatives (Table 1). The sequences from TTGE bands obtained in this study have been deposited in the GenBank database under accession numbers MF787227 to MF787238.
+We observed low bacterial diversity based on TTGE profiles in the swim bladder resident microbiota (Fig. 1). Two high-density bands most likely corresponding to Arthrobacter globiformis and Cellulosimicrobium sp. were detected in all analyzed fish (n=5). On the other hand, we identified higher diversity (more bands in the TTGE profile) in intestinal con- tents than in the swim bladder resident microbiota profile in all individuals (n=4) (Fig. 2). Several bacterial genera such as Eubacterium, Pseudomonas, Aliivibrio, and Vibrio, were detected in weak bands (d to j in Fig. 2). Mycoplasma was the most common bacterial genus found in the intestinal contents in all analyzed fish. This result is consistent with previous findings reporting the strong dominance of this genus in other salmo- nids including the Atlantic salmon (Salmo salar) (10). We detected TTGE bands corresponding to the same genera, but collected at different positions on the gel in some fish; this may be explained by differences in the GC content (%) of the region amplified (i.e. Mycoplasma moatsii showed three dif- ferent bands with 46.4%, 51.5%, and 51.6% of GC, respectively, versus uncultured Mycoplasma showing only one band with 46.4% of GC). None of the dominant bacterial genera detected in the swim bladder resident microbiota were part of the trout distal gut microbiota. This result suggests a potential
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. TTGE fingerprinting of the swim bladder microbiota of rainbow trout (Oncorhynchus mykiss). TTGE profiles based on the amplification of the V3-V4 region of 16S rRNA genes from DNA extraction from different individuals (n=5; Ld, Ladder). Bands a and b correspond to Arthrobacter globiformis and Cellulosimicrobium sp., respectively.
+
+
+selection pressure imposed by the anatomic compartment, for example, via physicochemical characteristics, including oxygen tension (i.e. aerobiosis versus anaerobiosis), pH values (acid versus basic), and nutrient availability. These physicochemical characteristics create ecological niches for specific bacteria that will prevail under specific conditions. The differences observed in bacterial composition and diversity between the swim bladder and distal gut may be partially explained by differences in oxygen tension in each compartment. Anaerobiosis prevails in the gastro-enteric tract, implying that obligate and
+
+388	Villasante et al.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. TTGE fingerprinting of intestinal contents of the microbiota of rainbow trout (Oncorhynchus mykiss). Comparisons of TTGE profiles based on the amplification of the V3-V4 region of 16 S rRNA genes from different individuals (n=4). Bands correspond to: Ld, Ladder; c, Mycoplasma globiformis; d, Uncultured Brevinema sp.; e, Uncultured Cetobacterium sp.; f, Eubacterium sp.; g, Pseudomonas plecoglossicida; h, Aliivibrio wodanis; i, Vibrio ezurae; j, Uncultured Anaerofilum sp.; k, Uncultured Vibrio sp.
+
+
+facultative anaerobes are more prominent under these condi- tions than those in the swim bladder. In contrast, the swim bladder mucosa is exposed to almost constant hyperoxia due to oxygen being present at high levels in the swim bladder chamber (15). High oxygen concentrations strongly promote the production of reactive oxygen species (superoxide and H2O2), which impairs microorganism growth by inducing oxidative damage in several cellular components, such as proteins and DNA (1). The swim bladder hyperoxic environ- ment may impose a pro-oxidative challenge to some bacteria, favoring those capable of dealing with high oxygen tension (i.e. facultative and obligate aerobes), for example, by up-regulating antioxidant defensive mechanisms. These pro-oxidant conditions may function as a restrictive mecha- nism for bacterial growth in the swim bladder of physos- tomes. In this regard, both of the bacterial genera detected in the swim bladder resident microbiota exhibited the capacity to deal with oxygen. For example, species from Arthrobacter are obligate aerobes and Cellulosimicrobium species may be obligate or facultative anaerobes (6, 19). On the other hand, in physostomes, antioxidant defensive mechanisms, including the activity of antioxidant enzymes, such as catalase, glutathione peroxidase, and superoxide dismutase as well as the concen- tration of total glutathione (GSH+GSSG), have been reported to be stronger in the swim bladder than in other organs (16, 18). Species from Arthrobacter including A. globiformis may produce glutamic acid from sugars (16). Glutamic acid is one
+
+of the three amino acids required to synthesize glutathione, a major intracellular antioxidant molecule required for several cell survival signaling pathways (5, 21). Moreover, glutathione is a major intracellular antioxidant because it maintains tight control of the redox status in eukaryote cells and bacteria (7, 22). It currently remains unclear whether symbiosis exists between bacteria from Arthrobacter and physostomes. In this regard, the host swim bladder mucosa provides shelter and nutrients via mucus secretion and/or cellular detritus, which promotes bacteria survival, while bacteria may 1) compete with opportunistic pathogens for ecological niches or 2) pro- vide glutamate or other molecules that may enforce the anti- oxidant defensive mechanism of the swim bladder against the pro-oxidative hyperoxic environment. Another factor poten- tially contributing to the differences observed between the swim bladder and distal gut is nutrient availability. Differences in nutrient availability and substrate affinity may contribute to competitive fitness, thereby affecting the microbial com- munity structure (3). In this regard, nutrient availability is greater in the distal gut lumen than in the swim bladder mucosa, in which bacteria solely depend on cell mucosal secretions and cellular detritus.
+The mechanisms by which bacteria access the epithelial mucosa of the swim bladder of physostomes have not yet been elucidated in detail. The structures of the respiratory system were previously considered to be sterile unless infected; however, a shift towards molecular methods for the quantification and sequencing of bacterial DNA revealed that these structures harbor a unique steady-state microbiota (11). Recent studies provided strong evidence to show that the lower respiratory tract harbors diverse communities of bacte- ria under healthy and diseased states, which suggests that a residual microbiota coexists in the host lung mucosa (4, 20). Further studies are needed in order to investigate whether a potential swim bladder-gut axis exists via crosstalk of the swim bladder resident microbiota and gut microbiota, and the findings obtained will provide a better understanding of how microbes modulate fish health by regulating physiology, metabolism, and immunity. This appears to be of importance because evidence suggests the lung microbiota is involved in immune-mediated crosstalk with the gut microbiota as part of a "lung-gut axis" in mammalian species, which potentially influences the physiology of different organs, including the
+brain and liver (2).
+
+Acknowledgements
+This work was supported by the grants FONDECYT 1140734
+and 1171129 and PostDoct 3160835 from CONICYT Chile.
+
+References
+Baez, A., and J. Shiloach. 2014. Effect of elevated oxygen concentration on bacteria, yeasts, and cells propagated for production of biological compounds. Microb. Cell Fact. 13:181.
+Budden, K.F., S.L. Gellatly, D.L.A. Wood, M.A. Cooper, M. Morrison,
+Hugenholtz, and P.M. Hansbro. 2017. Emerging pathogenic links between microbiota and the gut-lung axis. Nat. Rev. Microbiol. 15:55-63.
+Carrero-Colon, M., C.H. Nakatsu, and A. Konopka. 2006. Effect of nutrient periodicity on microbial community dynamics. Appl. Environ. Microbiol. 72:3175-3183.
+
+Swim Bladder Microbiota in Rainbow Trout	389
+
+
+Dickson, R.P., J.R. Erb-Downward, and G.B. Huffnagle. 2013. The role of the bacterial microbiome in lung disease. Expert Rev. Respir. Med. 7:245-257.
+Du, Z.X., H.Y. Zhang, X. Meng, Y. Guan, and H.Q. Wang. 2009. Role of oxidative stress and intracellular glutathione in the sensitivity to apoptosis induced by proteasome inhibitor in thyroid cancer cells. BMC Cancer 9:56.
+Eschbach, M., H. Mobitz, A. Rompf, and D. Jahn. 2003. Members of the genus Arthrobacter grow anaerobically using nitrate ammonification and fermentative processes: Anaerobic adaptation of aerobic bacteria abundant in soil. FEMS Microbiol. Lett. 223:227-230.
+Gratacap, R.L., J.F. Rawls, and R.T. Wheeler. 2013. Mucosal candidiasis elicits NF-kB activation, proinflammatory gene expression and local- ized neutrophilia in zebrafish. Dis. Models & Mech. 6:1260-1270.
+Gratacap, R.L., and R.T. Wheeler. 2014. Utilization of zebrafish for intravital study of eukaryotic pathogen-host interactions. Dev. Comp. Immunol. 46:108-115.
+Green, T., R. Smullen, and A. Barnes. 2013. Dietary soybean protein concentrate-induced intestinal disorder in marine farmed Atlantic salmon, Salmo salar is associated with alterations in gut microbiota. Vet. Microbiol. 166:286-292.
+Holben, W.E., P. Williams, M.A. Gilbert, M. Saarinen, L.K. Sarkilahti, and J.H. Apajalahti. 2002. Phylogenetic analysis of intestinal micro- flora indicates a novel Mycoplasma phylotype in farmed and wild salmon. Microb. Ecol. 44:175-185.
+Marsland, B.J., and E.S. Gollwitzer. 2014. Host-microorganism
+interactions in lung diseases. Nat. Rev. Immunol. 14:827-835.
+Navarrete, P., F. Magne, P. Mardones, M. Riveros, R. Opazo, A. Suau,
+Pochart, and J. Romero. 2010. Molecular analysis of intestinal microbiota of rainbow trout (Oncorhynchus mykiss). FEMS Microbiol. Ecol. 71:148-156.
+Navarrete, P., F. Magne, C. Araneda, P. Fuentes, L. Barros, R. Opazo,
+R. Espejo, and J. Romero. 2012. PCR-TTGE analysis of 16S rRNA from rainbow trout (Oncorhynchus mykiss) gut microbiota reveals host-specific communities of active bacteria. PLoS One 7:e31335.
+Nilsson, S. 1983. Autonomic Nerve Function in the Vertebrates.
+Springer-Verlag, New York.
+Pelster, B. 1995. Metabolism of the swim bladder tissue, p. 101-118. In P.W. Hochachka and T.P. Mommsen (ed.), Biochemistry and Molecular Biology of Fishes, vol. 4. Elsevier Science, Amsterdam.
+
+
+Pelster, B., M. Giacomin, C.M. Wood, and A.L. Val. 2016. Improved ROS defense in the swimbladder of a facultative air-breathing erythr- inid fish, jeju, compared to a non-air-breathing close relative, traira. J. Comp. Physiol. B 186:615-624.
+Ringo, E., Z. Zhou, J.L.G. Vecino, et al. 2016. Effect of dietary com- ponents on the gut microbiota of aquatic animals. A never-ending story? Aquacult. Nutr. 22:219-282.
+Schneebauer, G., R. Hanel, and B. Pelster. 2016. Anguillicola crassus impairs the silvering-related enhancements of the ROS defense capacity in swimbladder tissue of the European eel (Anguilla anguilla). J. Comp. Physiol. B 186:1-11.
+Schumann, P., N. Weiss, and E. Stackebrandt. 2001. Reclassification of Cellulomonas cellulans (Stackebrandt and Keddie 1986) as Cellulosimicrobium cellulans gen. nov., comb. nov. Int. J. Syst. Evol. Microbiol. 51:1007-1010.
+Segal, L.N., and M.J. Blaser. 2014. A brave new world: the lung
+microbiota in an era of change. Ann. Am. Thorac. Soc. 11:S21-S27.
+Shelly, C., and M.D. Lu. 2014. Glutathione synthesis. Biochim. Biophys.
+Acta 1830:3143-3153.
+Smirnova, G.V., and O.N. Oktyabrsky. 2005. Glutathione in bacteria.
+Biochemistry (Moscow). 70:1199-1211.
+Smith, F.M., and R.P. Croll. 2011. Autonomic control of the swim- bladder. Auton. Neurosci. 165:140-148.
+Winata, C.L., S. Korzh, I. Kondrychyn, V. Korzh, and Z. Gong. 2010. The role of vasculature and blood circulation in zebrafish swimbladder development. BMC Dev. Biol. 10:3.
+Woolley, L.D., and J.G. Qin. 2010. Swimbladder inflation and its implication to the culture of marine finfish larvae. Rev. Aquacult. 2:181-190.
+Zaccone, D., M. Sengar, E.R. Lauriano, S. Pergolizzi, F. Macri', L. Salpietro, A. Favaloro, L. Satora, K. Dabrowski, and G. Zaccone. 2012. Morphology and innervation of the teleost physostome swim bladders and their functional evolution in non-teleostean lineages. Acta Histochem. 114:763-772.
+Zheng, W., Z. Wang, J.E. Collins, R.M. Andrews, D. Stemple, and Z. Gong. 2011. Comparative transcriptome analyses indicate molecular homology of zebrafish swimbladder and mammalian lung. PLoS One 6:e24019.

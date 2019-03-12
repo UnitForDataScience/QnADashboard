@@ -1,0 +1,454 @@
+FEMS Microbiology Ecology, 93, 2017, fix139
+
+doi: 10.1093/femsec/fix139
+Advance Access Publication Date: 23 October 2017 Research Article
+
+
+
+
+
+
+RESEARCH ARTICLE 
+Fecal bacterial communities of wild-captured and stranded green turtles (Chelonia mydas) on the Great Barrier Reef
+Md. Shamim Ahasan,,, Thomas B. Waltzek, Roger Huerlimann and Ellen Ariel
+1College of Public Health, Medical and Veterinary Sciences, James Cook University, Townsville, 4811, Qld, Australia, 2College of Veterinary Medicine, University of Florida, Gainesville, FL 32610, USA and 3Centre for Sustainable Tropical Fisheries and Aquaculture, James Cook University, Townsville, 4811, Qld, Australia
+*Corresponding author: College of Public Health, Medical and Veterinary Sciences, James Cook University, Townsville, 4811, Qld, Australia. Tel: +61-47616903, E-mail: 
+One sentence summary: Comparative analysis of the fecal bacterial communities of wild-captured and stranded green turtles (Chelonia mydas).
+Editor: Julie Olson
++Md. Shamim Ahasan, 
+
+
+ABSTRACT
+Green turtles (Chelonia mydas) are endangered marine herbivores that break down food particles, primarily sea grasses, through microbial fermentation. However, the microbial community and its role in health and disease is still largely unexplored. In this study, we investigated and compared the fecal bacterial communities of eight wild-captured green turtles to four stranded turtles in the central Great Barrier Reef regions that include Bowen and Townsville. We used high-throughput sequencing analysis targeting the hypervariable V1-V3 regions of the bacterial 16S rRNA gene. At the
+phylum level, Firmicutes predominated among wild-captured green turtles, followed by Bacteroidetes and Proteobacteria. In contrast, Proteobacteria (Gammaproteobacteria) was the most significantly dominant phylum among all stranded turtles, followed by Bacteroidetes and Firmicutes. In addition, Fusobacteria was also significantly abundant in stranded turtles. No significant differences were found between the wild-captured turtles in Bowen and Townsville. At the family level, the core bacterial community consisted of 25 families that were identified in both the wild-captured and stranded green turtles, while two unique sets of 14 families each were only found in stranded or wild-captured turtles. The predominance of Bacteroides in all groups indicates the importance of these bacteria in turtle gut health. In terms of bacterial diversity and richness, wild-captured green turtles showed a higher bacterial diversity and richness compared with stranded turtles. The marked differences in the bacterial communities between wild-captured and stranded turtles suggest the possible dysbiosis in stranded turtles in addition to potential causal agents.
+Keywords: green turtle; Chelonia mydas; gut microbiota; bacterial diversity; dysbiosis; Great Barrier Reef
+
+
+
+INTRODUCTION
+In both vertebrates and invertebrates, it is now well recognized that the gut microbiome plays a vital role in maintaining the
+
+host's health as well as in a wide range of diseases (Backhed et al. ; Stecher and Hardt ; Costa et al. ). The micro- biome is a well-established contributor to the digestion and uti- lization of complex food particles, and proliferation of intestinal
+
+
+Received: 24 June 2017; Accepted: 19 October 2017
+QC  FEMS 2017. All rights reserved. For permissions, please e-mail: 
+
+1
+
+2	FEMS Microbiology Ecology, 2017, Vol. 93, No. 12
+
+
+
+epithelium within the gastrointestinal (GI) tract of the host (Karen et al. ; Sommer and Backhed ; Yang, Deng and Cao ). Studies in different animal models also recognized their role in the modulation of the immune system and host physiology (Mao et al. ; Yang, Deng and Cao ). Gut mi- crobes can prevent the overgrowth of pathogenic organisms through a natural barrier referred to as 'colonization resistance' (Adlerberth et al. ; Van der Waaij, Berghuis-de Vries and Lekkerkerk-Van der Wees ; Buffie and Pamer ). Recent investigations in terrestrial vertebrates including human have noticed that gut microbial community composition can be in- fluenced by several factors such as gut structure and physi- ology (Sommer and Backhed ), feeding strategy (Ravussin et al. ; Wang et al. ), genotype of the host (Zhang et al. ; Carmody et al. ), host developmental stage (Sommer and Backhed ), antimicrobial exposure (Jernberg et al. ; Dethlefsen and Relman ), and certain environmental condi- tions such as temperature and salinity (Yoshimizu and Kimura ; MacFariane, McLaughlin and Bullock ). Moreover, sev- eral studies in terrestrial herbivores elucidated the distinct roles of complex gut microbiota in detoxification of certain com- pounds and synthesis of different metabolites such as vitamins and minerals required for normal host development (O'Mahony et al. ; Yang, Deng and Cao ).
+To date, little is known about the gut microbial ecology of marine herbivores that forage primarily in sea grass mead- ows (Hong et al. ; Eigeland et al. ; Nelson, Rogers and Brown ; Merson et al. ). The microbiome in sea tur- tles is believed to be distinct from that of other marine mam- mals because they exhibit a long life-span and high site fi- delity to coastal foraging habitats, increasing the chance of long-term exposure to coastal anthropogenic factors (Bjorndal, Lutz and Musick ; Lutz, Musick and Wyneken ). More- over, their reproductive migration inevitably takes them  a long distance from their natural habitat,  increasing the risk  of exposure to significant environmental stressors (Read et al. ). In addition, green turtles exhibit different digestive and reproductive physiologies compared with other marine her- bivores. They rely on hind-gut fermentation to digest their herbivorous diet and are therefore especially vulnerable to stres- sors that may influence their gut microbial community. In con- trast to mammals, the maternal microbiota in turtles cannot  be passed on to their offspring through birth and post-parental care (Funkhouser and Bordenstein ). Conversely, sea turtle hatchlings are more likely to share the microbiota of the nest- ing beaches where the females lay eggs due to their oviparous nature (Hirth ). A detailed understanding of the core bac- terial community is of importance given that GI disorders are a major factor in declining sea turtle populations (Flint et al. ) and other health problems (George ). The link be- tween altered gut microbes and disease risk is now a well- established concept in both vertebrates and invertebrates (Costa et al. ). Moreover, several studies have shown that the gut microbiota harbor opportunistic pathogens, which can col- onize the GI tract of immuno-compromised animals (Owens et al. ; Li et al. ). Determination of the core micro- biota present within the GI tract of healthy animals would allow for a better understanding of their health state and promote gut health. To date, studies on the gut microbial com- munities in sea turtles were limited to culture-dependent phe- notypic and biochemical techniques (Aguirre et al. ; Al- Bahry et al. ; Chuen-Im et al. ; Ahasan et al. ), which do not represent the whole biome including the non-cultivable bacteria.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Map showing the sampling locations (highlighted) in the central Great Barrier Reef Marine Park, Queensland, Australia.
+
+
+Our study first characterized in detail the fecal bacterial communities of wild-captured green turtles from different geo- graphical locations, including Bowen and Townsville, and com- pared these bacterial communities with those encountered in stranded green turtles with unknown illness.
+
+MATERIALS AND METHODS
+Sample collections from free-ranging and stranded green turtles were made under permit from the Department of Environment and Heritage Protection Authority (permit no. WISP15015914), the Great Barrier Reef Marine Park Authority (Permit no. G14/37285.1) and James Cook University Animal Ethics Commit- tee (Permit no. A2101).
+
+Study site and sample collection
+Samples were collected from clinically healthy green  turtles that were captured while foraging and from  stranded  turtles that were in a poor state of health and admitted for rehabil- itation. Deep cloacal swab samples from eight green  turtles were obtained from two different locations of the central sec- tion of the Great Barrier Reef Marine Park (Fig. ). The wild free- ranging green turtles (n = 8) were captured from Edgecumbe Bay, Bowen (Lat: 20*07I55II S and Long: 148*23I14II E) and Cockle Bay, Townsville (Lat: 19*40I34.32II S; Long: 146*49I51.6II E). Edge- cumbe Bay is a coastal embayment near the township of Bowen, which supports large patches of seagrass foraging areas along the fringe of the bay and an approximately 200 m2 coral reef habitat (Jensen et al. ). Cockle Bay is located on the south- western shore of Magnetic Island, approximately 5 km from the city of Townsville and facing the city port. In addition to seagrass beds, the bay supports rocky reefs associated with rocky out- crops. Cloacal swabs from stranded green turtles (n = 4) were col- lected from turtles admitted to Reef HQ Turtle Hospital, situated in Townsville. Samples from the stranded turtles were taken
+
+
+
+Table 1. Site location, sample size and morphometric data of wild captured and stranded green sea turtles.
+
+Location   Group name	Type	Location	Sample size Curved carapace length (cm) Body weight (kg)
+
+Bowen  wild-captured	Wild captured    Edgecumbe, Bowen	4	42.7-46.4	8.1-12.4
+Townsville   wild-captured	Cockle Bay, Townsville	4	42.6-55.8	8.3-18.35
+Townsville stranded	Stranded	Various, Townsville	4	41.3-87.6	6.25-55
+
+
+
+immediately after their arrival for rehabilitation and before treatment with any antimicrobial medication.
+All samples from Edgecumbe Bay and Cockle Bay were col- lected by conducting two separate rodeos during September 2015. Samples from stranded turtles were collected between October 2015 and March 2016 as turtles were admitted to hos- pital. Free-ranging wild green turtles were captured by hand (Limpus and Reed ) in shallow water (~5 m) and the stranded turtles were accommodated at Reef HQ Turtle Hospital. All wild turtles were flipper-tagged with Department of Environ- ment and Heritage Protection tags. Morphometric data including weight and curved carapace length were recorded according to Department of Environment and Heritage Protection standard operating procedures (DEHP ) and are presented in Table .
+For sample collection, a sterile cotton swab was gently in- serted and rolled inside the cloaca (10 cm internal depth) im- mediately after flushing the cloacal opening with 70% ethanol to avoid external contamination. Swabs were then immediately placed in 1.5 ml microcentrifuge tubes and transported on ice within 4-7 h directly to the laboratory at James Cook Univer- sity (Townsville, Qld, Australia), where they were stored at -80*C until processing.
+
+DNA extraction, PCR amplification and sequencing
+DNA extraction of the cloacal swab samples was carried out us- ing PowerLyzerQR   PowerSoilQR   DNA Isolation Kit in conjunction with  the  PowerLyzerQR   24  homogenizer  (MO  BIO  Laboratories, Inc., Carlsbad, CA, USA) following the manufacturer's instruc- tions. Once extracted, the concentration of the DNA was quanti- fied using a GeneQuant Prospectrophotometer (Amersham Phar- macia Biotech) and stored at -20*C.
+The V1-V3 regions of the bacterial 16S rRNA gene were am- plified by polymerase chain reaction (PCR) (95*C for 7 min, fol- lowed by 29 cycles at 94*C for 45 s, 50*C for 1 min and 72*C for 1 min, and a final extension at 72*C for 7 min) using the fol- lowing primers: 27F 5I-AGAGTTTGATCMTGGCTCAG-3I and 519R 5I-GWATTACCGCGGCKGCTG-3I. Primary PCR was carried out us- ing AmpliTaq Gold 360 mastermix (Life Technologies, Australia). The secondary PCR, used to index the  amplicons,  was  car- ried out using TaKaRa Taq DNA Polymerase. The resulting am- plicons were measured by fluorometry (Invitrogen Picogreen) and normalized. The equimolar pool was then  estimated  us- ing qPCR (KAPA) followed by sequencing on the Illumina MiSeq (San Diego, CA, USA) with 2 x 300 base pairs paired-end chem- istry. Sequencing and library preparation were performed by the Australian Genome Research Facility, Brisbane, Australia.
+
+Bioinformatics and statistical analyses
+To remove primer sequences, fastx trimmer from the FASTX toolkit (Gordon and Hannon ) was used to trim  20  bp from the forward and 18 bp from the reverse reads. This was followed by quality trimming (q = 20) using Sickle (version 1.33) ().  The  paired-ends  reads were merged using PANDAseq, discarding orphaned
+
+
+
+reads (Masella et al. ).  The  quality  filtered  and  merged  reads were further processed using Quantitative Insights into Microbial Ecology (QIIME 1.8) (Caporaso et al. ). First, iden- tify.chimeric seqs.py was used to identify chimeric sequences, which were subsequently filtered using filter fasta.py. Then USEARCH (version 8.0.1623) (Edgar et al. ) was used to cluster operational taxonomic units (OTUs) at  97%  similarity  applying the UCLUST algorithm (Edgar ). Using QIIME,  taxonomy was assigned using the Silva database (version 128, Sep 2016) ().
+For statistical analyses, the QIIME OTUs table was filtered based on their relative abundance to remove low abundance OTUs (<1%) and samples that showed <1000 sequence reads. Alpha diversity matrices (abundance-based coverage estimator (ACE), Chao1, Shannon diversity index and Simpson index) were estimated in R to determine the host-specific microbial richness and diversity (McMurdie and Holmes ). Strip charts were generated through the Calypso web server (Zakrzewski et al. ). Good's coverage was estimated in QIIME to evaluate the completeness of sampling. To evaluate the variation among dif- ferent groups of samples, we analysed the rarefied dataset us- ing Bray-Curtis (Bray and Curtis ) and Chao1 (Chao ) distance matrices, which were later visualized by principle co- ordinate analysis (PCoA). Clustering of the samples was also evaluated applying non-metric multidimensional scaling with two dimensions. Analysis of similarity (ANOSIM) was performed by applying the Bray-Curtis distance matrix to evaluate the as- sociation between wild-captured and stranded turtle groups. ANOSIM tested the null hypothesis that fecal bacterial com- positions are significantly different between wild-captured and stranded turtles. Venn diagrams were constructed in Calypso to visualize the amount of unique and mutually exclusive bacte- rial communities among different groups of samples. The pos- itive and negative correlations among the bacterial communi- ties were analysed, and visualized by Calypso using Spearman's rho correlation (Zakrzewski et al. ). Finally, the abundance of microbial communities among different groups at different taxonomic level was estimated and compared using parametric ANOVA and Student's paired t-test. Linear discriminant analysis was performed to identify the specific biomarker candidates of gut bacterial communities at different taxonomic levels (Segata et al. ).
+
+
+RESULTS
+Summary of sequencing data and depth
+Illumina sequencing of 12 cloacal swab samples resulted in a total of 729 689 raw merged reads. Merged reads with a quality score >33 and 350-600 bp in size were included for further anal- ysis. A total of 483 443 high quality reads were identified after filtering (QC) of low quality sequences and potential chimeras (~17% of the total reads) (Supplementary Table S1). OTU cluster- ing resulted in a total of 669 unique OTUs that were successfully identified and classified to at least a domain level using a 97% se- quence similarity threshold against the Silva database. The top
+
+FEMS Microbiology Ecology, 2017, Vol. 93, No. 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Estimated operational taxonomy unit (OTU) richness (ACE, Chao1) and diversity indexes (Shannon, Simpson) using different methods. BWC, Bowen wild- captured green turtles; ST, stranded green turtles of Townsville; TWC, Townsville wild-captured green turtles.
+
+
+20 most abundant OTUs in green turtle samples are shown in Supplementary Fig. S1.
+
+Host-specific bacterial richness and diversity estimation
+Good's coverage was estimated to evaluate the completeness of sampling. The coverage ranged from 99.5 to 99.9%, indicating  that we identified  the  majority  of  bacterial  phylotypes  present in each sample (Supplementary Table S2). Bacterial diversity and richness of each sample were estimated at OTU level using ACE, Chao1, Shannon index and Simpson index  (Fig.  ).  The  num- ber of OTUs identified in the samples covered 59.62-93.47% and 62.86-92.44% of the richness, as estimated by ACE and Chao1, re- spectively.  Both richness indices revealed a significant difference (P < 0.05) between the groups of green turtles (Fig. ). Bacterial diversity of the fecal communities was found to be significantly different (P < 0.05) between wild-captured and stranded green turtles, as evaluated with the  Shannon  and  Simpson  indexes  (Fig. ). The diversity was significantly higher in wild-captured green sea turtles from both the Bowen and Townsville regions, compared with stranded green turtles in the  Townsville  region (Fig. ).
+
+Taxonomic composition of the fecal bacterial communities in green turtles
+The operational taxonomic units identified in the samples were assigned to 20 different bacterial phyla (Fig. a). OTUs that were unable to be assigned were categorized as 'Unclassified'. In
+
+the Bowen wild-captured (BWC) green turtles group, the most predominant phylum was Firmicutes, with an  average  rela-  tive abundance of 62.6%, followed by Bacteroidetes (27.6%) and Proteobacteria (8.8%). In the Townsville wild-captured (TWC) group, Firmicutes (60.5%) and Bacteroidetes (31.9%) in addi- tion to Verrucomicrobia (3.6%) and Lentisphaerae (2.7%) were the highly abundant phyla. In the stranded green turtles of Townsville (ST) group, the bacterial communities were domi- nated by the phylum Proteobacteria (47.6%), followed by Bac- teroidetes (19.0%), Firmicutes (18.7%) and Fusobacteria (13.6%) (Table ). The estimated cumulative abundance of these six most dominant phyla was >=98% of the identified OTUs across all   the samples.
+Bacterial diversity at the lower taxonomic level  was  as-  sessed and a total of 44 classes and 89 orders were recovered   from the complete dataset. At a family level, 167 families were identified  and  the  most  abundant  20  families  in  each  sam-  ple are presented in Fig. b. The BWC group of samples was dominated by Clostridiaceae (28.3%), Lachnospiraceae (22.2%) and Bacteroidaceae (19.3%), whereas the TWC group was predom- inantly Lachnospiraceae (28.2%), Bacteroidaceae (22.2%) and Pep- tostreptococcaceae (13.8%). The ST group was dominated by En- terobacteriaceae (19.4%), Bacteroidaceae (11.6%) and Moraxellaceae (10.3%) (Supplementary Table S3).
+At genus level (Fig. c), a total of 416 genera were identified. Bacteroides was the predominant genus in both wild-captured and stranded green turtles. The proportion of unclassified gen- era ranged from 6.57% to 47.71% among the samples. The top five most abundant genera in each turtle group are shown in Table .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Distribution and the relative abundance (%) of different bacterial communities in the samples from green turtles at different taxonomic levels of phylum (a), family (b) and genus (c). BWC, Bowen wild-captured green turtles; ST, stranded green turtles of Townsville; TWC, Townsville wild-captured green turtles.
+
+6	FEMS Microbiology Ecology, 2017, Vol. 93, No. 12
+
+Table 2. The abundance of predominant phyla in different groups of green turtles. BWC, Bowen wild-captured green turtles; ST, stranded green turtles of Townsville; TWC, Townsville wild-captured green turtles.
+
+
+Table 3. The most abundant genera (% of the relative abundance of OTUs) in wild-captured and stranded groups of green turtles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Differential gut bacterial communities across all samples at OTU level. (a) Principle coordinate analysis (PCoA) plot and hierarchical dendrogram of Bray- Curtis distances. (b) Non-metric multidimensional scaling (NMDS) plot, comparing the gut bacterial communities of all samples from different study groups. BWC, Bowen wild-captured green turtles; ST, stranded green turtles of Townsville; TWC, Townsville wild-captured green turtles.
+Variation in beta diversity
+PCoA analysis was performed to visualize the dissimilarities in the fecal bacterial communities among different groups of green turtles. PCoA plots and hierarchical dendrograms based on Bray-Curtis distance matrices showed that the samples from the same environmental location clustered together except for the samples from the ST group (Fig. a). The results indicated that wild-captured green turtles harbored bacterial microbial com-
+
+munities that were different from the stranded green turtles. ANOSIM confirmed that the difference was significant (R = 0.502, P = 0.001, Supplementary Fig. S2) between wild-captured and stranded turtles while no significant difference was noticed between BWC and TWC groups of green turtles. A PCoA plot constructed applying Chao1 distance matrices (Supplementary Fig. S3) and non-metric multidimensional scaling (Fig. b) yielded similar results.
+Analysis of group-specific bacterial communities
+Among the 527  OTUs  (>1%  relative  abundance)  identified  in the study, 380 (72.1%) were strictly associated with the
+
+Figure 5. Venn diagrams showing the number of shared and exclusive OTUs (a)
+and families (b) in different group of turtles. BWC, Bowen wild-captured green turtles; ST, stranded green turtles of Townsville; TWC, Townsville wild-captured green turtles.
+
+wild-captured turtles and 67 (12.7%) were associated with the stranded turtles (Fig. a). Only 50 OTUs (9.5%) were shared among the BWC, TWC and ST groups of green turtles. Con- versely, 256 OTUs (48.7% of the total) were shared between only BWC and TWC groups of green turtles (Fig. a). Among the iden- tified bacteria, a total of 25 (48. 1%) families were shared among the three groups and 14 (26.42%) families were strictly associated with the stranded green turtles group (Fig. b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 6. The top 15 most significantly different families of bacterial communities in different groups of green turtles based on ANOVA. Significantly different taxa are shown as bar chart (P < 0.05, ANOVA). Standard error is depicted by error bars. Pair-wise comparisons were performed by t-test: *P < 0.05, ** P < 0.01, *** P < 0.001. BWC, Bowen wild-captured green turtles; ST, stranded green turtles of Townsville; TWC, Townsville wild-captured green turtles.
+
+
+ANOVA showed that several intestinal bacteria were signif- icantly associated with specific group of green turtles. At phy- lum level, Proteobacteria and Chlorofexi were significantly as- sociated with stranded turtles (P < 0.05) and the 'unclassified' OTUs were found to be significantly associated with both BWC and TWC groups of turtles. In the ST turtles, gut microbiota belonging to several families were significantly different from the BWC and TWC groups of turtles (Fig. ). These families are Alteromonadaceae, Enterobacteriaceae, Flavobacteriaceae, Moraxel- laceae, Rhodospirillaceae, Vibrionaceae, Pseudomonadaceae and She- wallaceae (P < 0.05, Fig. ). At the genus level, Escherichia/Shigella, Psychrobacter, Tanacibaculum, Pseudomonas and Vibrio predomi- nantly showed significant association (P < 0.05) with the ST tur- tles group (Supplementary Table S4). Several bacteria that were found to be similar at both the family and the genus level in the BWC and TWC groups were significantly different from the ST group of turtles.
+A major research objective of our study was to identify whether specific fecal bacterial communities could be deter- mined for wild-captured and stranded green turtles. To identify these bacteria, linear discriminant analysis was used to iden- tify specific biomarker candidates belonging to different taxo- nomic groups (Fig. ). Latent Dirichlet allocation score >=4 was used as a threshold for this analysis. The results showed that the most abundant phylum in the wild-captured group was Firmi- cutes (class: Clostridia), while Proteobacteria (class: Gammapro- teobacteria) was the most common phylum in the stranded group of turtles. In addition, several candidates from different phyla were identified at a lower taxonomic level especially in
+stranded turtles. At the family level, Flavobacteriaceae (Phylum: Bacteroidetes) and Enterococcaceae (Phylum: Firmicutes) were identified together with the other candidates from Proteobac- teria that include Enterobacteriaceae, Cardiobacteriaceae, Moraxel- laceae, Vibrionaceae, Shewallaceae, and Pseudomonadaceae. The mi- crobial candidates for the wild-captured groups (BWC and TBC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 7. Biomarker candidates of gut bacterial communities at phylum and fam- ily levels for wild-captured and stranded groups of green turtles.
+
+
+
+were consistently classified with the phylum Firmicutes that include Lachnospiraceae, Clostridiaceae and Ruminococcaceae. No common group-specific phylum, family or genus were identi- fied between the wild-captured and the stranded turtles in this analysis.
+
+DISCUSSION
+Here we present the first detailed analyses of fecal bacte-    rial communities of sea turtles by high-throughput sequencing technology, and provide evidence that fecal bacterial communi- ties differ between wild-captured and stranded green turtles.
+Our results suggest that wild-captured green turtles have a higher bacterial diversity and richness compared with stranded
+
+8	FEMS Microbiology Ecology, 2017, Vol. 93, No. 12
+
+
+
+turtles. The possible explanation could be the diverse microbial requirements of herbivores to access complex carbohydrates in the plant material they consume as a primary food source. In contrast, stranded turtles are often restricted to a natural diet (seagrass) and their debilitated health state allows oppor- tunistic bacteria to colonize and overgrow within the GI tract. Despite slightly different phylogenetic trees, PCoA plots and a non-metric multidimensional scaling plot constructed by the different statistical tests, all results clearly suggest the presence of significant differences in microbial gut composition among the wild-captured and stranded turtles. The analysis of samples in this study indicates that the free-living green turtles of these sampling locations share similar bacterial communities, while the stranded turtles from the same environment showed dis- tinctly different bacterial communities with higher intra-group variation. One reason for this could be their diseased or debili- tated health condition.
+The 16S rRNA-based Illumina sequencing revealed that green turtles appear to harbor highly diverse bacterial commu- nities largely within the four phyla Firmicutes, Bacteroidetes, Proteobacteria and Actinobacteria. Other phyla including Cyanobacteria, Fusobacteria and Verrucomicrobiota were present at variable levels. All cloacal swab samples from wild-captured green turtles were dominated by Firmicutes. In contrast, Proteobacteria was the most abundant phylum in stranded green turtles and Firmicutes was one of  the  three  most dominant phyla. The higher abundance of Firmicutes in wild-captured turtles is consistent with the findings in other marine herbivorous reptiles (Hong et al. ) and mammals (Tsukinowa et al. ; Nelson, Rogers and Brown ; Merson et al. ). Preliminary studies on stranded loggerhead sea turtles (Caretta caretta) also showed the presence of elevated abundance of Proteobacteria (Abdelrhman et al. ). Firmi- cutes was found to be the most ubiquitous and common phylum in all vertebrates due to the ability of bacteria it includes to har- vest energy and absorb nutrients from ingested feed materials (Wang et al. ). The predominance of the Firmicutes present in wild-captured green turtles may reflect the natural state of turtles in good health. In addition to health status, age, habitat and diet have been found to influence the gut microbiome in  other  marine  (Andre',  Gyuris  and  Lawler  ;  Nelson  et  al. ) and terrestrial vertebrates (Guan et al. ), and might also shape the gut bacterial composition of green turtles. The presence of higher abundance of Clostridium, Peptoclostridium and Cellulosilyticum in wild-captured green turtles  could  be due to their ability to break down and utilize various complex plant-derived polysaccharides, such as cellulose, hemicellulose and xylan, which constitute the major part of seagrass  and  other plant fibers (Uffen ; Uz and Ogram ). The higher abundance of Peptostreptococcus within the GI tract of stranded green turtles may indicate possible opportunistic infection as many Peptostreptococcus species are recorded as causing clinical infections in marine mammals and humans (Murphy and Frick ; Nielsen et al. ), or alternatively it is a commensal that is an important component of the microbial communities within the GI tract (Murdoch ).
+The phylum Proteobacteria is known to have members in the microbial communities in the gut of many vertebrates in- cluding sea turtles (Abdelrhman et al. ). Our study re- vealed that the fecal bacterial community of stranded turtles was significantly dominated by Proteobacteria compared with wild-captured green turtles, where a lower abundance of Pro- teobacteria was recorded in both BWC and TWC groups. A low frequency of Proteobacteria (0.6%) was also reported by Hong
+
+
+et al. () within the gut of wild marine herbivorous iguanas (Amblyrhynchus cristatus). Tsukinowa et al. () also recorded a lower percentage of Proteobacteria in wild-captured herbivo- rous dugongs (Dugong dugong). Proteobacteria is one of the most physiologically and metabolically diverse groups that has been observed to be ubiquitous in habitats such as soil (Lauber et al. ), water (Teeling et al. ; Pascault et al. ), plants (Redford  and  Fierer  )  and  the  atmosphere  (Despre's  et  al. ). Members of the phylum Proteobacteria are well known  to establish pathogenic as well as symbiotic relationships with their hosts (Lo' pez-Garci'a  and Moreira ; Garrity et al. ; Shin, Whon and Bae ). Our study demonstrated that the high abundance of Proteobacteria in stranded turtles was largely due to a high proportion  of  Gammaproteobacteria  particu-  larly Enterobacteriaceae, Moraxellaceae, Shewanellaceae, Pseudomon- adaceae and Vibrionaceae. These families were significantly as- sociated with stranded turtles compared with the other two groups, BWC and TWC. Although previous studies based on culture-dependent techniques reported that these microbes can be present in free-ranging wild sea turtles as normal gut inhabi- tants (Foti et al. ; Al-Bahry et al. ), the high abundance of Escherichia-Shigella in this study may indicate overgrowth within the GI tract of stranded turtles, which is often recorded in clinical infections in immunosuppressed animals including sea turtles (Raidal et al. ; Shin, Whon and Bae ). The genus Pseu- domonas is one of the top three causes of opportunistic infections in humans and was in higher abundance in stranded green tur- tles (Stover et al. ). Furthermore, potential pathogens within the genera Vibrio, Moraxella and Shewanella identified in this study can cause opportunistic infections in freshwater and ma- rine vertebrates (Reed and Francis-Floyd ; Austin and Zhang ). In stranded turtles, these microbes might exacerbate un- derlying health conditions. However, their roles within the GI tract of green turtle is unknown and further study is necessary  to understand the functions of these microbes.
+Bacteroidetes was one of the three most abundant phyla detected in both wild-captured and stranded green turtles. At  the family level, Bacteroidaceae and Porphyromonadaceae were in significantly higher abundance in wild-captured green tur-  tles while stranded turtles showed predominantly Flavobacteri- aceae. At the genus level, Bacteroides was the most dominant genus among all genera from different phyla identified in all turtles (Supplementary Table S5). Generally, the members of Bacteroidetes and Macellibacteroides are common gut-associated microbes reported in several aquatic and terrestrial vertebrates including herbivorous mammals such as the dugong (Tsuki- nowa et al. ; Hong et al. ; Nelson, Rogers and Brown ). In addition to Bacteroides, Tenacibaculum was another genus detected significantly within the GI tract of stranded green turtles. Little is known about its role within the GI tract of the host including the green turtle.
+A lower abundance of bacteria from the phyla Actinobacte- ria, Verrucomicrobia and Lentisphaerae was observed in the mi- crobial communities of both wild-captured and stranded  tur- tles. This result  is  consistent  with  the  preliminary  findings  in the fecal and  intestinal  samples  of  stranded  loggerhead  sea turtles (Abdelrhman et al. ). The low number of se- quences of Actinobacteria and Verrucomicrobia was also re- ported in another marine reptile (iguanas, Amblyrhynchus crista- tus) and mammals (dugong; seal, Phoca vitulina) (Tsukinowa   et al. ; Hong et al. ; Nelson, Rogers and Brown ; Numberger et al. ).
+Our study demonstrated that the phylum Fusobacteria was in higher abundance in stranded turtles compared with
+
+
+
+
+wild-captured green turtles. A higher abundance of Fusobacte- ria was also observed in captive (harbor) seals that mainly fed on fish (Nelson, Rogers and Brown ; Numberger et al. ). While the members of the phylum Fusobacteria have been iden- tified from both aquatic and terrestrial vertebrates including humans, the phylum is poorly studied and comprises approx- imately 32 species with an overall undefined phylogenetic posi- tion (Keenan, Engel and Elsey ; Nelson, Rogers and Brown ). The members of Fusobacteria are reported to be associ- ated with diseased corals (Vega Thurber et al. ). We hypoth- esize that the presence of Fusobacteria in stranded turtles could be due to a dietary shift. Stranded turtles often experience un- usual diets such as fish, small invertebrates or sponges that are reported to carry a higher abundance of Fusobacteria (Garrity, Boon and Castenholz ; Vega Thurber et al. ).
+Most importantly, our study demonstrated that a large pro- portion of the gut microbes in all samples were 'unclassified bacteria'. Although a proportion of unclassified reads can be the result of PCR or sequencing errors, such an  abundance  of unclassified sequences argues for a significant presence of novel/undescribed bacteria. Our finding of numerous unclassi- fied microbes within the GI tract is consistent with the findings of others in vertebrates from different marine environments (Hong et al. ; Nelson, Rogers and Brown ). Future re- search is needed to identify these undescribed microbes within the GI tract of green turtles.
+In this study, we investigated the core bacterial community of green turtles, which has not previously been investigated in any sea turtle species. The core gut microbiota represents the set of the most abundant microbial lineages that are mutually shared by all members from the same species. Our data in- dicate that Firmicutes were the main phylum represented in the specific microbial cores associated with the gut contents of wild-captured green turtles. At the family level, we identi- fied 25 families that were mutually shared by all green turtles. The four representative dominant core families within the wild- captured green turtles were Lachnospiraceae, Clostridaceae, Ru- minococcaceae and Bacteroidaceae. We also investigated the poten- tial biomarkers to access the health status of stranded turtles. The class Gammaproteobacteria under the phylum Proteobacte- ria dominated all samples from stranded turtles. In addition, the high dominance of Enterobacteriaceae, Cardiobacteriaceae, Moraxel- laceae, Vibrionaceae, Flavobacteriaceae, Shewanellaceae, Enterococ- caceae and Pseudomonadaeae clearly indicates the opportunistic behavior (i.e. overgrowth potential) of these bacteria in debili- tated animals.
+In conclusion, the present study aimed to investigate the fe- cal bacterial communities of green turtles (Chelonia mydas) by high-throughput sequencing analysis. The diverse bacteria in- habiting the GI tract of green turtles identified in this study may provide several important functions that are still unknown, but based on the findings in other marine and terrestrial her- bivorous hindgut fermenters, they may play an important role in microbial food assimilation as well as utilization. The pre- dominance of Firmicutes and Bacteroidetes demonstrates the importance of these bacteria in the healthy gut microbiome. The high abundance of Gammaproteobacteria in stranded tur- tles deserves special attention and further investigations, as the role of these bacteria within the GI tract of green turtles  is still unknown. The OTU richness reported in this study re- vealed the complexity of green turtle gut bacterial communi- ties and the study provides the most comprehensive indica- tion of this important and complex gut bacterial microbiome to date.
+
+Declaration of interest
+The authors declare that none of them has any financial or per- sonal relationship that could inappropriately influence or bias the content of the article.
+
+SUPPLEMENTARY DATA
+Supplementary data are available at online.
+
+ACKNOWLEDGEMENTS
+The authors would like to thank all volunteers for their contributions during sample collection. We specially thank Stephen Menzies and Krystal Huff from Reef HQ Turtle Hospital, Townsville, Qld for their cooperation during sample collection. We thank Gudjuda and Girringun community people for their support during field sampling. We thank Dr Leigh Owens and Dr Jacqueline Picard from James Cook University, Qld for useful advice on sample processing and statistical analysis.
+
+FUNDING
+The project was supported by the post-graduate research funds provided by the College of Public Health, Medical and Veteri- nary Sciences (CPHMVS) under James Cook University, Qld 4811, Australia.
+Conflict of interest. None declared.
+
+REFERENCES
+Abdelrhman KF, Bacci G, Mancusi C et al. A first insight into the gut microbiota of the sea turtle Caretta caretta. Front Microbiol 2016;7:1060.
+Adlerberth I, Cerquetti M, Poilane I et al. Mechanisms of coloni- sation and colonisation resistance of the digestive tract part 1: bacteria/host interactions. Microb Ecol Health Dis 2000;12: 223-39.
+Aguirre AA, Balazs GH, Zimmerman B et al. Evaluation of Hawai- ian green turtles (Chelonia mydas) for potential pathogens as- sociated with fibropapillomas. J Wildl Dis 1994;30:8-15.
+Ahasan MS, Picard J, Elliott L et al. Evidence of antibiotic re- sistance in Enterobacteriales isolated  from  green  sea  tur-  tles, Chelonia mydas on the Great Barrier Reef. Mar Pollut Bull 2017;120:18-27.
+Al-Bahry SN, Mahmoud IY, Al-Zadjali M et al. Antibiotic resistant bacteria as bio-indicator of polluted effluent in the green tur- tles, Chelonia mydas in Oman. Mar Environ Res 2011;71:139-44.
+Al-Bahry S, Mahmoud I, Elshafie A et al. Bacterial flora and an- tibiotic resistance from eggs of green turtles Chelonia my- das: an indication of polluted effluents. Mar Pollut Bull 2009; 58:720-5.
+Andre' J, Gyuris E, Lawler IR. Comparison of the diets of sympatric dugongs and green turtles on the Orman Reefs, Torres Strait, Australia. Wildlife Res 2005;32:53-62.
+Austin B, Zhang XH. Vibrio harveyi: a significant pathogen of marine vertebrates and invertebrates. Lett Appl Microbiol 2006;43:119-24.
+Backhed F, Ley RE, Sonnenburg JL et al. Host-bacterial mutualism in the human intestine. Science 2005;307:1915-20.
+Bjorndal KA. Foraging ecology and nutrition of sea turtles. In: Lutz P, Musick J (eds). The Biology of Sea Turtles. Boca Raton, FL, USA: CRC Press, 1997, 199-231.
+
+10	FEMS Microbiology Ecology, 2017, Vol. 93, No. 12
+
+
+
+Bray JR, Curtis JT. An ordination of the upland forest communi- ties of southern Wisconsin. Ecol Monogr 1957;27:325-49.
+Buffie CG, Pamer EG. Microbiota-mediated colonization re- sistance against intestinal pathogens. Nat Rev Immunol 2013;13:790.
+Caporaso JG, Kuczynski J, Stombaugh J et al. QIIME allows anal- ysis of high-throughput community sequencing data. Nat Methods 2010;7:335-6.
+Carmody RN, Gerber GK, Luevano JM et al. Diet dominates host genotype in shaping the murine gut microbiota. Cell Host Microbe 2015;17:72-84.
+Chao A. Nonparametric estimation of the number of classes in       a population. Scand J Stat 1984;11:265-70.
+Chuen-Im T, Areekijseree M, Chongthammakun S et al. Aer- obic bacterial infections in captive juvenile green turtles (Chelonia mydas) and hawksbill turtles (Eretmochelys imbricata) from Thailand. Chelonian Conserv Biol 2010;9:135-42.
+Costa MC, Arroyo LG, Allen-Vercoe E et al. Comparison of the fe- cal microbiota of healthy horses and horses with colitis by high throughput sequencing of the V3-V5 region of the 16S rRNA gene. PLoS One 2012;7:e41484.
+DEHP. Monitoring and Sampling Manual 2009, Version 2, July 2013. Brisbane, Australia: Department of Environment and Her-  itage Protection, 2013.
+Despre's  V,  Huffman  JA,  Burrows  SM  et  al.  Primary  biological aerosol particles in the atmosphere: a review. Tellus B Chem Phys Meteorol 2012;64:15598.
+Dethlefsen L, Relman DA. Incomplete recovery and individ- ualized responses of the human distal gut microbiota to repeated antibiotic perturbation. Proc Natl Acad Sci U S A 2011;108:4554-61.
+Edgar RC. Search and clustering orders of magnitude faster than BLAST. Bioinformatics 2010;26:2460-1.
+Edgar RC, Haas BJ, Clemente JC et al. UCHIME improves sensitivity and speed of chimera detection. Bioinformatics 2011;27:2194-200.
+Eigeland KA, Lanyon JM, Trott DJ et al. Bacterial community structure in the hindgut of wild and captive dugongs (Dugong dugon). Aquat Mamm 2012;38:402.
+Flint M, Patterson-Kane JC, Limpus CJ et al. Health surveillance of stranded green turtles in southern Queensland, Australia (2006-2009): an epidemiological analysis of causes of disease and mortality. Ecohealth 2010;7:135-45.
+Foti M, Giacopello C, Bottari T et al. Antibiotic resistance  of Gram negatives isolates from loggerhead sea turtles (Caretta caretta) in the central Mediterranean Sea. Mar Pollut Bull 2009;58:1363-6.
+Funkhouser LJ, Bordenstein SR. Mom knows best: the uni- versality of maternal microbial transmission. PLoS Biol 2013;11:e1001631.
+Garrity GM, Boon DR, Castenholz RW (eds). Bergey's Manual of Sys- tematic Bacteriology. Vol. 1. The Archaea and the Deeply Branching and Phototropic Bacteria. New York: Springer, 2001.
+Garrity GM, Brenner DJ, Krieg NR et al. (eds). Bergey's Manual of Systematic Bacteriology. Vol. 2. The Proteobacteria. New York: Springer, 2005.
+George RH. Health problems and diseases of sea turtles. In: Lutz  P, Musick J (eds). The Biology of Sea Turtles. Boca Raton, FL, USA: CRC Press, 1996, 363-8.
+Gordon A, Hannon G. FASTX-Toolkit. FASTQ/A short-reads preprocessing tools, 2010.  (15 November 2015, date last accessed).
+Guan Y, Zhang H, Gao X et al. Comparison of the bacterial com- munities in feces from wild versus housed sables (Martes
+
+
+zibellina) by high-throughput sequence analysis of the bac- terial 16S rRNA gene. AMB Express 2016;6:98.
+Hirth HF. Some aspects of the nesting behavior and reproductive biology of sea turtles. Am Zool 1980;20:507-23.
+Hong PY, Wheeler E, Cann IK et al. Phylogenetic analysis of the fecal microbial community in herbivorous land and marine iguanas of the Galapagos Islands using 16S rRNA-based py- rosequencing. ISME J 2011;5:1461-70.
+Jensen MP, Bell I, Limpus CJ et al. Spatial and temporal genetic variation among size classes of green turtles (Chelonia my- das) provides information on oceanic dispersal and popula- tion dynamics. Mar Ecol Prog Ser 2016;543:241-56.
+Jernberg C, Lo" fmark S, Edlund C et al. Long-term impacts of an- tibiotic exposure on the human intestinal microbiota. Micro- biology 2010;156:3216.
+Karen A, Bjorndal  et al. Digestive fermentation in green turtles,
+Chelonia mydas, feeding on algae. Bull Mar Sci 1991;48:66-71. Keenan  SW,  Engel  AS,  Elsey  RM.  The  alligator  gut  micro-
+biome  and  implications  for  archosaur  symbioses.  Sci Rep
+2013;3:2877.
+Lauber CL, Hamady M, Knight R et al. Pyrosequencing-based as- sessment of soil pH as a predictor of soil bacterial commu- nity structure at the continental scale. Appl Environ Microbiol 2009;75:5111-20.
+Li T, Long M, Gatesoupe F-J et al. Comparative analysis of the intestinal bacterial communities in different  species  of  carp by pyrosequencing. Microb Ecol 2015;69:25-36.
+Limpus CJ, Reed PC. The green turtle, Chelonia mydas, in Queens- land: a preliminary description of the  population structure  in a coral reef feeding ground. In: Grigg G, Shine R, Ehmann H (eds). Biology of Australasian Frogs and Reptiles. Chipping Norton, NSW, Australia: Surrey Beatty and Royal Zoological Society of New South Wales, 1985, 47-52.
+Lo' pez-Garci'a P, Moreira D. Metabolic symbiosis at the origin of eukaryotes. Trends Biochem Sci 1999;24:88-93.
+Lutz PL, Musick JA, Wyneken J (eds). The Biology of Sea Turtles, Vol.
+2. Boca Raton, FL, USA: CRC press, 2002.
+MacFariane RD, McLaughlin JJ, Bullock G. Quantitative and qual- itative studies of gut flora in striped bass from estuarine and coastal marine environments. J Wildl Dis 1986;22:344-8.
+McMurdie PJ, Holmes S. phyloseq: An R package for reproducible interactive analysis and graphics of microbiome census data. PLoS One 2013;8:e61217.
+Mao S, Zhang M, Liu J et al. Characterising the bacterial micro- biota across the gastrointestinal tracts of dairy cattle: mem- bership and potential function. Sci Rep 2015;5:16116.
+Masella AP, Bartram AK, Truszkowski JM et al. PANDAseq: paired- end assembler for Illumina sequences. BMC Bioinformatics 2012;13:31.
+Merson SD, Ouwerkerk D, Gulino LM et al. Variation in the hindgut microbial communities of the Florida manatee, Trichechus manatus latirostris over winter in Crystal River, Florida. FEMS Microbiol Ecol 2014;87:601-15.
+Murdoch DA. Gram-positive anaerobic cocci. Clin Microbiol Rev
+1998;11:81-120.
+Murphy EC, Frick I-M. Gram-positive anaerobic cocci - com- mensals and opportunistic pathogens. FEMS Microbiol Rev 2013;37:520-53.
+Nelson TM, Apprill A, Mann J et al. The marine mammal mi- crobiome: current knowledge and future directions. Microbiol Aust 2015;36:8-13.
+Nelson TM, Rogers TL, Brown MV. The gut bacterial community of mammals from marine and terrestrial habitats. PLoS One 2013;8:e83655.
+
+
+
+
+Nielsen KA, Owen HC, Mills PC et al. Bacteria isolated from dugongs (Dugong dugon) sub-mitted for postmortem exam- ination in Queensland, Australia, 2000-2011. J Zoo Wildl Med 2013;44:35-41.
+Numberger  D,  Herlemann  DPR,  Ju" rgens  K  et  al.  Comparative analysis of the fecal bacterial community of five harbor seals (Phoca vitulina). Microbiologyopen 2016;5:782-92.
+O'Mahony S, Clarke G, Borre Y et al. Serotonin, tryptophan metabolism and the brain-gut-microbiome axis. Behav Brain Res 2015;277:32-48.
+Owens RC, Jr, Donskey CJ, Gaynes RP et al. Antimicrobial- associated risk factors for Clostridium difficile infection. Clin Infect Dis 2008;46:S19-31.
+Pascault N, Roux S, Artigas J et al. A high-throughput sequenc- ing ecotoxicology study of freshwater  bacterial  communi-  ties and their responses to tebuconazole. FEMS Microbiol Ecol 2014;90:563-74.
+Raidal SR, Ohara M, Hobbs RP et al. Gram-negative bacterial in- fections and cardiovascular parasitism in green sea turtles (Chelonia mydas). Aust Vet J 1998;76:415-7.
+Ravussin Y, Koren O, Spor A et al. Responses of gut microbiota  to diet composition and weight loss in lean and obese mice. Obesity 2012;20:738-47.
+Read TC, Wantiez  L, Werry  JM et al. Migrations of green tur-  tles (Chelonia mydas) between nesting and foraging grounds across the Coral Sea. PLoS One 2014;9:e100083.
+Redford AJ, Fierer N. Bacterial succession on the leaf surface: a novel system for studying successional dynamics. Microb Ecol 2009;58:189-98.
+Reed PA, Francis-Floyd R. Vibrio Infections of Fish. Gainesville, FL, USA: Institute of Food and Agricultural Sciences, University of Florida, 1996.
+Segata N, Izard J, Waldron L et al. Metagenomic biomarker dis- covery and explanation. Genome Biol 2011;12:R60.
+Shin N-R, Whon TW, Bae J-W. Proteobacteria: microbial sig- nature of dysbiosis in gut microbiota. Trends Biotechnol 2015;33:496-503.
+Sommer F, Backhed F. The gut microbiota--masters of host de- velopment and physiology. Nat Rev Microbiol 2013;11:227-38.
+
+Stecher B, Hardt W-D. The role of microbiota in infectious dis- ease. Trends Biotechnol 2008;16:107-14.
+Stover CK, Pham XQ, Erwin AL et al. Complete genome sequence of Pseudomonas aeruginosa PAO1, an opportunistic pathogen. Nature 2000;406:959-64.
+Teeling H, Fuchs BM, Becher D et al. Substrate-controlled succession  of  marine  bacterioplankton  populations induced by a phytoplankton bloom. Science 2012;336: 608-11.
+Tsukinowa E, Karita S, Asano S et al. Fecal microbiota of a dugong (Dugong dugong) in captivity at Toba Aquarium. J Gen Appl Microbiol 2008;54:25-38.
+Uffen RL. Xylan degradation: a glimpse at microbial diversity. J Ind Microbiol Biotechnol 1997;19:1-6.
+Uz I, Ogram AV. Cellulolytic and fermentative guilds in eu- trophic soils of the Florida Everglades. FEMS Microbiol Ecol 2006;57:396-408.
+Van der Waaij D, Berghuis-de Vries J, Lekkerkerk-Van der Wees
+J. Colonization resistance of the digestive tract in con- ventional and antibiotic-treated mice. Epidemiol Infect 1971; 69:405-11.
+Vega Thurber R, Willner-Hall D, Rodriguez-Mueller B et al. Metagenomic analysis of stressed coral holobionts. Environ Microbiol 2009;11:2148-63.
+Wang W, Cao J, Li J-R et al. Comparative analysis of the gastroin- testinal microbial communities of bar-headed goose (Anser indicus) in different breeding patterns by high-throughput se- quencing. Microbiol Res 2016;182:59-67.
+Yang Y, Deng Y, Cao L. Characterising the interspecific variations and convergence of gut microbiota in Anseriformes herbi- vores at wintering areas. Sci Rep 2016;6:32655.
+Yoshimizu M, Kimura T. Study on the intestinal microflora of salmonids. Fish Pathol 1976;10:243-59.
+Zakrzewski M, Proietti C, Ellis JJ et al. Calypso: a user-friendly web-server for mining and visualizing microbiome - envi- ronment interactions. Bioinformatics 2017;33:782-3.
+Zhang C, Zhang M, Wang S et al. Interactions between gut mi- crobiota, host genetics and diet relevant to development of metabolic syndromes in mice. ISME J 2010;4:232-41.

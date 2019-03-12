@@ -1,0 +1,379 @@
+DOI 10.1007/s11356-017-8943-3
+
+
+Estrogen receptor beta mediates hepatotoxicity induced by perfluorooctane sulfonate in mouse
+Cheng Xu1,2 & Zhao-Yan Jiang 3 & Qian Liu1,2 & Hui Liu1,2 & Aihua Gu1,2
+
+
+
+
+
+Received: 22 April 2016 / Accepted: 27 March 2017 / Published online: 7 April 2017
+# Springer-Verlag Berlin Heidelberg 2017
+
+
+Abstract Perfluorooctane sulfonate (PFOS), an artificial fluorosurfactant and global contaminant, is used widely in various consumer products. In this study, we investigated the function of estrogen receptor b (ERb) in PFOS-induced bile acid and cholesterol metabolism disorders and gut microbiome using ERb knockout mice that were exposed to PFOS by gavage. Our results showed that a daily dose of 5 mg PFOS/kg significantly induced hydropic degeneration and vacuolation in hepatic cells, reduced bile acid, and cholesterol levels in liver tissue, and influenced the abundance and com- position of gut microbiota. Notably, ERb deficiency not only ameliorated morphological alterations of hepatocytes but also relieved disorders in bile acids and cholesterol metabolism caused by PFOS. Furthermore, the changes in the gut microbiome by PFOS were also modulated. The relative tran- script abundance of key genes involved in bile acid and cho- lesterol metabolism exhibited similar changes. In HepG2
+
+Cheng Xu, Zhao-Yan Jiang, and Qian Liu contributed equally to this study and should be regarded as joint first authors.
+
+cells, PFOS increased ERb expression, which could be blocked by adding PHTPP (a selective antagonist of ERb). Our study thus provides new evidence that ERb mediates PFOS-induced hepatotoxicity.
+
+Keywords Perfluorooctane sulfonate . Estrogen receptor b . Gut microbiota . Hepatotoxicity
+
+
+Introduction
+
+Perfluoroalkyl and polyfluoroalkyl substances are extremely stable surfactants that have been used widely in industrial production and daily life since the 1950s (Buck et al. ). Of their various family members, perfluorooctane sulfonate (PFOS; C8F17SO -) can be degraded or metabolized from perfluorooctanesulfonyl fluoride-based compounds (Chang et al. ).
+In recent years, PFOS is widely distributed and universally
+
+ 		detected in humans (Harada et al. ; Ingelido et al. ;
+
+Responsible editor: Philippe Garrigues
+Electronic supplementary material The online version of this article (doi:) contains supplementary material, which is available to authorized users.
+
+* Aihua Gu
+
+
+1 State Key Laboratory of Reproductive Medicine, Institute of Toxicology, Nanjing Medical University, Nanjing, China
+2 Key Laboratory of Modern Toxicology of Ministry of Education, School of Public Health, Nanjing Medical University,
+Nanjing, China
+3 Center of Gallbladder Disease, Shanghai East Hospital, Tongji University School of Medicine, Shanghai, China
+
+Kato et al. ; Zhang et al. ), but considerable epide- miological and animal researches suggested that PFOS had adverse health effects, such as disturbances in lipid metabo- lism (Wang et al. ), neurotoxicity (Mariussen ), immunotoxicity (Dong et al. ), pulmonary disease (Humblet et al. ), reproductive toxicity (Lopez-Doval et al. ), and prostate cancer (Eriksen et al. ). Thus, PFOS was one of nine new persistent organic pollutants to be outlawed in the 2009 Stockholm Convention. Recent studies have also reported that PFOS potentially disrupts endo- crine function in vitro and in vivo (Cheng et al. ;      Du et al. ). In addition, Kjeldsen et al. found that PFOS enhanced ER transactivity in vitro (Kjeldsen and Bonefeld-Jorgensen ).
+
+
+Estrogen receptors (ERs) are members of the nuclear re- ceptor family and mediate many processes in humans. The initial role of ER in association with reproductive function/ processes has been studied by researchers. Thereafter, their roles in many human physiological processes have also attracted more attention by researchers, such as in cardiovas- cular function, regulating vascular function, blood pressure, endothelial relaxation, and the development of hypertrophy and cardio-protection (Menazza and Murphy ); in bone tissue, maintaining bone mineral density (Khalid and Krum ); in the central nervous system, regulating memory and maintenance of hippocampal function (Bean et al. ); and in hematopoiesis, regulating the differentiation of pluripotent hematopoietic progenitor cells (Shim et al. ). The two predominant ERs are estrogen receptor alpha (ERa) and es- trogen receptor beta (ERb), which respond to 17 beta- estradiol in their natural signaling pathways (Nilsson and Gustafsson ). ERa is the primary ER isoform in hepato- cytes (Gao et al. ), and several studies with knockout mice indicated that ERa played a role in hepatic lipid metab- olism. Recently, Foryst-Ludwig et al. () confirmed that ERb played a role in the liver of mammals. However, only few studies focused on the role of the function of ERb in liver homeostasis.
+PFOS has potential estrogenic effects. In this study, we first determined whether PFOS influenced hepatic ER expression in mice. Then, we measured the effects of 28 days of gavage with 5 mg PFOS/(kg/day) on hepatic bile acid and cholesterol metabolism and the gut microbiota in male mice. We chose the dose of 5 mg/kg/day according to previous reports which is a moderate dose inducing defects in mice health. The role of ERb in mediating hepatotoxicity of PFOS was also described for the first time.
+
+
+Materials and methods
+
+Chemicals, animals, and diets
+
+PFOS (CAS No. 2795-39-3, purity >98%) was purchased from Sigma-Aldrich (St. Louis, MO), and 4-(2-phenyl-5,7- bis(trifluoromethyl)pyrazolo[1,5-a]pyrimidin-3-yl)phenol and 2-phenyl-3-(4-hydroxyphenyl)-5,7-bis (trifluoromethyl)- pyrazolo [1,5-alpha]pyrimidine (PHTPP, CAS 805239-56-9) was obtained from Santa Cruz Biotechnology (Santa Cruz, CA).
+ERb knockout (ERbKO) mice were generated as de- scribed (Krege et al. ). The ERb KO (B6.129P2- Esr2tm1Unc/J)  mice  were  purchased  from  The Jackson Laboratory (Bar Harbor, ME). Males and females heterozy- gous for the ERb allele (ERb-/+) were intercrossed. Genotyping using DNA  isolated from mouse tails was per- formed by PCR analysis. Mice homozygous for the non-
+
+
+functional ERb allele (ERb-/-) producing no ERb protein and their wild-type littermates (ERb+/+) were used in the study. Male wild-type (WT) and ERbKO mice, aged 12- 14 weeks, were divided randomly into four groups (groups A and C, WT mice; groups B and D, ERb KO mice; n = 8 mice/group).
+PFOS was dissolved in 0.5% Tween 20 (Sigma-Aldrich) and given daily by oral gavage to mice for 28 days at 0 mg/kg (groups A and B) and 5 mg/kg (groups C and D). The mice were housed individually in a specific pathogen-free (SPF) barrier at the Animal Core Facility of Nanjing Medical University at 22.5 +- 2.5 degC and 30 to 70% humidity on a 12-h light/12-h dark cycle.
+All animal procedures were conducted per the local Animal Care and Use Committee of Nanjing Medical University. On day 29, the mice were euthanized by cervical dislocation fol- lowing CO2 anesthesia. Then, blood was collected by retro- orbital puncture and stored at -20 degC. Additional liver tissue was separated into freezer tubes and stored at -70 degC.
+
+Cell culture and experiments
+
+The immortalized cell line HepG2 was purchased from ATCC (HB-8065, Manassas, VA, USA) and cultured at 37 degC, 5% CO2, with Dulbecco's modified eagle medium, containing 10% FBS, 100 U/mL penicillin (Sigma-Aldrich, St. Louis, MO, USA), and 100 mg/mL streptomycin (Sigma-Aldrich, St. Louis, MO, USA). When the cell confluency reached 50%, PFOS was added and incubated for 24 h. Cells were plated on 6-well plates and administrated with two different concentrations (0, 10 and 10 mmol/L) of PFOS for 24 h. In the reverse experiment, we pretreated the HepG2 cells  with    1 mmol/L PHTPP for 30 min before treatment with PFOS. Cells were washed with PBS twice and  extracted  pro-  tein with protein lysis buffer. Each assay was repeated three times.
+
+Histopathological examination
+
+Liver tissues were placed in 4% (w/v) paraformaldehyde and kept for at least 24 h. Livers were embedded and complete horizontal sections (sectioned at 5 mm) were made. Multiple slides of each liver were prepared as standard hematoxylin and eosin (H&E)-stained glass slides for microscopic evaluation (x400). In each group, we observed 50 fields. To quantify the histological alterations, we scored each group's liver tissues according to previous study (Kleiner et al. ).
+
+Analysis of hepatic bile acids and total cholesterol
+
+One hundred milligrams of frozen liver tissue was homoge- nized with 900 mL 0.9% NaCl solution. After centrifugation at 2500 rpm for 10 min at 4 degC, the supernatant was collected.
+
+
+
+Hepatic total cholesterol and bile acid content were measured with an enzymatic kit (cholesterol: E003, and bile acid: A111- 2, NJJCBIO, Nanjing, China) per the manufacturer's instruc- tions. An aliquot of 10 mL supernatant, standard sample, and distilled water as blank were incubated with 1 mL reaction reagent (containing Good's buffer solution 50 mmol/L, phenol 5 mmol/L, 4-APP 0.3 mmol/L, cholesterol esterase 50 KU/L, cholesterol oxidase 25 KU/L, peroxidase 1.3 KU/L) at 37 degC for 10 min, respectively. The absorbance of the reaction solu- tion was thereafter determined at 510 nm wavelength to mea- sure the O.D. value with a spectrophotometer. Hepatic choles- terol content was calculated with the following formula: (O.D. sample - O.D. blank) / (O.D. standard substance - O.D. blank) * (concentration of standard substance) / (liver weight) (mmol/g liver).
+For bile acid measurement, another 30 mL of the supernatant, standard sample, and distilled water were incubated with 240 mL of reagent A (containing phosphate buffer solution PH = 7.5,100 mmol/L, diaphorase 1000 U/L, nicotinamide ade- nine dinucleotide cofactor 1 mmol/L, pyruvic acid 50 mmol/L, iodonitrotetrazolium 0.5 mmol/L), respectively,  at 37 degC for 5 min, and then an O.D. value of 1 at 505 nm of wavelength was detected with a spectrophotometer. Afterwards, 60 mL re- agent B ( containing phosphate buffer  solution pH = 7.5,100 mmol/L, 3a-hydroxysteroid dehydrogenase 2000 U/L) was added and incubated at 37 degC for 5 min, and an
+O.D. value of 2 at 505 nm wavelength was detected with a spectrophotometer. The concentration of bile acid was calculated with the following formula: ((sample (O.D. 2 - O.D. 1) / standard substance (O.D.2 - O.D.1) * (concentration of standard sub- stance) (mmol/g liver).
+
+Western blot
+
+Total proteins that were extracted from liver tissue (80 mg) and HepG2 cells (50 mg) were separated by 10% SDS-PAGE and transferred to a polyvinylidene difluoride membrane at 90 V for 90 min. A total of 5% skimmed milk was used to block the membrane. Then, membranes were incubated with primary antibodies for ERa (Abcam, ab76228, 1:1000), ERb (Abcam, ab3576, 1:1000), and GAPDH (Beyotime, AG019, 1:1000) overnight at 4 degC. The immunoreactive bands were visualized with enhanced chemiluminescence (ECL) western blotting detection reagents (Millipore, Billerica, MA, USA). Image Lab software (Bio-Rad Laboratories, Hercules, CA, US) was used to quantify the band density. Protein expression levels were normalized to GAPDH levels.
+
+RNA extraction and real-time PCR
+
+Total RNA was extracted using TRIzol according to the man- ufacturer's protocol. RNA concentration was measured on a
+
+NanoDrop 2000 (Thermo), and complementary DNA (cDNA) was synthesized per the manufacturer (PrimeScript(r) RT Master Mix, TaKaRa Code: DRR036A Takara Bio, Tokyo, Japan). Levels of the target genes were quantified on an ABI PRISM 7900HT (Applied Biosystems, Foster City, CA, USA). PCR was carried out in a 20-mL reac- tion, containing 0.4 mL cDNA, 2.5 mL 2x SYBR(r) Premix Ex Taq II, 0.1 mL 50x ROX Reference Dye II (Takara Bio, Tokyo, Japan), and 0.4 mmol/L of each primer set. The se- quences of the target gene primers are listed in Supplementary Table 1. The PCR  program  was  as  follows:  95  degC  for 30 s and 40 cycles of 95 degC for 5 s and 60 degC for 30 s.  Each PCR reaction was performed in triplicate. The data were analyzed using ABI PRISM SDS  2.2.2  software.  The mean Ct values were used as the final Ct values. Relative expression levels were calculated using the 2-DDCt (threshold  cycle) method with cyclophilin  as the internal standard.
+
+
+Metagenome sequencing
+
+On day 29, the feces of mice in the four groups were collected from each cage and stored immediately at -80 degC. The DNA from each feces samples (n = 3/group) was extracted with Qiagen QIAamp DNA Stool Mini Kit. The details of the metagenome sequencing and biological data analysis were previously described (Xu et al. ; Yan et al. ). Briefly, the 515F (5'-barcode-GTG CCAGCMGCCGCGG- 3') and 907R (5'-CCGTCAATTCMTTTRAGT TT-3')
+primers were used to amplify the V4-V5 region of the bacte- rial 16S ribosomal RNA gene. After purifying the amplicons, we performed Illumina MiSeq sequencing on the Illumina MiSeq platform in the Teagasc sequencing facility, using a 2 x 300 cycle V3 kit, following standard Illumina sequencing protocols. UPARSE (version 7.1 ) was used to cluster them into operational taxonomic units (OTUs), using a 97% similarity cutoff.
+
+
+Statistical analysis
+
+Statistical data were represented as means +- standard error. Shapiro-Wilk test was used to examine the normality of data. Then, the variable with normal distributions was analyzed by unpaired Student's two-tailed t test between two groups and the ANOVA test with multiple comparison post hoc test among three groups or more than three groups. The variables with non-normal distributions were analyzed by Kruskal- Wallis test with adjustments for multiple comparisons. A dif- ference was considered statistically significant if P < 0.05. The software Statistical Package for Social Sciences 17.0 (SPSS Inc., Chicago, IL, USA) was used.
+
+
+
+Results
+
+Effects of PFOS on ER expression
+
+Exposure of 5 mg/kg PFOS to male mice induced ERb pro- tein, but no effects on the expression of ERa protein was observed (Fig. ). Therefore, we used ERb knockout mice in the following experiments to determine whether PFOS in- fluences murine liver metabolism through ERb.
+
+
+Pathological alterations in liver caused by PFOS
+
+Exposure to PFOS led to hydropic degeneration and vacuola- tion in hepatocytes, as shown in the H&E-stained section of liver tissue (Fig. ). In contrast, in the ERb knockout group, no significant pathological changes were observed, even at the same dose of PFOS. The score is presented in Fig. .
+
+
+Effects of PFOS on cholesterol and bile acid metabolism
+
+Hepatic cholesterol and bile acid levels in male WT mice exposed to PFOS were significantly lower than in the control group (Fig. , d) (P < 0.001 and P = 0.007). Notably, in ERb knockout mice, the same dose of PFOS did not change hepatic total cholesterol or bile acid levels.
+
+Expression of genes involved in cholesterol and bile acid metabolism in liver and intestine
+
+The liver and intestine are the key organs that regulate   bile acid and cholesterol metabolism.  We did  not  find any differences in cholesterol synthesis, as evidenced by the similar levels of the rate-limiting enzyme 3-hydroxy- 3-methylglutaryl coenzyme A reductase (Hmgcr) (Fig. 3a). The high-density lipoprotein receptor  scaven- ger receptor B type I (Srbi and low-density lipoprotein receptor (Ldlr) did not change between groups (Fig. 3b), either.
+The canalicular cholesterol transporter ATP-binding cassette (ABC) g5  increased  approximately  3-fold (P < 0.001) only in the  PFOS-treated  groups  (Fig. 3d). We did not observe any differences in intestinal NPC1L1, a key gene that mediates intestinal cholesterol absorption (Fig. 3f). The messenger RNA (mRNA) levels of other related genes (Srbi and Abca1) were unaltered (Fig. 3c, e).
+Cholesterol 7a-hydroxylase (Cyp7a1) is an important en- zyme for bile acid synthesis in the liver. Its mRNA levels decreased by approximately 50% (P < 0.001) only in PFOS- treated mice (Fig. 3g). Fgf15 is secreted by enterocytes in the ileum and negatively regulates hepatic Cyp7a1 expression. Its expression increased 15-fold in the intestine (P < 0.001) (Fig. 3h).
+
+
+
+
+Fig. 1 Changes in hepatic ERa and ERb expression in mouse liver. Twelve-week-old C57BL/6 male mice were given 0.5% Tween 20 (n = 8) or PFOS
+5 mg/kg/day (n = 8) by oral gavage for 4 weeks. ERa and ERb expression was measured by Western blot. GAPDH was used as a loading control. Data are expressed as means +- S.D. P value <0.001 compared with the control group
+
+
+Fig. 2 Effects of PFOS on mouse livers by H&E staining and hepatic cholesterol and bile acid levels. Twelve-week-old male wildtype and ER knockout mice were given 0.5% Tween 20
+(n = 8) and PFOS 5 mg/kg/day (n = 8), respectively, by oral gavage for 4 weeks. Livers were fixed and frozen as needed. a Representative histopathology of liver from 0.5% Tween 20- and PFOS-treated mice. Hydropic degeneration and vacuolation in hepatocytes only in the ERb(+
+)PFOS(+) group. The larger pictures are x400 (scale 50 mm); the small pictures are x200 (scale 100 mm). b Liver cell injury score was evaluated in four groups. c, d Hepatic cholesterol (mmol/g liver) and bile acid content (mmol/g liver) was measured by colorimetric method. Values are expressed as mean +- S.D. (n = 8 in each group)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PFOS decreases the abundance of gut microbiota
+
+Bile acids are subjected to the enterohepatic cycle several times per day. Entering the intestine, they are modified by gut microbiome through de-conjugation to free bile acids and 7-dehydroxylation of primary bile acids into secondary bile acids, therefore modulating the composition of bile acids
+
+as well. Compared with the control group, the overall abun- dance of bacteria decreased significantly (by 5.7%) in PFOS- treated mice, while no noticeable difference occurred in the ERb knockout group (Table ). We also investigated commu- nity richness (e.g., the ACE and Chao1 estimators) and com- munity diversity (e.g., the Shannon and Simpson indices), based on the OTUs in the four groups (Table ). Similarly,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3 Expression of genes involved in cholesterol and bile acid metabolism in liver (a-e, g) and intestine (f, h) was measured by real- time PCR. Twelve-week-old male wildtype and ERb knockout mice were given 0.5% Tween 20 (n = 8) and PFOS 5 mg/kg/day (n = 8),
+
+respectively, by oral gavage for 4 weeks. Values are expressed as mean +- S.D. (n = 8 in each group).***P value <0.001 compared with the control group
+
+
+
+the ACE and Chao indices in PFOS-exposed animals appeared to be reduced when compared with the control mice, although no significant differences were present in the study.
+
+ERb deficiency attenuates PFOS-induced alterations in gut microbiome composition
+
+By principal component analysis (PCA) with weighted UniFrac analysis, we noted significant differences be- tween the composition of the gut microbiome in PFOS- exposed and control mice. Notably, ERb deficiency al- tered the PFOS-mediated effects on the categorization of the composition of the gut microbiome (Fig. ). The hier- archical heat map (Supplemental Fig. 1) was based on the 55 most abundant bacterial communities at the family level.
+
+PFOS induced ERb in HepG2 cells
+
+When HepG2 cells were incubated with PFOS alone, ERb was induced at 10 mol/L and, to a lesser extent, 100 mol/L. However, this effect was blocked when they were preincubat- ed with PHTPP, as shown in Fig. .
+
+
+Discussion
+
+Various doses of PFOS (0.005 to 20  mg/kg/day)  have been applied in mouse studies to evaluate its toxic effects (Dong et al. ; Fuentes et al. ; Qazi et al. ; Wan et al. ; Wang et al.  ). However,  few  stud- ies have investigated the effects of PFOS on hepatic cho- lesterol and bile acid metabolism. In addition to the pre- vious findings, our results provide evidence of the toxic effect of PFOS on hepatic metabolism of cholesterol and bile acids and its influence on gut microbiota, suggesting that changes in hepatic cholesterol and bile acid metabo- lism and the gut microbiota are useful markers for mon- itoring  the effect after being exposed to PFOS. Notably,    at the same doses of PFOS, the alterations in cholesterol and bile acid metabolism and gut microbiota 
+
+were mitigated in ERb knockout mice, indicating that  ERb in part mediates PFOS-induced hepatotoxicity and changes in gut microbiome.
+PFOS can cause hepatotoxicity through such processes as apoptosis (Kim et al. ), hepatomegaly, and peroxisome proliferation (Berthiaume and Wallace ). However, the underlying mechanism of these events has not been deter- mined. Wan found that PFOS altered glutathione S- transferase pi (GSTP) gene methylation patterns and induced liver toxicity (Wan et al. ). Independent studies by Kim and Wan showed that PFOS caused hepatotoxicity by disrupting lipid metabolism (Kim et al. ; Wan et al. ). Epidemiological studies also revealed that PFOS mod- ifies the transcript levels of genes involved with cholesterol mobilization (Fletcher et al. ). Previous research focused primarily on serum cholesterol concentrations (Lau et al. ; Seacat et al. ).
+In this study, we measured cholesterol levels in liver, where most cholesterol is metabolized, and found disturbances in hepatic bile acid and cholesterol metabolism in mice. Cyp7a1 is the rate-limiting enzyme of bile acid synthesis through the hydroxylation of cholesterol (Hylemon et al. ) and mediates cholesterol homeostasis. Our data dem- onstrated a decrease in Cyp7a1 expression, which led to lower hepatic bile acid levels in PFOS-treated mice. Fgf15 is secret- ed in the terminal ileum and participates in the negative feed- back of hepatic bile acid synthesis by binding to FGF receptor 4 in hepatocytes (Inagaki et al. ). Notably, Fgf15 expres- sion was elevated in the intestine only in the PFOS-exposed group, which might account for the disorder in bile acid syn- thesis in these mice.
+Abcg5 and Abcg8 constitute the obligate heterodimeric transporter for canalicular cholesterol transport in hepatocytes, regulating cholesterol levels in the liver and bile (Baldan et al. ). The increase in Abcg5 expression suggested greater excretion of hepatic cholesterol into bile which is likely to have accounted for the low cholesterol levels in liver tissue. Neither the key genes that are involved in cholesterol synthe- sis nor the hepatic lipoprotein receptors Srbi or Ldlr differed between groups in this study. These data suggested that lower hepatic cholesterol level was not due to defects in cholesterol synthesis or absorption in hepatocytes after PFOS exposure.
+
+
+
+
+A: wild-type mice with 0.5% Tween 20; B: ERb knockout-type mice with 0.5% Tween 20; C: wild-type mice with 5 mg/kg PFOS; D: ERb knockout-type mice with 5 mg/kg PFOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4 Principal component analysis of gut microbiota. Twelve-week-old male wildtype and ERb knockout mice were given 0.5% Tween 20  (n = 8) and PFOS 5 mg/kg/day (n = 8), respectively, by oral gavage for 4 weeks. Feces were collected. Class 1, wild-type mice with 0.5% Tween
+
+20. Class 2, ERb knockout mice with 0.5% Tween 20. Class 3, wild-type mice with 5 mg/kg PFOS. Class 4, ERb knockout mice with 5 mg/kg PFOS
+
+
+
+Another highlight in this study is to discover whether the estrogen receptor is involved with mediating liver toxicity of PFOS. PFOS was previously reported to interfere with nuclear hormone receptors (Du et al. ). ER transactivation test indicated that PFOS had weak estrogenic activity (Kjeldsen and Bonefeld-Jorgensen ). However, only one study in zebrafish showed that PFOS upregulated ERb mRNAwithout altering ERa or ERg (Fang et al. ). Our present study showed that PFOS influenced the expression of ERb but not ERa in the liver. In addition, ERb might be involved in me- diating the perturbance of bile acids and cholesterol metabo- lism in PFOS-exposed mice, because a lack of ERb rescued these impairments.
+We also observed alterations in the abundance and composition of the gut microbiome after PFOS exposure  in mice. The gut microbiota is seen as a "superorganism"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5 Protein expression of ERb in HepG2 cells. ERb and loading control (GAPDH) were measured by Western blot. All tests were performed in triplicate. **P value <0.01 compared with the control group
+
+since they encode important genes for metabolic process- es such as digesting dietary fibers,  metabolizing  drugs  and chemicals, and producing  vitamins  (Arumugam et al. ; Pennisi ). On exposure to hazardous chemicals, the gut microbiome might be disturbed resulting in an increased health risk in the host (Snedeker and Hay ). Changes of gut  microbiota have been reported to contribute to the development of diseases such as atherosclerosis (Org et al. ), obesity (Miele et al. ), and diabetes (Tai et al. ). The products of gut microbiota such as short-chain fatty acids could modulate energy harvest and fat partitioning (Goffredo et al. ). Gut microbiota may affect chem- ical metabolism via direct activation of chemicals, deple- tion of metabolites needed for biotransformation, alter- ation of host biotransformation enzyme activities, chang-  es in enterohepatic circulation, altered bioavailability of environmental chemicals and/or antioxidants from food, and alterations in gut motility and barrier function. Previous studies using conventional and germ-free mice demonstrated that cholesterol  metabolism  is  modulated by gut microbiota (Rabot et al. ). The hepatic  bile  acid synthesis is sophisticatedly regulated by the process- es as hepatic synthesis secretion, ileal reabsorption, and modification of bile acid composition by gut microbiome, as well as feedback regulation through nuclear receptors such as farnesoid X receptor (FXR)-SHP pathway and hormonal regulation by ileal FGF15, etc. (Chiang ). The gut microbiome plays key roles in hydrolyz-  ing conjugated bile acids and 7alpha-dehydroxlating pri- mary bile acid into secondary bile acid, modifying the composition and pool of bile acids (Degirolamo et al.  ; Fiorucci and Distrutti  ;  Joyce  et  al.  ). As shown by Sayin et al., gut microbiota not only regu- lated secondary bile acid metabolism but also 
+
+
+
+inhibited bile acid synthesis in the liver by alleviating  FXR inhibition in the ileum (Sayin et al. ). In addi- tion, the enterohepatic circulation in vertebrates alters the gut microbiome, resulting in abnormal bile acid and cho- lesterol homeostasis. But no research has focused on the effects of PFOS on gut microbiota.
+We have found that the abundance and composition of the gut microbiome altered after exposure to PFOS. Few studies have reported the relationship between ERs and the gut microbiome, one of which has suggested that gut microbiota-derived metabolites regulate ER activity (Dellafiora et al. ). In our study, ERb deficiency reversed the changes in the gut microbiome.
+
+
+Conclusion
+
+Deletion of ERb alleviates the disturbances in bile acid and cholesterol metabolism that are caused by PFOS. The abun- dance and composition of the gut microbiome also change after PFOS exposure. Our results indicate that the gut microbiome is one of the primary targets of PFOS-induced hepatotoxicity. These findings increase our understanding of the adverse effects of PFOS on gut microbiome as well as bile acid and cholesterol metabolism.
+
+Acknowledgements This work was supported by the National Natural Science Foundation of China (Grant Nos. 81172694 and 81270537), the Outstanding Youth Fund of Jiangsu Province (SBK2014010296), the Research Project of Chinese Ministry of Education (213015A), the Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD), and Jiangsu Province's QingLan project (JX2161015124).
+
+Authors' contributions The authors' contributions are as follows:
+Q.L. and C.X. conducted data analyses, and Z.Y.J. and A.H.G. were involved in the design of the study and interpretation of the results and critically reviewed the manuscript. All authors have approved the final manuscript.
+
+Compliance with ethical standards All procedures performed in stud- ies involving animals were in strict accordance with the ethical standards of the Animal Ethical Committee, Nanjing Medical University, China. This article does not contain any studies with human participants per- formed by any of the authors.
+
+Conflict of interest The authors declare that they have no competing interests.
+
+
+References
+
+Arumugam M et al (2011) Enterotypes of the human gut microbiome.
+Nature 473:174-180
+Baldan A, Bojanic DD, Edwards PA (2009) The ABCs of sterol transport.
+J Lipid Res 50(Suppl):S80-S85
+
+Bean LA, Ianov L, Foster TC (2014) Estrogen receptors, the hippocam- pus, and memory. Neuroscientist 20:534-545
+Berthia ume J, Wa lla ce KB (2002) Perfluorooc tanoate , perflourooctanesulfonate, and N-ethyl perfluorooctanesulfonamido ethanol; peroxisome proliferation and mitochondrial biogenesis. Toxicol Lett 129:23-32
+Buck RC, Franklin J, Berger U, Conder JM, Cousins IT, de Voogt P, Jensen AA, Kannan K, Mabury SA, van Leeuwen SP (2011) Perfluoroalkyl and polyfluoroalkyl substances in the environment: terminology, classification, and origins. Integr Environ Assess Manag 7:513-541
+Chang ET, Adami HO, Boffetta P, Cole P, Starr TB, Mandel JS (2014) A critical review of perfluorooctanoate and perfluorooctanesulfonate exposure and cancer risk in humans. Crit Rev Toxicol 44(Suppl 1): 1-81
+Cheng Y, Cui Y, Chen HM, Xie WP (2011) Thyroid disruption effects of environmental level perfluorooctane sulfonates (PFOS) in Xenopus laevis. Ecotoxicology 20:2069-2078
+Chiang JY (2009) Bile acids: regulation of synthesis. J Lipid Res 50: 1955-1966
+Degirolamo C, Rainaldi S, Bovenga F, Murzilli S, Moschetta A (2014) Microbiota modification with probiotics induces hepatic bile acid synthesis via downregulation of the Fxr-Fgf15 axis in mice. Cell Rep 7:12-18
+Dellafiora L, Mena P, Cozzini P, Brighenti F, Del Rio D (2013) Modelling the possible bioactivity of ellagitannin-derived metabolites. In silico tools to evaluate their potential xenoestrogenic behavior. Food Funct 4:1442-1451
+Dong GH, Zhang YH, Zheng L, Liu W, Jin YH, He QC (2009) Chronic effects of perfluorooctanesulfonate exposure on immunotoxicity in adult male C57BL/6 mice. Arch Toxicol 83:805-815
+Du G, Hu J, Huang H, Qin Y, Han X, Wu D, Song L, Xia Y, Wang X (2013) Perfluorooctane sulfonate (PFOS) affects hormone receptor activity, steroidogenesis, and expression of endocrine-related genes in vitro and in vivo. Environ Toxicol Chem 32:353-360
+Eriksen KT, Sorensen M, McLaughlin JK, Lipworth L, Tjonneland A, Overvad K, Raaschou-Nielsen O (2009) Perfluorooctanoate and perfluorooctanesulfonate plasma levels and risk of cancer in the general Danish population. J Natl Cancer Inst 101:605-609
+Fang C, Wu X, Huang Q, Liao Y, Liu L, Qiu L, Shen H, Dong S (2012) PFOS elicits transcriptional responses of the ER, AHR and PPAR pathways in Oryzias melastigma in a stage-specific manner. Aquat Toxicol 106-107:9-19
+Fiorucci S, Distrutti E (2015) Bile acid-activated receptors, intestinal microbiota, and the treatment of metabolic disorders. Trends Mol Med 21:702-714
+Fletcher T, Galloway TS, Melzer D, Holcroft P, Cipelli R, Pilling LC, Mondal D, Luster M, Harries LW (2013) Associations between PFOA, PFOS and changes in the expression of genes involved in cholesterol metabolism in humans. Environ Int 57-58:2-10
+Foryst-Ludwig A, Clemenz M, Hohmann S, Hartge M, Sprang C, Frost N, Krikov M, Bhanot S, Barros R, Morani A, Gustafsson JA, Unger T, Kintscher U (2008) Metabolic actions of estrogen receptor beta (ERbeta) are mediated by a negative cross-talk with PPARgamma. PLoS Genet 4:e1000108
+Fuentes S, Vicens P, Colomina MT, Domingo JL (2007) Behavioral ef- fects in adult mice exposed to perfluorooctane sulfonate (PFOS). Toxicology 242:123-129
+Gao H, Falt S, Sandelin A, Gustafsson JA, Dahlman-Wright K (2008) Genome-wide identification of estrogen receptor alpha-binding sites in mouse liver. Mol Endocrinol 22:10-22
+Goffredo M, Mass K, Parks EJ, Wagner DA, McClure EA, Graf J, Savoye M, Pierpont B, Cline G, Santoro N (2016) Role of gut microbiota and short chain fatty acids in modulating energy harvest and fat partitioning in youth. J Clin Endocrinol Metab 101:4367-4376
+
+
+
+Harada KH, Yang HR, Moon CS, Hung NN, Hitomi T, Inoue K, Niisoe T, Watanabe T, Kamiyama S, Takenaka K, Kim MY, Watanabe K, Takasuga T, Koizumi A (2010) Levels of perfluorooctane sulfonate and perfluorooctanoic acid in female serum samples from Japan in 2008, Korea in 1994-2008 and Vietnam in 2007-2008.
+Chemosphere 79:314-319
+Humblet O, Diaz-Ramirez LG, Balmes JR, Pinney SM, Hiatt RA (2014) Perfluoroalkyl chemicals and asthma among children 12-19 years of age: NHANES (1999-2008). Environ Health Perspect 122:1129- 1133
+Hylemon PB, Zhou H, Pandak WM, Ren S, Gil G, Dent P (2009) Bile acids as regulatory molecules. J Lipid Res 50:1509-1520
+Inagaki T, Choi M, Moschetta A, Peng L, Cummins CL, McDonald JG, Luo G, Jones SA, Goodwin B, Richardson JA, Gerard RD, Repa JJ, Mangelsdorf DJ, Kliewer SA (2005) Fibroblast growth factor 15 functions as an enterohepatic signal to regulate bile acid homeosta- sis. Cell Metab 2:217-225
+Ingelido AM, Marra V, Abballe A, Valentini S, Iacovella N, Barbieri P, Porpora MG, Domeni co A, De F elip E ( 2010) Perfluorooctanesulfonate and perfluorooctanoic acid exposures of the Italian general population. Chemosphere 80:1125-1130
+Joyce SA, MacSharry J, Casey PG, Kinsella M, Murphy EF, Shanahan F, Hill C, Gahan CG (2014) Regulation of host weight gain and lipid metabolism by bacterial bile acid modification in the gut. Proc Natl Acad Sci U S A 111:7421-7426
+Kato K, Wong LY, Jia LT, Kuklenyik Z, Calafat AM (2011) Trends in exposure to polyfluoroalkyl chemicals in the U.S. population: 1999- 2008. Environ Sci Technol 45:8037-8045
+Khalid AB, Krum SA (2016) Estrogen receptors alpha and beta in bone.
+Bone 87:130-135
+Kim HS, Jun Kwack S, Sik Han E, Seok Kang T, Hee Kim S, Young Han S (2011) Induction of apoptosis and CYP4A1 expression in Sprague-Dawley rats exposed to low doses of perfluorooctane sul- fonate. J Toxicol Sci 36:201-210
+Kjeldsen LS, Bonefeld-Jorgensen EC (2013) Perfluorinated compounds affect the function of sex hormone receptors. Environ Sci Pollut Res Int 20:8031-8044
+Kleiner DE, Brunt EM, Van Natta M, Behling C, Contos MJ, Cummings OW, Ferrell LD, Liu YC, Torbenson MS, Unalp-Arida A, Yeh M, McCullough AJ, Sanyal AJ (2005) Design and validation of a his- tological scoring system for nonalcoholic fatty liver disease. Hepatology 41:1313-1321
+Krege JH, Hodgin JB, Couse JF, Enmark E, Warner M, Mahler JF, Sar M, Korach KS, Gustafsson JA, Smithies O (1998) Generation and re- productive phenotypes of mice lacking estrogen receptor beta. Proc Natl Acad Sci U S A 95:15677-15682
+Lau C, Butenhoff JL, Rogers JM (2004) The developmental toxicity of perfluoroalkyl acids and their derivatives. Toxicol Appl Pharmacol 198:231-241
+Lopez-Doval S, Salgado R, Pereiro N, Moyano R, Lafuente A (2014) Perfluorooctane sulfonate effects on the reproductive axis in adult male rats. Environ Res 134:158-168
+Mariussen E (2012) Neurotoxic effects of perfluoroalkylated compounds: mechanisms of action and environmental relevance. Arch Toxicol 86:1349-1367
+Menazza S, Murphy E (2016) The expanding complexity of estrogen receptor signaling in the cardiovascular system. Circ Res 118:994- 1007
+
+Miele L, Giorgio V, Alberelli MA, De Candia E, Gasbarrini A, Grieco A (2015) Impact of gut microbiota on obesity, diabetes, and cardiovas- cular disease risk. Curr Cardiol Rep 17:120
+Nilsson S, Gustafsson JA (2002) Biological role of estrogen and estrogen receptors. Crit Rev Biochem Mol Biol 37:1-28
+Org E, Mehrabian M, Lusis AJ (2015) Unraveling the environmental and genetic interactions in atherosclerosis: central role of the gut micro- biota. Atherosclerosis 241:387-399
+Pennisi E (2010) Body's hardworking microbes get some overdue re- spect. Science 330:1619
+Qazi MR, Nelson BD, Depierre JW, Abedi-Valugerdi M (2010) 28-Day dietary exposure of mice to a low total dose (7 mg/kg) of perfluorooctanesulfonate (PFOS) alters neither the cellular compo- sitions of the thymus and spleen nor humoral immune responses: does the route of administration play a pivotal role in PFOS-induced immunotoxicity? Toxicology 267:132-139
+Rabot S, Membrez M, Bruneau A, Gerard P, Harach T, Moser M, Raymond F, Mansourian R, Chou CJ (2010) Germ-free C57BL/6J mice are resistant to high-fat-diet-induced insulin resistance and have altered cholesterol metabolism. FASEB J 24:4948-4959
+Sayin SI, Wahlstrom A, Felin J, Jantti S, Marschall HU, Bamberg K, Angelin B, Hyotylainen T, Oresic M, Backhed F (2013) Gut micro- biota regulates bile acid metabolism by reducing the levels of tauro- beta-muricholic acid, a naturally occurring FXR antagonist. Cell Metab 17:225-235
+Seacat AM, Thomford PJ, Hansen KJ, Clemen LA, Eldridge SR, Elcombe CR, Butenhoff JL (2003) Sub-chronic dietary toxicity of potassium perfluorooctanesulfonate in rats. Toxicology 183:117- 131
+Shim GJ, Wang L, Andersson S, Nagy N, Kis LL, Zhang Q, Makela S, Warner M, Gustafsson JA (2003) Disruption of the estrogen receptor beta gene in mice causes myeloproliferative disease resembling chronic myeloid leukemia with lymphoid blast crisis. Proc Natl Acad Sci U S A 100:6694-6699
+Snedeker SM, Hay AG (2012) Do interactions between gut ecology and environmental chemicals contribute to obesity and diabetes? Environ Health Perspect 120:332-339
+Tai N, Wong FS, Wen L (2015) The role of gut microbiota in the devel- opment of type 1, type 2 diabetes mellitus and obesity. Rev Endocr Metab Disord 16:55-65
+Wan YJ, Li YY, Xia W, Chen J, Lv ZQ, Zeng HC, Zhang L, Yang WJ, Chen T, Lin Y, Wei J, Xu SQ (2010) Alterations in tumor biomarker GSTP gene methylation patterns induced by prenatal exposure to PFOS. Toxicology 274:57-64
+Wan HT, Zhao YG, Wei X, Hui KY, Giesy JP, Wong CK (2012) PFOS- induced hepatic steatosis, the mechanistic actions on beta-oxidation and lipid transport. Biochim Biophys Acta 1820:1092-1101
+Wang L, Wang Y, Liang Y, Li J, Liu Y, Zhang J, Zhang A, Fu J, Jiang G (2014) PFOS induced lipid metabolism disturbances in BALB/c mice through inhibition of low density lipoproteins excretion. Sci Rep 4:4582
+Xu C, Liu Q, Huan F, Qu J, Liu W, Gu A, Wang Y, Jiang Z (2015) Changes in gut microbiota may be early signs of liver toxicity in- duced by epoxiconazole in rats. Chemotherapy 60:135-142
+Yan L, Xu C, Liu Q, Gu A, Jiang ZY (2015) Altered profile of gut microbiota after subchronic exposure to neochamaejasmin A in rats. Environ Toxicol Pharmacol 39:927-933
+Zhang W, Lin Z, Hu M, Wang X, Lian Q, Lin K, Dong Q, Huang C (2011) Perfluorinated chemicals in blood of residents in Wenzhou, China. Ecotoxicol Environ Saf 74:1787-1793

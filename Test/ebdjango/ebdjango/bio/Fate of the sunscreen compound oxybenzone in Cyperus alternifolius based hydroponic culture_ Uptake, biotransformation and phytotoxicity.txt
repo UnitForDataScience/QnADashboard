@@ -1,0 +1,414 @@
+e
+
+
+
+
+Fate of the sunscreen compound oxybenzone in Cyperus alternifolius based hydroponic culture: Uptake, biotransformation and phytotoxicity
+Feiran Chen, Christian Huber, Peter SchroEURder
+Helmholtz Zentrum Munchen, GmbH, German Research Center for Environmental Health,  Research Unit Comparative Microbiome Analysis, IngolstaEURdter Landstrasse 1, D-85764 Neuherberg, Germany
+
+
+h i g h l i g h t s	g r a p h i c a l a b s t r a c t  
+
+The sunscreen oxybenzone is sus- pected to be an endocrine disruptor.
+Oxybenzone can be removed from hydroponic	medium	by
+alternifolius.
+Higher accumulation of oxybenzone occurs in roots rather than in shoots.
+2,4-dihydroxybenzophenone as pre- cursor of further metabolites is  for the first time detected in planta.
+Plant defense systems are  activated to overcome the stress caused by oxybenzone.
+
+
+a r t i c l e i n f o
+
+Article history:
+Received 9 February 2017 Received in revised form 9 May 2017
+Accepted 11 May 2017
+Available online 12 May 2017 Handling Editor: J. de Boer
+Keywords: Oxybenzone Removal Phytodegradation Stress response
+
+a b s t r a c t  
+
+Oxybenzone (OBZ), a common ingredient in sunscreens and personal care products, has been frequently detected in effluents from municipal wastewater treatment plants and also in surface waters. OBZ is an emerging contaminant due to its adverse impacts on marine/aquatic ecosystems. To investigate the removal and degradation capacity of phytotreatment for OBZ, the common wetland plant species Cyperus alternifolius L. was exposed to this compound at 5, 25 and 50 mM for 120 h, respectively. Continuous uptake by roots and accumulation in plant tissues was observed over the exposure time, and depletion of spiked OBZ from the aqueous medium exceeded 73.9 +- 9.1% after 120 h. Similar to its fate in mammalian
+cells, OBZ is activated in a phase I reaction resulting in the hydroxylated metabolite 2,4- dihydroxybenzophenone (DHB). Independently, two phase II metabolites were identified as oxybenzone-glucoside (OBZ-Glu) and oxybenzone-(6-O-malonyl)-glucoside (OBZ-Mal-Glu) by LCeMS/ MS. Formation of these metabolites increased over the experimental period. To  our knowledge this is the  first time that DHB, OBZ-Glu and OBZ-Mal-Glu are shown to be formed in higher plant tissues.  Furthermore, plant defense systems-antioxidative enzymes (SOD, CAT, APOX and POX) were found to be elevated to counteract stress caused by exposure to OBZ.  This  study  presents  the  huge  potential  of  aquatic plants to cope with benzophenone type UV filters in contaminated water bodies.
+(c) 2017 Elsevier Ltd. All rights reserved.
+
+
+
+
+
+
+
+
+* Corresponding author.
+E-mail address: (P. SchroEURder).
+
+Introduction
+
+UV filters have received much attention in recent decades due to their ubiquitous occurrence in surface waters. They are released
+
+
+ 0045-6535/(c) 2017 Elsevier Ltd. All rights reserved.
+
+
+
+into the environment from skin during bathing and swimming, or indirectly via effluents of municipal waste water treatment plants (). Among the wide range of UV filters, oxy- benzone (OBZ) is one of the extensively used sun-blocking agents in many commercially available products ( ). OBZ has been detected in rivers, lakes, wastewaters and coastal areas at concentrations ranging from ng/L to mg/L ( ). It has been identified  as an emerging contaminant due to its persistence in the aquatic envi- ronment, accumulation in the biota, and potential threat as endo- crine disruptor (). For example, bioaccumulation of OBZ has been observed in zebra- fish (Danio rerio) and rainbow trout (Oncorhynchus mykiss), leading to estrogenic, antiestrogenic and antiandrogenic activities  (). Additionally, OBZ causes the deformation of coral planulae, and increases the rate of coral bleaching ().
+Since conventional sewage treatment processes are obviously not adequate for the removal of OBZ, it is necessary to apply alternative approaches to eliminate OBZ and mitigate its threat to aquatic organisms. Previous studies have investigated some removal processes of OBZ, for example, the oxidation of OBZ in water by ferrate (VI) with coexisting constituents or by laccase mediator system (), ozon- ation or ultrasound application (n~ ). Although these advanced techniques lead to high effluent quality, the cost of installation and operation  should be considered carefully before their implementation ( oEUR).
+Despite of the aforementioned engineering-based approaches, the "green clean" technique phytoremediation seems promising with respect to high removal rates and degradation capacity of micro-pollutants, easy implementation and lower maintenance, and it does not introduce external chemical substances into the environment (oEUR). Plants and the organisms in their rhizosphere can be used for phytor- emediation in constructed wetlands (CWs) and hydroponic setups (oEUR), and evidence for the role of plants for uptake and metabolism of target compounds is available ( ). Our previous study reported the uptake and conversion of OBZ by a plant hairy root model system (), however, little work has been done to clarify the capacity of wetland plants to
+remove and metabolize typical personal care products like sun- screens from water.
+This paper focuses on the removal and fate of OBZ by Cyperus alternifolius L. growing hydroponically. C. alternifolius is a common macrophyte growing best in tropical and subtropical environment (), where OBZ may occur at high concentration (1.4 mg/L) (). The objectives of this study were to determine the elimination of OBZ from hydroponic solutions, and to assess the translocation of OBZ from roots to shoots of Cyperus. Additionally, the potential transformation products of OBZ in different plant parts were to be identified to evaluate the ability of higher aquatic plants to degrade benzophenone type compounds. Furthermore, the tolerance of C. alternifolius against OBZ-induced oxidative stress should be explored to characterize the phytotox- icity of OBZ in plants.
+
+Materials and methods
+
+Plant                                                                   material Cyperus alternifolius was propagated from seeds purchased from
+
+a local provider (Tropica GmbH & Co KG, Munster, Germany). After germination, individual seedlings were transferred to soil in a greenhouse with 12/12 h light/dark cycle at 20/15 oC, and an average humidity of 65%. When the  plants  were approximately  30 cm tall, the soil was carefully washed off, and the plants were acclimatized hydroponically for four weeks in modified Hoagland
+nutrient  solution,  consisting of  each 2  mM  Mg2th,  Ca2th,  Kth,  SO2-, and NO-3 , 0.5 mM H2PO-4 , 10 mM H3BO3 and Fe3th,1 mM Mn2th, 0.5 mM
+Zn2th and Cu2th, 0.1 mM MoO2- (). All the chem- icals used were analytical grade.
+
+Hydroponic exposure system
+
+Plants of uniform size were selected and placed  into  250  mL  glass vessels containing Hoagland solution spiked with OBZ at concentrations of 5 mM, 25 mM and 50 mM, respectively. Although the higher OBZ concentrations (25 and 50 mM) are not environ- mentally relevant, they were chosen to induce plant physiological response and to investigate plant tolerance against OBZ, according     to similar experiments (). Three replicate vessels were established for each exposure period (i.e.,  24, 72 and 120 h) at each concentration, mock plants without OBZ treatment and assays without plants were set up under the same conditions. The entire plant from each replicate was harvested for different treatments at each exposure time, root, stem and leaf
+samples of each  plant  were  collected  separately  and  frozen at 80 oC for further measurements. The nutrient solutions were collected separately and analyzed to determine the OBZ concen- tration for each exposure time.
+
+Analysis of OBZ in growth medium
+
+Nutrient medium samples (1 mL) were collected and filtered through 0.45 mm pore size PVDF syringe filters (Carl Roth, Germany) prior to analysis via HPLC (Varian ProStar 210, Germany). Samples were loaded on an Agilent eclipse XDB-C18 reversed-phase column (5 mm, 4.6 150 mm), operated at ambient temperature. Ultrapure water (MilliQ, Millipore Corporation) with 0.1% trifluoroacetic acid was used as mobile phase A and acetonitrile (HPLC grade) with 0.1% trifluoroacetic acid (Carl Roth, Germany) was applied as mobile phase B. OBZ was separated with the following gradient: 0e1 min, 50% A (isocratic), 1e5 min, 90% B (linear increasing), 5e6 min, 50% A (linear decreasing), 6e7 min, 50% A (isocratic). The flow rate was maintained at 1.2 mL/min and OBZ was detected via HPLC with UV detection at 289 nm (Varian ProStar 335, Germany). Removal effi- ciencies were calculated from declining concentrations in the me- dia over time.
+
+LC-MS analysis for OBZ and its biodegradation products in plants
+
+The determination of OBZ and its metabolites in plant tissues was carried out using solid phase extraction (SPE) followed by LC- MS analysis. In short, 0.5 g plant material were ground and extracted with 1.5 mL H2O/acetonitrile (30/70, v/v), the superna- tants were then loaded on SPE columns (3 cm3 60 mg Oasis HLB SPE cartridges, Waters, Germany) according to the procedure of  . The LC-MS analysis was conducted on a HPLC sys- tem (Varian ProStar 210) coupled to an ion trap mass spectrometer equipped with an electrospray source (Varian 500-MS) as described previously (). Further details are described in Supporting Information Text S1&2.
+
+Protein extraction and antioxidative enzymes assay
+
+The extraction of soluble protein was carried out according to
+
+
+
+the method described by oEURincluding stepwise precipitation with ammonium sulfate. Protein content was deter- mined by the method of with bovine serum albu- min as a standard protein. All enzyme assays were conducted in a 96-well spectrophotometer (Spectra max Plus 384, Molecular De- vices, Germany). The specific activity (except superoxide dismut- ase) is expressed as the enzymatic formation or consumption of one mole product per second [katal] in the enzyme extracts.
+Superoxide dismutase (SOD, EC 1.15.1.1) activity was determined as the change  from epinephrine  to adrenochrome at  480  nm  for  5 min (10% enzyme concentration per reaction). One unit of SOD activity is defined as the amount of protein required for 50% inhi- bition of adrenochrome formation ().
+Catalase (CAT, EC 1.11.1.6) activity measurement was based on the decrease in absorption at 240 nm (   0.036 mM-1cm-1) due to the consumption of H2O2 (6.7% enzyme concentration per reaction) ().
+Peroxidase (POX, EC 1.11.1) activity was assayed at 420 nm (
+26.6  mM-1cm-1)  using  guajacol  (25.05  mM  per  reaction)  as  a substrate (5% enzyme concentration per reaction) ().
+Ascorbate peroxidase (APOX, EC 1.11.1.11) activity was measured according to the method described by Lyubenova et al. with mod- ifications . Each reaction contained 1 mM ascorbate, 0.1 mM H2O2, 0.1 mM EDTA and enzyme extract in 50 mM KH2PO4/K2HPO4 buffer (10% enzyme concentration per reaction), and the activity was determined at 290 nm (   2.8 mM-1cm-1).
+Glutathione reductase (GR, EC 1.6.4.2) activity was evaluated by the  extinction  at  340  nm  (    6.2  mM-1cm-1)  resulting  from  the consumption of NADPH (5% enzyme concentration per reaction) ().
+
+Data analysis
+
+Statistical analyses were performed with the software GraphPad Prism v5.0. Two-way analysis of variance (ANOVA) with Bonferroni post-test was applied to determine significant differences between groups. Comparisons among concentrations of OBZ and its me- tabolites were considered significantly different for p < 0.05, and data shown in section , which depicted the changes in enzyme activities (%) between OBZ treated and untreated plant were considered significant at p < 0.01.
+
+Results and discussion
+
+Removal of OBZ from hydroponic medium
+
+Hydroponic experiments were performed to evaluate the ability of C. alternifolius to remove OBZ. The initial concentrations were established based on the maximum level detected in water bodies (1.4 mg/L) (). Generally, removal of xenobiotics in hydroponic systems has been be attributed to abiotic (photo- degradation, evaporation, hydrolysis) and biotic processes (plant uptake and microbial degradation) ( ). For OBZ, photodegradation and volatilization were not ex- pected to occur due to the photostability of OBZ designed for blocking UV radiation () and low volatility of this compound. In control vessels without plants (same nutrient me- dium as other treatments), OBZ concentrations remained constant (Fig. S1) over the incubation time indicating that the adsorption on vessel walls was also negligible. It may be concluded that biotic processes accounted for the main removal process.
+The OBZ concentration in the medium dropped dramatically toward the end of the incubation time, and more than 73.9 +- 9.1% of OBZ were removed from media for all three different initial
+
+concentrations. A rapid decrease of OBZ concentration was observed within 24 h for the 5 mM treatment yielding an initial removal efficiency of 49.5 +- 6.4%. OBZ was then eliminated continuously from medium as shown in .  have demonstrated that the presence of Spartina maritima (Curtis) Fernald stimulates the remediation of OBZ at a removal rate of 62%. Recently, high removal efficiency of OBZ up to 97% has been re- ported in a constructed wetland applied as secondary treatment system (). In the study of removal of four pharmaceutically active compounds by C. alternifolius,   observed higher removal efficiencies as the initial con- centrations decreased. Similar to their observations, the present results showed that OBZ was eliminated more efficiently at lower initial concentration. The treatment spiked with 5 mM OBZ showed the highest removal efficiency of 86.5%, followed by the efficiency of 81.4% at 25 mM OBZ treatment.
+
+
+OBZ uptake by root and translocation to shoot
+
+To study the fate of OBZ within plants, the compound was quantified in root, stem and leaf tissues of C. alternifolius exposed to OBZ spiked solutions. OBZ could be detected in all tissues for all concentrations, and root samples from plants treated with 50 mM OBZ showed the highest OBZ concentration (). This result fits to a recent carbamazepine removal study where higher accumu- lation occurs in roots exposed to higher initial concentrations ().
+Many organic xenobiotics move into plant tissues by diffusion which mainly depends on their hydrophobicity (). OBZ is a moderately hydrophobic compound with a log Kow of 3.52, and was taken up continuously by the roots of C. alternifolius. This is consistent with the  general  agreement  that  compounds  with  log  Kow between the range of 1e3.5  are  lipophilic  enough  to  be  taken up efficiently (). Particularly, OBZ was accumulated up to 58.4 +- 8.6% for 5  mM  treatment  after  120  h (). This finding fits to previous studies that plant uptake occurs rapidly and within a  rather  short  time  ( ). A previous review mentioned  that most of  the  stud-  ied pharmaceutical and personal care products accumulate in or on roots of plants  ().  It  has been demonstrated that  the remediation of OBZ was enhanced by adsorption at plant root surfaces (). However, the amount  of  OBZ  detected in plants during this study was less than that removed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Removal of oxybenzone (OBZ, 5, 25 and 50 mM) from hydroponic culture me- dium  by  C.  alternifolius  at  each  exposure  time.  Removal  efficiency  (%)  1/4  (Ci-Ct)/ Ci      100%, where Ci is the initial OBZ concentration in the medium (mg L- ), Ct is the OBZ  concentration  (mg  L-1)  detected  in  the  medium  at  exposure  time  t.  Error  bars indicate standard deviation (n 1/4 3).
+
+
+Metabolites
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Oxybenzone (OBZ) concentration in roots (column) and OBZ uptake percentage (line), the uptake percentage of OBZ (%) 1/4 the mass of OBZ taken up by roots of exposed C. alternifolius (mg)/the initial mass of OBZ in the hydroponic medium (mg), the mass  of  OBZ  in  roots  1/4  roots  weight  (g)  x  OBZ  concentration  in  root  (mg  g-1 fresh weight (FW)) Error bars indicate SD (n 1/4 3).
+
+from nutrient media. This should mainly result from trans- formation to metabolites.
+OBZ is assumed to be taken up and translocated to the aerial part  of plants. After 120 h treatment, OBZ was detected in stems at concentrations ranging from 1.9 +- 0.2 to  34.2  +-  2.6  mg/g  (FW) (). Accumulation in stems which have the highest biomass, accounted for 9.6 +- 1.6 to 51.5 +- 3.8% of  the total OBZ detected  in the plant. A recent study of phytodegradation of ethanolamines revealed that C. alternifolius has the highest efficiency, and could completely remove monoethanolamine after 120 h with an initial concentration of 18 mM, and accumulation of ethanolamines was found mainly in stems (). OBZ concentrations in leaves were much lower compared to  those  in  roots, which corresponds to the observation of , who found a higher accumulation in roots of Typha latifolia L. for the pesticides imazalil and tebuconazole with  log  Kow similar  or higher to OBZ. Based on the findings of that maximum translocation to shoots occurred for compounds  with  log  Kow centered around 1.8, OBZ might be too hydrophobic for efficient
+translocation. However due to longer incubation, OBZ in leaves increased over time and finally reached 0.61 +- 0.03e4.4 +- 0.5 mg/g (FW) (). Significant difference (p < 0.05) for shoot bio- accumulation was observed among three initial concentrations.
+
+OBZ can be effectively metabolized in plant cells. To demon- strate OBZ metabolism in C. alternifolius tissues, LC-MS2 was con- ducted for metabolite identification.  presents the chromatogram of OBZ and its metabolites which were more polar and therefore eluted earlier than OBZ (spectra of OBZ and metab- olites are presented in Fig. S2). The first metabolite peak was identified as oxybenzone-glucoside (OBZ-Glu) with its pseudo- molecular ion at m/z 413  [M Na]th, the second peak was detected   at m/z 499 [M Na]th which corresponds to oxybenzone-(6-O- malonyl)-glucoside (OBZ-Mal-Glu). These two phase II metabolites have also been detected in our previous study on the OBZ pathway in a horseradish hairy root culture (). However, a third metabolite peak was obtained during the MS2 collision experiment (inserted graph in ), which eluted at 7.7 min with a mass transition of [M H]th m/z 215-137. This peak was confirmed as phase I product 2,4-dihydroxybenzophenone (DHB) due to the same retention time and fragmentation pattern generated from a standard DHB solution. DHB is formed via dealkylation of the methoxy-side chain at the para-position of OBZ, generally medi- ated by cytochrome P450 monooxygenase enzymes ( ). This phase I activation is in consistent with that found for OBZ destruction in mammalian liver, but it has been reported that OBZ undergoes more extensive hydroxylation to form 2,2- dihydroxy-4-methoxybenzophenone (DMB) and 2,3,4- trihydroxybenzophenone (THB), and conjugation with glucuro- nide or sulfate by phase II enzymes (). However, phase I activating reactions do not always result in products with decreased toxicity, and DHB is suggested to have more estrogenic activity than OBZ ( ). On the other hand, conjugation with reactive mole- cules in phase II metabolism is supposed to increase the molecular mass, improve hydrophilicity and modify the  parent  compound into non-toxic or less toxic products ( ).
+DHB concentration was quantified in each tissue using a stan-
+dard curve. As shown in a, formation of DHB increased significantly in roots after exposure at 50 mM for 72 h, and DHB concentration in leaf was significantly  higher  (11.2e39.3-fold)  than the other two concentrations over the exposure time. Formation of OBZ-Glu and OBZ-Mal-Glu proceeded without activation by phase I reactions, probably because OBZ already has a functional hydroxyl group suitable for phase II transformation. Interestingly,  these products occurred not only in roots but also in shoots, and the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3. Concentrations of oxybenzone (OBZ) detected in stems and leaves of C. alternifolius. Lowercase letters indicate significant differences among three different concentrations according to ANOVA at p < 0.05. Error bars indicate SD (n 1/4 3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4. LC-MS/MS chromatogram of samples containing oxybenzone (OBZ), oxybenzone-glucoside (OBZ-Glu) and oxybenzone-(6-O-malonyl)-glucoside (OBZ-Mal-Glu), obtained at selected product ion m/z 151(SIM mode). Inserted graph presents LC-MS/MS chromatogram of 2,4-dihydroxybenzophenone (DHB) (SIM mode at m/z 137). The analysis was done in positive ionization mode. The scheme below depicts the chemical structure of OBZ and proposed structure for the metabolites detected in C. alternifolius.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. Formation of oxybenzone metabolites: 2,4-dihydroxybenzophenone (DHB) (a), oxybenzone-glucoside (OBZ-Glu) & oxybenzone-(6-O-malonyl)-glucoside (OBZ-Mal-Glu) (b) in roots, stems and leaves of C. alternifolius after 24, 72 and 120 h incubation. Values are mean of three parallel individuals, error bars indicate SD. Lowercase letters indicate significant differences among three different concentrations according to ANOVA at p < 0.05.
+
+
+
+amount of OBZ-Glu and OBZ-Mal-Glu was higher in roots than in shoots. Still, the amount increased with exposure time in all treated assays. Due to the lack of reference materials of OBZ-Glu and OBZ- Mal-Glu, their concentrations are given in peak area as arbitrary units in b, with OBZ-Mal-Glu accounting for a major part. Malonyl glucosides (Mal-Glu) are characterized as stable and more hydrophilic, and malonylation is one of the key reactions to pro- mote efficient sequestration of metabolites in the vacuole, more- over, the expression of malonyltransferase (enzyme responsible for malonylation) gene is induced by oxidative stress ( ). Hence it seems likely that plants under moderate oxidative
+
+stress would increase this branch of a sequestration pathway.
+
+Effects of OBZ on C. alternifolius antioxidative systems
+
+Abiotic stress caused by the plant exposure to xenobiotics may disrupt the steady-state level of reactive oxygen species (ROS) in plants. Over-production of ROS may cause damages on plant lipids and proteins (), and may affect plant detoxification of xenobiotics. Antioxidants and enzymes are engaged to scavenge excessive ROS, among them major enzymes including SOD, APOX and CAT considered as first line of defense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 6.  Distribution  of antioxidative enzyme activities in tissues of C. alternifolius exposed to different concentrations of oxybenzone (OBZ) at each sampling time. Enzyme activities   are depicted relative to controls without OBZ treatment. Data are means of three replicates. Error bars indicate SD (n 1/4 3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 7. Example of correlation between activities of ascorbate peroxidase (APOX) and superoxide dismutase (SOD), two antioxidative enzymes, and oxybenzone (OBZ) concentration in the plant tissues (at three sampling time 24 h, 72 h and 120 h from left to right). Activity of SOD and APOX correlates linearly to the amount of OBZ accumulated in leaves (at 50 mM OBZ treatment). Values are mean of three replicates.
+
+
+against oxidative stress (). The balance of these enzyme activities is important in regulating the stable status of O-2 and H2O2, and the activity levels are considered as indicators of stress levels that plants are subjected to (). In our study, after the uptake of OBZ in plants, activities of the afore- mentioned enzyme activities were determined in root and leaf tissues to characterize the effects of OBZ on C. alternifolius. The results are summarized in .
+SOD is expressed in many cell compartments and converts O-2 into H2O2 to maintain O-2  level in cells low (). Its ac- tivity in roots was enhanced after 72 h treatment compared to control. In the following hours, the activity returned to control level in the 5 mM exposure, indicating the counteraction of an oxidative burst. Whereas at 25 and 50 mM exposure concentrations, SOD activity remained elevated to 176% and 174% of control after 120 h, which  could  be  explained  by  the  increase  of  O-2  within  cells  by continuous accumulation of OBZ in roots. In leaves, maximum in- crease in SOD activities was observed for 50 mM after 72 h. The activities in leaves were much lower compared to roots, probably because roots are the primary organs exposed to OBZ, and higher accumulation  of  OBZ  in  roots  led  to  higher  stress.  oEUR have reported similar findings that rhizomes have ten-fold higher activities than that in leaves of Phragmites australis Trin.
+CAT is expressed in peroxisomes and is crucial for degrading H2O2. Its activity in roots exposed to OBZ was enhanced strongly to 239% after treatment with 25 mM OBZ, and longer incubation resulted in decline of activities. OBZ application did not cause sig- nificant changes of CAT activities in leaves. APOX involved in the ascorbate-glutathione cycle is found in almost all cellular com- partments and H2O2 is reduced to water by APOX using ascorbic acid as electron donor (). APOX activities in general were elevated in roots and leaves with a maximum increase of 216% and 187% at the end of the incubation period.
+POX also contributes to removal of ROS by using phenolic compounds as electron donors to reduce H2O2. In roots, its activity was depressed to 63% upon treatment followed by continuous in- crease to 238% of control level. POX activity in leaves was not influenced at 5 mM OBZ treatment, but was enhanced at higher concentrations. A rapid decrease of POX activities to initial levels occurred in incubations with 25 mM OBZ in leaves harvested after 120 h treatment, whereas 50 mM OBZ still triggered an increase to 179%, indicating that this treatment might induce higher amounts  of H2O2 which need to be buffered. Previous studies reported POX induction caused by xenobiotics in leaves of several plant species. found a strong elevation of POX activity up to six
+
+fold in leaves of Brassica juncea L. after 168 h exposure to acet- aminophen. A 218.2% increase of POX activity was observed in
+C. alternifolius grown in simulated CWs under the influence of pharmaceuticals (). Besides cleavage of H2O2, POX is also able to oxidize xenobiotics. described the activation of diclofenac by POX during the detoxification process. Thus, also in the case of OBZ, the development of an oxidative burst and involvement in transformation of OBZ to DHB might induce an increased activity of POX.
+The present observations showed that antioxidative enzymes were elevated as a defense against the oxidative burst induced by the presence of OBZ. A strong link between OBZ accumulation in tissues and induction of defense enzyme activities was observed.  as an example shows that activities of APOX and SOD had positive linear correlations (R2 0.947 and 0.944, respectively) to the amount of OBZ accumulated in leaves. Recent proteomics ap- proaches on the effects of four pharmaceuticals on C. alternifolius in CWs suggested the remarkable tolerance of this plant species, showing that upregulation of proteins such as Cu/Zn SOD involved in antioxidative defense are effective to enhance stress tolerance (). Additionally, based on the results of   that C4 plants show better performance under stress, the physiological adaptations of C. alternifolius as a C4 plant species might also favor the protection against stress.
+
+Conclusions
+
+The present study proved that the presence of plants will improve the removal of OBZ from water and provided insights in the fate of OBZ in higher plants. Our findings show fast and efficient depletion of OBZ from media, and hydroponic systems in the absence of soil demonstrated the role of plant during uptake and metabolism. OBZ concentrations in the plants were found to be ranked as roots > stems > leaves. Hence, OBZ has the potential to be translocated to the upper part of plant; therefore, a high removal flux of OBZ is expected due to the season dependent occurrence of OBZ and perennial growth of C. alternifolius. Despite of the phase I hydroxylated product, the two independently formed phase II metabolites are considered to be more water soluble and less toxic, and favorable for OBZ sequestration in the plant. Distribution of enzyme activities indicates that exposure to OBZ caused mild stress
+to C. alternifolius. 5 mM OBZ, which is equivalent to the maximum
+amount of OBZ detected in environment, generally resulted in less stress compared to the other higher concentrations. The induced enzyme activities indicate their role in defense and adaptation
+
+
+
+against stress resulting from prolonged OBZ exposure.
+The current study shows that C. alternifolius is an appropriate candidate macrophyte for the removal of OBZ from CWs. The up- take and accumulation of OBZ as well as its transformation to conjugates with lower toxicity in C. alternifolius provide evidence for the plant's possible application in phytoremediation. As rec- ommended in all cases of phytoremediation, harvested biomass should be collected and might be used for bioenergy purposes to avoid leaching of unmetabolized OBZ from decaying plant material.
+
+Acknowledgements
+
+Feiran Chen received funding from China Scholarship Council, grant No. 201 308 080  019.  The work was influenced by discussions in COST Action ESSEM 1202, CONCEIVING WASTEWATER TREAT-
+MENT IN 2020: Energetic, environmental and economic challenges.
+
+Appendix A. Supplementary data
+
+Supplementary data related to this article can be found at  .
+
+References
+
+Balmer, M.E., Buser, H.R., Muller, M.D., Poiger, T., 2005. Occurrence of some organic UV filters in wastewater, in surface waters, and in fish from Swiss lakes. Envi- ron. Sci. Technol. 39, 953e962. .
+Bartha, B., Huber, C., Harpaintner, R., SchroEURder, P., 2010. Effects of acetaminophen in
+Brassica juncea L. Czern.: investigation of uptake, translocation, detoxification, and the induced defense pathways. Environ. Sci. Pollut. Res. 17, 1553e1562. .
+Bluthgen, N., Zucchi, S., Fent, K., 2012. Effects of the UV filter benzophenone-3 (oxybenzone) at low concentrations in zebrafish (Danio rerio). Toxicol. Appl. Pharmacol. 263, 184e194. .
+Bradford, M.M., 1976. A rapid and sensitive method for the quantitation of micro- gram quantities of protein utilizing the principle of protein-dye binding. Anal. Biochem. 72, 248e254. .
+Briggs, G.G., Bromilow, R.H., Evans, A.A., 1982. Relationships between lipophilicity and root uptake and translocation of non-ionised  chemicals  by barley.  Pestic.  Sci. 13, 495e504. .
+Chen, F., Huber, C., May, R., SchroEURder, P., 2016. Metabolism of oxybenzone in a hairy
+root culture: perspectives for phytoremediation of a widely  used  sunscreen  agent. J. Hazard. Mater. 306, 230e236.  .
+Coleman, J., Blake-Kalff, M., Davies, E., 1997. Detoxification of xenobiotics by plants: chemical modification and vacuolar compartmentation. Trends Plant Sci. 2, 144e151. .
+Coronado, M., De Haro, H., Deng, X., Rempel, M.A., Lavado, R., Schlenk, D., 2008. Estrogenic activity and reproductive effects of the UV-filter oxybenzone (2- hydroxy-4-methoxyphenyl-methanone) in fish. Aquat. Toxicol. 90, 182e187. .
+fl   e.
+  e.
+Dolphen, R., Thiravetyan, P., 2015. Phytodegradation of ethanolamines by Cyperus alternifolius: effect of molecular size. Int. J. Phytoremediation 17, 686e692. .
+Dordio, A.V., Duarte, C., Barreiros, M., Palace Carvalho, A.J., Pinto, A.P., da Costa, C.T., 2009. Toxicity and removal efficiency of pharmaceutical  metabolite  clofibric  acid by Typha spp.  - potential use for phytoremediation? Bioresour. Technol. 100, 1156e1161. .
+Dordio, A.V., Belo, M., Martins Teixeira, D., Palace Carvalho, A.J., Dias, C.M., Pico,, Y.,
+Pinto, A.P., 2011. Evaluation of carbamazepine uptake and metabolization by Typha spp., a plant with potential use in phytotreatment. Bioresour. Technol. 102, 7827e7834. .
+Downs, C.A., Kramarsky-Winter, E., Segal, R., Fauth, J., Knutson, S., Bronstein, O., Ciner, F.R., Jeger, R., Lichtenfeld, Y., Woodley, C.M., Pennington, P., Cadenas, K., Kushmaro, A., Loya, Y., 2016. Toxicopathological effects of the sunscreen UV filter, oxybenzone (Benzophenone-3), on coral planulae and cultured primary  cells and its environmental contamination in Hawaii and the U.S. Virgin Islands. Arch. Environ. Contam. Toxicol. 70, 265e288.  .
+Ebrahimi, A., Taheri, E., Ehrampoush, M.H., Nasiri, S., Jalali, F., Soltani,  R., Fatehizadeh, A., 2013. Efficiency of constructed wetland vegetated with Cyperus alternifolius applied for municipal wastewater treatment. J. Environ. Public
+
+Health 2013, 1e6. .
+Fediuk, D.J., Wang, T., Chen, Y., Parkinson, F.E., Namaka, M.P., Simons, K.J., Burczynski, F.J., Gu, X., 2012. Metabolic disposition of the insect repellent DEET  and  the  sunscreen  oxybenzone   following  intravenous  and   skin  administration   in  rats.  Int.  J.  Toxicol.  31,   467e476.      .
+Fent, K., Weston, A.A., Caminada, D., 2006. Ecotoxicology of human pharmaceuti- cals. Aquat. Toxicol. 76, 122e159.  .
+Ferreira, A.R., Couto, N., Guedes, P.R., Mateus, E.P., Ribeiro, A.B., 2016. Removal of pharmaceutical and personal care products in aquatic plant-based systems. In: Ribeiro, A.B., Mateus, E.P., Couto, N. (Eds.), Electrokinetics Across Disciplines and Continents: New Strategies for Sustainable  Development.  Springer  Interna- tional Publishing, Cham, pp. 351e372.  .
+Gago-Ferrero,  P.,  Demeestere,  K.,  Silvia  Diaz-Cruz,  M.,  Barcelo,,  D.,  2013.  Ozonation and peroxone oxidation of benzophenone-3 in water: effect of operational parameters and identification of intermediate products. Sci. Total Environ. 443, 209e217. .
+Garcia, H.A., Hoffman, C.M., Kinney, K.A., Lawler, D.F., 2011. Laccase-catalyzed oxidation of oxybenzone in municipal wastewater primary effluent. Water Res.  45, 1921e1932. .
+ e.
+Household Products Database - Health and Safety Information on Household Products, U.S. Department of Health and & Human Services, < 
+ & & & > (Accessed 19 May 2016).
+Huber,  C.,  Bartha,  B.,  Harpaintner,  R.,  SchroEURder,  P.,  2009.  Metabolism  of  acetamin-
+ophen (paracetamol) in plants-two independent pathways result in the for- mation of a glutathione and a glucose conjugate. Environ. Sci. Pollut. Res. 16, 206e213. .
+Huber,  C.,  Bartha,  B.,  SchroEURder,  P.,  2012.  Metabolism  of  diclofenac  in  plants  -  hy-
+droxylation is followed by glucose conjugation. J. Hazard. Mater. 243, 250e256. .
+Huber,  C.,  Preis,  M.,  Harvey,  P.J.,  Grosse,  S.,  Letzel,  T.,  SchroEURder,  P.,  2016.  Emerging
+pollutants and plants - metabolic activation of diclofenac by peroxidases. Chemosphere 146, 435e441.  .
+Kameda, Y., Kimura, K., Miyazaki, M., 2011. Occurrence and profiles of organic sun- blocking agents in surface waters and sediments in Japanese rivers and lakes. Environ. Pollut. .
+Kotyza,  J.,  Soudek,  P., Kafka,  Z.,  Vane~k,  T.,  2010.  Phytoremediation  of  pharmaceuti-
+calsdpreliminary study. Int. J. Phytoremediation 12, 306e316.  .
+Langford, K.H., Reid, M.J., Fjeld, E., Oxnevad, S., Thomas, K.V., 2015. Environmental occurrence and risk of organic UV filters and stabilizers in multiple matrices in Norway. Environ. Int. 80, 1e7. .
+Li, W., Ma, Y., Guo, C., Hu, W., Liu, K., Wang, Y., Zhu, T., 2007. Occurrence and behavior of four of the most used sunscreen UV filters in a wastewater recla- mation plant. Water Res. 41, 3506e3512.  .
+Liu, Y.S., Ying, G.G., Shareef, A., Kookana, R.S., 2011. Photostability of the UV filter benzophenone-3 and its effect on the  photodegradation  of  benzotriazole  in water. Environ. Chem. 8, 581e588. .
+Lv, T., Zhang, Y., Casas, M.E., Carvalho, P.N., Arias, C.A., Bester, K., Brix, H., 2016. Phytoremediation of imazalil and tebuconazole by four emergent wetland plant species in hydroponic medium. Chemosphere 148, 459e466.  .
+Lyubenova,  L.,  Bipuah,  H.,  Belford,  E.,  Michalke,  B.,  Winkler,  B.,  SchroEURder,  P.,  2015.
+Comparative study on the impact of copper sulphate and copper nitrate on the detoxification mechanisms in Typha latifolia. Environ. Sci. Pollut. Res. 22, 657e666. .
+Macherius,  A.,  Seiwert,  B.,  SchroEURder,  P.,  Huber,  C.,  Lorenz,  W.,  Reemtsma,  T.,  2014.
+Identification of plant metabolites of environmental contaminants by UPLC- QToF-MS: the in vitro metabolism of triclosan in horseradish.  J.  Agric.  Food  Chem. 62, 1001e1009. .
+Matamoros, V., Arias, C., Brix, H., Bayona, J.M., 2007. Removal of pharmaceuticals and personal care products (PPCPs) from urban wastewater in a  pilot vertical  flow constructed wetland and a sand filter. Environ. Sci. Technol. 41, 8171e8177.  .
+Miller, E.L., Nason, S.L., Karthikeyan, K.G., Pedersen, J.A., 2016. Root Uptake of pharmaceuticals and personal care product ingredients. Environ. Sci.  Technol.  50, 525e541. .
+Mittler, R., 2002. Oxidative stress, antioxidants and stress tolerance. Trends Plant Sci. .
+Mittler, R., Merquiol, E., Hallak-Herr, E., Rachmilevitch, S., Kaplan, A., Cohen, M., 2001. Living under a "dormant" canopy: a molecular acclimation mechanism of  the desert plant Retama raetam. Plant J. 25, 407e416.  .
+Nakamura, N., Inselman, A.L., White, G.A., Chang, C.W., Trbojevich, R.A., Sephr, E.,
+Voris, K.L., Patton, R.E., Bryant, M.S., Harrouk, W., McIntyre, B.S., Foster, P.M., Hansen, D.K., 2015. Effects of maternal and lactational exposure to 2-hydroxy- 4-methoxybenzone   on   development   and   reproductive   organs   in   male   and
+
+
+
+female rat offspring. Birth Defects Res. B. Dev. Reprod. Toxicol. 104, 35e51. .
+Okereke, C.S., Abdel-Rhaman, M.S., Friedman, M.A., 1994. Disposition of benzophenone-3 after dermal administration in male rats. Toxicol. Lett. 73, 113e122. .
+Pilon-Smits, E., 2005. Phytoremediation. Annu. Rev. Plant Biol. 56, 15e39.  .
+ e.
+Richardson, S.D., Ternes, T.A., 2005, Water Analysis: Emerging contaminants and current issues, .
+Rodriguez, A.S., Sanz, M.R., Rodriguez, J.R.B., 2015. Occurrence of eight UV filters in beaches of Gran Canaria (Canary Islands). An approach to environmental risk assessment. Chemosphere 131, 85e90.  .
+oEUR e.
+SchroEURder,   P.,    Navarro-Avin~o,,   J.,   Azaizeh,    H.,   Goldhirsh,    A.G.,   DiGregorio,    S.,
+Komives, T., Langergraber, G., Lenz, A., Maestri, E., Memon, A.R., Ranalli, A., Sebastiani, L., Smrcek, S., Vanek, T., Vuilleumier, S., Wissing, F., 2007. Using phytoremediation technologies to upgrade waste water treatment  in  Europe.  Environ. Sci. Pollut. Res. Int. 14, 490e497.  .
+Taguchi, G., Ubukata, T., Nozue, H., Kobayashi, Y., Takahi, M., Yamamoto, H., Hayashida, N., 2010. Malonylation is a key reaction in the metabolism of xenobiotic phenolic glucosides in Arabidopsis and tobacco. Plant J.  63, 1031e1041. .
+Vanacker, H., Carver, T.L.W., Foyer, C.H., 1998. Pathogen-induced changes in the antioxidant status of the apoplast in barley leaves. Plant Physiol. 117, 1103e1114. .
+Verma, S., Dubey, R.S., 2003. Lead toxicity induces lipid peroxidation and alters the activities of antioxidant enzymes in growing rice  plants.  Plant  Sci.  164, 645e655. .
+Wang, L., Kannan, K., 2013. Characteristic profiles of benzonphenone-3 and its derivatives in urine of children and adults from the United States and China.
+
+Environ. Sci. Technol. 47, 12532e12538. .
+Yan, Q., Feng, G., Gao, X., Sun, C., Guo, J., Zhu, Z., 2016a. Removal of pharmaceutically active compounds (PhACs) and toxicological response of Cyperus alternifolius exposed to PhACs in microcosm constructed wetlands. J. Hazard. Mater. 301, 566e575. .
+Yan, Q., Gao, X., Guo, J., Zhu, Z., Feng, G., 2016b. Insights into the molecular mechanism of the responses for Cyperus alternifolius to PhACs stress in con- structed wetlands. Chemosphere 164, 278e289.  .
+Yang, B., Ying, G.G., 2013. Oxidation of benzophenone-3 during water treatment with ferrate (VI). Water Res. 47, 2458e2466.  .
+Zamek-Gliszczynski, M.J.,  Hoffmaster,  K.A.,  Nezasa,  K.,  Tallman,  M.N., Brouwer, K.L.R., 2006. Integration of hepatic drug transporters and phase II metabolizing enzymes: mechanisms of hepatic excretion of  sulfate,  glucuro-  nide, and glutathione metabolites. Eur. J. Pharm. Sci. 27, 447e486.  .
+Zhang, D.Q., Gersberg, R.M., Hua, T., Zhu, J., Goyal, M.K., Ng, W.J., Tan, S.K., 2013a. Fate of pharmaceutical compounds in hydroponic mesocosms planted with  Scirpus validus. Environ. Pollut. 181, 98e106.  .
+Zhang, D.Q., Hua, T., Gersberg, R.M., Zhu, J., Ng, W.J., Tan, S.K., 2013b. Carbamazepine and naproxen: fate in wetland mesocosms planted with Scirpus validus. Che- mosphere 91, 14e21. .
+Zhang, D.Q., Gersberg, R.M., Hua, T., Zhu, J., Ng, W.J., Tan, S.K., 2013c. Assessment of plant-driven uptake and translocation of clofibric acid by Scirpus validus. En- viron. Sci. Pollut. Res. 20, 4612e4620.  .
+Zhang, Y., Lv, T., Carvalho, P.N., Arias, C.A., Chen, Z., Brix, H., 2016. Removal of the pharmaceuticals ibuprofen and iohexol by four wetland plant species in hy- droponic culture: plant uptake and microbial degradation. Environ. Sci. Pollut. Res. .
+Zun~iga-Benitez,  H.,  Soltan,  J.,  Pen~uela,  G.A.,  2016.  Application  of  ultrasound  for
+degradation of benzophenone-3 in aqueous solutions. Int. J. Environ. Sci. Technol. .

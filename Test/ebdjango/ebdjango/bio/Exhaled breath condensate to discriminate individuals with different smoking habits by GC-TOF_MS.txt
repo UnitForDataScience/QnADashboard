@@ -1,0 +1,305 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPEN
+
+
+
+Received: 4 August 2016
+Accepted: 31 March 2017 Published: xx xx xxxx
+
+Exhaled breath condensate to discriminate individuals with different smoking habits by GC- TOF/MS
+A. Peralbo-Molina1,2, M. Calderon-Santiago1,2, B. Jurado-Gamez2,3, M. D. Luque de Castro1,2 &
+F. Priego-Capote1,2
+Smoking is a crucial factor in respiratory diseases and lung inflammation, which are the reasons for high mortality worldwide. Despite the negative impact that tobacco consumption causes on health, few metabolomics studies have compared the composition of biofluids from smoker and non-smoker individuals. Exhaled breath condensate (EBC) is one of the biofluids less employed for clinical studies despite its non-invasive sampling and the foreseeable relationship between its composition and respiratory diseases. EBC was used in this research as clinical sample to compare three groups of individuals: current smokers (CS), former smokers (FS) and never smokers (NS). Special attention was paid to the cumulative consumption expressed as smoked pack-year. The levels of 12 metabolites found statistically significant among the three groups of individuals were discussed to find an explanation to their altered levels. Significant compounds included monoacylglycerol derivatives, terpenes and other compounds, the presence of which could be associated to the influence of smoking on the qualitative and quantitative composition of the microbiome.
+
+
+Cigarette smoke is a source of toxicants that enter into contact with the microbiome in the respiratory tract per- turbing the microbial ecology with direct incidence on immunology, oxygen deprivation or other mechanisms, . Loss of beneficial species and appearance of new species in the respiratory tract due to smoking can lead to colonization by pathogens and ultimately to diseases. Thus, smoking is a key contributor to respiratory diseases, which are considered the most preventable cause of premature death in the United Statesand the major factor for development of chronic obstructive pulmonary disease (COPD) and lung cancer, two diseases that cause a large part of respiratory deaths in Europe.
+Smoking cessation has major and immediate health benefits for individuals of all ages. Several studies have highlighted that cardiovascular risk is reduced in smokers who give up cigarettes even after a first myocardial infarction, . For COPD patients, smoking cessation has shown to be an integral component of rehabilitation coursesand also decreases the risk of different cancers, with special emphasis on lung cancer, and stroke. In a recent study, Jerjes et al. demonstrated that reduction/cessation of chronic smoking and drinking tends to signifi- cantly reduce mortality in patients with oral cancer. Moreover, other reports concluded that former smokers (FS) live longer than current smokers (CS). For example, persons who quit smoking before age 50 have one-half the risk of dying during the next 15 years compared with continuing smokers-. In this context, Boue et al. studied the effect of cigarette smoke exposure and the benefits of its cessation concluding that cigarette smoke exposure induced a series of metabolic as well as adaptive and innate inflammatory responses in murine respiratory tissues that were progressively deactivated by smoking cessation. Nevertheless, for some cancers, especially for adeno- carcinoma, the risk remains high in FS as compared with non-smokers (NS), .
+Concerning 'omics' approaches, metabolomics seems to be an ideal tool to assess the impact of cigarette smoke on human exposure and health. Notwithstanding the importance of knowing how the metabolism is affected by
+
+1Department of Analytical Chemistry, Annex Marie Curie Building, Campus of Rabanales, University of Cordoba, E- 14071, Cordoba, Spain. 2Maimonides Institute of Biomedical Research (IMIBIC), Reina Sofia Hospital, University of Cordoba, E-14004, Cordoba, Spain. 3Department of Respiratory Medicine, Reina Sofia Hospital, E-14004, Cordoba, Spain. Correspondence and requests for materials should be addressed to M.D.L.C. (email: ) or F.P.-C. (email: )
+
+
+
+Table 1. Generic information about each group including mean age and body mass index.
+
+the smoking habit, few metabolomics studies have been targeted at comparing the composition of any biofluid from CS and NS, . In a recent study, the tobacco-related global metabolome in blood from CS and NS was identified by UPLC-QTOF. Apart from identification of nicotine metabolites, there was a characteristic meta- bolic profile contributing to discriminate CS and NS individuals. The involved metabolites, assessed by MS/MS, showed the potential to identify metabolic phenotypes and new metabolites related to cigarette exposure and toxicity.
+Other relevant study on association of metabolite concentrations with smoking habit showed the reversion of metabolite variations after smoking cessation and demonstrated the results using protein-metabolite networks. The study reported the association of smoking with variations in the concentration of amino acids, ether lipids and glycerophospholipid metabolism. The smoking-related changes in the profile of serum metabolites were found reversible after quitting smoking. This fact indicates the remarkable benefits of smoking cessation and provides a link to cardiovascular diseases benefits.
+Contrarily to expectations, exhaled breath condensate (EBC) has been scarcely used for metabolomics anal- ysis of the smoking habit. The aim of the present research was to identify metabolites related to this habit by comparison of EBC samples from CS, FS and NS. For this purpose, metabolomic profiles of samples from CS, FS and NS individuals were obtained using the methodology developed by Peralbo-Molina et al. based on gas chro- matography coupled to mass spectrometry in high resolution mode (GC-TOF/MS). This study has enabled the identification of compounds associated to the smoking habit, which are accumulated or not in EBC, and others that either disappear or appear after quitting the habit.
+Experimental
+Cohort selected for the study. EBC samples were collected from 119 volunteers early in the morning before breakfast, and stored at -80 degC in the biorepository of the Reina Sofia Hospital (Cordoba, Spain). All the individuals were, recruited at the Department of Respiratory Medicine according to the exclusion criteria described below. Chronic obstructive pulmonary disease (COPD) patients, diagnosed by symptomatic detection of chronic cough, expectoration and dyspnea, and confirmed by spirometry, were also discarded. The volunteers of this study were not subjected to spirometry since there are not evidences about the utility of this technique as screening tool in asymptomatic individuals. Table shows the main characteristics of the cohort expressed as mean value and standard deviation. The cohort included 61 individuals who had never smoked (NS), without either clinical symptoms or abnormalities in the chest radiograph. This group of individuals was aged 59 +- 8 years, and 77% of them were males. The current smokers (CS) group was formed by 32 individuals 58 +- 7 years old, and 75% of them were males. The former smokers (FS) group included 26 individuals 60 +- 8 years old -92% of them were males. Supplementary Table lists the data from each individual such as age, sex, body mass index (BMI) and cigarettes consumption expressed as smoked pack-year. This parameter is frequently used to rank smoker individuals as a function of the cumulative smoking habit (0, 0-24, 24-45, >45 pack-year). The cohort included 27 individuals with normal weight (BMI< 25 kg/m2), 42 overweight individuals (25 < BMI < 30 kg/m2) and 50 obese volunteers (BMI > 30 kg/m2). Nevertheless, no statistical significance of age and BMI among groups was checked by Mann-Whitney test. Despite the fact that 42% of volunteers were obese, it is worth mentioning that this cohort is not far from the real situation since in 2014 the World Health Organization concluded that 39% of adults were overweight individuals, while 13% of them were obese. Independence from sex was assessed by Fisher's exact test.
+Criteria for exclusion of patients were: (a) coexistence of extrapulmonary tumoral pathology or treatment with cytostatic drugs for a different neoplasm; (b) diagnostic of neoplasm in the last five years; (c) unjustified weight loss (>=10%) during the last year; (d) severe disorders of any organ such as grade IV heart failure, advanced hepatic cirrhosis, chronic renal (stages 4-5), or lung disease not related to smoking, including interstitial pneu- mopathy, pneumonia, tuberculosis, etc.).
+All experiments were carried out in accordance with the ethical principles of human medical research (World Medical Association, Helsinki Declaration 2004). The ethical review board of Reina Sofia Hospital (Cordoba, Spain) approved and supervised this clinical study. Individuals selected for this study were informed to obtain consent prior to sample collection.
+Procedure for EBC collection. The ECOScreen2 device (FILT Thorax-und LungenDiagnostik GmbH, Berlin, Germany) used for sampling collects and condenses the EBC in disposable polyethylene bags at -20 degC and is able to collect EBC into two separate bags for physical separation between the air contained in the upper airway and that in the distal airway. This configuration makes saliva contamination highly unlikely. The sam- pler was modified by insertion of a commercial protection filter from Scharlab (Barcelona, Spain) over the inlet air valve to avoid the entrance of exogenous organic compounds and particles from the room atmosphere. This filter was periodically changed before saturation.
+In addition, some conditions were taken into account by volunteers in order to avoid contamination: (1) smokers were advised to avoid the consumption of tobacco at least 12 h prior to collection; (2) volunteers attend
+
+
+
+
+
+
+Table 2. Compounds in EBC identified by GC-TOF/MS analysis.
+
+
+on an empty stomach, (3) volunteers must not use colony, makeup or lipstick the collection day; (4) volunteers do not have to perform forced expiratory maneuvers prior to collection.
+Tidal breathing and a nose-clip were used for 15 min, time required to collect an average EBC volume of
+1.5 mL from the distal airway. The samples were divided into 100 uL aliquots and the vials stored at -80 degC until analysis. All samples were analyzed within 3 months after collection.
+Reagents. Hexane TraceSELECT grade from Sigma-Aldrich (St. Louis, USA) was used for sample prepara- tion. An alkane standard mixture (from C10 to C40), also from Sigma-Aldrich, was tested by GC-MS analysis to establish the retention index (RI) calibration. Deionized water (18 mO * cm) provided by a Milli-Q water purifica- tion system from Millipore (Darmstadt, Alemania) was also used.
+Instruments and apparatus. Homogenization of the extracts was carried out by an MS2 Vortex (IKA, Germany). An Agilent 7890 A Series GC system coupled to an Agilent 7200 UHD Accurate-Mass QTOF hybrid mass spectrometer equipped with an electron impact (EI) source (Santa Clara, CA, USA) was used to analyze EBC samples. The analytical sample was monitored in high resolution mode.
+Sample preparation. Sample preparation consisted of liquid-liquid extraction using hexane as extractant. In all cases, 100 uL aliquots of EBC and 100 uL hexane were vortexed in a glass insert at room temperature for 1 min. Then, the organic phase was isolated and put into a new glass insert for analysis. To eliminate exogenous interferents, blanks prepared with water were analyzed as the samples.
+GC-TOF/MS analysis. GC-TOF/MS analyses were performed by electron impact ionization (EI) mode at 70 eV and controlled by MassHunter Acquisition B.06. The GC separation was carried out by a fused silica DB-5MS-UI 30 m x 0.25 mm i.d. 0.25 mm film thickness capillary column. The temperature program of the GC oven started at 60 degC (1/min held), followed by a temperature ramp of 10 degC/min to final 300 degC (2 min held). Post-run time was programmed for 4 min up to 310 degC to assure complete elution of the injected sample. Pulsed splitless injections of 1 mL sample were carried out at 250 degC, and ultrapure grade helium was used as the car- rier gas at 1.0 mL/min. The interface and ion source were set at 280 and 300 degC, respectively. A solvent delay of
+5.5 min was used to prevent damage in the ion source filament. The TOF detector was operated at 5 spectra/s in the mass range m/z 50-550 and the resolution was 8500 (full width half maximum, FWHM) at m/z 501.9706. Mass-spectrometric grade PFTBA (perfluorotri-n-butylamine) was used for daily mass calibration. Tentative identification of metabolites was performed by searching MS spectra on the NIST 11 database taking into account the RI values.
+Data processing and statistical analysis. Unknown Analysis software (version 7.0, Agilent Technologies, Santa Clara, CA, USA) was used to process all data obtained by GC-TOF/MS in full scan mode. Treatment of raw data files started by deconvolution of potential molecular features (MFs) with the suited algorithm included in the software. For this purpose, the deconvolution algorithm considered all ions exceeding 1500 counts for the absolute height parameter. Additionally, the accuracy error and the window size factor were set at 50 ppm and 150 units, respectively. After extraction of MFs, data files in compound exchange format (.cef files) were created for each sample and exported into the Mass Profiler Professional (MPP) software package (version 12.1, Agilent Technologies, Santa Clara, CA, USA) for further processing.
+In the next step, the data were processed by alignment of the potential MFs according to their retention time and m/z value using a tolerance window of 0.3 min and an accuracy error of 15 ppm. The MFs from the analysis of blanks were removed from the data set of MFs from the EBC samples. The extraction algorithm confirmed the efficiency of this filtering step. Stepwise reduction of the MFs number was based on frequency of occurrence by comparing repetitions of the same group of individuals. A filter by frequency was set at 100%, thus ensuring detection of each MF in all the injected replicates from all samples composing each of the three groups.
+In the last step, the resulting MFs were exported (.cef file) for recursive analysis. For this purpose, the Quantitative Analysis software (version 7.0, Agilent Technologies, Santa Clara, CA, USA) was used to reintegrate all potential compounds found in the analyzed samples. The resulting table was exported in coma separated value format (.csv file) and reprocessed with the Mass Profiler Professional (MPP) software package. A filter to elimi- nate samples by setting within-replicates variability above 10% was applied to assure the effectiveness of the recur- sive analysis. Finally, the data set was normalized by logarithmic transformation of the ratio between the peak area of each MF and the total useful mass spectrometry signal (MSTUS) corresponding to all the samples, .
+The resulting data set was then subjected to supervised analysis by partial least squares discriminant analysis (PLS-DA). Cross validation by using an N-fold model was selected as validation approach. With this model, the classes in the input data are randomly divided into N equal parts; N-1 parts are used for training and the remaining part is used for testing. The process is repeated N times, with a different subset being used for testing in an iterative process. Thus, each row is used at least once in training and once in testing, and a confusion matrix is generated. The complete process can be repeated as many times as specified by the number of repetitions. Validation in this research consisted of ten repetitions and a fold number of three.
+The software Statgraphics Centurion (XVI version 16.1.18, Statpoint Technologies) was used for statistical analysis to study the influence of smoking habit and smoking load on each metabolite. Finally, the platform Metaboanalyst 3.0 () was used to perform Random Forest Analysis and to obtain ROC curves for the most significant compounds.
+Identification was firstly carried out by searching MS spectra in the NIST11 database. Only identifications with a match factor and a reverse match factor higher than 700 were considered as valid. RI values included in the NIST database were also taken into account to support identifications. An RI calibration model was built by comparing the RI values of an alkane standard mixture (composed by alkane between C10 to C40 with an even
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Supervised Analysis by PLS-DA built from the data set obtained after analysis of EBC extracts comparing current smokers and non-smokers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Random Forest Analysis built from the data set obtained after analysis of EBC from CS and NS groups.
+
+
+
+Table 3. Significant compounds from the statistical analysis by t-test comparing CS and NS individuals.
+
+
+number of carbons) with the chromatographic method used in this research and the RI values provided by the NIST database. Supplementary Figure shows the RI calibration line obtained by this approach. The requirement to accept NIST identifications was that the difference between the theoretical and the experimental RI obtained by extrapolation in the calibration curve should be within +-100 units.
+The NIST database does not contain high resolution MS information as provided by the TOF detector. For
+this reason, a third step was included to validate identification of each MF by high resolution mass spectrometry. Thus, the tentative molecular formula for the parent ion [M]+ and the most intense fragment ions obtained for each MF should fit the NIST identification by setting a cut-off value of 10 ppm in mass accuracy. Table lists the 44 identified compounds classified by chemical families.
+The KEGG (Kyoto Encyclopedia of Genes and Genomes) database was used for identification of the main changes occurring in the composition of EBC from individuals pertaining to each class.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. ROC curves and Box and Whiskers plots for the three compounds with the highest significance, fold change and capability for discrimination in the comparison between CS and NS groups.
+
+Results
+Comparison of the EBC composition from current smokers and never smokers. As mentioned above, the present research is focused on detecting modifications in EBC composition associated to smoking habit. With this aim statistical analysis was carried out to compare the composition of EBC from CS and NS
+
+
+
+Table 4. Significant compounds from the statistical analysis by t-test comparing CS and FS individuals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Ranking of predictive capability of compounds to discriminate between CS and FS individuals.
+
+
+individuals. Supervised analysis by PLS-DA was applied to find differences in EBC collected from the two groups with the data set including the 44 identified compounds. This analysis would allow finding discrimination pat- terns associated to the smoking habit. Figure illustrates the 3D scores plots, in which discrimination trends were clearly observed highlighting the influence of smoking habit on data variability. The percentage of correctly classified samples for the training set of the resulting PLS-DA were 81.3 and 77.1% for CS and NS individuals, respectively; while the validation set gave an overall accuracy of 66.7%. Therefore, there is a variability pattern in the EBC composition associated to the smoking habit. Statistical analysis by the t-test enabled to identify twelve compounds present at significantly different concentrations in CS and NS individuals with p-value below 0.05. Among these compounds, listed in Table , it is worth mentioning five that were highly significant, with a p-value below 0.01: indole (p-value 0.0006), undecanol (0.0036) and three phenolic compounds such as p-cresol (0.0065), 2,4,6-tris(1-methylethyl)-phenol (0.0032) and 2,6-bis(1,1-dimethylethyl)-4-(1-methyl-1-phenylethyl)-phenol (0.0031). Table also includes the fold change ratio for these compounds by considering the two groups of indi- viduals, CS and NS. It is worth mentioning that all the compounds were characterized by a similar concentra- tion profile, with higher relative concentration in EBC from NS individuals as compared to CS, except for one compound, monostearin, that was more concentrated in CS. Special emphasis should be paid in terms of fold change ratio to indole, the most significant compound (p-value < 0.001), which, apart from its high significance, led to a fold change of 2.59, being more concentrated in NS individuals. Monostearin, a significant compound (0.05 < p-value < 0.01), presented the highest fold change value, 2.63, being more concentrated in the CS group. p-Cresol, also highly-significant (0.01 < p-value < 0.001), reported the third value in terms of fold change ratio (2.30) with a more concentrated level in EBC from NS individuals. The rest of significant compounds in the com- parison between CS and NS groups provided fold change ratios from 1.67 to 1.10.
+Random Forest Analysis was applied to compare the discrimination accuracy of significant compounds in
+this study dealing with CS and NS groups. The ranking of compounds according to discrimination accuracy is shown in Fig. that enables to identify indole and monostearin as the two compounds with the highest discrim- ination capability as compared to the rest. The discrimination accuracy of these compounds was also checked by analysis of ROC curves, as shows Fig. . p-Cresol was also included in this analysis due to its high significance and fold change ratio. As can be seen, indole reported the best predictive behavior, with a value of area under the curve (AUC) of 0.758, and specificity/sensitivity values of 0.8/0.7. This good performance can be checked in the box-and-whisker plot with the cut-off value for discrimination between CS and NS groups. Monostearin and p-cresol reported similar AUC values, 0.664 and 0.627, respectively, and close specificity/sensitivity parameters, 0.7/0.6 and 0.6/0.7, respectively. With these premises, it is worth emphasizing the statistical contribution of these three compounds to explain the differences in composition of EBC from CS and NS individuals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5. ROC curves and box-and-whiskers plot for the six compounds with the highest significance and predictive capability to discriminate CS from FS individuals.
+
+
+Comparison of the composition of EBC from current smokers and former smokers. In this step, the composition of EBC from CS individuals was compared to that from FS individuals to evaluate the incidence of quitting smoking on EBC composition. Two relevant factors such as the smoking habit and the cumulative con- sumption, expressed as smoked pack-year, were considered as categorical variables in this study. Concerning the smoking habit, the individuals were divided into two groups --namely, FS (>1 year they quit smoking) and CS. This classification allowed obtaining balanced groups. Three equilibrated groups were also considered to study the effect of the cumulative consumption as smoked pack-year (0-24, 24-45, >45 packs-year). Supplementary Table shows the number of individuals classified in each group. A two-factor ANOVA was applied to detect EBC compositional changes according to the two parameters. The analysis of the smoking habit reported eleven significant compounds with p-values below 0.05, which are listed in Table . Among the compounds, it is worth mentioning the presence of six highly-significant (p-value < 0.01) compounds such as camphor (p-value 0.007), undecanol (0.0100), heptadecynol (0.0054), squalene (0.0080) and two phenolic derivatives: 2,4,6-tris(1-met hylethyl)-phenol (0.0056) and benzoic acid 4-ethoxy-ethyl ester (0.0048). In all cases, the levels of these com- pounds were higher in EBC from FS than from CS, except for squalene that reported the opposite situation being at higher level in EBC from CS. Figure shows the ranking of predictive capability of compounds to discrimi- nate between CS and FS groups. As can be seen, the compounds that reported the highest statistical significance (p-value < 0.01) were in the top-7 compounds according to the ranking provided by the Random Forest Analysis. The discrimination accuracy of these compounds can be visualized in Fig. that shows the ROC curve for each compound. Thus, heptadecynol and camphor provided AUC values of 0.727 and 0.715, respectively; while spec- ificity/sensitivity were 0.7/0.8 and 0.8/0.7, respectively. The two phenol derivatives benzoic acid 4-ethoxy-ethyl ester and 2,4,6-tris(1-methylethyl)-phenol gave a similar AUC value, while the specificity/sensitivity values were 0.8/0.7 and 0.7/0.7, respectively. Finally, undecanol and squalene reported AUC values slightly below 0.7, while the specificity/sensitivity values were 0.8/0.6 and 0.6/0.8, respectively.
+Concerning the cumulative consumption, only five compounds were significant by comparing their EBC levels in the three groups: three terpenoids --limonene (0.0124), eucalyptol (0.0071) and levomenthol (0.0209)-- together with benzyl alcohol (0.0096) and spiro[2,4]heptane,1,5-dimethyl (0.0114). According to these param- eters, only eucalyptol and benzyl alcohol reported statistical differences with 99.9% of confidence. The five significant compounds were characterized by the same pattern, except for levomenthol. Thus, the EBC levels of these compounds were higher in smokers with an intermediate consumption, except for levomenthol that showed similar levels in smokers with intermediate and high cumulative consumption.
+Discussion
+Comparison of the composition of EBC from current smokers and never smokers. In addition to be the most relevant risk factor in respiratory diseases and several types of cancer, smoking is also a key risk factor in several diseases such as cardiovascular diseases. As previously emphasized, numerous biochemical changes occurring in CS as compared to NS individuals have been described, including those supported on metabolomics analysis. However, most of these studies have been focused on conventional biofluids such as serum/plasma, and few of them have been carried out with less conventional samples such as sputum or exhaled breath. The present research was targeted at the analysis of EBC that is obtained in a non-invasive manner and can be easily handled due to condensation in a liquid phase. The first preliminary attempt was to find discrimination patterns in EBC sampled from CS and NS in the controlled cohort of volunteers enrolled at the Department of Respiratory Medicine of the Reina Sofia Hospital. A PLS-DA analysis allowed finding a discrimination pattern between both groups of individuals. In fact, the PLS accuracy parameters of the resulting model were consistent for the training and validation steps. This result confirmed the existence of differences in the composition of EBC from CS and
+
+
+NS. The differences could be associated to three main changes: (1) alterations of endogenous metabolism --for example, increase of inflammatory markers owing to free radicals formation; (2) exogenous compounds owing to the smoking habit such as those described in the extensive research carried out by Filipiak et al.; (3) compounds associated to microbiome-host interactions, which could also be linked to the first group.
+Most of the microbiome research carried out to date has focused on bacterial communities in the colon, the site of the largest, most complex and active microbial system in the body. However, polymicrobial communities exist in many other body sites, including the skin, the mouth, , genitourinaryand respiratory tracts, .  In each case, bidirectional communication between microbes and the underlying tissue regulates the local envi- ronment, including physical characteristics as well as the immune response. Microbiome dysbiosis is strongly associated with certain pathologies although the determinants of these microbial imbalances, particularly in body sites different from colon, are largely unknown.
+Targeting at the respiratory tract the disruption of microbial communities has been implicated in dysregu- lation of local immunity, infection susceptibility, and the development of chronic respiratory inflammatory diseases. As an example, specific bacterial species are implicated in the pathogenesis of exacerbations of chronic obstructive pulmonary disease (COPD), which seems to be associated with accelerated loss of lung function in COPD. Recent studies of clinically stable COPD patients have demonstrated a greater diversity of airway micro- biota as compared to healthy individuals. Also, Huang et al. observed the sputum bacterial composition to be gen- erally stable over the preexacerbation period of clinical stability, but to change at the time of exacerbation, with specific enrichment in not only typical COPD-associated bacterial species (e.g., Haemophilus influenzae) but also in other phylogenetically related species with pathogenic potential such as Gammaproteobacteria, Delta- and Betaproteobacteria. Concurrently, these authors found depleted abundance of other bacteria such as Firmicutes and Actinobacteria phyla whose predicted metagenomes suggest functional capacities to produce a variety of anti-inflammatory compounds such as betalain, flavonoids, macrolides and indole alkaloids. This result is in agreement with EBC levels found in this research for indole, the compound that reported the highest significance (p-value 0.0006) comparing CS and NS with a fold change of 2.59, being more concentrated in NS individuals. Therefore, smoking habit leads to the modification of the respiratory microbiome with incidence on the immune response, which is here supported at metabolomics level on EBC concentrations of indole, a metabolite with rec- ognized anti-inflammatory and antimicrobial properties. The alteration of the immune response contributes to explain the susceptibility of CS to respiratory diseases. This biological interpretation gains interest by the predic- tive behavior of indole to discriminate CS from NS individuals. As can be seen, the ROC curve for this metabolite reported a high AUC value with values of specificity and sensitivity relatively high: 80 and 70%, respectively.
+A representative group of compounds was phenols and derivatives, which also were characterized by a high
+significance in the comparison of their levels in EBC from CS and NS individuals. The most relevant compound was p-cresol (0.0065), involved in the degradation of toluene. Toluene is mainly metabolized to benzyl alcohol or to hydroxytoluene isomers, particularly to p-cresol. This compound, also endowed with antioxidant properties by virtue of the phenolic functional group, was also found at higher levels in EBC from NS individuals. This result strongly agrees with that found by Wu et al., who found different oral microbiome composition between current and non-current (former and non) smokers (p < 0.001). CS individuals presented lower relative abundance of the phylum Proteobacteria (4.6%) as compared with NS individuals (11.7%). Taxa not belonging to Proteobacteria were also associated with smoking. Thus, the genera Capnocytophaga, Peptostreptococcus and Leptotrichia were depleted, while Atopobium and Streptococcus were enriched in CS compared with NS individuals. Functional analysis from inferred metagenomes showed that bacterial genera depleted by smoking were related to carbohy- drate and energy metabolism, and to xenobiotic metabolism such as that of toluene. Particularly, toluene metab- olism was more active in the genera of bacteria depleted in CS than in bacteria that are enriched in this group of individuals.
+A similar pattern was found for the two alkylphenol derivatives, 2,4,6-tris(1-methylethyl)-phenol (0.0032) and 2,6-bis(1,1-dimethylethyl)-4-(1-methyl-1-phenylethyl)-phenol (0.0031). These two compounds are structurally similar to a known antioxidant widely used in the food and cosmetic industries: butylated hydroxytoluene (BTH). Both compounds could be formed through the degradation of exogenous compounds by the microbiome, which could explain the different levels in EBC from CS and NS. The structural analogy between the two alkylphenols and BTH allows deducing an antioxidant activity of these two compounds. There was one other highly significant compound in EBC between CS and NS: undecanol (0.0036), which has not previously been related to the micro- biome. Some groups have described the potential formation of fatty alcohols through degradation of polyun- saturated fatty acid (PUFA) metabolites that are considered inflammation markers. Some of these compounds are endowed with anti- or pro-inflammatory properties depending on the PUFA precursor. In this specific case, undecanol was present at higher level in EBC from NS individuals than from CS, which potentially could explain its formation through PUFA metabolites with anti-inflammatory capability.
+Special emphasis should be also put on monostearin, which reported less significance (0.05 < p-value< 0.01) between CS and NS, but experienced the highest fold change value, 2.63, at higher levels in EBC from CS. There are not evidences about relationships of monostearin levels in individuals affected by respiratory diseases or smoking habit as compared to healthy individuals or NS, respectively. Wikoff et al. found significantly lower level of monostearin in malignant lung tissue from early stage adenocarcinoma patients as compared to non-malignant tissue, while monopalmitin reported the opposite situation. Levels in lung tissue and EBC could be correlated due to the absorption/desorption equilibrium during breathing.
+Comparison of EBC composition from current smokers and former smokers. A recent research suggested that the oral microbiome appears to return to its previous state for FS individuals. The microbial bal- ance in individuals who quit smoking for more than 10 years was similar to that observed in NS individuals. However, the results did not reveal the time required to recover the microbiome balance. In the research proposed
+
+
+here an additional aim was to find discrimination patterns in EBC sampled from CS and FS in the controlled cohort of volunteers enrolled at the Department of Respiratory Medicine of the Reina Sofia Hospital. For this purpose, the smoking load was also taken into account as a categorical factor. Concerning the smoking habit   6 compounds resulted highly significant in the comparison between CS and FS individuals: camphor, unde- canol, heptadecynol, squalene and two phenol derivatives --2,4,6-tris(1-methylethyl)-phenol and benzoic acid 4-ethoxy-ethyl ester. Squalene is a naturally occurring polyprenyl compound known for its key role as an inter- mediate in cholesterol synthesis. Many other polyprenyl compounds structurally similar to squalene are detected in biofluids and perform critical biological functions such as oxidation inhibition or antimicrobial properties. For example, animals utilize prenyl groups to form the side chain of ubiquinones, among which it is worth empha- sizing the role of coenzyme Q10 (the most common form of ubiquinone in the human body) as endogenous antioxidant. Other well-known prenyl derivatives include carotenes, vitamin A, vitamin K, vitamin E and cyclic terpenoid compounds such as camphor, pinene and limonene. Thus, the significant different concentration of camphor and squalene in CS and FS individuals (squalene is more concentrated in CS than in FS and camphor shows the opposite trend) could be attributed to the fact that quitting smoking stimulates the synthesis of com- pounds with antimicrobial properties like camphor using prenyl groups from squalene. In addition, as discussed above, smoking habit upsets the immune response contributing to explain the susceptibility of CS to respiratory diseases. This biological interpretation is supported on the predictive behavior of both compounds to discrimi- nate between CS and FS. As can be seen, the ROC curves for these metabolites reported a high AUC value with relatively high specificity and sensitivity, 80 and 70% for camphor and 60 and 80% for squalene, respectively. These results could be related to that found by Biedermann et al., who investigated the role of smoking ces- sation on intestinal microbial composition in 10 healthy smokers undergoing controlled smoking cessation. They found an increase of sequences from Firmicutes and Actinobacteria and a simultaneous decrease of the Proteobacteria and Bacteroidetes fractions after smoking cessation. This behavior was related to the production of a variety of anti-inflammatory and antimicrobial compounds.
+Two other highly significant compounds in EBC from CS and FS individuals were undecanol (0.0100) and
+heptadecynol (0.0054) that have not been previously related to the microbiome. As discussed above, the forma- tion of these fatty alcohols could be related to PUFA metabolites degradation. Both compounds were present at higher level in EBC from FS than from CS individuals, which potentially could explain their source through PUFA metabolites with anti-inflammatory capability.
+One other significant compound was an alkylphenol derivative, 2,4,6-tris(1-methylethyl)-phenol (0.0056) which was discussed in the previous section as a BTH related compound with antioxidant activity. This com- pound presented higher levels in FS than in CS individuals, supporting the results obtained comparing CS with NS individuals. Special emphasis should be also put on benzoic acid 4-ethoxy ethyl ester, which reported the highest significance between CS and FS individuals (0.0048). This compound had previously been found in exhaled breath, but there are not evidences about its relationship with the smoking habit. The depletion of certain xenobiotic biodegradation pathways in CS suggests important functional losses with potential health consequences. Oral bacteria are first to come into contact with cigarette smoke and may play an important role in degrading the accompanying toxic compounds. Wu et al. observed that functional pathways related to tolu- ene, nitrotoluene, styrene, chlorocyclohexane and chlorobenzene degradation were depleted in CS as well as the cytochrome P450 xenobiotic metabolism. Conversely, polycyclic aromatic hydrocarbon and xylene degradation were enriched in CS individuals. However, Meckenstock et al. concluded in their research that toluene was the responsible for the metabolic inhibition of xylene-degrading organisms. This result could be in agreement with the high level of benzoic acid 4-ethoxy ethyl ester found in EBC from FS individuals. Quitting smoking reduces the presence of toluene levels stimulating xylene degradation and increasing the level of benzoic acid derivatives.
+Concerning the smoking cumulative consumption, benzyl alcohol resulted highly significant (0.0096) as well
+as eucalyptol (0.0071). Benzyl alcohol is one of the two intermediates in the pathway of toluene metabolism with a trend opposite to p-cresol. Therefore, the benzyl alcohol levels increased with smoking load, which agrees with p-cresol EBC levels that were higher for NS than for CS individuals.
+Eucalyptol is the bicyclic monoterpene 1,8-cineole, which is transformed by several pathways. Novosphingobium subterranea converts 1,8-cineole initially into 2-endo-hydroxycineole, 2,2-oxo-cineole and 2-exo-hydroxycineole. A cytochrome P450 monooxygenase catalyzes the hydroxylation of 1,8-cineole; thus, the higher levels of eucalyptol with the increase of the smoking load is explained by the cytochrome P450 xenobiotic metabolism, depleted in CS individuals, favoring the accumulation of eucalyptol as a result.
+Limitations of the study.	The following two aspects should be considered to interpret the obtained results:
+Spirometry was not performed in the target cohort and, thus, no data about lung function were used for correlation with significant compounds. Decline in lung function in smokers and its relationship with EBC significant compounds cannot be ruled out. Nevertheless, the range of collected volume was quite narrow (1.25-1.75 mL) and, additionally, relative concentrations were used by MSTUS approach to remove the effect of the sampled volume.
+BMI was higher than 30 kg/m2 in 42% of individuals (Supplementary Table ) who have included in respective groups only for categorization of subjects and their physiological data. These individuals were distributed into the three groups considered in this research without statistical significance. Hence, the ob- tained results should be cautiously interpreted to associate the smoking habit with metabolite composition.
+
+
+Conclusions
+Smoking habit is one of the risk factors associated to multiple respiratory diseases and it may influence EBC com- position. In this research, 12 metabolites have been found at significantly different levels between current smokers and non-smokers. Among them it is worth mentioning monostearin, indole and p-cresol due to their high sig- nificance. Additionally, 12 metabolites have been found significantly different between current and former smok- ers, including compounds with structure similar to the previous case. In fact, 6 compounds were significantly different in both studies. Despite the necessity of a large-scale study to validate the EBC applicability to detect metabolic changes caused by smoking habit, this first approach has revealed statistically significant differences associated to the smoking habit.
+References
+Wu, J. et al. Cigarette smoking and the oral microbiome in a large study of American adults. ISME J. 10, 2435-46, doi:(2016).
+Tager, I. B., Segal, M. R., Speizer, F. E. & Weiss, S. T. The natural history of forced expiratory volumes. Effect of cigarette smoking and respiratory symptoms. Am. Rev. Respir. Dis 138, 837-49, doi:(1988).
+Ryu, J. H., Colby, T. V., Hartman, T. E. & Vassallo, R. Smoking-related interstitial lung diseases: a concise review. Eur. Respir. J 17, 122-32, doi:(2001).
+Tonnesen, P. et al. Smoking cessation in patients with respiratory diseases: a high priority, integral component of therapy. Eur. Respir. J. 29, 390-417, doi:(2007).
+Bartecchi, C. E., MacKenzie, T. D. & Schrier, R. W. The human costs of tobacco use (1). N. Engl. J. Med. 330, 907-12, doi:(1994).
+Rosenberg, L., Kaufman, D. W., Helmrich, S. P. & Shapiro, S. The risk of myocardial infarction after quitting smoking in men under 55 years of age. N. Engl. J. Med. 313, 1511-4, doi:(1985).
+Celermajer, D. S. et al. Cigarette smoking is associated with dose-related and potentially reversible impairment of endothelium- dependent dilation in healthy young adults. Circulation 88, 2149-2155, doi:(1993).
+Lightwood, J. M. & Glantz, S. A. Short-term Economic and Health Benefits of Smoking Cessation : Myocardial Infarction and Stroke. Circulation 96, 1089-1096, doi:(1997).
+Jerjes, W. et al. The effect of tobacco and alcohol and their reduction/cessation on mortality in oral cancer patients: short communication. Head Neck Oncol 4, 6, doi:(2012).
+Taylor, D. H., Hasselblad, V., Henley, S. J., Thun, M. J. & Sloan, F. A. Benefits of Smoking Cessation for Longevity. Am. J. Public Health
+92, 990-996, doi:(2002).
+Xu, T. et al. Effects of smoking and smoking cessation on human serum metabolite profile: results from the KORA cohort study.
+BMC Med. 11, 60, doi:(2013).
+Tian, X. et al. Effects of smoking and smoking cessation on life expectancy in an elderly population in Beijing, China, 1992-2000: an 8-year follow-up study. J. Epidemiol. 21, 376-84, doi:(2011).
+Boue, S. et al. Cigarette smoke induces molecular responses in respiratory tissues of ApoE(-/-) mice that are progressively deactivated upon cessation. Toxicology 314, 112-24, doi:(2013).
+Ebbert, J. O. Lung Cancer Risk Reduction After Smoking Cessation: Observations From a Prospective Cohort of Women. J. Clin. Oncol. 21, 921-926, doi:(2003).
+Halpern, M. T., Gillespie, B. W. & Warner, K. E. Patterns of Absolute Risk of Lung Cancer Mortality in Former Smokers. JNCI J. Natl. Cancer Inst. 85, 457-464, doi:(1993).
+de Laurentiis, G. et al. Separating smoking-related diseases using NMR-based metabolomics of exhaled breath condensate. J. Proteome Res. 12, 1502-11, doi:(2013).
+Hsu, P.-C. et al. Feasibility of identifying the tobacco-related global metabolome in blood by UPLC-QTOF-MS. J. Proteome Res. 12, 679-91, doi:(2013).
+Peralbo-Molina, A., Calderon-Santiago, M., Priego-Capote, F., Jurado-Gamez, B. & Luque de Castro, M. D. Development of a method for metabolomic analysis of human exhaled breath condensate by gas chromatography-mass spectrometry in high resolution mode. Anal. Chim. Acta 887, 118-126, doi:(2015).
+Guirguis-Blake, J. M. et al. Screening for Chronic Obstructive Pulmonary Disease. JAMA 315, 1378-93, doi: (2016).
+WHO. Obesity and overweight WHO (2016).
+Kuban, P. & Foret, F. Exhaled breath condensate: determination of non-volatile compounds and their potential for clinical diagnosis and monitoring. A review. Anal. Chim. Acta 805, 1-18, doi:(2013).
+Hoffmeyer, F., Raulf-Heimsoth, M., Harth, V., Bunger, J. & Bruning, T. Comparative analysis of selected exhaled breath biomarkers obtained with two different temperature-controlled devices. BMC Pulm. Med. 9, 48, doi:(2009).
+Warrack, B. M. et al. Normalization strategies for metabonomic analysis of urine samples. J. Chromatogr. B. Analyt. Technol. Biomed. Life Sci. 877, 547-52, doi:(2009).
+Xia, J., Sinelnikov, I. V., Han, B. & Wishart, D. S. MetaboAnalyst 3.0-making metabolomics more meaningful. Nucleic Acids Res 43, W251-257, doi:(2015).
+Filipiak, W. et al. Dependence of exhaled breath composition on exogenous factors, smoking habits and exposure to air pollutants.
+J. Breath Res 6, 36008, doi:(2012).
+Hannigan, G. D. et al. The human skin double-stranded DNA virome: topographical and temporal diversity, genetic enrichment, and dynamic associations with the host microbiome. MBio 6, e01578-15, doi:(2015).
+Dewhirst, F. E. et al. The human oral microbiome. J. Bacteriol. 192, 5002-17, doi:(2010).
+Wade, W. G. The oral microbiome in health and disease. Pharmacol. Res. 69, 137-43, doi:(2013).
+Brotman, R. M. et al. Association between the vaginal microbiota, menopause status, and signs of vulvovaginal atrophy. Menopause
+21, 450-8, doi:(2014).
+Neish, A. S. Mucosal immunity and the microbiome. Ann. Am. Thorac. Soc. 11(Suppl 1), S28-32, doi:(2014).
+Vissers, M., de Groot, R. & Ferwerda, G. Severe viral respiratory infections: are bugs bugging? Mucosal Immunol 7, 227-38, doi:(2014).
+Hansel, T. T., Johnston, S. L. & Openshaw, P. J. Microbes and mucosal immune responses in asthma. Lancet (London, England) 381, 861-73, doi:(2013).
+Marsland, B. J. & Gollwitzer, E. S. Host-microorganism interactions in lung diseases. Nat. Rev. Immunol. 14, 827-35, doi:(2014).
+Huang, Y. J. et al. Airway microbiome dynamics in exacerbations of chronic obstructive pulmonary disease. J. Clin. Microbiol. 52, 2813-23, doi:(2014).
+Wu, A. H., Paganini-Hill, A., Ross, R. K. & Henderson, B. E. Alcohol, physical activity and other risk factors for colorectal cancer: a prospective study. Br. J. Cancer 55, 687-94, doi:(1987).
+
+
+Patterson, E., Wall, R., Fitzgerald, G. F., Ross, R. P. & Stanton, C. Health implications of high dietary omega-6 polyunsaturated Fatty acids. J. Nutr. Metab 2012, 539426-16, doi:(2012).
+Wikoff, W. R. et al. Metabolomic markers of altered nucleotide metabolism in early stage adenocarcinoma. Cancer Prev. Res. (Phila)
+8, 410-8, doi:(2015).
+Kelly, G. S. Squalene and its potential clinical uses. Altern. Med. Rev. 4, 29-36 (1999).
+Biedermann, L. et al. Smoking cessation induces profound changes in the composition of the intestinal microbiota in humans. PLoS One 8, e59260, doi:(2013).
+Phillips, M. Variation in volatile organic compounds in the breath of normal humans. J. Chromatogr. B 729, 75-88, doi:(1999).
+Meckenstock, R. U., Warthmann, R. J. & Schafer, W. Inhibition of anaerobic microbial o-xylene degradation by toluene in sulfidogenic sediment columns and pure cultures. FEMS Microbiol. Ecol 47, 381-6, doi:(2004).
+Acknowledgements
+The Spanish Ministerio de Economia y Competitividad (MINECO), Junta de Andalucia and FEDER programme are gratefully acknowledged for financial support (Projects "Development of methods for early cancer detection, December 29, 2011", FQM-1602 and CTQ2015-68813-R"). A. Peralbo-Molina and M. Calderon-Santiago also thank to these organisms their research contracts. F. Priego-Capote is also grateful to the Ministerio de Ciencia e Innovacion (MICINN) for a Ramon y Cajal Contract (RYC-2009-03921). Reina Sofia Hospital and its biorepository node (Cordoba, Spain) are also grateful for donors of exhaled breath condensate samples.
+Author Contributions
+A.P.M. performed the experiments. B.J.G. designed the clinical study and supervised sampling and sample storage. A.P.M., M.C.S. and F.P.C. carried out the statistical analysis. A.P.M., M.C.S., F.P.C., M.D.L.C. and B.J.G. actively participated in the discussion of the results and in the manuscript checking.
+Additional Information
+Supplementary information accompanies this paper at doi:
+Competing Interests: The authors declare that they have no competing interests.
+Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre- ative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons license and your intended use is not per- mitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit .
+(c) The Author(s) 2017

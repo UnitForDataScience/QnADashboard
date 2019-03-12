@@ -1,0 +1,476 @@
+Gao et al. Microbiome (2017) 5:91
+DOI 10.1186/s40168-017-0315-1
+
+
+
+
+
+Feed-additive probiotics accelerate yet antibiotics delay intestinal microbiota maturation in broiler chicken
+Pengfei Gao1+, Chen Ma1+, Zheng Sun2+, Lifeng Wang1, Shi Huang2, Xiaoquan Su2, Jian Xu2* and Heping Zhang1*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+Antibiotic intake of food animals, as well as the resulted antibiotic residue in food, has been recognized as one leading cause of the rapid spread of antimicrobial resist- ance in human populations Abusive feeding of an- tibiotics to food animals causes the direct selection for antibiotic-resistant microbes and turns the food animal systems into reservoirs of antibiotic resistance genes. Moreover, antibiotic intake of human via inadvertent
+
+
+consumption of such antibiotics-contaminated food can undermine efficacy of antibiotics in combating bacterial infections, hinder normal development of gut microbiota, and eventually increase risk of chronic diseases [. The scope of antibiotic residue contamination in food animals is alarming: a recent study of over 1000 8~11-year-old children in Shanghai, China, detected in 58% of the urine samples multiple antibiotics that are only used in food ani- mals (i.e., tylosin, chlortetracycline, and enrofloxacin) . Thus, reducing antibiotic intake and eliminating antibiotic
+
+ 		residues in food animal agriculture has become one prior-
+
+* Correspondence: ; 
++Equal contributors
+2Single-Cell Center, CAS Key Laboratory of Biofuels and Shandong Key
+Laboratory of Energy Genetics, Qingdao Institute of BioEnergy and Bioprocess Technology, Chinese Academy of Sciences, Qingdao, Shandong 266101, China
+1Key Laboratory of Dairy Biotechnology and Engineering, Inner Mongolia
+Agricultural University, Hohhot 010018, China
+
+ity in food safety and public health.
+Antibiotic residues in food animals is a consequence    of antibiotic overuse in animal feed  With over 50 billion animals reared annually as  human  food  source for both meat and eggs, chicken are the most common
+
+
+(c) The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver applies to the data made available in this article, unless otherwise stated.
+
+
+
+
+
+
+type of poultry and contribute one third of meat produc- tion worldwide. However, 20~50% fresh or frozen broilers were antibiotic-residue positive, due to the ad- ministration of antibiotics in broiler feed - In chicken farming, efforts seeking alternatives for in-feed antibiotics started in the 1980s and have gained enor- mous interest in recent years  Such alternatives in- clude fiber-degrading enzymes, prebiotics, probiotics, symbiotics, and phytobiotics Among them, probio- tics are advantageous for its low production cost  and  wide range of application among different kinds of host animals ]. For example, a meta-analysis of 35 studies of probiotics across Brazil between 1995 and 2005 indi- cated that probiotics are technically viable alternatives to antibiotics in broiler chicken feed 
+As the first officially issued feed-additive microorgan- isms, Lactobacillus spp. are considered an advanced alter- native to antibiotics and have been used in feed processing for decades due to their beneficial effects on immunity, metabolism, and growth of livestock [, ]. For example, Lactobacillus plantarum strain 8 (i.e., "LP-8"), originally isolated from naturally fermented yoghurt of a herdsmen family in the Wulatezhongqi grassland of Inner Mongolia, China, is able to survive and multiply in human intestinal tract []. Administration of LP-8 in human adults con- veys antagonistic properties against pathogenic bacteria, increases the content of intestinal mucosal immune globulin A (SIgA), and enhances the antioxidant capacity []. Moreover, in broiler chicken, LP-8 was shown to im- prove growth performance, nutrient digestibility, immun- ity, and intestinal health [], suggesting the potential value of LP-8 as an alternative to antibiotics in chicken farming. However, it is not clear whether and how the probiotics and the antibiotics differ in impact on physi- ology and microbial ecology of animal hosts [].
+Here by simultaneously tracking host phenotypes and fecal microbiome structure of broilers along the full span from birth to slaughter, we compared the development of host physiology and intestinal microbiota among the two feed additives and a normal diet control. The results re- vealed that probiotic feeding resulted in a lower feed con- version ratio (FCR) and induced the highest level of immune response. Moreover, probiotics but not antibi- otics recapitulated the characteristics of age-dependent development of gut microbiota in the control group. Fur- thermore, maturation of intestinal microbiota was greatly accelerated by probiotic feeding, yet significantly retarded and eventually delayed by antibiotic feeding. Consistently, profound functional distinction in intestinal microbiota was revealed by metagenomic sequencing between the probiotic and the antibiotic groups. Co-occurrence net- work analysis revealed LP-8 supplementation stimulated the abundance of many intestinal Lactobacillus spp. and led to a tightly organized bacterial correlation network
+
+
+where Lactobacillus spp. are negatively correlated with 14 bacterial genera and positively linked with none; in con- trast, from the start, antibiotic feeding featured a much less organized network, indicating disruption of numerous inter-genera interactions. Thus, LP-8 feeding accelerated maturation of intestinal microbiota by promoting growth of the indigenous Lactobacillus spp. in broiler intestine and then together inhibiting other intestinal genera. These results revealed remarkable distinction between probiotics and antibiotics in their impact on broiler microbiota de- velopment, and underscore the tremendous potential of probiotics as antibiotics' substitute in poultry farming.
+
+Results
+Development of broiler intestinal microbiota with either probiotics or antibiotics as feed supplement
+A total of 270 1-day-old Cobb 500 broilers were first ran- domly divided into three groups: they were either fed a base diet (i.e., the control group), the base diet plus the antibiotics of chlortetracycline and salinomycin at 500 g/ton-of-feed each (the antibiotic group), or the base diet plus LP-8 in drinking water (the probiotic group;  ""). Every group (i.e., 90 broilers) was then equally divided into  six pens randomly. Each such 15-broiler pen thus served as a biological replicate and was tracked for physiological, im- munological, and intestinal microbiome structure for 42 days (i.e., from birth to slaughter).  To evaluate  the performance  in growth promotion, average daily gain (ADG; per broiler), average daily feed intake (ADFI; per pen), and FCR  (per pen) were recorded. To assess the immunological response, immune indices including immune organ  indices,  serum IgG, and intestinal secretory IgA were measured for specific organs and tissues To probe the development of intes- tinal microbiota, 16S ribosomal RNA (rRNA) amplicon se- quencing was performed for feces collected on day 7,  28, and 42 from 12 randomly picked broilers from each group, plus those from 12 randomly picked broilers on day 0 (i.e., before any treatments; ""). Furthermore, 10 fecal samples were collected from each of the  three  groups  on day 42 for total metagenome sequencing (""), for functional comparison of the intestinal microbiota.
+
+Probiotics and antibiotics both conveyed growth benefits yet only probiotics activated protective host immune responses
+All chickens were healthy throughout the feeding trial period. During the first 22 days, no significant ADFI change (P > 0.05) was detected among the three groups, but the antibiotic group exhibit 10.6 and 5.9% higher ADG than control and probiotic group, as for FCR, the antibiotic group is 13.4 and 9.1% lower than the control and probiotic group (Fig. ). In the  next  21  days, both  the  antibiotic  and  the  probiotic  groups produced a
+9.8  and  10.4%  higher  ADG  than  the  control; however,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the probiotic group consumed less food and consequently exhibit a 5.9% lower FCR than the antibiotic group. Over the complete birth-to-shelf process of 42 days, probiotic feeding produced a level of weight gain (i.e., ADG) that is identical to antibiotic feeding (both 10.3 and 6.7% higher than the control) and a significantly lower FCR, suggesting that P-8 provided equivalent or greater benefits in weight gain, feed intake, and feed efficiency as antibiotics did (Additional file Table S1).
+Induction and maintenance of an appropriate level of immunological activity is crucial for healthy broiler growth in poultry farms [For the broilers, a number of key immunological indices were compared among the regimens of feed additives. Firstly, immune organ indi- ces, referred to as immune organ weights and commonly used in poultry industry as a measurement for immunity   were measured for each of the thymus gland, bursa, and spleen (""). Thymus is a central im- mune organ that plays an important role in inducing T
+
+lymphocytes differentiation and maturation, while bursa is a bird-specific humoral immune organ. Spleen, as the biggest peripheral immune organ, is involved in immune reaction of chicken. The immune organ indices of the thymus gland, bursa, and spleen on day 42 were 29.3, 36.5, and 28.0% higher in the probiotic group than the control, and immune organ index of the thymus gland was 14.7% higher in the probiotic group than the anti- biotic group, indicating a most  enhanced  immunity  in the probiotic group (Fig. 
+Secondly, serum IgG and intestinal secretory IgA were compared among the groups (""), as serum IgG reflects the system immune state, while intestinal secretory IgA reflects the intestinal immunity state  On day 14, the probiotic group exhibit 63.7 and 48.0% higher expression level of serum IgG respectively than the control and the antibiotic groups and, moreover, 4.2 and 4.6% higher intestinal secretory IgA than the other two groups. On day 42, the probiotic group exhibited
+
+
+
+
+
+
+19.5% higher expression level of serum IgG than the control and moreover 11.2 and 12.4% higher intestinal secretory IgA respectively than the other  two groups (Fig. The highest level of IgG and IgA expression as detected in the probiotic group indicated a boosted im- munity after probiotic feeding.
+
+Oral administration of LP-8 elevated relative abundance of a wide range of indigenous Lactobacillus species in in- testinal microbiota
+Lactobacillus spp. are widely considered as beneficial to both humans and animals, thus high content of Lactoba- cillus spp. is linked to the wellbeing of chicken For example, L. paracasei reportedly enhances the phago- cytic activity of the gut cells of poultry (including chicken  and L. plantarum also exerted strong stimulation effect on chicken gut cells [
+To test the ability of L. plantarum strain LP-8 to access the gut and the impact of LP-8 feeding on the intestinal Lactobacillus species, abundance of LP-8 and nine other Lactobacillus species from fecal samples were compared
+
+
+on day 7, 28, and 42 among the groups using RT-PCR (Additional file  Table S6), which is able to distinguish microbiota at the strain level. In the probiotic group, LP-8 reached 6.03 +- 0.18 Log10CFU/g on day 7, was reduced to 4.84 +- 0.10 Log10CFU/g on day 28 and then
+4.67 +- 0.09 Log10CFU/g on day 42 (Fig. ). LP-8 was not detected in the other two groups. Thus, throughout the feeding period, LP-8 has survived in the digestive system and reached the broiler intestine.
+Interestingly, oral administration of LP-8 resulted in re- markable enrichment of non-LP-8 Lactobacillus spp. in intestinal microbiota. In the probiotic group, on day 7, 28, and 42, nine species of Lactobacillus beyond LP-8 that in- cluded L. acidophilus, L. brevis, L. casei, L. gasseri, L. para- casei, L. plantarum, L. reutei, L. ruminis, L. sakei, and L. salivarius were detected. By day 7, in the probiotic group,
+L. acidophilus,  L. casei,  L. paracasei,  L. plantarum,  L. reutei,
+L. ruminis, and L. salivarius were all significantly elevated (by 11.1, 29.8, 1.1, 3.4, 26.6, 7.6, and 6.4% respectively), yet abundance of L. brevis, L. gasseri, and L. sakei did not re- spond to LP-8 supplementation. In the antibiotic group,
+
+
+
+
+
+
+
+however, L. acidophilus, L. casei, L. gasseri, L. paracasei, L. reutei, and L. ruminis all decreased (by 2.9,  2.4,  8.7,  1.9,  26.8,  and  4.9%  respectively),  although  L.   plantarum   and L. salivarius slightly increased (by 1.4 and 7.1%; Additional file  Fig. S1a). At day 28, in the probiotic group, the levels of L. plantarum (9.6%), L. ruminis  (13.7%), and L.  salivarius  (2.7%)  are  higher  than  those  in the control group,  while  those  of  L.  acidophilus  (3.7%), L. casei (6.4%),  and  L.  paracasei  (3.0%)  are lower than those in the control;  however,  in  the  anti-  biotic  group,  all  the  Lactobacillus  strains  were  re-   duced  as  compared  to   those   in   the   control   (except that  L.  gasseri  increased  by  4.0%;  Additional  file    Fig. S1b). At day 42, probiotic intake elevated the  abundance of L. acidophilus (by 1.4%), L. brevis (by  24.1%), L. gasseri (by 3.8%), L. paracasei (by 6.6%), L. plantarum (by 3.4%), L. ruminis (by 24.7%), and L. salivarius (by 4.1%), whereas L. casei and L. sakei  re-  duced by 5.9 and 6.0%; on  the  other  hand,  antibiotic  intake resulted in the reduction of L. acidophilus  (by  29.9%), L.  reutei  (by  13.4%),  L.  ruminis  (by  21.4%),  and  L.  salivarius  (by  22.7%),  as  well  as  the  elevation  of L. brevis (by 4.9%), L. gasseri (by 6.4%), and L. paracasei (by 3.9%; Additional file : Fig. S1c).
+Therefore, over the full course of 42 days, Lactobacil- lus spp. abundance was the highest in  the  probiotic group while the lowest in the antibiotic group (Fig.  Moreover, based on their antibiotic/probiotic sensitivity, the nine Lactobacillus spp. can be grouped into (i) the insensitive cluster, including L. gasseri, L. paracasei, and
+L. sakei (Fig. k), (ii) the slightly sensitive cluster, in- cluding L. brevis and L. plantarum which differed with those in the control group only at selected time points (Fig.  h), and (iii) the highly sensitive cluster, includ- ing L. acidophilus, L. casei, L. reutei, L. ruminis, and L. salivarius, which mostly were inhibited by antibiotics yet stimulated by probiotics (Fig. l).
+
+
+LP-8 accelerated, yet antibiotics delayed, the maturation process of broiler intestinal microbiota
+Administration of LP-8 and antibiotics also induced a sig- nificant change to broiler intestinal microbiota. PERMA- NOVA test based on Meta-Storm distance revealed that both time point and feed additive have a significant effect on the fecal microbiome structure ("", Additional file Table S2). Feed additive (LP-8 or antibiotics) is the most important   contributor   of   microbiota   variation (F = 3.83, p = 0.002), as difference between LP-8 and anti- biotics is consistently larger than the time point (i.e., age; F = 2.01, p = 0.048) or the variation among animal indi- viduals (Fig. ). Thus, pinpointing the discriminating mi- crobial features among feed additives would first require identification of the age-dependent microbiota features.
+
+
+To probe the age-dependent development  of broiler  gut microbiota, age-discriminatory taxa were  identified by respectively regressing the relative abundance of the entire list of genera against the corresponding chrono- logic age of chicken in the control group (""). In this way, 29 age-discriminatory taxa were identified. Among them, a  short list of top genera were used for    the subsequent construction of the microbiota-based model for discriminating different developmental stages, i.e., degree of microbiota maturity, as inclusion of any taxa beyond these top taxa produced only minimal im- provement in model performance (Fig.  This model which consists of 16 genera is able to distinguish the maturity of intestinal microbiota during the 42 days (56.68% variation explained; Fig. 
+To probe the effect of feed additive on microbiota matur- ation, development of microbiota in the probiotic and the antibiotic groups as defined by the age-discriminatory taxa identified above were monitored. Specifically, the Random Forest model was trained on the control group to identify age-discriminant taxa and then modeling of the microbiota age was performed on those same taxa across all three groups. Intriguingly, the patterns of microbiota develop- ment were highly distinct. The natural development of microbiota (i.e., in the control group when neither antibi- otics nor probiotics were  supplemented)  exhibited  a smooth curve that gradually grows until reaching plateau at day 30 (Fig. However, the curve in the antibiotic group featured a late-maturing pattern that does not reach the plateau until day 40, suggesting a delay of approximately
+10 days in microbiota development as compared to the control group (Fig. e). In contrast, in the probiotic group, the curve exhibited an early-maturing pattern, which  reaches plateau in as early as day 15, indicating an acceler- ation of intestinal microbiota maturation by approximately 15 days (Fig. ). The apparent early maturation of intes- tinal microbiota is consistent with the early development of immunity in the probiotic group (Fig. Thus apparently, probiotic and antibiotic administrations generated opposite effects on the age-dependent maturation of intestinal microbiota, with the former accelerating the  process whereas the latter delaying it (the  relative  abundance change of the 16 age-discriminatory taxa are shown in Additional file Fig. S2). In addition, from day 1 to day 42, the beta diversity of intestinal microbiota changed more heavily in the antibiotic group (F = 0.164, p = 0.003; ANO- SIM) than in either the control group (F = 0.136, p = 0.003) or the probiotic group (F = 0.149, p = 0.003).
+To quantitatively define the speed of microbiota ma- turity and thus compare the impact of  feed  additives (and diet in general) on microbiota development, we propose an index called "intestinal microbiota matur- ation index" (IMMI), which is defined as "time required to reach the full maturity of gut microbiota as defined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+by the additive-free group"  ("").  Interestingly, for the control group, the developmental  pattern of broiler intestinal microbiota revealed that the timing of microbiota reaching the plateau (i.e., "full maturity") actu- ally coincided with the start of the finishing phase, i.e., when the chicken start to rapidly gain body weight (Fig. This suggests a link between intestinal microbiota and growth performance in broiler farming. On the other hand, admin- istration of LP-8 and that of the antibiotics carry a IMMI of 15 and 40 respectively, as compared to a IMMI of 30 for the control group.
+
+Organismal features of intestinal microbiota in the probiotic and the antibiotic treatments
+To further probe how the distinct feed additives drive in- testinal microbiota change, we compared the 16S gene- based profiles of bacterial phylogeny at the genus level at each of sampling times across the three groups. In total,
+
+eight genera were found changed significantly during the regimens by Kruskal Test (Additional file  Table S3). Among them, three abundant genera that include Blautia, Roseburia, and SMB53 (representing 1.2, 0.9, and 0.8% of normal microbiota respectively) have changed significantly on day 7 (Fig. ). Eubacterium, Roseburia, Clostridium, Clo_02d06, Tyzzerella, and Turicibacter which respectively represent 0.2, 0.9, 14.0, 0.6, 0.2, and 0.5% of normal micro- biota were significantly changed on day 28 (Fig. a); how- ever, no genera were found significantly different in relative abundance across the three regimens on day 42 (Fig. a).
+Further analysis revealed that, at day 7, there was no dif- ference in microbiota beta diversity  among  the regimens (F = 2.08, p = 0.112). However, at day 28 such difference emerged (F = 4.72, p = 0.001) and then at day 42 it disap- peared again (F = 0.58, p = 0.700). To test the functional distinction of microbiota at day 42, whole-metagenome se- quencing of 10 fecal samples from each of the three groups
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+at day 42 revealed a significant alteration of microbial functional profile among the three groups. Principle com- ponent analysis (PCA) based on KOs showed statistically significant discrimination between the antibiotic and the probiotic  groups  (PC1,  70.4%,  p  =  0.004;   PC2,  12%, p = 0.563; Student's t test; Fig. ), while neither the anti- biotic group (PC1, p = 0.179; PC2, p = 0.115) nor the pro- biotic group (PC1, p = 0.111; PC2, p = 0.987) was distinguishable from the control group. Totally 1054 KOs were identified as functional markers associated with treat- ments (adjusted p < 0.1; Additional file  Table S4), which were then assigned to specific functional path- ways (Additional file  Fig. S3;  Additional  file  : Table S5A, B; ""). Probiotics influenced as many pathways as antibiotics did; however, five path- ways were altered only by antibiotics but  not  probio- tics, including cell cycle-Caulobacter (ko04112),  pentose and glucuronate interconversions (ko00040), synthesis and degradation of ketone bodies (ko00072), D-glutamine and D-glutamate metabolism (ko00471), and drug metabolism--other enzymes (ko00983). This might indicate disturbed energy metabolism and cell cycle under antibiotics. Thus, the distinct gut  micro- biota maturity rate between the antibiotic and the probiotic groups can lead to profound alteration of microbiota function.
+
+The key role of LP-8 in formation and development of bacterial correlation network in intestinal microbiota
+To probe the potential mechanism underlying the dis- tinct temporal patterns of gut microbiota maturation among the three regimens, we compared the corre- sponding co-occurrence networks among the bacterial genera. For each group, Spearman's correlation coeffi- cient was used to describe the adjacency relationship
+
+among genera. Intriguingly, in each of the three groups, the Lactobacillus spp. participated in the core inter- action network (i.e., the largest sub-network; Fig. 
+Compared to the   control   group   (network   dens-   ity = 0.329; Fig.  the inter-genera correlation in the antibiotic group was weaker (network density = 0.213; Fig. while in the probiotic group the correlation was stronger (network density = 0.355; Fig. On the other hand, the number of genera that were directly correlated with Lactobacillus spp. were very different. In the con- trol groups, six genera were negatively correlated with Lactobacillus while this number was reduced to four in the antibiotic group but increased to 14 in the probiotic group. Furthermore, compared with  the  control  group  (n = 33), the number of genera participating in the core interaction network  decreased  in  the  antibiotic  group (n = 27) and the probiotic group (n = 25). Interestingly, the inhibition of many intestinal non-Lactobacillus gen- era by the intestinal Lactobacillus spp.  appeared  to be the most prominent change taken place, suggesting en- richment of intestinal Lactobacillus spp. as induced by LP-8 feeding was one major driving force of the distinct global microbiota change in the probiotic group (Add- itional file  Fig. S4). Thus antibiotic feeding greatly disturbed and weakened the bacterial interacting net-  work of the chicken gut microbiota while LP-8 feeding led to a strong interacting network where Lactobacillus spp. dominate. Consistently, the bacteriostasis effect by these enriched Lactobacillus spp. (due  to administration of LP-8) against other intestinal bacterial genera might reduce nutrient consumption by the intestinal micro- biota, which could have underlie the decline of FCR in the probiotic group (Fig. 
+The distinct impacts of antibiotics and probiotics on bacterial correlation network appeared to take place at an
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+early phase. In the first period (day 1 to 7), the correlations among genera in the antibiotic group have already been weakened as compared to the controls (network density  of 0.244 and 0.277 respectively), whereas LP-8 feeding produced an opposite effect (network density of 0.373). In the next period (day 7 to day 28), such patterns were largely maintained, with the network density for control, antibiotics, and probiotics being 0.274, 0.341, and 0.361 respectively. Interestingly, in the final period (during day 28 to day 42), both antibiotics and LP-8 feeding reduced the mean correlation value of the networks, to 0.255 and
+0.260 respectively (Fig. ). As for the centralization of network, the probiotic group always featured the highest concentrations of interacting genera during the whole trial, followed by the control and the antibiotic group (Fig.
+
+). Thus both LP-8 and antibiotics, as feed additive, play a key role in formation and development of the web of bacterial interactions in broiler intestinal microbiota.
+
+Discussion
+The growth-promoting effects of probiotics are dependent on specific probiotics used and the applica- tion level of probiotics  Our data  here  suggested  that LP-8 administration, just like antibiotic supplemen- tation, significantly improved the growth-related matri- ces of broilers and also promoted immunological parameters in an industrial chicken farming setting. Moreover, LP-8 administration reduced FCR to a level equivalent with or lower than that under antibiotics, which is perhaps via inhibiting intestinal pathogens and
+
+
+
+
+
+
+
+thus reducing the nutrient consumption required for maintaining immunological activity  Thus, probio- tics as feed additive could bring  economic  benefits  in the industrial farming of broilers.
+Remarkably, using the control group as reference, we found that LP-8 accelerated the maturation of intestinal microbiota, whereas antibiotics delayed it. The conse- quence, at the late phase of the 42-day period, is the dis- tinct microbial functions of the gut microbiota. This might potentially explain the  growth-promoting  effects of probiotics observed above, as a mature gut microbiota should be beneficial to the proper growth and develop- ment of host animals. Therefore, it is possible that the structural and functional dynamics of intestinal micro- biota can be used as a signature to characterize, com- pare, and evaluate the feeding regimens in the poultry industry. One such example is IMMI, which can be used to quantitatively compare the speed of intestinal micro- biota maturity under different feed additives or diets.
+Notably, both antibiotic treatment and probiotic treat- ment exhibited positive effects on  growth-related  traits of the broilers; however, they had quite opposite effects on maturation of the intestinal microbiota: antibiotics delayed microbiota maturation, while probiotics acceler- ated the maturation. The concurrency of delayed micro- biota maturation and improved growth in the antibiotic- feeding group appeared to contradict an important role    of intestinal microbiota in growth. One  explanation  is that the observed enhancement in broiler growth in the antibiotic-feeding group is likely not a consequence of microbiota maturation but of the combination of three effects by the antibiotic-feeding regimen  here (which was characterized by regular, feed-based administration of very low dose of antibiotics): (i) suppression of the growth of indigenous gut bacteria, which results in more nutrients for chicken for greater weight gain ], (ii) in- hibition of the colonization of those potentially harmful, non-indigenous bacteria in the intestine, which reduces gastrointestinal infections  and (iii) suppression of host immune response, e.g., by inducing anti-oxidative and anti-inflammatory activity of the host, which avoids biological damage caused by free radicals 
+Finally, it was reported that probiotic Lactobacillus species might promote gut defense function by competi- tive exclusion of intestinal pathogens  or via activa- tion and enhancement of local cell-mediated immunity against certain enteric pathogens However, it is not yet clear how LP-8 here specifically promoted the  growth of the intestinal Lactobacillus spp. while also ex- hibited negative correlation with the 14 other bacterial genera, starting from the earliest phase of broiler devel- opment. Past studies have also observed that probiotic Lactobacillus strain feeding can greatly enhance the di- versity of Lactobacilli in the ileum of broilers ]. It
+
+
+is possible that the introduced Lactobacillus strains such as LP-8 produce lactic acid and short-chain fatty acids in the chicken intestine, which reduce the intestinal pH  value. The resulted more acidic environment (e.g., pH 4.5) prevents the growth of other intestinal bacteria such as Salmonella, E. coli, Campylobacter, and Clostridium, yet promotes the growth and diversity increase of Lactobacil- lus spp. in the chicken intestine [, ]. As the next step, we plan to test whether the beneficial effects of probiotics observed here are specific to particular probiotic strains, and to probe the molecular mechanisms underlying the impact of LP-8 introduction on intestinal microbiota. Nevertheless, our current study revealed remarkable difference in intestinal microbiota development between antibiotics and probiotics as broiler feed supplements. These findings support probiotics as an effective substitute for antibiotics as feed additive in the poultry industry, so as to reduce antibiotic residues from food animals and combat the spread of antibiotic resistance.
+
+Conclusions
+Probiotic feeding induced the highest level of growth per- formance and immunity response. The maturation of in- testinal microbiota was greatly accelerated by probiotic feeding, yet significantly retarded and eventually delayed by antibiotic feeding. Probiotic feeding might be an intes- tinal health-promoting attribute and may contribute to improved feed efficiency during the growth period. These findings support probiotics as an effective substitute for antibiotics as feed additive in the poultry industry, so as to reduce antibiotic residues from food animals and combat the spread of antibiotic resistance.
+
+Methods
+Study design
+A total of 270 one-day-old Cobb 500 broilers were ob- tained from the Inner Mongolia Academy of Agriculture and then randomly divided into three groups. Each group included 90 chickens in six replicates (15 in each replicate). The control group was fed the base diet. The antibiotic group was fed the base diet plus the antibi- otics, chlortetracycline and salinomycin, at 500 g/ton-of- feed each. The probiotic group was fed the base diet plus the probiotic strain L. plantarum strain IMAU10120 (LP-8) in the drinking water. The base diet, consisting mostly of corn and soybean meal, was provided by Inner Mongolia Guangye-Mufeng Biotechnology (Huhhot, China). LP-8 was originally isolated from traditional fer- mented dairy products of prairie herdsmen families in Inner Mongolia of China. The lyophilized P-8 was pro- vided by Beijing Sci-plus Biotech (Beijing, China) and was added to the drinking water for chicken at a final concentration of 2 x 106 CFU/ml.
+
+
+
+
+
+
+Assuming  a  daily  feed  intake  of  ~100  g  per  bird, 2 x 106 CFU LP-8 was selected as the per-feeding dose, at twice per day per bird, because the daily dose of pro- biotics for broiler was approximately 107~108 CFU/kg feed As it was not practical to enforce each bird to intake a defined dose of probiotics under the free eating mode, the probiotic feeding method was as below: at  each probiotic feeding, bacterial  freeze-dried  powder that  contained  2 x 106 CFU of  LP-8 was dissolved into 1 ml water and directly injected into the mouth of each broiler, once in the morning and once in the evening at each day To ensure dose accuracy, the concen- tration of live bacteria in the powder was verified based on culture-based counting. Moreover, to verify the purity of the probiotic preparation, 70 clones were randomly picked from a culture plate derived from the bacterial freeze-dried powder. Genomic DNA was extracted from each of the clone and 16S genes amplified via universal bacterial 16S PCR primer (27F: AGAGTTTGATC CTGGCTCAG; 1492R: GGTTACCTTGTTACGACTT)
+and sequenced using ABI 3730. All of the 70 clones were confirmed as Lactobacillus plantarum, which validated the purity of our probiotic preparation.
+This study was approved and carried out in  accordance with the guidelines for the care and use of laboratory animals by the Inner Mongolia Agricultural University of China. Each of the six replicates in each group was housed  in one  pen, and a total of 18 pens were housed in the same room at the Key Laboratory of Dairy Biotechnology and Bioengineering, Education Ministry of China. Chickens were provided free access to feed and water during the 42-day trial.
+Average daily gain (ADG) and average daily feed intake (ADFI) were monitored. All broiler chickens in each group were weighed individually at day 1, and then at each week during the full trial. The feed consumed for each pen was monitored on a weekly basis. ADG, ADFI, and feed conver- sion ratio (FCR; feed consumed/weight gain) were calcu- lated for the periods of 1-21, 22-42, and 1-42 days.
+
+Detection of serum IgG and fecal SIgA and measurement of immune organ index
+On day 14 and day 42 of the trial, two chickens from  each replicate of each group were sacrificed by bleeding from the jugular vein, and 5 ml of blood was collected. Serum was prepared and stored at -20 degC until IgG was quantified. Approximately 1 cm of the jejunum was re- moved and quickly frozen in liquid nitrogen and then stored at -70 degC for RNA isolation. Peyer's patches and another 1 cm of jejunum and cecal tonsils were removed and immediately fixed in 40% formaldehyde for immu- nohistochemistry analyses. Spleen and the remaining small intestine (approximately 10 cm from mid- duodenum to mid-ileum) and cecal tonsils were re- moved and washed with saline, and then placed in D-
+
+
+Hank's solution (Beijing Huamaike Biotech, Beijing, China) at 4 degC for future use. Intestinal content (15 ml) was collected and mixed with an equal volume of phos- phate buffered saline (PBS) (pH 7.14), and centrifuged at 800 g for 15 min. The supernatant was then stored at
+-20 degC until fecal SIgA was quantified. Serum total IgG and fecal SIgA were detected by enzyme-linked im- munosorbent assay (ELISA). Their concentrations were then calculated from the standard curves.
+On day 42, two chickens randomly selected from each replicate of each group were sacrificed. Thymus gland (on the right side) and bursal and spleen tissues were collected simultaneously and weighed for each chicken. The im- mune organ index (g/100 g) was calculated for each of the organs as WO/WB x 100, with WO being weight of the immune organ and WB weight of the chicken.
+
+Selection of time points for broiler fecal microbiota sampling
+In broiler farming, there are three phases of chicken develop- ment from birth to slaughter: starter phase (day 1 to day 14), grower phase (day 15 to day 28), and finishing phase (day 29 to day 42) , The broilers are sent to a slaughter house at day 42 (i.e., tracking microbiota beyond day 42 is thus practically meaningless); therefore, the state of gut microbiota at day 42 was designated as "full maturity". This does  not  rule out the possibility that under certain conditions, the microbiota can reach "full maturity" earlier  (or  later)  than  day 42. On the other hand, it was previously reported that composition of broiler ileum microbiota developed in a seg- mental manner, e.g., those at day 7~21 represent a relatively stable state while those at day 22~28 represent another rela- tively stable state [Therefore, we selected day 1, day 7, day 28, and day 42 as the four representative sampling  time points that correspond to the various segments of microbiota development before slaughter.
+
+DNA extraction and qPCR
+In each group, fecal samples were collected from the  same 12 chicks on day 7, day 28, and day 42 respectively, and fecal samples of 10 randomly picked chickens were also collected on the first day of the trial. Fecal samples were collected aseptically and sample protectant added quickly before any further experiments. Fecal DNA was extracted from 0.4 g of fecal sample using a modified protocol of the QIAamp Stool Mini Kit (Qiagen, Germany). DNA was eluted in ddH2O and stored at
+-20 degC until use. The qPCR (primers listed in Additional file  Table S6) were performed using a Step-OneTM Real-Time PCR System (software version 2.2.2) (Applied Biosystems, USA). Reactions were performed in 96-well plates with SYBR(r) Premix Ex TaqTM II (Takara, Japan). All PCR were performed in triplicate with a reaction vol- ume of 20 ml with 0.4 mM (final concentration) of each
+
+
+
+
+
+
+primer, a fixed amount of genomic DNA (100 ng),  and an appropriate amount of ddH2O. The fluorescent prod- uct was detected at the last step of each cycle. Standard curves for each qPCR assay were generated by plotting the threshold cycle (CT) values against target copy num- bers corresponding to serially diluted plasmid standards (Integrated DNA Technologies). The target copy numbers
+(T)   were   estimated   by   the   equation:    T    =    (D/ (PL x 660)) x 6.022 x 1,023,133, where D (g/l) and PL (in base pairs) were the plasmid DNA concentration and length, respectively. Each standard curve was generated from at least five 10-fold plasmid dilutions in triplicate.
+
+
+
+Sequencing and analysis of the 16S amplicons
+After DNA extraction from the broiler fecal samples, the V4-V5 region of the 16S rRNA genes were PCR-amplified with primers containing linker sequences (Forward: "GTACTCCTACGGGAGGCAGCA"; Reverse: "GTGGAC-
+TACHVGGGTWTCTAAT") and sequenced on 454 GS FLX+. For quality filtering, sequences  shorter than 400 bp or longer than 800 bp, as well as sequences containing fewer than two primer mismatches, uncorrectable barcodes, am- biguous bases, or homopolymer runs in excess of 8 bases, were removed using Parallel-QC [] and QIIME []. Then the sequences were checked for chimeras using UCHIME [] and assigned to operational taxonomic units (OTUs) using Parallel-META [, ] with a 97% threshold of pairwise identity, and then classified taxo- nomically using the Green genes reference database []. To standardize sequence counts across samples with un- even sampling, 2490 sequences were randomly selected per sample (rarefaction) and used as a basis to compare abundances of OTUs across samples.
+Alpha diversity was calculated by (i) observed OTUs,
+(ii) Shannon Index, (iii) Simpson Index, and (iv) Chao1 index. Distance matrices (beta diversity) between the samples were generated on the basis of weighted Meta- Storms algorithms and reported according to principal coordinate analysis (PCoA). The Meta-Storms scoring function is a phylogeny-based algorithm that quantita- tively evaluates the biological similarity/distance between microbiome samples on the OTU level, with high speed  It performs bottom-up calculation by the traversal  of 16S rRNA OTU phylogeny tree, considering both the OTUs' relative abundances and the phylogenetic dis- tances among OTUs, so that the beta diversity patterns    of microbiome samples can be precisely revealed. More- over, by normalizing for the copy  number of 16S rRNA in each species, the Meta-Storms algorithm exhibits a better performance than results without copy number consideration. For statistical analysis including unsuper- vised clustering, PCoA, alpha and beta diversity,
+
+
+taxonomic distribution, and Wilcoxon Test, the results were generated using Parallel-Meta 3.3 
+
+Modeling maturation process of gut microbiota using Random Forest algorithm
+Random Forest regression, with a rarefied taxonomy table as input data, was used to regress relative abun- dances of taxa in the temporal profiles of gut microbiota of the controls against their chronologic age, using de- fault parameters of the R implementation of the algorithm (R package "randomForest", ntree = 5000,  using default mtry of p/3 where p is the number of input 97%-identity taxa (features)). The Random Forest algo- rithm, due to its non-parametric assumptions, was ap- plied to detect both linear and nonlinear relationships between taxa and chronologic age, thereby identifying those taxa that are highly correlated with age. In the control group, the regression consistently explained over 55.8% of the variance related to chronologic age. Ranked lists of taxa in the order of "feature importance" as re- ported by Random Forests were determined over 100 it- erations of the algorithm. To estimate the minimal number of top ranking age-discriminatory taxa required for prediction, the "rfcv" function implemented in the "randomForest" package was applied over 100 iterations. The model was then applied to microbiota from the antibiotic group and the probiotic group. For the train- ing of Random Forest model, a smoothing spline func- tion was fitted between microbiota age and chronologic age of the host for the controls. "The microbiota age  when the curve reaches the plateau" was  defined as  100% maturity. The maturity index for each of the other two groups at a given time point was then calculated through the Random Forest model (using the control group as training dataset): the predict time point  was  used as Y-axis coordinate to represent the degree of ma- turity, while the actual time point as X-axis coordinate.
+
+Shotgun metagenome sequencing and analysis
+Fecal samples at day 42 were sequenced by Illumina HiSeq 2500. Raw datasets of PE read files were analyzed via Parallel-QC (v1.0) to remove low-quality base pairs and sequence adapters using these parameters: Sliding window of 4:20, Minlength of 100, MinPhred of 25, and Percentage of MinPhred of 80. The paired-end and singleton reads were assembled using SPAdes  v3.7.1. The open reading frames of the assembled scaffold se- quence were annotated using MetaGeneMark  rk/). Bowtie2 (v2.2.1) aligner was used to map the reads to the assembled scaf- fold. KEGG Orthology was assigned through KAAS s/). Kruskal Test was used to identify the differential KOs among the three different groups by the R script in Parallel-META
+
+
+
+
+
+(version 3.3). Then the differentially enriched pathways were identified based on reporter score from the  Z- scores of the individual KOs The Z-score for a KO is defined as below, where th-1 is the inverse normal cu- mulative distribution, PKOi is the adjusted P  value  for that KO:
+
+
+ZKOi
+
+1/4 th d1-PKOi Th
+
+The aggregated Z-score for a KEGG pathway is below, where k is the number of KOs involved in the pathway:
+
+
+Zpathway
+
+  1 
+1/4 pkffiffiffi
+
+
+
+KOi
+
+Then the background distribution of Zpathway was cor-
+
+rected by subtracting the mean (mk) and dividing by the
+(sk) of the aggregated Z-scores of 1000 sets of KOs chosen randomly from the whole metabolic KO  network:
+ Zpathway-mk 
+adjustedpathway	sk
+Zadjustedpathway was then used as the final reporter  score for evaluating the enrichment of specific pathways. A re- porter score of >=1.6 (90% confidence according to nor- mal distribution) was set as a detection threshold for significantly differentiating pathways.
+
+Co-occurrence network analysis
+The R package of "ccrepe" was used for calculating the Spearman's correlation coefficient. Cytoscape 3.30 was used for network building. The R package of "corroplot" was used for generating the heat maps. In each of the three groups, 16S amplicon sequencing data on day 7, day 28, and day 42 were first pooled together to create the global network patterns, and then separately ana- lyzed to illustrate the change of network density and net- work centralization.
+
+Availability of data and materials
+Datasets supporting the conclusions of this article are available in the NCBI-SRA repository under Project Ac- cession ID of PRJNA343678.
+
+Additional files
+
+
+
+
+Abbreviations
+ADFI: Average daily feed intake; ADG: Average daily gain; FCR: Feed conversion ratio; IgA: Immune globulin A; IgG: Immune globulin G; IMMI: Intestinal microbiota maturation index; PCA: Principle component analysis; SIgA: Secretory immune globulin A
+
+Acknowledgements
+We thank Mr. Qiangchuan Hou and Mr. Weiqiang Huang for technical assistance in the poultry breeding process.
+
+Funding
+This study was supported by the National Natural Science Foundation of China (No. 31430066).
+
+Availability of data and materials
+The metagenomic reads have been submitted to the NCBI-SRA database under accession number PRJNA343678.
+
+Authors' contributions
+HZ designed the experiments. PG and CM performed the experiments. ZS and XS analyzed the data. SZ and JX wrote the main manuscript. All authors read and approved the final manuscript.
+
+Ethics approval
+The study protocol was approved by the Ethical Committee of Inner Mongolia Agricultural University (Hohhot, China) and was permitted by the owners of sampled dairy farm. Every effort was made to minimize animal suffering.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+
+ 		published maps and institutional affiliations.
+
+Received: 20 September 2016 Accepted: 25 July 2017
+
+References
+Davies J, Davies D. Origins and Evolution of Antibiotic Resistance. Microbiol Mol Biol Rev. 2010;74(3):417-33.
+Barton MD. Antibiotic use in animal feed and its impact on human health. Nutr Res Rev. 2000;13(2):279-99.
+
+
+
+
+
+
+Claesson MJ, Jeffery IB, Conde S, Power SE, O'Connor EM, Cusack S, et al. Gut microbiota composition correlates with diet and health in the elderly. Nature. 2012;488(7410):178-84.
+Dethlefsen L, Huse S, Sogin ML, Relman DA. The pervasive effects of an antibiotic on the human gut microbiota, as revealed by deep 16S rRNA sequencing. PLoS Biol. 2008;6(11):2383-400.
+Wang HX, Wang B, Zhao Q, Zhao Y, Fu C, Feng X, et al. Antibiotic body burden of chinese school children: a multisite biomonitoring-based study. Environ Sci Technol. 2015;49(8):5070-9.
+Stanton TB. A call for antibiotic alternatives research. Trends Microbiol. 2013; 21(3):111-3.
+Jafari MT, Khayamian T, Shaer V, Zarei N. Determination of veterinary drug residues in chicken meat using corona discharge ion mobility spectrometry. Anal Chim Acta. 2007;581(1):147-53.
+Zhao L, Dong YH, Wang H. Residues of veterinary antibiotics in manures from feedlot livestock in eight provinces of China. Sci Total Environ. 2010; 408(5):1069-75.
+Bortolaia V, Gongora Espinosa C, Guardabassi L. Human health risks associated with antimicrobial-resistant enterococci and Staphylococcus aureus on poultry meat. Clin Microbiol. 2016;22(2):130-40.
+Allen HK, Levine UY, Looft T, Bandrick M, Casey TA. Treatment, promotion, commotion: antibiotic alternatives in food-producing animals. Trends Microbiol. 2013;21(3):114-9.
+Yang Y, Mchoct P. Dietary modulation of gut microflora in broiler chickens: a review of the role of six kinds of alternatives to in-feed antibiotics. World Poult Sci. 2009;65(1):97-114.
+Sopkova D, Hertelyova Z, Andrejcakova Z, Vlckova R, Gancarcikova S, Petrilla V, et al. The application of probiotics and flaxseed promotes metabolism of n-3 polyunsaturated fatty acids in pigs. J Anim Sci. 2016;44(1):1-6.
+Gaggia F, Mattarelli P, Biavati B. Probiotics and prebiotics in animal feeding for safe food production. Int J Food Microbiol. 2010;141:S15-28.
+Araujo RB, Faria DED, Faria Filho DED, Lima CGD, Trevisan RB, Souza KMRD, et al. Response surface models to predict broiler performance and applications for economic analysis. Braz J Poult Sci. 2008;10(2):131-8.
+Patterson JA, Burkholder KM. Application of prebiotics and probiotics in poultry production. Poultry Sci. 2003;82(4):627-31.
+Abudabos AM, Al-Batshan HA, Murshed MA. Effects of prebiotics and probiotics on the performance and bacterial colonization of broiler chickens. S Afr J Anim Sci. 2015;45(4):419.
+Wu R, Wang L, Wang J, Li H, Menghe B, Wu J, et al. Isolation and preliminary probiotic selection of lactobacilli from koumiss in Inner Mongolia. J Basic Microbiol. 2009;49(3):318-26.
+Wang LF, Zhang J, Guo Z, Kwok L, Ma C, Zhang W, et al. Effect of oral consumption of probiotic Lactobacillus planatarum P-8 on fecal microbiota, SIgA, SCFAs, and TBAs of adults of different ages. Nutrition. 2014;30(7-8):776-83.
+Wang LF, Liu C, Chen M, Ya T, Huang W, Gao P, et al. A novel Lactobacillus plantarum strain P-8 activates beneficial immune response of broiler chickens. Int Immunopharmacol. 2015;29(2):901-7.
+Wells JM. Immunomodulatory mechanisms of lactobacilli. Microb Cell Factories. 2011;10:15.
+Brandtzaeg P. Role of secretory antibodies in the defence against infections. Int J Med Microbiol. 2003;293(1):3-15.
+Smit LAM, Smit LA, van der Sman-de Beer F, Opstal-van Winden AW, Hooiveld M, Beekhuizen J, Wouters IM, et al. Q fever and pneumonia in an area with a high livestock density: a Large population-based study. PLoS One. 2012;7(6):7.
+Heckert RA, Estevez I, Russekcohen E, Pettitriley R. Effects of density and perch availability on the immune status of broilers. Poult Sci. 2002;81(4):451-7.
+Spinu M, Degen AA. Effect of cold stress on performance and immune-responses of bedouin and white leghorn hens. Br Poult Sci. 1993;34(1):177-85.
+Qin L, Cui H, Xi P, Jing F, Zuo Z, Deng J, et al. Intestinal IgA(+) Cell Numbers as well as IgA, IgG, and IgM Contents Correlate with Mucosal Humoral Immunity of Broilers During Supplementation with High Fluorine in the Diets. Biol Trace Elem Res. 2013;154(1):62-72.
+Coeuret V, Gueguen M, Vernoux JP. Numbers and strains of lactobacilli in some probiotic products. Int J Food Microbiol. 2004;97(2):147-56.
+Park KT, Oh M, Sim I, Nam J, Ji K, Han JK, et al. Effects of Lactobacillus- fermented ginger stem on Salmonella-infected broiler chicks. Biotechnol Bioprocess Eng. 2016;21(2):331-6.
+Peng Q, Zeng XF, Zhu JL, Wang S, Liu XT, Hou CL, et al. Effects of dietary Lactobacillus plantarum B1 on growth performance, intestinal
+
+
+microbiota, and short chain fatty acid profiles in broiler chickens. Poult Sci. 2016;95(4):893-900.
+Behnsen J, Deriu E, Sassonecorsi M, Raffatellu M. Probiotics:
+properties, examples, and specific applications. Cold Spring Harb Perspect Med. 2013;3(3):15.
+Lin J, Hunkapiller AA, Layton AC, Chang YJ, Robbins KR. Response of intestinal microbiota to antibiotic growth promoters in chickens. Foodborne Pathog Dis. 2013;10(4):331-7.
+Dibner JJ, Richards JD. Antibiotic growth promoters in agriculture: History and mode of action. Poult Sci. 2005;84(4):634-43.
+Thomke S. Mode of action of antibiotic growth promotants. Jpn Heart J. 1998;47(3):161-8.
+Kabploy K, Bunyapraphatsara N, Morales NP, Paraksa N. Effect of antibiotic growth promoters on anti-oxidative and anti-inflammatory activities in broiler chickens. J Vet Med. 2016;46(1):89-95.
+La Ragione RM, Narbad A, Gasson MJ, Woodward MJ. In vivo
+characterization of Lactobacillus johnsonii FI9785 for use as a defined competitive exclusion agent against bacterial pathogens in poultry. Lett Appl Microbiol. 2004;38(3):197-205.
+Hardy H, Harris J, Lyon E, Beal J, Foey AD. Probiotics, prebiotics and immunomodulation of gut mucosal defences: homeostasis and immunopathology. Nutrients. 2013;5(6):1869-912.
+Lan PTN, Binh LT, Benno Y. Impact of two probiotic Lactobacillus strains feeding on fecal lactobacilli and weight gains in chicken. J Gen Appl Microbiol. 2003;49(1):29-36.
+Nakphaichit M, Thanomwongwattana S, Phraephaisarn C, Sakamoto N, Keawsompong S, Nakayama J, et al. The effect of including Lactobacillus reuteri KUB-AC5 during post-hatch feeding on the growth and ileum microbiota of broiler chickens. Poult Sci. 2011;90(12):2753-65.
+Fuller R. The importance of Lactobacilli in maintaining normal microbial balance in the crop. Br Poult Sci. 1977;18(1):85-94.
+Mountzouris KC, Tsirtsikos P, Kalamara E, Nitsch S, Schatzmayr G, Fegeros K. Evaluation of the efficacy of a Probiotic containing Lactobacillus, Bifidobacterium, Enterococcus, and Pediococcus strains in promoting broiler performance and modulating cecal microflora composition and metabolic activities. Poult Sci. 2007;86(2):309-17.
+Timmerman HM, Veldman A, Van den Elsen E, Rombouts FM, Beynen AC. Mortality and growth performance of broilers given drinking water supplemented with chicken-specific probiotics. Poult Sci. 2006;85(8):1383-8.
+Pender CM, Kim S, Potter TD, Ritzi MM, Young M, Dalloul RA. Effects of in ovo supplementation of probiotics on performance and
+immunocompetence of broiler chicks to an Eimeria challenge. Benef Microbes. 2016;7(5):699-705.
+Mountzouris KC, Tsitrsikos P, Palamidi I, Arvaniti A, Mohnl M, Schatzmayr G, et al. Effects of probiotic inclusion levels in broiler nutrition on growth performance, nutrient digestibility, plasma immunoglobulins, and cecal microflora composition. Poult Sci. 2010;89(1):58-67.
+Wang JP, Yan L, Lee JH, Zhou TX, Kim IH. Effects of dietary delta- aminolevulinic acid and vitamin C on growth performance, immune organ weight and ferrum status in broiler chicks. Livest Sci. 2011;135(2-3):148-52.
+Zhu XY, Zhong T, Pandya Y, Joerger RD. 16S rRNA-based analysis of microbiota from the cecum of broiler chickens. Appl Environ Microbiol. 2002;68(1):124-37.
+Sekelja M, Rud I, Knutsen SH, Denstadli V, Westereng B, Naes T. Abrupt temporal fluctuations in the chicken fecal microbiota are explained by its gastrointestinal origin. Appl Environ Microbiol. 2012;78(8):2941-8.
+Zhou Q, Su XQ, Ning K. Assessment of quality control approaches for metagenomic data analysis. Sci Rep. 2014;4:6957.
+Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bushman FD, Costello EK, et al. QIIME allows analysis of high-throughput community sequencing data. Nat Methods. 2010;7(5):335-6.
+Edgar RC, Haas BJ, Clemente JC, Christopher Q, Rob K. UCHIME improves sensitivity and speed of chimera detection. Bioinformatics. 2011;27(16):2194-200.
+Su XQ, Pan W, Song B, Xu J, Ning K. Parallel-META 2.0: Enhanced metagenomic data analysis with functional annotation, high performance computing and advanced visualization. PLoS One. 2014;9(3):e89323.
+Jing GC, Jing G, Sun Z, Wang H, Gong Y, Huang S, Ning K, et al. Parallel- META 3: Comprehensive taxonomical and functional analysis platform for efficient comparison of microbial communities. Sci Rep. 2017;7:40371.
+McDonald D, Price MN, Goodrich J, Nawrocki EP, Desantis TZ, Probst A, et al. An improved Greengenes taxonomy with explicit ranks for ecological and evolutionary analyses of bacteria and archaea. ISME J. 2012;6(3):610-8.
+
+
+
+
+
+Su XQ, Xu J, Ning K. Meta-Storms: efficient search for similar microbial communities based on a novel indexing scheme and similarity score
+for metagenomic data. Bioinformatics. 2012;28(19):2493-501.
+Feng Q, Liang S, Jia H, Stadlmayr A, Tang L, et al. Gut microbiome development along the colorectal adenoma-carcinoma sequence. Nat Commun. 2015;6:6528.

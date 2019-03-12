@@ -1,0 +1,335 @@
+
+
+doi:10.1111/jgh.13806
+
+GASTROENTEROLOGY
+Fecal microbiota signatures of adult patients with different types of short bowel syndrome
+Yuhua Huang,* Feilong Guo,* Yousheng Li,*,+ Jian Wang* and Jieshou Li*
+*Intestinal Rehabilitation and Transplant Center, Jinling Hospital, School of Medicine, Nanjing University, Nanjing, and +Department of general surgery, Shanghai Ninth People's Hospital, Shanghai JiaoTong University School of Medicine, Shanghai, China
+
+
+
+Key words
+adult patient, fecal microbiota, Lactobacillus, Proteobacteria, short bowel syndrome.
+
+Accepted for publication 14 April 2017.
+
+Correspondence
+Yousheng Li, Intestinal Rehabilitation and Transplant Center, Jinling Hospital, School of Medicine, Nanjing University, 305 East Zhongshan Road, Nanjing 210002, China.
+Email: 
+
+Financial support: This work was supported by the National Natural Science Foundation of China (grant number: 81270945).
+Declaration of conflict of interest: The authors declare that there is no conflict of interest.
+
+Abstract
+Background and Aim: Short bowel syndrome (SBS) is a common cause of intestinal failure and can be divided into three types depending on intestinal anatomy. Gut dysbiosis has been observed in pediatric SBS patients and is associated with impaired outcome. Little is known about the changes in gut microbiota of adult SBS patients. Therefore, we aim to characterize the fecal microbiota of adult patients with different types of SBS.
+Methods: Fifteen fecal samples from healthy controls and adult patients with type II or type III SBS were collected (five in each group). Fecal microbial compositions were determined by high-throughput sequencing, and functional potential was predicted by Phylogenetic Investigation of Communities by Reconstruction of Unobserved States.
+Results: Bacterial a-diversity significantly decreased in SBS patients and positively correlated to the remaining small bowel length. SBS II patients were enriched with Proteobacteria but deficient in Firmicutes and Bacteroidetes. Whereas Lactobacillus and Prevotella dominated the microbiomes of SBS III patients, commensal bacteria from Lachnospiraceae, Ruminococcaceae, and Bacteroidaceae declined in SBS patients. The parenteral nutrition duration of SBS patients was positively related to the proportion of Enterobacteriaceae but negatively related to Lactobacillus. Functional pathways of citrate cycle and branched-chain and aromatic amino acid biosynthesis were abundant in SBS II patients, while functional profiles of pyrimidine and purine metabolism were dominant in SBS III patients.
+Conclusions: Short bowel syndrome patients have a marked intestinal dysbiosis with type II SBS characterized by Proteobacteria and type III SBS featured by Lactobacillus, resulting in altered functional profiles of fecal microbiomes.
+
+
+
+
+
+
+Introduction
+Short bowel syndrome (SBS) has been defined as loss of bowel or enterocyte mass from surgical resection, congenital defects, or disease.1 In adults, most cases occur as a consequence of massive small bowel resection due to postoperative complications, mesenteric vascular disease, Crohn's disease, and trauma.2 The remaining small intestine lacks sufficient surface area and functional capacity to fully digest and absorb nutrients, resulting in frequent dependency on parenteral nutrition (PN).3 Based on the anatomy of the remaining intestine, SBS is divided into three categories, end jejunostomy (type I), jejunocolic anastomosis (type II), and jejunoileal anastomosis (type III).4 The greatest difference between type II and III SBS is that the former one does not have ileocecal valve (ICV) and intact colon, which seem to have important impacts on gut microbiota, intestinal adaption, and clinical symptoms.5,6
+The human intestine is colonized by diverse microbes that encode at least 150-fold more genes than the human genome and
+
+
+play a fundamental role in the well-being of their host.7,8 Commensal intestinal microbes are involved in fermentation and absorption of undigested carbohydrate, normal development of immune system, and promotion of intestinal mucosal growth and integrity.9 Several studies have shown that the disruption of intestinal microbiota leads to delayed enteral diet, prolonged PN dependence, poor growth, and predisposition to liver disease in pediatric SBS patients.10-13 Thus, determination of the changes  in gut microbiota of SBS patients may point to new therapies that ameliorate abdominal symptoms and contribute to intestinal adaptation.
+Previous attempts at mapping the intestinal microbiota  of  adult SBS patients usually relied on culture-dependent methods or temperature gradient gel electrophoresis.14,15 Yet advances in sequencing technologies coupled with new bioinformatic developments have allowed us to detect and classify numerous uncultured microorganisms.16,17 Besides, little is known  about the characteristics of intestinal microbiota of adult patients with different types of SBS. As a result, in this study, 16S
+
+
+
+ribosomal RNA (rRNA) gene sequencing was performed to identify the fecal microbiota signatures of adult patients with different types of SBS; in  addition, Phylogenetic Investigation  of Communities by Reconstruction of Unobserved States (PICRUSt) was used to predict the functional profiles of fecal microbiomes.
+
+
+Methods
+Patients and healthy controls.  We performed a prospective case-control study. Adult SBS patients were recruited from Intestinal Rehabilitation and Transplant Center of Jinling Hospital. The whole study procedures were in accordance with the ethical guideline of the 1975 Declaration of Helsinki. The Institutional Review Board of Jinling Hospital approved the study. All patients and healthy controls enrolled provided written informed consent before commencing this study.
+A total of 10 adult SBS patients (five of type II and five of type
+III) were finally enrolled. Inclusion criteria were the following: (i) remaining small intestine <200 cm; (ii) diagnosis of SBS resulting from surgical resection for at least 6 months; (iii) intestinal remnant in continuity without stoma; and (iv) normal remaining colon confirmed by colonoscopy. Exclusion criteria included the following: (i) functional short bowel (e.g. chronic intestinal pseudo-obstruction); (ii) organ failure other than intestine; (iii) sepsis or bacteremia; (iv) treatment with antibiotics, probiotics, or prebiotics within 8 weeks preceding sample collection; (v) administration of recombined growth hormone within 12 months before the study; (vi) known bacterial or viral causes of diarrhea; and  (vii)  older  than  80  or  younger  than  18 years.
+Healthy controls were recruited from outpatients coming for routine medical examinations. Exclusion criteria included the following: (i) gastrointestinal or systemic diseases; (ii) history of abdominal surgery; (iii) administration of antimicrobial agents, probiotics, or other drugs within 8 weeks before fecal sampling; and (iv) older than 80 or younger than 18 years. A total of five healthy individuals who volunteered to provide fecal specimens were included in the final analysis.
+
+Fecal sample collection and DNA extraction. Fecal samples were provided by participants in the morning, immediately transferred into sterile cup, flash-frozen with liquid nitrogen, and stored at 80 degC until analysis. Genomic DNA was extracted from each fecal sample using a commercial DNA extraction kit (QIAamp DNA Stool Mini Kit; Qiagen, Valencia, CA, USA) according to the manufacturer's instructions with minor modifications.
+
+16S rRNA gene sequencing  and  bioinformatic  analysis. Individual sequencing libraries were constructed by amplifying the V4-V5 region of the 16S rRNA gene using the 515F (50-GTGCCAGCMGCCGCGGTAA-30) and 926R (50-
+CCGTCAATTCMTTTGAGTTT-30) primers with overhang adapters. Following initial amplification, a second polymerase chain reaction was performed to attach Illumina adapters and
+
+barcodes allowing each sequence to be identified uniquely. After purification and quantification, barcoded 16S amplicons were pooled and paired-end (2 x 300 bp) sequenced on the MiSeq (Illumina, San Diego, CA, USA).
+Raw sequences were demultiplexed and assigned to corresponding samples by barcodes. The reads were filtered using Trimmomatic (V.0.36, index.php? page=trimmomatic)18 with the parameters of SLIDINGWINDOW: 50:20 and MINLEN: 50. The paired-end reads with a >=10-bp overlap and no mismatches were merged using FLASH program ash).19 Further quality trimming of the merged reads was performed with Mothur (V.1.33.3, 20 based on the following criteria: (i) read lengths exceeding 200 bp; (ii) no ambiguous bases; and (iii) homologous bases no more than 8. The trimmed sequences were chimera filtered and clustered into operational taxonomical units (OTUs) with a threshold of 97% using UPARSE algorithm 21 Representative sequences in each OTU were identified taxonomically against SILVA 123 database 22 at 80% confidence using Mothur.
+Before further analysis, each sequence library was randomly normalized to the minimum number of sequences among samples. Bacterial a-diversity indices (Chao, Shannon, and Simpson) were calculated by sampling-based OTUs using Mothur. Heatmap of genus-level bacterial OTUs contributing to different types of subjects was built via program R (  A polygenetic tree was generated by FastTree package (V2.1.3,  fasttree/), and principle coordinate analysis based on unweighted Unifrac distances was used to evaluate b-diversity across all samples.
+The PICRUSt package was used to predict bacterial functions.23 Briefly, OTU picking against the Greengenes database (V.13.5) was performed with Mothur, and a BIOM table compatible with the PICRUSt program was generated. Metagenome prediction was conducted using the OTU table after normalizing for 16S copy number. The predicted functional gene was annotated by KEGG pathway.24 Differences in the abundance of level 3 functional pathways were explored by liner discriminant analysis effect size method25 with an a value for Kruskal-Wallis test of
+0.05 and a threshold on the log liner discriminant analysis score of 3.0.
+The sequencing data for this study are available in the NCBI Sequence Read Archive under accession number SRP095174.
+
+
+Statistical analysis.  Data were expressed as mean +- SEM or median with interquartile range as appropriate. Clinical variables were analyzed by Fisher's exact test and Mann- Whitney or Kruskal-Wallis tests. Comparisons of bacterial a- diversity were performed with one-way ANOVA followed by Bonferroni's multiple comparison test. Differences in relative abundance of bacterial taxa and functional pathways were evaluated with Kruskal-Wallis test followed by Tukey's post hoc test. Correlations between variables were computed using Spearman rank correlation analysis. Statistical analyses were carried out on GraphPad Prism version 6 (GraphPad software, La Jolla, CA, USA).
+
+
+
+Results
+Characteristics  of  healthy  controls  and  short  bowel syndrome patients. One male patient with type II SBS received serial transverse enteroplasty procedure about 9 months before sample collection. Two SBS III patients had weaned off PN, and all patients relied on enteral nutrition. The proportions of macronutrients taken orally were comparable between the two SBS groups. Levels of serum albumin were significantly lower in SBS patients than in healthy controls (P = 0.008), with four SBS II patients and three SBS III patients being off the normal limit (35 g/L). No patient showed any evidence of inflammation or liver dysfunction. Additional clinical characteristics were listed in Table 1.
+
+
+Bacterial a-diversity and  b-diversity  of  fecal  microbiota. Fifteen fecal samples were finally sequenced, producing between 36 389 and 41 721 high-quality sequences. A total of 1008 OTUs were identified across all samples after normalization, with an average number of 94 +- 8, 60 +- 4, and 48 +- 4 in the control, SBS II, and SBS III groups, respectively.
+
+Compared with healthy controls, SBS patients had a significant decrease in microbial a-diversity as determined by Chao  index (P = 0.002, SBS III), Shannon index (P = 0.001, SBS II;
+P < 0.001, SBS III), and Simpson index (P = 0.03, SBS II;    P = 0.002, SBS III). However, no differences in bacterial a-diversity were detected between the two types of SBS patients (Fig. 1a). Furthermore, both the Shannon and Simpson indices positively correlated to the length of remaining small intestine in SBS patients (Fig. 1b), with the correlation coefficients of 0.733 (P = 0.02) and 0.891 (P = 0.001).
+On unweighted UniFrac principle coordinate analysis plots, microbial communities from the same group clustered uniformly (Fig. 2). Although one sample of SBS II group seemed to overlap with healthy controls, differences among the three groups were statistically significant (P = 0.0001).
+
+Alterations  in  fecal  microbial   compositions   of adult short bowel syndrome patients. The fecal microbial compositions differed significantly at phylum and family levels among the three groups (Table 2). At phylum level, Firmicutes dominated the fecal microbiota of healthy controls
+
+
+Table 1 Clinical characteristics of healthy controls and adult patients with type II and III SBS
+
+Data were presented as median (interquartile range).
++Length of remaining colon was expressed as percentage of usual length.
+ALT, alanine aminotransferase; AST, aspartate aminotransferase; BMI, body mass index; CRP, C-reactive protein; g-GT, g-glutamyltransferase; PN, parenteral nutrition; SBS, short bowel syndrome; STEP, serial transverse enteroplasty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1 Fecal bacterial a-diversity in healthy controls and patients with type II and III short bowel syndrome (SBS). (a) Chao, Shannon, and Simpson indices calculated after normalization of each sequence library. Data were expressed as mean +- SEM. *P < 0.05, **P < 0.01, ***P < 0.001 compared with healthy controls. (b) Correlations between the length of remaining small intestine and Shannon and Simpson indices in SBS patients, analyzed by Spearman rank correlation. , control; , SBS II; , SBS III. [Color figure can be viewed at 
+
+
+followed by Bacteroidetes, yet these two bacterial taxa significantly decreased  in  SBS  II  patients  (P  =  0.03  and P = 0.002). Conversely, the proportions of Proteobacteria dramatically increased in the SBS II group compared with the control and SBS III groups (P = 0.005 and P = 0.001). Besides, the relative abundance of Bacteroidetes was significantly greater in the SBS III group than in the control and SBS II groups   (P = 0.005 and P < 0.001).
+At family level, the majority of changes were observed within Firmicutes. The SBS III patients had strikingly greater proportional abundance  of  Lactobacillaceae  (P  <  0.001  and  P    =    0.001),    whereas    significantly     lower     abundance of Streptococcaceae (P = 0.005 and P = 0.001), than healthy controls and SBS II patients. Both SBS II and III groups had higher   proportions   of   Enterococcaceae   (P   =   0.005   and   P = 0.008) and lower proportions of Lachnospiraceae (P = 0.003 and P < 0.001), Ruminococcaceae (P = 0.001 and P < 0.001), and Peptostreptococcaceae (P = 0.049 and P = 0.026) than the control group. Erysipelotrichaceae were nearly undetectable in SBS patients. Within Bacteroidetes, there was a significant decrease in Bacteroidaceae in the SBS II and III groups compared with the control group (P = 0.005 and P < 0.001), while Prevotellaceae significantly increased in the SBS III group compared with the control and SBS II groups (P < 0.001 and      P = 0.001). SBS II patients had strikingly increased proportions
+
+of Enterobacteriaceae compared with healthy controls and SBS III patients (P = 0.005 and P = 0.001), which contributed mostly to the prevalence of Proteobacteria.
+
+
+Genus-level		microbes	distinguishing	healthy controls and short bowel  syndrome  patients.  Genus-level bacterial taxa distinguishing healthy controls and the two types of SBS patients were clustered by heatmap (Fig. 3). Commensal	bacterial	genera,		including	Blautia,	Dorea, Lachnospira, Anaerostipes, Fusicatenibacter, Roseburia, and Pseudobutyrivibrio from Lachnospiraceae family; Flavonifractor and Faecalibacterium from Ruminococcaceae family; and Bacteroides from Bacteroidaceae family, were abundant in healthy controls but depleted in SBS patients, suggesting that these genera are indicative of healthy state relative to SBS. In contrast, genera of Proteus, Klebsiella, Streptococcus, and Megasphaera were dominant in SBS II patients, while Lactobacillus and Prevotella were prevalent in SBS III patients.
+Further Spearman rank correlation analysis showed that PN duration positively correlated to the relative abundance of Enterobacteriaceae (r = 0.701, P = 0.028, Fig. 4a) but negatively correlated to the relative abundance of Lactobacillus (r = 0.659, P = 0.041, Fig. 4b). However, no significant correlation was detected between PN duration and fecal microbial diversity.
+
+
+proportions of functional categories involved in carbohydrate, amino acids, and energy metabolism, while SBS II patients had higher proportions of categories associated with glycan metabolism, membrane transport, signal transduction, infectious disease, and cancer. Besides, functions of nucleotide and lipid metabolism and enzyme families dominated the SBS III patients (Fig. 5a).
+Within carbohydrate metabolism pathways, the control group was characterized by starch and sucrose metabolism, pentose phosphate pathway, and glycolysis and gluconeogenesis, whereas the SBS II group was characterized by citrate cycle and glyoxylate metabolism. Furthermore, pathways responsible for branched- chain and aromatic amino acid biosynthesis and lipopolysaccharide (LPS) biosynthesis were dominant in SBS II patients, while pathways of glycosyltransferase, arachidonic acid metabolism, and pyrimidine and purine metabolism were enriched in SBS III patients. Additionally, methane metabolism and oxidative phosphorylation pathways within energy category were abundant in healthy controls  but  depleted  in  SBS  patients  (Fig. 5b).
+
+
+
+Figure 2 Fecal bacterial b-diversity of principal coordinates analysis based on unweighted UniFrac distances. The significance of separation was detected by permutational multivariate analysis of variance. , healthy controls; , patients with type II short bowel  syndrome;  , patients with type III short bowel syndrome. [Color figure can be  viewed at 
+
+
+Differentially   enriched    functional    pathways among healthy controls and short bowel syndrome patients. Distinct differences in the functional potential of fecal microbiomes predicted by PICRUSt were found among the three groups. At KEGG level 2, healthy controls had higher
+
+
+Discussion
+This study provides a comprehensive description of fecal microbiota of adult SBS patients, demonstrating that massive small bowel resection can lead to severe intestinal dysbiosis and patients with different types of SBS exhibit different microbial signatures. However, the sample size was relative small, which was mainly due to the rarity of SBS, of which the estimated incidence is three per million,2 and strict inclusion criteria as patients receiving antibiotics or probiotics, who account for the majority of SBS patients, were excluded. Therefore, the findings of this work are suggestive and need confirmation by future multicenter case-control studies.
+
+
+
+Table 2 Relative abundance of bacterial phyla and families of fecal samples from healthy controls and adult patients with type II and III SBS
+
+
+Bacterial Taxa	Healthy controls
+(n = 5)
+
+
+Type II SBS patients (n = 5)
+
+
+Type III SBS patients (n = 5)
+
+
+*P < 0.05; **P < 0.01; ***P < 0.001 compared with healthy controls;
++P < 0.05; ++P < 0.01; +++P < 0.001 compared with type III SBS patients.
+Data were presented as percentage of the total sequences, median (interquartile range). SBS, short bowel syndrome.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3 Heatmap of genus-level microbes that significantly differed among healthy controls and patients with type II and III short bowel syndrome (SBS) analyzed by Kruskal-Wallis test. The colored squares of each row were scaled to represent the relative ratios of the genera among 15 individuals. [Color figure can be viewed at ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4 Correlations between specific microbes and parenteral nutrition (PN) duration in patients with short bowel syndrome, analyzed by Spearman rank correlation. (a) Relative abundance of Enterobacteriaceae. (b) Relative abundance of Lactobacillus.
+
+
+Because dietary interventions can influence the structure of gut microbiota,26 the oral intake of macronutrients was monitored in SBS patients. We found that the nutrient repartition was comparable between two SBS groups and was similar to that of healthy controls who were on regular diets.26 Besides, no correlation was detected between nutrients and microbial compositions (data not shown), whereas bacterial a-diversity significantly decreased in SBS patients and correlated to the remaining small bowel length. Thus, in this study, the diverse fecal microbial communities among the three groups are most likely due to the anatomical and physiological changes of intestine. Massive small bowel resection causes altered intestinal luminal environment, such as acidic pH, oxygen enrichment, and enterohepatic circulation,27,28 which subsequently changes the selective pressures and disrupts microbial balance. On
+
+the other hand, given that ICV can control the passage of ileal contents into the caecum29 and colon can promote absorptive capacity, the existence of ICV and intact colon in type III but not type II SBS may contribute to the distinct microbial features between the two types of SBS patients by creating different intestinal microenvironment. Alternatively, severe gut dysbiosis also reflects the pathological conditions of patients' intestine as impaired mucosal innate immunity and loss of normal dominant bacteria. Furthermore, the reduction of bacterial diversity was associated with colonic pro-inflammatory responses,30 indicating that dysbiotic gut microbiota may negatively impact the outcome of SBS patients.
+Proteobacteria account for a very small proportion in healthy intestine31 and contain lots of pathogenic genera, among which
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5 Functional metagenomic pathways of fecal microbiomes predicted by Phylogenetic Investigation of Communities by Reconstruction of Unobserved States. (a) Differences in the relative abundance of level 2 KEGG pathways among healthy controls and patients with type II and III short bowel syndrome (SBS), analyzed by Kruskal-Wallis test. The box plots represented median and interquartile range, and the whiskers indicated the 10th and 90th percentiles. (b) Liner discriminant analysis (LDA) effect size analysis showing level 3 KEGG pathways of metabolism that were significantly differentially enriched among healthy controls and patients with type II and III SBS. Pathways with an LDA score >3.0 and a P-value of Kruskal-Wallis test <0.5 were plotted. LPS, lipopolysaccharide. , control; , SBS II; , SBS III. [Color figure can be viewed at 
+
+
+Proteus and Klebsiella were abundant in SBS II patients in our study. As species from Proteobacteria can produce LPS,32 which is consistent with the enrichment of pathway responsible for LPS biosynthesis in SBS II patients, overgrowth of these microorganisms increases the risk of intestinal barrier dysfunction
+
+and mucosal inflammation and consequently leads to bacterial translocation, bloodstream infection, and delayed intestinal adaption.33-35 In addition, studies of children with intestinal failure demonstrated that Proteobacteria were strongly associated with PN dependence and liver steatosis.11,12 We also found that
+
+
+
+greater proportional abundance of Enterobacteriaceae, family belonging to Proteobacteria, correlated with longer PN duration. These partly explain the phenomenon that SBS II patients are generally difficult to wean off PN and have a higher incidence   of live injury and poorer outcome than SBS III patients.
+Members of Lactobacillus are more commonly seen in small intestine of healthy individuals for their functions of fermenting unabsorbed carbohydrate and energy harvest.36,37 Interestingly, we found that SBS III patients had a strikingly higher proportion of Lactobacillus in fecal microbiota and dominance of Lactobacillus was associated with shorter PN duration. Previous studies showed that Lactobacillus were enriched in SBS patients who had weaned off PN11,38 but depleted in SBS children with poor growth.13 Moreover, SBS III patients relatively have a quicker intestinal adaption and better clinical outcome. Hence, we suppose that the Lactobacillus-prevalent intestinal microbiomes of SBS III patients probably compensate for damaged intestinal function and favor gut adaption. Nevertheless, overload of Lactobacillus in SBS patients can also be deleterious. Their competition inhibits the implantation of other bacteria,  such as the Clostridium clusters,14 and worsens microbial imbalance. Additionally, capacity of certain Lactobacillus  species to produce D-lactic acid exposes the SBS patients to a high risk of D-lactic acidosis.39 Lactobacillus have also been linked to diarrheal symptoms in pediatric SBS patients.10 Collectively, the roles of Lactobacillus in SBS patients are complicated and variable.
+Another important change in fecal microbiota of adult SBS patients was the depletion of genera from Lachnospiraceae, Ruminococcaceae, and Bacteroidaceae. The benefit of these commensal anaerobes is known as being capable of producing short-chain fatty acids (SCFAs),40 which can provide energy to host, nourish intestinal epithelial cells, promote sodium absorption, and modulate colonic pH.41,42 SCFAs have also been highlighted in enhancing the function of colonic regulatory T cells, which are essential in dampening intestinal inflammation.43 Therefore, deficiency in these healthy-promising microbes can result in a decline of SCFAs production and ultimately cause impaired mucosal function, poor water-electrolyte absorption, and increased gut inflammation.
+Relative to those of healthy controls, the alterations in functional profiles of carbohydrate and amino acid metabolism of SBS II patients were in accordance with the depletion of anaerobic Firmicutes and prevalence of facultative anaerobic Proteobacteria.13,44 Particularly, bacterial pathways of citrate cycle and branched-chain and aromatic amino acid biosynthesis have been identified as biomarkers for SBS poor growers.13A preclinical study demonstrated that dietary supplementation with the pyrimidine precursor orotate and uracil stimulated jejunal adaptive growth in SBS rats.45 As a result, the enhanced pyrimidine and purine metabolism in SBS III patients may be related to a better intestinal adaption. Additionally, the reduction of pathways responsible for methane metabolism and oxidative phosphorylation in SBS patients suggests insufficient energy harvest and poor health status.46
+We distinguished the fecal microbiota signatures of adult patients with type II and type III SBS. The former is characterized by Gram-negative Proteobacteria, while the latter is featured by Gram-positive Lactobacillus. This gives us a primary guidance
+
+in managing different types of SBS patients, especially in choosing the targeted instead of broad-spectrum antibiotics to treat bacterial overgrowth, which helps avoid reducing bacterial diversity and suppressing normal resident microbes.47 In addition, administration of probiotics is another therapeutic choice for SBS patients. However, the existing commercial probiotics are not SBS specific and their effects are considerably affected by different host phenotypes.48 Thus, species from the genus identified to favor healthy state in this study may be used as potential probiotic candidates to reestablish intestinal microbiota balance in adult SBS patients.
+In summary, there are pronounced differences in the compositions and functions of fecal microbiomes not only between adult SBS patients and healthy controls but also within different SBS types. Through developing new clinical strategies, we may benefit from the findings to better treat adult SBS patients. Future studies using shotgun metagenomic sequencing and enrolling larger SBS populations are needed to provide a wider perspective on clinical management.
+
+
+References
+Carroll RE, Benedetti E, Schowalter JP, Buchman AL. Management and complications of short bowel syndrome: an updated review. Curr. Gastroenterol. Rep. 2016; 18: 40.
+Thompson JS, Rochling FA, Weseman RA, Mercer DF. Current management of short bowel syndrome. Curr. Probl. Surg. 2012; 49: 52-115.
+Till H, Castellani C, Moissl-Eichinger C, Gorkiewicz G, Singer G. Disruptions of the intestinal microbiome in necrotizing enterocolitis, short bowel syndrome, and Hirschsprung's associated enterocolitis. Front. Microbiol. 2015; 6: 1154.
+Pironi L, Arends J, Bozzetti F et al. ESPEN guidelines on chronic intestinal failure in adults. Clin. Nutr. 2016; 35: 247-307.
+Devine AA, Gonzalez A, Speck KE et al. Impact of ileocecal resection and concomitant antibiotics on the microbiome of the murine jejunum and colon. PLoS One 2013; 8: e73140.
+Klek S, Forbes A, Gabe S et al. Management of acute intestinal failure: A position paper from the European Society for Clinical Nutrition and Metabolism (ESPEN) Special Interest Group. Clin. Nutr. 2016; 35: 1209-18.
+Degirolamo C, Rainaldi S, Bovenga F, Murzilli S, Moschetta A. Microbiota modification with probiotics induces hepatic bile acid synthesis via downregulation of the Fxr-Fgf15 axis in mice. Cell Rep. 2014; 7: 12-8.
+Clemente JC, Ursell LK, Parfrey LW, Knight R. The impact of the gut microbiota on human health: an integrative view. Cell 2012; 148: 1258-70.
+Hollister EB, Gao C, Versalovic J. Compositional and functional features of the gastrointestinal microbiome and their effects on human health. Gastroenterology 2014; 146: 1449-58.
+Davidovics ZH, Carter BA, Luna RA, Hollister EB, Shulman RJ, Versalovic J. The fecal microbiome in pediatric patients with short bowel syndrome. JPEN J. Parenter. Enteral Nutr. 2016; 40: 1106-13.
+Korpela K, Mutanen A, Salonen A, Savilahti E, de Vos WM, Pakarinen MP. Intestinal microbiota signatures associated with histological liver steatosis in pediatric-onset intestinal failure. JPEN J. Parenter. Enteral Nutr. 2017; 41: 238-48.
+Engstrand Lilja H, Wefer H, Nystrom N, Finkel Y, Engstrand L. Intestinal dysbiosis in children with short bowel syndrome is associated with impaired outcome. Microbiome 2015; 3: 18.
+
+
+
+Piper HG, Fan D, Coughlin LA et al. Severe gut microbiota dysbiosis is associated with poor growth in patients with short bowel syndrome. JPEN J. Parenter. Enteral Nutr. 2016 
+Joly F, Mayeur C, Bruneau A et al. Drastic changes in fecal and mucosa-associated microbiota in adult patients with short bowel syndrome. Biochimie 2010; 92: 753-61.
+Boccia S, Torre I, Santarpia L, Iervolino C, Del Piano C, Puggina A. Intestinal microbiota in adult patients with short bowel syndrome: preliminary results from a pilot study. Clin. Nutr. 2016 
+Methe BA, Nelson KE, Pop M et al. A framework for human microbiome research. Nature 2012; 486: 215-21.
+Lynch SV, Pedersen O. The human intestinal microbiome in health and
+disease. N. Engl. J. Med. 2016; 375: 2369-79.
+Bolger AM, Lohse M, Usadel B. Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics 2014; 30: 2114-20.
+Magoc T, Salzberg SL. FLASH: fast length adjustment of short reads to improve genome assemblies. Bioinformatics 2011; 27: 2957-63.
+Schloss PD, Westcott SL, Ryabin T et al. Introducing mothur: open- source, platform-independent, community-supported software for describing and comparing microbial communities. Appl. Environ.
+Microbiol. 2009; 75: 7537-41.
+Edgar RC. UPARSE: highly accurate OTUOTUOTU sequences from microbial amplicon reads. Nat. Methods 2013; 10: 996-8.
+Quast C, Pruesse E, Yilmaz P et al. The SILVA ribosomal RNA gene database project: improved data processing and web-based tools.
+Nucleic Acids Res. 2013; 41: 590-6.
+Langille MG, Zaneveld J, Caporaso JG et al. Predictive functional profiling of microbial communities using 16S rRNA marker gene sequences. Nat. Biotechnol. 2013; 31: 814-21.
+Kanehisa M, Goto S, Sato Y, Furumichi M, Tanabe M. KEGG for integration and interpretation of large-scale molecular data sets.
+Nucleic Acids Res. 2012; 40: D109-D114.
+Segata N, Izard J, Waldron L et al. Metagenomic biomarker discovery and explanation. Genome Biol. 2011; 12: R60.
+David LA, Maurice CF, Carmody RN et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature 2014; 505: 559-63.
+Duncan SH, Louis P, Thomson JM, Flint HJ. The role of determining the species composition of the human colonic microbiota. Environ.
+Microbiol. 2009; 11: 2112-22.
+Pereira-Fantini PM, Bines JE, Lapthorne S et al. Short bowel syndrome (SBS)-associated alterations within the gut-liver axis evolve early and persist long-term in the piglet model of short bowel syndrome.
+J. Gastroenterol. Hepatol. 2016; 31: 1946-55.
+Phillips SF, Quigley EM, Kumar D, Kamath PS. Motility of the ileocolonic junction. Gut 1988; 29: 390-406.
+Lapthorne S, Pereira-Fantini PM, Fouhy F et al. Gut microbial diversity is reduced and is associated with colonic inflammation in a piglet model of short bowel syndrome. Gut Microbes 2013; 4: 212-21.
+Huttenhower C, Gevers D, Knight R et al. Structure, function and diversity of the healthy human microbiome. Nature 2012; 486: 207-14.
+Kostic AD, Xavier RJ, Gevers D. The microbiome in inflammatory bowel disease: current status and future ahead. Gastroenterology 2014; 146: 1489-99.
+
+Demehri FR, Barrett M, Ralls MW, Miyasaka EA, Feng Y, Teitelbaum DH. Intestinal epithelial cell apoptosis and loss of barrier function in the setting of altered microbiota with enteral nutrient deprivation.
+Front. Cell. Infect. Microbiol. 2013; 3: 105.
+Cole CR, Frem JC, Schmotzer B et al. The rate of bloodstream infection is high in infants with short bowel syndrome: relationship with small bowel bacterial overgrowth, enteral feeding, and inflammatory and immune response. J. Pediatr. 2010; 156: 941-7.
+Cole CR, Ziegler TR. Small bowel bacterial overgrowth: a negative factor in gut adaptation in patients with SBS. Curr. Gastroenterol. Rep. 2007; 9: 456-62.
+Frank DN, St Amand AL, Feldman RA, Boedeker EC, Harpaz N, Pace NR. Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc. Natl. Acad. Sci. U. S. A. 2007; 104: 13780-5.
+Cani PD, Delzenne NM. Gut microflora as a target for energy and metabolic homeostasis. Curr. Opin. Clin. Nutr. Metab. Care 2007; 10: 729-34.
+Hojo K, Bando Y, Itoh Y, Taketomo N, Ishii M. Abnormal fecal Lactobacillus flora and vitamin B12 deficiency in a patient with short bowel syndrome. J. Pediatr. Gastroenterol. Nutr. 2008; 46: 342-5.
+Mayeur C, Gratadoux JJ, Bridonneau C et al. Faecal D/L lactate ratio is a metabolic signature of microbiota imbalance in patients with short bowel syndrome. PLoS One 2013; 8 e54335.
+den Besten G, van Eunen K, Groen AK, Venema K, Reijngoud DJ, Bakker BM. The role of short-chain fatty acids in the interplay between diet, gut microbiota, and host energy metabolism. J. Lipid Res. 2013; 54: 2325-40.
+Puertollano E, Kolida S, Yaqoob P. Biological significance of short- chain fatty acid metabolism by the intestinal microbiome. Curr. Opin. Clin. Nutr. Metab. Care 2014; 17: 139-44.
+Kles KA, Chang EB. Short-chain fatty acids impact on intestinal adaptation, inflammation, carcinoma, and failure. Gastroenterology 2006; 130: S100-S105.
+Smith PM, Howitt MR, Panikov N et al. The microbial metabolites, short-chain fatty acids, regulate colonic Treg cell homeostasis. Science 2013; 341: 569-73.
+Dai ZL, Wu G, Zhu WY. Amino acid metabolism in intestinal bacteria: links between gut ecology and host health. Front Biosci (Landmark Ed) 2011; 16: 1768-86.
+Evans ME, Tian J, Gu LH, Jones DP, Ziegler TR. Dietary supplementation with orotate and uracil increases adaptive growth of jejunal mucosa after massive small bowel resection in rats. JPEN J. Parenter. Enteral Nutr. 2005; 29: 315-20.
+Le Chatelier E, Nielsen T, Qin J et al. Richness of human gut microbiome correlates with metabolic markers. Nature 2013; 500: 541-6.
+Dethlefsen L, Huse S, Sogin ML, Relman DA. The pervasive effects of an antibiotic on the human gut microbiota, as revealed by deep 16S rRNA sequencing. PLoS Biol. 2008; 6: e280.
+Harris JK, El Kasmi KC, Anderson AL et al. Probiotics in the management of irritable bowel syndrome and inflammatory bowel disease. PLoS One 2014; 9: e110396.

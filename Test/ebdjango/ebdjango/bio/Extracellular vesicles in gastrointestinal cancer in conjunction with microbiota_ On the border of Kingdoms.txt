@@ -1,0 +1,1432 @@
+
+
+
+Review
+Extracellular vesicles in gastrointestinal cancer in conjunction with microbiota: On the border of Kingdoms
+Natasha S. Barteneva,, Yeldar Baiken, Elizaveta Fasler-Kan,, Kenneth Alibek,, Sheng Wang,, Natalia Maltsev, Eugene D. Ponomarev, Zarina Sautbayeva,
+Sholpan Kauanova, Anna Moore, Christoph Beglinger,, Ivan A. Vorobjev
+a Department of Pediatrics, Harvard Medical School and Boston Children Hospital, Boston, USA
+b School of Science and Technology, Nazarbayev University, Astana, Kazakhstan
+c Department of Biomedicine, University of Basel and University Hospital Basel, Basel, Switzerland
+d Department of Pediatric Surgery, Children's Hospital, Inselspital and Department of Clinical Research, University of Bern, Bern, Switzerland
+e Department of Human Genetics and USA Computation Institute, University of Chicago, Chicago, USA
+f School of Biomedical Sciences, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong
+g Molecular Imaging Laboratory, Massachusetts General Hospital and Harvard Medical School, Boston, USA
+h Department of Biomedicine, University of Basel, University Hospital Basel, Basel, Switzerland
+i Division of Gastroenterology, University Hospital Basel, Basel, Switzerland
+
+
+
+A R T I C L E I N F O  
+
+Keywords: Extracellular vesicles Exosomes
+Inter-species communication Gastrointestinal cancer Bacteroides fragilis Pseudokinase
+
+
+A B S T R A C T  
+
+Extracellular vesicle (EV) production is a universal feature of metazoan cells as well as prokaryotes (bMVs - bacterial microvesicles). They are small vesicles with phospholipid membrane carrying proteins, DNA and dif- ferent classes of RNAs and are heavily involved in intercellular communication acting as vectors of information to target cells. For the last decade, the interest in EV research has exponentially increased though thorough studies of their roles in various pathologies that was not previously possible due to technical limitations. This review focuses on research evaluating the role of EV production in gastrointestinal (GI) cancer development in conjunction with GI microbiota and inflammatory diseases. We also discuss recent studies on the promising role of EVs and their content as biomarkers for early diagnosis of GI cancers.
+The bMVs have also been implicated in the pathogenesis of GI chronic inflammatory diseases, however, possible role of bMVs in tumorigenesis remains underestimated. We propose that EVs from eukaryotic cells as well as from different microbial, fungi, parasitic species and edible plants in GI tract act as mediators of intracellular and inter- species communication, particularly facilitating tumor cell survival and multi-drug resistance.
+In conclusion, we suggest that matching sequences from EV proteomes (available from public databases) with known protein sequences of microbiome gut bacteria will be useful in identification of antigen mimicry between evolutionary conservative protein sequences. Using this approach we identified Bacteroides spp. pseudokinase with activation loop and homology to PDGFRa, providing a proof-of-concept strategy. We speculate that ex- istence of microbial pseudokinase that 'mimics' PDGFRa may be related to PDGFRa and Bacteroides spp. roles in colorectal carcinogenesis that require further investigation.
+
+
+
+Abbreviations: AchE, acetylcholinesterase esterase; Ago, Argonaute protein family, essential catalytic components of RISC; AnV, annexin V; APC, antigen-presenting cells; ARF6, ADP- ribosylation factor 6; bft, Bacteroides fragilis toxin; bMVs, bacterial microvesicles; BPD, benign pancreatic disease; CEA, carcinoembryonic antigen; CEC, colonic epithelial cells; CrD, Crohn's disease; CRC, colorectal cancer; DAPI, (4',6-diamidino-2-phenylindole); DHR, dihydrorhodamine; DMEM, Dulbecco's modified Eagle medium; ECM, extracellular matrix; EGFP, enhanced green fluorescent protein; EpCAM, epithelial cell adhesion molecule; EVs, extracellular vesicles; FFPE, formalin-fixed paraffin embedded; FP, fluorescent protein; GI, gas- trointestinal; GM1, monosialotetrahexosylganglioside; GPC1, membrane-anchored proteoglycan molecule glypican-1; IBD, inflammatory bowel disease; IEM, immunoelectron micro- scopy; IFC, imaging flow cytometry; IL, interleukin; KRAS, GTPase, that in human is encodes by the KRAS gene; lnsRNAs, long non-coding RNAs; LSPR, localized surface plasmon resonance; MEK-ERK, mitogen-activated protein kinase kinase/extrac membrane-anchored proteoglycan molecule glypican-1ellular-signal regulated kinase; MPs, microparticles; MUC1, mucin1; MVs, microvesicles; MVBs, multivesicular bodies; OD, optical density; OMPs, outer membrane vesicles; PBS, phosphate-buffered saline; PC, phosphatidylcholine; PCA, capsular polysaccharide A; PCD, programmed cell death; PDAC, pancreatic ductal adenocarcinoma; PDGFR, platelet-derived growth factor receptor alpha; PE, phycoerythrin; PI, propidium iodide; PODO, podoplanin; qRT-PCR, quantitative RT-PCR; RFP, red fluorescent protein; RISC, RNA-induced silencing complex; SCID, severe combined immunodeficiency (non-human); SELN, exosome-like synthesized nanoparticles; SMLM, single-molecule localization microscopy; TEV, tumor-originating extracellular vesicles; TNF-alpha, tumor necrotic factor alpha; TF, tissue factor; YSPAN8, tetraspanin 8; VEGF, vascular endothelial growth factor; VTEs, venous thromboembolic events
+* Corresponding author at: 200 Longwood Ave, D-249, Boston, MA 02115, USA.
+E-mail address:  (N.S. Barteneva).
+1 Present address at Locus Solutions Inc., OH 44139, USA.
+2 Present address at King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia.
+
+
+Received 22 May 2017; Received in revised form 26 June 2017; Accepted 26 June 2017
+
+0304-419X/(c)2017TheAuthors.PublishedbyElsevierB.V.ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http:/creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+Introduction
+
+Chronic inflammation pathologies of GI such as inflammatory bowel disease (IBD), Crohn's disease (CrD), Helicobacter pylori-associated in- flammation and chronic pancreatitis have been identified as strong risk factors for cancer development . The initial hypothesis that the emergence of the tumor is associated with chronic inflammation was postulated by Rudolf Virchow in 1863 . Today, the causative link between cancer and chronic inflammation is widely accepted, though molecular and cellular mechanisms of this association have not been resolved . About 15% of the global cancer burden can be attributed to infectious agents , of which chronic inflammation is a major component . Acute inflammation is self-limiting, since the produc- tion of anti-inflammatory cytokines (IL-1, IL-10, IL-13 etc.) follows the production of pro-inflammatory cytokines (IL-1, TNF-alpha, IFNg etc.) . The strongest association of chronic inflammation and underlying infection with cancerogenesis is found between inflammatory bowel diseases and colon cancer, Helicobacter pylori and gastric cancer, he- patitis C and liver carcinoma, schistosomiasis and bladder and colon carcinomas . The broader implication of these observations was that chemokines and other cytokines are widely involved in cancer development, however, the detailed mechanisms linked to infection and inflammation in relation to cancer are not well understood.
+It is well known that cell activation and pathogenesis of a variety of
+diseases are often associated with increased levels of EVs released in body fluids including plasma, liquor, urine, bile, saliva, semen, vitreous and synovial fluids, atherosclerotic plagues, mucus and intestinal fluids, ascitic and pleural fluids . EVs production by eukaryotic cells is upregulated during cell activation and growth, thus playing an essential role in cellular communication during cancer development. However, until recently it was not clear how commensal and pathogenic bacteria, and members of gut microbiota, communicate with other microbial and eukaryotic cells and the immune system. Studies during the last decade that are focusing on the association between gastrointestinal cancer and inflammatory diseases with certain types of bacterial infections often are overlooking the intensive production of outer membrane vesicles (OMPs) by different types of gastrointestinal bacterial commensals and patho- gens as well as fungi, parasites invading the GI tract, and nematodes.
+This review focuses on research assessing EVs originating from
+
+different types of eukaryotic and prokaryotic cells inside the GI tract which separates symbionts and commensals in our bodies. We also discuss the role of EVs originated from GI cancers as potential bio- marker tools. Early diagnosis of GI cancers continues to be a major challenge with a miss rate of up to 6.7% - for the upper GI tract with endoscopy and colonoscopy and up to 6% miss rate for colorectal cancers . Due to the invasiveness of these procedures and the possibility of complications , there is a high need for robust cir- culating biomarkers of GI cancers and effective non-invasive mon- itoring. In conclusion, we suggest that matching sequences from EV proteomes (available from public databases) with known protein se- quences of microbiome gut bacteria will be useful in identification new molecular mimicry target protein sequences and provide a proof-of- concept strategy identifying B. fragilis pseudokinase that 'mimic' PDGFRa.
+Extracellular vesicles (EVs) structure and biogenesis
+
+Generally, three different classes of EVs () are produced by metazoan cells, namely, exosomes, microparticles (MPs) or micro- vesicles, sometimes also named ectosomes, and apoptotic bodies. These EVs are distinguished by size, their content, morphology and by dif- ferent mechanisms of their biogenesis . Moreover, it is well accepted that production of EVs represents a universal feature of life, since gram-negative and gram-positive bacteria as well as Archaea generate outer membrane vesicles . It is believed that the for- mation of microparticles (MPs) usually happens via plasma membrane budding and shedding associated with membrane sites enriched with lipid rafts . Unlike MPs, exosome formation occurs via re- routing of multivesicular bodies (MVBs) to the cell surface , where they fuse with the cell membrane and exit the cell through exocytosis (detailed rev. ). As a result, exosomes are enriched with endosome- and MVBs-associated proteins, such as tetraspanins (CD9, CD63, CD81 and CD82 and CD151; whereas CD37, CD53 and Tssc6 are restricted by hematopoietic cells) . CD63 is important for exo- somal secretion, as the reduction of exosomal production was observed in CD63-knockout HEK-293 cells. However, at the same time no re- duction in the secretion of microparticles > 150 nm size was noted, supporting the observation that CD63 is important for exosomal
+
+
+B.
+Microparticles (0.1-1.0u)
+
+
+Apoptosis stimulus
+
+
+Fig. 1. Production of different classes of EVs. (A) Microparticles; (B) exosomes; (C) apoptotic bodies; (D) outer membrane vesicles.
+
+
+
+Membrane blebbing
+
+
+
+Multivesicular body
+
+
+
+Nuclear
+fragmentation
+
+
+Cell shrinkage
+
+
+
+Exosomes (0.05-0.1 u)
+
+A.
+
+Activation stimulus
+
+
+
+
+
+Outer membrane vesicles (from Prokaryotes)
+
+
+C.
+Apoptotic bodies formation (1-4 u)
+
+
+
+
+Table 1
+Circulating exosomes and microvesicles (below 200 nm) in patients with GI cancers.
+
+Cancer type	Cancer subtype	EVs source	EVs size	Detection  and purification methods	Subpopulations of EVs	Potential biomarkers	Ref.
+
+
+Colorectal cancers	Colorectal carcinoma--adenoma--NC	Human serum	ND	ExoQuick(tm)	Exosomal fraction from
+ExoQuick(tm)
+
+
+miR-21, miR-291a, miR-92a	
+
+CRC	Human serum	App. 50 nm (TEM)
+
+Ultracentrifugation and Exosome Isolation Kit (Invitrogen), TEM, microRNA microarray, qRT-PCR
+
+Exosomal fraction	miR-17-92a (recurrence biomarker)	
+
+CRC	Human serum and cell
+lines FHC, HCT116, HT- 29, RKO, SW48, SW480
+
+Ultracentrifugation, Western blotting (CD81), miRNA microarray, qRT-PCR
+
+EX fraction	7 miRNA (let7a, miR-1220, miR-1246, miR-150, miR-21, miR-223, miR-23a)
+
+
+
+CRC	Serum samples	App. 100 nm	ExoScreen, NTA, ELISA	CRC-derived EVs	CD147, CD9	
+
+CRC	Human plasma and
+HCT116 cell line
+
+< 220 nm	0.22 mm filtration, Ultracentrifugation
+and CD63+ beads isolation, FCM,RT- PCR, western blotting
+
+CD63+, EpCAM fractions of CRC-derived EVs
+
+TSAP6 and p21 mRNA	
+
+CRC	Human ascites	30-150 nm	Western blot, nano-LC-MS	Ascite-derived EVs	CEACAM5, CD97, tetraspanins, plexin, TACSTD1, trophoblast glycoprotein
+
+
+
+CRC	Human plasma	50-100 nm	FCM, Western blot, IEM	FasL+, TRAIL+, CD63+ and CEA+ CRC EVs
+
+CEA and CD63	
+
+Gastric cancer	Gastric cancer, TNM stages I-IV	Human serum	ND	ExoQuick(tm)	Exosomal fraction
+(ExoQuick(tm))
+
+miR-10b-5p; miR-132-3p; miR-185-5p; miR-195-5p; miR-20a-3p; miR-296-5p
+
+
+
+Gastric adenocarcinoma	Peritoneum lavage fluid	ND	Microarray, qPCR	Exosomal fraction	miR-21; miR-1225-5p	
+
+Gastric cancer (pre-  and post-operative)	Paired plasma samples	100 nm (TEM)	TEM, qRT-PCR	Exosomal fraction from "Total
+Exosome Isolation kit" (Invitrogen)
+Gastric cancer	Human plasma	ND	FISH, qRT-PCR, ExoQuick(tm)	Exosomal fraction (ExoQuick(tm))
+
+Long intergenic non-protein-coding RNA 152 (LINC00152)
+
+Five-miRNA signature; miR-185 associated with TNM stage
+
+
+
+
+
+
+Ascites	Exosomal fraction	
+
+Gastrointestinal stromal cancer
+
+Gastrointestinal  stromal tumors (GIST)	GIST solid tissues	30-200 nm	STEM	Exosomes, microvesicles, spherosomes (multivesicular spheres)
+
+ND	
+
+Esophageal cancers	Esophageal  squamous cell carcinoma	Human serum	ND	ExoQuick(tm); Exiqon miRNA panel;
+qRT-PCR
+
+Exosomal fraction (ExoQuick(tm))
+
+Five-miRNA signature (miR-20b-5p; miR-28-3p; miR-192-5p; miR-223-3p; miR-296-5p)
+
+
+
+Esophageal  squamous cell carcinoma	Human serum	ND	Differential centrifugation; TaqMan
+OpenArray miRNA Profiling; immunoblotting;
+
+Exosomal fraction	miRNA-21	
+
+Esophageal squamous cell carcinoma; control group (esophageal achalasia and reflux esophagitis)
+
+Human plasma	Exosome isolation kit (Invitrogen); AChe activity; NTA
+
+Exosomal fraction	Exosomal (or EVs) number in peripheral blood as prognostic biomarker
+
+
+
+Advanced esophageal carcinoma (HC and Barrett's esophagus)
+
+Human serum	ND	ExoQuick(tm); miRNA profiling	Exosomal fraction	Multi-miRNA panel (RNU6-1/miR-16-
+5p, miR-25-3p/miR-320a, let-7e-5p/ miR-15b-5p, miR-30a-5p/miR-324-5p, miR-17-5p/miR-194-5p
+
+
+
+Advanced Esophageal adenocarcinoma vs T2-T3 adenocarcinoma and squamous carcinoma
+
+Human serum	ND	ExoQuick(tm); qRT-PCR; microRNA
+array, ELIZA
+
+Exosomal fraction (ExoQuick(tm))
+
+miR-223-5p, miR-483-5p	
+
+Esophageal adenocarcinoma	Human serum	< 100 nm	ExoQuick(tm); qRT-PCR;TEM, Western
+blotting
+
+Exosomal fraction (ExoQuick(tm))
+
+miR-21	
+
+Barret's esophagus metaplasia-dysplasia- adenocarcinoma
+
+Esophageal solid tissue samples
+
+90-200 nm	TEM	Matrix EVs	N/A	
+
+Intestinal cancer	Large bowel cancer	Human serum	App. 100 nm	IEM, TEM, AChEasy assay, qRT-PCR;
+Western blotting, ELISA
+
+Exosomal fraction from ultracentrifugation
+
+HSP60	
+
+Pancreatic cancers	Pancreatic ductal adenocarcinoma (PDAC)	Human plasma before/
+after surgery
+
+60-120 nm	EM, LS-MS/MS, RT-PCR, ELISA	Exosomal fraction from
+ultracentrifugation
+
+miRNA signature (high miR-10b, miR- 21, miR-30c, miR-181, low miR-let7a); glypican-1 (GPC1); CA-19-9
+
+
+
+Pancreaticobiliary cancer and PDAC	Pleural effusion and	Peak at 128 nm    TEM and SEM, NTA, FCM, western	Exosomal fraction from	N/A	
+(continued on next page)
+
+secretion only . Heat shock proteins HSP 70/90 are also enriched in exosomes, but not in shedded MPs . The exosomal membrane is rigid with rigidity increasing from pH 5 to 7 as demonstrated by membrane fluidity probes (diphenylhexatriene), which is a result of increased amounts of desaturated phosphatidylcholines (PC), phos- phatidylethanolamine, sphingomyelin, cholesterol and ceramides . Circulating exosomes are resistant to lipolytic enzymes and can stay for up to two weeks in the lymph nodes . MPs are much more heterogeneous in size and structure, spanning from 0.1 to 1.0 mm, whereas exosomes are typically homogenous in size (0.04-0.1 mm) and shape . Cells secrete exosomes and MPs simultaneously, but their ratios differ depending on the cell type and cell status .
+Though their biogenesis is different and sizes are overlapping, se- paration and purification of these two major classes of EVs has been hampered by the limitations of existing methods . Currently, various strategies including differential ultracentrifugation, filtration, density gradient separation, immunoaffinity, bead purification, and size exclusion chromatography have been used for isolation of different EV fractions, however, no universal approach exists. Limitation factors for ultracentrifugation include co-sedimentation of protein aggregates and co-purifying of non-specifically bound proteins . The most straightforward approach for separating exosomes and MPs is FACS- based sorting accomplished by sorting similarly sized viral particles . However, FACS-based cell sorting of EVs normally leads to size- based selection, could also be biased by the choice of antigens selected for FACS-sorting.
+Both major EV classes contain different protein, RNA and DNA
+cargo , and also significantly differ by their lipid content. EVs may transfer information from the host cell to various target cells by direct cell-to-cell contact or alternatively, through secretion of soluble mediators and effectors . Moreover, EVs may interact with target cells via surface-bound ligands, transferred surface receptors and membrane-associated enzymes, or deliver cytoplasmic or membrane- associated constituents, such as cytosolic proteins, different classes of RNA molecules, DNA, bioactive lipids and even cellular organelles such as mitochondria . Several studies indicate that tumor-derived extracellular vesicles (TEVs) harbor signaling proteins that affect cell metabolism, mRNA processing, angiogenesis, and cell growth and mo- tility, in addition to molecules that are likely required for TEV bio- genesis . It has been demonstrated that at least in some cases cellular proteins are selectively integrated into TEVs via ARF6-regu- lated endosome recycling, where the expression and activation of ARF6 is associated with an increase of tumor-invasive potential . Plasma membrane-derived EVs, secreted from the parent cell, strengthens some, but not all plasma membrane proteins and those that integrated inside EVs conserve the topology of the parent cell plasma membrane .
+The function of EVs appears to be dependent on their cargo. EVs
+shed from various tumor-cell lines have been thought to facilitate ex- tracellular matrix (ECM) invasion, evasion of the immune response and potentiate formation of metastasis in PDAC and other cancers . Shedding of tumor-derived EVs can stimulate metas- tasis spreading, tumor-stroma interactions and angiogenesis . EVs contain complex sets of cargo, depending on the physiological conditions in which they are generated and released, and once shed may impact a variety of cellular processes and modulate inflammatory response. The major question that remains to be eluci- dated is how specific cargoes are selectively absorbed and accumulated by different classes of EVs. It has been shown that posttranslational modifications of proteins with acyl, myristoyl, palmitoyl or glycopho- sphatidylinositol anchors may facilitate recruitment of specific proteins to EVs . However, since recruiting of proteins happens also in the absence of these post-translational modifications, there are other yet unknown mechanisms that participate in protein cargo selection by EVs. The mechanisms of RNA and miRNA selection by EVs are poorly
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 2
+Circulating microvesicles (between 200 and 2000 nm) in gastrointestinal cancers.
+
+
+Cancer type	Cancer subtype	EVs source	EVs size	Detection and purification
+methods
+
+
+Subpopulations of EVs	Potential biomarkers	Ref.
+
+
+Colorectal cancers	CRC and PC	Human serum	ND	FCM	EpCAM+, EpCAM+CD147+, CD147+
+EpCAM-MVs
+
+
+Increased EpCAM+ CD147+
+
+
+
+
+CRC	Platelet-poor  plasma	ND	FCM	CRC-derived MVs	ND	
+
+CRC	Solid tissue (surgically or
+endoscopically resected)
+
+< 1000 nm	RT-PCR, NTA	CRC-derived MVs	miR-1246	
+
+CRC	Human plasma	< 1000 nm	FCM	TEVs	ND	 Colon cancer	Bone marrow	ND	FCM	CD34+/HER2/neu+ stem cell EVs	ND	 Colon cancer	Human  body  fluids  (pleural  liquid)  20-2000 nm	SEM	MVs, PEVs	ND	
+
+CRC	Human plasma	< 1000 nm	FCM	TF+, PS+ EVs	D-dimer to detect VYE in
+CRC patients
+
+
+
+Gastrointestinal cancers     Gastric cancer, III-IV stage	Human plasma	ND	Centrifugation, FCM,
+procoagulant activity
+
+Leukocyte-derived MVs, Er-derived MVs, Endo-derived MVs, PS+ MVs
+
+Leukocyte MVs, Er MVs, Endo MVs > >
+In GC III-IV patients, PS+ MVs
+
+
+
+Gastric cancer	Human plasma	10-800 nm	TEM, FCM, AFM	TEVs, PEVs	CCR6 and HER2/neu	 Human plasma	ND	FCM	Circulating tumor-derived EVs	ND	
+Gastric cancer	Human platelet	ND	FCM	PEVs	ND	
+
+Pancreatic cancers	Human pancreatic adenocarcinoma cell
+lines BxPc-3 and Low.6pl
+
+TF+ MVs from PC injected in Par4- deficient mice
+
+ND	FCM	TF+ MVs	TF+ MVs for PC-
+associated thrombosis
+
+
+
+CRC, PC, IBD	Platelet-poor  plasma	ND	FCM	PMPs, EMPs, Er-derived MVs, LeuMVs, TF+,
+Fibrin+, CEA+, CA19-9+ MVs
+
+Specific signature	
+
+Pancreatic cancer with associated thrombosis
+
+ND	FCM	CD31, CD68, AnnV+ TF+, total AnnV+,
+AnnV+ Muc1+
+
+TF+ MVs for PC-associated thrombosis
+
+
+
+Pancreatic cancer with associated thrombosis (IVC-stenosis mice model)
+
+Panc02 pancreatic ductal cell line induced in C57Bl/6 mice
+
+ND	Centrifugation, FCM	TF+	ND	
+
+Pancreatic carcinoma	Human blood	200-2000 nm    SEM	MVs, PEVs	ND	
+
+* ND - > 300 nm in the studies where conventional flow cytometry (FCM) was used for characterization of MVs (standard limit of sensitivity for conventional flow cytometer).
+
+
+
+
+Table 3
+Characterization of EVs derived from human cell lines.
+
+Cancer type	Cancer subtype	EVs source	EVs size	Detection  and purification methods	Subpopulations of EVs	Potential biomarkers	Ref.
+
+
+Colorectal
+cancers
+
+
+Colorectal carcinoma	HCT-8	ND	TEM	Fraction obtained with exosome- precipitation solution
+
+
+miR-210	
+
+Colorectal carcinoma	SW480	ND	0.22 mkm filtration and differential
+ultracentrifugation; western blotting, microarray, functional assays, qRT-PCR
+
+Fraction obtained from 48 h cultural supernatant
+
+Erk1/2 kinase dependent internalization
+
+
+
+Colorectal carcinoma	SW480	ND	Differential ultracentrifugation; single molecule-
+localization microscopy (SMLM), real-time PCR, FCM, western blotting
+
+48-72 h exosomal (EX) fractions	miR31	
+
+Colorectal carcinoma and pancreatic carcinoma
+
+SW480, A818.4, Capan1	ND	Differential ultracentrifugation; FCM, zymography, RT-PCR
+
+CD44v6	
+
+Colorectal carcinoma	HT-29, Caco-2 (in vivo
+mouse model)
+
+30-150 nm (TEM)	Differential ultracentrifugation and EX
+purification kit; TEM, FCM, western blotting (HSP70), qRT-PCR, functional assays
+
+EX fraction from 24 and 48 h supernatant
+
+CXCR4-axis	
+
+Colorectal carcinoma	LIM1863	Different 30-100 nm, 30-1000 nm fractions
+
+Sequential ultrafiltration (0.1, 0.22, 0.45,
+0.65 mkm), cryo-EM
+
+EX  and MVs fractions	Different proteomic signatures for EX and MVs
+
+
+
+Murine colorectal carcinoma CT26 murine colorectal
+carcinoma associated with mouse macrophage Ana-1 cell line
+
+Differential ultracentrifugation, ExoQuick(tm); TEM, NTA, western blotting, mass-spectrometry, qRT-PCR
+
+EX fraction obtained from cultural supernatant of MF associated with gastric cancer cells
+
+Proteomic signatures	
+
+Colorectal  carcinoma	DLD-1 and DLD-1/5FU	50-450 nm	NTA, RT-PCR	DLD-1  and DLD-1/5FU-derived MVs	miR-34a, miR-145	
+
+Colorectal carcinoma	LIM1863	50-150 nm (EX) and 100-1500 nm (MVs)
+
+Ultracentrifugation and column separation; qRT- PCR, western blotting (CD9), deep RNA sequencing
+
+A33-EX and EpCam EX and MVs	32-miRNA signature	
+
+Colorectal carcinoma	HCT-116	~ 100 nm	Differential ultracentrifugation; TEM, NTA, Ache
+assay, western blotting
+
+CD9+ and CD63+ exosomal fraction	
+
+Colorectal carcinoma	DLD-1, WiDr, SW480, and
+COLO201
+Colorectal carcinoma	HCT116, HCT15, HT29,
+COLO201, COLO205, WiDr, SW1116
+
+30-200 nm	NTA, western blotting	DLD-1, WiDr, SW480, and COLO201 exosomes
+~ 100 nm	ExoScreen, immunoblot, NTA	HCT116, HCT15, HT29, COLO201,
+COLO205, WiDr, SW1116 exosomes
+
+miR-1246, TGF-b	
+
+CD147/CD9, CA19-9	
+
+Colorectal carcinoma	LIM1215	< 100 nm	Ultracentrifugation and 0.1 mkm filtration;
+immunoprecipitation, western blotting, LC-MS/ MS
+
+LIM1215-derived fraction	Cadherin17	
+
+Colorectal carcinoma	Sw480 and SW620	40-130 nm	EM, Cryo-EM, GeLC-MS/MS	Sw480, SW620 secretome and
+exosomes
+
+TSG101, Alix, CD63, MET, S100A8, S100A9, TNC, FNB2, EGFR, JAG1, SRC, TNIK, CAV1, FLOT1, FLOT2, PROM1
+
+
+
+Colorectal carcinoma	HT29	90 nm  to 812 nm	NTA, TEM, FCM, western blotting	HT29 cell line-derived EVs	CEACAMs	
+
+Colorectal carcinoma	Murine LIM1863	~ 100 nm (TEM)	Ultracentrifugation, combined with filtration;
+hA33/EpCam immunoaffinity purification, western blotting (TSG101, Alix, EpCam, A33), TEM, Gel C-MS/MS)
+
+EX  immunoaffinity purified fraction	
+
+Colorectal carcinoma	HCT15, SW480 and WiDr
+CRC
+
+< 220 nm	SDS-PAGE, western blotting, RT-PCR	HT15, SW480 and WiDr-derived EVs    CD63, CD9, and CD81, miR-21	
+
+Colorectal carcinoma	SW480 and SW620	23 to 636 nm and
+26-574 nm defined by NTA)
+
+TEM, Nano-LC-ESI-MS/MS, NTA, peptide OFFGEL fractionation
+
+SW480 and SW620-derived EVs	Tetraspanin and their associated
+proteins, FSCN1, STRAP, S100A4, S100A14 expression
+
+
+
+Colorectal  carcinoma	HCT116	ND	FCM,  RT-PCR, western blotting	HCT116 EX fraction	TSAP6	
+
+Colorectal carcinoma	SW948, SW620, SW480,
+HT29, CaCo2
+
+ND	MALDI-TOF/TOF-MS, nano-HPLC/ESI-MS/MS, 2DGE
+
+SW948, SW620, SW480, HT29,
+CaCo2 secretomes and EX fraction
+
+Glod4, Rad23bC-terminal fragment of agrin,
+
+
+
+Colorectal carcinoma	LIM1215	< 200 nm	Filtration and differential centrifugation, and
+immunocapture purification (A33); TEM, IEM (CD63), LS-MS/MS
+
+A33 EX-fraction	Proteome analysis	
+
+Colorectal carcinoma and	CX2 and Colo357	< 200 nm	Filtration and Differential centrifugation; IEM	EX fraction	HSP70+ Bag4+ active fraction	
+(continued on next page)
+
+
+
+
+Table 3 (continued)
+
+Cancer type	Cancer subtype	EVs source	EVs size	Detection  and purification methods	Subpopulations of EVs	Potential biomarkers	Ref.
+
+
+pancreas carcinoma	(HSP70), western blotting, FCM, functional
+assays
+Colorectal  carcinoma	SW480	40-150 nm	Microarray, TEM, IHC, RT-PCR	SW480 CRC cell line-derived EX
+fraction
+
+
+
+
+CENPE, KIF15, CEP55, CCNA2, NEK2, PBK, and CDK8
+
+
+
+
+
+
+Colorectal carcinoma	SW403 and CRC28462	50-100 nm	FCM, western blotting, IEM	FasL+, TRAIL+, CD63+ and CEA+
+CRC MVs
+
+CEA and CD63	
+
+Colorectal  carcinoma	HT29-19A and T84- DRB1*0401/CIITA
+
+30-90 nm	IEM, FCM, MALDI-TOF-MS	Apical  and  basolateral EX fraction	CD63 and CD26	
+
+Esophageal
+cancers
+
+Esophageal squamous cell carcinoma
+
+EC9706	ND	Differential centrifugation	EX fraction from 48-h cell
+supernatant
+
+
+
+Esophageal squamous cell carcinoma
+
+TE2; Murine SCCVII	ND	Exosome-isolation kit (Invitrogen); qRT-PCR; AchE quantitation
+
+CD63-GFP-tagged exosomes from TE2
+
+CD63	
+
+Esophageal carcinoma	EC9706	30-60 nm	TEM, Solexa, RT-PCR	EC9706 EX fraction	let-7 family, miR-21-5p, miR-
+26a-5p
+
+
+
+Co-culture esophageal carcinoma and fibroblasts Co-culture esophageal carcinoma and fibroblasts
+
+KYSE-30	ND	Differential  centrifugation	EX fraction from conditioned
+medium
+TE1, TE2, TE4, TE6, TE11	ND	Differential  ultracentrifugation	EX fraction from 48-h cell
+supernatant
+
+Upregulation of 18 miRNA	
+
+miR-1246	
+
+Esophageal adeno-carcinoma    Het-1A	ND	LSCM, FCM	Het-1A EX fraction	CD95L	 Gastric cancer	Gastric cancer	GES-1, MGS-803, SGC-7901	24-340 nm	NTA,TEM, IFC	48 h supernatants fraction	ND	
+
+Gastric carcinoma	SGC-7901 (also co-cultured with HUVEC)
+
+~ 100 nm (TEM)	Differential centrifugation; TEM, ELISA, qRT-
+PCR, functional assays, immunohistochemistry (CD31, anti-VEGF), western blotting (anti-Bim, anti-GAPDH)
+
+Cultural  supernatant EX fraction	miR-29a/c	
+
+Gastric cancer	MKN-1,-7,-45,-74	ND	Differential ultracentrifugation; qRT-PCR,
+western blotting (tetraspanin-8), RNAi, functional methods
+
+48 h  supernatants MVs fraction	TSPAN8 prognostic marker	
+
+Gastric cancer	SCG-901	~ 50 nm (TEM)	Differential ultracentrifugation and filtration
+(0.20 mkm); TEM, FCM, functional assays, microRNA microarray, western blotting (CD9, HSP70)
+
+EX fraction from 48 h cultural supernatants
+
+CD97+	
+
+Gastric cancer	GC415	Range 60-900 nm (highest conc.
+80-120 nm)
+
+Differential ultracentrifugation; FCM, DLS, NTA, AFM, functional assays
+
+Fractions from supernatants (confluent cell cultures)
+
+CD44+, CD44v6+, CCR6+, HER- 2+
+
+
+
+Scirrhous gastric carcinoma cell line and gastric cancer peritoneal lavages
+
+OCUM-2 M, 2 M-D3	0.22 mm filtration and differential ultracentrifugation; miRNA microarray, qRT-PCR
+
+EX fraction from supernatant	miR-320c, miR-1202, miR-1225-
+5p, miR-1207-5p, miR-7270
+signature (validated in peritoneal lavages)
+
+
+
+Duodenal cancer	Primary AZ-521 (HuTu-80), metastatic AZ-P7a
+
+ND	LC-MS/MS, RT-PCR	AZ-521 (HuTu80), AZ-P7a EX
+fraction
+
+PABP1	
+
+Gastric cancer	GC-MSC, GCN-MSC, BM-MSC from tissue samples
+
+Gastric cancer	SGC7901, HGC27 and gastric epithelial cells
+
+ND	0.22 mm filtration and differential ultracentrifugation and ExoQuick(tm); miRNA microarray analysis, qRT-PCR, functional assays
+40-100 nm (TEM)	Differential ultracentrifugation; TEM, western
+blotting (CD9, CD81, TGFb, VEGF, N-cadherin, E- cadherin, GAPDH), qRT-PCR, functional assays
+
+MSC-derived EX fraction	miR-214, miR-221, miR-222	
+
+
+EX fraction	ND	
+
+8 gastric cancer, 5 colon cancer, 9 pancreas cell lines
+
+Most of experiments with gastric cancer AZ-P7a cell line
+
+Defined by IEM	Centrifugation and filtration; immunoelectron
+microscopy; western blotting (CD29, Alip1/Alix, Tsg101), miRNA profiling and microarray analysis
+
+CD63+ EX fraction after combination of centrifugation and filtration
+
+Let-7 miRNA family	
+
+Gastric cancer	SGC7901, BGC823	30-100 nm	EM, western blotting	SGC7901, BGC823 exosomes	Cbl-b, Cbl-c	
+
+Pancreatic
+cancers
+
+Pancreatic stellate cells	Immortalized pancreatic
+cancer cells
+
+30-110 nm	Differential ultracentrifugation; TEM, western
+blotting (CD9, 63, 81, GM130), Real-time PCR, functional assays
+
+CD9+, CD63+, CD81+, GM130-EX
+fraction from conditioned media
+
+Increased miR451	
+
+Pancreatic  cancer	PC  patient-derived cell lines	NTA data	Ultracentrifugation,  NTA,  western  blotting	CD63, TSG101 and ALIX exosomal	ND	
+(continued on next page)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 3 (continued)
+
+Cancer type	Cancer subtype	EVs source	EVs size	Detection  and purification methods	Subpopulations of EVs	Potential biomarkers	Ref.
+
+
+
+Pancreatic ductal adenocarcinoma (PDAC)
+
+
+markers confirmed
+BxPC-3 and HPAF-II	100 nm	EM, FCM, NTA	PDAC-derived EX fraction	ND	
+
+Pancreatic adenocarcinoma and epithelioid carcinoma
+
+PANC-1, SW1990, BxPC-3	30-110 nm	NTA, RT-PCR, FISH	PANC-1, SW1990, BxPC-3 derived EX
+fraction
+
+RFXAP, miR-212-3p	
+
+PDAC	AsPC-1, BxPC-3, PANC-1	50-120 nm	SEM, LSPR-based sensing platform	Cell lines-derived EX fraction	miR-10b	 Pancreatic carcinoma	Panc-1, MIA Paca2, T3M4	< 100 nm	EM, FCM, UPLC-MS, RT-PCR	Panc-1, MIA Paca2, T3M4 EX fraction   GPC1+	 PDAC	PANC-1	40-150 nm	Ultracentrifugation, AcH activity, NTA, DLS	PANC-1-derived EX fraction	ND	
+bxPC-3 SW		Ultracentrifugation		miR155	 Pancreatic adenocarcinoma	INS-1, HPDE PANC-1	~ 100 nm	NTA, EM, CM, SEM	PC-derived EX fraction	CA19-9 and AM	
+
+Pancreatic adenocarcinoma	Paca44, Panc1, BxPc3,
+MiaPaca2, HPSC and HPDE
+
+< 100 nm	TEM, LC-MS	Paca44, Panc1, BxPc3, MiaPaca2, HPSC and HPDE EX fraction
+
+MET, CIT, MAP4K4, Yes1, DDR1, WEE1, SRC, CDCP1, TCSF
+
+
+
+Pancreatic epithelioid carcinoma
+
+Panc-1	30-100 nm	RT-PCR, EM, western blotting	Panc-1-derived EX fraction	miR-203	
+
+Pancreatic cancer	Panc02 cells, cultivated and injected in mice
+
+60-100 nm	Magnetic bead-based exosome extraction; AchE-
+assay, TEM, mRNA detection/measurement
+
+EX fraction purified with magnetic beads coated with biotinylated lectin specific to 2,6-linked sialic acid sandwich
+
+ASPN, Foxp1, Apbb1ip, BC031781, Daf2, Gng2, Incenp
+
+
+
+Pancreatic cancer	AsPC1, BxPC3, Capan1, Capan2, MiaPaca1, Panc1, Pt45P1, 8.18, HD3522, HD3542, HD3577
+
+FCM, functional assays	EX fraction, purified by ultracentrifugation
+
+Tspan8, CD44v6, alpha6beta4	
+
+Pancreatic cancer	BxPC3, MiaPaca2, Panc1	ND	Ultrafiltration and ultracentrifugation, western
+blotting, ESI-MS/MS
+
+EX fraction was enriched for EX marker proteins Alix, CD9, Lamp3, syntenin
+
+EGFR	
+
+Rat pancreatic adenocarcinoma
+
+BSp73ASML	ND	Ultracentrifugation, SDS-PAGE, western blotting, MALDI-TOF
+
+EX fraction	CD44v6-dependent exosomes	
+
+Pancreatic cancer	SOJ-6, BxPC-3, MiaPaCa-2, and Panc-1
+
+34-45 nm	EM, SDS-PAGE, MALDI-TOF	SOJ-6, BxPC-3, MiaPaCa-2, and Panc-
+1 nanoparticles
+
+ND	
+
+
+
+understood, however, there are indications that uncoded regions of RNA are involved in this process . Protein and miRNA signatures carried by EVs may represent potential biomarkers as reported by several groups (summarized in ).
+
+EV cargo in gastrointestinal cancer
+
+The phenotypic and functional heterogeneity of cancer cells that arises from heritable and stochastic epigenetic and genetic changes increases risk of metastasizing or resistance to drug treatment, and therefore represents one of major challenges in cancer patients treat- ment . Recent research in cancer heterogeneity is adding additional layer of complexity to systemic transfer of extracellular ve- sicles and their functional content between the cells, which can con- tribute to tumor progression and influence anti-cancer therapies .
+
+EV-associated RNA in gastrointestinal cancer
+
+All major RNA classes are present in EVs . In addition to mRNA and miRNAs , vRNAs and yRNAs, the degraded products of non-coding and long-coding RNAs have been found in exosomes .
+It has been shown that miRNA dysregulation is involved in the in- itiation and progression of human cancers although the natural me- chanism of this phenomenon is still unclear . In normal conditions, these small noncoding, 19 to 22 nucleotide length RNAs participate in regulation of cellular development, differentiation, pro- liferation, apoptosis, and cancer cell metabolism . Goldie and coauthors  demonstrated that exosomes contain a higher pro- portion of miRNAs compared to other classes of small RNA. It has been shown that exosomes are enriched with miRNA , certain types of miRNA are selectively sorted to exosomes and other MPs .
+However, the details of the mechanism of this selective sorting of miRNAs and miRNA-associated proteins in exosomes and/or MPs are  not clear. In mammals, this process includes transcription of miRNA genes into primary miRNAs (pri-miRNAs), and processing by  the  Drosha complex to produce precursor miRNAs . Pre-miRNA un- dergoes digestion by the Dicer complex and is sorted to exosomes after becoming mature miRNA via four potential pathways: (1) nSMase2- dependent pathway; (2) miRISC-related pathway that is co-localized
+
+Outer membrane vesicles
+LUMEN
+Extracellular vesicles
+
+with the sites of exosome biogenesis (MTB) and their components (AGO2 protein and miRNA-targeted mRNA); (3) 3' miRNA sequence dependent pathway, and (4) miRNA motif and sumoylated hnRNPs- dependent pathway (described in detail by .
+Though uridylation  and sumoylation of miRNA  are implicated in preferential sorting of miRNA in exosomes, in most cases these targeting sequences are absent in secreted miRNAs . McKenzie and co-authors  demonstrated using wild-type and KRAS-mutant colon cancer cells, that KRAS-dependent activation of the MEK-ERK pathway (mitogen-activated protein kinase kinase/extra- cellular-signal regulated kinase) inhibits sorting of the Argonaute (Ago) 2 dependent miRNA in exosomes. There are early reports that demon- strated the presence of Ago2, a major component of RNA-induced si- lencing complex (RISC) as well as other proteins responsible for RNA- processing in secreted exosomes . Recently, another com- ponent of RISC-complex, Y-box protein-1 has been shown to be in- volved in sorting miRNA to CD63+ exosomes . Surprisingly, the authors did not find evidence of Ago proteins in their isolated exosomal preparations (CD63+ exosomes), which led them to suggest a different route for miRNA egress via exosomes, which they named the cha- perone-mediated route as opposed to the Ago2-associated route.
+The physiological role of EV miRNA and other cargo has been the
+subject of discussion from the moment of their discovery  in  EVs. Though transfer of exosomal miRNA between malignant and non-ma- lignant  cells  has  been  proved  in  numerous  studies    (), the functional role of EV-associated miRNAs remains elusive.
+Most of the GI cancer-related miRNA studies are based on analysis of tissue and stool samples and recently on plasma-derived miRNAs .
+Significant upregulation of miRNA92a, miRNA221, miRNA29a and miRNA17-3p compared to healthy control groups was revealed. Furthermore, Huang and colleagues showed miR-17-3p and miR- 92a to be downregulated, giving a potential biomarker for colorectal cancer (CRC) evaluation. Huang and Yu's recent work elucidated the possible mechanism of circulating miRNAs and long non-coding RNAs (lncRNAs) secretion for gastric cancer diagnosis and demon- strated that circulating miRNAs and lncRNAs exhibit higher diagnostic values relative to conventional tumor markers such as CA199, CA125, CA724, CA242, CA50, CEA, and pepsinogen. Another group  studied circulating miRNA92a carried by EVs from CRC patient's
+
+Fig. 2. Communication by EVs between lumen, tumor cells and secondary recipient cells (fibro- blast, endothelial cells etc.).
+
+EVs Cargo:miRNA, mRNA, lipids, proteins etc
+
+
+Growth/Proliferation Angiogenesis
+Inflammation/Immune response
+(Toll-like receptors-MAPK; NF-kappa  )
+Invasion (  -catenin)
+Epigenetic Reprogramming (EZH2)
+Pre-metastatic niche
+(ECM  remodeling proteins)
+
+Metastasis (MMPs)
+
+
+Tumor cell	Secondary recipient cell
+(fibroblast, endothelial cell etc.)
+Extracellular vesicles
+
+plasma and demonstrated high expression levels of miR-92a leading to down regulation of the anti-oncogene Dkk-3. Moreover, secretion of miR-92a-containing EVs by cancer cells into their surrounding en- vironment facilitated angiogenesis.
+It has recently been established that gut microbiota has a significant influence on the expression pattern of miRNA of intestine cells in- cluding miRNA packed in EVs. In the Dalmasso and co-authors study , germ-free mice, lacking natural microbiota, were reconstituted with microbiota from normal special pathogen-free mice leading to the changes in the miRNA expression profile. It was found that after re- constitution nine miRNAs were differentially expressed with four being upregulated: miR-298, miR-200c, miR-342-p. Among these, miR-200c was known to be associated with EVs of highly invasive cancer cells . Thus, expression profiling of miRNA in EVs may indicate changes in gut microbiota and a possible predisposition to cancer.
+The most remarkable feature of miRNA is its stability in human biofluids, which allows miRNA molecules to operate outside cell bor- ders within hostile environments such as intestinal lumen.
+
+Proteomic studies on gastrointestinal cancer-derived EVs
+
+The underlying mechanisms of protein interactions in EVs and in- terrelationships between vesicular transport proteins remain to be studied in GI cancers. To date, some authors have evaluated the role and function of the proteomic composition of EVs derived from primary human gastrointestinal cancers and EVs produced by cell lines of gas- trointestinal origin . Choi and co-authors  described how EVs derived from the HT29 cell line are organized by protein-protein interactions (PPIs) showing that vesicular transport proteins are inter- connected via physical interactions and assembled into functional modules. As a result of the study, 957 of the 1261 vesicular proteins were mapped onto the extracellular vesicle PPI network, where 304 of them do not have any PPI in the Human Proteome Reference Database. Also, it has been shown that actin and actin-binding protein ADP ri- bosylation factors (ARF), such as ARF1and SRC kinases have the es- sential signaling role in EV biogenesis . Later studies confirmed the role of ARFs, such as ARF6 in exosomal biogenesis . Another study  researching serum biomarkers for colorectal cancer me- tastasis using the secretome approach identified a total of 910 proteins from the conditioned media and 145 differential proteins in SW480 and SW620 cell lines. The differential expression pattern of 6 candidate proteins was validated by Western blot analysis and receiver operating characteristic curve analysis confirmed that serum trefoil factor 3 and growth/differentiation factor 15 could provide a discriminatory diag- nostic test for predicting colorectal cancer metastasis. Ji and coauthors
+found selective enrichment of metastatic factors (MET, S100A8,
+S100A9, TNC), lipid raft and lipid-raft associated membrane proteins (CAV1, FLOT1, FLOT2, PROM1) and some signal transduction mole- cules (JASG1, SRC, TNIK) in exosomes derived from metastatic SW60 cells. Enrichment of components of Src-signaling pathway in cancer cell line exosomes identified by proteomic research has recently been shown by DeRita and colleagues .
+
+Lipids in gastrointestinal cancer-derived EVs
+
+There are a few publications describing a lipid composition of EVs, perhaps because a methodological approach for studying EV lipids is complicated and more difficult than this for EV proteomic analysis. EV membrane lipids have been shown to play an important role in the modulation of a functional response of target cells, formation, secretion and internalization of EVs . Standard approaches include labeling exosomal and/or other EV subpopulations with fluorescent lipids , mass-spectrometry based lipidomics , and recently developed lipid-targeting fluorescent peptide probes .
+Formation of EVs involves enrichment in certain classes of lipids. Several authors described the enrichment of exosomal fractions
+
+with multiple lipid classes including cholesterol (Ch), sphingolipids, phosphatidylserine (PS), gangliosides, free fatty acids , whereas MPs are enriched in ceramides and sphingomyelins . Lipid changes happen during different steps of EV biogenesis and affect sorting of EV cargo. For example, some proteins are sorted by lipid affinity, such as clustering tetraspanins in tetraspanin-en- riched membrane domains (TEMs) associated with gangliosides and cho- lesterol. TEMs act as sorting machinery for loading growth factors and MHC II molecules into exosomes  and cholesterol and ceramides increase exosome release and affect their cargo .
+Exosomes have been shown to contain functional enzymes and important components of lipid metabolism such as phospholipases, hydroxycholesterols, prostaglandins and leukotrienes  . Bioactive lipids contained by EVs as a part of their cargo are able to affect the metabolism of target cells (rev. ).
+To date, the lipidomic characterization of EVs originating from GI tract cancer is limited to only a few publications describing lipid con- tent and/or functional activities involving lipid-mediated pathways induced by exosomes originated from cell lines , while detailed exploration of their functional and causative role remains poorly understood. In one of the ground-breaking publications, Ris- torcelli and co-authors  reported that the human pancreatic cell line SOJ-6 produced lipid raft-enriched exosomes capable of activating the Notch-1 survival pathway in the cells. To demonstrate the role of exosomal lipids in promoting cellular death, Beloribi and colleagues
+ used SOJ-6 cells and exosome-like synthesized nanoparticles (SELN) composed of lipids typical for lipid rafts. SELN were co-localized with a marker for lipid rafts ganglioside GM1 and Notch-1 on plasma membrane or Notch-1 and Rab5a on early endosomes. Furthermore, Beloribi and co-authors demonstrated a fusion and exchange of SELN lipids with lipid rafts of plasma membrane and endosomal membrane and showed that SELN mimicked detrimental effects of exosomes on the survival of SOJ-6 cells, but not on exosome-insensitive pancreatic MiaPaCa-2 cells. Exploration of lipids as potential cancer biomarkers has only recently begun and depends on technological progress in lipidomic mass-spectrometry. One notable example is the work of Lydic and co-authors , who performed a comprehensive, in-depth characterization of a "shotgun" lipidomic profiling of exo- somes secreted by LIM 1215 colorectal cell line in comparison with parental. Using novel sample derivatization techniques, coupled with high-resolution "shotgun" mass-spectrometry and targeted mass-spec- trometry, they demonstrated that secreted exosome glyceropho- spholipid compositions are clearly distinct from parental cells in- dicating that exosome formation/secretion requires unique partitioning of particular lipid classes and subclasses. Comparison of exosome versus cellular lipid profiles reveal > 520 individual lipids in 36 lipid classes and subclasses, as well as substantial lipid remodeling including an increase of sphingolipids, plasmalogen- and alkyl ether-containing glycerophospholipids in exosomes. Importantly, obtained lipidomic results are in broad agreement with publications on exosome content from other cancer types. A deeper analysis may provide insights on lipid exosome role in cancer progression. The potential implication of these studies for diagnostics is yet to be revealed.
+Circulating EVs in gastrointestinal inflammatory disorders and cancer-derived EVs
+
+A number of studies demonstrated that certain circulating EV frac- tions are increased in patients with GI cancers, compared to patients with inflammatory gastrointestinal diseases such as Crohn's disease (CrD) and inflammatory bowel disease (IBD) . However, the amount of circulating microparticles may be also elevated in the active phase of gastrointestinal inflammatory diseases in com- parison with healthy controls or cancer patients in remission. Thus, conducted studies on CrD revealed that the total number of circulating
+MPs was significantly elevated in CrD patients with active processes
+
+compared to healthy controls and CrD patients in remission . CrD patients in active phases of disease demonstrated an increased total amount of circulating MPs, particularly pro-coagulant MPs, and MP fractions originating from platelets, erythrocytes, leukocytes and en- dothelial cells compared to the patients in remission .
+These elevated populations of MPs may cooperate in the in- flammatory process as they induce neutrophil and endothelial activa- tion, monocyte adhesion and recruitment of various inflammatory cells . Another study in IBD patients found their levels of circulating  TF+MP  to  be  significantly  higher  than  in  healthy  donors . Interestingly, higher numbers of circulating total, platelet- and endothelial-derived MPs were also observed in patients with IBD in remission as compared to healthy donors supporting the hypothesis of inflammatory cell recruitment . Similar high levels of platelet- derived MPs were demonstrated in earlier studies on IBD patients with increased thromboembolism risk . Moreover, recently, Mit- suhashi and co-authors found that intestinal luminal fluid is also a rich source of proinflammatory EVs carrying IL8, IL6, IL10 and TNF markers. The luminal liquid contains high quantities of EVs of different origin (EVs produced by cells structuring intestinal wall, bacterial outer membrane vesicles, EVs coming from parasites and food) ().
+EV fraction (< 500 nm size) from colonic luminal fluid aspirates
+from  patients  with  IBD  contained  CD63+/CD66b+ (originated  from neutrophils)  and  CD63+/MUC-1+ (originated  from  epithelium)  sub- populations, though no statistical significance with healthy controls was found (8.5% vs 10.8% and 39.5% vs 47.4%). EVs of different origin are partly internalized by cell components of intestinal wall, including cancer cells (illustrated by ).
+Excess of EVs is released in the circulation. Overall, the increase in the amount of circulating EVs or circulating annexin V+-EVs  has been observed in many cancer types and in inflammatory diseases (rev. ), and may not be considered as a specific diagnostic marker without additional immunophenotyping, discovering and validating disease-specific markers.
+
+Analysis of potential biomarkers of gastrointestinal cancers in EVs
+
+For the last decade EV components have been considered and in- tensively investigated as potential cancer biomarkers
+
+. However, the majority of published stu- dies report that the expression of biomarkers (or combinations of bio- markers) is detected only at the advanced metastatic tumor stage, i.e. when tumors are already detectable by other methods.
+Recently, Melo and coauthors described the first diagnostic test based on detecting of a membrane-anchored proteoglycan molecule glypican-1 (GPC1) on EVs. The authors were able to differentiate exo- somes isolated from the blood of patients with benign pancreatic dis- ease (BPD), from exosomes isolated from the patients with intraductal papillary mucinous neoplasm (pre-neoplastic lesion) based on the levels of exosomal GPC1. This non-invasive test, as authors claimed, allowed them to distinguish patients with pre-cancerous pancreatic lesions, and to identify patients with late pancreatic cancer (pancreatic ductal adenocarcinoma, PDAC) with 100% certainty. A comparison of the GPC1+ exosome-based  test  with  a  standard  biomarker  for  pancreatic cancer  (CA-19-9)  demonstrated  the  advantage  of  using  the  GPC1+ exosome detection method. The authors analyzed blood from 190 pa- tients with PDAC and 100 healthy controls, however, only a few pa- tients with early pre-neoplastic disease. However, there are already new published results from other group that contradict these findings. EVs of different origins vary in their stability, but reported serum EVs and EVs associated with DNA may remain stable between 4 degC and room temperature for > 24 h , which is important for cancer di- agnostics. Significant progress and research interest in circulating miRNAs and other non-coding RNAs could establish them robust di- agnostic biomarkers of GI cancers if the feasibility is validated. In the context of cancer biology, miRNA-based signatures of circulated EVs could serve as potential biomarkers for clinical use due to their com- paratively long half-life, high sensitivity and specificity, relatively easy accessibility and ability for early cancer detection . A major ad- vantage of miRNA compared to other RNA types, is in its high stability compared to longer mRNA transcripts in most biological samples in- cluding fixed and paraffin embedded (FFPE) samples . However, during long-term storage their stability may gradually and differentially decrease depending on FFPE tissue block age . miRNA stability in circulation is explained by binding to protein and
+lipid EV content .
+A number of publications describe microRNA profiling in plasma, serum, and culture supernatants of epithelial cell lines of GI cancers . Thus, four important miRNAs, namely, miR-1246,
+
+
+Fig. 3. Production of EVs in intestinal lumina (intraluminal EVs; tumor cell-derived-EVs; parasite-derived EVs; bacterial OMVs).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lamina propria
+
+Fig. 4. Internalization of cancer-derived EVs by colorectal cancer cell line HT29. EVs from plasma of patients with colorectal cancer were purified, quantitated, labeled by PKH26 and incubated with color- ectal cancer cell line HT29 for 18 h at 37 degC. Further cells were imagined with internalized individual EVs (Arrow) and cluster EVs (arrow head) using confocal laser scanning microscope ZEISS LSM780 (objective x 63, 540 to 552 nm band pass excitation filters and 575 to 640 nm band pass emission filters).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+miR-4644, miR-3976 and miR-4306, were upregulated in 83% of pa- tients with pancreatic cancer and are considered by the authors to be promising candidates for screening of pancreatic cancer in larger patient cohorts. It is important to note that the profile of miRNAs de- tected in the EVs is significantly different from that obtained from plasma samples as was demonstrated with miRNA 20a, miRNA 21, miRNA 92a, miRNA 106 and others . Despite the existing opti- mism that miRNA/miRNA signatures may be considered as perspective biomarkers for colorectal cancer , and other GI tract cancers and gastrointestinal tract inflammatory diseases , other reports demonstrated that the majority of detected miRNAs are not disease specific . Though publications suggesting EV microRNA signatures for cancer grow exponentially throughout the last decade, the suitability for clinical applications is still limited due to absence of endogenous controls to normalize circulating EVs microRNA levels, and conflicting results across the studies.
+
+EVs and cancer co-evolution
+
+It is now accepted that solid tumors are likely to derive from the co- evolution of neoplastic cells, stromal components, vasculature, and immune cells . As tumors grow in size, an array of molecular modifications aggregates, giving rise to multiple cell subpopulations, each with the ability to proliferate and mutate further. Moreover, neoplastic cell populations are able to regulate the nature of other types of cells in their microenvironment, converting their intrinsic anti-tu- moral response into pro-tumoral activity . Therefore, a ma- lignant tumor is composed not only of neoplastic cells, which are het- erogeneous in terms of genetic and phenotypic features, but also of heterogeneous healthy cell populations participating in anti-tumor immune response and communicating with cells, forming a particular extracellular matrix that supports cancer evolution and progression . EVs are critical mediators of intercellular communication and can orchestrate stroma, tumor microenvironments and tumor hetero- geneity influencing the dynamics of disease progression and metastasis outgrowth , promoting angiogenesis via Egr-1 activation , down-regulation of VEGF expression , microRNA production , and implicating other mechanisms, such as epigenetic regulation of cancer progression.
+Longitudinal studies of cancer patients may reveal possible
+
+mechanisms of tumor heterogeneity/evolution . Thus, Mege and co-authors , compared MPs from patients with CRC, pancreatic cancer, chronic pancreatitis and IBD, and characterized the distribution of different MP cellular origins (platelet-derived MPs (PMPs), en- dothelial MPs (EMPs), erythrocyte-derived MPs (EryMPs), leukocyte- derived MPs (LeuMPs) and MPs expressing of AnV and different MP antigens (tissue factor (TF), mucin1 (MUC1), podoplanin (PODO), etc.). Besides the differences between patient groups, authors also found microparticle signature changes before and after the "composite" complete remission (CRC), indicating that quantitative and qualitative changes happen in MP signature during cancer evolution.
+Another important aspect of cancer evolution is the epigenetic regulation of gene transcription that mediates cancer cell fate, pro- liferation and differentiation. The initial strategy using aberrant me- thylation for diagnostics of tumor-specific hypermethylated genes was challenging because chronic inflammation also induced changes in methylation levels . The search for early markers of pan- creatic cancer also includes epigenetic markers . Thus, DNA me- thylation of ADAM metalloproteinase and basonuclin in serum appears to have prognostic value for pancreatic cancer .
+However, tumor evolution and EVs modulating effects on GI cancers are always considered from the point of EVs originating only from eukaryotic cells, and therefore completely neglects EVs originating from human microbiota.
+
+EVs originated from gastrointestinal cancer and human microbiota
+
+Gut microbiota play a crucial role in the pathogenesis of mucosal inflammation in GI tract disorders. Bacterial, mycobacterial and viral infections are found to be important in IBD pathogenesis . Prac- tically all rodent models of IBD can be mitigated by treatment with antibiotics or by transferring mice into germ-free conditions . In mouse models, colitis-associated cancer did not develop in animals treated with antibiotics or germ-free environments .
+The microorganisms that are most frequently associated with cancer development include Mycobacterium avium subspecies paratuberculosis, adherent enteroinvasive Escherichia coli, Chlamydia pneumoniae and
+yeasts, such as Candida albicans and Saccharomyces cerevisiae . The intestine   is   normally   colonized   by   approximately   100   trillion
+
+microorganisms  comprising 500-1500 different species. Two major commensal groups in the mammalian intestine include Firmicutes (gram-positive bacteria) and Bacteroidetes (gram-negative bacteria) phyla forming approximately 90% of the total microbiome. Bacteroides spp. dominates GI microbiota, representing approximately 30% of all bacteria in GI tract, and is most resistant to antibiotics among anaerobes . Patients with GI tract cancers have specific enteric patterns of microbiome associated with an increase of certain bacterial species. Thus, stools derived from CRC patients had increased levels of Enterococcus, Escherichia, Shigella, Klebsiella, Streptococcus, Peptos- treptococcus, Firmicutes, Fusobacterium and Bacteroidetes . Vil- joen and co-authors evaluated important clinico-pathological features in Fusobacterium spp. and enterotoxigenic Bacteroides fragilis (ETBF), concluding that these bacteria were present at significantly higher levels in late-stage CRC patients in comparison with healthy individuals. Fusobacterium spp. is not carcinogenic, but may lead to tumorigenesis indirectly by enhancing inflammation and stimulating cancer cell proliferation . Fusobacterium spp. acts by activating FadA adhesion, which triggers colonic epithelial cells (CEC) Wnt sig- naling and enhances epithelial cell proliferation. The other important bacterial species, ETBF, produces the B. fragilis toxin (bft), which is associated with colorectal cancer, diarrheal disease, etc. . It is important, however, to emphasize that a- and e- clades of Proteobacteria including H.pylori and another pathogen of digestive tract, Campylo- bacter jejuni, produce altered form of flagellin molecule that is not re- cognized by Toll-like receptor TLR5, but preserve bacterial motility .
+As one of the major mechanisms, bacteria representing gut micro-
+biota, release vesicles named outer membrane vesicles (OMVs) for Gram-negative vesicles, or blebs, for Gram-positive bacteria . For simplicity we will use the term bacterial MVs or bMVs to refer to both types of these vesicles. bMVs are 40-300 nm in size, serve as part of the bacterial secretion and transport system and can deliver their cargo (DNA and RNA, protein, lipids and other biologically active molecules)  to bacterial and/or eukaryotic cells. bMVs are also a rich source of immunomodulating lipopolysaccharides, lipoproteins, pepti- doglycans and other bioactive components which are described for many species of Gram-negative bacteria residing in human gastro- intestinal tract including Escherichia coli, Helicobacter pylori, Fuso- bacterium nucleatum, B. fragilis and others . Recently, Chu and co-authors , demonstrated that bMVs shed by B. fragilis deliver immunomodulatory molecules such as a capsular poly- saccharide A (PSA) to intestinal dendritic cells (DC) of mice and acti- vate a noncanonical autophagy pathway requiring IBD-associated genes, NOD2 and ATG16L1 for protection from colitis. Consistent with mouse research data, cells from Crohn's disease patients and healthy controls respond to purified PSA and required functional ATG16L1 to induce  CD4+ Foxp3+IL-10+ T-regulatory  cells  in  response  to  OMVs
+
+from B. fragilis. These bMVs require human ortholog IBD associated genes ATG16L1 and NOD2 (the later encodes an intracellular sensor of bacterial peptidoglycan) in order to activate non-canonical autophagy protection pathway against colitis. Moreover, b-lactamases associated with bMVs that produced by Bacteroides sp. confer antibiotic resistance not only to the producing organism but also to other commensal bac- teria and enteric pathogens (such as Salmonella typhimurium) against b- lactam antibiotics . The bMVs have also been implicated in the pathogenesis of gastrointestinal chronic inflammatory diseases in- cluding Crohn's disease  and Helicobacter pylori associated in- flammation .
+
+Extracellular vesicles, interspecies communication and molecular mimicry
+
+Gastrointestinal tract is a place where inter-species and even inter- kingdom communication constantly occurs. EVs derived from host eu- karyotic cells and from prokaryotic symbiotic and/or pathogenic cells, edible plants , fungi and parasitic EVs produced by helminths
+ meet in intraluminal space and interact with intestinal cells. Recently, interspecies communication between nematodes (helminths) and host intestinal cells was reported by Buck and co-authors . Remarkably, Heligmosomoides polygyrus secrete miRNA-loaded EVs that are internalized by host mice cells and suppress host immune response. EV secretion was shown for many human parasites, such as trematodes (Schistosoma mansoni and Schistosoma japonicum)  and ne- matodes (Fasciola hepatica, Teladorsagia circumcincta), and plays an important role in establishing and maintaining parasitic infection. Circulating exosomal miRNAs after internalization by target cells can also act as ligands of Toll-like Receptors (TLRs) . Interestingly, mice TLRs (TLR13) were reported to recognize conserved nucleic acids such as 23S ribosomal RNA molecule of bacterial pathogen Staphylo- coccus aureus . Recent progress has led to identification of a large variety of cytosolic nucleic acid sensors . Further research in this area offers new scenarios to understand complexity that exists in the interaction between organisms on inter-species and inter-kingdom le- vels.
+The  intestinal  EVs  represent  a  huge  reservoir  of  microbial and
+parasitic antigens. New evidence demonstrates that bacterial DNA in- tegration and related mutagenesis through lateral gene transfer may occur in cancer cells . EVs can serve as a hypothetic vehicle for this transfer, since they carry different types of DNA and RNA. Moreover, protein epitopes can be shared between microbial molecules and self-antigens, and molecular mimicry can lead to the formation of cross-reactive antigens and/or activation T-lymphocytes. Target epi- topes can have only distant homologies with initial antigenic triggers
+ and epitope spreading can lead to tissue destruction, apoptosis and concomitant  presentation  of self- and   microbial  antigens  .
+
+
+Table 4
+Proteomic analysis of colorectal cancer-derived EVs and matching protein sequences in commensal and pathogenic microorganisms of GI tract. Protein family	Protein found in human colorectal EVs proteome	Microorganism containing matched protein sequence
+
+Integrins	Integrin-a2 precursor;
+Integrin-a5-precursor; Integrins a1, 2, 3, 6; b1, 4
+
+Helicobacter pylori (CagL) interacts with a5b3 and a5b1 integrins ;
+Candida albicans (SAP4, SAP5) 
+
+Regulatory proteins (regulation of actin skeleton)
+
+Tuba-protein	Listeria monocytogenes (InIC binds with high affinity to SH3 Tuba domain) )
+
+Keratins	2a, 10, 13, 19, 24, type I, cytoskeletal 9, 14, 18, 19, 20,
+type II, cytoskeletal 1, 2, 5, 8
+
+Enterobacteriaceae (serine protease autotransporter pet protein binding to K8) ;
+Enteropathogenic Escherichia coli (keratin-dependent actin reorganization) ;
+Salmonella enterica (interaction SspC protein with K8) ;
+Salmonella enterica (interaction SipC protein with K18 ;
+Shigella flexneri (IpaC binding to K18) ; Streptococcus agalactiae (Srr protein binding to K4) ;
+Streptococcus parasanguinis 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+could lose the kinase activity and become a pseudo-kinase. (Methods are provided in Suppl. File 1).
+
+Fig. 5. (A) Multiple sequence alignment for three kinase domains from Human, Mycobacterium tuberculosis, and Bacteroides fragilis, respectively. Left part shows multiple sequence alignment of three kinase domains P16234 (591-983), P9WI79 (13-295), and A0A017PLZ0       (1-295)       from      Human,
+Mycobacterium tuberculosis, and Bacteroides fragilis, respectively. Here P16234 is Platelet- derived growth factor receptor alpha (PDGFR- alpha), whereas P9WI79 and A0A017PLZ0 are Serine/threonine-protein kinase (PknD); (B) Superposition of the kinase domains from Human (represented in thin ribbon) and B. fra- gilis (represented in thick cartoon). Residues that are critical for kinase activity are shown red in the multiple sequence alignment. For Human and Mycobacterium tuberculosis, we show G-rich loop in cyan and activation loop in purple; whereas for Bacteroides fragilis, G-rich loop is shown in green and activation loop in yellow (detailed description in Suppl. File 1). From the , the PknD from B. fragilis lost the most part of G-rich loop, as well as sequences differ largely at activation loop. Since G-rich loop is critical for ATP-binding, PknD from B. fragilis
+
+
+
+Microbial commensals can induce cross-reactive lymphocytes (rev. ) and antibody responses in the gut can be directed against commensal and self-antigens cases being polyreactive in up to 25% .
+We hypothesized that colorectal cancer proteomes derived from EVs released by GI tract cancer cells may have protein sequences matching gut microbiome organisms. To investigate this, we re-analyzed the colorectal EV proteome studied by the Choi group and compared it with protein sequences from different commensal bacteria and viruses. As a result, a number of matching microbial sequences was identified (please, see for detailed analysis results).
+Furthermore, as shown in , we identified the pseudokinase
+
+domain in the B. fragilis genome with sequence matching platelet-de- rived growth factor receptor alpha (PDGFR-a). Mutations of PDGF/ PDGFRs genes, particularly in kinase and juxtamembrane domain   can lead to an increased PDGFR signaling and is notably asso- ciated with the stage, grade and poor outcomes of various cancers in- cluding colorectal cancers . Interestingly, while orthologs in Mycobacterium tuberculosis possess the characteristic catalytic residue (aspartate), this residue and segment of 16 amino acids is absent in Bacteroides spp., so this protein is predicted to be catalytically inactive, but functional pseudokinase . The loss of catalytic activity is mirrored by the acquisition of a potential activation loop (). We hypothesize that the presence of this pseudokinase with activation loop
+
+
+
+
+
+
+
+
+
+
+
+
+Patients with malignant tumor (1)
+
+Comparative proteomics  (quantitative differences in protein expression)
+
+
+
+
+
+
+
+
+
+Patients with pre-malignant (2) or benign (3) tumor
+
+
+Validation of marker
+( EVs flow and imaging cytometry)
+
+Fig. 6. Scheme of identification of new biomarkers highly expressed in EVs. (1) EVs purification; (2) proteomic analysis; (3) identification of hypothetic biomarkers; (4) analysis and validation of hypothetic biomarkers by flow and imaging flow cytometry.
+
+and homology to PDGFR-a in Bacteroides spp. may be related to PDGFR-
+a role in colorectal carcinogenesis.
+This novel approach, (i.e. matching protein sequences from eu- karyotic EV proteome with the known protein sequences of microbiome gut bacteria) (as well as the opposite - matching bMVs proteome with eukaryotic sequences) helps to identify new similarities between bac- teria and eukaryotic proteins and understand their functional role.
+
+Conclusions and future perspectives
+
+Actively secreted EVs from eukaryotic cells as well as from different microbial, fungi, parasitic species and edible plants in GI tract act as mediators of intracellular and inter-species communication, promote angiogenesis, induce immune suppression, and facilitate tumor cell survival and multi-drug resistance. There is a general consensus that the specific biosignatures of multiple EV biomarkers will be required for diagnostics of GI tract cancers. However, this suggestion recently got challenged when Melo and co-authors developed a simple one-molecule EV-based test for pancreatic cancer . This study was based on the search for proteomic markers highly expressed in EVs originating from patients with advanced tumors and have been identified in early stages of GI tumors. A similar approach can lead to the development of EV- based early diagnosis of different GI cancers, such as CRC ().
+The power of EVs is related to their unique protein, RNA, miRNA and DNA profiles, ubiquitous distribution (plasma, saliva, gastric juice, intestinal luminal liquid etc.) and their efficient binding and transfer to target cells . Many efforts have been devoted to EV proteome characterization and protein marker discovery . We devel- oped a new approach, consisting of matching protein sequences from eukaryotic EV proteome with known protein sequences to microbiome of gut bacteria as well as matching bMVs proteome with eukaryotic counterparts. We believe that using this strategy, it is possible to identify potential molecular mimicry protein sequences and these findings could be useful for further experimental research of their functional role.
+The current challenges in using EV as clinical biomarkers and in researching GI tract cancers include analytical variability of different instruments used for EV detection and variability of sample prepara- tion. The future perspective is the possibility of applying genome editing tools to engineer EVs loaded with "tailored" cargoes. Despite thorough EV research, there is much remaining to be studied to un- derstand the contribution of EVs in GI cancers' pathogenesis and de- velopment. Overall, the development of the EV field has the potential for early-stage cancer diagnosis, tracking chemo-resistance and ther- apeutic efficacy, and tailor-made treatment strategies for GI cancer patients.
+
+Conflict of interest statement
+
+The research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Transparency Document
+
+The associated with this article can be found, in online version.
+
+Acknowledgements
+
+Authors are grateful for grant support from Ministry of Science, Kazakhstan to I.A.V. (0472/GF4-15-OT) and N.S.B. (Program 0212/ PCF-14-OT), grant from Swiss IBD Cohort Study to E. F.-K., C.B. and N.S.B., Grant-in-Aid (University of Bern) to E.F.-K and Hong Kong RGC-
+ECS grant (ref. 24100314) to E.D.P. Space limitations prevented cita- tion  of  all  relevant  literature.  We  also  thank  Aleksandra  Gorelova
+
+(Harvard University) for help with editing of the manuscript.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at  .
+
+References
+
+fl
+
+
+ flfl
+
+
+fi
+J.E. Axelrad, S. Lichtiger, V. Yajnik, Inflammatory bowel disease and cancer. The role of inflammation, immunosuppression, and cancer treatment, World J. Gastroenterol. 22 (2016) 4794-4801, 
+
+fl
+
+
+
+
+
+N.S. Barteneva, E. Fasler-Kan, M. Bernimoulin, J.N. Stern, E.D. Ponomarev,
+L. Duckett, I.A. Vorobjev, Circulating microparticles: square the circle, BMC Cell Biol. 14 (2013) 23, 
+S. Lemoinne, D. Thabut, C. Housset, R. Moreau, D. Valla, C.M. Boulanger,
+P.E. Rautou, The emerging roles of microvesicles in liver diseases, Nat. Rev. Gastroenterol. Hepatol. 11 (2014) 350-361, 
+J.J. Telford, R.A. Enns, Endoscopic missed rates of upper gastrointestinal cancers: parallels with colonoscopy, Am. J. Gastroenterol. 105 (2010) 1298-1300, 
+
+D.A. Fisher, J.T. Maple, T. Ben-Menachem, B.D. Cash, G.A. Decker, D.S. Early,
+J.A. Evans, R.D. Fanelli, N. Fukami, J.H. Hwang, R. Jain, T.L. Jue, K.M. Khan,
+P.M. Malpas, R.N. Sharaf, A.K. Shergill, J.A. Dominitz, Complications of colono- scopy, Gastrointest. Endosc. 74 (2011) 745-752, 
+S. El Andaloussi, L. Maegger, X.O. Breakefield, M.J.A. Wood, M.J.A., Extracellular vesicles: biology and emerging therapeutic opportunities, Nat. Rev. Drug Discov. 12 (2013) 347-357, 
+G. Raposo, W. Stoorvogel, Extracellular vesicles: exosomes, microvesicles, and friends, J. Cell Biol. 200 (2013) 373-383, 
+J.K. Lee, S.R. Park, B.K. Jung, Y.K. Jeon, Y.S. Lee, M.K. Kim, Y.G. Kim, J.Y. Jang,
+C.W. Kim, Exosomes derived from mesenchymal stem cells suppress angiogenesis by down-regulating VEGF expression in breast cancer cells, PLoS One 8 (2013) e84256, , 
+
+J. Berleman, M. Auer, The role of bacterial outer membrane vesicles for intra- and interspecies delivery, Environ. Microbiol. 15 (2013) 347-354, 
+C. Schwechheimer, M.J. Kuehn, Outer-membrane vesicles from gram-negative bacteria: biogenesis and functions, Nat. Rev. Microbiol. 13 (2015) 605-619, 
+M. Kaparakis-Liaskos, R.L. Ferrero, Immune modulation by bacterial outer mem- brane vesicles, Nat. Rev. Immunol. 15 (2015) 375-387, 
+
+
+ 
+
+
+
+
+ffi
+Z. Andreu, M. Yanez-Mo, Tetraspanins in extracellular vesicle formation and function, Front. Immunol. 5 (2014) 442, fi
+S.N. Hurwitz, M.M. Conlon, M.A. Rider, N.C. Brownstein, D.G. Meckes Jr., Nanoparticle analysis sheds budding insights into genetic drivers of extracellular vesicles biogenesis, J. Extracell. Vesicles 5 (2016) 31295, 
+S. Sadallah, C. Eken, J.A. Schifferli, Erythrocyte-derived ectosomes have im- munosuppressive properties, J. Leukoc. Biol. 84 (2008) 1316-1325, 
+
+fi
+M. Record, K. Carayon, M. Poirot, S. Silvente-Poirot, Exosomes as new vesicular lipid transporters involved in cell-cell communication and various pathophysiol- ogies, Biochim. Biophys. Acta 1841 (2014) 108-120, 
+
+
+V. Muralidharan-Chari, J.W. Clancy, A. Sedgwick, C. D'Souza-Schorey, Microvesicles: mediators of extracellular communication during cancer progres- sion, J. Cell Sci. 123 (2010) 1603-1611, 
+
+
+B.J. Tauro, D.W. Greening, R.A. Mathias, H. Ji, S. Mathivanan, A.M. Scott,
+R.J. Simpson, Comparison of ultracentrifugation, density gradient separation and immunoaffinity capture methods for isolating human colon cancer cell line LIM1863-derived exosomes, Methods 56 (2012) 293-304, 
+K.W. Witwer, E.I. Buzas, L.T. Bemis, A. Bora, C. Laesser, J. Lotvall, E.N. Nolte-'t Hoen, M.G. Piper, S. Sivaraman, J. Skog, C. Thery, M.H. Wauben, F. Hochberg, F., Standardization of sample collection, isolation and analysis methods in extra- cellular vesicle research, J. Extracel. Vesicles 2 (2013) (2013), 
+
+ fl
+R. Gaudin, N.S. Barteneva, Sorting of small infectious virus particles by flow virometry reveals distinctive infectivity profiles, Nat. Commun. 6 (2015) 6022, 
+C. Laesser, V.S. Alikhani, K. Ekstroem, M. Eldh, P.T. Paredes, A. Bossios,
+M. Sjostrand, S. Gabrielsson, J. Lotvall, H. Valadi, Human saliva, plasma and breast milk exosomes contain RNA: uptake by macrophages, J. Transl. Med. 9 (2011) 9, 
+A. Waldenstroem, N. Gennebaeck, U. Hellman, G. Ronquist, Cardiomyocyte mi- crovesicles contain DNA/RNA and convey biological messages to target cells, PLoS One 7 (2012) e34653, , 
+D.D. Taylor, C. Gercel-Taylor, The origin, function, and diagnostic potential of RNA within extracellular vesicles present in human biological fluids, Front. Genet. 4 (2013) 142i, 
+
+ff
+
+F. Lovren, S. Verma, Evolving role of microparticles in the pathophysiology of endothelial dysfunction, Clin. Chem. 59 (2013) 1166-1174, 
+D.S. Choi, J.O. Park, S.C. Jang, Y.J. Yoon, J.W. Jung, D.Y. Choi, J.W. Kim,
+J.S. Kang, J. Park, D. Hwang, K.H. Lee, S.H. Park, Y.K. Kim, D.M. Desiderio,
+K.P. Kim, Y.S. Gho, Proteomic analysis of microvesicles derived from human colorectal cancer ascites, Proteomics 11 (2011) 2745-2751, 
+
+
+ffi
+V. Muralidharan-Chari, J. Clancy, C. Plou, M. Romao, P. Chavrier, G. Raposo,
+C. D'Souza-Schorey, ARF6-regulated shedding of tumor cell-derived plasma membrane microvesicles, Curr. Biol. 19 (2009) 1875-1885, 
+
+
+
+
+ffl
+G.K. Alderton, Exosomes drive pre-metastatic niche formation, Nat. Rev. Cancer 12 (2012) 447, 
+
+
+V. Luga, J.L. Wrana, Tumor-stroma interaction: revealing fibroblast-secreted exosomes as potent regulators of Wnt-planar cell polarity signaling in cancer metastasis, Cancer Res. 73 (2013) 6843-6847, 
+H. Wang, S. Rana, N. Giese, M.W. Buechler, M. Zoeller, TSPAN8, CD44v6 and alpha6beta4 are biomarkers of migrating pancreatic cancer-initiating cells, Int. J. Cancer 133 (2013) 416-426, 
+X. Wang, X. Ding, L. Nan, Y. Wang, J. Wang, Z. Yan, W. Zhang, J. Sun, W. Zhu,
+B. Ni, S. Dong, L. Yu, Investigation of the roles of exosomes in colorectal cancer liver metastasis, Oncol. Rep. 33 (2015) 2445-2453, 
+S. Holzner, D. Senfter, S. Stadler, A. Staribacher, C.H. Nguen, A. Gaggl, S. Geleff,
+N. Huttary, S. Krieger, W. Jager, H. Dolznig, R.M. Mader, G. Krupitza, Colorectal cancer cell-derived microRNA200 modulates the resistance of adjacent blood en- dothelial barriers in vitro, Oncol. Rep. 36 (2016) 3065-3071, 
+B. Shen, N. Wu, J.M. Yang, S.J. Gould, Protein targeting to exosomes/micro- vesicles by plasma membrane anchors, J. Biol. Chem. 286 (2011) 14383-14395, 
+M. Fujita, T. Kinoshita, GPI-anchor remodelling: potential functions of GPI-an- chors in intracellular trafficking and membrane dynamics, Biochem. Biophys. Acta 1821 (2012) 1050-1058, 
+M.F. Bolukbasi, A. Mizrak, G.B. Ozdener, S. Madlener, T. Strobel, E.P. Erkan,
+J.B. Fan, X.O. Breakefield, O. Saydam, miR-1289 and "Zip-code"-like sequence enrich mRNAs in microvesicles, Mol. Ther. Nucleic Acids 1 (2012) e10, 
+R. Uratani, Y. Toiyama, T. Kitajima, M. Kawamura, J. Hiro, M. Kobayashi,
+K. Tanaka, Y. Inoue, Y. Mohri, T. Mori, T. Kato, A. Goel, M. Kusunoki, Diagnostic potential of cell-free and exosomal microRNAs in the identification of patients with high-risk colorectal adenomas, PLoS One 11 (2016) e0160722, , 
+T. Matsumura, K. Sugimachi, H. Iinuma, Y. Takahashi, J. Kurashuige, G. Sawada,
+M. Ueda, R. Uchi, H. Ueo, Y. Takano, Y. Shinden, H. Eguchi, H. Yamamoto,
+Y. Doki, M. Mori, T. Ochiya, K. Mimori, Exosomal microRNA in serum is a novel biomarker of recurrence in human colorectal cancer, Br. J. Cancer 113 (2015) 275-281, 
+H. Ogata-Kawata, M. Izumiya, D. Kurioka, Y. Honma, Y. Yamada, K. Furuta,
+T. Gunji, H. Ohta, H. Okamoto, H. Sonoda, M. Watanabe, H. Nakagama, J. Yokota,
+T. Kohno, N. Tsuchiya, Circulating exosomal microRNA as biomarkers of colon cancer, PLoS One 9 (2014) e92921, , 
+Y. Yoshioka, N. Kosaka, Y. Konishi, H. Ohta, H. Okamoto, H. Sonoda, R. Nonaka,
+H. Yamamoto, H. Ishii, M. Mori, K. Furuta, T. Nakajima, H. Hayashi, H. Sugisaki,
+H. Higashimoto, T. Kato, F. Takeshita, T. Ochiya, Ultra-sensitive liquid biopsy of circulating extracellular vesicles using ExoScreen, Nat. Commun. 5 (2014) 3591, 
+
+
+
+
+
+
+
+
+
+M. Tokuhisa, Y. Ichikawa, N. Kosaka, T. Ochiya, M. Yashiro, K. Hirakawa,
+T. Kosaka, H. Makino, H. Akiyama, C. Kunisaki, I. Endo, Exosomal miRNAs from peritoneum lavage fluid as potential biomarkers of peritoneal metastasis in gastric cancer, PLoS One 10 (2015) e0130472, , 
+Q. Li, Y. Shao, X. Zhang, T. Zheng, M. Miao, L. Qin, W. Zhang, Y.L. Wu, L. Chen, Plasma long noncoding RNA protected by exosomes as a potential stable bio- marker for gastric cancer, Tumor Biol. 36 (2015) 2007-20012, 
+X. Zhou, W. Zhu, H. Li, W. Wen, W. Cheng, F. Wang, Y. Wu, L. Qi, Y. Fan, Y. Chen,
+Y. Ding, J. Xu, J. Qian, Z. Huang, T. Wang, D. Zhu, Y. Shu, P. Liu, Diagnostic value of a plasma microRNA signature in gastric cancer: a microRNA expression ana- lysis, Sci Rep 5 (2015) 11251, 
+H. Zhong, Y. Yang, S. Ma, F. Xiu, Z. Cai, H. Zhao, L. Du, Induction of a tumour- specific CTL response by exosomes isolated from heat-treated malignant ascites of gastric cancer patients, Int. J. Hyperth. 27 (2011) 604-611, 
+
+
+Y.K. Huang, J.C. Yu, Circulating microRNAs and long non-coding RNAs in gastric cancer diagnosis: an update and review, World J. Gastroenterol. 21 (2015) 9717-9726, 
+J. Liao, R. Liu, Y.J. Shi, L.H. Yin, Y.P. Pu, Exosome-shuttling micro-RNA-21 pro- motes cell migration and invasion-targeting PDCD4 in esophageal cancer, Int. J. Oncol. 48 (2016) 2567-2579, 
+Y. Matsumoto, M. Kano, Y. Akutsu, N. Hanari, I. Hoshino, K. Murakami, A. Usui,
+H. Suito, M. Takahashi, R. Otsuka, H. Xin, A. Komatsu, K. Iida, H. Matsubara, Quantification of plasma exosome is a potential prognostic marker for esophageal squamous cell carcinoma, Oncol. Rep. 36 (2016) 2535-2543, 
+K. Chiam, T. Wang, D.L. Watson, G.C. Mayne, T.S. Irvine, T. Bright, L. Smith,
+I.A. White, J.M. Bowen, D. Keefe, S.K. Thompson, M.E. Jones, D.J. Hussey, Circulating serum exosomal miRNAs as potential biomarkers for esophageal ade- nocarcinoma, J. Gastrointest. Surg. 19 (2015) 1208-1215, 
+U. Warnecke-Eberz, S.-H. Chon, A.H. Hoelscher, U. Drebber, E. Bollschweiler, Exosomal onco-miRs from serum of patients with adenocarcinoma of the eso- phagus: comparison of miRNA profiles of exosomes and matching tumor, Tumor Biol. 36 (2015) 4643-4653, 
+Y. Tanaka, H. Kamohara, K. Kinoshita, J. Kurashige, T. Ishimoto, M. Iwatsuki,
+M. Watanabe, H. Baba, Clinical impact of serum exosomal microRNA-21 as a clinical biomarker in human esophageal squamous cell carcinoma, Cancer 119 (2013) 1159-1167, 
+
+C. Campanella, F. Rappa, C. Sciume, A. Marino Gammaza, R. Barone, F. Bucchieri,
+S. David, G. Curcuru, C. Caruso Bavisotto, A. Pitruzzella, G. Geraci, G. Modica,
+F. Farina, G. Zummo, S. Fais, E. Conway de Macario, A.J. Macario, F. Cappello, Heat shock protein 60 levels in tissue and circulating exosomes in human large bowel cancer before and after ablative surgery, Cancer 121 (2015) 3230-3239, 
+
+F.A. San Lukas, K. Allenson, V. Bernard, J. Castillo, D.U. Kim, K. Ellis, E.A. Ehli,
+G.E. Davies, J.L. Petersen, D. Li, R. Wolff, M. Katz, G. Varadhachary, L. Wistuba,
+Maitra, H. Alvarez, Minimally invasive genomic and transcriptomic profiling of visceral cancers by next-generation sequencing of circulating exosomes, Ann. Oncol. 27 (2016) 635-641, 
+B. Costa-Silva, N.M. Aiello, A.J. Ocean, S. Singh, H. Zhang, B.K. Thakur, A. Becker,
+Hoshino, M.T. Mark, H. Molina, J. Xiang, T. Zhang, T.M. Theilen, G. Garcia- Santos, C. Williams, Y. Ararso, Y. Huang, G. Rodrigues, T.L. Shen, K.J. Labori,
+I.M. Lothe, E.H. Kure, J. Hernandez, A. Doussot, S.H. Ebbesen, P.M. Grandgenett,
+M.A. Hollingsworth, M. Jain, K. Mallya, S.K. Batra, W.R. Jarnagin, R.E. Schwartz,
+I. Matei, H. Peinado, B.Z. Stanger, J. Bromberg, D. Lyden, Pancreatic cancer exosomes initiate pre-metastatic niche formation in the liver, Nat. Cell Biol. 17 (2015) 816-826, 
+N. Javeed, G. Sagar, S.K. Dutta, T.C. Smyrk, J.S. Lau, S. Bhattacharya, M. Truty,
+G.M. Petersen, R.J. Kaufman, S.T. Chari, D. Mukhopadhyay, Pancreatic cancer- derived exosomes cause paraneoplastic b-cell dysfunction, Clin. Cancer Res. 21 (2015) 1722-1733, 
+G.K. Joshi, S. Deitz-McElyea, T. Liyanage, K. Lawrence, S. Mali, R. Sardar, M. Korc, Label-free nanoplasmonic-based short noncoding RNA sensing at attomolar con- centrations allows for quantitative and highly specific assay of microRNA-10b in biological fluids and circulating exosomes, ACS Nano 9 (2015) 11075-11089, 
+S.A. Melo, L.B. Luecke, C. Kahlert, A.F. Fernandez, S.T. Gammon, J. Kaye,
+V.S. LeBleu, V.S. Mittendorf, J. Weitz, N. Rahbari, C. Reissfelder, C. Pilarsky,
+M.F. Fraga, D. Piwnica-Worms, R. Kalluri, Glypican-1 identifies cancer exosomes and detects early pancreatic cancer, Nature 523 (2015) 177-182, 
+S.S. Kanwar, C.J. Dunlay, D.M. Simeone, S. Nagrath, Microfluidic device (ExoChip) for on-chip isolation, quantification and characterization of circulating
+
+exosomes, Lab Chip 14 (2014) 1891-1900,  
+B. Madhavan, S. Yue, U. Galli, S. Rana, W. Gross, M. Muller, N.A. Giese,
+H. Kalthoff, T. Becker, M.W. Buchler, M. Zoller, Combined evalustion of a panel of protein and miRNA serum-exosome biomarkers for pancreatic cancer increases sensitivity and specificity, Int. J. Cancer 136 (2015) 2616-2627, 
+R. Que, G. Ding, J. Chen, L. Cao, Analysis of serum exosomal microRNAs and clinicopathologic features of patients with pancreatic adenocarcinoma, World J. Surg. Oncol. 11 (2013) 219, 
+A. Willms, C. Mueller, H. Julich, N. Klein, R. Schwab, C. Guesgen, I. Richardsen,
+Schaaf, M. Krawczyk, M. Krawczyk, F. Lammert, D. Schuppan, V. Lukacs- Kornek, M. Kornek, Tumour-associated circulating microparticles: a novel liquid biopsy tool for screening and therapy monitoring of colorectal carcinoma and other epithelial neoplasia, Oncotarget 7 (2016) 30867-30875, 
+D. Mege, L. Panicot-Dubois, M. Ouaissi, S. Robert, I. Sielezneff, B. Sastre, F. Dignat- George, C. Dubois, The origin and concentration of circulating microparticles differ according to cancer type and evolution: a prospective single-center study,  Int. J. Cancer 13894 (2016) 939-948, 
+N. Yamada, N. Tsujimura, M. Kumazaki, H. Shinohara, K. Taniguchi, Y. Nakagawa,
+Naoe, Y. Akao, Colorectal cancer cell-derived microvesicles containing microRNA-1246 promote angiogenesis by activating Smad 1/5/8 signaling elicited by PML down-regulation in endothelial cells, Biochim. Biophys. Acta 1839 (2014) 1256-1272, 
+E. Ogorevc, R. Stukelj, A. Bedina-Zavec, V. Sustar, M. Simundic, V. Kralj-Iglic,
+R. Jansa, A 32-month follow-up study of nanovesicle concentrations in blood from 12 patients with gastrointestinal stromal tumour treated with imatinib, Biochem. Soc. Trans. 41 (2013) 303-308, 
+M. Stec, R. Szatanek, M. Baj-Kryworzeka, J. Baran, M. Zembala, J. Barbasz,
+Waligorska, J.W. Dobrucki, B. Mytar, A. Szczepanik, M. Siedlar, G. Drabik,
+Urbanowicz, M. Zembala, Interactions of tumour-derived micro(nano)vesicles with human gastric cancer cells, J. Transl. Med. 13 (2015) 376, 
+
+
+
+
+C. Yang, R. Ma, T. Jiang, M. Cao, L. Zhao, Y. Bi, J. Kou, J. Shi, X. Zou, Contributions of phosphatidylserine-positive platelets and leukocytes and micro- particles to hypercoagulable state in gastric cancer patients, Tumour Biol. 37 (2016) 7881-7891, 
+J. Baran, M. Baj-Krzyworzeka, K. Weglarczyk, R. Szatanek, M. Zembala,
+J. Barbasz, A. Czupryna, A. Szczepanik, M. Zembala, Circulating tumour-derived microvesicles in plasma of gastric cancer patients, Cancer Immunol. Immunother. 59 (2010) 841-850, 
+R. Jansa, V. Sustar, M. Frank, P. Susanj, J. Bester, M. Mancek-Keber, M. Krzan,
+Iglic, Number of microvesicles in peripheral blood and ability of plasma to induce adhesion between phospholipid membranes in 19 patients with gastro- intestinal diseases, Blood Cells Mol. Dis. 41 (2008) 124-132, 
+
+
+J.E. Geddings, Y. Hisada, Y. Boulaftali, T.M. Getz, M. Whelihan, R. Fuentes, R. Dee,
+B.C. Cooley, N.S. Key, A.S. Wolberg, W. Bergmeier, N. Mackman, Tissue factor- positive tumor microvesicles activate platelets and enhance thrombosis in mice, J. Thromb. Haemost. 14 (2016) 153-166, 
+F.J. Woei-A-Jin, M.E. Tesselaar, P. Garcia Rodriguez, F.P. Romijn, R.M. Bertina,
+S. Osanto, Tissue factor-bearing microparticles and CA19.9: two players in pan- creatic cancer-associated thrombosis, Br. J. Cancer 115 (2016) 332-338, 
+G.M. Thomas, A. Brill, S. Mezouar, L. Crescence, M. Gallant, C. Dubois,
+D.D. Wagner, Tissue factor expressed by circulating cancer cell-derived micro- particles drastically increases the incidence of deep vein thrombosis in mice, J. Thromb. Haemost. 13 (2015) 1310-1319, 
+
+
+
+O. Oleksiuk, M. Abba, K.C. Tezcan, W. Schaufler, F. Bestwater, N. Patil, U. Birk,
+M. Hafner, P. Altevogt, C. Cremer, H. Allgayer, Single-molecule localization mi- croscopy allows for the analysis of cancer metastasis-specific miRNA distribution on the nanoscale, Oncotarget 6 (2015) 44745-44757, 
+Z. Wang, A. von Au, M. Schnoelzer, T. Hackert, M. Zoeller, CD44v6-competent tumor exosomes promote motility, invasion and cancer-initiating cell marker
+
+expression in pancreatic and colorectal cancer cells, Oncotarget 7 (2016) 55409-55436, 
+fi
+Y. Zhu, X. Chen, Q. Pan, Y. Wang, C. Su, Jiang, Y. Li, N. Xu, L. Wu, X. Lou, S. Liu, A comprehensive proteomics analysis reveals a secretory path- and status-dependent signature of exosomes released of tumor-associated macrophages, J.  Proteome Res. 14 (2015) 4319-4331, 
+Y. Akao, F. Khoo, M. Kumazaki, H. Shinohara, K. Miki, N. Yamada, Extracellular disposal of tumor-suppressor miRs-145 and -34a via microvesicles and 5-FU re- sistance of human colon cancer cells, Int. J. Mol. Sci. 15 (2014) 1392-1401, 
+H. Ji, M. Chen, D.W. Greening, W. He, A. Rai, W. Zhang, R.J. Simpson, Deep sequencing of RNA from three different extracellular vesicle subtypes (RV) sub- types released freom the human LIM1863 colon cancer cwell line uncovers distinct miRNA-enrichment signatures, PLoS One 9 (2014) e110314, , 
+B. Soldevilla, M. Rodriguez, C. San Millan, V. Garcia, R. Fernandez-Perianez,
+Gil-Calderon, P. Martin, A. Garcia-Grande, J. Silva, F. Bonilla, G. Dominguez, Tumor-derived exosomes are enriched in DNp73, which promotes oncogenic po- tential in acceptor cells and correlates with patients survival, Hum. Mol. Genet. 23 (2014) 467-478, 
+O.K. Bernhard, D.W. Greening, T.W. Barnes, H. Ji, R.J. Simpson, Detection of cadherin-17 in human colon cancer LIM 1215 cell secretome and tumour xeno- graft-derived interstitial liquid and plasma, Biochim. Biophys. Acta 2013 (1834) 2372-2379, 
+B.S. Hong, J.H. Cho, H. Kim, E.J. Choi, S. Rho, J. Kim, J.H. Kim, D.S. Choi,
+Y.K. Kim, D. Hwang, Y.S. Gho, Colorectal cancer cell-derived microvesicles are enriched in cell cycle-related mRNAs that promote proliferation of endothelial cells, BMC Genomics 10 (2009) 556, 
+H.T. Muturi, J.D. Dreesen, E. Nilewski, H. Jastrow, B. Giebel, S. Ergun, B.B. Singer, Tumor and endothelial cell-derived microvesicles carry distinct CEACAMs and influence T-cell behavior, PLoS One 8 (2013) e74654, , 
+B.J. Tauro, D.W. Greening, R.A. Mathias, S. Mathivanan, H. Ji, R.J. Simpson, Two distinct populations of exosomes are released from LIM1863 colon carcinoma cell- derived organoids, Mol. Cell. Proteomics 12 (2013) 587-598, 
+
+
+S. Ge, H. Li, L. Zhou, Y. Liu, D. Huang, G. Ying, Y. Ba, Cell-derived microvesicles mediate the delivery of miR-29a/c to suppress angiogenesis in gastric carcinoma, Cancer Lett. 375  (2016)  331-339,  
+
+
+C. Li, D.-R. Liu, G.-G. Li, H.-H. Wang, X.-W. Li, W. Zhang, Y.L. Wu, L. Chen, CD97 promotes gastric cancer cell proliferation and invasion through exosome-mediated MAPK signaling pathway, World J. Gastroenterol. 21 (2015) 6215-6228, 
+K. Ohshima, K. Kanto, K. Hatakeyama, T. Ide, K. Wakabayashi-Nakao,
+Y. Watanabe, N. Sakura, M. Terashima, K. Yamaguchi, T. Mochizuki, Exosome- mediated extracellular release of polyadenylate-binding protein 1 in human me- tastatic duodenal cancer cells, Proteomics 14 (2014) 2297-2306, 
+M. Wang, C. Zhao, H. Shi, B. Zhang, L. Zhang, X. Zhang, S. Wang, X. Wu, T. Yang,
+F. Huang, J. Cai, Q. Zhu, W. Zhu, H. Qian, W. Xu, Deregulated microRNAs in gastric cancer tissue-derived mesenchymal stem cells tissue-derived mesenchymal stem cells: novel biomarkers and a mechanism for gastric cancer, Br. J. Cancer 110 (2014) 1199-1210, 
+J. Gu, H. Qian, L. Shen, X. Zhang, W. Zhu, L. Huang, Y. Yan, F. Mao, C. Zhao,
+Y. Shi, W. Xu, Gastric cancer exosomes trigger differentiation of umbilical cord derived mesenchymal stem cells to carcinoma-associated fibroblasts through TGF- beta/Smad pathway, PLoS One 7 (2012) e52465, , 
+K. Ohsima, K. Inoue, A. Fujiwara, K. Hatakeyama, K. Kanto, Y. Watanabe,
+K. Muramatsu, Y. Fukuda, S. Ogura, K. Yamaguchi, T. Mochizuki, Let-7 microRNA family is selectively secreted into the extracellular environment via exosomes in a metastatic gastric cancer cell line, PLoS One 5 (2010) e13247, 
+J.L. Qu, X.J. Qu, M.F. Zhao, Y.E. Teng, Y. Zhang, K.Z. Hou, Y.H. Jiang, X.H. Yang,
+Y.P. Liu, Gastric cancer exosomes promote tumour cell proliferation through PI3K/ Akt and MAPK/ERK, Dig. Liver Dis. 41 (2009) 875-880, 
+ff
+G. Sagar, R.P. Sah, N. Javeed, S.K. Dutta, T.C. Smyrk, J.S. Lau, N. Giorgadze,
+T. Tchkonia, J.L. Kirkland, S.T. Chari, D. Mukhopadhyay, Pathogenesis of pan- creatic cancer exosome-induced lipolysis in adipose tissue, Gut 65 (2016) 1165-1174, 
+G. Ding, L. Zhou, Y. Qian, M. Fu, J. Chen, J. Chen, J. Xiang, Z. Wu, G. Jiang, L. Cao,
+
+
+M.P. Hunter, N. Ismail, X. Zhang, B.D. Aguda, E.J. Lee, L. Yu, T. Xiao, J. Schafer,
+M.L. Lee, T.D. Schmittgen, S.P. Nana-Sinkam, D. Jarjoura, C.B. Marsh, Detection of microRNA expression in human peripheral blood microvesicles, PLoS One 3 (2008) e3694, , 
+B.W. van Balcom, A.S. Eisele, D.M. Pegtel, S. Bervoets, M.C. Verhaar, Quantitative and qualitative analysis of small RNAs in human ensothelial cells and exosomes provides insights into localized RNA processing, degradation and sorting, J. Extracel.  Vesicles  4  (2015)  26760,  
+S. Mohankumar, T. Patel, Extracellular vesicle long noncoding RNA as potential biomarkers of liver cancer, Brief. Funct. Genomic. 15 (2016) 249-256, 
+
+
+B.J. Goldie, M.D. Dun, M. Lin, N.D. Smith, N.M. Verrils, C.V. Dayas, M.J. Cairns, Activity-associated miRNA are packaged in Map1b-enriched exosomes released from depolarized neurons, Nucleic Acids Res. 42 (2014) 9195-9208, 
+
+T.Y. Lin, Circulating miR-221 directly amplified from plasma is a potential diag- nostic and prognostic marker of colorectal cancer and is correlated with p53 ex- pression, J. Gastroenterol. Hepatol. 25 (2010) 1674-1680, 
+
+
+G. Dalmasso, H.T. Nguen, Y. Yan, H. Laroui, M.A. Charania, S. Ayyadurai,
+S.V. Sitaraman, D. Merlin, Microbiota modulate host gene expression via microRNAs, PLoS One 6 (2011) e19293, , 
+D.D. Taylor, C. Gercel-Taylor, MicroRNA signatures of tumor-derived exosomes as diagnostic biomarkers of ovarian cancer, Gynecol. Oncol. 110 (2008) 13-21, 
+S. Tanaka, M. Hosokawa, K. Ueda, S. Iwakawa, Effects of decitabine on invasion and exosomal expression of miR-200c and miR-141 in oxaliplatin-resistant col- orectal cancer, Biol. Pharm. Bull. 38 (2015) 1272-1279, 
+D.S. Choi, J.S. Yang, E.J. Choi, S.C. Jang, S. Park, O.Y. Kim, D. Hwang, K.P. Kim,
+
+
+S. Beloribi-Djefaflia, S. Vasseur, F. Guillaumond, Lipid metabolic reprogramming in cancer cells, Oncogene 5 (2016) e189, , 
+ff
+
+D. Leonetti, J.M. Reimund, A. Tesse, S. Viennot, M.C. Martinez, A.L. Bretagne,
+R. Andriantsitohaina, Circulating microparticles from Crohn's disease patients cause endothelial and vascular dysfunctions, PLoS One 8 (2013) e73088, , 
+J. Palkovits, G. Novacek, M. Kollars, G. Hron, W. Osterode, P. Quehenberger,
+P.A. Kyrle, H. Vogelsang, W. Reinisch, P. Papay, A. Weltermann, Tissue factor exposing microparticles in inflammatory bowel disease, J. Crohns Colitis 7 (2013) 222-229, 
+S. Mitsuhashi, L. Feldbruegge, E. Csizmadia, M. Mitsuhashi, S.C. Robson,
+A.C. Moss, Luminal extracellular vesicles in inflammatory bowel disease exhibit proinflammatory effects on epithelial cells and macrophages, Inflamm. Bowel Dis. 22 (2016) 1587-1595, 
+E. Voudoukis, E.K. Vetsika, K. Giannakopoulou, A. Theodoropoulou, A. Sfiridaki,
+V. Georgouilas, G.A. Paspatis, I.E. Koutroubakis, Distinct features of circulating microparticles and their relationship with disease activity in inflammatory bowel disease, Ann. Gastroenterol. 29 (2016) 180-187, 
+
+
+S.F. Mause, C. Weber, Microparticles: protagonists of a novel communication network for intercellular information exchange, Circ. Res. 107 (2010) 1047-1057, 
+S. Tual-Chalot, D. Leonetti, R. Andriantsitohaina, M.C. Martinez, Microvesicles: intercellular vectors of biological messages, Mol. Interv. 11 (2011) 88-94, 
+
+
+
+
+
+G. Tziatzios, D. Polymeros, A. Spathis, M. Triantafyllou, P. Gkolfakis,
+P. Karakitsos, G. Dimitriadis, K. Triantafyllou, Increased levels of circulating platelet derived microparticles in Crohn's disease patients, Scand. J. Gastroenterol. 51 (2016) 1184-1192, 
+Y. Li, J. An, S. Huang, J. He, J. Zhang, Esophageal cancer-derived microvesicles induce regulatory B-cells, Cell Biochem. Funct. 33 (2015) 308-313, 
+J.A. Weber, D.H. Baxter, S. Zhang, D.Y. Huang, M.J. Lee, D.J. Galas, K. Wang, The microRNA spectrum in 12 body fluids, Clin. Chem. 56 (2010) 1733-1741, 
+ fiffi
+W. Meng, J.P. McElroy, S. Volinia, J. Palatini, S. Warner, L.W. Ayers,
+K. Palanichamy, A. Chakravarti, T. Lautenschlaeger, Comparison of microRNA deep sequencing of matched formalin-fixed parafin-embedded and fresh frozen cancer tissues, PLoS One 8 (2013) e64393, , 
+S.B. Pescoe, J.R. Barber, Q. Zheng, A.K. Meeker, A.M. De Marzo, E.A. Platz,
+S.E. Lupold, Differential long-term stability of microRNAs and RNU6B snRNA in 12-20 year old formalin-fixed paraffin-embedded specimens, BMC Cancer 17 (2017) 32, 
+J.D. Arroyo, J.R. Chevillet, E.M. Kroh, I.K. Ruf, C.C. Pritchard, D.F. Gibson,
+P.S. Mitchell, C.F. Bennett, E.L. Pogosova-Agadjanyan, D.L. Stirewalt, J.F. Tait,
+M. Tewari, Argonaute2 complexes carry a population of circulating microRNAs independent of vesicles in the human plasma, Proc. Natl. Acad. Sci. U. S. A. 108 (2011) 5003-5008, 
+K.C. Vickers, B.T. Palmisano, B.M. Shoucri, R.D. Shamburek, A.T. Remaley, MicroRNAs are transported in plasma and delivered to recipient cells by high- density lipoproteins, Nat. Cell Biol. 13 (2011) 423-433, 
+L. Li, D. Zhu, L. Huang, J. Zhang, Z. Bian, X. Chen, Y. Liu, C.Y. Zhang, K. Zen, Argonaute2 complexes selectively protect the circulating microRNAs in cell-se- creted microvesicles, PLoS One 7 (2012) e4, , 
+M.S. Ostenfeld, S.G. Jensen, D.K. Jeppesen, L.L. Christensen, S.B. Thorsen,
+J. Stenvang, M.L. Hvam, A. Thomsen, P. Mouritzen, M.H. Rasmussen, H.J. Nielsen,
+T.F. Orntoft, C.L. Andersen, miRNA profiling of circulating EpCAM(+) extra- cellular vesicles: promising biomarkers of colorectal cancer, J. Extracell. Vesicles 5 (2016) 31488, 
+X. Yang, Z. Zeng, Y. Hou, T. Yuan, C. Gao, W. Jia, X. Yi, M. Liu, MicroRNA-92a as a potential biomarker in diagnosis of colorectal cancer: a systematic review and
+
+meta-analysis, PLoS One 9 (2014) e88745, ,  
+W. Zeng, Y. Tu, Y. Zhu, Z. Wang, C. Li, L. Lao, G. Wu, Predictive power of cir- culating miRNAs in detecting colorectal cancer, Tumour Biol. 36 (2015) 2559-2567, 
+Z. Fang, J. Tang, Y. Bai, H. Lin, H. You, H. Jin, L. Lin, P. You, J. Li, Z. Dai, X. Liang,
+Y. Su, Q. Hu, F. Wang, Z.Y. Zhang, Plasma levels of microRNA-24, microRNA- 320a, and microRNA-423-5p are potential biomarkers for colorectal carcinoma, J. Exp. Clin. Cancer Res. 34 (2015) 86, 
+
+A. Oikonomopoulos, C. Polytarchou, S. Joshi, D.W. Hommes, D. Iliopoulos, Identification of circulating microRNA signatures and Crohn's disease using the nanostring nCounter technology, Inflamm. Bowel Dis. 22 (2016) 2063-2069, 
+H. Wang, S. Zhang, Q. Yu, G. Yang, J. Guo, M. Li, Z. Zeng, Y. He, B. Chen, M. Chen, Circulating microRNA223 is a new biomarker for inflammatory bowel disease, Medicine (Baltimore) 95 (2016) e2703, , 
+C.C. Pritchard, E. Kroh, B. Wood, J.D. Arroyo, K.J. Dougherty, M.M. Miyaji,
+J.F. Tait, M. Tewari, Blood cell origin of circulating microRNAs: a cautionary note for cancer biomarker studies, Cancer Prev. Res. (Phila.) 5 (2012) 492-497, 
+B.A. Haider, A.S. Baras, M.N. McCall, J.A. Hertel, T.C. Cornish, M.K. Halushka, A critical evaluation of microRNA biomarkers in non-neoplastic disease, PLoS One 9 (2014) e89565, , 
+M.R. Junttila, F.J. de Sauvage, Influence of tumour micro-environment hetero- geneity on therapeutic response, Nature 501 (2013) 346-354, 
+M. Holzel, A. Bovier, T. Tuting, Plasticity of tumour and immune cells: a source of heterogeneity and a cause for therapy resistance? Nat. Rev. Cancer 13 (2013) 365-376, 
+fl
+
+L. Zhang, S. Zhang, J. Yao, F.J. Lowery, Q. Zhang, W.C. Huang, P. Li, M. Li,
+X. Wang, C. Zhang, H. Wang, K. Ellis, M. Cheerathodi, J.H. McCarty, D. Palmieri,
+J. Saunus, S. Lakhani, S. Huang, A.A. Sahin, K.D. Aldape, P.S. Steeg, D. Yu, Microenvironment-induced PTEN loss by exosomal microRNA primes brain me- tastasis outgrowth, Nature 527 (2015) 100-104, 
+A. Becker, B.K. Thakur, J.M. Weiss, H.S. Kim, H. Peinado, D. Lyden, Extracellular vesicles in cancer: cell-to-cell mediators of metastasis, Cancer Cell 30 (2016) 836-848, 
+Y.J. Yoon, D.K. Kim, C.M. Yoon, J. Park, Y.K. Kim, T.Y. Roh, Y.S. Gho, Egr-1 ac- tivation by cancer-derived extracellular vesicles promotes endothelial cell migra- tion via ERK1/2 and JNK signaling pathways, PLoS One 9 (2014) e115170, , 
+fi
+
+
+
+
+T. Nakajima, S. Enomoto, S. Yamashita, T. Ando, Y. Nakanishi, K. Nakazawa,
+I. Oda, T. Gotoda, T. Ushijima, Persistence of a component of DNA methylation in gastric mucosae after Helicobacter pylori eradication, J. Gastroenterol. 45 (2010) 37-44, 
+S. Fukushige, A. Horii, Road to early detection of pancreatic cancer. Attempts to utilize epigenetic biomarkers, Cancer Lett. 342 (2014) 231-237, 
+J.M. Yi, A.A. Guzzetta, V.J. Bailey, S.R. Downing, L. Van Neste, K.B. Chiapinelli,
+B.P. Keeley, A. Stark, A. Herrera, C. Wolfgang, E.P. Pappou, C.A. Iacobuzio- Donahue, M.G. Goggins, J.G. Herman, T.H. Wang, S.B. Baylin, N. Ahuja, Novel methylation biomarker panel for the early detection of pancreatic cancer, Clin. Cancer Res. 19 (2013) 6544-6555, 
+fl
+fl
+
+fl
+M. Castellarin, R.L. Warren, J.D. Freeman, L. Dreolini, M. Krzywinski, J. Strauss,
+R. Barnes, P. Watson, E. Allen-Vercoe, R.A. Moore, R.A. Holt, Fusobacterium
+
+nucleatum infection is prevalent in human colorectal carcinoma, Genome Res. 22 (2012) 299-306, 
+T. Irrazabal, A. Belcheva, S.E. Girardin, A. Martin, D.J. Philpott, The multifaceted role of the intestinal microbiota in colon cancer, Mol. Cell 54 (2014) 309-320, 
+D.C. Rubin, A. Shaker, M.S. Levin, Chronic intestinal inflammation: inflammatory bowel disease and colitis-associated colon cancer, Front. Immunol. 3 (2012) 107, 
+
+
+
+
+
+T. Wang, G. Cai, Y. Qiu, N. Fei, M. Zhang, X. Pang, W. Jia, S. Cai, L. Zhao, Structural segregation of gut microbiota between colorectal cancer patients and healthy volunteers, ISME J. 6 (2012) 320-329, 
+K.S. Viljoen, A. Dakshinamurthy, P. Goldberg, J.M. Blackburn, Quantitative pro- filing of colorectal-associated bacteria reveals associations between Fusobacterium spp., enterotoxigenic Bacteroides fragilis (ETBF) and clinicopathological features of colorectal cancer, PLoS One 10 (2015) e0119462, , 
+M.R. Rubinstein, X. Wang, W. Liu, Y. Hao, G. Cai, Y.W. Han, Fusobacterium nu- cleatum promotes colorectal carcinogenesis by modulating E-cadherin/b-catenin signaling via its FadA adhesin, Cell Host Microbe 14 (2013) 195-206, 
+A. Boleij, E.M. Hechenbleikner, A.C. Goodwin, R. Badani, E.M. Stein,
+M.G. Lazarev, B. Ellis, K.C. Carroll, E. Albesiano, E.C. Wick, E.A. Platz,
+D.M. Pardoll, C.L. Sears, The Bacteroides fragilis toxin gene is prevalent in the colon mucosa of colorectal cancer patients, Clin. Infect. Dis. 60 (2015) 208-215, 
+E. Andersen-Nissen, K.D. Smith, K.L. Strobe, S.L. Rassoulian Barrett, B.T. Cookson,
+S.M. Logan, A. Aderem, Evasion of Toll-like receptor 5 by flagellated bacteria, Proc. Natl. Acad. Sci. U. S. A. 102 (2005) 9247-9252, 
+J.H. Kim, J. Lee, J. Park, Y.S. Gho, Gram-negative and gram-positive bacterial extracellular vesicles, Semin. Cell Dev. Biol. 40 (2015) 97-104, 
+A. Celluzzi, A. Masotti, How our other genome controls our epi-genome, Trends Microbiol. 24 (2016) 777-787, 
+
+
+
+
+
+H. Chu, A. Khosravi, I.P. Kusumwardhani, A.H.K. Kwon, A.C. Vasconcelos,
+L.D. Cunha, A.E. Mayer, Y. Shen, W.L. Wu, A. Kambal, S.R. Targan, R.J. Xavier,
+P.B Ernst, D.R. Green, D.P. McGovern, H.W. Virgin, S.K. Mazmanian, Gene-mi- crobiota interactions contribute to the pathogenesis of inflammatory bowel dis- ease, Science 352 (6289) (2016) 1116-1120, 
+Y. Shen, M.L. Giardino Torchia, G.W. Lawson, C.L. Karp, J.D. Ashwell,
+S.K. Mazmanian, Outer membrane vesicles of a human commensal mediate reg- ulation and disease protection, Cell Host Microbe 12 (2012) 509-520, 
+R. Stentz, N. Horn, K. Cross, L. Salt, C. Brearley, D.M. Livermore, S.R. Carding, Cephalosporinases associated with outer membrane vesicles released by Bacteroides sp. protect gut pathogens and commensals against b-lactam antibiotics,
+J. Antimicrob. Chemother. 70 (2015) 701-709, 
+J. Mu, X. Zhuang, Q. Wang, H. Jiang, Z.B. Deng, B. Wang, L. Zhang, S. Kakar,
+Y. Jun, D. Miller, H.G. Zhang, Interspecies communication between plant and mouse gut host cells through edible plant derived exosome-like nanoparticles, Mol. Nutr. Food Res. 58 (2014) 1561-1573, 
+F. Simbari, J. McCaskill, G. Coakley, M. Millar, R.M. Maizels, G. Fabrias, J. Casas,
+A.H. Buck, Plasmalogen enrichment in exosomes secreted by a nematode parasite versus those derived from its mouse host: implications for exosome stability and biology, J. Extracel. Vesicles 5 (2016) 30741, 
+A.H. Buck, G. Coakley, F. Simbary, H.J. McSorley, J.F. Quintana, T. Le Bihan,
+
+S. Kumar, C. Abreu-Goodger, M. Lear, Y. Harcus, Y. Ceroni, S.A. Babayan,
+M. Blaxter, A. Ivens, R.M. Maizels, Exosomes secreted by nematode parasites transfer small RNAs to mammalian cells and modulate innate immunity, Nat. Commun. 5 (2014) 5488, 
+F.C. Nowacki, M.T. Swain, O.I. Klychnikov, U. Niazi, A. Ivens, J.F. Quintana,
+P.J. Hensbergen, C.H. Hokke, A.H. Buck, K.F. Hoffmann, Protein and small non- coding RNA-enriched extracellular vesicles are released by the pathogenic blood fluke Schistosoma mansoni, J. Extracel. Vesicles 4 (2015) 28665, 
+L. Wang, Z. Li, J. Shen, Z. Liu, J. Liang, X. Wu, X. Sun, Z. Wu, Exosome-like vesicles derived by Schistosoma japonicum adult worms mediates M1 type immune activity of macrophage, Parasitol. Res. 114 (2015) 1865-1873, 
+N.S. Barteneva, N. Maltsev, I.A. Vorobjev, Microvesicles and intercellular com- munication in the context of parasitism, Front. Cell. Infect. Microbiol. 3 (2013) 49, 
+M. Fabbri, A. Paone, F. Calore, R. Galli, E. Gaudio, R. Santhanam, F. Lovat,
+P. Fadda, C. Mao, G.J. Nuovo, N. Zanesi, M. Crawford, G.H. Ozer, D. Wernicke,
+H. Alder, M.A. Caligiuri, P. Nana-Sinkam, D. Perrotti, C.M. Croce, MicroRNAs bind to Toll-like receptors to induce prometastatic inflammtory response, Proc. Natl. Acad. Sci. U. S. A. 109 (2012) E2110-E2116, 
+M. Oldenburg, A. Kruger, R. Ferstl, A. Kaufmann, G. Nees, A. Sigmund, B. Bathke,
+H. Lauterbach, M. Suter, S. Dreher, U. Koedel, S. Akira, T. Kawai, J. Buer,
+H. Wagner, S. Bauer, H. Hochrein, C.J. Kirschning, TLR13 recognizes bacterial 23S rRNA devoid of erythromycin-resistance forming modification, Science 337 (2012) 1111-1115, 
+
+K.M. Robinson, J.C. Dunning Hotopp, Mobile elements and viral integrations prompt considerations for bacterial DNA integration as a novel carcinogen, Cancer Lett. 352 (2014) 137-144, 
+K.B. Sieber, R.E. Bromley, J.C. Dunning Hotopp, Lateral gene transfer between procaryotes and eukaryotes, Exp. Cell Res. (2017), 
+E. Hintermann, M. Holdener, M. Bayer, S. Loges, J.M. Pfeilschifter, C. Granier,
+M.P. Manns, U. Christen, Epitope spreading of the anti-CYP2D6 antibody response in patients with autoimmune hepatitis and in the CYP2D6 mouse model, J. Autoimmun. 37 (2011) 242-253, 
+W.E. Ruff, M.A. Kriegel, Autoimmune host-microbiota interactions at barrier sites and beyond, Trends Mol. Med. 21 (2015) 233-244, 
+J. Benckert, N. Schmolka, C. Kreschel, M.J. Zoller, A. Sturm, B. Wiedenmann,
+H. Wardemann, The majority of intestinal IgA+ and IgG+ plasmablasts in the human gut are antigen-specific, J. Clin. Invest. 121 (2011) 1946-1955, 
+D.-S. Choi, J.O. Park, S.C. Jang, Y.J. Yoon, J.W. Jung, D.-Y. Choi, J.-W. Kim,
+J.S. Kang, J. Park, D. Hwang, K.-H. Lee, S.H. Park, Y.-K. Kim, D.M. Desiderio,
+K.P. Kim, Y.S. Gho, Proteomic analysis of microvesicles from human colorectal cancer ascites, Proteomics 11 (2011) 2745-2751, 
+D.-S. Choi, J.-S. Yang, E.-J. Choi, S.C. Jang, S. Park, O.Y. Kim, D. Hwang, K.P. Kim, Y.-K. Kim, S. Kim, Y.S. Gho, The protein interaction network of extracellular ve- sicles derived from human colorectal cancer cells, J. Proteome Res. 11 (2012) 1144-1151, 
+J. Conradi, S. Huber, K. Gaus, F. Mertink, S. Royo Gracia, U. Strijowski, S. Backert,
+N. Sewald, Cyclic RGD peptides interfere with binding of the Helicobacter pylori protein CagL to integrins aVss3 and a5ss1, Amino Acids 43 (2012) 219-232, 
+S. Barden, S. Lange, N. Tegtmeyer, J. Conradi, N. Sewald, S. Backert,
+H.H. Niemann, A helicalRGD motif promoting cell adhesion: crystal structures of the Helicobacter pylori type IV secretion system pilus protein CagL, Structure 21 (2013) 1931-1941, 
+H. Wu, D. Downs, K. Ghosh, A.K. Ghosh, P. Staib, M. Monod, J. Tang, Candida albicanssecreted aspartic proteases induce apoptosis of epithelial cells by a novel Trojan horse mechanism, FASEB J. 27 (2013) 2132-2144, 
+L. Polle, L.A. Rigano, R. Julian, K. Ireton, W.D. Schubert, Structural details of human tubarecruitment by InIC of Listeria monocytogenes elucidate bacterial cell- cell spreading, Structure 22 (2014) 304-314, 
+R. Nava-Acosta, F. Navarro-Garcia, Cytokeratin 8 is an epithelial cell receptor for pet, acytotoxic serine protease autotransporter of Enterobacteriaceae, MBio 4 (2013) e00838-13, 
+
+fi
+
+fi
+B.C. Russo, L.M. Stamm, M. Raaben, C.M. Kim, E. Kahoud, L.R. Robinson, S. Bose,
+A.L. Queiroz, B.B. Herrera, L.A. Baxt, N. Mor-Vaknin, Y. Fu, G. Molina,
+D.M. Markowitz, S.P. Whelan, M.B. Goldberg, Intermediate filaments enable
+
+pathogen docking to trigger type 3 effector translocation, Nat. Microbiol. 1 (2016) 16025, 
+
+T. Schulte, J. Loefling, C. Mikaelsson, A. Kikhney, K. Hentrich, A. Diamante,
+C. Ebel, S. Normark, D. Svergun, B. Henriques-Normark, A. Achour, The basic keratin 10-binding domain of the virulence-associated pneumococcal serine-rich PsrP adopts a novel MSCRAMM fold, Open Biol. 4 (2014) 130090, 
+S. Ramboarina, J.A. Garnett, M. Zhou, Y. Li, Z. Peng, J.D. Taylor, W.C. Lee,
+Bodey, J.W. Murray, Y. Alguel, J. Bergeron, B. Bardiaux, E. Sawyer, R. Isaacson,
+C. Tagliaferi, E. Cota, M. Nilges, P. Simpson, T. Ruiz, H. Wu, S. Matthews, Structural insights into serine-rich fimbriae from gram-positive bacteria, J. Biol. Chem. 285 (2010) 32446-32457, 
+Y. Cao, Multifarious functions of PDGFs and PDGFRs in tumour grouth and me- tastasis, Trends Mol. Med. 19 (2013) 460-473, 
+J.-B. Demoulin, A. Essaghir, PDGF receptor signaling networks in normal and cancer cells, Cytokine Growth Factor Rev. 25 (2014) 273-283, 
+R.M. Manzat Saplacan, L. Balacescu, C. Gherman, R.I. Chira, A. Craiu, P.A. Mircea,
+S. Lisencu, O. Balacescu, The role of PDGFs and PDGFRs in colorectal cancer,
+
+Mediat. Inflamm. 2017 (2017) 4708076, 
+
+
+
+J. Boudeau, D. Miranda-Saavedra, G.J. Barton, D.R. Alessi, Emerging roles of pseudokinases, Trends Cell Biol. 16 (2006) 443-452, 
+S. Heiler, Z. Wang, M. Zoeller, Pancreatic cancer stem cells and exosomes-the incentive push, World J. Gastroenterol. 22 (2016) 5971-6007, 
+C.R. Jimenez, J.C. Knol, G.A. Meijer, R.J. Fijneman, Proteomics of colorectal cancer: overview of discovery studies and identification of commonly identified cancer-associated proteins and candidate CRC serum markers, J. Proteome 73 (2010) 1873-1895, 
+P. Alvarez-Chaver, O. Otero-Estevez, M. Paez de la Cadena, F.J. Rodriguez- Berrocal, V.S. Martinez-Zorzano, Proteomics for discovery of candidate colorectal cancer biomarkers, World J. Gastroenterol. 20 (2014) 3804-3824, 

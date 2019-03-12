@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+Fecal microbiome in dogs with inflammatory bowel disease and intestinal lymphoma
+Marie OMORI1), Shingo MAEDA1)*, Hirotaka IGARASHI2), Koichi OHNO2), Kosei SAKAI1), Tomohiro YONEZAWA1), Ayako HORIGOME3),
+Toshitaka ODAMAKI3) and Naoaki MATSUKI1)
+
+1)Department of Veterinary Clinical Pathobiology, Graduate School of Agricultural and Life Sciences, The University of Tokyo, 1-1-1 Yayoi, Bunkyo-ku, Tokyo 113-8657, Japan
+2)Department of Veterinary Internal Medicine, Graduate School of Agricultural and Life Sciences, The University of Tokyo, 1-1-1 Yayoi, Bunkyo-ku, Tokyo 113-8657, Japan
+3)Food Science and Technology Institute, Morinaga Milk Industry Co., Ltd., 5-1-83 Higashihara, Zama, Kanagawa 252-8583, Japan
+
+
+
+
+
+
+J. Vet. Med. Sci.
+79(11): 1840-1847, 2017
+doi: 10.1292/jvms.17-0045
+
+Received: 6 February 2017
+Accepted: 23 September 2017 Published online in J-STAGE:
+6 October 2017
+
+
+
+All mammals harbor a vast and complex community of bacteria in their intestine. Recent studies have revealed that microbiota plays an important role in gastrointestinal (GI) health. Their main functions include protection against pathogens, fermentation of non-digestible dietary residues, and development of immune systems [].
+Germ-free mice are very susceptible to infection, indicating that the resident microbiota plays an important role in conferring resistance against pathogen colonization []. This protection is enabled by preventing the entry of pathogens into the epithelial cells [], competing for available nutrients and space in the GI tract, and producing antimicrobial substances [].
+Microbiota metabolizes sloughed epithelial cells, endogenous mucus, and nondigested substrates that have passed through     the small intestine. The fermentation of these substrates results in the production of short-chain fatty acids (SCFAs) that provide energy for bacterial metabolism and epithelial cell growth. For example, germ-free rats need 18% more caloric intake than conventional rats to sustain their energy and growth levels [].
+Microbiota has also been implicated in immune development. Dogs, as well as mice, in germ-free conditions exhibit an underdeveloped lymphoid system and decreased immunoglobulin concentrations []. Moreover, germ-free mice show a   Th2 predominant immune response. These abnormalities can be corrected by restoring the conventional microbiota []. Therefore, GI microbiota plays a crucial role in the homeostasis of both mucosal and systemic immunity.
+Inappropriate activation of immune responses to GI microbiota is thought to contribute to the pathogenesis of inflammatory bowel disease (IBD). The evidence supporting this hypothesis was obtained from experiments demonstrating the inhibition of intestinal inflammation in IBD model mice under germ-free conditions []. Recent studies have shown distinct shifts of GI microbiota composition in human IBD, defined as "dysbiosis" []. Dysbiosis has also been reported in canine IBD cases. Most commonly, a decrease in the phyla, Firmicutes and Bacteroidetes, combined with increases in Proteobacteria and Actinobacteria are observed []. These observations suggest that dysbiosis is associated with IBD in both humans and dogs.
+
+
+*Correspondence to: Maeda, S.: 
+(c)2017 The Japanese Society of Veterinary Science
+This is an open-access article distributed under the terms of the Creative Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. (CC-BY-NC-ND 4.0: 
+1840
+
+
+
+However, the dysbiosis network underlying IBD in dogs differs from that in humans, with some bacteria such as Fusobacterium switching roles between the two species []. Similarly, there are differences in the dysbiosis network with IBD between humans and mice []. Therefore, further studies are needed to investigate host-specific dysbiosis networks and point the way towards a generalized understanding of IBD across different mammalian models.
+Intestinal lymphoma is an important differential diagnosis of IBD in dogs []. Since the clinical presentation of both
+diseases is similar, their diagnoses are often difficult to perform on the basis of laboratory tests. Histopathologic examination, immunohistochemistry (IHC), and polymerase chain reaction for antigen receptor gene rearrangement (PARR) are helpful toward confirming the diagnosis []. While several studies revealed bacterial-induced lymphoma in humans [], there has been no report  on the investigation of fecal microbiomes in dogs with intestinal lymphoma. Characterizing fecal microbiota of dogs with IBD and intestinal lymphoma may provide insights into the pathogenesis of these chronic GI diseases. The aim of this study was to compare the fecal microbiota in dogs with either IBD or intestinal lymphoma, and healthy dogs.
+
+MATERIALS AND METHODS
+Animals and sample collection
+This study included 16 dogs with clinical signs of chronic GI disease that underwent endoscopic examination in the Veterinary Medical Center of the University of Tokyo (VMC-UT) between 2009 and 2012. The study protocol was approved by the Animal Care Committee of VMC-UT, and informed consent was obtained from the owners of each dog. Diagnosis of IBD was based
+on histopathologic evidence of lymphocytic-plasmacytic enteritis, the absence of clonal gene rearrangement of IgH or TCRg in PARR, and exclusion of food- and antibiotic-responsive enteropathies []. Diagnosis of intestinal lymphoma was based on histopathologic examination, the presence of clonal IgH or TCRg gene rearrangement, and IHC for CD3 and CD20 [].   All cases were scored for severity according to the canine IBD activity index (CIBDAI) and canine chronic enteropathy clinical activity index (CCECAI) [].
+As healthy controls, 15 dogs with no clinical signs of GI disease were included. They showed no abnormalities in urinalysis and blood examinations, including complete blood count and measurements of blood urea nitrogen and creatinine concentrations as     well as alanine aminotransferase and alkaline phosphatase enzyme activities. Moreover, there were no abnormalities in the parasitic and bacterial analyses of their fecal samples.
+Dogs that had been treated with corticosteroids, antibiotics, or prebiotics/probiotics within 2 weeks prior to the study were excluded. The antibiotic-free interval of each case is shown in Table S1. All dogs enrolled in this study were privately owned and came from diverse environments.
+Fresh rectal feces were collected from all dogs, and immediately frozen at -80degC until DNA extraction.
+
+DNA extraction
+Fecal samples (20 mg) were resuspended in 450 ul extraction buffer (100 mM Tris/HCl, 40 mM EDTA, pH 9.0), and 50 ul    10% SDS. Glass beads (300 mg, 0.1 mm diameter) and 500 ul buffer-saturated phenol were added to the suspension, and the mixture was vortexed vigorously for 30 sec using a FastPrep FP 100A (MP Biomedicals, Santa Ana, CA, U.S.A.) at a power level of 5. After centrifugation at 14,000 x g for 5 min, 400 ul of the supernatant was extracted with phenol/chloroform, and 250 ul of supernatant was precipitated with propan-2-ol. Purified DNA was rinsed with 300 ul 70% ethanol and then resuspended in 200 ul Tris/EDTA buffer (pH 8.0).
+
+16S rRNA gene sequencing
+Amplification and sequencing of the V3-V4 region of the bacterial 16S rRNA gene was performed according to previously described methods optimized for the Illumina MiSeq (Illumina, San Diego, CA, U.S.A.), with primers forward 357F: CGCTCTTCCGATCTCTGTACGGRAGGCAGCAG and reverse 806R: CGCTCTTCCGATCTGACGGACTACHVGGGTWTCTAAT,
+as described previously []. Dual barcoded amplicons were generated using TaKaRa Ex Taq HS (Takara Bio, Otsu, Japan). The amplification conditions were as follows: 94degC for 3 min, 25 cycles of PCR (94degC for 30 sec, 50degC for 1 min, and 72degC for 1 min), and a final elongation step at 72degC for 10 min. The amplicons were pooled in equimolar concentrations and sequenced with an Illumina MiSeq platform using MiSeq Reagent Kit v2 (Illumina).
+Raw 150 bp paired-end sequence reads were combined using the script fastq-join (ea-utils-1.1.2-301.x86_64.rtp: https:// expressionanalysis.github.io/ea-utils/) with the default settings. Further data processing included filtering and denoising by clustering similar sequences with less than 3% dissimilarity using USEARCH v5.2.32 as well as de-novo chimera detection and removal in UCHIME The 16S rRNA operational taxonomic units (OTUs) were selected from the combined reads using a de-novo OTU picking protocol clustered at
+97% identity through the Quantitative Insights Into Microbial Ecology (QIIME) pipeline software version 1.6.0 (http://qiime.org), with USEARCH against the Greengenes database Oct. 2012 release). The representative sequences for each OTU were compared with those present in the Greengenes database for taxonomy assignment. To account for unequal sequencing depth across samples, subsequent analyses were performed on a randomly selected subset of 53,580 sequences per sample.
+
+
+Table 1. Comparison of characteristics and bacterial diversity indices
+
+IBD, inflammatory bowel disease; CIBDAI, canine IBD activity index; CCECAI, canine chronic enteropathy clinical activity index; OUT, operational taxonomic unit. Age, body weight, CIBDAI, and CCECAI scores are represented by the median value (range), while bacterial diversity indices (OTU, Shannon index, and Chao1) are represented by the mean (range). *Medians not sharing a common superscript are significantly different (P<0.01 based on a Dunn's multiple comparison test).
+
+
+Statistics
+Continuous variables were compared between groups by the Kruskal-Wallis test, and categorical variables were determined by
+the chi-square test or Fisher's exact test using Prism v5.0 (GraphPad Software, San Diego, CA, U.S.A.).
+To estimate the bacterial diversity of each sample, three indices (number of OTUs, Shannon index, and Chao1) were calculated and rarefaction curves were depicted using QIIME. Differences in microbial communities among samples were investigated using phylogeny-based unweighted or weighted UniFrac distance matrices, which were calculated using the Greengenes reference tree. Principal coordinate analysis (PCoA) and hierarchical dendrogram construction were performed using QIIME. Differences in microbiota compositions between samples from three groups were tested using the one-way analysis of similarity (ANOSIM) function in the statistical software package PRIMER 6 (PRIMER-E, Luton, U.K.). To determine differences in bacterial diversity indices and proportions of bacterial taxa between three groups, Kruskal-Wallis test was performed and adjusted for multiple comparison using Bonferroni correction. Post hoc Dunn's multiple comparison test was used. Only bacterial taxa that were present  in at least half of the dogs (either IBD, intestinal lymphoma, or healthy) were included in the analysis. The chi-square test was    used to determine the proportion of dogs that harbored specific bacterial taxa. A value of P<0.05 was considered to be statistically significant for all analyses.
+
+RESULTS
+Animals
+A summary of the characteristics of the dogs enrolled in this study is shown in Table 1. Eight dogs were diagnosed with IBD. All dogs with IBD had evidence of inflammation within the intestinal mucosa and a histopathologic diagnosis of lymphocytic- plasmacytic enteritis. The breeds were Miniature Dachshund (n=2), Beagle (n=1), French Bulldog (n=1), Siberian husky (n=1), Miniature Schnauzer (n=1), Pembroke Welsh Corgi (n=1), and Yorkshire Terrier (n=1).
+Eight dogs were diagnosed with intestinal lymphoma. Among these, seven neoplasms were classified as T-cell lymphoma, and one was classified as B-cell lymphoma according to IHC and PARR results (Table S1). Six dogs were diagnosed with small cell type and two dogs with large cell type. The breeds were Shiba inu (n=2), Chihuahua (n=1), Jack Russell Terrier (n=1), Labrador Retriever (n=1), Shih-tzu (n=1), Miniature Dachshund (n=1), and Toy Manchester Terrier (n=1).
+The control group included 15 healthy dogs: Miniature Dachshund (n=2), Chihuahua (n=2), Beagle (n=1), French Bulldog (n=1), Jack Russell Terrier (n=1), Labrador Retriever (n=1), Maltese (n=1), Miniature Schnauzer (n=1), Papillon (n=1), Siberian husky (n=1), Shiba inu (n=1), Yorkshire Terrier (n=1) and Pembroke Welsh corgi (n=1).
+Group compositions in terms of sex, age, and body weight showed no difference between the three groups (Table 1). CIBDAI  and CCECAI scores differed significantly between the three groups; however, there was no significant difference between the IBD and intestinal lymphoma groups.
+
+Bacterial diversity
+Rarefaction curves are shown in Fig. 1. No significant differences in bacterial diversity indices were observed between the three
+groups (Table 1).
+
+Bacterial composition
+Bacterial composition of fecal microbiota from dogs with intestinal lymphoma was significantly different from those observed in IBD and healthy dogs. PCoA plots based on the unweighted UniFrac distance matrices (Fig. 2) showed significant separations between the samples obtained from intestinal lymphoma dogs and those retrieved from the other two groups (ANOSIM; global R=0.133, P=0.023; IBD vs intestinal lymphoma, R=0.289, P=0.006; intestinal lymphoma vs healthy, R=0.247, P=0.003). The effects of gender, age, diet, as well as CIBDAI and CCECAI scores on bacterial compositions were also evaluated by ANOSIM, and there was no clustering (Table 2). Therefore, the separation was predominantly due to disease rather than to other factors. In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Rarefaction analysis of 16S rRNA  gene  sequences  obtained  from canine fecal samples. Lines represent the average for each group (blue: healthy, yellow: inflammatory bowel disease, red: intestinal lymphoma). The error bars represent the standard deviations. The analysis was performed on a randomly selected subset of 53,580 sequences per sample.
+
+Fig. 2. Principal Coordinates Analysis (PCoA) of unweighted UniFrac distances of 16S rRNA genes. The samples clustered along principal coordinates (PC) 1 and 3. Samples from dogs with intestinal lymphoma were separated from those obtained from healthy and IBD subjects (ANOSIM; intestinal lymphoma vs healthy, P=0.003; intestinal lymphoma vs IBD, P=0.006), while no separation was observed between healthy and IBD dogs (ANOSIM; P=0.54).
+
+
+
+contrast, no significant difference was observed between IBD and healthy dogs (ANOSIM; IBD vs healthy, R=-0.012, P=0.540). The PCoA plots and hierarchical dendrogram constructed with the weighted UniFrac distance matrices showed no difference between the three groups.
+Table 3 summarizes the relative proportions of bacterial taxa differing between three groups. In addition, the proportions of all bacterial taxa analyzed in this study are represented in Table S2. At phylum level, there was no difference between diseased and healthy dogs (Table S2); however, significant differences were identified at lower phylogenetic levels.
+Within the phylum Actinobacteria, an increased proportion of Actinomyces was observed in IBD compared to intestinal lymphoma (P<0.05).
+Within the phylum Bacteroidetes, the families Porphyromonadaceae and Paraprevotellaceae showed significant changes. In comparison with healthy dogs, Porphyromonadaceae Parabacteroides increased in dogs with intestinal lymphoma (P<0.01), while Porphyromonas increased in dogs with IBD (P=0.004). The family Paraprevotellaceae increased in dogs with IBD (P=0.01).
+Firmicutes was the most abundant phylum among all dogs, however, there was no significance difference between the three groups in this study. At the lower levels, some families and genera in the order Clostridiales increased in dogs with intestinal lymphoma compared to healthy ones: Lachnospiraceae Coprococcus (P<0.01) and Ruminococcaceae Oscillospira (P<0.05). Eubacteriaceae increased in both IBD and intestinal lymphoma dogs compared to healthy ones (IBD vs healthy, P<0.01; intestinal lymphoma vs healthy, P<0.05).
+Within the phylum Proteobacteria, Helicobacteraceae Helicobacter increased in dogs with IBD compared to those suffering from intestinal lymphoma (P<0.01). In addition, Escherichia increased in intestinal lymphoma dogs, even though this trend was not statistically significant (P=0.06).
+
+DISCUSSION
+
+This study evaluated the fecal microbiota in healthy dogs and dogs with IBD and intestinal lymphoma. Although the rarefaction analysis failed to show any differences in bacterial diversities, we revealed significant alterations in microbiota compositions in  dogs with IBD and intestinal lymphoma. In terms of individual bacterial taxa, unique compositions were observed in dogs with   IBD and intestinal lymphoma, respectively. Therefore, there is a possibility that dogs with intestinal lymphoma or IBD have their own distinctive characteristics in terms of dysbiosis in GI microbiota.
+The proportion of the family Eubacteriaceae was significantly higher in dogs with intestinal lymphoma. Eubacteriaceae is a
+
+
+Table 2. One-way analysis of similarities (ANOSIM) in bacterial compositions considering several variables
+
+IBD, inflammatory bowel disease; CIBDAI, canine IBD activity index; CCECAI, canine chronic enteropathy clinical activity index.
+
+
+
+Gram-positive bacterial family from the order Clostridiales. This family includes members of clusters IV and XIVa of the genus Clostridium, producing important SCFAs butyrate. Atarashi et al. revealed that 46 and 17 strains of Clostridium, including clusters  IV and XIVa, had the potential to induce regulatory T cells (Tregs) in mice and humans, respectively []. Furthermore, Furusawa  et al. have reported that commensal bacteria-derived butyrate induces the differentiation of colonic Tregs via enhancement of   histone H3 acetylation in the promoter regions of the Foxp3 gene locus []. The results of Treg number in our previous study [] showed that half of the dogs with intestinal lymphoma used in this study exhibited a high density of Tregs in the intestinal lesions (Table S1). Collectively, these observations suggest that the increase in Eubacteriaceae might be involved in the increased number   of Tregs in canine intestinal lymphoma through overproduction of butyrate. Further analyses are needed to clarify the association between the family Eubacteriaceae and Treg infiltration in dogs with intestinal lymphoma.
+In humans, mucosal-associated lymphoid tissue (MALT) lymphomas are strongly associated with the presence of Helicobacter
+spp []. Wotherspoon et al. reported that Helicobacter infection was detected in 92% of patients with MALT lymphomas [].
+Eradication of Helicobacter leads to complete remission in 70% of MALT lymphoma cases [], suggesting that the development of lymphoma is caused by Helicobacter infection. In this study, the proportion of Helicobacter was not increased in dogs with intestinal lymphoma. Histologically, the lesions associated with canine intestinal lymphoma are mainly localized in the mucosal lamina propria []. Additionally, MALT lymphomas have histological features allowing the neoplastic cells to proliferate around reactive B-cell follicles in the region corresponding to the Peyer's patch marginal zone, spreading diffusely into the surrounding tissues []. Therefore, the mechanisms governing tumorigenesis in canine intestinal lymphoma may be different from those driving MALT lymphomas in humans.
+Parabacteroides spp. significantly increased in dogs with intestinal lymphoma. Parabacteroides is a genus of Gram-negative obligate anaerobic bacteria belonging to the phylum Bacteroidetes and the order Bacteroidales. In colorectal cancer model mice and rats, the members of the Bacteroidales, including Bacteroides and Parabacteroides, have been associated with tumorigenesis []; therefore, there is a possibility that the presence of Parabacteroides play a role in the development of canine intestinal lymphoma. However, the observed microbiome change might just reflect higher disease severity rather than being causal. Further investigations will be necessary to confirm this microbiota-induced lymphomagenesis hypothesis in dogs.
+In this study, we found increased proportions of the family Paraprevotellaceae and the genus Porphyromonas in dogs with IBD compared to healthy dogs. Both of them are Gram-negative bacteria belonging to the phylum Bacteroidetes and the order Bacteroidales. To our knowledge, no study has showed significant change of the family Paraprevotellaceae and the genus Porphyromonas in canine IBD. In humans, the one study, using biopsy samples from IBD patients, has revealed an increase in
+the genus Porphyromonas []; however, the meaning is unknown. Therefore, we would like to examine the function of the family
+Paraprevotellaceae and the genus Porphyromonas in canine IBD.
+Previous studies showed that the phyla Firmicutes and Fusobacteria decreased in dogs with IBD, whereas Proteobacteria and Actinobacteria increased []. However, in this study, we could not detect these shifts in canine IBD. Regarding the trend   for higher proportions of Proteobacteria and Actinobacteria in dogs with IBD, the discrepancy among the present and previous
+studies may be due to the large inter-animal variation and small sample size. The number of dogs with IBD in this study (n=8) was less than that in the previous studies (n=14-19) []. Another possible cause for the lack of reproducibility is the differences between the types of samples used for the respective microbiome analyses. Over half of the previous studies used mucosal samples including duodenum and colon []. More extensive studies are necessary to investigate the phyla alterations in dogs with IBD.
+Medications, such as antibiotics, are capable of changing bacterial compositions dramatically. Therefore, a withdrawal period
+is required before performing any microbiome analysis. A previous study included IBD dogs without antibiotic treatment
+for 2 months prior to sampling []. Another investigation included dogs without antibiotics and immunomodulating drugs administrations for a month prior to sampling []. In this study, we adopted a 2-weeks washout of antibiotics and corticosteroids.  In dogs, changes in GI microbiota induced by macrolide antibiotic tylosin were not reversed within 4 weeks []. Our previous
+
+
+Table 3. Relative proportions of predominant bacterial taxa
+
+IBD, inflammatory bowel disease. Taxa present in at least 50% of dogs (in any group) were included in this table. *Medians not sharing a common superscript are significantly different (P<0.05 based on a Dunn's multiple comparison test). **Bonferroni corrected P value.
+
+
+
+study showed that metronidazole induced an alteration of the intestinal microbiota, and that the altered bacterial composition could return to the pre-treatment state after a 2-weeks cessation period []. Therefore, the inconsistencies in microbiota compositions among dogs with IBD between studies could be explained by the discrepancies in the washout periods applied. Food is another potential factor influencing changes in GI microbiota. To  date, several studies have shown the effect of dietary interventions, such  as fiber, animal-derived protein, and carbohydrates supplementations on GI microbiota in dogs []. However, no significant effects of dietary components on GI microbiota were observed in this study, and therefore, it is unlikely that the differences in diets affected the present results.
+In conclusion, we observed that the compositions of fecal microbiota in dogs with IBD and intestinal lymphoma were significantly different from that detected in healthy dogs. These results form a roadmap for additional studies focused on the mechanisms governing microbiota-induced lymphomagenesis in dogs. Since a limited number of diseased dogs was included in this study, a further follow-up study using a larger number of dogs with IBD and intestinal lymphoma should be performed in the future.
+
+
+REFERENCES
+
+Allenspach, K., Wieland, B., Grone, A. and Gaschen, F. 2007. Chronic enteropathies in dogs: evaluation of risk factors for negative outcome. J. Vet. Intern. Med. 21: 700-708.  
+Atarashi, K., Tanoue, T., Shima, T., Imaoka, A., Kuwahara, T., Momose, Y., Cheng, G., Yamasaki, S., Saito, T., Ohba, Y., Taniguchi, T., Takeda, K., Hori, S., Ivanov, I. I., Umesaki, Y., Itoh, K. and Honda, K. 2011. Induction of colonic regulatory T cells by indigenous Clostridium species. Science 331: 337-341.  
+Atarashi, K., Tanoue, T., Oshima, K., Suda, W., Nagano, Y., Nishikawa, H., Fukuda, S., Saito, T., Narushima, S., Hase, K., Kim, S., Fritz, J. V., Wilmes, P., Ueha, S., Matsushima, K., Ohno, H., Olle, B., Sakaguchi, S., Taniguchi, T., Morita, H., Hattori, M. and Honda, K. 2013. Treg induction by a rationally selected mixture of Clostridia strains from the human microbiota. Nature 500: 232-236.  
+Baxter, N. T., Zackular, J. P., Chen, G. Y. and Schloss, P. D. 2014. Structure of the gut microbiome following colonization with human feces
+
+
+determines colonic tumor burden. Microbiome 2: 20.  
+Bayerdorffer, E., Neubauer, A., Rudolph, B., Thiede, C., Lehn, N., Eidt, S., Stolte M., MALT Lymphoma Study Group. 1995. Regression of primary gastric lymphoma of mucosa-associated lymphoid tissue type after cure of Helicobacter pylori infection. Lancet 345: 1591-1594.     
+Beloshapka, A. N., Dowd, S. E., Suchodolski, J. S., Steiner, J. M., Duclos, L. and Swanson, K. S. 2013. Fecal microbial communities of healthy adult dogs fed raw meat-based diets with or without inulin or yeast cell wall extracts as assessed by 454 pyrosequencing. FEMS Microbiol. Ecol. 84: 532-541.  
+Bibiloni, R., Mangold, M., Madsen, K. L., Fedorak, R. N. and Tannock, G. W. 2006. The bacteriology of biopsies differs between newly diagnosed, untreated, Crohn's disease and ulcerative colitis patients. J. Med. Microbiol. 55: 1141-1149.  
+Blumberg, R. S., Saubermann, L. J. and Strober, W. 1999. Animal models of mucosal inflammation and their relation to human inflammatory bowel
+disease. Curr. Opin. Immunol. 11: 648-656.  
+Carrasco, V., Rodriguez-Bertos, A., Rodriguez-Franco, F., Wise, A. G., Maes, R., Mullaney, T. and Kiupel, M. 2015. Distinguishing Intestinal
+Lymphoma From Inflammatory Bowel Disease in Canine Duodenal Endoscopic Biopsy Samples. Vet. Pathol. 52: 668-675.  
+Cohn, I. Jr. and Heneghan, J. B. 1991. Germfree animals and technics in surgical research. Am. J. Surg. 161: 279-283.  
+Collins, F. M. and Carter, P. B. 1978. Growth of salmonellae in orally infected germfree mice. Infect. Immun. 21: 41-47. 
+Frank, D. N., St Amand, A. L., Feldman, R. A., Boedeker, E. C., Harpaz, N. and Pace, N. R. 2007. Molecular-phylogenetic characterization of
+microbial community imbalances in human inflammatory bowel diseases. Proc. Natl. Acad. Sci. U.S.A. 104: 13780-13785.  
+Furusawa, Y., Obata, Y., Fukuda, S., Endo, T. A., Nakato, G., Takahashi, D., Nakanishi, Y., Uetake, C., Kato, K., Kato, T., Takahashi, M., Fukuda,
+N. N., Murakami, S., Miyauchi, E., Hino, S., Atarashi, K., Onawa, S., Fujimura, Y.,  Lockett, T.,  Clarke, J. M., Topping, D. L., Tomita, M., Hori,   S., Ohara, O., Morita, T., Koseki, H., Kikuchi, J., Honda, K., Hase, K. and Ohno, H. 2013. Commensal microbe-derived butyrate induces the differentiation of colonic regulatory T cells. Nature 504: 446-450.  
+Gevers, D., Kugathasan, S., Denson, L. A., Vazquez-Baeza, Y.,  Van  Treuren, W.,  Ren, B., Schwager, E., Knights, D., Song, S. J., Yassour,  M.,  Morgan, X. C., Kostic, A. D., Luo, C., Gonzalez, A., McDonald, D., Haberman, Y., Walters, T., Baker, S., Rosh, J., Stephens, M., Heyman, M., Markowitz, J., Baldassano, R., Griffiths, A., Sylvester, F., Mack, D., Kim, S., Crandall, W., Hyams, J., Huttenhower, C., Knight, R. and Xavier, R. J. 2014. The treatment-naive microbiome in new-onset Crohn's disease. Cell Host Microbe 15: 382-392.  
+Goto-Koshino, Y., Mochizuki, H., Sato, M., Nakashima, K., Hiyoshi, S., Fujiwara-Igarashi, A., Maeda, S., Nakamura, K., Uchida, K., Fujino, Y., Ohno, K. and Tsujimoto, H. 2015. Construction of a multicolor GeneScan analytical system to detect clonal rearrangements of immunoglobulin and T cell receptor genes in canine lymphoid tumors. Vet. Immunol. Immunopathol. 165: 81-87.  
+Hang, I., Rinttila, T., Zentek, J., Kettunen, A., Alaja, S., Apajalahti, J., Harmoinen, J., de Vos, W. M. and Spillmann, T. 2012. Effect of high contents
+of dietary animal-derived protein or carbohydrates on canine faecal microbiota. BMC Vet. Res. 8: 90.  
+Hiyoshi, S., Ohno, K., Uchida, K., Goto-Koshino, Y., Nakashima, K., Fukushima, K., Kanemoto, H., Maeda, S. and Tsujimoto, H. 2015. Association between lymphocyte antigen receptor gene rearrangements and histopathological evaluation in canine chronic enteropathy. Vet. Immunol. Immunopathol. 165: 138-144.  
+Honda, K. and Littman, D. R. 2012. The microbiome in infectious disease and inflammation. Annu. Rev. Immunol. 30: 759-795. 
+Honneffer, J. B., Minamoto, Y. and Suchodolski, J. S. 2014. Microbiota alterations in acute and chronic gastrointestinal inflammation of cats and
+dogs. World J. Gastroenterol. 20: 16489-16497.  
+Igarashi, H., Maeda, S., Ohno, K., Horigome, A., Odamaki, T. and Tsujimoto, H. 2014. Effect of oral administration of metronidazole or
+prednisolone on fecal microbiota in dogs. PLOS ONE 9: e107909.  
+Igarashi, H., Ohno, K., Horigome, A., Fujiwara-Igarashi, A., Kanemoto, H., Fukushima, K., Odamaki, T. and Tsujimoto, H. 2016. Fecal dysbiosis in miniature dachshunds with inflammatory colorectal polyps. Res. Vet. Sci. 105: 41-46.  
+Isaacson, P. G. and Du, M. Q. 2004. MALT lymphoma: from morphology to molecules. Nat. Rev. Cancer 4: 644-653.  
+Jergens, A. E., Schreiner, C. A., Frank, D. E., Niyo, Y., Ahrens, F. E., Eckersall, P. D., Benson, T. J. and Evans, R. 2003. A scoring index for disease activity in canine inflammatory bowel disease. J. Vet. Intern. Med. 17: 291-297.  
+Lamm, C. G., Ferguson, A. C., Lehenbauer, T. W. and Love, B. C. 2010. Streptococcal infection in dogs: a retrospective study of 393 cases. Vet. Pathol. 47: 387-395.  
+Maeda, S., Ohno, K., Fujiwara-Igarashi, A., Uchida, K. and Tsujimoto, H. 2016. Changes in Foxp3-Positive Regulatory T Cell Number in the Intestine of Dogs With Idiopathic Inflammatory Bowel Disease and Intestinal Lymphoma. Vet. Pathol. 53: 102-112.  
+Maeda, S., Ohno, K., Uchida, K., Nakashima, K., Fukushima, K., Tsukamoto, A., Nakajima, M., Fujino, Y. and Tsujimoto, H. 2013. Decreased immunoglobulin A concentrations in feces, duodenum, and peripheral blood mononuclear cells of dogs with inflammatory bowel disease. J. Vet. Intern. Med. 27: 47-55.  
+Middelbos, I. S., Vester Boler, B. M., Qu, A., White, B. A., Swanson, K. S. and Fahey, G. C. Jr. 2010. Phylogenetic characterization of fecal microbial communities of dogs fed diets with or without supplemental dietary fiber using 454 pyrosequencing. PLoS ONE 5: e9768. 
+Nishio, J. and Honda, K. 2012. Immunoregulation by the gut microbiota. Cell. Mol. Life Sci. 69: 3635-3650.  
+Packey, C. D. and Sartor, R. B. 2009. Commensal bacteria, traditional and opportunistic pathogens, dysbiosis and bacterial killing in inflammatory
+bowel diseases. Curr. Opin. Infect. Dis. 22: 292-301.  
+Peloquin, J. M. and Nguyen, D. D. 2013. The microbiota and inflammatory bowel disease: insights from animal models. Anaerobe 24: 102-106.
+ 
+Rossi, G., Pengo, G., Caldin, M., Palumbo Piccionello, A., Steiner, J. M., Cohen, N. D., Jergens, A. E. and Suchodolski, J. S. 2014. Comparison          of microbiological, histological, and immunomodulatory parameters in response to treatment with either combination therapy with prednisone and metronidazole or probiotic VSL#3 strains in dogs with idiopathic inflammatory bowel disease. PLOS ONE 9: e94699.  
+Saito, Y., Suzuki, H., Tsugawa, H., Imaeda, H., Matsuzaki, J., Hirata, K., Hosoe, N., Nakamura, M., Mukai, M., Saito, H. and Hibi, T. 2012. Overexpression of miR-142-5p and miR-155 in gastric mucosa-associated lymphoid tissue (MALT) lymphoma resistant to Helicobacter pylori eradication. PLOS ONE 7: e47396.  
+Sokol, H., Pigneur, B., Watterlot, L., Lakhdari, O., Bermudez-Humaran, L. G., Gratadoux, J. J., Blugeon, S., Bridonneau, C., Furet, J. P.,  Corthier,   G., Grangette, C., Vasquez, N., Pochart, P., Trugnan, G., Thomas, G., Blottiere, H. M., Dore, J., Marteau, P., Seksik, P. and Langella, P. 2008. Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut microbiota analysis of Crohn disease patients. Proc.   Natl. Acad. Sci. U.S.A. 105: 16731-16736.  
+Srikanth, C. V. and McCormick, B. A. 2008. Interactions of the intestinal epithelium with the pathogen and the indigenous microbiota: a three-way
+
+
+crosstalk. Interdiscip. Perspect. Infect. Dis. 2008: 626827.  
+Suchodolski, J. S., Dowd, S. E., Wilke, V., Steiner, J. M. and Jergens, A. E. 2012. 16S rRNA gene pyrosequencing reveals bacterial dysbiosis in the duodenum of dogs with idiopathic inflammatory bowel disease. PLoS ONE 7: e39333.  
+Suchodolski, J. S., Dowd, S. E., Westermarck, E., Steiner, J. M., Wolcott, R. D., Spillmann, T. and Harmoinen, J. A. 2009. The effect of the macrolide antibiotic tylosin on microbial diversity in the canine small intestine as demonstrated by massive parallel 16S rRNA gene sequencing. BMC Microbiol. 9: 210.  
+Suchodolski, J. S., Markel, M. E., Garcia-Mazcorro, J. F.,  Unterer, S., Heilmann, R. M., Dowd, S. E., Kachroo, P.,  Ivanov, I., Minamoto, Y.,  Dillman, E. M., Steiner, J. M., Cook, A. K. and Toresson, L. 2012. The fecal microbiome in dogs with acute diarrhea and idiopathic inflammatory bowel disease. PLOS ONE 7: e51907.  
+Vazquez-Baeza, Y., Hyde, E. R., Suchodolski, J. S. and Knight, R. 2016. Dog and human inflammatory bowel disease rely on overlapping yet
+distinct dysbiosis networks. New Microbiol. 1: 16177. 
+Washabau, R. J., Day,  M. J., Willard, M. D., Hall, E. J., Jergens, A. E., Mansell, J., Minami, T.,  Bilzer, T.  W.,  Group W.  I. G. S., WSAVA    International Gastrointestinal Standardization Group. 2010. Endoscopic, biopsy, and histopathologic guidelines for the evaluation of gastrointestinal inflammation in companion animals. J. Vet. Intern. Med. 24: 10-26.  
+Wostmann, B. S., Larkin, C., Moriarty, A. and Bruckner-Kardoss, E. 1983. Dietary intake, energy metabolism, and excretory losses of adult male germfree Wistar rats. Lab. Anim. Sci. 33: 46-50. 
+Wotherspoon, A. C., Ortiz-Hidalgo, C., Falzon, M. R. and Isaacson, P. G. 1991. Helicobacter pylori-associated gastritis and primary B-cell gastric lymphoma. Lancet 338: 1175-1176.  
+Yamamoto, M. L. and Schiestl, R. H. 2014. Lymphoma caused by intestinal microbiota. Int. J. Environ. Res. Public Health 11: 9038-9049.
+ 
+Yang, S. C., Lin, C. H., Sung, C. T. and Fang, J. Y. 2014. Antibacterial activities of bacteriocins: application in foods and pharmaceuticals. Front. Microbiol. 5: 241. 
+Zhu, Q., Jin, Z., Wu, W., Gao, R., Guo, B., Gao, Z., Yang, Y. and Qin, H. 2014. Analysis of the intestinal lumen microbiota in an animal model of
+colorectal cancer. PLOS ONE 9: e90849.  

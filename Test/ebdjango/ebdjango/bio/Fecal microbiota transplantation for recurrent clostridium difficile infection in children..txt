@@ -1,0 +1,249 @@
+Journal of Infection (2017) 74, S120--S127
+
+
+
+
+
+
+
+
+
+
+
+Fecal microbiota transplantation for recurrent
+Clostridium difficile infection in children
+Becky Chen a, Vishal Avinashi a,*, Simon Dobson b
+
+a Division of Gastroenterology, Hepatology and Nutrition, British Columbia Children's Hospital, Vancouver, BC, Canada
+b Division of Infectious Diseases, British Columbia Children's Hospital, Vancouver, BC, Canada
+
+Available online 23 June 2017
+
+
+Summary Fecal microbiota transplantation (FMT) is a relatively simple, promising treatment for recurrent Clostridium  difficile  infection.  While  there  are  a  wide  variety  of  approaches including mode of delivery, the results are nonetheless encouraging, even amongst younger children. Experience with FMT in the pediatric population is increasing, showing similar success compared to adults. This article will provide an overview of C. difficile infection along with review of the rationale, methods and complications of FMT including the current experience of FMT in children.
+(c) 2017 The British Infection Association. Published by Elsevier Ltd. All rights reserved.
+
+
+
+
+
+Background
+Epidemiology of Clostridium difficile infection
+
+Clostridium difficile infection (CDI) is a significant gastro- intestinal illness in both adults and children, as it is the main cause of nosocomial diarrhea in the developed world.1 The costs are high, with annual estimated costs in 2002   of US $1.3 billion, or $12,825 per hospitalization.2 CDI is associated with increased risk of death, colectomy rates and, increased length of hospital stay together with higher hospital costs.3
+While those affected  by  C.  difficile  usually  have  typical risk factors such as having hospital exposure and prior
+
+
+antibiotic use, children without comorbidities acquiring the infection in community settings have been described. Immunocompromised individuals such as those with cirrhosis, oncologic processes, solid  organ  transplants  and inflammatory bowel disease (IBD) are certainly at greater risk of CDI in the pediatric population.4,5 CDI can  be healthcare or community-associated.6,7 Overall, there appears to be increasing incidence of CDI worldwide including United States, Canada and Western Europe.8,9 Among pediatric inpatients in 22 freestanding children's hospitals in the United States, the annual incidence of CDI increased from 2.6 cases per 1000 admissions in 2001 to 4 cases per 1000 admissions in 2006.7 In Canada, an increase in rate of CDI was found in Quebec from 35.6 per 100,000
+
+
+* Corresponding author. Department of Pediatrics, University of British Columbia, Division of Gastroenterology, Hepatology and Nutrition, British Columbia Children's Hospital, 4480 Oak Street, Room K4-200, Vancouver, British Columbia, Canada V6H 3V4. Tel.: 604 875 2332; fax: 604 875 3244.
+E-mail addresses: (V. Avinashi).
+
+0163-4453/(c) 2017 The British Infection Association. Published by Elsevier Ltd. All rights reserved
+
+
+in 1991 to 156.3 per 100,000 admissions in 2003.10  CDI in   a Belgian study also increased by 3.75-fold between two time periods between 2000 to 2008.11 Increased incidence may also be attributed to improved detection using more sensitive polymerase chain reaction (PCR) for C. difficile toxins compared with enzyme immunoassay (EIA), with sensitivities of 95% compared with 35%, respectively, with specificity of 100% for both modalities. Positivity rate using PCR was found to be twice that of pediatric patients who were diagnosed by EIA.12
+The pathophysiology of Clostridium difficile
+infection
+
+As an anaerobic, gram-positive, toxin-producing bacillus,
+C. difficile lives in the large intestine and is capable of releasing protein exotoxins, TcdA and TcdB, which is responsible for causing colitis in susceptible individuals.13 Infection is transmitted via heat- and acid- resistant  spores via fecal-oral route.13 C. difficile escapes the gastric environment of the stomach and reaches the small bowel where it germinates to vegetative forms that are susceptible to antimicrobials.9 TcdA acts as an enterotoxin to interrupt colonic mucosal cell adherence to the basement membrane along with destroying villi. On the other hand, TcdB is 1000 times more potent than TcdA and it acts as a cytotoxin to cause apoptosis.9 These toxins inactivate members of the Rho family of guanosine triphosphatases, which are important in cytoskeletal integrity. There is also loss of cellular tight junctions along with inhibition of membrane trafficking and cellular division.9 The end result is colonocyte death and loss of intestinal barrier integrity.13
+Recently, a hypervirulent strain of C.  difficile  was identified in an epidemic in Quebec between 2002 and 2005, known as BI/NAP1/027.14 This particular strain can produce 10- and 23-times more TcdA and TcdB, respectively, than historic strains. It is resistant to fluroquinolones and produces a third toxin, known as binary toxin, which may contribute to this greater virulence.15,16 Since then, it has been reported in several countries and has been associated with outbreaks and severe colitis.16,17 Another hypervirulent strain, ribotype 078 has also been found to be associated with severe CDI and mortality.18
+Clinical disease is rare in children under 2 years of age. The lack of toxin-binding receptors in the infant gut and the presence of maternal antibodies to C. difficile toxins may explain the lack of symptomatic colitis.19,20 Infants can have a high rate of asymptomatic carriage of 73% by 6 months of age; this decreases with time so that by 3 years of age, the rate of asymptomatic colonization approximates that of adults, between 0 to 6%.21,22 Therefore, the American Academy of Pediatrics recommends that testing of CDI in infants should be limited to outbreaks and to those with risk factors such as Hirschsprung Disease or other severe motility disorder.23 Testing children between 1 and 3 years of age can be considered if there has been recent antibiotic exposure after other common causes have been excluded but recent experience suggests that even individuals without antibiotic use are at risk for community-acquired CDI.5,9 Generally, test of cure is not recommended as C. difficile and its toxins can continue to be shed for prolonged periods even after resolution of diarrhea.23
+
+
+Making the diagnosis of CDI involves the presence of symptoms and either a positive stool test or colonoscopic evidence of pseudomembranous colitis.24 CDI commonly presents with bloody or non-bloody diarrhea, defined as greater than or equal to 3 stools that take the container's shape over 24 hours.23 The illness may vary from mild to severe depending on the severity of diarrhea, accompanied by other symptoms like abdominal pain and fever. Diarrhea can be watery or bloody. In a Canadian study of 200 children, majority (79%) of the patients had watery diarrhea while 12.5% were affected by bloody diarrhea.25 The most extreme presentation is fulminant colitis consisting of hemodynamic instability, lactic acidosis, shock and ileus or toxic megacolon.9
+
+CDI and IBD
+
+The association between C. difficile  and  IBD  is  interesting and often confusing. Numerous studies have demonstrated a high incidence of CDI in pediatric patients with IBD.26-28 One study found that the annual incidence of CDI in pediatric patients with IBD was 7.2%, exceeding the incidence in children without IBD by 18 to 100 fold.27 CDI in IBD has been found to have longer hospitalization, higher costs, greater need for parenteral nutrition and blood transfusions.29,30 It has been proposed that intestinal dysbiosis in IBD patients leads to a more favorable environment for CDI. IBD patients have been found to have decreased intestinal biodiversity with increased Proteobacteria and decreased Bacteroidetes.31 Furthermore, risk factors for CDI in pediatric patients  with IBD are also different from adults,  in  that traditional risk factors like IBD type, IBD immunosuppressant agents, proton pump inhibitor use have not been associated with increased risk of CDI in children.32
+Making the distinction between an IBD  exacerbation and CDI is important, as misdiagnosis can either delay IBD or CDI treatment and the treatment approaches differ. Unfortunately, the signs and symptoms of an IBD exacerbation and CDI are frequently overlapping. Furthermore, pediatric patients with IBD can be asymptomatic carriers of
+C. difficile. The presence of C. difficile carriage confounds the presentation. Lamouse-Smith et al  found  that  there were similar C difficile PCR positive  rates  in  patients with and without active IBD as well as in patients with other gastrointestinal diseases.33 Another  group  found that the rate of asymptomatic C. difficile carriage was significantly higher in pediatric IBD patients (17%) compared to controls (3%), with proton pump inhibitor use being associated with increased carriage.34 Patients with IBD have  increased  antibodies  against  C.  difficile toxins, which may contribute to asymptomatic colonization.34
+
+Recurrent CDI
+
+Recurrent CDI (rCDI) occurs when there is either a relapse with the original isolate or reinfection with another isolate. Making the distinction between relapse and reinfection can be difficult. rCDI has been defined as new onset of symptoms along with  positive  C.  difficile  testing  less  than 60 days after completion of primary treatment for CDI.35 Recurrence rate can be as high as 30% after withdrawal   of therapy for CDI.23 Why certain individuals are more
+
+
+susceptible to recurrences is unknown. Plausibly, recent data suggests that the inability to produce IgG antibodies against toxin A may increase the risk of recurrences.36 Furthermore, absence of favorable intestinal microbiome may enable C. difficile to perpetuate.37 A number of risk factors have been implicated in CDI including malignancy, recent surgery, number of antibiotic exposures by class, tracheostomy tube dependence, recent antibiotic use, acid blocker use, immunosuppressant use, hospital acquired disease and tube-feeding.5,38-40 Risk factors associated with rCDI include malignancy, tracheostomy tube dependence, increased number of antibiotic days and antibiotic class exposures within 30-day primary CDI risk period.39,41 Furthermore, patients who had one recurrence may have increased risk of up to 60% for subsequent episodes.36,42 rCDI can be difficult to treat and results in further medications, hospitalization, medical costs and increased risk of morbidity and mortality.38,43
+
+Treatment of C. difficile infection
+
+The conventional treatment for CDI practice is stopping antibiotics and providing a 10- to 14-day course of oral metronidazole of 30 mg/kg/day divided by four doses (maximum 2 g/day) for the primary infection.44 Oral vancomycin can be used for recurrences consisting of a   10 to 14 day course or a tapered and/or pulse regimen.  An example of a tapered regimen involves daily oral vancomycin at 40 mg/kg divided in four doses daily for 10-14 days (usually to max of 125 mg qid), followed by same mg per dose given two times per day for one week, then once daily for one week and then every couple of days for two to eight weeks.44 While not evidence based, the tapered-pulse of vancomycin is preferred for rCDI as theoretically, spores convert to the vegetative form during days when vancomycin is not given and then the vegetative forms are killed when vancomycin is given.15 Continued treatment with vancomycin may further exacerbate the issue of microbiome dysbiosis with normal intestinal flora being destroyed with each antibiotic course making ongoing treatment counterintuitive.15 Other proposed agents include nitazoxanide, fidaxomicin, rifaximin and probiotics, all of which have limited data in children.23
+The high relapse or reinfection rates, even in children, have led to a sizeable minority of patients who do not achieve cure and have a miserable continuation of symptoms. This has led to a search for other modalities of treatment, one of which is fecal microbiota transplantation (FMT). FMT is an emerging and promising treatment in rCDI. It has proven to be more effective than antibiotics with high cure rates in adults so that it has emerged as a new standard for the treatment for rCDI.45 Many case series along with few randomized controlled trials in adults have shown high success rates. A systematic review of a total of 480 adults demonstrated that 85% of these individuals had resolution of symptoms without recurrence after FMT.46
+Principles and benefits of fecal microbiota transplantation (FMT)
+The idea of changing the intestinal microbiome to treat disease is not novel. The first clinical use of FMT in humans
+
+
+occurred in fourth century China by a physician, with its first effective use in a patient with a  disease  consistent with severe colitis.47 FMT is a technique that dated back to the seventeenth century. It was initially used in veterinary medicine by Italian anatomist Fabricius of Aquapendente in the practice of Rumen transfaunation (infusion of enteric contents via orogastric tube) to treat various gastrointestinal disorders in farm animals.15
+The overall goal of FMT in CDI is to restore intestinal dysbiosis with a healthy donor's stool bacteria, since a favourable colonic microbiome is important in preventing
+C. difficile from flourishing. Lactobacillus,  Enterococcus, Bifidobacterium and Bacteroides species have inhibitory activity against C. difficile and the introduction of antibiotics disrupts the indigenous  colonic  flora.37  The  use of antimicrobials results in an intestinal environment promoting C. difficile spore germination along with C. difficile multiplication and toxin  production.37  Furthermore, the colonic microbiota appears to be different in healthy individuals compared to patients with CDI. In a study that profiled fecal microbiota using 16S rRNA-encoding gene sequencing, individuals with rCDI were found to have reduced species diversity compared to patients with initial CDI and controls. Controls and patients with initial CDI have a predominance of Bacteroidetes and Firmicutes phyla compared to patients with rCDI, who had reduced species richness.48
+Successful uptake of donor microbiota into recipients following FMT has been demonstrated in studies.49,50 In addition to restoring intestinal dysbiosis, attractive features of FMT are the high cure rates based on multiple adult studies46,51 and potentially lower cost compared to other therapies. Some believe that the cost of FMT including donor screening is likely below that of repeated antimicrobials and hospitalization.52 FMT averts further antibiotics and perpetuation of intestinal microbiome imbalance. There is also less risk of drug allergy and potential development of antibiotic resistant bacteria.
+Experience of FMT in the pediatric population
+While FMT data in adults have flourished, studies in children have been scant and no controlled trials have been published. An early pediatric case using FMT for rCDI was reported by Russell et al. of a 2-year-old with relapsing CDI from the epidemic BI/NAP1/027strain that was refractory to traditional antibiotic therapies, probiotics and experimental drugs including rifaximin and nitazoxanide. Within 36 hours of administration of fecal transplant via nasogastric tube, patient's diarrhea resolved and did not recur over 6 months of follow-up.53 To date there have been 45 reported cases with FMT use in children with rCDI (Table 1).52,54-60 29% (13/45) of these cases were patients with IBD. Various routes of delivery were reported, varying from colonoscopic (30/45) to upper gastrointestinal tract (15/45) administration. Overall, 89% (40/45) of patients had symptom improvement. Follow up varied from 2 months to 4 years with relapse seen in 4% (2/45) of patients. It is unclear what the true cure rates could be with the use of multiple doses of FMT either at the time of relapse or even prophylactically on a fixed schedule.
+
+
+Table 1 Fecal microbiota transplantation experience in children with recurrent Clostridium difficile infection.
+Age	Patient	Adverse events
+Total	range	comorbidities	Delivery			(number of Study	patients  (years)	(number)	method	Outcome	Follow-up	patients)
+Kahn et al.	1	1.5	None reported	Colonoscopic	Symptom resolution	2 months;	None reported 2012.					within 24 hours	no relapse
+
+Wang et al.	1	1.1	None reported	Nasojejunal	Symptom resolution	4 months;	None reported 2015.					and discharge within	no relapse
+5 days post-FMT
+
+Walia et al.	2	1.7, 2.5   Prematurity (2)	Colonoscopic	Symptom resolution	8-27 months, None reported
+2014.	Gastrostomy tubes (2)	within 4-7 days	no relapse
+
+Pierog et al.   6	4-21	Muscular dystrophy (1)   Colonoscopic	Not reported, but	12 months,	None reported 2014.		Indeterminant colitis (1)	reported cure	no relapse
+Crohn's disease (1)	rate 100%
+Emmanuel syndrome
+and Hirschsprung disease (1) Gastrostomy tube dependence (1)
+None (1)
+
+IBD Inflammatory bowel disease, NEC Necrotizing enterocolitis, POTS postural orthostatic tachycardia syndrome, GI gastrointestinal
+
+
+
+In addition to assessing efficacy of FMT, some groups also reported the benefit of FMT in improving the intestinal microbiome. Walia et al. reported two children with rCDI who were cured after colonscopic FMT.55 Both children were ex-premature and had gastrostomy tubes for failure to thrive.55 Microbiota analysis using 16S ribosomal RNA on pre- and post- FMT fecal samples were performed on one child. One year post-FMT, the microbiota diversity increased, with increase in proportion of favorable Bacteroides. Furthermore, Hourigan et al reported a case series of 8 children, 5 of whom had IBD, who receive colonoscopic
+
+FMT for rCDI with follow-up 6 months.59 Cure rate was 88% (7/8) within 1 to 3 days of FMT. They also evaluated fecal samples pre- and post-FMT and found an overall increase in bacterial diversity post-FMT, with relative abundance of Bacteroides. However, they found that 6 months later, the microbiome composition of patients with IBD returned to pre-FMT baseline.
+FMT has also been used in immunocompromised patients. In a multicenter retrospective series of immunocompromised patients with either recurrent, refractory or severe CDI, 5 pediatric patients between the ages of 6.5 to 15 years were
+
+
+treated with FMT within this series including 75 adults.60 Although the underlying immunocompromising condition was not specified in these children, the study included patients with solid organ transplant, oncologic condition, immunosuppressive therapy for IBD and other medical conditions. They reported overall cure rate of 78% (62/80) after a single FMT without recurrence at 12 weeks.60
+Unfortunately, randomized controlled trials are still lacking in children. Currently, more studies are underway including a study that is actively recruiting pediatric patients with rCDI to study the efficacy of colonoscopic FMT.61
+
+Methods of FMT
+
+There is no established standard protocol for the use of FMT in children as its use remains experimental. Given that FMT is becoming more widespread in adults, there has been emergence of stool banks and attempts to standardize donor material preparation and cost-effective donor screening.37,62 A FMT workgroup in 2011 set out guidelines for the methodology of FMT.63
+
+Donor screening and testing
+
+Pediatric reports and case series have mainly involved fecal donation from a family or household member. Current evidence does not favor either related or unrelated donors for FMT. A systematic review found that there was a 93% success rate of CDI from related donors compared with 84% from unrelated donors, but this was limited by lack of standardization between studies so other factors confound these results.64 The goal of screening donors is due to concern of transmission of infectious agents and to provide stool from a healthy donor. Again, no standardized donor screening forms exist. Usually, the questionnaire is similar to that used for blood donors to exclude those with risk factors of disease transmission, including hepatitis B or C virus, HIV infection, recent exposure to latter pathogens, high-risk sexual behaviours, recent tattoos or body piercing in the past 6 months, travel to a region with enteric pathogens, immunosuppressant or illicit drug use and active communicable disease.37 Donor serum screening has also been recommended for HIV, hepatitis viruses and syphilis.65 It would be prudent to exclude donors who have a history of recent antibiotic use, inflammatory bowel disease, irritable bowel syndrome, and chronic diarrhea as well as those with those with other chronic medical conditions.65 Donor stools should also be tested for enteric pathogens, specifically, bacterial pathogens, C. difficile, and some suggest more extensive testing including Cryptosporidium, Giardia, Cyclospora, Isospora, and Helicobacter pylori if upper gastrointestinal route is used for FMT administration.66
+Preparation of fecal transplant and recipient reparation
+
+Either fresh stool collected within 24 hours of installation or processed banked stool frozen at -80degC may be used.67 Hamilton et al. found that frozen versus fresh stool samples have comparable success rates for FMT in rCDI.62 One such protocol suggests 100 g of donor stool mixed with 250 mL of sterile water and fiber particles of the stool are then filtered
+
+
+out. Generally, volume instilled varies between 25 to 50 mL.67 Usually, the recipient is kept on oral vancomycin until the day before the FMT. Additionally, a stool preparation using laxatives such as polyethylene glycol may be provided to the recipient to reduce existing spore load, particularly if FMT is being delivered colonoscopically. Finally, some protocols include the use of loperamide just prior to FMT to promote microbiota transplant retention.37 In the evening or morning of FMT delivery via nasogastric tube, a proton pump inhibitor is given to the recipient.63
+
+Route of delivery
+
+Various routes through the upper and lower gastrointestinal tract have been described including nasogastric tubes, colonoscopy and enemas.55 The particular route of administration does not appear  to  affect  the  efficacy  of FMT. Postigo et al. did not find any significant difference in treatment efficacy between the colonoscopic group (93.2%) versus the nasogastric tube route (85.3%, p=0.162).68 Location of  colonoscopic administration is also  unclear,  whether delivery is better if given all in the cecum versus distributed throughout the colon. An advantage of colonoscopic delivery is that it allows for concurrent evaluation of the  colon with mucosal biopsies, especially given the association of CDI  in patients with IBD. Oral capsules with  concentrated fecal microbes have also been developed for ease of administration with a cure rate achieved comparable with other fecal transplantation techniques but this is not yet a common delivery route.69 It averts the risks of anesthesia and procedural risks of endoscopy, along with the benefits of convenience. Depending on the age, simple oral capsule administration provides an attractive option for older children and adolescents, but may not be feasible for young children. Enemas are generally poorly tolerated in children and the retention may be significantly lower.
+
+Adverse effects
+
+In general, adverse events were uncommon based on a recent systematic review.70 Some possible adverse events included flatulence, rectal discomfort, nausea, vomiting, abdominal discomfort, bloating, headaches, and transient sore throat. Other reported events are irregularity of bowel movements (including constipation),  temporary  rise in CRP, transient fever, as well as mild diarrhea and abdominal cramping on infusion day. The development of autoimmune diseases including Sjogren's disease, idiopathic thrombocytopenic purpura and rheumatoid arthritis have also been reported following FMT71 as well as rapid weight gain in adults.72 Of the 45 reported pediatric cases of rCDI, no infectious or significant complications were reported aside from transient abdominal pain in 2 patients59 and 2 days of mucoid stools in 1 patient.58 A hypothetical concern is whether there are any implications to transferring an adult microbiome to the developing pediatric microbiome and whether this may hasten immunologic aging and cause development of immune related complications.73 Using age- matched donors may avert this issue but further studies are needed.59
+The primary concern with FMT in the immunocompromised population is possible bacterial translocation and infection.
+
+
+Kelly et al reported safety data for 80 immunocompromised patients with various conditions including IBD, solid organ transplant, HIV/AIDS, cancer, and other chronic medical conditions like cirrhosis. Overall, no infectious complications or death occurred as a result of FMT.60 15% (12/80) of the patients had any side effect within 12 weeks of FMT, with
+3 that were unrelated to FMT. Three patients reported bloating and abdominal discomfort immediately post FMT. Two deaths occurred with one from aspiration during sedation for colonoscopic FMT while the other death was unrelated. One individual sustained a minor mucosal tear during colonoscopy used to administer FMT. There were 14% of patients with IBD who had a disease exacerbation, where
+1 patient required colectomy and 3 required steroids.60 However, it was difficult to discern whether these flares were secondary to FMT, CDI or worsening of underlying disease. However, exacerbation of ulcerative colitis (UC) has been reported in an individual in UC remission who was treated with FMT for CDI.74
+
+FMT future directions
+
+FMT is now considered a standard treatment for the indication rCDI in adults. More controlled studies in children are necessary, especially in children with other comorbidities such as IBD.  Different  FMT  protocols  have been implemented in various institutions. Standardization of methods and donor screening can facilitate future research and help decrease costs. It is also unclear whether response rates can be improved with further infusions. The pediatric population presents as an ideal group for understanding the long-term consequences and efficacy of repeat FMT inpatients with relapses of CDI.
+
+Conclusion
+
+FMT is a promising treatment in rCDI with excellent outcomes and is beginning to be used in children. While nearing a standard of treatment, methods of FMT can be improved to decrease the risk of further relapse. While current markers of C. difficile are sensitive, it would be ideal to have more specific, alternative tests for early relapses. Given the association of CDI and IBD, further studies of FMT on the pediatric IBD population can provide insights into the role of FMT in rCDI and IBD exacerbation.
+
+Conflict of interest
+
+The authors declare no conflict of interest.
+
+References
+Guerrant RL, Hughes JM, Lima NL, Crane J. Diarrhea in developed and developing countries: magnitude, special settings, and etiologies. Rev Infect Dis 1990;12 Suppl 1:S41-50.
+Kyne L, Hamel MB, Polavaram R, Kelly CP. Health care costs and mortality associated with nosocomial diarrhea due to Clostridium difficile. Clin Infect Dis 2002;34(3):346-53.
+Nylund CM, Goudie A, Garza JM, Fairbrother G, Cohen MB. Clostridium difficile infection in hospitalized children in the United States. Arch Pediatr Adolesc Med 2011;165(5):451-7.
+Rodemann JF, Dubberke ER, Reske KA, Seo DH, Stone CD.
+
+
+Incidence of Clostridium difficile infection in inflammatory bowel disease. Clin Gastroenterol Hepatol 2007;5(3):339-44.
+Sandora TJ, Fung M, Flaherty K, Helsing L, Scanlon P, Potter-Bynoe G, et al. Epidemiology and risk factors for Clostridium difficile infection in children.  Pediatr Infect Dis  J 2011;30(7):580-4.
+Khanna S, Baddour LM, Huskins WC, Kammer PP, Faubion  WA, Zinsmeister AR, et al. The epidemiology of Clostridium difficile infection in children: a population-based study. Clin Infect Dis 2013;56(10):1401-6.
+Kim J, Smathers SA, Prasad P, Leckerman KH, Coffin S, Zaoutis
+T. Epidemiological features of Clostridium difficile-associated disease among inpatients at children's hospitals in the United States, 2001-2006. Pediatrics 2008;122(6):1266-70.
+Ananthakrishnan AN. Clostridium difficile infection: epidemio- logy, risk factors and management. Nat Rev Gastroenterol Hepatol 2011;8(1):17-26.
+Pant C, Deshpande A, Altaf MA, Minocha A, Sferra TJ. Clostridium difficile infection in children: a comprehensive review. Curr Med Res Opin 2013;29(8):967-84.
+Pepin J, Valiquette L, Alary ME, Villemure P, Pelletier A, Forget K, et al. Clostridium difficile-associated diarrhea in aregion of Quebec from 1991 to 2003: a changing pattern of disease severity. CMAJ 2004;171(5):466-72.
+Bossuyt P, Verhaegen J, Van Assche G, Rutgeerts P, Vermeire
+S. Increasing incidence of Clostridium difficile-associated diarrhea in inflammatory bowel disease. J Crohns Colitis 2009;3(1):4-7.
+Luna RA, Boyanton BL, Jr., Mehta S, Courtney EM, Webb CR, Revell PA, et al. Rapid stool-based diagnosis of Clostridium difficile infection by real-time PCR in a children's hospital.     J Clin Microbiol 2011;49(3):851-7.
+Leffler DA, Lamont JT. Clostridium difficile Infection. N Engl J Med 2015;373(3):287-8.
+Pepin J, Valiquette L, Cossette B. Mortality attributable to nosocomial Clostridium difficile-associated disease during an epidemic caused by a hypervirulent strain in Quebec. CMAJ 2005;173(9):1037-42.
+Brandt LJ, Reddy SS. Fecal microbiota transplantation for recurrent clostridium difficile infection. J Clin Gastroenterol 2011;45 Suppl:S159-67.
+Loo VG, Poirier L, Miller MA, Oughton M, Libman MD, Michaud S, et al. A predominantly clonal multi-institutional outbreak of Clostridium difficile-associated diarrhea with high morbidity and mortality. N Engl J Med 2005;353(23):2442-9.
+Clements AC,  Magalhaes  RJ,  Tatem  AJ,  Paterson  DL, Riley TV.  Clostridium  difficile  PCR  ribotype  027:  assessing the risks of further worldwide spread. Lancet Infect Dis 2010;10(6):395-404.
+Goorhuis A, Bakker D, Corver J, Debast SB, Harmanus C, Notermans DW, et al. Emergence of Clostridium difficile infection due to a new hypervirulent strain, polymerase chain reaction ribotype 078. Clin Infect Dis 2008;47(9):1162-70.
+Eglow R, Pothoulakis C, Itzkowitz S,  Israel  EJ,  O'Keane  CJ, Gong D, et al. Diminished Clostridium difficile toxin A sensitivity in newborn rabbit ileum is associated with decreased toxin A receptor. J Clin Invest 1992;90(3):822-9.
+Lamont JT. Theodore E. Woodward Award. How bacterial enterotoxins work: insights from in vivo studies. Trans Am Clin Climatol Assoc 2002;113:167-80; discussion 80-1.
+Tullus K, Aronsson B, Marcus S, Mollby R. Intestinal colonization with Clostridium difficile in infants up to 18 months of age. Eur J Clin Microbiol Infect Dis 1989;8(5):390-3.
+Rousseau C, Poilane I, De Pontual L, Maherault AC, Le Monnier A, Collignon A. Clostridium difficile carriage in healthy infants in the community: a potential reservoir for pathogenic strains. Clin Infect Dis 2012;55(9):1209-15.
+Schutze GE, Willoughby RE, Committee on Infectious D,
+
+
+
+American Academy of P. Clostridium difficile infection in infants and children. Pediatrics 2013;131(1):196-200.
+Cohen SH, Gerding DN, Johnson S, Kelly CP, Loo VG, McDonald LC, et al. Clinical practice guidelines for Clostridium difficile infection in adults: 2010 update by the society for healthcare epidemiology of America (SHEA) and the infectious diseases society of America (IDSA). Infect Control Hosp Epidemiol 2010;31(5):431-55.
+Morinville V, McDonald J. Clostridium difficile-associated diarrhea in 200 Canadian children. Can J Gastroenterol 2005;19(8):497-501.
+Mezoff E, Mann EA, Hart KW, Lindsell CJ, Cohen MB. Clostridium difficile infection and treatment in the pediatric inflammatory bowel disease population. J Pediatr Gastroenterol Nutr 2011;52(4):437-41.
+Pascarella F, Martinelli M, Miele E, Del Pezzo M, Roscetto E, Staiano A. Impact of Clostridium difficile infection on pediatric inflammatory bowel disease. J Pediatr 2009;154(6):854-8.
+Banaszkiewicz  A,  Kowalska-Duplaga  K,  Pytrus  T,  Pituch  H, Radzikowski A. Clostridium difficile infection in newly diagnosed pediatric patients with inflammatory bowel disease: prevalence and risk factors. Inflamm Bowel Dis 2012;18(5):844-8.
+Sandberg KC, Davis MM, Gebremariam A, Adler J. Dispro- portionate  rise  in  Clostridium   difficile-associated   hospitali- zations among US youth with inflammatory bowel disease, 1997-2011. J Pediatr Gastroenterol Nutr 2015;60(4):486-92.
+Pant C, Anderson MP, Deshpande A, Altaf MA, Grunow JE, Atreja A, et al. Health care burden of Clostridium difficile infection in hospitalized children with inflammatory bowel disease. Inflamm Bowel Dis 2013;19(5):1080-5.
+Frank DN, St Amand AL, Feldman RA, Boedeker EC, Harpaz N, Pace NR. Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc Natl Acad Sci U S A 2007;104(34):13780-5.
+Hourigan SK, Sears CL, Oliva-Hemker M. Clostridium difficile Infection in Pediatric Inflammatory Bowel Disease. Inflamm Bowel Dis 2016;22(4):1020-5.
+Lamouse-Smith ES, Weber S, Rossi RF, Neinstedt LJ, Mosammaparast N, Sandora TJ, et al. Polymerase chain reaction test for  Clostridium  difficile  toxin  B  gene  reveals similar prevalence rates in children with and without inflammatory bowel disease. J Pediatr Gastroenterol Nutr 2013;57(3):293-7.
+Hourigan SK, Chirumamilla SR, Ross T, Golub JE, Rabizadeh S, Saeed SA, et al. Clostridium difficile carriage and serum antitoxin responses in children with inflammatory bowel disease. Inflamm Bowel Dis 2013;19(13):2744-52.
+Borali E,  De  Giacomo  C.  Clostridium  Difficile  Infection in Children: a Review. J Pediatr Gastroenterol Nutr 2016;63(6):e130-e140.
+Maroo S, Lamont JT. Recurrent clostridium difficile. Gastro- enterology 2006;130(4):1311-6.
+Walia R, Kunde S, Mahajan L. Fecal microbiota transplantation in the treatment of refractory Clostridium difficile infection in children: an update. Curr Opin Pediatr 2014;26(5):573-8.
+Nicholson MR, Thomsen IP, Slaughter JC, Creech  CB, Edwards KM. Novel risk factors for recurrent Clostridium difficile infection in children. J Pediatr Gastroenterol Nutr 2015;60(1):18-22.
+Kociolek LK, Palac HL, Patel SJ, Shulman ST, Gerding DN. Risk Factors for Recurrent Clostridium difficile Infection in Children: A Nested Case-Control Study. J Pediatr 2015;167(2):384-9.
+Bliss DZ, Johnson S, Savik K, Clabots CR, Willard K, Gerding DN. Acquisition of Clostridium difficile and Clostridium difficile-associated diarrhea in hospitalized patients receiving tube feeding. Ann Intern Med 1998;129(12):1012-9.
+Nicholson MR, Crews JD, Starke JR, Jiang ZD, DuPont H,
+
+Edwards K. Recurrent Clostridium difficile Infection in Children: Patient Risk Factors and Markers of Intestinal Inflammation. Pediatr Infect Dis J 2017;36(4):379-83.
+McFarland LV, Elmer GW, Surawicz CM. Breaking the cycle: treatment strategies for 163 cases of recurrent Clostridium difficile disease. Am J Gastroenterol 2002;97(7):1769-75.
+McFarland LV, Surawicz CM, Rubin M, Fekety R, Elmer GW, Greenberg RN. Recurrent  Clostridium  difficile  disease: epidemiology and clinical characteristics. Infect Control Hosp Epidemiol 1999;20(1):43-50.
+Allen UD, Canadian Paediatric Society ID, Immunization C. Clostridium difficile in paediatric populations. Paediatr Child Health 2014;19(1):43-54.
+Kahn SA, Young S, Rubin DT. Colonoscopic fecal microbiota transplant for recurrent Clostridium difficile infection in achild. Am J Gastroenterol 2012;107(12):1930-1.
+Drekonja D, Reich J, Gezahegn S, Greer N, Shaukat A, MacDonald R, et al. Fecal Microbiota Transplantation for Clostridium difficile  Infection:  A  Systematic  Review.  Ann Intern Med 2015;162(9):630-8.
+Zhang F, Luo W, Shi Y,  Fan Z, Ji G. Should we standardize  the 1,700-year-old fecal microbiota transplantation? Am J Gastroenterol 2012;107(11):1755; author reply 1756.
+Chang JY, Antonopoulos DA, Kalra A, Tonelli A, Khalife WT, Schmidt TM, et al. Decreased diversity of the fecal Microbiome in recurrent Clostridium difficile-associated diarrhea. J Infect Dis 2008;197(3):435-8.
+Khoruts A, Dicksved J, Jansson JK, Sadowsky MJ. Changes   in the composition of the human fecal microbiome after bacteriotherapy for recurrent Clostridium difficile-associated diarrhea. J Clin Gastroenterol 2010;44(5):354-60.
+Hamilton MJ, Weingarden AR, Unno T, Khoruts A, Sadowsky MJ. High-throughput DNA sequence analysis reveals stable engraftment of gut  microbiota  following  transplantation  of previously frozen fecal bacteria. Gut Microbes 2013;4(2):125-35.
+Kassam Z, Lee CH, Yuan Y, Hunt RH. Fecal microbiota trans- plantation for Clostridium difficile infection: systematic review and meta-analysis. Am J Gastroenterol 2013;108(4):500-8.
+Rubin TA, Gessert CE, Aas J, Bakken JS. Fecal microbiome transplantation for recurrent Clostridium  difficile  infection: report on a case series. Anaerobe 2013;19:22-6.
+Russell G, Kaplan J, Ferraro M, Michelow IC. Fecal bacteriotherapy for relapsing Clostridium difficile infection in  a child: a proposed treatment protocol. Pediatrics 2010;126(1):e239-42.
+Wang J, Xiao Y, Lin K, Song F, Ge T, Zhang T. Pediatric severe pseudomembranous enteritis treated with fecal microbiota transplantation in a 13-month-old infant. Biomed Rep 2015;3(2):173-5.
+Walia R, Garg S, Song Y, Girotra M, Cuffari C, Fricke WF, et al. Efficacy of fecal microbiota transplantation in 2 children with recurrent Clostridium difficile infection and its impact on their growth and gut microbiome. J Pediatr Gastroenterol Nutr 2014;59(5):565-70.
+Pierog A, Mencin A, Reilly NR. Fecal microbiota transplantation in  children   with   recurrent   Clostridium   difficile   infection. Pediatr Infect Dis J 2014;33(11):1198-200.
+Russell GH, Kaplan JL, Youngster I, Baril-Dore M, Schindelar L, Hohmann E, et al. Fecal transplant for recurrent Clostridium difficile infection in children with and without inflammatory bowel disease. J Pediatr Gastroenterol Nutr 2014;58(5):588-92.
+Kronman MP, Nielson HJ, Adler AL, Giefer MJ, Wahbeh G, Singh N, et al. Fecal microbiota transplantation via nasogastric tube for recurrent clostridium difficile infection  in  pediatric patients. J Pediatr Gastroenterol Nutr 2015;60(1):23-6.
+Hourigan SK, Chen LA, Grigoryan Z, Laroche G, Weidner
+
+
+
+M, Sears CL, et al. Microbiome changes associated with sustained  eradication  of  Clostridium  difficile  after   single faecal microbiota transplantation in children with and without inflammatory bowel disease. Aliment Pharmacol Ther 2015;42(6):741-52.
+Kelly CR, Ihunnah C, Fischer M, Khoruts A, Surawicz  C, Afzali A, et al. Fecal microbiota transplant for treatment   of Clostridium difficile infection in immunocompromised patients. Am J Gastroenterol 2014;109(7):1065-71.
+B S. Fecal Transplant for Pediatric Patients Who Have Recur- rent  C-diff  infection  (FMT)  2016.  https://clinicaltrials.gov/ ct2/show/NCT02134392?term=recurrent+clostridium+difficile
++fecal+transplant+children&rank=3.
+Hamilton MJ, Weingarden AR, Sadowsky MJ, Khoruts A. Standardized frozen preparation for transplantation of fecal microbiota for recurrent Clostridium difficile infection. Am JGastroenterol 2012;107(5):761-7.
+Bakken JS, Borody T, Brandt LJ, Brill JV, Demarco DC, Franzos MA, et al. Treating Clostridium difficile infection with fecal microbiota transplantation. Clin Gastroenterol Hepatol 2011;9(12):1044-9.
+Gough E, Shaikh H, Manges AR. Systematic review of intestinal microbiota transplantation (fecal bacteriotherapy) for recurrent Clostridium difficile infection. Clin Infect Dis 2011;53(10):994-1002.
+Rohlke F, Stollman N. Fecal microbiota transplantation in relapsing Clostridium difficile infection. Therap  Adv  Gastro- enterol 2012;5(6):403-20.
+Owens C, Broussard E, Surawicz C. Fecal microbiota trans- plantation and donor standardization. Trends Microbiol
+
+2013;21(9):443-5.
+Mir S, Kellermayer R, Gulati AS. Pediatric Fecal Microbiota Transplantation. Current Pediatrics Reports 2014;2(3):227-34.
+Postigo  R,  Kim  JH.  Colonoscopic  versus  nasogastric   fecal transplantation for the treatment of Clostridium difficile infection: a review and pooled analysis. Infection 2012;40(6):643-8.
+Hirsch BE, Saraiya N, Poeth K, Schwartz RM, Epstein ME, Honig G. Effectiveness of fecal-derived microbiota transfer using orally administered capsules for recurrent Clostridium difficile infection. BMC Infect Dis 2015;15:191.
+Sha S, Liang J, Chen M, Xu B, Liang C, Wei N, et al. Systematic review: faecal microbiota transplantation therapy for digestive and nondigestive disorders in adults and children. Aliment Pharmacol Ther 2014;39(10):1003-32.
+Brandt LJ, Aroniadis OC, Mellow M, Kanatzar A, Kelly C, Park T, et al. Long-term follow-up of colonoscopic fecal microbiota transplant for recurrent Clostridium difficile infection. Am JGastroenterol 2012;107(7):1079-87.
+Alang N, Kelly CR. Weight gain after fecal microbiota transplantation. Open Forum Infect Dis 2015;2(1):ofv004.
+Lynch SV. Fecal Microbiota Transplantation for Recurrent Clostridium     difficile     Infection     in     Pediatric  Patients: Encouragement Wrapped in Caution. J Pediatr Gastroenterol Nutr 2015;60(1):1-3.
+De Leon LM, Watson JB, Kelly CR. Transient flare of ulcerative colitis after fecal microbiota transplantation for recurrent Clostridium difficile infection. Clin Gastroenterol Hepatol 2013;11(8):1036-8.

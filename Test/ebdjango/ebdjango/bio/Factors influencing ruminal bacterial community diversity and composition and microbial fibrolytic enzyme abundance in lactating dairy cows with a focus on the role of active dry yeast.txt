@@ -1,0 +1,473 @@
+J. Dairy Sci. 100:4377-4393
+https://doi.org/10.3168/jds.2016-11473
+(c) 2017, THE AUTHORS. Published by FASS and Elsevier Inc. on behalf of the American Dairy Science Association(r). This is an open access article under the CC BY-NC-ND license 
+
+Factors influencing ruminal bacterial community diversity and composition and microbial fibrolytic enzyme abundance in lactating dairy
+cows with a focus on the role of active dry yeast
+Ousama AlZahal,*1 Fuyong Li,+ Le Luo Guan,+ Nicola D. Walker,++ and Brian W. McBride*
+*Department of Animal Biosciences, University of Guelph, Guelph, Ontario N1G 2W1, Canada
++Department of Agriculture, Food and Nutritional Science, University of Alberta, Edmonton T6G 2P5, Canada
+++AB Vista, Marlborough, SN8 4AN, United Kingdom
+
+
+ABSTRACT
+The objective of the current study was to employ    a DNA-based sequencing technology to study the ef- fect of active dry yeast (ADY) supplementation, diet type, and sample location within the rumen on rumen bacterial community diversity and composition, and to use an RNA-based method to study the effect of ADY supplementation on rumen microbial metabolism during high-grain feeding (HG). Our previous report demonstrated that the supplementation of lactating dairy cows with ADY attenuated the effect of subacute ruminal acidosis. Therefore, we used samples from that study, where 16 multiparous, rumen-cannulated lactat- ing Holstein cows were randomly assigned to 1 of 2 dietary treatments: ADY (Saccharomyces cerevisiae strain Y1242, 80 billion cfu/animal per day) or control (carrier only). Cows received a high-forage diet (77:23, forage:concentrate), then were abruptly switched to HG (49:51, forage:concentrate). Rumen bacterial com- munity diversity and structure were highly influenced by diet and sampling location (fluid, solids, epimural). The transition to HG reduced bacterial diversity, but epimural bacteria maintained a greater diversity than fluid and solids. Analysis of molecular variance indi- cated a significant separation due to diet x sampling location, but not due to treatment. Across all samples, the analysis yielded 6,254 nonsingleton operational taxonomic units (OTU), which were classified into several phyla: mainly Firmicutes, Bacteroidetes, Fibro- bacteres, Tenericutes, and Proteobacteria. High forage and solids were dominated by OTU from Fibrobacter, whereas HG and fluid were dominated by OTU from Prevotella. Epimural samples, however, were dominated in part by Campylobacter. Active dry yeast had no ef- fect on bacterial community diversity or structure. The
+
+Received May 16, 2016.
+Accepted January 30, 2017.
+1 Corresponding author: 
+
+phylum SR1 was more abundant in all ADY samples regardless of diet or  sampling  location.  Furthermore, on HG, OTU2 and OTU3 (both classified into Fibro- bacter succinogenes) were  more  abundant  with  ADY in fluid and solids than control samples. This increase with ADY was paralleled by a reduction in prominent Prevotella OTU. Metatranscriptomic profiling of ru- men microbiome conducted on random samples from the HG phase showed that ADY increased the abun- dance of the cellulase endo-b-1,4-glucanase and had a tendency to increase the hemicellulase a-glucuronidase. In conclusion, the shift from high forage to HG and sampling location had a more significant influence on ruminal bacterial community abundance and structure compared with ADY. However, evidence suggested that ADY can increase the abundance of some dominant anaerobic OTU belonging to F. succinogenes and phy- lum SR1. Further, microbial mRNA-based evidence suggested that ADY can increase the abundance of a specific microbial fibrolytic enzymes.
+Key   words:  dairy  cow,   active  dry  yeast, subacute
+ruminal acidosis, rumen microbiome, metatranscriptome
+
+INTRODUCTION
+Ruminants are unique in their ability to convert indi- gestible plant materials through microbial fermentation into a range of VFA (C2 to C6) that constitute the main energy source for the host animal. The ruminal microbial population is complex, diverse, and domi- nated in number by bacteria (1010 to 1011 viable cells per gram). It also includes bacteriophages (107 to 109), ciliate protozoa (104 to 106), anaerobic fungi (102 to 104; Mackie et al., 2001), and archaea (5% of total bacteria
++ archaea; Frey et al., 2010). The rumen microbiome contains approximately 100 times more genes than the host animal, which provides ruminants with genetic and metabolic capabilities to hydrolyze and ferment inaccessible nutrients (McSweeney and Mackie, 2012). Therefore, the performance of ruminants relies on the
+
+
+4377
+
+4378	ALZAHAL ET AL.
+
+quantity and quality of fermentation end products, which are in turn a function of the quantity and qual- ity of ingested feed and type and activities of rumen microbes. Due to the important role of the rumen mi- crobiome, it is referred to as the "second" genome of the ruminant (Bath et al., 2013).
+The ability to study the entire microbiome from complex communities such as the rumen has been im- paired by classical methods. Culture-based techniques accounted for only 10 to 20% of the bacterial species present in the rumen (McSweeney and Mackie, 2012). However, the recent advances in nucleic-acid-based techniques, namely high-throughput DNA sequencing, provided the means to study rumen and gut ecology.
+Recent efforts to study the rumen microbiome have focused on analyzing the ruminal microbial communi- ties (i.e., identification and quantification), whereas microbial activities are extrapolated based upon measuring changes in microbial  communities (Jami et al., 2014). On the other hand, an mRNA-based metatranscriptomic approach can provide information on the functions of the community by identifying the pools of enzymes or pathways that are active within that microbial community (Helbling et al., 2012). The metatranscriptomic approach has been recently used to qualitatively characterize the association between the presence of specific transcripts and observed functions within microbial communities (Ettwig et al., 2010; Mc- Carren et al., 2010). Furthermore, Helbling et al. (2012) demonstrated that the level of transcript abundance (as measured by quantitative PCR or next-generation sequencing) of a given enzyme within a microbial com- munity has the potential to quantitatively predict the level of enzyme activity. The metatranscriptomic ap- proach has been applied to study the marine micro- biome (Gifford et al., 2011), the pig gut microbiome (Poroyko et al., 2010), and the rumen microbiome of wild herbivores (Qi et al., 2011). However, reports investigating microbial gene expression in the rumen microbiome of Holstein cows are scarce.
+Rumen   microbiologist   and   nutritionists   have   de-
+veloped and used several supplementary products to manipulate the rumen microbiome and harness ben- efits, such as improved productivity. The effect of such products on productivity is variable and likely reflects the variation in available products, dosages, and terms of application. These products can include active dry bacteria, active dry yeast (ADY), and yeast culture products. The latter does not ensure the delivery of live microbial cells. In a previous report (AlZahal et al., 2014), we demonstrated that feeding ADY to lactating dairy cows before a rapid switch to a high-grain diet (HG)  that  commonly  causes  SARA  attenuated  the
+
+ruminal pH depression and the associated reduction in DMI and milk production.
+The aim of the current study was to extend the previous investigation to study the influence of ADY on the rumen microbiome and its interaction with diet type and sampling location using a DNA-based, high- throughput sequencing method. The second aim was to use a metatranscriptomic approach to study the effect of ADY supplementation on rumen microbial metabo- lism during HG.
+
+MATERIALS AND METHODS
+
+Animals, Feeding and Treatments, and Rumen Sampling
+This protocol has been detailed previously (AlZahal  et al., 2014). Briefly, 16 multiparous, rumen-cannulated lactating Holstein cows were  randomly  assigned  to 1 of 2 dietary treatments that included ADY (Saccha- romyces cerevisiae strain Y1242; AB Vista, Marlbor- ough, UK; 80 billion cfu/animal per day) or control (carrier only). During wk 1 to 6, all cows received a high-forage   diet   (HF;   77:23,   forage:concentrate; CP
+= 14.3, NDF = 45.0, NFC = 31.5, % of DM). Cows
+were then abruptly switched during wk 7 to a HG diet (49:51, forage:concentrate; CP = 16.4, NDF = 28.2, NFC = 45.2, % of DM) and remained on the HG until the end of wk 10. Feed intake and milk yields were re- corded daily. As mentioned in the previous report, cow no. 3641 (control) was removed due to a pre-existing SARA.
+The DNA-based analysis assessed 3 bacterial com- munities (3 sampling locations); free-living in ruminal fluid (fluid), associated with feed particles (solids), and associated with ruminal epithelium (epimural); during HF and HG phases (15 cows by 3 rumen locations by 2 time points, one random sample was removed to fit a mock sample, totaling 89 samples). Rumen samples were collected from all cows during wk 5 (HF) and wk 10 (HG) at 1600 h midway to the ventral sac of the rumen. Samples were filtered through 4 layers of cheesecloth to separate rumen fluid from rumen solids. Rumen fluid and solids were diluted 1:1 with 100% eth- anol and stored for bacterial genomic DNA isolation. For epimural sample collection, the rumen was partially evacuated. Then, the ventral sac was retracted to the fistula and a small area halfway into the ventral area was washed thoroughly with ice-cold PBS to remove any loosely adherent microbes, rumen fluid, or feed particles. Afterward, the washed area was swabbed us- ing a sterile toothbrush. The toothbrush was shaken  in a 50-mL tube containing 25 mL of PBS, and then
+
+FACTORS INFLUENCING RUMEN MICROBIOME	4379
+
+the tube was topped with 25 mL of 100% ethanol. Our sampling was done from one spot for each rumen sam- pling location.
+The RNA-based method used a total of 8 random digesta (fluid and particles) samples during the HG phase, 4 from each dietary treatment. Rumen digesta samples were collected at 1600 h midway to the ventral sac and preserved with RNALater (1:1, volume basis, Ambion, Austin, TX).  Digesta  samples  were  placed  in a refrigerator for 24 h and then stored in a freezer     at -20degC until processing. We conducted the ruminal microbial sampling on wk 5 (HF) and wk 10 (HG) to allow sufficient time for the ruminal microbial commu- nity to adapt to each diet; therefore,  we  assume  that our analyses reflect adapted and stable communities.
+
+DNA Library Preparation and Sequencing
+Genomic DNA was extracted as detailed in AlZa- hal et al. (2016) and PCR-amplified with universal bacterial primers (IDT, San Diego, CA): 27F (Lane, 1991; 5'-AGAGTTTGATCCTGGCTCAG-3') and
+519R (Ovreas et al., 1997; 5'-GWATTACCGCGGCK-
+GCTG-3'). These primers were selected to amplify the first 3 variable regions (V1-V3) of the 16S rRNA gene in bacteria, using the KAPA HiFi HotStart Mix per kit instructions (KAPA Biosystems, Wilmington, MA;	 ). The PCR product was cleaned and normalized with    a SequalPrep Normalization Kit (Invitrogen, Thermo Fisher Scientific, Waltham, MA) according to the manufacturer's instructions ( ). The PCR product was indexed using the KAPA HiFi HotStart kit and MiSeq standard indices, and again cleaned and normalized with the SequalPrep kit. The 16S-rRNA sequencing was conducted using MiSeq (Illumina, San Diego, CA) and a 600-cycle V3 kit (300 bp) according to the manufacturer's instructions (  ). Output data included demultiplexed fastq files, which had the primer and in- dex sequences removed. The sequencing was conducted at the Advanced Analysis Centre (Genomics Facility, University of Guelph, Guelph, Canada).
+
+16S rRNA Gene Analysis Pipeline: Sequence Processing and Sequencing Error Assessment
+The 16S rRNA gene sequencing data were analyzed using the open-source program mothur (Schloss et al., 2009) and according to MiSeq pipeline as detailed by
+
+Kozich et al. (2013) with some modification. Kozich et al. (2013) used the "make.contigs" function to combine both forward (R1) and reverse (R2) reads for each sequence. However, this approach yields high-quality combined sequences only if the length of the amplified region matches the length of R1 and R2 (approximately 230 bp when using V4). In the current study, we used V1 to V3 region, which exceeded the optimal length for their approach. Therefore, our analysis used the for- ward sequences only and not the forward and reverse sequences to achieve good quality sequences (as will be discussed in the Results section). Barcode trimming, sequence culling, and quality check was performed by "trim.seqs" with the following options: maximum se- quence length = 300, minimum sequence length = 200, number of ambiguous bases = 0, the maximum length of homopolymer = 8, number of base-difference from the primer = 2, and the minimum average quality score was 35 over a window of 50 bases. To facilitate faster computing, sequences were grouped into identical or "unique" sequences, and only a representative sequence of each group ("reference sequences") was included in the later steps of the analysis (i.e., aligning, clustering, and so on). Sequence alignment was performed using "align.seqs" of mothur and using a mothur-formatted copy of the Silva (Quast et al., 2013) database (silva. seed_v119). Align.seqs by default uses kmer searching with 8mers and uses the Needleman-Wunsch pairwise alignment method (Needleman and Wunsch, 1970), which rewards +1 for a match and penalizes -1 and -2 for a mismatch and gap, respectively. Prior to aligning the sequences, the SILVA database was trimmed to span the 27F and 519R region (according to an Escherichia coli reference sequence) and the leading and trailing dots were removed using "pcr.seqs." The aligned se- quences were trimmed at  the  bases  "ATTAGCTA" of the conservative region 3. Trimming sequences at  a common conservative region ensured that only se- quences that fully overlapped within a given alignment space were kept. This process has been shown, based on a previous study, to reduce the number of spuri- ous OTU (AlZahal et al., 2016). Sequence trimming was conducted by "pcr.seqs." Following this process, "screen.seqs" was repeated to cull sequences shorter than 200 bases and "filter.seqs" was used to remove only-dots columns. The command "pre.cluster" was used to reduce the number of erroneous sequences al- lowing 2 mismatches. Aligned sequences were checked for chimeras by "chimera.uchime," which is mothur's implementation of the program UCHIME (Edgar et al., 2011). The chimera removal was done per sample (dereplicate = T). Nonchimeric sequences were classi- fied using the mothur-formatted Greengenes database
+
+4380	ALZAHAL ET AL.
+
+(DeSantis et al., 2006) v. gg_13_8_99 using a cut-off point of 80%. Nonbacterial lineages were removed using "remove.lineage."
+Sequencing error rate was assessed according to Kozich et al. (2013) using a mock bacterial community (HM-782D; ATCC, Manassas,  VA). The  assessment  of sequencing error was conducted on 2 bioinformat-  ics pipelines, a pipeline using forward sequences only and a second pipeline using both forward and reverse sequences (pipeline not shown). After error assessment, mock sequences were removed from the data.
+
+Operational Taxonomic Unit Analysis
+Genetic distances and clustering into operational taxonomic units (OTU) was performed by "cluster. split" using the default algorithm and 5% genetic dis- tance dissimilarity (AlZahal et al., 2016). Operational taxonomic units for each sample were computed using "make.shared" command, and a representative sequence of each OTU was selected and classified using "classify. otu" command using the Greengenes database.
+The data set that was used to calculate diversity indices excluded singletons (OTU that included 1 se- quence only) by applying the function "remove.rare" to the "shared" folder. This process was implemented to avoid inflation of diversity indices observed due to the presence of "rare" OTU (Kunin et al., 2010; Bokulich   et al., 2013).
+
+Alpha Diversity Analysis (Intra-Sample)
+A table containing Chao1 minimal richness index (Chao and Shen, 2003), inverse Simpson diversity index (Simpson, 1949; Hill, 1973), Shannon diversity index (Shannon and Weaver, 1949) was constructed using the "summary.single" command. The samples were rarified to 3,000 sequences. This process included random sub- sampling and performed the calculation on each sample 1,000 times, and then presented the average of each index with its confidence consensus.
+
+Beta Diversity Analysis (Inter-Sample)
+Distance files were created using "dist.shared" of mothur using the Bray-Curtis calculator after  rarefy-  ing the "shared" tables to 3,000 sequences using the "sub.sample" function. This process generated a lower- triangle phylip formatted distance file, which was later used for the principal coordinate analysis using the "pcoa" function of mothur. This analysis is based on  the eigenvector approach, which represents multidi- mensional data in as few dimensions as possible. The resulting data were plotted into 2- and 3-dimensional
+
+graphs using the R package (RStudio v. 0.98, RStudio, Boston, MA).
+The spatial separation (clustering) between the main factors (time, sampling location, and treatment), their interaction, and pair-wise comparisons was conducted by PERMANOVA (PRIMER-E v.6, Plymouth, UK)
+using the default settings (Clarke and Gorley, 2006).
+Inter-sample analysis included the computation of number of OTU ("get.sharedseqs") that were shared by all samples or unique to a given group of samples (diet, sampling location, treatment, or their combina- tions). In addition, the "get.coremicrobiome" function was used to predict the OTU that were prevalent in all samples or in a given group of samples (combinations of diet x location x treat) at abundance level >1%. Thus, the term core, in our study, refers to OTU that are both prevalent (in 100% of samples in each group) and dominant (>1% of total sequencing data).
+
+Taxonomic Classification
+Operational taxonomic units were classified using the Greengenes database. The phylogenetic composition was summarized for phylum, family, and genus level based on sequence abundance (sum of sequences per taxon divided by total sequences). Unclassified taxa within a given taxonomic level were not pooled togeth- er, but rather were pooled according to their closest classifiable parent (i.e., unclassified family belonging to Bacteroidetes).
+
+Total RNA Extraction and Sequencing
+Extraction of RNA was performed on 8 samples that were randomly selected from the HG phase (wk 10). The tubes containing rumen digesta were taken out of the freezer and allowed to thaw for 5 min. A 0.5-mL ali- quot of rumen digesta (diluted 1:1 with RNALater) was transferred into a sterile 2-mL tube with an O-ring cap. Then 1.5 mL of ice-cold PBS was added to each tube. Tubes were centrifuged at 7,000 x g for 10 min at 4degC. The supernatant was removed, leaving only the formed pellet. This step was repeated once more. Following the complete removal of the supernatant, 900 mL of QIAzol (included in the RNeasy Universal Mini Kit, Qiagen, Valencia, CA) was added immediately to each tube con- taining the pellet. The tubes were shaken to dislodge the pellet, and then 0.4 g of 0.5-mm acid-washed beads was added to the tubes. The tubes were homogenized for three 1-min intervals at approximately 20 Hz (~1,200 rpm) using Mini-bead-beater-8 (BioSpec Products Inc., Bartlesville, OK). Between the bead-beating intervals, the tubes were placed on ice to prevent heating of the tubes. Tubes were centrifuged at 12,000 x g for 10 min
+
+FACTORS INFLUENCING RUMEN MICROBIOME	4381
+
+at 4degC. Then the tubes were incubated on the bench at room temperature for 5 min. The lysate (~900 mL) was carefully transferred into a new sterile tube, 100 mL of gDNA Eliminator (included in the RNA extraction kit) was added to the lysate, and then the tubes were hand- shaken vigorously for 15 s. Then 180 mL of chloroform was added and tubes were hand-shaken for 15 s. The tubes were incubated on the bench at room tempera- ture for 2 to 3 min and later centrifuged at 12,000 x g for 15 min at 4degC. The upper aqueous phase (maximum of 500 mL) was transferred into a new micro-centrifuge tube, topped with 1 volume of 75% ethanol, and mixed thoroughly by repeated pipetting. The RNA purifica- tion was performed using RNeasy mini spin column and according to Qiagen's instructions ( ). Total RNA was eluted into a total of 100 mL of RNase-free water. Total RNA quan- tification and quality was performed using a NanoDrop spectrophotometer (2000C; NanoDrop Technologies Inc., Wilmington, DE) and 2100 Bioanalyzer (Agilent Technologies Inc., Santa Clara, CA), respectively. Total RNA aliquots were shipped on dry ice to Donnelly Se- quencing Centre (University of Toronto, Toronto, On- tario, Canada) for sequencing. The initial step included the depletion of rRNA using Ribo-Zero Gold rRNA Removal Kit (Epidemiology catalog no MRZE706, Il- lumina Inc., San Diego, CA) and followed by Ribo-Zero Plant (Seed/Root catalog no. MRZSR116) according to the manufacturer's instructions (  ). The resulting non-rRNA was sequenced using Hi-Seq 2500 V4 (2 x 125) platform (Illumina) fol- lowing the TrueSeq Stranded RNA library preparation according to Illumina's guidelines. The RNA sequenc- ing was performed by running the 8 samples on each of the 2 lanes separately to remove lane effect (8 samples by 2 lanes totaling 16 samples).
+
+RNA Sequence Analysis
+The RNA sequencing data were processed using the following 6 steps. (1) The initial quality control step of sequences was performed using a Trimmomatic v.
+0.33 (Bolger et al., 2014). This process included remov- ing Illumina's adapters, removing leading or tailing nucleotide bases within each sequence with a quality score below 20, scanning the sequences using a 4-base sliding window, and cutting the sequence when average quality per base drops below 20, dropping sequences with average quality below 20, and dropping sequences with a minimum length below 50 bases. (2) The rRNA were  separated  from  non-rRNA  using  SortMeRNA v.
+2.0 (Kopylova et al., 2012). SortMeRNA accepts only one fastq file as an interleaved file; therefore, "merge-
+
+paired-reads.sh" was used to interleave both R1 and R2 sequences into one fastq file. Additionally, to facilitate the next step, the outputted interleaved fastq files were unmerged using "unmerge-paired-reads.sh" to gener- ate 2 separate R1 and R2 sets of fasq files ( ).
+(3) Bovine RNA was removed by mapping sequences to the bovine genome (ftp://igenome:G3nom3s4u@ ussd-ftp.illumina.com/Bos_taurus/NCBI/UMD_3.1/ Bos_taurus_NCBI_UMD_3.1.tar.gz) using TopHat v.
+2.2.0 (Kim et al., 2013) and Bowtie2 v. 2.2.6 (Lang- mead and Salzberg, 2012). (4) R1 and R2 files were sorted by sequence name using SAMtools v. 1.2 (Li  et al., 2009) and converted to fastq format using bed- tools v. 2.25.0 (). Then R1 and R2 were combined to form a single ex- tended sequence using FLASH v. 1.2.11 (Magoc and Salzberg, 2011). The settings allowed for a minimum overlap of 35 bases, a maximum overlap of 150 bases, and permitted "outies." Lastly, duplicate samples on different lanes were merged using the "cat" function in Linux. (5) Sequences were mapped to a protein-coding sequences from the Kyoto Encyclopedia of Genes and Genomes (KEGG) database v. 5 (Kanehisa et al., 2012) using DIAMOND (Buchfink et al., 2015). (6) Functional profiling was performed using HUMAnN2 (Abubucker et al., 2012), which outputted listing for gene families, pathways, and pathway coverage based on KEGG Orthology. The outputted pathways were converted from RPK values to relative abundance, and values above the median of any given treatment were included in further analysis.
+The outputted gene families (K numbers) were re-
+mapped into specific enzyme commission numbers (EC) using HUMAnN2 and a custom database, which included each EC and its corresponding K numbers. The EC and K numbers were matched using the KEGG website (, accessed January 2016), but only K numbers that were present in the KEGG v.5 were considered for the analysis. This mapping allowed the grouping of gene families by the reaction that they catalyze rather than their gene orthology. The database included the following cellulases: endo-b-1,4-glucanase (EC 3.2.1.4 = K01179), exo-b-1,4-glucanase (EC
+3.2.1.91 = K01225), and b-glucosidase (EC 3.2.1.21 =
+K01188 + K05349 + K05350). The database included the following hemicellulases: endo-b-1,4-xylanase (EC 3.2.1.8  =  K01181  +  K13465),  b-1,4-xylosidase (EC
+3.2.1.37  =  K01198),  a-glucuronidase  (EC 3.2.1.139
+= K1235), a-l-arabinofuranosidase (EC 3.2.1.55 = K01209), endo-b-1,4-mannase (EC 3.2.1.78 = K08233),
+b-mannosidase (EC 3.2.1.25 = K01192), galactosidase (EC 3.2.1.22 = K01189 + K07406 + K07407), and fe-
+rulic acid esterase (EC 3.1.1.73 = K09252).
+
+4382	ALZAHAL ET AL.
+Table 1. Average of a diversity (intra-sample) indices of the rumen bacterial community1
+
+Inverse Simpson	81bc	228a	104b	39d	51cd	35d	8	***	***	*** Shannon		5.7		6.3		5.9		4.6		5.1		4.6	0.1	***	***
+a-dMeans bearing different superscript letters differ (P < 0.05).
+1The effect of treatment (active dry yeast vs. control) was not significant (P < 0.05) for all measured variables, and means were separated by time (T) and location (L) only.
+***P < 0.001.
+
+
+Statistical Analysis
+
+Our RNA-based investigation was conducted on a subset of 8 samples randomly selected during the HG feeding (wk 10). The statistical analyses for EC abun- dances were conducted using the linear discriminant analysis (LDA) effect size (Segata et al., 2011) through the online-based platform, Galaxy (Blankenberg et al., 2010). The nonparametric factorial Kruskal-Wallis sum-rank test (Kruskal and Wallis, 1952) was used to detect features that were significant across treatments (dependent variable). Only features that violated (P < 0.05) the null hypothesis were moved to the next step, and then the LDA score for each marker was calcu- lated. The LDA calculation was additionally supported by bootstrapping (default 30-fold) and subsequent av- eraging. The threshold on the logarithmic score of LDA analysis was set to 2.0. The significance for RNA-based results was declared at P < 0.05.
+Alpha diversity measures, phylogenetic composi-
+tion, and OTU abundance were analyzed using PROC MIXED of SAS v. 9.3 (SAS Institute Inc., Cary, NC). Relative abundance data were arcsine square root- transformed before performing ANOVA according to Franzosa et al. (2014). The compliance of the data with the assumptions of ANOVA was tested using PROC UNIVARIATE of SAS. The model included the fixed effects of treatment (ADY vs. control), time [wk 5 (HF) vs. wk 10 (HG)], sampling location (epimural, solids, and fluid), and all possible interactions. Phyla, families, and genera that were above a threshold of 1% of total sequence data and only top 20 OTU were considered  for the analysis. The resulting P-values were adjusted  for false discovery rate according to Benjamini and Hochberg (1995).
+
+RESULTS
+
+Rumen Bacterial Diversity and Community Structure
+
+DNA Sequencing. The study produced 490,011 nonchimeric, noncontaminated, high-quality sequences.
+
+The bioinformatics pipeline used the R1  sequences  only. This decision was based on sequencing error assessment, which indicated that R1 sequences had considerably lower sequencing error compared with the utilization of both R1 and R2 sequences (0 and 1.17%, respectively). The resulting sequences were clustered into 14,167 OTU, in which 6,254 nonsingleton OTU. As indicated previously, the sequences were rarified into 3,000 sequences to ensure that differences in sequence count among samples do not bias diversity measures.
+Alpha Diversity. The calculated sample Good's coverage (Good, 1953) were 0.82, 0.79, and 0.82 on HF and 0.92, 0.89, and 0.92 on HG for solids, epimural, and fluid, respectively (SE = 0.01). Such indicated an acceptable overall level of sampling efforts. Alpha di- versity measurements (Table 1) indicated a significant reduction in bacterial diversity with the transition from HF to HG. Additionally, epimural had higher diver- sity than solids and fluid fractions. The Chao 1 index, which predicts the minimal richness (number of OTU or species), showed a reduction in richness with the transitioning to HG, and in solids and fluids as com- pared with epimural (Table 1).
+Beta Diversity. The principal coordinate analysis results indicated that the first, second, and third axes explained 76, 11, and 4% of the variation, respectively.
+In total, the use of 2 and 3 axes explained 87 and 91%  of the variation, respectively. Sample clustering was presented in Figure 1 (3-dimensional plot) and in Sup- plemental Figure S1a-c (2-dimensional plots;  ). The PERMANOVA
+test demonstrated a significant separation (P < 0.05; Table 2) due to diets x sampling location. The separa- tion by treatment (ADY vs. control; Table 2) was not significant (P = 0.1).
+The investigation also included defining OTU that are unique (exclusive) to given groups or OTU that are shared across groups of samples. Only 1 OTU (OTU342, Prevotella) was unique to epimural samples; whereas, no OTU were unique to fluid or solids. Opera- tional taxonomic unit 69 (Anaeroplasma) was unique to HF and OTU25 (Succiniclasticum) was unique to HG.
+
+FACTORS INFLUENCING RUMEN MICROBIOME	4383
+
+Table 2. Analysis of molecular variance (PERMANOVA) of the  spatial separation (clustering) between time [high forage in wk 5 (HF) and high grain in wk 10 (HG)], rumen sampling locations (fluid, solids, and epimural), and treatment [active dry yeast (ADY) and control]1
+P-value	P-value
+Factor	(PERMANOVA) (Monte Carlo)
+
+No OTU were unique to control, ADY, or any combina- tions of diet by location by treatment.
+Four OTU (OTU3, Fibrobacter succinogenes; OTU4, Prevotella; OTU7, unclassified S24-7; and OTU30, Prevotella) were prevalent and included sequences from
+
+ 		all samples, but none of these OTU reached an abun-
+
+Time	0.001	0.001
+Location	0.001	0.001
+Treatment	0.072	0.097
+Time x location	0.001	0.002
+Time x treatment	0.134	0.143
+Location x treatment	1	0.999
+Time x location x treatment	1	0.997
+Pair-wise comparison Location (time)
+Epimural  (HF vs. HG)	0.001	0.001
+Fluid  (HF vs. HG)	0.001	0.001
+Solids  (HF vs. HG)	0.001	0.001
+Treatment (time)
+ADY  (HF vs. HG)	0.001	0.001
+Control  (HF vs. HG)	0.001	0.001
+Time (treatment)
+1The analysis was based on a Bray-Curtis distance matrix.
+
+dance of 1%. However, OTU4 (Prevotella) was likely to be present in 67% of samples at >1% abundance.
+Bacterial Community Structure. The sequence data were classified into 25 phyla and 12 to 24% of sequences, depending on diet or sampling location, did not classify into any known phyla. Moreover, the clas- sification yielded 46 groups at the class level, 68 groups at the order level, 101 groups at the family level, and 183 groups at the genus level. However, when the un- classified groups, at any given taxa level, were referred to their closest classifiable parent (i.e., at the genus  level, an unclassified group belonging to Ruminococ- caceae family can be grouped as unclassified Rumino- coccaceae), the numbers of groups increased to 60, 101,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. A 3-dimensional plot depicting the clustering of bacterial communities within the rumen. Red, green, and blue represent the differ- ent rumen sampling locations: epimural, fluid, and solids, respectively. Light colors (light red, light green, and light blue) represent the fractions during the high-forage phase (wk 5). Dark colors (dark red, dark green, and dark blue) represent the fractions during the high-grain feeding   phase (wk 10). Treatment effect (active dry yeast and control) was not significant and was not included in the plot. Principal coordinate analysis was conducted using "dist.shared" and "pcoa" functions of mothur (Schloss et al., 2009) and was based on a Bray-Curtis distance matrix. Plots were visualized using R package (RStudio, Boston, MA).
+
+4384	ALZAHAL ET AL.
+
+161, and 300 at the level of class, order, family, and genus, respectively.
+The classification of individual OTU showed that 66, 54, 52, 39, and 22% were classifiable into phylum, class, order, family, and genus, respectively. Given the large number of classified groups and to facilitate the inter- pretation of results, our investigation focused, only, on abundant groups (at phylum, family, and genus level;
+>1% of total sequence data) and the top 20 OTU (OTU1 to OTU20). This approach reduced the number of groups into 9, 19, and 19 at the phylum, family, and genus level, which constituted approximately 98, 90, and 83% of total sequences, respectively. Additionally, the top 20 OTU (0.14% of OTU) constituted approxi- mately 27% of total sequences. At the species level, only 440 OTU (3% of total OTU) were classifiable, which included 93 named species. Out of the top 20 OTU, only 4 OTU were classifiable at the species level. These species belonged to Fibrobacter succinogenes and Prevotella copri. By examining the top 150 OTU (data not shown), only 10 OTU were classifiable into named species, and those species, in addition to the previously mentioned, included Ruminococcus flavefaciens and Selenomonas bovis.
+On the phylum level, significant diet and sampling
+location effects were observed on Bacteroidetes, Fi- brobacteres, Spirochaetes, and an unclassified bacteria group. Bacteroidetes was most abundant in HG and fluid compared with other factors. The abundance for HG fluid and HF fluid was 49 and 38 (% of total se- quences, SE = 0.02%), respectively. Fibrobacteres was more abundant in HF than HG, and in solids followed by fluid and epimural (18.4 vs. 9.4%, 12.0 vs. 4.4%, and
+5.3 vs. 1.3%, respectively; SE = 0.03%). Spirochaetes was most abundant in HF and solids compared with other factors. The abundance for HF solids and HG solids was 2.4 and 1.7%, respectively (SE <0.01%; Sup- plemental Table S1; ). There was a significant diet, location, and diet by location interaction on Firmicutes and Tenericutes. Firmicutes was more abundant in HG than HF but only in solids and fluid fractions (24.2 vs. 16% and
+22.5 vs. 13.4%, respectively, SE = 0.02%; Supplemen- tal Table S1; ). Tenericutes was more abundant in HF than in HG. In HF samples, Tenericutes was more abundant in sol- ids (6.2%) and followed by fluid (3.9%) and epimural (3.4%). Whereas, the abundance of Tenericutes in HG was approximately 1% and not different across sam- pling locations (SE = 0.01%; Supplemental Table S1;). A significant sampling location effect was observed on Proteobacteria. Proteobacteria was most abundant in epimural followed
+
+by fluid and solids (9.1, 3.8, and 1.6%, respectively; SE
+= 0.01%). A significant sampling location effect was observed on Proteobacteria and Cyanobacteria. Proteo- bacteria was most abundant in epimural followed by fluid and solids (9.1, 3.8, and 1.6%, respectively; SE = 0.01%). Cyanobacteria phylum, on the other hand, was more abundant in the fluid fraction (3.8%) than solids (1.7%) and epimural (1.5%, SE = 0.01%). A significant treatment effect was observed on SR1. This phylum was more abundant with ADY than with control (1.7 vs. 1.2%, SE < 0.01). No interaction was observed be- tween treatment with either diet or sampling location. However, the abundance of SR1 was affected by diet and sampling location (significant diet, location, and diet by location). The highest abundance of SR1 was in HF-fluid-ADY (3%), whereas the lowest abundance was in HG-solids-control (0.2%; Supplemental Table S1; ).
+Bacteroidetes was mainly dominated by the family
+Prevotellaceae, which in turn was dominated by the genus Prevotella. Prevotella was more dominant in HG than HF (28.1 and 13.6%; SE = 0.01), and more domi- nant in rumen fluid (26.3%) than solids and epimural (19.2 and 16.1%, respectively; SE = 0.02). Other domi- nant families within Bacteroidetes were Paraprevotel- laceae and RF16, which were more represented in HF and fluid and solids than HG and epimural, respec- tively. These families represented approximately 4% of total sequences. No dominant genera were observed within these 2 families. Additionally, approximately 6% of total Bacteroidetes sequences were not classifi- able (Supplemental Table S1;  ).
+Firmicutes was represented by several abundant (>1%
+of total sequences) families and genera. Lachnospiraceae was composed mainly from an unclassified group (~5% of total sequences, Supplemental Table S1;  ), which was (similarly to Firmicutes) more abundant in HG fluid and HG sol- ids. The most abundant group within Lachnospiraceae was an unclassified group. The second most abundant group was Butyvibrio, and was only abundant in epimu- ral and solids compared with fluid and regardless of diet (1.6, 1.3, and 0.7%, respectively; SE = 0.002%; Supplemental Table S1;  ). The family Veillonellaceae followed the same abundance pattern as Firmicutes. Its highest values were for solids and fluid (approximately 4%). This family included several genera, however, only one genus was considered abundant (<1%). The genus, Succiniclasticum, was not significantly different across tested factors (Supplemental Table S1;  ). The family Ruminococ-
+
+FACTORS INFLUENCING RUMEN MICROBIOME	4385
+
+caceae (unlike Firmicutes) was most abundant in HF epimural (7.5%, SE = 0.1%) and least abundant in HG epimural (2.3%). Further, the abundance of Ruminococ- caceae ranged from 4.0 to 4.7% for solids and from 2.7 to 3.8% for fluid. The Ruminococcaceae family included
+2 genera, Ruminococcus and an unclassified group,  which followed the same abundance pattern as in the parent family. The families Mogibacteriaceae and Ery- sipelotrichaceae had highest abundance in HG epimural (3.0 and 3.1%, respectively), whereas an unclassified group (order Clostridiales) had the highest abundance  in HF epimural (1.6%; Supplemental Table S1; ).
+It is important to note that the analysis, using mothur, ranked all OTU (OTU1 to OTU14167) based on their overall abundance (in all samples). Therefore, a dominant OTU (i.e., OTU1) does not necessarily mean that it is dominant or present in all samples. Several the top 20 OTU classified into Prevotella (OTU1, OTU4, OTU8, OTU10, OTU13, OTU14, and OTU17) and Fi-
+brobacter (OTU2, OTU3, and OTU5; see Supplemental Table S2, , for classification of top 20 OTU). Operational taxonomic unit 1 (Prevotella) was the most dominant OTU in HG (9.24 +- 0.025%; Supplemental Table S3;  ). However, OTU1 had no presence in HF samples. Similarly, OTU10, OTU13, and OTU17 (Prevotella) were more abundant in HG compared with HF (1.03 vs. 0%, SE = 0.01%; 0.69 vs.
+0.05%, SE = 0.008%; and 0.47 vs. 0.15%, SE = 0.005%;
+respectively). Operational taxonomic unit 8 was more abundant in HG compared with HF (1.08 vs. 0%, SE = 0.006%), but also more abundant in control compared with ADY (0.56 vs. 0.09%, SE = 0.006%). Operational taxonomic unit 4 was more abundant in fluid (2.6%) followed by solids (1.82%) then epimural (1.07%, SE = 0.006%) and was not significant across diets. Contrary to OTU belonging to Prevotella, OTU14 was more el- evated in HF compared with HG (0.92 vs. 0.09%, SE
+= 0.004%), mainly in the fluid (0.72%) compared with the solids (0.20%) and epimural fractions (0.36%, SE = 0.006%; Supplemental Table S3).
+On the other hand, OTU2 (Fibrobacter) was the most dominant OTU in HF, namely in HF solids and HF fluid (diet, location, and diet by location; Supplemental Table S3; ). In HF, this OTU constituted 8.5, 7.7, and 2.2% of total sequences (SE = 0.012%) for solids, fluid, and epimu- ral, respectively. Supplementing ADY did not affect the abundance of OTU2 during HF, but its abundance was increased during HG namely in solids and fluid (treat- ment by diet interaction, Supplemental Table S3). The abundance of OTU2 in solids was 1.6 and 0.2% and
+
+in fluid was 1.0 and 0.3% (SE = 0.02%) for ADY and control, respectively. Additionally, OTU3 classified into Fibrobacter and it had a considerable representa- tion in both HF and HG. Nonetheless, it had a greater representation in HG than HF and mainly in solids (diet, location, diet by location, Supplemental Table S3). In addition, the abundance of OTU3 in HG solids differed by ADY (6.9% for ADY vs. 3.8% for control, SE <0.001%; Supplemental Table S3). Operational taxonomic units 3 abundance in HF solids was 2.73% and overall abundance for epimural and fluid ranged from 0.7 to 1.1% (SE = 0.02%). Operational taxonomic unit 5 also classified into Fibrobacter but it had lower abundance than other Fibrobacter OTU. Operational taxonomic unit 5 was more abundance in HF than HG (1.6 vs. 1.1%, respectively; SE = 0.004%) and in solids than fluid and epimural (2.1, 1.5, and 0.6%, respec- tively; SE = 0.006%).
+The rest of the top 20 OTU (OTU6, OTU7, OTU9,
+OTU11,  OTU12,  OTU15,  OTU16,  OTU18,  OTU19,
+and OTU20) had an abundance pattern similar to their parent genus presented above.
+
+Microbial Community Function (RNA-Based)
+RNA Sequencing and Quality. The extraction protocol yielded high quality (RNA integrity number =
+6.9 +- 0.5) and quantity (40 +- 9 mg) total RNA. Spec- trophotometer ratio readings were 2.1 +- 0.07 and 1.8
++- 0.3 for 260/280 and 260/230, respectively. The bio- informatics pipeline yielded approximately 40 million sequences per samples. The contamination rate was less than 1% and 0.001% with rRNA and host mRNA (bo- vine), respectively. Sequence length was approximately 215 bases. Median quality score was approximately 38. Enzyme Abundance. Our investigation focused on several enzymes that are involved in fiber degrada- tion (cellulases and hemicellulases). Active dry yeast supplementation increased the abundance of the cellu- lase endo-b-1,4-glucanase (EC 3.2.1.4; LDA = 1.7, P = 0.02) and had a tendency to increase the hemicellulase a-glucuronidase (EC 3.2.1.139; LDA = 1.5, P = 0.10;
+Figure 2).
+
+DISCUSSION
+This study is an extension to our previous report (AlZahal et al., 2014), where supplementation of lac- tating dairy cows with ADY was proven effective in mitigating SARA as indicated by improved ruminal pH. Additionally, ADY increased total VFA concentration and propionate concentrations within the rumen. This improvement in ruminal condition was reflected by im-
+
+4386	ALZAHAL ET AL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Effect of treatment (active dry yeast vs. control) on abundance of cellulase and hemicellulase enzymes. The abundance of each enzyme was calculated as a function of total transcripts. Enzymes were presented as enzyme commission numbers (EC). EC 3.2.1.4 = endo-b-1,4- glucanase; EC 3.2.1.91 = exo-b-1,4-glucanase; EC 3.2.1.21 = b-glucosidase; EC 3.2.1.8 = endo-b-1,4-xylanase; EC 3.2.1.37 = b-1,4-xylosidase; EC 3.2.1.139 = a-glucuronidase; EC 3.2.1.55 = a-l-arabinofuranosidase; EC 3.2.1.25 = b-mannosidase; EC 3.2.1.22 = galactosidase; and EC
+3.1.1.73 = ferulic acid esterase.
+
+
+provement in milk production and DMI. Evidence, also presented in the previous report, indicates that ADY induced an increase in Saccharomyces cerevisiae within the rumen and a concurrent increase in anaerobic mi- crobial species with known cellulolytic activity (using PCR). The objective of the current investigation was to provide more details on the influence of ADY on the rumen microbiome using a 16S rRNA gene and a metatranscriptomic approach.
+
+Bacterial Community Diversity
+Diet had the greatest effect on bacterial community diversity and structure, which is supported by previous studies that used molecular techniques (Tajima et al., 2001; Fernando et al., 2010; Kong et al., 2010; Petri et al., 2013b; AlZahal et al., 2015; Henderson et al., 2015).
+
+In the current study, the switch to HG reduced the bacterial diversity; this reduction was likely a reflection of the reduction in the variety of substrate available to the bacteria (higher starch) and the subsequent lower pH. The reduction of the diversity was mainly driven by a reduction in richness (number of species) coupled with an increase in dominance (reduced evenness) of some species such as members of Prevotella. However, our study showed that bacterial diversity differed de- pending on the rumen sampling location. Epimural maintained higher diversity than fluid and solids, which is contrary to Li et al. (2012) who used beef cattle, and this increase in diversity occurred regardless of diet type. The high richness and lower dominance in the epimural bacterial community can suggest that epimu- ral community can play a role as a species reservoir for fermentative bacteria within the rumen, in addition
+
+FACTORS INFLUENCING RUMEN MICROBIOME	4387
+
+to hosting epithelial-specific, nonfermentative bacteria, the role of which is not yet defined. The presented di- versity data thus far agree with the clustering analysis results. Our clustering analysis showed that HF clus- tered away from HG. Clustering due to sampling loca- tion within diet was also in agreement with our other diversity measures. The clustering results emphasized the clear separation between epimural and other loca- tions (fluid and solids). Results also showed an effect of diet on the structure of the epimural community. These findings confirm that epimural samples in our studies likely contained both fermentative and nonfermentative species. Given that most studies employed a stomach tubing method to collect rumen samples, the epimural community is understudied in cattle.
+The supplementation of ADY in this experiment had
+no effect on any of the diversity measures in any of the diets or sampling locations.
+
+Dominance and Prevalence of OTU with Emphasis on Fluid and Solids During HF and HG Feeding
+In this study, a dominant OTU was defined as an  OTU that consists of at least or equal to 1% of total sequences, and only dominant OTU were included in the analysis. A dominant or nondominant OTU was considered prevalent across a group if it had sequences from all samples within that group.  We also  assume that prevalent and dominant OTU or groups can be considered a part of the bacterial core. The clear sepa- ration by diet, presented in the previous section, was reflected by the small number of prevalent OTU (only 4 OTU) that were shared across both diets, which also in- dicate the high dynamicity of the rumen microbiome to substrate availability. The 4 OTU  that  were prevalent in all samples and across all tested factors were OTU3 (F. succinogenes), OTU4 and OTU30 (Prevotella), and OTU7 (classify to unidentified group belonging to the family S247 and order Bacteroidales). These OTU can be considered as part of the core bacterial microbiome, but with varied abundances. However, applying a dom- inance threshold (>1%), no OTU among the prevalent OTU was found to be abundant.
+The  substrate-driven  nature  of  the  bacterial com-
+munity is not only reflected by the type of diet, as demonstrated above, but also by the sampling location of the sample. An example would be OTU2 (F. succi- nogenes), which was the most dominant and prevalent (core) OTU in the HF diet, namely in solids and fluids (approximately 8% of total sequences). In addition to OTU2, OTU3 and OTU5 (both F. succinogenes) were more prevalent in the solids (hence, core for HF solids is OTU2, OTU3, and OTU5). On the other hand, dur-
+
+ing HF, no Prevotella OTU was prevalent, with the exception of OTU4, which was prevalent in the fluid fraction only.
+The switch to HG, and thus the change in substrate, was hallmarked by the dominance of OTU1, a Prevotel- la that had almost no presence during HF (<0.001%). Operational taxonomic unit 1 replaced OTU2 (F. suc- cinogenes) to become the most dominant and prevalent OTU across all sampling locations, and also replacing OTU4 to become the most prevalent Prevotella OTU. The abundance of OTU1 reached up to 10% of total sequences and this dominance was likely the main contributor to the reduction in diversity (evenness) observed with the switch to HG.
+The switch to HG reduced the overall abundance of
+F. succinogenes, which was mainly driven by the reduc- tion by OTU2 (11.3 to 4.5%, SE = 0.01%); however, other F. succinogenes such as OTU3 and OTU5 did not follow the same trend. Fibrobacter succinogenes OTU5 continued to be prevalent on solids during HG and with no significant reduction in its abundance. However, the abundance of OTU3 was increased on HG and this in- crease was more pronounced on the solid fraction.
+
+Dominance and Prevalence of Bacterial Taxonomic Groups with Emphasis on Fluid and Solids During HF and HG Feeding
+Considerable variation of results across rumen micro- biome studies is expected. In a global effort to study rumen and camelid foregut microbiota community com- position with different diets, species, and geographical locations, Henderson et al. (2015) coordinated the col- lection of 742 samples from 32 species in 35 countries. The study reported that 30 groups (summarized at the genus level) were present in 90% of samples and con- stituting 90% of total sequencing data. These groups were perceived to represent the rumen and foregut microbiota across the world. Additionally, the authors speculated that "new dominant bacteria are not likely   to be found in future studies." However, only 7 groups out of the 30 ranked as "most dominant" groups (con- stituting 67% of total  sequence  data)  were  suggested to represent the "core bacterial microbiome." These groups were Prevotella, Butyrivibrio, and Ruminococ- cus, unclassified Lachnospiraceae, unclassified Rumino- coccaceae, unclassified Bacteroidales, and unclassified Clostridiales. Because 4 groups of the suggested "core bacterial microbiome" can only be classified into order or family levels, the suggested "core" was considered very poorly characterized.
+On the other hand, our analysis defined 19 abundant
+(>1%  of  total  sequences)  groups.  These  groups  were
+
+4388	ALZAHAL ET AL.
+
+present in all samples  (prevalent)  with  the  exception of Campylobacter, which was present only in epimural samples. Further, our groups included, in addition to the 7 groups presented above by Henderson et al. (2015), Fibrobacter, Succiniclasticum, Treponema, Anaero- plasma, YRC22, unclassified S24-7, unclassified RF16, unclassified YS2, unclassified Bacteroidetes, unclassi- fied SR1, and unclassified phyla. These 18 dominant groups (excluding Campylobacter) constituted 78.6% of all sequences and can  represent  the  core  microbiome in our study; however, the abundance of these groups varied depending on diet, sampling location, and treat- ment. The function of these groups within the rumen and their co-occurrence is poorly characterized because most of these groups are either  not  yet  cultivated  or not cultivable. However, considerable efforts have been made to estimate the cultivability of rumen bacteria (Nyonyo et al., 2013; Creevey et al., 2014). To overcome the shortcomings in cultivation of ruminal bacteria,  more postgenomic studies are required.
+Our study focused on lactating dairy cows housed
+in one geographical location. These cows were cannu- lated, which allowed us to sample different locations within the rumen, whereas the study by Henderson et al. (2015) used noncannulated cows where samples were collected via a stomach tube. It is well established that 3 different types of bacterial communities exist within the rumen, floating in the liquid part of digesta, associ- ated with feed particles, and adherent to the rumen epithelium (epimural; Wallace et al., 1979; McAllister et al., 1994; Petri et al., 2013b). Furthermore, our study used a diet high in forage, followed by a diet high in grain that is known to depress ruminal pH (SARA). Those 2 diets were considered 2 exaggerated scenarios compared with conventional lactating diets. However, on both diets (wk 5 HF and wk 10 HG), cows were allowed sufficient time to adapt; thus, our bacterial compositions reflected stable bacterial populations as opposed to transient ones.
+Bacteroidetes.  Diet had a significant effect on the
+abundance of most members of the bacterial community but at variable rates. Prevotella dominated Bacteroide- tes (42% of Bacteroidetes  sequences)  during  HF  but its abundance was increased to 65% of Bacteroidetes during the switch to HG (mainly driven by OTU1). Prevotella is suggested as one of main propionate pro- ducers (Strobel, 1992), which may explain the increase in the concentration of propionate we observed in this study [previously reported by AlZahal et al. (2014)]. These findings agree with Henderson et al. (2015). Unclassified Bacteroidales, a prevalent member of Bac- teroidetes, was also increased with HG. However, this is contrary to Henderson et al. (2015) who reported that
+
+this group was more abundant in forage-fed than in concentrate-fed ruminants. On the other hand, not all Bacteroidetes members were increased with HG; other members such as YRC22, unclassified RF16, and an unclassified Bacteroidetes were reduced. Therefore, it is suggested that some Bacteroidetes may be involved in fiber degradation (Naas et al., 2014) or metabolically associated fiber degraders.
+Firmicutes. Our 16S rRNA gene data showed that Lachnospiraceae and Ruminococcaceae were the major Firmicutes families present within the rumen. On the genus level and on HF, Ruminococcus and unclassified Lachnospiraceae equally dominated (both constituted approximately 38% of Firmicutes). However, with the increase of grains, total Firmicutes was increased and this increase was primarily due to the increase in un- classified Lachnospiraceae in solids and fluid (7.2 and 7.0% of total sequences, respectively). Both families, Ruminococcaceae and Lachnospiraceae, have a sig- nificant role in fibrolytic activities within the rumen, namely as adherent bacteria (Brulc et al., 2009; Biddle et al., 2013). It is noteworthy that the abundance of Ruminococcus was not reduced with the switch to HG (in fluid and solids), likely reflecting the considerable level of fiber in our HG diet. Although the HG diet con- tained a high level of rapidly fermentable carbohydrate (45.2% of DM), it was a corn-silage, haylage-based diet and contained 28.2% NDF [see Table 1 in AlZahal et al. (2014)]. This may explain the consistency of some fiber degraders despite the introduction of HG. Furthermore, the abundance of unclassified Lachnospiraceae on HF, and yet its increase with HG, suggests that this group consists of metabolically diverse genera that can de- grade fiber and less complex carbohydrate. Our data showed that diet had no effect on the genus Butyvibrio, whereas Henderson et al. (2015) showed in their survey that Butyvibrio was most abundant in the rumen of cattle and bison fed mixes of forage and concentrate compared with forage-based diets. In their survey, the overall means of Butyvibrio in total digesta for the 2 species were 4.1 +- 0.1 and 4.9 +- 0.5, respectively, which was greater than our values. The abundance of Bu- tyvibrio in all sampling locations, namely in epimural samples, reflects the metabolic diversity in its strains.
+In addition to the mentioned phyla, Cyanobacteria was detected in the rumen mainly in the fluid and irre- spective of diet and treatment in our experiment. This phylum is known for its photosynthetic capability but recent studies demonstrated the presence of nonphoto- synthetic members in the human gut and underground water (Di Rienzi et al., 2013). Their analysis demon- strated that the order YS2, present in our data, has many functions including obligate anaerobic fermenta-
+
+FACTORS INFLUENCING RUMEN MICROBIOME	4389
+
+tion, nitrogen fixation, syntrophic hydrogen production, and synthesis of vitamin B and K synthesis. YS2 has been suggested as a new candidate phylum, "Melaina- bacteria" (Di Rienzi et al., 2013). Other reports have also proved its presence in the gut of mammals (Soo et al., 2014; Zeng et al., 2015).
+Studies that describe the microbiome of Holstein cows using high-throughput sequencing are scarce, thus more studies are needed. Recently, Pitta et al. (2016) demonstrated that the bacterial rumen microbiome was dominated by Bacteroidetes (70%), Firmicutes (15-20%), and Proteobacteria (7%) and that this dominance was influenced by diet and age of the cow. Additionally, our previous study demonstrated (using pyrosequencing on samples collected via the stomach tubing method) the differences in bacterial microbiome structure and composition between dry and early lac- tating cows. Lactating cows had greater abundance of Proteobacteria, lower Firmicutes, and no change in the abundance of Bacteroidetes.
+
+Effects on Rumen Epimural Population
+Diet has the greatest effect on rumen microbiome compared with other factors such as geographical lo- cation and species (Henderson et al., 2015). However, most of the studies that examined rumen bacterial com- munity used digesta samples (fluid + digesta particles) collected via stomach tubing, which provided a fair representation of the overall bacterial community that is involved in digesta degradation but without identify- ing bacteria that are more abundant in either fluid or solids fractions. Moreover, stomach-tubing studies did not identify bacteria that are present in the epimural fraction.
+Our analysis focused on abundant groups that consti-
+tuted more than 1% of total sequences across all diets and sampling locations. This approach, however, did not bias our analysis toward the groups that were more abundant in fluid and solids. The 19 groups at the ge- nus level that were included in the analysis constituted
+78.6 and 74.5% of total epimural sequences during HF and HG, respectively.
+Our study demonstrated that the majority of abun- dant bacterial groups, and what were previously de- fined as core bacteria (Henderson et al., 2015), were well represented in the epimural fraction, which can provide evidence of the metabolic robustness of these core bacteria. However, Campylobacter was abundant only in epimural samples with no presence in fluid or solids. The abundance of this bacterium was 3.0% on HF and increased to 5.2% on HG (SE = 0.01%). In a recent study, Petri et al. (2013a) examined epimural
+
+bacteria in growing beef heifers under different dietary conditions. The study suggested a "core rumen epithe- lial microbiome" that consisted of Firmicutes (73%), namely Lachnospiraceae (34%), Family XII Incertae Se- dis (13%), and Ruminococcaceae (11%). The suggested core also included Bacteroidetes (10% of total sequences, 40% of which was Prevotella), Proteobacteria (11%, 36% of which was Desulfobulbus), and Actinobacteria (3%). Our study reported less dominance of Firmicutes and more dominance of Bacteroidetes, namely Prevotella, in addition to Proteobacteria, Fibrobacteres, and others. Our OTU-based core analysis showed that Campylo- bacter and Fibrobacter (OTU6 and OTU2) were preva- lent in all samples during HF, whereas Campylobacter and Prevotella (OTU6 and OTU1)  were  prevalent  in all samples during HG.  Contrary  to  our  results, Petri et al. (2013a) reported that Campylobacter (2%) was prevalent only following a short-term acidosis challenge in addition to Atopobium (2%) and cc142 (2%). Ad- ditionally, our data showed that epimural had a greater proportion of unclassified bacteria compared with fluid and solids, which suggest that there are likely more undiscovered bacteria in the epimural fraction. The role of epimural bacteria is understudied in the rumen and more studies are required to identify these bacteria and verify their role.
+
+Effect of ADY
+The effect of ADY on rumen bacterial community was examined across 2 diets and in different sampling locations within the rumen. As was demonstrated pre- viously, ADY had no effect on diversity measurements, being a and b diversity indices. Additionally, ADY did not have a major effect on the structure of the bacte- rial community, but rather manipulated the level of abundance of prominent OTU, namely OTU2, OTU3, and OTU8. The most dominant and prevalent OTU across all samples during HF was OTU2 (F. succino- genes). This OTU is speculated to have a significant role in fiber degradation not only in solids but also in fluid fraction. The shift to HG significantly reduced its abundance but to a lesser extent in ADY solids followed by ADY fluid samples, suggesting a higher activity of fiber degradation with ADY supplementation.
+The second abundant OTU during HF was OTU3
+(F. succinogenes), but unlike OTU2, OTU3 was in- creased with HG and dominated mostly in solids, which indicates that this OTU is mostly a fiber-associated bacterium that can thrive in a high-grain feeding condi- tions. Interestingly, this OTU was increased with ADY supplementation. It is abundance on HG-solids-ADY was 6.9% compared with only 3.8% for HG-solids-
+
+4390	ALZAHAL ET AL.
+
+control. Such a finding supports that OTU3 is mostly    a fiber-associated bacterium that is acid tolerant. This finding merits further investigations to identify such strains of F. succinogenes that can thrive under chal- lenging ruminal conditions.
+Active dry yeast also increased the dominance of phylum SR1 by 0.6% across all diets and sampling loca- tions. This phylum was mainly represented by OTU18. SR1 was more abundant on HF  and  was  reduced by the switch to HG; therefore,  a  role  for  this  phylum  (or OTU) may be related to fiber presence. SR1 is an uncultured bacterium and found in environmental, ani- mal-associated, and human samples. Animal-associated bacteria have been found to cluster separately from environmental samples (Ghotra, 2014). This bacterium had no defined role.
+The increase in F. succinogenes (OTU2, OTU3) and SR1 by ADY supplementation was paralleled by a reduction in Prevotella OTU8. This OTU had no pres- ence during HF, but became prevalent in all HG-solids- control samples and not in HG-solids-ADY samples. Therefore, we suggest that OTU2, OTU3, and SR1, mainly in solids, outcompeted Prevotella OTU8.
+Also, unlike Prevotella OTU8 that was prevalent in the solids fraction during HG, the abundances of indi- vidual Prevotella OTU in the fluid fraction were more variable. Further examination of the top 17 Prevotella OTU (present within the top 50 OTU, data not shown) revealed that these Prevotella OTU were less abun- dant in HG-fluid-ADY than HG-fluid-control (22.8 vs. 30.8%, SE = 0.1%).
+
+ADY Modes of Action
+Saccharomyces cerevisiae is a type of yeast that can use both aerobic respiration and fermentation to gener- ate the energy required for growth. The hypothesis that explains the mode of action of ADY within the rumen are mainly focused on creating optimal anaerobic con- ditions for fiber digestion. Active dry yeast is assumed to survive, aerobically, within the rumen by utilizing traces of dissolved oxygen, which otherwise are toxic to rumen bacteria, thereby improving bacterial growth within the rumen [see review by Chaucheyras-Durand et al. (2008)].
+In our previous report (AlZahal et al., 2014), we per-
+formed PCR on genomic DNA from digesta samples during the HG phase only. Our results showed a differ- ential increase in S. cerevisiae and a corresponding in- crease in several anaerobic microbes such as fungi, Ru- minococcus albus, and F. succinogenes that are involved in fiber degradation. Additionally, our PCR showed an increase in Streptococcus bovis (a lactate producer),
+
+which was mirrored by an increase in Anaerovibrio lipolytica, a lactate-utilizer that produces propionate (Hungate, 1966). It is important to note that lactate is not the cause for pH depression during SARA in lactating cows, but the reduction is rather driven by the buildup of VFA (Plaizier et al., 2008); hence, the mention of lactate in this study is in reference to its role as a nutritional intermediate in microbial metabolism. Therefore, the improvement in ruminal pH presented in the previous report was likely a result or a marker of an overall improvement in rumen function. The latter was measured by the increase in anaerobic fermenter microbes, VFA concentration, and animal performance. The current study (which used samples from the previous report) has provided a complete picture on the effect of ADY on the bacterial population. It is important to note that a direct comparison between our previous PCR and 16S rRNA gene results may not be possible as our PCR did not provide information about the richness and relative abundance, whereas our 16S rRNA gene did. For example, our 16S rRNA gene results showed that the abundance of Anaerovi- brio, Selenomonas, and Streptococcus was below 1% and therefore these genera were not included in the analysis. The current study, however, provided evidence that specific F. succinogenes OTU were abundant in the rumen and increased on solids with the supplemen- tation of ADY as an evidence of improved anaerobic
+fermentation, which supports our previous report.
+Additionally, it has been shown that F. succinogenes species can degrade fiber faster and more effectively than Ruminococcus flavefaciens and Ruminococcus albus, which gives this bacterium an advantage in establishing a niche within the rumen over other fi- ber degraders (Kobayashi et al., 2008). Therefore, it  is suggested that the supplementation of ADY and thus improving the anaerobic conditions of the rumen facilitated the establishment of some dominant F. suc- cinogenes OTU within the rumen.
+Our RNA-based  results  demonstrated  an  increase  in cellulase endo-b-1,4-glucanase and a tendency in hemicellulase a-glucuronidase activities with ADY supplementation. Given the setup of our analysis pipe- line, it is not possible to attribute the increase in these enzymes to a specific microbe. Such an increase in the cellulase can be attributed to prokaryote or a eukaryote organisms. Further, it is important to note that our analysis scanned the rumen microbiome genes against a small number of known and well-documented enzymes as representatives of fibrolytic activities. Future studies should focus on the use of broader number and types   of enzymes. Nonetheless, this increase in enzymatic activity agrees with the observed improvement in ru-
+
+FACTORS INFLUENCING RUMEN MICROBIOME	4391
+
+men function (AlZahal et al., 2014) as denoted by the increase in rumen pH, VFA concentration, and produc- tivity.
+Our previous report showed an increase in propionate with ADY. This increase can be attributed to lactate utilizers such as Anaerovibrio lipolytica, unidentified species (Negativicutes or Lachnospiraceae) via the acrylate pathway (Reichardt et al., 2014), or due to succinate producers such as F. succinogenes via the suc- cinate pathway (Reichardt et  al.,  2014).  The  increase in propionate has a significant implication for cows' health especially during the transition period as  it  serves as a precursor for gluconeogenesis in the liver. Additionally, propionate synthesis may serve as an alternative hydrogen sink within the rumen and thus reduces methanognesis (Ungerfeld, 2015). Our ongoing analyses are focused on understanding different propio- nate pathways within the rumen in relation to ADY.
+Future studies should examine the involvement of other microbes in fiber degradation, namely fungi and protozoa, in addition to bacteria within the same study. More rumen-based studies are needed to facilitate com- bining both the metagenomic and metatranscriptomic approaches to study rumen microbe function.
+
+CONCLUSIONS
+In a previous report, we demonstrated that ADY improved ruminal conditions and cow performance. The current study investigated the effect of ADY on bacterial ruminal population across 2 diets (HF and HG) and 3 locations within the rumen (epimural, fluid, and solid fractions). Diet and sampling location had a major influence on the diversity and the abundance of major bacterial taxonomic groups. However, ADY did not influence bacterial diversity, but rather manipu- lated the dominance of major OTU related to F. succi- nogenes and Prevotella. Our metatranscriptomic results demonstrated an increase with ADY supplementation in the expression of an endo-cellulase enzyme during HG feeding.
+
+ACKNOWLEDGMENTS
+The authors thank Jeffrey Gross (Advanced Analysis Centre, University of Guelph) for his technical assis- tance and AB Vista (Marlborough, UK) and Natural Science & Engineering Research Council of Canada (Ottawa, ON, Canada) for their financial support.
+
+REFERENCES
+Abubucker, S., N. Segata, J. Goll, A. M. Schubert, J. Izard, B. L. Can- tarel, B. Rodriguez-Mueller, J. Zucker, M. Thiagarajan, B. Henris-
+
+
+sat, O. White, S. T. Kelley, B. Methe, P. D. Schloss, D. Gevers, M. Mitreva, and C. Huttenhower. 2012. Metabolic reconstruction for metagenomic data and its application to the human microbiome. PLOS Comput. Biol. 8:e1002358.
+AlZahal, O., L. Dionissopoulos, A. H. Laarman, N. Walker, and B. W. McBride. 2014. Active dry Saccharomyces cerevisiae can alleviate the effect of subacute ruminal acidosis in lactating dairy cows. J. Dairy Sci. 97:7751-7763.
+AlZahal, O., S. L. Ishaq, B. St-Pierre, A.-D. G. Wright, and B. W. McBride. 2015. Investigating the impact of dietary changes on rumen microbial community during the transition period in Hol- stein dairy cows using high-throughput sequencing. J. Dairy Sci. 98(Suppl. 2):735.
+AlZahal, O., E. V. Valdes, and B. W. McBride. 2016. Analysis of the distal gut bacterial community by 454-pyrosequencing in captive giraffes (Giraffa camelopardalis). Zoo Biol. 35:42-50.
+Bath, C., M. Morrison, E. M. Ross, B. J. Hayes, and B. G. Cocks.  2013. The symbiotic rumen microbiome and cattle performance: A brief review. Anim. Prod. Sci. 53:876-881.
+Benjamini, Y., and Y. Hochberg. 1995. Controlling the false discovery rate: A practical and powerful approach to multiple testing. J. R. Stat. Soc. B 57:289-300.
+Biddle, A., L. Stewart, J. Blanchard, and S. Leschine. 2013. Under- stangling the genetic basis of fibrolytic specialization by Lachno- spiraceae and Ruminococcaceae in diverse gut communities. Diver- sity (Basel) 5:627-640.
+Blankenberg, D., G. Von Kuster, N. Coraor,  G.  Ananda,  R.  Laza- rus, M. Mangan, A. Nekrutenko, and J. Taylor. 2010. Galaxy: A web-based genome analysis tool for experimentalists. Curr. Protoc. Mol. Biol. 89:19.10.11-19.10.21.
+Bokulich, N. A., S. Subramanian, J. J. Faith, D. Gevers, J. I. Gordon,
+R. Knight, D. A. Mills, and J. G. Caporaso. 2013. Quality-filtering vastly improves diversity estimates from Illumina amplicon se- quencing. Nat. Methods 10:57-59.
+Bolger, A. M., M. Lohse, and B. Usadel. 2014. Trimmomatic: A flexible trimmer for Illumina sequence data. Bioinformatics 30:2114-2120. Brulc, J. M., D. A. Antonopoulos, M. E. B. Miller, M. K. Wilson, A.
+C. Yannarell, E. A. Dinsdale, R. E. Edwards, E. D. Frank, J. B. Emerson, P. Wacklin, P. M. Coutinho, B. Henrissat, K. E. Nelson, and B. A. White. 2009. Gene-centric metagenomics of the fiber-ad- herent bovine rumen microbiome reveals forage specific glycoside hydrolases. Proc. Natl. Acad. Sci. USA 106:1948-1953.
+Buchfink, B., C. Xie, and D. H. Huson. 2015. Fast and sensitive pro- tein alignment using DIAMOND. Nat. Methods 12:59-60.
+Chao, A., and T. J. Shen. 2003. Nonparametric estimation of Shan- non's index of diversity when there are unseen species in sample. Environ. Ecol. Stat. 10:429-443.
+Chaucheyras-Durand, F., N. D. Walker, and A. Bach. 2008. Effects of active dry yeasts on the rumen microbial ecosystem: Past, present and future. Anim. Feed Sci. Technol. 145:5-26.
+Clarke, K. R., and R. N. Gorley. 2006. PRIMER v6: User Manual/ Tutorial. PRIMER-E Ltd., Plymouth, UK.
+Creevey, C. J., W. J. Kelly, G. Henderson, and S. C. Leahy. 2014. Determining the culturability of the rumen bacterial microbiome. Microb. Biotechnol. 7:467-479.
+DeSantis, T. Z., P. Hugenholtz, N.  Larsen,  M.  Rojas,  E.  L.  Bro-  die, K. Keller, T. Huber, D. Dalevi, P. Hu, and G. L. Andersen. 2006. Greengenes, a chimera-checked 16S rRNA gene database and workbench compatible with ARB. Appl. Environ. Microbiol. 72:5069-5072.
+Di Rienzi, S. C., I. Sharon, K. C. Wrighton, O. Koren, L. A. Hug, B.
+C. Thomas, J. K. Goodrich, J. T. Bell, T. D. Spector, J. F. Ban- field, and R. E. Ley. 2013. The human gut and groundwater harbor non-photosynthetic bacteria belonging to a new candidate phylum sibling to Cyanobacteria. eLife 2:e01102.
+Edgar, R. C., B. J. Haas, J. C. Clemente, C. Quince, and R. Knight. 2011. UCHIME improves sensitivity and speed of chimera detec- tion. Bioinformatics 27:2194-2200.
+Ettwig, K. F., M. K. Butler, D. Le Paslier, E. Pelletier, S. Mangenot,
+M. M. Kuypers, F. Schreiber, B. E. Dutilh, J. Zedelius, D. de Beer,
+Gloerich, H. J. Wessels, T. van Alen, F. Luesken, M. L. Wu,
+
+4392	ALZAHAL ET AL.
+
+T. van de Pas-Schoonen, H. J. Op den Camp, E. M. Janssen- Megens, K. J. Francoijs, H. Stunnenberg, J. Weissenbach, M. S. Jetten, and M. Strous. 2010. Nitrite-driven anaerobic methane oxi- dation by oxygenic bacteria. Nature 464:543-548.
+Fernando, S. C., H. T. Purvis, F. Z. Najar, L. O. Sukharnikov, C. R. Krehbiel, T. G. Nagaraja, B. A. Roe, and U. DeSilva. 2010. Ru- men microbial population dynamics during adaptation to a high- grain diet. Appl. Environ. Microbiol. 76:7482-7490.
+Franzosa, E. A., X. C. Morgan, N. Segata, L. Waldron, J. Reyes, A. M. Earl, G. Giannoukos, M. R. Boylan, D. Ciulla, D. Gevers, J. Izard,
+W. S. Garrett, A. T. Chan, and C. Huttenhower. 2014. Relating the metatranscriptome and metagenome of the human gut. Proc. Natl. Acad. Sci. USA 111:E2329-E2338.
+Frey, J. C., A. N. Pell, R. Berthiaume, H. Lapierre, S. Lee, J. K. Ha,
+J. E. Mendell, and E. R. Angert. 2010. Comparative studies of microbial populations in the rumen, duodenum, ileum and faeces  of lactating dairy cows. J. Appl. Microbiol. 108:1982-1993.
+Ghotra, S. K. 2014. Novel bacterial lineages in the uncultured candi- date division SR1. MS Thesis. San Jose State University.
+Gifford, S. M., S. Sharma, J. M. Rinta-Kanto, and M. A. Moran. 2011. Quantitative analysis of a deeply sequenced marine micro- bial metatranscriptome. ISME J. 5:461-472.
+Good, I. J. 1953. The population frequencies of the species and the estimation of population parameters. Biometrika 40:237-264.
+Helbling, D. E., M. Ackermann, K. Fenner, H. P. Kohler, and D.
+R. Johnson. 2012. The activity level of a microbial community function can be predicted from its metatranscriptome. ISME J. 6:902-904.
+Henderson, G., F. Cox, S. Ganesh, A. Jonker, W. Young, Global Ru- men Census Collaborators, and P. H. Janssen. 2015. Rumen mi- crobial community composition varies with diet and host, but a core microbiome is found across a wide geographical range. Sci. Rep. 5:14567.
+Hill, M. O. 1973. Diversity and evenness-Unifying notation and its consequences. Ecology 54:427-432.
+Hungate, R. E. 1966. The Rumen and Its Microbes. Academic Press, New York, NY.
+Jami, E., B. A. White, and I. Mizrahi. 2014. Potential role of the bo- vine rumen microbiome in modulating milk composition and feed efficiency. PLoS One 9:e85423.
+Kanehisa, M., S. Goto, Y. Sato, M. Furumichi, and M. Tanabe. 2012. KEGG for integration and interpretation of large-scale molecular data sets. Nucleic Acids Res. 40:D109-D114.
+Kim, D., G. Pertea, C. Trapnell, H. Pimentel, R. Kelley, and S. L. Salzberg. 2013. TopHat2: Accurate alignment of transcriptomes   in the presence of insertions, deletions and gene fusions. Genome Biol. 14:R36.
+Kobayashi, Y., T. Shinkai, and S. Koike. 2008. Ecological and physi- ological characterization shows that Fibrobacter succinogenes is im- portant in rumen fiber digestion-Review. Folia Microbiol. (Praha) 53:195-200.
+Kong, Y., R. Teather, and R. Forster. 2010. Composition, spatial dis- tribution, and diversity of the bacterial communities in the rumen of cows fed different forages. FEMS Microbiol. Ecol. 74:612-622.
+Kopylova, E., L. Noe, and H. Touzet. 2012. SortMeRNA: Fast and accurate filtering of ribosomal RNAs in metatranscriptomic data. Bioinformatics 28:3211-3217.
+Kozich, J. J., S. L. Westcott, N. T. Baxter, S. K. Highlander, and P.
+D. Schloss. 2013. Development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the MiSeq Illumina sequencing platform. Appl. Environ. Microbiol. 79:5112-5120.
+Kruskal, W. H., and W. A. Wallis. 1952. Use of ranks in one-criterion variance analysis. J. Am. Stat. Assoc. 47:583-621.
+Kunin, V., A. Engelbrektson, H. Ochman, and P. Hugenholtz. 2010. Wrinkles in the rare biosphere: Pyrosequencing errors can lead     to artificial inflation of diversity estimates. Environ. Microbiol. 12:118-123.
+Lane, D. J. 1991. 16S/23S rRNA sequencing. Pages 115-175 in Nucleic Acid Techniques in Bacterial Systematics. E. Stackebrandt and M. Goodfellow, ed. John Wiley & Sons Ltd., London, UK.
+
+Langmead, B., and S. L. Salzberg. 2012. Fast gapped-read alignment with Bowtie 2. Nat. Methods 9:357-359.
+Li, H., B. Handsaker, A. Wysoker, T. Fennell, J. Ruan, N. Homer, G. Marth, G. Abecasis, R. Durbin, and Genome Project Data Pro- cessing Subgroup. 2009. The sequence alignment/map format and SAMtools. Bioinformatics 25:2078-2079.
+Li, M., M. Zhou, E. Adamowicz, J. A. Basarab, and L. L. Guan. 2012. Characterization of bovine ruminal epithelial bacterial com- munities using 16S rRNA sequencing, PCR-DGGE, and qRT-PCR analysis. Vet. Microbiol. 155:72-80.
+Mackie, R. I., C. S. McSweeney, and R. I. Aminov. 2001. Rumen. In eLS. John Wiley & Sons, Ltd., Hoboken, NJ.
+Magoc, T., and S. L. Salzberg. 2011. FLASH: Fast  length  adjust- ment of short reads to improve genome assemblies. Bioinformatics 27:2957-2963.
+McAllister, T. A., H. D. Bae, G. A. Jones, and K. J. Cheng. 1994. Microbial attachment and Feed digestion in the rumen. J. Anim. Sci. 72:3004-3018.
+McCarren, J., J. W. Becker, D. J. Repeta, Y. M. Shi, C. R. Young,
+R. R. Malmstrom, S. W. Chisholm, and E. F. DeLong. 2010. Mi- crobial community transcriptomes reveal microbes and metabolic pathways associated with dissolved organic matter turnover in the sea. Proc. Natl. Acad. Sci. USA 107:16420-16427.
+McSweeney, C., and R. Mackie. 2012. Micro-organisims and ruminant digestion: State of knowledge, trends, and future prospects. The  7th Session of the Intergovernmental Technical  Working Group  on Animal Genetic Resources for Food and Agriculture. Food and Agriculture Organization of the United Nation, Rome, Italy, 24-26 October 2012.
+Naas, A. E., A. K. Mackenzie, J. Mravec, J. Schuckel, W. G. T. Wil- lats, V. G. H. Eijsink, and P. B. Pope. 2014. Do rumen Bacte- roidetes utilize an alternative mechanism for cellulose degradation? MBio 5:e01401.
+Needleman, S. B., and C. D. Wunsch. 1970. A general method appli- cable to the search for similarities in the amino acid sequence of two proteins. J. Mol. Biol. 48:443-453.
+Nyonyo, T., T. Shinkai, A. Tajima, and M. Mitsumori. 2013. Effect of media composition, including gelling agents, on isolation of previ- ously uncultured rumen bacteria. Lett. Appl. Microbiol. 56:63-70. Ovreas, L., L. Forney, F. L. Daae, and V. Torsvik. 1997. Distribution of bacterioplankton in meromictic Lake Saelenvannet, as deter- mined by denaturing gradient gel electrophoresis of PCR-amplified gene fragments coding for 16S rRNA. Appl. Environ. Microbiol.
+63:3367-3373.
+Petri, R. M., T. Schwaiger, G. B. Penner, K. A. Beauchemin, R. J. Forster, J. J. McKinnon, and T. A. McAllister. 2013a. Changes in the rumen epimural bacterial diversity of beef cattle as affected    by diet and induced ruminal acidosis. Appl. Environ. Microbiol. 79:3744-3755.
+Petri, R. M., T. Schwaiger, G. B. Penner, K. A. Beauchemin, R. J. Forster, J. J. McKinnon, and T. A. McAllister. 2013b. Character- ization of the core rumen microbiome in cattle during transition from forage to concentrate as well as during and after an acidotic challenge. PLoS One 8:e83424.
+Pitta, D. W., N. Indugu, S. Kumar, B. Vecchiarelli, R. Sinha, L. D. Baker, B. Bhukya, and J. D. Ferguson. 2016. Metagenomic as- sessment of the functional potential of the rumen microbiome in Holstein dairy cows. Anaerobe 38:50-60.
+Plaizier, J. C., D. O. Krause, G. N. Gozho, and B. W. McBride. 2008. Subacute ruminal acidosis in dairy cows: The physiological causes, incidence and consequences. Vet. J. 176:21-31.
+Poroyko, V., J. R. White, M. Wang, S. Donovan, J. Alverdy,  D. C.  Liu, and M. J. Morowitz. 2010. Gut microbial gene expression in mother-fed and formula-fed piglets. PLoS One 5:e12459.
+Qi, M., P. Wang, N. O'Toole, P. S. Barboza, E. Ungerfeld, M. B.  Leigh, L. B. Selinger, G. Butler, A. Tsang, T. A. McAllister, and
+R. J. Forster. 2011. Snapshot of the eukaryotic gene expression in muskoxen rumen: A metatranscriptomic approach. PLoS One 6:e20521.
+Quast, C., E. Pruesse, P. Yilmaz, J. Gerken, T. Schweer, P. Yarza,
+J. Peplies, and F. O. Glockner. 2013. The SILVA ribosomal RNA
+
+FACTORS INFLUENCING RUMEN MICROBIOME	4393
+
+
+gene database project: Improved data processing and web-based  tools. Nucleic Acids Res. 41:D590-D596.
+Reichardt, N., S. H. Duncan, P. Young, A. Belenguer, C. M. Leitch, K.
+P. Scott, H. J. Flint, and P. Louis. 2014. Phylogenetic distribution of three pathways for propionate production within the human gut microbiota. ISME J. 8:1323-1335.
+Schloss, P. D., S. L. Westcott, T. Ryabin, J. R. Hall, M. Hartmann,
+E. B. Hollister, R. A. Lesniewski, B. B. Oakley, D. H. Parks, C.
+J. Robinson, J. W. Sahl, B. Stres, G. G. Thallinger, D. J. Van Horn, and C. F. Weber. 2009. Introducing mothur: Open-source, platform-independent, community-supported software for describ- ing and comparing microbial communities. Appl. Environ. Micro- biol. 75:7537-7541.
+Segata, N., J. Izard, L. Waldron, D. Gevers, L. Miropolsky, W. S. Gar- rett, and C. Huttenhower. 2011. Metagenomic biomarker discovery and explanation. Genome Biol. 12:R60.
+Shannon, C. E., and W. Weaver. 1949. The Mathematical Theory of Communication. University of Illinois Press, Urbana.
+Simpson, E. H. 1949. Measurement of diversity. Nature 163:688.
+Soo, R. M., C. T. Skennerton, Y. Sekiguchi, M. Imelfort, S. J. Paech,
+P. G. Dennis, J. A. Steen, D. H. Parks, G. W. Tyson, and P. Hu-
+
+
+genholtz. 2014. An expanded genomic representation of the phy- lum cyanobacteria. Genome Biol. Evol. 6:1031-1045.
+Strobel, H. J. 1992. Vitamin-B12-dependent  propionate  production  by the ruminal bacterium prevotella-ruminicola-23. Appl. Environ. Microbiol. 58:2331-2333.
+Tajima, K., R. I. Aminov, T. Nagamine, H. Matsui, M. Nakamura, and
+Y. Benno. 2001. Diet-dependent shifts in the bacterial population of the rumen revealed with real-time PCR. Appl. Environ. Micro- biol. 67:2766-2774.
+Ungerfeld, E. M. 2015. Shifts in metabolic hydrogen sinks in the meth- anogenesis-inhibited ruminal fermentation: a meta-analysis. Front. Microbiol. 6:37.
+Wallace, R. J., K. J. Cheng, D. Dinsdale, and E. R. Orskov. 1979. An independent microbial flora of the epithelium and its role in the ecomicrobiology of the rumen. Nature 279:424-426.
+Zeng, B., S. Han, P. Wang, B. Wen, W. Jian, W. Guo, Z. Yu, D. Du,
+X. Fu, F. Kong, M. Yang, X. Si, J. Zhao, and Y. Li. 2015. The bacterial communities associated with fecal types and body weight of rex rabbits. Sci. Rep. 5:9342.

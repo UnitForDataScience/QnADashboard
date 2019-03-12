@@ -1,0 +1,318 @@
+
+
+
+
+Evidence of Campylobacter jejuni reduction in broilers with early synbiotic administration
+Loredana Baffoni, Francesca Gaggia, Giuliano Garofolo, Gabriella Di Serafino,
+Enrico Buglione,, Elisabetta Di Giannatale, Diana Di Gioia,
+a Department of Agricultural Sciences, University of Bologna, viale Fanin 44, 40127 Bologna, Italy
+b Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise 'G. Caporale', National Reference Laboratory for Campylobacter, Via Campo Boario, 64100 Teramo, Italy
+c Laboratory of Neuroscience "R. Levi-Montalcini", Department of Biotechnology and Bioscience, University of Milano-Bicocca, Milano, Italy
+
+
+
+A R T I C L E I N F O  
+
+Keywords:
+Bifidobacterium longum PCB133 Xylooligosaccharides
+Infection
+Chicken microbiota Food safety
+DGGE
+
+
+A B S T R A C T  
+
+C. jejuni is considered a food safety concern to both public health authorities and consumers since  it is the leading bacterial cause of food-borne gastroenteritis in humans. A high incidence of C. jejuni in broiler flocks is often correlated to pathogen recovery in retail poultry meat, which is the main source of human infection. In this work broiler chickens were fed with a synbiotic product mixed with conventional feed using two different administration strategies. The synbiotic was formulated with the microencapsulated probiotic Bifidobacterium longum PCB133 and a xylo-oligosaccharide (XOS). 1-day old chicks were infected with C. jejuni strain M1 (105 cells) and the synbiotic mixture was then administered starting from the first and the 14th day of chicken life (for animal groups GrpC and GrpB respectively). The goal of this study was to monitor C. jejuni load at caecum level at different sampling time by real-time PCR, identifying the best administration strategy. The microbiological analysis of the caecal content also considered the quantification of Campylobacter spp., Bifidobacterium spp. and
+longum.
+The supplemented synbiotic was more successful in reducing C. jejuni and Campylobacter spp. when administered lifelong, compared to the shorter supplementation (GrpB). Bifidobacterium spp. quantification did not show significant differences among treatments and B. longum PCB133 was detected in both supplemented groups evidencing the successful colonization of the strain. Moreover, the samples of the control group (GrpA) and GrpC were analysed with PCR-denaturing gradient gel electrophoresis (PCR-DGGE) to compare the caecal microbial community profiles at the beginning and at the end of the trial. Pattern analysis evidenced the strong influence of the early synbiotic supplementation, although a physiological change in the microbial community, occurring during growth, could be observed. Experimental results demonstrate that the synbiotic approach at farm level can be an effective strategy, combined with biosecurity measures, to improve the safety of poultry meat.
+
+
+
+
+Introduction
+
+Monitoring of Campylobacter jejuni in broilers from hatching to slaughter is of fundamental importance to preserve consumer health, since transmission to humans could lead to severe consequences. Human campylobacteriosis is the most frequent zoonosis in the European Union with 236,851 confirmed cases in the year 2014 and broiler meat is the most common food vehicle associated with this disease (). In addition to gastrointestinal disorders, 1% of cases may develop peripheral neuropathies, including Guillain-Barre syndrome, reactive arthritis and functional bowel diseases such as irritable bowel syndrome ().
+
+Despite biosecurity measures, broiler houses show a high presence of C. jejuni in the chicken gut; in 2014, Campylobacter was found in 30.7% of the 13,603 units tested within the EU member states with percentages ranging from 70% to 92% in Greece, Portugal and United Kingdom (). C. jejuni is considered a gut commensal in chickens; however,  have recently shown that some chicken breeds used in intensive production systems have a strong inflammatory response to C. jejuni infection leading to disease. The high incidence and the need to prevent zoonosis require a common effort to remove and reduce the pathogen load at farm level in order to lower the risk of transmission along the poultry meat chain. In addition to good hygienic practices during slaughtering and decontamination treatments
+
+
+* Corresponding author.
+E-mail address: (D. Di Gioia).
+
+
+Received 10 October 2016; Received in revised form 22 February 2017; Accepted 1 April 2017
+Available online 03 April 2017
+0168-1605/ (c) 2017 Elsevier B.V. All rights reserved.
+
+
+Table 1
+Diet composition of reared chickens.
+
+Days	Type of feed	Appearance Composition
+
+1-10	Starter feed	Chopped	Corn, genetically modified soy flour of extraction decorticated and toasted, wheat, seed toasted soybeans genetically modified,  maize gluten genetically modified, animal fats, sunflower meal of extraction, peas, hydrolysed pork protein, dicalcium phosphate, calcium carbonate, sodium chloride, sodium bicarbonate, nutritional additives, vitamins, provitamins, trace elements, digestibility enhancers, coccidiostats
+11-20      Grower feed (type 1)     Pelleted	Corn, genetically modified soy flour of extraction decorticated and toasted, wheat, seed toasted soybeans genetically modified,  maize gluten genetically modified, decorticated sunflower flour extraction, animal fats, peas, hydrolysed pork protein, dicalcium phosphate, calcium carbonate, sodium chloride, sodium bicarbonate, nutritional additives, vitamins, provitamins, trace elements, nutritional additives, amino acids and their salts, digestibility enhancers, coccidiostats
+21-30      Grower feed (type 2)     Pelleted	Wheat, corn, genetically modified soy flour of extraction decorticated and toasted, seed toasted soybeans genetically modified,  wheat in grains, animal fats, decorticated sunflower flour extraction, peas, dicalcium phosphate, calcium  carbonate,  sodium chloride, sodium bicarbonate, nutritional additives, vitamins, provitamins, trace elements, nutritional additives, amino acids and  their salts, digestibility enhancers, coccidiostats
+31-39    Finisher feed	Pelleted	Wheat, seed toasted soybeans genetically modified, genetically modified soy flour of extraction decorticated and toasted, maize, wheat in grains, animal fats, decorticated sunflower flour extraction, peas, dicalcium phosphate, calcium carbonate, sodium chloride, sodium bicarbonate, nutritional additives, vitamins, provitamins, trace elements, nutritional additives, amino acids and their salts, digestibility enhancers
+
+
+of carcasses or meat products, feeding probiotic/synbiotic supplements to broilers could contribute to food safety from the initial step of the "farm to fork" food chain (). Probiotic microorgan- isms (e.g. Lactobacillus and Bifidobacterium strains), both alone or combined with prebiotic ingredients in a synbiotic mixture, can beneficially affect the host, maintaining a healthy gut microbiota in animals and reducing the risk of pathogen infection ( ). The combination with prebiotics is considered an effective strategy, taking into account that such ingredients are selectively fermented in the colonic environment by probiotics, thus stimulating their growth (). This is an important feature in high intensive flocks where dietary changes during chicken lifespan and therapeutic antibiotics may strongly alter the composition of these microbial groups, increasing the susceptibility to gastrointest- inal infection and the shedding of food-borne pathogens ( ). In the last decades, the use of synbiotic supplements in poultry flocks has been largely investigated; however, their efficacy is not fully established because of the variability of the experimental settings. Lactobacilli and bifidobacteria are the most used probiotic strains in animal feeding, combined with galacto-oligosac- charides (GOS), fructo-oligosaccharadies (FOS) or xilo-oligosaccharides (XOS). Studies usually reported the improving of growth parameters (weight, feed intake etc.), the modulation of the gut microbiota with the increase of beneficial microbial groups and the reduction of the load of pathogens such as C. jejuni and Salmonella enterica ( ).
+This work aimed at evaluating the impact of a synbiotic formula in
+broilers challenged with C. jejuni strain M1, a virulent strain capable of direct transmission from poultry source to humans (). The formula, composed by the microencapsulated B. longum subsp. longum PCB133 and a xylo-oligosaccharide (XOS), was administered to chicks from the first and the 14th day of chicken life, and its efficacy was evaluated by monitoring Campylobacter spp., Bifidobacterium spp. and C. jejuni in the caecal content by real-time PCR (qPCR). The analysis of Campylobacter spp. was also supported by conventional microbiology. Moreover, PCR-denaturing gradient gel electrophoresis (PCR-DGGE) was performed to evaluate the caecal microbial commu- nity.
+
+Materials and methods
+
+Synbiotic composition
+
+The synbiotic supplement consisted of the probiotic strain B. longum subsp. longum PCB133 () and the prebiotic xylooli- gosaccharide. The bacterial strain, microencapsulated in a lipid matrix
+
+according to ff, was purchased from Probiotical
+S.p.A. (Milan, Italy) at a concentration of 109 cfu/g and was added to feed at 1% (w/w). The prebiotic oligosaccharide was a 35% xylooligo- saccharide (XOS35P) purchased from Italfeed s.r.l. (Milan, Italy) and added to feed at 0.2% (w/w).
+
+
+Infection, animal management and sampling
+
+C. jejuni strain M1 was used to infect animals and was provided by the University of Liverpool (). One hundred and twenty1-day old chicks, obtained directly from hatchery and tested culture negative for Campylobacter spp. in Karmali Agar plates (see paragraph 2.3), were divided into three groups. All groups were immediately infected by oral gavages with a 0.1 ml solution containing a challenge dose of C. jejuni M1 (106 cfu/ml). The three groups of forty animals were named and managed as follows: 1) GrpA - chickens fed ad libitum with conventional feed; 2) GrpB - chickens fed ad libitum with conventional feed supplemented with the synbiotic product from the 14th day of life; 3) GrpC - chickens fed ad libitum with conventional feed supplemented with the synbiotic product starting from the first day of life. The conventional feed is described in . Birds were reared under hygienic management practices throughout the entire period of the study. During the experiment, breeding conditions in terms of equipment, temperature and hours of daylight were conventionally set. Five days after challenge, 4 animals per each group were slaugh- tered and tested culture positive for Campylobacter spp. confirming the colonization. Nine/ten broilers belonging to each group were slaugh- tered at 10, 20, 30, 39 days of life (sampling times ST1, ST2, ST3 and ST4, respectively) and caecal content collected for the microbiological analysis and DNA extraction. Experiments were conducted according to animal welfare and protection (directive no. 86/609/EEC and Italian
+Law Act, Decreto Legislativo no. 116, issued on 27 January 1992).
+
+
+Campylobacter spp. enumeration from caeca with plate count analysis
+
+Campylobacter spp. enumeration was carried out from 1 g of caecal content diluted with 9 ml of buffered peptone water, then ten-fold serial dilutions were set up and 0.1 ml of each dilution was plated on Karmali Agar (Oxoid, Milan, Italy) and incubated in microaerophilic conditions at 42 degC for 48 h. Following incubation, the number of colony forming units per gram (cfu/g) of.
+caecal content was recorded and means and standard deviations were calculated. Five suspected colonies for each plate were confirmed to be Campylobacter spp. by means of morphology, motility, oxidase and PCR tests according to .
+
+
+Table 2
+Real-time PCR and plate count results for the investigated species and genera. GrpA: control group; GrpB group supplemented with the synbiotic product starting from the 14th day-of- life; GrpC: group lifelong supplemented with the synbiotic product.
+
+Campylobacter spp.	C. jejuni	Bifidobacterium spp.	B. longum
+
+Real-time	Plate count	Real-time	Real-time	Real-time GrpA	ST1	8.5 +- 0.9ab	7.6 +- 0.5abc	7.8 +- 1.3ab	6.7 +- 0.8abc	n.d.
+ST2	7.9 +- 0.6abc	8.4 +- 0.6a	7.5  +- 0.9 abcd	6.7 +- 0.6abcd	n.d.
+ST3	8.2 +- 0.9abc	7.2 +- 2.2abc	8.0 +- 1.4ab	6.5 +- 0.5abcde	n.d. ST4	8.1 +- 0.5abc	5.7 +- 2.0bcde	7.6 +- 0.9abc	6.9 +- 0.4a	n.d.
+GrpB	ST1	7.7 +- 1.1abc	8.0 +- 0.5ab	7.1 +- 1.8abc	5.9 +- 0.9cde	n.d.
+ST2	7.8 +- 0.7abc	8.1 +- 0.9ae	7.3 +- 1.0abc	5.9 +- 0.4de	4.7 +- 0.8b
+ST3	8.7 +- 1.2a	7.3 +- 0.3ad	8.3 +- 1.4ad	6.1 +- 0.3cde	5.4  +- 0.6ab
+ST4	7.5 +- 0.9abc	4.2 +- 2.7cd	6.2 +- 1.9bc	5.8 +- 0.2e	4.8  +- 0.4b               GrpC		 ST1	6.9 +- 0.3cd	8.1 +- 0.5a	5.5 +- 0.9c	6.5 +- 0.2abcd	6.6 +- 0.3a ST2	7.7 +-  0.4abc		7.9 +- 0.5ab		7.6 +- 0.4bcd		6.6 +- 0.5abcd		6.3 +- 0.9a
+ST3	7.4 +- 1.0bc	6.6 +- 2.2abcd	6.6 +- 1.9bcd	6.2 +- 0.2bcde	5.4 +- 1.0ab
+ST4	6.2 +- 0.6d	3.3 +- 2.2d	5.8 +- 1.0c	6.7 +- 0.5ab	5.1 +- 1.0b
+
+Different letters mean statistical significance p < 0.05; n.d. not detected.
+
+
+DNA extraction
+
+Genomic DNA was extracted from caecal digesta by using the QIAamp DNA Stool Mini Kit (Qiagen, West Sussex, UK), according to the manufacturer instructions. The recommended lysis temperature was increased to 95 degC. Quantification of extracted DNA was performed spectrophotometrically (Infinite(r) 200 PRO NanoQuant, Tecan, Mannedorf, Switzerland). The DNA was stored at -20 degC until use.
+
+Real-time PCR
+
+Quantification of target microorganisms (Campylobacter spp., C. jejuni, Bifidobacterium spp., B. longum) was carried out on DNA extracted from caecal content of ten animals belonging to GrpA, GrpB and GrpC at sampling times ST1, ST2, ST3 and ST4. Analysis was performed according to ff using a StepOne(tm) Real-Time PCR system (Applied Biosystems, Foster City, CA, USA). Data were trans- formed to obtain the number of bacterial cells/g caecal content according to the rRNA gene copy number available at The Ribosomal RNA Database (rrDB, ).
+
+PCR-denaturing gradient gel electrophoresis (PCR-DGGE)
+
+Bacterial DNA was amplified by PCR with the primer pair HDA1-GC (5'-CGC CCG GGG CGC GCC CCG GGC GGG GCG GGG GCA CGG GGG GAC TCC TAC GGG AGG CAG CAG T-3') and HDA2 (5'-GTA TTA CCG
+CGG CTG CTG GCA-3') (). DGGE analysis on obtained amplicons was performed as described by  , using a DCode System apparatus (Bio-Rad). Polyacrylamide gels [7% (w/v) acrylamide:bisacrylamide (37.5:1) (Bio-Rad)] in 1x Tris-Acetate-EDTA (TAE) buffer were prepared using a Bio-Rad Gradient Delivery System (Model 475, Bio-Rad), with solutions contain- ing 35-60% denaturant [100% denaturant corresponds to 7 M urea (Sigma-Aldrich) and 40% (v/v) formamide (Sigma-Aldrich)]. The electrophoresis was run at 55 V for 16 h at 60 degC.  Gels were stained  in a solution of 1x SYBR-Green (Sigma-Aldrich) in 1x TAE for 20 min and their images captured in UV transillumination with Gel DocTM 226 XR apparatus (Bio-Rad). Patterns were normalized by including a ladder with PCR products obtained from known pure cultures. A cluster analysis was carried out by unweighted pair group method with arithmetic mean (UPGMA) algorithm based on the Pearson correlation coefficient with an optimization coefficient of 1% (Gel Compare soft- ware, version 6.6; Applied Maths, Sint-Martens-Latem, Belgium). Microbial diversity was analyzed with Gel Compare 6.6 for the following parameters: species richness, determined by the index (d) proposed by ; Shannon-Wiener index (H) and band evenness (EH), calculated according to . Relevant
+
+bands migrating at the same distance of the reference microorganisms in the ladder (C. jejuni M1 and B. longum PCB133) were cut from the gel and processed for sequencing (Eurofins genomics, Ebersberg, Germany) according to . Sequence chromatograms were edited and analyzed using the software programs Finch TV version
+1.4.0 (Geospiza Inc., Seattle, WA, USA). Final sequences were aligned with T-Coffee software () and subjected to taxon classification using reference sequences from Greengenes (  ).
+
+Statistical analysis
+
+Statistical analysis was performed with R software using the following packages: lattice, graphics, lawstat, car, agricolae, foreign, dunn.test, ggplot2 (). Normal and homoscedastic data were analyzed with two-way ANOVA and Tukey post-hoc test with Bonferroni correction. Non-normal homoscedastic data were analyzed with nonparametric Kruskall-Wallis test and Dunn's post-hoc test with Bonferroni correction.
+
+Results
+Campylobacter enumeration from caeca with plate count analysis Campylobacter  spp.  enumeration  in  the  different  groups  and  sam-
+pling  times  is  listed  in  .  No  significant  differences  were
+evidenced among treatments with values ranging from 3.3 +-  2.2 to
+8.4 +- 0.6 log cfu/g. However, all groups showed a decrease at ST4 which is significant in GrpB and GrpC (p < 0.05) compared to their respective starting value (ST1).
+
+Real-time PCR quantification
+
+Quantification results of Campylobacter spp., C. jejuni, Bifidobacterium spp. and B. longum by qPCR are shown in and in . Two way ANOVA evidenced a significant interaction of time/ treatment on Campylobacter spp. count. Post-hoc analysis showed that GrpC mean was different (p < 0.01) compared to the other groups  and, in particular, its counts were significantly lower at ST1 and ST4 compared to GrpA (p = 0.014 and p < 0.01, respectively).
+The same trend was observed in C. jejuni data (and b) in which statistical analysis confirmed a significant difference among groups (Kruskal-Wallis test; p < 0.01). Also in this case, the post-hoc test evidenced the GrpC as the group with an average count signifi- cantly lower compared to GrpA and GrpB (p < 0.01). GrpA and GrpB counts were stable over time with a slight but not significant decrease at ST4, while C. jejuni count at ST1 in GrpC showed a significant reduction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Box-plots on Real-Time PCR data for Campylobacter spp. (a), C. jejuni (b), Bifidobacterium spp. (c) and B. longum (d).
+
+
+compared to ST1 in GrpA (p < 0.05).
+Two way ANOVA of Bifidobacterium spp. quantification showed a significant difference (p < 0.01) among groups and pair-wise compar- isons evidenced that bifidobacteria counts were significantly higher in the control group and GrpC compared to GrpB (p < 0.01). No significant intra-group variability among sampling times could be observed. The administered probiotic strain PCB133 was detected in both GrpB and GrpC with values in the range 4.7-6.6 log cfu/g, revealing a significant decrease in GrpC over time.
+
+DGGE analysis
+
+Based on qPCR results, a PCR-DGGE analysis was carried out to compare the microbial community profile of the caecal content of broilers belonging to group GrpA and GrpC at ST1 and ST4, where quantification analysis highlighted the most interesting results. UPGMA dendrogram is reported in . Profiles of the bacterial communities in the treated group (GrpC) and the DNA sequences of excised bands are shown in .
+A clear separation was observed between GrpA and GrpC (similar- ity < 10%). ST1 and ST4 within the treated group GprC fell into two separate clusters (similarity < 28.4%), whereas GrpA profiles at ST1 and ST4 were not completely separated and shared 40.39% similarity. The species richness was significantly (p < 0.05) lower in GrpC compared to GrpA at ST1 (0.5 +- 0.1 and 0.5 +- 0.1, respectively), whereas no significant difference was found at ST4 (0.7 +- 0.1 and
++- 0.1, respectively). In the same way, the Shannon-Wiener diversity index and the evenness in GrpC (1 +- 0.1; 0.8 +- 0.04) was significantly lower compared to GrpA at ST1 (1.2 +- 0.1; 0.8 +- 0.04) (p < 0.05), whereas no significant differences were observed at ST4 (Shannon-Wiener:  1.3 +- 0.1  vs  1.3 +- 0.1;  evenness:  0.9 +- 0.03;
++- 0.02). The excised bands, at the same migration distance of C. jejuni M1 in the ladder (), were sequenced and aligned revealing 100% similarity among them. The longest sequence is reported in  and was identified as E. coli/Shigella group with 100% similarity. The bands migrating at the same distance of B. longum PCB133 were identified as B. longum (97.8% similarity, sequence is reported in
+
+).
+
+Discussion
+
+C. jejuni positive broiler flocks have been frequently correlated with the contamination of carcasses surface during the slaughter process and pathogen recovery in retail poultry meat (). Undoubtedly, this represents an important public health concern due to the risk of pathogen transmission to humans. Therefore, a lower level of
+C. jejuni at farm level may improve poultry meat quality, reducing the impact on consumer's health. The use of probiotics and prebiotics, combined with general biosecurity strategies at farm level and hygienic measures at slaughtering, may represent an important tool to control C. jejuni load (). In this work, the probiotic strain B. longum PCB133 was employed taking into considera- tion the encouraging results achieved in previous studies (ff), which showed a significant reduction of C. jejuni in faeces of naturally infected chickens following a 15-day supplementation. The in vivo trial here described is therefore a follow-up of the previous ones, involving a higher number of animals, a challenge with C. jejuni and two different administration times (lifelong and starting from the 3rd week of life until slaughtering); in addition the microbiological analyses were performed on caecal con- tents. The infection was carried out with Campylobacter jejuni M1, which is a strain with a documented case of direct transmission from chicken to humans, causing enteritis (). As , the probiotic strain was delivered mixed to feed and microencapsulated in a lipid matrix, rather than frozen, to improve its survival both in the feeder and in the poultry gastrointest- inal tract (GIT). This also would allow a more effective use by the poultry farmer industry. The prebiotic GOS (ff) was replaced with a XOS, because of the difficulties encountered in GOS supply at a low cost. The commercial XOS was selected based on literature data that showed the stimulating effect of this oligosaccharide on bifidobacteria growth (). The prebiotic amount in the feed (0.2%) was chosen testing its fermentability  at  0.2%  and  0.4%  (w/v).  Results,  without significant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Cluster analysis of DGGE profiles of GrpA and GrpC at ST1 and ST4.
+
+
+difference between the two tested concentrations (data not shown), evidenced that the probiotic growth was comparable to glucose.
+qPCR results targeting Campylobacter spp. and C. jejuni firstly evidenced the importance of an early synbiotic administration. qPCR and plate count results on Campylobacter spp. resulted comparable in each group, particularly at ST1, ST2 and ST3, while at ST4 a significant difference (p < 0.01) was observed between the two methods, with qPCR data resulting higher than those obtained by plate counting. The discrepancy between the culture-dependent and independent approach is also reported in other studies ( ), quantification with molecular methods may include viable but not cultivable cells, injured cells and dead cells. From this perspective, the combination of classical and molecular investigations could provide a more reliable picture of C. jejuni prevalence. The counts obtained in all the quantified samples were above the detection limits of both methods (2 log and 3 log cfu/g for plate counts and qPCR, respectively).
+
+qPCR also evidenced the detection of PCB133 in all treated animals, in agreement with bands identification in the DGGE profiles, with the highest concentration of the probiotic strain in GrpC at ST1 associated with the lowest C. jejuni detection. The administered probiotic strain is able to persist within the poultry GIT and to exert antimicrobial activities. Moreover, the synbiotic product seems to influence the composition and complexity of the whole caecal microbial community in young chicks, as revealed by the cluster analysis and the diversity indices. Nevertheless, commercial broilers are normally subjected to clear successional changes in the caecal taxonomic composition during the life cycle, which is associated with time and diet change (  ). The population succession usually occurs from a simple and transient community to one of increasing diversity in growing and aged broilers () and the obtained patterns profiles of both GrpA and GrpC broilers confirmed this natural trend. As the community becomes more complex, the administered PCB133 strain is
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3. DGGE gel of GrpC at the first and last sampling time (ST1 and ST4). Squares evidence the excised bands and asterisks show the respective sequences of the analyzed bands.
+
+
+no more detectable as a band in the GrpC profiles. As reported by , this could be associated with the lower DNA concentration of the probiotic strain, among the total 16S rRNA gene sequences, which is not sufficiently amplified to be visualized on DGGE gel. However, qPCR data confirmed its presence also at ST4 and its efficacy, in combination with the prebiotic XOS, to reduce C. jejuni population. Another interesting finding comes from the autochthonous bifidobacteria in GrpA, which are not able to contrast C. jejuni infection, although their average number is comparable to GrpC. In this case it was not possible to appreciate a significant stimulation of bifidobacteria by the prebiotic fiber as in  with GOS. On the contrary, found that prebiotics could have a role in pathogen counteraction.
+GrpB also showed a reduction of C. jejuni cells. However, this
+decrease is affected by the high standard deviation both in qPCR and in plate count results. The administration evidently had an effect at the last sampling time but this effect differed among animals. This is probably due to the difficulty of the synbiotic supplement, as above evidenced, of interfering with a more complex microbiota of growing chickens. In a farm perspective, with thousands animals, a non-constant formula effect could represent a problem in term of contamination during slaughter.
+In conclusion, B. longum PCB133 associated with XOS is more effective in reducing C. jejuni at the beginning of animal life when the gut microbiota is still under development and more susceptible to changes. The most disputable issue concerns the economic aspect since a lifelong supplementation is undoubtedly more expensive, and farmers could be discouraged from using these additives. This work has also highlighted the need for further research on strain delivery methods to ensure the best performance of these additives in intensive farming and, at the same time, to lower the cost of the products. The testing of this synbiotic formulation in intensive farming conditions is actually in
+
+process.
+
+Acknowledgments
+
+This work was supported by the Coordination of European Research on Emerging and Major Infectious Diseases of Livestock (EMIDA ERA- NET) (Dnro 776/312/2012) through the project entitled Biology and Control of Campylobacter in the Chicken Supply Chain (CamChain). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+References
+
+  .
+ff  .
+ .
+   .
+   .
+   .
+ .
+  .
+
+
+
+  .
+ .
+  .
+ff ff  .
+  .
+ff .
+  .
+ fi  .
+ .
+ .
+  fi.
+ fi .
+  .
+ .
+fi
+
+ fi .
+ff .
+  .
+  .
+ .
+R Core Team, 2016. R: a language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. .
+
+ .
+ff
+ .
+  
+.
+  .
+  fi .
+ fiff  .
+ fifi .

@@ -1,0 +1,436 @@
+
+
+
+
+Insect Science (2017) 00, 1-13, DOI 10.1111/1744-7917.12551
+
+ORIGINAL ARTICLE
+Evidence for a conserved microbiota across the different developmental stages of Plodia interpunctella
+
+Valeria Mereghetti1, Bessem Chouaia1, Lidia Limonta2, Daria Patrizia Locatelli2 and Matteo Montagna1
+1Dipartimento di Scienze Agrarie e Ambientali, Universita` degli Studi di Milano, Milan, Italy  and  2Dipartimento di Scienze per gli Alimenti la Nutrizione, l'Ambiente, Universita` degli Studi di Milano, Milan, Italy
+
+
+Abstract Diversity and composition of lepidopteran microbiotas are poorly investigated, especially across the different developmental stages. To improve this knowledge, we char- acterize the microbiota among different developmental stages of the Indian meal moth, Plodia interpunctella, which is considered one of the major pest of commodities world- wide. Using culture-independent approach based on Illumina 16S rRNA gene sequencing we characterized the microbiota of four developmental stages: eggs, first-, and last-instar larvae, and adult. A total of 1022 bacterial OTUs were obtained, showing a quite diversi- fied microbiota associated to all the analyzed stages. The microbiotas associated with P. interpunctella resulted almost constant throughout the developmental stages, with approx- imately 77% of bacterial OTUs belonging to the phylum of Proteobacteria. The dominant bacterial genus is represented by Burkholderia (~64%), followed by Propionibacterium, Delftia, Pseudomonas, and Stenotrophomonas. A core bacterial community, composed of 139 OTUs, was detected in all the developmental stages, among which 112 OTUs were as- signed to the genus Burkholderia. A phylogenetic reconstruction, based on the 16S rRNA, revealed that our Burkholderia OTUs clustered with Burkholderia cepacia complex, in the same group of those isolated from the hemipterans Gossyparia spuria and Acanthococcus aceris. The functional profiling, predicted on the base of the bacterial 16S rRNA, indi- cates differences in the metabolic pathways related to metabolism of amino acids between preimaginal and adult stages. We can hypothesize that bacteria may support the insect host during preimaginal stages.
+Key words Burkholderia; Illumina sequencing; Indian meal moth; insect symbiosis; Proteobacteria
+
+
+
+Introduction
+
+All animals, including insects, harbor a multitude of microorganisms (bacteria, protozoa and fungi) (McFall- Ngai et al., 2013). In particular the successful adaptation of insects reflects the very close and ancient mutualistic association that these groups of animals  shared  with the microorganisms (Douglas, 2014). In recent years,
+
+Correspondence: Matteo Montagna, Dipartimento di Scienze Agrarie e Ambientali, Universita` degli Studi di Mi- lano, via celoria 2, Milan, 20133, Italy. Tel: +39 02 503 16782;
+fax: +39 02 503 16781; email: 
+
+xC  2017 Institute of Zoology, Chinese Academy of Sciences
+
+culture-independent approaches based on high through- put sequencing became a powerful method to investigate the microbial community associated with insects in a wide taxonomic range of hosts (Chakravorty et al., 2007; Huse et al., 2008; Wang & Qian, 2009). In most of the cases, microbiota investigation highlighted interesting host-symbiont interactions, representing key aspects in insect's survival and adaptation, such as development, nutrition, detoxification, and maintaining of the immune system (Dillon & Dillon, 2004; Engel & Moran, 2013). Regarding lepidopterans, the studies on their bacterial communities have increased in the recent years, espe- cially for insect pest moths such as Ostrinia nubilalis
+
+1
+
+
+
+(Belda et al., 2011), Spodoptera littoralis (Tang et al., 2012), Lymantria dispar  (Broderick  et  al., 2004; Lin et al., 2015), Helicoverpa armigera (Xiang et al., 2006), Plutella xylostella (Xia et al., 2013), and Bombyx mori (Liang et al., 2014). Furthermore, some of these studies revealed the role played by the bacteria in helping the host in a broad range of activities. As a matter of fact, Ente- rococcus sp. and Staphylococcus sp. provide their hosts, Hyles euphorbiae and Brithys crini (two lepidopterans feeding on plants producing alkaloids and latex), resis- tance to these toxic compounds (Vilanova et al., 2016). A further symbiont-derived benefit regards the production of antimicrobial peptides, which protect the insect host against the invasion of foreign bacteria (e.g., Shao et al., 2017). Almost all the previously reported studies focused on a single developmental stage (e.g., third instar larvae, Herna`ndez-Flores et al., 2015; Snyman et al., 2016; the adult stage, Montagna et al., 2016), ignoring the changes that may occur of the microbiota structure along the life cycle of these holometabolous insects. To our knowledge, only two studies have investigated the microbiota's structure across the life cycle in lepidopterans. The first investigation was reported by Hammer et  al.  (2014) and revealed that larvae and adults of the neotropical butterflies Heliconius erato harbored a taxonomically different microbiota. A similar result was observed in the cotton leafworm Spodoptera littoralis (Chen et al., 2016).
+The Indian meal moth (IMM) Plodia interpunctella (Hu"bner) represents one of the major pests of food com- modities worldwide (Vick et al., 1986; Cuperus et al., 1990; Rees, 2004). The economic impact of this moth  is very high, because it feeds on a wide range of stored products, such as grains, chocolate, nuts, powdered milk, and dry meats (Perez-Mendoza & Aguilera-Pena, 2004); damages are represented by larval silk webs and frass (Fa- sulo & Knox, 2009). In a previous study the microbiota associated with IMMs reared under different diets was investigated (Montagna et al., 2016). Two distinct ento- motypes were discovered associated with IMMs based on their diet, namely protein-rich versus carbohydrate-rich, suggesting the diet as a major driver in shaping the bac- terial community (Montagna et al., 2016).
+In this study, we used high-throughput sequencing technology to investigate the microbiota of IMMs in different developmental stages, namely eggs, the first- and last-instar larvae, male and female adults.  The  aims of this study are: (i) estimate the shift in the IMM-associated microbiota during selected stages of its life cycle and in the case of bacterial community changes;
+(ii) evaluate the presence of a bacterial core throughout the developmental stages, and (iii) predict the functional profiles of the bacterial communities.
+
+Materials and methods
+
+Ethics statement
+
+P. interpunctella are not listed in any national or regional law as protected or endangered species.
+
+Insect rearing and sampling
+
+The specimens used in this study were obtained from a
+P. interpunctella population maintained in the insectary at DEFENS (Department of Food, Environmental and Nu- tritional Sciences--Universita` degli Studi di Milano) and reared under controlled conditions of temperature (26
+1 degC), humidity (RH   65%    5%) and a 16 h : 8 h    light : dark photoperiods. Insects were routinely fed on an artificial diet following Stampini and Locatelli (2007), with some modifications (20% increase of honey content and without beer yeast). In order to obtain eggs, adult fe- male were separated from the main laboratory population and allowed to oviposit for 3 h. Ninety eggs were directly stored at -80 degC without sterilization, while the remaining eggs were allowed to hatch. The first-instar larvae, 3 h af- ter the emergence from the egg, and the last-instar larvae (before pupation) were collected and stored in absolute ethanol at -80 degC. Last-instar larvae were sexed (Hamlin et al., 1931) and then let to molt separating males from females. Once emerged, adults were stored in absolute ethanol at -80 degC.
+
+Sample processing and DNA extraction
+
+Three replicates, for each developmental stage, were processed as described below. Each replicate was com- posed of five specimens from the same developmen-   tal stage. The collected specimens (except the eggs) were surface-sterilized using previously published pro- tocol (Montagna et al., 2015a). Briefly, the sterilization protocol consists of the following steps: (i) washing the samples with distilled water; (ii) washing with a sodium hypochlorite solution at 4% for 3 min; (iii) washing with a solution of PBS and 0.1% Triton-X-100 for 3 min; and
+(iv) a final washing with sterile distilled water. These steps were repeated three times.
+The wings were removed from adults prior to sterilizing the body. Total bacterial DNA was extracted, under sterile conditions, using the classical phenol-chloroform meth- ods (Doyle & Doyle, 1990) with the following modifica- tions: First, 500 mL of 2% CTAB (2% CTAB, 0.2% ascor- bic acid, 1.5% PVP, 1.4 mmol/L NaCl, 20 mmol/L EDTA and 100 mmol/L Tris-HCl, pH 8.0) was added to each
+
+
+
+sample. Tissues were then disrupted using glass beads (o 0.1 mm) with the PrecellysxR 24 homogenizer (Bertin Technologies, Montigny-le-Bretonneux, France) and in- cubated at 65 degC for 15 min to inactivate nucleases. After centrifugation, the supernatant was incubated overnight with 20 mL of proteinase K (20 mg/mL) at 56 degC. In order to purify the DNA, two phenol-chloroform washes (phe- nol/chloroform/isoamyl alcohol, 25 : 24 : 1, pH 8.0) were performed. DNA was, then, precipitated after addition of 500 mL of isopropanol and incubation for 1 h. Pellet was washed twice with 70% ethanol and eluted in 40 mL of Ultrapure Water (Sigma-Aldrich, Saint Louis, Missouri, USA). Qubit fluorometer with the dsDNA High Sensi- tivity Assay Kit (Life Technologies Corp., Carlsbad, CA, USA) was used to determine the DNA concentrations. A DNA extraction blank, using the same extraction proto- col and molecular biology grade water, was performed as control to monitor for contamination of bacterial DNA. Different volumes of blank sample were used as template for PCR targeting the bacterial 16S rRNA using 27 Fmod and 519 Rmod primers (Lane, 1991); no positive ampli- fications were obtained.
+
+
+DNA sequencing
+
+DNA extracted from each sample was used as a tem- plate for the amplification of the bacterial 16S rRNA  hypervariable V1-V3 region using universal primers (27 Fmod 5 -AGRGTTTGATCMTGGCTCAG-3 and
+519 Rmod 5 -GTNTTACNGCGGCKGCTG-3 ) (Lane, 1991; Turner et al., 1999).  The  resulting  amplicon  was sequenced using the Illumina Miseq2500 platform at MR DNA laboratory research (Shallowater, Texas, USA).
+The data resulting from the sequencing was ana-  lyzed using the software package QIIME version 1.9.1 (Caporaso et al., 2010). First, we processed the 16S rRNA reads removing adaptors, filtering low-quality and size se- lecting reads; keeping only those with Phred score >30 and within the size range 350-500 bp. Uclust (Edgar, 2010) was used to cluster the high-quality 16S rRNA sequences into Operational Taxonomic Units (OTUs) with a similarity cut-off of 97%. Chimeras were then removed using Chimeraslayer. The most abundant se- quence for each identified OTUs was aligned to Green- genes vusing Pynast (Caporaso et al., 2010). Finally, taxonomic assignment was per- formed comparing the representative OTUs with Green- genes and Silva databases. The sequences obtained in this study were deposited in European Nucleotide Archive with the accession number PRJEB21609.
+
+Bacterial community analysis
+
+The OTUs table obtained by QIIME, representing the bacterial communities associated with each of the ana- lyzed samples, was used as an input for of the diversity indices estimation and following analyses. The package Vegan (Dixon, 2003), implemented under the R software (R Project 3.0.2;  was used to estimate, for each developmental stages and replicate, the bias-corrected Chao1 richness index (Chao, 1984), the Shannon H index (Shannon, 1984) and Pielou's evenness (Pielou, 1975). ANOVA (Anderson, 2001) was used to assess statistical differences in richness and diversity val- ues associated with the different developmental stages. Venn diagrams were obtained using the gplots package in R with purposes of representing bacterial OTUs shared among the four developmental stages (eggs, first-, and last-instar larvae, adults).
+The nonparametric one-way analysis of similarity ANOSIM (Clarke, 1993) was used to investigate the sta- tistically significant difference in the microbiota structure among the developmental stages.
+
+
+Phylogenetic placement of the most abundant
+Burkholderia OTUs
+
+Consensus sequences for Burkholderia OTUs with abundance >1000 reads were selected to perform a phylo- genetic assignment using a selected dataset of Burkholde- riales 16S rRNA sequences, as in previous studies (e.g., Kikuchi et al., 2011; Boucias et al., 2012; Michalik et al., 2016). A total of 22 partial 16S rRNA sequences be- longing to Burkholderia were downloaded from GenBank (Benson et al., 2013) (Table S4), in addition 16S rRNA sequences from representatives of other Burkholderiales genera and Escherichia coli (as outgroup) were retrieved (Table S4). The sequences were aligned using MAFFT (Katoh & Standley, 2013) and Q-iNS. Nucleotide sub- stitution model was estimated using jModelTest 2 (Dar- riba et al., 2012). The model best-fitting the sequence was selected according to Akaike Information Crite- rion. Phylogenetic reconstructions were performed using Maximum Likelihood and Bayesian inference. Maximum likelihood tree was inferred adopting the General Time Reversible (GTR; Lanave et al., 1984) with gamma dis- tribution (r) and proportion of invariable sites (I) as models of nucleotide evolution, as obtained by model selection analysis, and approximate likelihood ratio test as node support (aLRT) (Anisimova & Gascuel, 2006), by using PhyML (Guindon et al., 2010). Bayesian infer- ence was performed using MrBayes 3.2 (Ronquist et al.,
+
+
+
+2012) in two independent runs of 2  107  generations  that were sampled every 100 generations. The model of nucleotide evolution was settled as GTR I r. The potential scale reduction factor value of each parameter of the model was checked and the convergence of the two runs (standard deviation of split frequencies, effec- tive sample size) was visually inspected using MrBayes
+3.2 (Ronquist et al., 2012) and TRACER (Drummond  et al., 2012). Twenty percent of the trees were discarded as burn-in and then a majority-rule consensus tree was obtained.
+
+Metabolic functional profiles
+
+Using PICRUSt (Phylogenetic Investigation of Com- munities by Reconstruction of Unobserved States; Langille et al., 2013) we inferred the metagenomic func- tional profile of the bacterial community associated with different developmental stages of P. interpunctella. The resulting table, with the predicted metabolic potential of each bacterial community associated with a given de- velopmental stage, was analyzed. The bacterial function was annotated according to KEGG Orthology (Kanehisa et al., 2012) and only those with a meaningful interest for the insect physiology were retained. After retaining the selected meaningful functions, the normality distribu- tion of the data and the homoscedasticity among groups were tested using Shapiro and Levene test, respectively (lawstat package in R). In order to determine a signif- icant difference (significant level P < 0.05) among the IMM life stages the Kruskal-Wallis test (agricolae pack- age in R software) and the Bonferroni correction were applied.
+
+Results
+
+Bacterial diversity
+
+The microbiota associated with the selected develop- mental stages of Plodia interpunctella were analyzed us- ing Illumina sequencing. A total of 890 453 raw reads
+
+of the V1-V3 region of the bacterial 16S rRNA were obtained. One sample corresponding to the last-instar lar- vae was removed from the analysis due to the low num- ber of reads (<1000 reads). After quality filtering, 568 229 high-quality reads were retained (median number of sequences per sample	38 712 SD	25.4). The clus- tering of the reads at 97% of similarity threshold let to   a total of 1022 bacterial OTUs. Rarefaction curves based on Shannon index showed that the sampling depth was high enough to have a reliable representation of the ac- tual diversity (Table S1). OTUs richness was also esti- mated using both the observed OTUs and Chao-1 indices (Table 1). The results showed that the sequencing ap- proach covered approximately the 70% of total bacterial diversity. The highest species diversity was associated with the eggs, with a median value through the three repli- cates of 663 OTUs (SD		323), while the lowest value was recovered in the last larval instar (382 OTUs, SD 141); microbiotas of first larval instar, male and female adults were characterized by an intermediate number of OTUs (Table 1). The Shannon index H' ranged from 1.58 to 2.15, in the case of adult females and last-instar larvae; while the values of Pielou's evenness J' ranged from 0.24 to 0.36 (Table 1). The low values of Pielou's evenness indi- cate unbalanced bacterial communities with a low number of OTUs present at high relative abundance. In the case of adult females (J'	0.24), the first OTU in term of abun- dance accounted for the 60% of the bacterial community. No statistical differences were recovered among the IMM developmental stages for the number of detected OTUs as well as for the considered diversity indices (Shannon H 0.24), the J and Chao-1).
+
+
+Taxonomic composition through the developmental stages
+
+The microbiotas associated with all the considered developmental stages were dominated by Proteobacte- ria, with an increasing relative abundance from eggs to adulthood (77% +- 2.9% in eggs, 96.5% +- 3.6% and 89.9% +- 5.6% in the case of adult females and males,
+
+
+Table 1 Median values of reads, observed OTUs, and diversity indices for the analyzed stages of Plodia interpunctella.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1 Taxonomic composition and bacterial core of the microbiotas associated with the analyzed developmental stages of Plodia interpunctella (eggs, first-instar, last-instar, adult females and males) at phylum (pie charts) and family levels (bars). Only the bacteria families with an average abundance ;:: Zhan Liao y 5% are reported. In the middle of the figure, the Venn diagrams report bacterial OTUs shared among the four developmental stages (the tip of each oval corresponds to the developmental stage reported in the outer schematic representation of the P. interpunctella life cycle).
+
+
+respectively; Fig. 1; Table S1). Actinobacteria resulted the second most abundant phylum, followed by bacteria belonging to Firmicutes (Fig. 1; Table S1). Burkholde- riaceae resulted the most abundant bacterial family in  all the insect semaphoronts (Fig. 1; Fig. 2; Table S2); within this family Burkholderia resulted the genus with the highest abundance in all of the P. interpunctella devel- opmental stages, ranging from ~45% to ~80% in the case of last-instar larvae and adult females (Table 2). Others important genera composing the P. interpunctella microbiota were represented by Propionibacterium,
+
+Delftia, Pseudomonas and Stenotrophomonas (Table 2; Table S3).
+
+Core microbiota and b-diversity
+
+A core microbiota composed of 139 OTUs was identified after comparing the four developmental stages (Fig. 1). Noteworthy, 112 OTUs out of a total of 139 were assigned to the genus Burkholderia, the remaining 27 OTUs were assigned to the following 12 genera: Bacillus and Pseudomonas with four OTUs each, Acinetobacter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2 Histogram representing the bacterial composition, at family level, for the analyzed developmental stages. In the histograms are reported only taxa with a relative abundance  5%.
+
+Table 2 Genera of bacteria identified in the analyzed Plodia interpunctella stages with abundance >5% in at least one specimens.
+
+
+Eggs	Early-instar larvae
+
+Last-instar larvae
+
+
+Adult females	Adult males
+
+Genus/sample ID	 		 		 		 		 	
++The numbers stand for replicates.
+
+
+and Propinebacterium with three OTUs, Enterobacter (two OTUs), and one OTU for the genera Corynebac- terium, Rhodococcus, Brevibacillus, Staphylococcus, Fusobacterium, Achromobacter, Delftia, Enhydrobacter, Micrococcus, Brevibacterium, and Defluvibacter.
+
+The ANOSIM analysis performed on the OTU table, using as grouping factor the developmental stages, con- firmed the absence of differences among the bacterial communities associated with P. interpunctella (R = 0.2; P = 0.34).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3 Maximum likelihood phylogenetic tree based on 16S rRNA gene sequences. Vertical dashes lines indicate the three different Burkholderia groups. SBE: stinkbug associated beneficial and environmental Burkholderia; BCC: Burkholderia cepacia complex; PBE: plant-associated beneficial and environmental Burkholderia. On the nodes of the main the lineages the support values, expressed as aLRT (first value) and Bayesian posterior probability (second value) of the Bayesian inferred tree (Fig. S2), are reported. The scale bar at the bottom indicates the distance in nucleotide substitution per site. The numbers in brackets represent the GeneBank accession number of the 16S rRNA gene sequences or the numbers that identify the de novo OTUs.
+
+
+Phylogenetic placement of the most abundant Burkholderia OTUs
+
+Three  Burkholderia  OTUs,  with  a  number  of reads
+>1000, were selected for the phylogenetic inference, namely denovo923 with 1685 reads, denovo1584 with 323 731 reads, and denovo2766 with 1016 reads. The three selected OTUs were present in each of the three replicates of all the analyzed developmental stages of
+P. interpunctella. The topology resulting from the 16S rRNA-based phylogenetic analysis confirmed the results previously obtained (Fig. 3; Fig. S2) (Coeyne et al., 2001; Kikuchi et al., 2011; Suarez-Moreno et al., 2012; Itoh  et al., 2014). Three well-supported clades of Burkholderia
+
+were recovered: (i) a group composed of the stinkbug as- sociated and environmental Burkholderia (SBE); (ii) the Burkholderia cepacia complex (BCC); and (iii) a group with the plant-associated and environmental Burkholderia (PBE). Interestingly the Burkholderia of the P. inter- punctella microbiota clustered within the BCC group,  as those associated with the two hemipterans Gossyparia spuria and Acanthococcus aceris (Michalik et al., 2016).
+
+Metabolic potential
+
+The metagenomic functional potential of the insect- associated bacterial communities was predicted on the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4 Table reporting the metabolic predicted function inferred from the bacterial 16S rRNA gene sequences for which differences among the developmental stages were recovered by Kruskal-Wallis test with the Bonferroni correction. White square: P > 0.05; grey squares: P < 0.05.
+
+
+basis of 16S rRNA sequences (Table S5). The relative abundance of seven functional categories, which can be linked to the insect physiology, was significantly different among the microbiotas associated with the developmen- tal stages of P. interpunctella (Fig. 4). All these functions were metabolism related. In particular, three out of seven were related to the metabolism of amino acids (i.e., ala- nine, aspartate and glutamate,  kh 2	9.65, df	4, P 0.047; D-alanine and D-glutamine,  kh 2	8.85, df	4,
+P	0.037; D-glutamate metabolism,  kh 2	9.54, df
+4, P  0.048). Two functional categories were associated to carbohydrate metabolism; namely, the metabolism of galactose (kh 2 9.08, df 4, P 0.031) and the glycol-
+ysis and gluconeogenesis (kh 2  9.16, df  4, P   0.047). The two last functional categories belong to cofactors metabolism  (thiamine  metabolism,  kh 2   9.84,  df    4, P 0.043) and to the vitamins and xenobiotics biodegra- dations metabolism (drug metabolism, kh 2 9.31, df
+4, P	0.041).
+In particular, statistically significant differences were observed when comparing the metabolic functions of the preimaginal stages and adults (males and females) (Fig. 4).
+In terms of relative abundance, the highlighted metabolic functions were higher in the preimaginal stages in respect to adult females and males (Table S5). No signif- icant differences in the metabolic functions were observed when comparing microbiotas associated with preimaginal stages (e.g., eggs vs. first-instar larvae) as well as com- paring adult males versus adult females (Fig. 4).
+
+Discussion
+
+Bacterial diversity and taxonomic composition
+
+In this study, we investigated the microbiota associated with the developmental stages, from eggs to adulthood, of the holometabolous insect Plodia interpunctella. In detail, we focused our attention on the following stages: egg, first-, last-instar larvae (e.g., the first stage soon upon hatching and the last stage before pupation), and adults. In addition, adult females and males were analyzed separately in order to investigate gender-associated shift in the bacterial community.
+In this study the highest number of bacterial OTUs was recovered in eggs, followed by adult females, first-instar larvae, adult males, and by the last-instar larvae. In a previous study (Montagna et al., 2016), addressed to es- timate the impact of the insect's diet on the associated bacterial communities, the values of observed bacterial OTUs resulted significantly lower than those obtained in this study (on average approximately 220 OTUs compared with ~510 OTUs). This result seems to support the role of the diet in shaping the bacterial communities associated with the IMM. A further possible explanation may rely on the different sequencing technologies adopted here in respect to Montagna et al. (2016), namely Illumina se- quencing versus 454 pyrosequencing.
+Compared to previous studies, where changes in the bacterial communities were observed across the differ- ent developmental stages (Hammer et al., 2014; Chen
+
+
+
+et al., 2016), in this study no notable differences in the microbiotas were detected. Our results provide evidence for the existence of a stable microbiota throughout the ontogenetic development of P. interpunctella. A possible explanation for the contrasting results of our study respect to Hammer et al. (2014) and Chen et al. (2016) might rely in the different adults feeding behavior. Heliconius erato and Spodoptera littoralis, where major changes in the mi- crobiotas of pupae and adults were observed (Hammer et al., 2014; Chen et al., 2016), possess a nectivorous adult life-style, whereas P. interpunctella does not feed at the adult stage.
+Considering the structure of the bacterial communities across the developmental stages, low values of Pielou's evenness (J'AVERAGE  0.25  0.03,  Table  1)  indicate highly imbalanced microbiotas, contrasting with previ- ously obtained values (J'AVERAGE  0.64  0.15; Mon-  tagna et al., 2016). An imbalanced bacterial community has also been observed in insect belonging to other groups, such beetles (e.g., Montagna et al., 2015a, b) or Diptera (Muturi et al., 2016). The low evenness is reflected on the taxonomic composition (e.g., at phylum and at genus levels; Fig. 1, Tables 2, S3, and S4), with Proteobacte- ria accounting, on average, for ~77% of the communi- ties and, at the genus level, with Burkholderia accounting for ~64%. Similar results (i.e., an imbalanced bacterial community) were obtained also for other lepidopterans (Broderick et al., 2004; Xiang et al., 2006; Brinkmann et al., 2008; Hernandez-Flores et al., 2015), in particu- lar, in the case of S. littoralis (Chen et al., 2016) and    of lab-reared Ostrinia nubilalis (Belda et al., 2011), the associated bacterial communities were dominated by Fir- micutes (>80%).
+The bacterial core shared among the analyzed devel-
+opmental stages was composed by more than 100 OTUs, of which the majority belongs to the genus Burkholderia (Fig. 1; Table 2). Two different entomotypes were previously recovered associated with P. interpunctella, depending on carbohydrate and protein-rich diets (Mon- tagna et al., 2016). The artificial diet on which IMMs of this study were reared was different respect those used by Montagna et al. (2016). We hypothesize that due to the different diets, Burkholderia replaced Atopococcus as the dominant taxa (Montagna et al., 2016). However, apart from Atopococcus, 5 out  of  the  10  genera  of  the core identified in this study are shared with the previously described entomotypes (i.e., Pseudomonas, Acinetobacter, Propionibacterium, Corynebacterium, and Staphylococcus; Montagna et al., 2016).
+Burkholderia is found in different environments such as water, soil, and the plant rhizosphere (Woods & Sokol, 2005). It was first described as a plant pathogen
+
+(Yabuuchi et al., 1992), but it can also be hazardous to humans and animals (Coenye & Vandamme, 2003). How- ever, Burkholderia has also been described as an insect symbiont; notably Burkholderia has been described in as- sociation with Riptortus pedestris (Kikuchi et al., 2005) and other heteropterans (Kikuchi et al., 2005; Kikuchi  et al., 2011) where it inhabits gut crypts. In R. pedestris the environmental acquisition of this bacterium was demon- strated (Kikuchi et al., 2007). Furthermore, it was ob- served that after acquisition by second instar nymphs, the bacterium is retained by the insect for the entire life cycle (Kim et al., 2014). This bacterium plays an important role in R. pedestris growth (Kikuchi et al., 2007) but is also able to confer insecticide resistance (Kikuchi et al., 2012) to its host. In Caevelerius saccharivorus, Burkholderia showed a mixed strategy for its transmission (i.e., vertical transmission and environmental acquisition; Itoh et al., 2014) while it was only vertically transmitted in Acantho- coccus aceris and Gossyparia spuria, where it inhabits the fat body cells (Michalik et al., 2016).
+To our knowledge, this is the first time that bacteria belonging to the genus Burkholderia have been recovered within holometabolous insects with high abundance and persistence across the developmental stages, suggesting that this bacterium can maintain stable association with
+P. interpunctella. Noteworthy, the majority of the iden- tified Burkholderia OTUs are part of the core of OTUs shared among the analyzed developmental stages. We can thus conclude that, in addition to the previously identified entomotypes (i.e., entomotype Atopococcus and entomo- type Propionibacterium; Montagna et al., 2016), a new P. interpunctella entomotype is here observed, the entomo- types Burkholderia.
+The phylogenetic analysis performed to investigate the phylogenetic position of Burkholderia OTUs obtained by this study (Fig. 3) suggested that these are closely related to the BCC group. Within this group, Burkholderia cepacia has been reported to cause serious diseases in cystic fibrosis patients and individuals with compromised immune systems (Lipuma, 2005). Furthermore, other Burkholderia strains within the BCC group have been described as plant pathogens, such as Burkholderia gladioli (Segonds et al., 2009) and Burkholderia glumae (Ham et al., 2011). Other strains have been isolated from insects, as in the case of the two Hemiptera Acanthococ- cus aceris and Gossyparia spuria (Michalik et al., 2016). Based on these findings and on the previously reported information on the microbiotas of adults P. interpunctella (Montagna et al., 2016), we can hypothesize that this bacterium was conveyed in the gut of P. interpunctella through the food ingestion or, more speculatively, that  in the analyzed population of P. interpunctella, it is
+
+
+
+vertically transmitted due to its dominance in the eggs microbiota (abundance of approximately 80%). Ad hoc experiments such as FISH and immunostaining assays targeting Burkholderia are required to test the last hypothesis.
+
+
+Metabolic potential
+
+The seven predicted metabolic functions, where differ- ences among the developmental stages were recovered, are almost all connected with the amino acid metabolism (Fig. 4). Interestingly, the differences were recovered among adults and preimaginal stages; while no differ- ences were detected comparing the different preimaginal semaphoronts, nor between adult males and females (Fig. 4). These results are compatible with the different physiological requirements of these stages (Klowden, 2007a). As example, among the selected seven metabolic functions, are present alanine and glutamine metabolisms. These two amino acids are involved in many physiological processes such as the chemistry of the cuticle (Andersen et al., 1995). In particular, alanine represents the second major component of the resilin, a rubber-like proteins that constitute the insects cuticle; while glutamine, involved in the amination of  the  glucose-6-phosphate in glucosamine-6-phosphate, an important metabolite for the biosynthesis of the cuticle (Klowden, 2007b). These two amino acids are also implicated in Krebs cycle (Nation, 2016). In fact, although the principal source of pyruvate entering the Krebs cycle comes from glycolysis, insects are also able to use alanine as a source of pyruvate (Sacktor & Wormser-Shavit, 1966). Glutamate, on the other hand, represents an intermediate metabolite fundamental in the Krebs cycle, since it is transami- nated with pyruvate to form  a-ketoglutarate  (Sacktor & Wormser-Shavit, 1966). Based on the fact that the relative abundance of the metabolic functions was higher in the preimmaginal stages respect to adults, we can hypothesize higher requirements for these amino acids during the high energy-demanding molting processes (Nation, 2016). However, the high alanine and glutamine metabolism recovered in the bacterial communities associated with preimaginal stages can be the result of the different feeding behavior between larvae and adults, which have an impact on the gut physiology (Altermatt & Pearse, 2011). As a matter of facts, P. interpunctella do not feed at the adult stage (Fasulo & Knox, 2009).
+The ability of some bacteria to provide essentials amino acids is well documented in insects (Douglas, 2006), how- ever no cases of nutritional symbiosis have been recorded so far among lepidopterans (McCutcheon & Moran, 2007;
+
+Ayayee et al., 2016). The results achieved in this study may pave the way for future studies to investigate the role of Burkholderia and other bacteria of the P. interpunctella microbiota in supporting the host development.
+To this day studies on lepidopteran microbiota remain largely scarce. This is the first report that analyses the bacterial composition in different developmental stages of the Indian meal moth, P. interpunctella (eggs, first-, and last-instar larvae, and both adult females and males). Our study shows that: (i) the microbiota do not exhibit a great variation across the analyzed developmental stages;
+(ii) the bacterial communities resulted dominated by few taxa; (iii) bacteria of the genus Burkholderia dominate all the developmental stages of P. interpunctella; (iv) a core of bacteria (dominated by Burkholderia) is shared across eggs, larvae and adults; and (v) since the microbiota described in this study differs from that of a previous study, the role of the insect's diet in shaping its bacterial community is further supported.
+
+Acknowledgments
+
+The Authors would like to thank all the members of the EntomoLab at DISAA - UMIL. This study was partially supported by Research Supporting Plan 2015-17 funded by the Department of  Agricultural  and  Environmen- tal Sciences, University of Milan (grant 15-6-3014000) assigned to M.M.
+
+Disclosure
+
+The authors are not aware of any affiliations, funding or financial holdings that might affect the objectivity of this manuscript.
+
+References
+
+Altermatt, F. and Pearse, I.S. (2011) Similiarity and specializa- tion of the larval versus adult diet of European butterflies and moths. The American Naturalist, 178, 372-382.
+Andersen, J.F., Ceruso, M., Unnithan, G.C., Kuwano, E., Prest- wich, G.D. and Feyereisen, R. (1995) Photoaffinity labeling of methyl farnesoate epoxidase in cockroach Corpora allata. Insect Biochemistry and Molecular Biology, 25, 713-719.
+Anderson, M.J. (2001) A new method for non-parametric mul- tivariate analysis of variance. Austral Ecology, 26, 32-46.
+Anisimova, M. and Gascuel, O. (2006) Approximate likeli- hoodratio test for branches: a fast, accurate, and powerful alternative. Systematic Biology, 55, 539-552.
+Ayayee, P.A., Larsen, T. and Sabree, Z. (2016) Symbiotic es- sential amino acids provisioning in the American cockroach,
+
+
+
+Periplaneta americana (Linnaeus) under various dietary con- ditions. PeerJ, 4, e2046.
+Belda, E., Pedrola, L., Pereto', J., Mart'inez-Blanch, J.F., Mon- tagud, A., Navarro, E. et al. (2011) Microbial diversity in the midguts of field and lab-reared populations of the European corn borer Ostrinia nubilalis. PLoS ONE, 6, e21751.
+Benson, D.A., Cavanaugh, M., Clark, K., Karsch-Mizrachi, I., Lipman, D.J., Ostel, L.J. and Sayers, E.W. (2013) GenBank. Nucleic Acids Research, 41, D36-D42.
+Boucias, D.G., Garcia-Maruniak, A., Cherry, R., Lu, H., Maru- niak, J.E. and Lietze, V.U. (2012) Detection and character- ization of bacterial symbionts in the Heteropteran, Blissus insularis. FEMS Microbiology Ecology, 82, 629-641.
+Brinkmann, N., Martens, R. and Tebbe, C.C. (2008) Origin and diversity of metabolically active gut bacteria from laboratory- bred larvae of Manduca sexta (Sphingidae, Lepidoptera, In- secta). Applied Environmental Microbiology, 23, 7189-7196. Broderick, N.A., Raffa, K.F., Goodman, R.M. and Handels- man, J. (2004) Census of the bacterial community of the gypsy moth larval midgut by using culturing and culture- independent methods. Applied Environmental Microbiology,
+70, 293-300.
+Caporaso, J.G., Kuczynski, J., Stombaugh, J., Bittinger, K., Bushman, F.D., Costello, E.K. et al. (2010) QIIME allows analysis of highthroughput community sequencing data. Na- ture Methods, 7, 335-336.
+Chao, A. (1984) Nonparametric estimation of the number of classes in a population. Scandinavian J Statistics, 11, 265- 270.
+Chakravorty, S., Helb, D., Burday, M., Connell, N. and Alland,
+D. (2007) A detailed analysis of 16S ribosomal RNA gene segments for the diagnosis of pathogenic bacteria. Journal of Microbiological Methods, 69, 330-339.
+Chen, B.S., Teh, B.S., Sun, C., Hu, S.R., Lu, X.M., Boland,
+W. and Shao, Y.Q. (2016) Biodiversity and activity of the gut microbiota across the life history of the insect herbivore Spodoptera littoralis. Scientific Reports, 6, 29505.
+Clarke, K. (1993) Non-parametric multivariate analysis of changes in community structure. Australian Journal of Ecol- ogy, 18, 117-143.
+Coenye, T., Mahenthiralingam, E., Henry, D., Lipuma, J.J., Laevens, S., Gillis, M., Speert, D.P. and Vandamme, P. (2001) Burkholderia ambifaria sp. nov., a novel member of the Burkholderia cepacia complex including biocontrol and cystic fibrosis-related isolates. International Journal of Systematic and Evolutionary Microbiology, 51, 1481-1490.
+Coenye, T. and Vandamme, P. (2003) Diversity and significance of Burkholderia species occupying diverse ecological niches. Environmental Microbiology, 9, 719-729.
+Cuperus, G.W., Noyes, R.T. and Anderson, K. (1990) IPM in wheat and stored grains. Abstracts of the Paper of the Ameri- can Chemical Society, 200, 48-ENVR.
+
+Darriba, D., Taboada, G.L., Doallo, R. and Posada, D. (2012) J ModelTest 2: more models, new heuristics and parallel com- puting. Nature Methods, 9, 772.
+Dillon, R.J. and Dillon, V.M. (2004) The gut bacteria of insects: nonpathogenic interactions. Annual Review of Entomology, 49, 71-92.
+Dixon, P. (2003) VEGAN, a package of R functions for com- munity ecology. Journal of Vegetation Science, 14, 927-930.
+Doyle, J.J. and Doyle, J.L. (1990) Isolation of plant DNA from fresh tissue. Focus, 12, 13-15.
+Douglas, A.E. (2006) Phloem sap feeding by animals: problems and solutions. Journal of Experimental Botany, 57, 747-754. Douglas, A. (2014) The molecular basis of bacterial-insect sym-
+biosis. Journal of Molecular Biology, 426, 3830-3837. Drummond,  A.J.,  Suchard,  M.A.,  Xie,  D.  and  Rambaut, A.
+(2012) Bayesian phylogenetics with BEAUti and the BEAST
+1.7. Molecular Biology and Evolution, 29, 1969-1973.
+Edgar, R.C. (2010) Search and clustering orders of magnitude faster than BLAST. Bioinformatics, 26, 2460-2461.
+Engel, P. and Moran, N.A. (2013) The gut microbiota of insect- diversity in structure and function. FEMS Microbiological Review, 37, 699-735.
+Fasulo,  T.R.  and  Knox,  M.A.  (2009)  University  of   Florida Featured Creatures--Indianmeal moth, Plodia in- terpunctella  Hu"bner.  EDIS  UF/IFAS Extension,  EENY-026 (https://edis.ifas.ufl.edu/pdffiles/IN/IN15300.pdf).
+Guindon, S., Dufayard, J.F., Lefort, V., Anisimova, M., Hordijk,
+W. and Gascuel, O. (2010) New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the per- formance of PhyML 3.0. Systematic Biology, 59, 307-321.
+Ham, J.H., Melanson, R.A. and Rush, M.C. (2011) Burkholde- ria glumae: next major pathogen of rice? Molecular Plant Pathology, 12, 329-339.
+Hamlin, J.C., Reed, W.D. and Phillips, M.E. (1931) Biology of the Indian-meal moth on dried fruits in California. USDA Technical Bulletin, 242, 1-27.
+Hammer, T.J., McMillan, W.O. and Fierer, N. (2014) Metamor- phosis of a butterfly-associated bacterial community. PLoS ONE, 9, e86995.
+Herna'ndez-Flores, L., Llanderal-Ca'zares, C., Guzma'n-Franco,
+A.W. and Aranda-Ocampo, S. (2015) Bacteria present in Co- madia redtenbacheri larvae (Lepidoptera: Cossidae). Journal of Medical Entomology, 5, 1150-1158.
+Huse, S.M., Dethlefsen, L., Huber, J.A., Mark, W.D., Relman,
+D.A. and Sogin, M.L. (2008) Exploring microbial diversity and taxonomy using SSU rRNA hypervariable Tag sequenc- ing. PLoS Genetics, 11, e1000255.
+Itoh, H., Aita, M., Nagayama, A., Meng, X.Y., Kamagata, Y., Navarro, R. et al. (2014) Evidence of environmental and ver- tical transmission of Burkholderia symbionts in the oriental chinch bug, Cavelerius saccharivorus (Heteroptera: Blissi- dae). Applied in Environmental Microbiology, 19, 5974-5983.
+
+
+
+Nation J.L., Sr. (2016) Insect Physiology and Biochemistry, 672 pp. CRC Press, Boca Raton, Florida.
+Kanehisa, M., Goto, S., Sato, Y., Furumichi, M. and Tanabe, M. (2012) KEGG for integration and interpretation of large-scale molecular data sets. Nucleic Acids Research, 40, D109-D114. Katoh, K. and Standley, D.M. (2013) MAFFT multiple sequence alignment software version 7: improvements in performance
+and usability. Molecular Biology Evolution, 30, 772-780.
+Kikuchi, Y., Meng, X.Y. and Fukatsu, T. (2005) Gut symbiotic bacteria of the genus Burkholderia in the broad-headed bugs Riptortus clavatus and Leptocorisa chinensis (Heteroptera: Alydidae). Applied on Environmental Microbiology, 7, 4035-
+4043.
+Kikuchi, Y., Hosokawa, T. and Fukatsu, T. (2007) Insect-microbe mutualism without vertical transmission: a stinkbug acquires a beneficial gut symbiont from the environment every gen- eration. Applied on Environmental Microbiology, 13, 4308- 4316.
+Kikuchi, Y., Hosokawa, T. and Fukatsu, T. (2011) An ancient but promiscuous host-symbiont association between Burkholde- ria gut symbionts and their heteropteran hosts. ISME Journal, 5, 446-460.
+Kikuchi, Y., Hayatsu, M., Hosokawa, T., Nagayama, A., Tago,
+K. and Fukatsu, T. (2012) Symbiont-mediated insecticide re- sistance. Proceedings of the National Academy of Sciences USA, 22, 8618-8622.
+Kim, J.K., Han, S.H., Kim, C.H., Jo, Y.H., Futahashi, R., Kikuchi, Y. et al. (2014)  Molting-associated  suppression of symbiont population and up-regulation of antimicrobial activity in the midgut symbiotic organ of the Riptortus- Burkholderia symbiosis. Developmental & Comparative Im- munology, 1, 10-14.
+Klowden, M.J. (2007a) Physiological System in Insects, 2nd edn, pp. 137-164. University of Idaho Moscow, Idaho, Elsevier. Klowden, M.J. (2007b) Physiological System in Insects, 2nd edn,
+pp. 92-98. University of Idaho Moscow, Idaho, Elsevier.
+Lanave, C., Preparata, G., Saccone, C. and Serio, G. (1984) A new method for calculating evolutionary substitution rates. Journal of Molecular Evolution, 20, 86-93.
+Lane, D.J. (1991) 16S/23S rRNA sequencing. Nucleic Acid Tech- niques in Bacterial Systematics (eds. E. Stackebrandt & M. Goodfellow), pp. 115-175. John Wiley and Sons, New York, NY.
+Langille, M.G., Zaneveld, J., Caporaso, J.G., McDonald, D., Knights, D., Reyes, J.A. et al. (2013) Predictive functional profiling of microbial communities using 16S rRNA marker gene sequences. Nature Biotechnology, 9, 814-821.
+Liang, X., Fu, Y.M., Tong, L. and Liu, H. (2014) Microbial shifts of the silkworm larval gut in response to lettuce leaf feeding. Applied in Microbiological Biotechnology, 98, 3769-3776.
+Lin, X.L., Kang, Z.W., Pan, Q.J. and Liu, T.-X. (2015) Evaluation of five antibiotics on larval gut bacterial diversity of Plutella
+
+xylostella (Lepidoptera: Plutellidae). Insect Science, 22, 619-
+628.
+Lipuma, J.J. (2005) Update on the Burkholderia cepacia com- plex. Current Opinion in Pulmonary Medicine, 11, 528-533. McCutcheon, J.P. and Moran, N.A. (2007) Parallel genomic evo- lution and metabolic interdependence in an ancient symbiosis. Proceedings of the National Academy of Sciences USA, 104,
+19392-19397.
+McFall-Ngai, M., Hadfield, M.G., Bosch, T.C., Carey, H.V., Domazet-Loso, T., Douglas,  A.E.  et  al.  (2013)  Animals in bacterial world, a new imperative for the life sciences. Proceedings of the National Academy of Sciences USA, 110, 3229-3236.
+Michalik, K., Szklarzewicz, T., Kalandyk-Kolodziejczyk, M., Jankowska, W. and Michalik, A. (2016) Bacteria belong- ing to the genus Burkholderia are obligatory symbionts of the eriococcids Acanthococcus aceris (Signoret, 1875) and Gossyparia spuria (Modeer, 1778) (Insecta, Hemiptera, Coc- coidea). Arthropod Structure and Development, 45, 265-272. Montagna, M., Gomez-Zurita, J., Giorgi, A., Epis, S., Lozzia, G. and Bandi, C. (2015a) Metamicrobiomics in herbivore beetles of  the genus Cryptocephalus (Chrysomelidae): toward the understanding of ecological determinants in insect symbiosis.
+Insect Science, 22, 340-352.
+Montagna, M., Chouaia, B., Mazza, G., Prosdocimi, E.M., Crotti, E., Mereghetti, V. et al. (2015b) Effects of the diet on the microbiota of the red palm weevil (Coleoptera: Dryoph- thoridae). PLoS ONE, 10, e0117439.
+Montagna, M., Mereghetti, V., Gargari, G., Guglielmetti, S., Faoro, F., Lozzia, G. et al. (2016) Evidence of a bacterial core in the stored products pest Plodia interpunctella: the influence of different diets. Environmental Microbiology, 18, 4961-4973.
+Muturi, E.J., Kim, C.H., Bara, J., Bach, E.M. and Siddappaji,
+M.H. (2016) Culex pipiens and Culex restuans mosquitoes harbor distinct microbiota dominated by few bacterial taxa. Parasites & Vectors, 13, 9-18.
+Perez-Mendoza, J. and Aguilera-Pen~a, M. (2004) Development, reproduction, and control of the Indian meal moth, Plodia interpunctella  (Hu"bner)  (Lepidoptera:  Pyralidae),  in  stored seed garlic in Mexico. Journal of Stored Products, 40, 409- 421.
+Pielou, E.C. (1975) Ecological Diversity. Wiley & Sons, New York.
+Rees, D. (2004) Insects of Stored Products. CSIRO Publishing, Collingwood.
+Ronquist, F., Teslenko, M., van der Mark, P., Ayres, D.L., Dar- ling,  A.,  Ho"hna,  S.  et  al.  (2012)  MrBayes  3.2:  efficient Bayesian phylogenetic inference and model choice across a large model space. Systematic Biology, 61, 539-542.
+Sacktor, B. and Hurlbut, E.C. (1966) Regulation of metabolism in working muscle in vivo. II. Concentrations of adenine
+
+
+
+nucleotides, arginine phosphate, and inorganic phosphate in insect flight muscle during flight. Journal of Biological Chem- istry, 241, 632-634.
+Segonds, C., Clavel-Batut, P., Thouverez, M., Grenet, D., Le Coustumier, A., Ple'siat, P. and Chabanon, G. (2009) Microbi- ological and epidemiological features of clinical respiratory isolates of Burkholderia gladioli. Journal of Clinical Micro- biology, 47, 1510-1516.
+Shao, Y., Chen, B., Sun, C., Ishida, K., Hertweck, C. and Boland,
+W. (2017) Symbiont-derived antimicrobials contribute to the control of the Lepidopteran gut microbiota. Cellular Chemi- cal Biology, 24, 66-75.
+Shannon, C.E. (1984) A mathematical theory of communication.
+Bell System Technical Journal, 27, 623-656.
+Snyman, M., Gupta, A.K., Bezuidenhout, C.C., Claassens, S. and van den Berg, J. (2016) Gut microbiota of Busseola fusca (Lepidoptera: Noctuidae). World Journal of Microbiological Biotechnology, 32, 115.
+Stampini, M. and Locatelli, D.P. (2007) Considerazioni sulle preferenze alimentari di Idaea inquinata (Lepidoptera Ge- ometridae) per la messa a punto di una dieta artificiale. Pro- ceedings of the XXI Congresso Nazionale di Entomologia, p. 322.
+Sua`rez-Moreno,  Z.R.,  Caballero-Mellado,  J.,  Coutinho,  B.G., Mendoca-Previato, L., James, E.K. and Venturi, V. (2012) Common features of environmental and potentially Beneficial plant-associated Burkholderia. Microbial Ecology, 63, 249.
+Tang, X., Freitak, D., Vogel, H., Ping, L., Shao, Y., Cordero, E.A., Andersen, G. et al. (2012) Complexity and variability of gut commensal microbiota in polyphagous lepidopteran larvae. PLoS ONE, 7, e36978.
+Turner, S., Pryer, K.M., Miao, V.P.W. and Palmer, J.D. (1999) In- vestigating deep phylogenetic relationships among cyanobac- teria and plastids by small subunit rRNA sequence analysis. Journal of Eukaryotic Microbiology, 46, 327-338.
+Vick, K.W., Koehler, P.G. and Neal, J.J. (1986) Incidence of stored-product phycitinae moths in food distribution ware- houses as determined by sex pheromone-baited traps. Journal of Economic Entomology, 79, 936-939.
+Vilanova, C., Baixeras, J., Latorre, A. and Porcar, M. (2016) The generalist inside the specialist: gut bacterial communities of two insect species feeding on toxic plants are dominated by Enterococcus sp. Frontiers in Microbiology, 7, 1005.
+Wang, Y. and Qian, P.Y. (2009) Conservative fragments in bac- terial 16S rRNA genes and primer design for 16S riboso- mal DNA amplicons in metagenomic studies. PLoS ONE, 4, e7401.
+Woods, D.E. and Sokol, P.A. (2005) The genus Burkholderia. The Prokaryotes: An Evolving Electronic Resource for the
+
+Microbiological Community (eds. M. Dworkin, K.H. Schleifer & E. Stackebrandt), 3rd edn., release 3.4. Springer- Verlag, New York, N.Y.
+Xia, X., Zheng, D., Zhong, H., Qin, B., Gurr, G.M., Vasseur,
+L. et al. (2013) DNA sequencing reveals the midgut micro- biota of diamondback moth, Plutella xylostella (L.) and a possible relationship with insecticide resistance. PLoS ONE, 8, e68852.
+Xiang, H., Wei, G.F., Jia, S., Huang, J.,  Miao, X.X., Zhou, Z. et al. (2006) Microbial communities in the larval midgut of laboratory and field populations of cotton bollworm (Heli- coverpa armigera). Canadian Journal of Microbiology, 52, 1085-1092.
+Yabuuchi, E., Kosako, Y., Oyaizu, H., Yano, I., Hotta, H., Hashimoto, Y. et al. (1992) Proposal of Burkholderia gen. nov. and transfer of seven species of the genus Pseudomonas homology group II to the new genus, with the type species Burkholderia cepacia (Pallero**-ni and Holmes 1981) comb. nov. Microbiological Immunology, 36, 1251-1275.
+
+Manuscript received July 7, 2017
+Final version received August 24, 2017
+Accepted September 17, 2017
+
+Supporting Information
+Additional Supporting Information may be found in the online version of this article at the publisher's web-site:
+
+Fig. S1 Rarefaction curves obtained using Shannon Index.
+Fig. S2 Bayesian phylogram based on 16S rRNA gene sequences. Vertical dashes lines indicate the three differ- ent Burkholderia groups. SBE: stinkbug associated bene- ficial and environmental Burkholderia; BCC: Burkholde- ria cepacia complex; PBE: plant-associated beneficial and environmental Burkholderia. On the nodes of the main the lineages the support values, expressed as Bayesian posterior probability, are reported. The scale bar at the bottom indicates the distance in nucleotide substitution per site. The numbers in brackets represent the GeneBank accession number of the 16S rRNA gene sequences or the numbers that identify the de novo OTUs.
+Table S1. Taxonomic composition at phylum level. Table S2. Taxonomic composition at family level. Table S3. Taxonomic composition at genus level.
+Table S4. Predicted functional profiles inferred using bacterial 16S rRNA sequences, table with the abundance of the predicted L3-functions.

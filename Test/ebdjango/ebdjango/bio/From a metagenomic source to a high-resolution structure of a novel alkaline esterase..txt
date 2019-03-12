@@ -1,0 +1,629 @@
+DOI 10.1007/s00253-017-8226-4
+
+
+From a metagenomic source to a high-resolution structure of a novel alkaline esterase
+Mariana Rangel Pereira1,2,3 & Thais Carvalho Maester2,3 &
+Gustavo Fernando Mercaldi 1,4 & Eliana Gertrudes de Macedo Lemos3 &
+Marko Hyvonen5 & Andrea Balan6
+
+
+
+
+Received: 31 July 2016 / Revised: 27 February 2017 / Accepted: 5 March 2017 / Published online: 22 March 2017
+# Springer-Verlag Berlin Heidelberg 2017
+
+
+Abstract Esterases catalyze the cleavage and formation of ester bonds and are members of the diverse family of a/b hydrolase fold. They are useful in industries from different sectors, such as food, detergent, fine chemicals, and biofuel production. In a previous work, 30 positive clones for lipolytic activity were identified from a metagenomic library of a mi- crobial consortium specialized in diesel oil degradation. In this study, a putative gene encoding an esterase/lipase, denominated est8, has been cloned and the corresponding protein expressed recombinantly, purified to homogeneity and characterized functional and structurally. We show that the protein codified by est8 gene, denominated Est8, is an alkaline esterase with high catalytic efficiency against p- nitrophenyl acetate and stable in the presence of up to 10% dimethyl sulfoxide. The three-dimensional structure of Est8 was determined at 1.85-A resolution, allowing the
+
+Electronic supplementary material The online version of this article
+(doi:4) contains supplementary material, which is available to authorized users.
+
+characterization of the substrate-binding pocket and features that rationalize the preference of Est8 for short-chain sub- strates. In an attempt to increase the size of ligand-binding pocket and enzyme activity against distinct substrates of long chain, we mutated two residues (Met213 and Phe217) that block the substrate channel. A small increase in the reaction velocity for p-nitrophenyl butyrate and p-nitrophenyl valerate hydro- lysis was observed. Activity against p-nitrophenyl acetate was reduced. The functional and structural characterization of Est8 is explored in comparison with orthologues.
+
+Keywords Esterase . Metagenomic . Structure . Est8 . p-NP esters
+
+
+Introduction
+
+Lipolytic enzymes are among the most useful biocatalysts with high potential to be employed in various industrial appli-
+
+ 		cations such as production of pure compounds (Lorenz and
+
+* Andrea Balan 
+
+1 National Laboratory of Biosciences (LNBio), Brazilian Center for Research in Energy and Materials (CNPEM), Campinas, Sao Paulo State, Brazil
+2 University of Sao Paulo (USP), Sao Paulo, Sao Paulo State, Brazil
+3 Department of Technology, Sao Paulo State University (UNESP), Jaboticabal, Sao Paulo State, Brazil
+4 Institute of Biology, University of Campinas, Campinas, Sao Paulo State, Brazil
+5 Department of Biochemistry, University of Cambridge, Cambridge, UK
+6 Department of Microbiology, Institute of Biomedical Sciences, University of Sao Paulo, Sao Paulo, Brazil
+
+Eck ; Quax and Brokhuizen ), food processing (Giuliani et al. ; Choi and Lee ), paper (Kontkanen et al. ), and detergent manufacturing (Jaeger and Reetz ). These enzymes are widely distributed in animals, plants, and microorganisms and are classified according to their substrate preference as either esterases (E.C.3.1.1.1) or lipases (E.C.3.1.1.3), both of which catalyze the hydrolysis and synthesis of fatty acid esters (Arpigny and Jaeger ). Esterases and lipases are members of a diverse family of a/b hydrolases (Nardini and Dijkstra ) that have di- verged from a common ancestor preserving the arrangement of the catalytic residues but not the binding site as a whole (Ollis et al. ). Esterases can be differentiated from lipases by the nature of their preferred substrates and interfacial acti- vation, substrate hydrophobicity, enantioselectivity, and
+
+
+
+solvent stability (Bornscheuer ). Bacterial lipolytic enzymes have been traditionally classified into eight families based on their biological properties and conserved sequence motifs (Arpigny and Jaeger ), but new families have re- cently been proposed (Lee et al. ; Kim et al. ; Rao et al. ).
+Several lipolytic enzymes from family IV have been iso- lated from different environments through metagenomic ap- proach (JunGang et al. ; Jeon et al. ; Jin et al. ; Peng et al. ). However, just a few of them have been functionally and structurally characterized (Byun et al. ; Nam et al. ; Ngo et al. ). In a previous publication (Pereira et al. ), we identified the PL17.E10 fosmid clone from a metagenomic library of a microbial consortium spe- cialized for diesel oil degradation (Paixao et al. ), which showed strong lipolytic activity on agar Petri dishes contain- ing tributyrin. The DNA of PL17.E10 was subcloned, se- quenced, and annotated. Four open reading frames (ORFs) were identified encoding putative a/b hydrolases, which may be responsible for the lipolytic activity. In addition, we showed that Est16 is one of these proteins, which belongs to family Vof bacterial lipolytic enzymes, and it is active against a broad range of substrates with short and long acyl chains, mainly p-nitrophenyl butyrate (C4) and p-nitrophenyl valerate (C5) (Pereira et al. ). Similarly, Est3 was isolated from the same metagenomic library, belonging to family IV. It exhibit- ed activity against C4, C5, and C8 (Maester et al. ).
+Following the identification of new enzymes with biotech- nological application potential, this work shows that Est8 is another member of family IV of bacterial lipolytic enzymes sharing structural similarities with the highly thermostable esterase from Pyrobaculum calidifontis (PDB ID 2YH2) (Palm et al. ) but has preferential activity against short-chain substrates. The three-dimensional structure of the protein was solved by crystallography and compared with other esterases in terms of residues from the ligand-binding site, catalytic activity, and characteristics of internal cavity. We discuss key features required for enzyme selectivity and activity.
+
+
+Material and methods
+
+Screening for lipolytic activity
+
+As described in a previous work (Pereira et al. ), a fosmid metagenomic library isolated from a microbial consortium specialized in diesel oil degradation was screened for potential esterases/lipases. Positive clones were selected based on their ability to hydrolyze tributyrin in Luria-Bertani (LB) agar Petri dishes evidenced by the formation of a clear halo around the colony. Positive clones were subcloned and their sequences were analyzed to identify putative esterases.
+
+Sequence analysis of est8 gene
+
+Amino acid sequence of Est8 was used as a query sequence in a BLAST search at the National Center for Biotechnology Information (NCBI, Bethesda, Maryland, USA) for identifi- cation of orthologous proteins. Representative sequences be- longing to eight families of bacterial lipolytic enzymes, as proposed by Arpigny and Jaeger (), and also proteins for which three-dimensional structures were available in the Protein Data Bank (PDB) were selected from the results of the BLAST search. A multiple sequence alignment was construct- ed in ClustalW algorithm (Thompson et al. ) in the BioEdit Sequence Alignment Program (version 7.0.5.3) using pairwise alignment with gap opening 35.00 and extension
+0.75 and multiple alignments with gap opening 15.00 and extension 0.30. The alignment file was submitted to Mr. Bayes 3.2 (Ronquist et al. ) and MEGA 6.0 (Tamura et al. ) to estimate a suitable evolutionary model for phy- logenetic tree construction. The tree was constructed using maximum likelihood method with a bootstrap of 1000 repli- cates and the Whelan and Goldman (WAG) matrix of amino acid substitution. Information of all sequences used in the alignment and phylogenetic tree are shown in Table S1 (Supplementary Information).
+
+DNA amplification and plasmid construction
+
+A DNA fragment of 936 base pairs containing the est8 gene (GenBank accession no. KP699699) corresponding to entire 311 amino acid coding region was amplified by PCR from the positive clone Pl17.E10. The forward (5' CGCGGAAT
+ TCACA ATG GCACTCG ATC 3 ' ) and reverse ( 5 ' CGGG AAGCTTCCTCACGCCAGCGCC 3') oligonucleo- tides were used for the fragment amplification and insertion of the EcoRI and HindIII restriction enzymes sites (underlined), respectively, in the start and final of the gene. The PCR product was directly cloned into pET28a plasmid (Novagen, Gibbstown, NJ, USA) to generate the pET28a-est8 vector. The expressed protein from this construct presented a N-terminal His-tagged for further purification, confirmed by DNA sequencing analysis. In order to open the substrate chan- nel in Est8, we also amplified est8 gene containing two point mutations in the Met213 and Phe217, which were replaced by Val and Gly, respectively. The mutagenesis was performed using two overlapping oligonucleotides (5' GACGGCGT GATCTGGTTCGGCGATC  3'  and  5' GATCGCCG
+AACCAGATCACGCCGTC 3') that introduced the muta- tions in two steps of PCR reaction. Terminal oligonucleotides for final amplification ( 5' TATAT CCATGGCACT CGATCCGCAGGCAAAAG 3' and 5' TATATAAG
+ CTTACGCCAGCGCCTCTTTCAGCGCCTTC  3')  intro-
+duced restriction sites for NcoI and HindIII, respectively (underlined). The mutated sequence was cloned into pHAT2
+
+
+
+vector (Peranen et al. ), producing pHAT2-est8mf plas- mid. The mutated protein is called Est8MF.
+
+Protein expression, extraction, and purification
+
+The recombinant plasmids were transformed into chemically competent Escherichia coli BL21(DE3) cells for overexpres- sion. The transformed cells were grown in LB media contain- ing kanamycin (50 mg mL-1) or ampicillin (100 mg mL-1) and agitated at 200 rpm at 37 degC until OD600 reached 0.5-0.6. Expressions of Est8 and Est8MF proteins were induced with
+0.4 mM isopropyl b-D-1-thiogalactopyranoside (IPTG) from
+E. coli BL21 (DE3) cells, respectively, carrying pET28a-est8 and pHAT2-est8mf vectors, and grown for further 18 h at 20 degC. After this, the cultures were centrifuged at 8000g for 10 min at 4 degC. The cells were resuspended in 30 mL of   50 mM Tris-HCl pH 8.0 and lysed with Emulsiflex C5 ho- mogenizer (Avestin Inc., Canada). The cell lysates were ad- justed to 500 mM NaCl, 10 mM imidazole, 10 mM (v/v) b-mercaptoethanol, and 10% (v/v) glycerol and centrifuged at 17,000g for 45 min at 4 degC to pellet the cell debris. The soluble fractions of the cell lysates were purified using immobilized metal ion chromatography with Ni-NTA resin. An imidazole gradient using the buffer 50 mM Tris-HCl pH 8.0, 500 mM NaCl, and 10% (v/v) glycerol was performed. Bound proteins were eluted in the same buffer containing 200 mM imidazole. Peak fractions were pooled, concentrated, and further purified using size exclusion chromatography (SEC) in a Superdex 200 HiLoad 16/60 column (GE Healthcare Bio-Sciences, Uppsala, Sweden) at room temper- ature in 20 mM Tris-HCl pH 8.0, 200 mM NaCl, and 5% (v/v) glycerol. The purified fractions of Est8 and Est8MF were analyzed by SDS-PAGE under denaturing conditions, concen- trated, and stored at -80 degC.
+
+Circular dichroism and spectroscopic analysis
+
+To evaluate the stability of Est8 and Est8MF in different pH, we monitored the secondary structure content and the trypto- phan environment using circular dichroism (CD) and intrinsic tryptophan fluorescence. Far-UV CD spectra were recorded on a Jasco-810 spectropolarimeter using a PFD 425S Peltier system for temperature control. Both Est8 and Est8MF pro- teins were prepared at the final concentration of 5.5 mmol in two different buffers, which are 5 mM sodium phosphate pH
+7.0 and 5 mM N-cyclohexyl-2-aminoethanesulfonic (CHES) pH 9.0. For Est8MF, a CD spectrum was obtained in presence of 11 mmol of substrates p-nitrophenyl acetate (C2) or p- nitrophenyl butyrate (C4). All measurements were acquired at 10 degC using a 1-mm path length cell at 0.5-nm intervals over the wavelength range from 195 to 260 nm. The ellipticity was reported as the mean residual ellipticity [th]MR (deg cm2 dmol-1). Samples were also subjected to thermal
+
+unfolding from 20 to 110 degC with spectra collected at 1 degC intervals. The loss of secondary structure was examined by measuring the ellipticity at 222 nm. The Tm represents the temperature at the midpoint of the unfolding transition. All data collected were corrected for the buffer baseline contribution.
+The fluorescence experiment of Est8 was performed at room temperature in K2 multifrequency cross-correlation phase and modulation fluorometer (ISS Inc., Champaign, IL, USA). Of the Est8, 1 mM was diluted in 5 mM Tris-HCl buffered at pH 7.0, 8.0, and 9.0. Assays using tributyrin as substrate were based on the stoichiometry of 1:2 (protein:ligand), and samples were incubated for 30 min at room temperature before measurements. Tryptophan fluores- cence was measured with an excitation wavelength of 295 nm, and the emission spectra were recorded between 300 and 400 nm.
+
+Enzymatic characterization of Est8
+
+The enzymatic activity of purified Est8 was tested at different pHs (7.0, 8.0, and 9.0) on tributyrin-agar Petri dishes contain- ing 0.23% (w/v) Tris, 1.2% (w/v) agar, and 1% (v/v) tributyrin. Est8 was prepared at a concentration of 50 mg mL-1 and  20 mL was added to each dish. The material was incubated at 37 degC for 1 day to verify the substrate hydrolysis and halo formation.
+Kinetic parameters of Est8 activity were obtained by mea- suring the formation of p-nitrophenol after para-nitrophenol (p-NP) acyl ester hydrolysis. The reactions were measured against an enzyme-free sample that was used to subtract auto-hydrolysis, and the released p-nitrophenol was spectro- photometrically quantified at 405 nm using a 2104 Envision Multilabel Reader (PerkinElmer, Waltham, MA, USA). Absorbance readings were converted to p-NP concentration us ing m ol ar a b s o rp tion co effici ent o f ep-NP = 17,000 M-1 cm-1. All assays were measured in tripli- cates in 96-well plates with a final volume of 100 mL, using JANUS Varispan automated liquid handler for plate prepara- tion (PerkinElmer). Unless otherwise indicated, the reactions were developed at 25 degC using 1 nM of the enzyme, 1 mM of substrates in 50 mM Tris-HCl pH 8.0, and with 0.3% (v/v) Triton X-100. The enzyme activity was tested against different p-NP acyl esters [acetate (C2), butyrate (C4), and valerate (C5); Sigma, San Louis, MO, USA]. The optimum temperature for Est8 activity was evaluated with p-NP acetate, and the mea- surements were performed in EnSpire Plate Reader (PerkinElmer), configured to make a temperature ramp from 25 to 55 degC. The pH optimum of Est8 was investigated using different buffering agents to establish a pH range from 5 to 10 (sodium citrate pH 5.0 and 6.0; Tris-HCl pH 7.0, 8.0, and 9.0; and CHES pH 10.0). These reactions were performed with p-NP acetate as substrate.
+
+
+
+Est8 activity was tested in the presence of salts, metal ions, detergents, and solvents against p-NP acetate. The influence of metals (Zn2+, Ni2+, Mn2+, Mg2+, K+, Co2+, and Ca2+) was measured in the presence of 0.5 mM of each reagent and in the absence of them as a control. Est8's tolerance towards deter- gents and solvents was tested in the presence of Tween 20 or Triton X-100 [0.3125 to 5% (v/v)], dimethylformamide (DMF), or dimethyl sulfoxide (DMSO) [2.5 to 10% (v/v)]. Control samples were prepared in the same conditions without detergents and solvents. The kinetic parameters were per- formed using 1 nM of Est8 and p-NP acyl esters at concentra- tion varying from 0.078 to 1 mM at 25 degC. The catalytic rate constant (Kcat) was calculated from the initial steady-state ve- locity according to the equation Kcat = Vmax/[E]. The data from functional characterization of Est8 was analyzed using the R software. ANOVA and Tukey's test at 5% probability were used to make comparisons among the different conditions evaluated.
+
+Est8 crystallization
+
+Initial crystallization trials were performed in 96-well plates with 100 and 200 nL drop sizes using the following commer- cial kits: Crystal Screen and SaltRx (Hampton Research, Aliso Viejo, USA), JCSG suite and PACT suite (Qiagen, Hilden, Germany), and Precipitant synergy and Wizard I and II (Emerald BioSystems, Bainbridge Island, WA, USA). First crystals were obtained in 2% (v/v) polyethylene glycol (PEG) 8000 and 0.8 M triammonium citrate pH 8.5; this con- dition was refined by varying salt, protein concentrations, and pH. Optimization plates were prepared manually through vapor-diffusion technique using 1:1- and 1:0.5-mL ratios of protein and mother liquor and incubated at 18 degC. Crystals were cryo-protected with 20% (v/v) glycerol in mother liquor and cryo-cooled in liquid N2.
+
+Data collection, processing, and structure refinement
+
+Diffraction data from cryo-cooled crystals were collected at the beamline I02 from Diamond Light Source, Oxfordshire, UK, using a Pilatus 6M detector. Datasets of Est8 were indexed and integrated using XDS (Kabsch ). The structure was solved by molecular replacement using Phaser program in CCP4 package (Winn et al. ) with Alicyclobacillus acidocaldarius carboxylesterase as a tem- plate model (PDB ID 1EVQ), which shares 43% of amino acid sequence identity with Est8. The structure was refined using REFMAC5 (Murshudov et al. ) and phenix. Refine programs and model were corrected manually using COOT (Emsley and Cowtan ). Analyses of the structures and figures were made with PyMOL (Delano ). All sta- tistics from data collection and refinement are shown in Table S2 (Supplementary Information).
+
+Data bank accession codes
+
+The DNA sequence of est8 gene was deposited at NCBI under the accession number KP699699, and the coordinates and structure factors of Est8 were deposited in the PDB under accession code 4YPV.
+
+
+Results
+
+Est8 is a family IV member of esterases and lipases
+
+We screened our metagenomic library for esterases using col- ony assay on tributyrin containing agar plates. From the 30 clones that showed lipolytic activity, PL17.E10 clone was selected for sublibrary construction (Pereira et al. ). The gene annotation was carried out, and ORF8, which consists of 936 bp (311 amino acids), was selected for further analysis among 25 ORFs. Its deduced amino acid sequence was sub- mitted to BLASTp analysis at the NCBI, using the non-redundant protein sequence (nr) database, and showed 72% identity with an a/b hydrolase protein from Parvibaculum lavamentivorans (GenBank accession no. WP012110575.1) and 65% identity with a carbohydrate ester- ase from Phaeomarinobacter ectocarpi (GenBank accession no. CDO59205.1). Moreover, against the metagenomic pro- tein (env_nr) database, Est8 showed 52% identity with hypo- thetical proteins from marine (GenBank accession no. EDJ20548.1) and freshwater metagenome (GenBank acces- sion no. KGA15039.1), respectively.
+To establish the phylogenetic relationships of Est8 within eight families of bacterial lipolytic enzymes as proposed by Arpigny and Jaeger () and with esterases/lipases with known structure, a phylogenetic tree was built from selected sequences (Fig. ). The result evidenced that Est8 belongs to the same branch as two previously described members from family IV, which are Cupriavidus necator (GenBank acces- sion no. AAC41424.1) and Pseudomonas sp. (GenBank ac- cession no. AAC38151.1). The structurally defined member of this family is P. calidifontis esterase (PDB ID 2YH2) (Palm et al. ), an enzyme that converts esters in acids and alco- hols and showed high structural conservation with Est8 three-dimensional structure as evidenced by the lowest values of root-mean-square deviation (Fig. ). Structural superposi- tion between Est8 and other representative members from each family also evidenced close structural relationship with families V and VI. As shown in the multiple sequence align- ment (Fig. ), all the proteins shared conserved sequence motifs characteristic of family IV, also known as hormone-sensitive lipase (HSL) family, confirming the phylo- genetic tree results. The conserved residues from the catalytic triad Ser159-Asp253-His283 were identified, which nucleophile Ser is positioned in the consensus pentapeptide motif
+
+
+
+GDSAG. Th e s trictly conserved HGGG motif (H85-G86-G87-G88) is located upstream of Est8 active site (Fig. , in green).
+
+
+Kinetic characterization of Est8
+
+Recombinant Est8 protein was expressed with the expected molecular mass of 37 kDa as calculated from its amino acid sequence and purified in two steps using a combination of Ni-NTA affinity and size exclusion chromatographies (Fig. S1-a, b, respectively, Supplementary Information). The pure Est8 protein was recovered from second peak of the size exclusion chromatography with a final yield of 110 mg mL-1 per liter of induced culture. The protein remained stable even at high concentrations (10-20 mg mL-1) and during prolonged storage at 4 degC.
+Purified Est8 was submitted to circular dichroism analysis in neutral (pH 7.0) and basic (pH 9.0) conditions. The CD spectra obtained showed a typical mixed a/b spectrum with minima at 208 and 222 nm, as expected for esterases/lipases (Nardini and Dijkstra ). Moreover, the spectra revealed that the pH tested did not alter the secondary structure (Fig. S1-c, Supplementary Information) or the denaturing temperature (Fig. S1-d, Supplementary Information) of Est8. Thermal denaturation of Est8 using CD showed a Tm of 55 degC (+-1 degC).
+Enzymatic analysis of Est8 showed that the enzyme was able to hydrolyze a very restricted range of substrates as p-NP acetate (C2), p-NP butyrate (C4), and p-NP valerate (C5) (Fig. ), which is in accordance with its denomination as an esterase (Jaeger et al. ). Est8 revealed the highest efficien- cy catalytic against C2 when compared with other esterases described in literature, as AFEST (Chahinian et al. ), EstFa_R (Ohara et al. ), and E40 (Li et al. ) (Table ); furthermore, there is a greater catalytic efficiency for all substrates when compared to RmEstA esterase (Liu et al. ). Reactions against substrates with acyl esters with long-chain length [p-NP decanoate (C10) to p-NP palmitate (C16)] were performed but no activity was detected.
+Based on the results of the analysis of substrate spec- ificity, p-NP acetate was chosen for all the further anal- yses. Est8 is a mesophilic enzyme that presented opti- mum activity at 30 degC, but showed relative activity above 43% in temperatures up to 55 degC (Fig. ), in accordance with its Tm of 55 degC evidenced in the CD analysis (Fig. S1-d, Supplementary Information). Est8 showed the maximum activity at pH 9.0 (Fig. ) and showed significant quenching of tryptophan fluorescence in presence of tributyrin as shown in Fig. , e. At pH   9.0, besides the quenching, a displacement of the max- imum peak of the spectrum to 320 nm  is  observed.  These data are in accordance with the results presented
+
+for Est8 in Petri dishes plates that  evidenced activity of  the protein in basic pH (Fig. ).
+In the presence of metal ions, the activity of Est8 showed no significant difference compared to the control, except for Zn2+, Ni2+, and Co2+ that reduced the activity to 3.9, 73.9, and 74.9, respectively (Fig. ). In the presence of increased con- centrations of DMSO, the enzyme activity was similar to the one found in the control (up to 10% of this solvent) and still showed 65% of relative activity in the presence of 10% DMF (Fig. ).
+In presence of detergents (Triton X-100, NP-40, and Tween 20), the enzyme activity is gradually reduced down to 27% of basal activity at the highest (5%) tested detergent concentra- tion (Fig. ).
+
+Crystallization and structure determination
+
+Est8 crystal growth occurred until 6 days leading to bi-pyramidal crystals with dimensions ranging from
+100 to 500 mm. Crystals were obtained in different crystallization conditions containing different polyethyl- ene  glycols  and   either   2-(N-morpholino)ethanesulfonic a c i d	( M E S )	o r	4 - ( 2 - h y d r o x y e t h y l ) piperazine-1-ethanesulfonic acid (HEPES) buffers in pH 6.5-7.5. Refinement of all crystallization conditions lead   to crystals grown in 1% (v/v) PEG 8000, 1.4 M triammonium citrate pH 9.0  using  17.8  mg  mL-1  of pure protein, which diffracted at maximum of 1.85-A resolution at Diamond Light Source. The data collected from Est8 crystals showed the symmetry and systematic absences of the primitive hexagonal space group  P3121. The Matthews coefficient was 3.35 A3/Da, and the  sol- vent content 63.4% correspond to estimated one Est8 molecule in the asymmetric unit. The structure was solve d using m o l e c ular rep l acemen t u sing 
+A. acidocaldarius carboxylesterase (43% sequence iden- tity) as a search model. The structure was refined and manually corrected resulting in a model with good ste- reochemistry and refinement statistics. Table S2 (Supplementary Information) summarizes the data col- lection and refinement statistics.
+The refined structure of Est8 displays the conserved structure of esterases from  the  HSL  family  that  shows an ellipsoidal shape  defined  by  an  a/b  hydrolase  fold, in which two domains can be identified, which are a globular catalytic domain and a helical cap domain that covers the entrance to the active site (Fig. , green/  orange and pale yellow, respectively). The catalytic do- main has a mixed b-sheet composed of eight b-strands (only strand b2 is antiparallel) surrounded by the fol- lowing ten helices: Pro5-Ala16, Ile22-Asp24, Val27-Leu41, Thr 96 -Ala 108 , A 1 a 12 7 -I le 14 6 , A l a 16 0 -Ala 175 ,
+Ala197-Asn202,  Arg210-Tyr220,  Leu255-Ala269,  and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Asp293-Leu310. The cap domain that in orthologues con- trols the substrate entry and access to the active binding pocket is composed of Pro5-Pro26  and  Arg210-Leu221 (Fig. , pale yellow). The superpositioning of the three-dimensional  structures  of  Est8  and the 
+P.   calidifontis  esterase  revealed  a   high  conserved
+
+a/b-fold (root-mean-square deviation (rmsd) of 0.6 A) (Fig. ) and identical positioning of the catalytic triad residues (Fig. , cyan stick).
+The catalytic nucleophile Ser159 is positioned between b5 and a6, in the consensus pentapeptide motif GDSAG (Fig. , yellow cartoon), while the other two
+
+
+Fig. 1 Phylogenetic analysis of Est8 and sequence comparison with orthologues. a Phylogenetic tree of Est8. Representative members of
+eight bacterial lipolytic families and representative structurally characterized members for each class are shown. Accession numbers at NCBI database (for sequences) or PDB (for structures) are shown in parenthesis after the enzyme name. Multiple sequence alignment was performed with ClustalW and used as input for building the phylogenetic tree in MEGA 6.0 program based on the maximum likelihood method with a bootstrap of 1000 replicates. The estimated value of the shape parameter for the discrete gamma distribution was 11.9665. Substitution pattern and rates were estimated under the WAG model (+G + F) with two categories. Scale bar number of amino acids substitutions per site. b Structural differences between Est8 and members of each family shown by the rmsd. values obtained after the structural superposition. Est8 and one PDB member identified in the tree are, respectively, shown in gray and cyan cartoon. Members of family IV and V show the highest structural similarity with Est8. c Amino acid sequence alignment of Est8, Cupriavidus necator lipase (accession number AAC41424.1) and Pyrobaculum calidifontis esterase (PDB ID 2YH2), proteins classified in branch of family IV and their functional motifs. Amino acids that belong to the catalytic triad are indicated by arrow (black inverted triangle), and characteristic motifs from family IV are colored. All the sequences used in this figure are described in Table S1 (Supplementary Information)
+
+
+residues (Asp253 and His283) are  found  between  b7  and a9 and between b8 and a10,  respectively  (Fig.  , cyan stick). The three amino acids in the catalytic triad    are in close proximity with the residues that are  in- volved in the formation of oxyanion hole during  catal- ysis such as the strictly conserved HGGG  motif (Fig. , green sticks) (Wei et al.  ).  Other  motifs  that are involved in catalytic mechanism in members of family IV esterases, such as 157GXSXGGNL164 (yellow cartoon) and  253DPXXD257  (blue  cartoon),  are  evident  in the structure.
+Interestingly, although Est8 and P. calidifontis  ester- ase belong to the same family and conserve exactly the same three-dimensiona l s tructure, when t he ligand-binding pockets are compared, we observed quite different channels (Fig. , shown in colored surface). In fact, a BLASTp using Est8 sequence versus  the PDB returned five other esterases/lipases  that  share the same fold with slight differences but show different catalytic activities (Table ). The  three  enzymes  that only accept two carbon substrates [Est8, Pseudomonas putida ECU1011 esterase (4OB8), and heroin esterase (1LZL)] do not have extended  channel  as  observed  in  the other enzymes that are capable of cleaving larger substrates (Fig. ). These differences are likely to be important for the selectivity towards particular sub- strates. In the comparison with many of the other relat-     ed esterases, Est8 has a relative small active site cavity, lacking the extended substrate channel, in line with the higher activity it demonstrates against p-NP acetate (C2). This is similar to other esterases that prefer sub- strates with short acyl chain, as shown in Fig. , d. In
+
+
+contrast, enzymes that have larger channels show signif- icant activity also for substrates with longer acyl chains, such as p-NP butyrate (C4), p-NP hexanoate (C6),  and p-NP octanoate (C8) (Fig. ).
+
+Comparison of Est8 with Est3 and Est16
+
+The amino acid sequence identity shared by the  en- zymes with Est8 is 80 and 13%,  respectively,  for  Est3 and Est16 (Fig. ). Structurally, the proteins show sig- nificant differences in the number  and  organization  of  the helices from the cap  domains  as  evidenced  in Fig.  (gray cartoon). Interestingly,  even  belonging  to the same family and sharing 80% of amino acid  se-  quence identity, we can observe that the channel for entrance and fitting of the substrate in Est3 and Est8 proteins are quite different. Est8  has  a  small  cavity, Est3 a long channel, and Est16 shows a long cavity that    is also more exposed (Fig. ). These structural features lead to the differences observed in the  kinetic  parame- ters that revealed a higher efficiency of Est8  against  short chains, especially against C2, while the two other enzymes cannot hydrolyze these substrates. On the other hand, the reduced cavity shown in Est8 must be one of   the reasons for its absence of activity  against  C8  (Fig. ).
+
+The opening of the channel for substrate in Est8 is not enough to increase the catalytic parameters of the enzyme
+
+Comparing Est8 active site cavity with structures of enzymes with open substrate-binding channel, we ob- served that the residues Met213 and  Phe217  appear  to  block the channel, restricting the enzyme to accept only short-chain substrates. To verify if the opening of the channel would induce differences in the activity of the enzyme, we generated the mutations Met213Gly and Phe217Val (Est8MF). As we were  unable  to  determine  the structure of the mutant protein, to predict the effect     of the mutations on the channel, we built a model of Est8MF based on the Est8 wild-type structure. As ex- pected, the mutations are predicted to result in the open- ing  of  the  channel  (Fig.  ).  After  induction  of
+E. coli BL21 (DE3) cells carrying the vector pHAT2-est8mf and  purification  of  the  mutant  protein,  as described in the B^  section, the kinetics of Est8MF was performed. The mutations induced an increasing of fourfold and twofold in the activity of enzyme against the substrates p-NP butyrate (C4) and p-NP valerate (C5) (Fig. ), respectively, but drastically reduced the activity against p-NP acetate (C2)  as well (Table ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2 Enzymatic characterization of Est8. a Substrate specificity of Est8 against p-nitrophenyl acetate (C2), p-nitrophenyl butyrate (C4), and p- nitrophenyl valerate (C5). b The effect of temperature in the enzymatic activity using p-nitrophenyl acetate as a substrate with measures taken at every 5 degC from 25 to 55 degC. c The effect of pH on the enzymatic activity, measured on pH ranging from 5.0 to 10.0. d Tryptophan fluorescence spectrum of Est8 at pH 7.0 (black line) and 9.0 (gray line) in the absence of tributyrin. e Tryptophan fluorescence spectrum of Est8 at pH 7.0 (black line) and 9.0 (gray line) in the presence of tributyrin. f Agar containing 1% (v/v) tributyrin onto which 1 mM of Est8 has been spotted. The
+
+experiment was performed at room temperature, and a clear halo indicated esterase activity. g Influence of ions on Est8 activity. Control samples were prepared with no additives. h Influence of solvents. Black and dark gray bars correspond to DMSO and DMF, respectively. i Influence of detergents in the enzyme activity. Triton X-100 (black bar), NP-40 (dark gray bar), and Tween 20 (gray bar). All data are mean values of three independent measures, and the standard deviations are indicated by error bars. In the graphics (a-c and g-i), the small letters indicate the significant difference between each condition performed in the experi- ment, according to ANOVA and Tukey's test at 5% probability
+
+
+
+
+Table 1	Kinetic parameters of Est8 and Est8MF and comparison with other esterases/lipases described in the literature
+
+Protein	Description	Source	Substrate	Kcat (s-1)	Km (mM)	Kcat/Km
+(s-1 mM-1)
+
+
+
+PDB
+code
+
+
+
+Reference
+
+
+Est8	Esterase	Metagenomic	p-NP acetate (C2)  1,484 +- 52.6  0.224 +- 0.02	6,619.1	4YPV	This work
+
+p-NP butyrate (C4)
+p-NP valerate (C5)
+
+23.72 +- 1.1	0.056 +- 0.01	425.03
+
+13.67 +- 0.52   0.245 +- 0.03	55.76
+
+Est8MF   Esterase	Metagenomic	p-NP acetate (C2)  11.38 +- 1.68   0.125 +- 0.06	91.14	-	This work
+
+
+
+
+PestE	Esterase	Pyrobaculum calidifontis
+
+p-NP butyrate (C4)
+p-NP valerate (C5)
+p-NP propionate (C3)
+p-NP butyrate (C4)
+p-NP valerate (C5)
+p-NP caproate (C6)
+p-NP caprylate (C8)
+
+65.65 +- 2.27   0.745 +- 0.06	88.07
+
+25.27 +- 4.32   0.78 +- 0.25	32.39
+
+1,480 +- 110	0.348 +- 0.08	4,252.9	2YH2	Hotta et al.
+()
+1,690 +- 20	0.164 +- 0.007	10,305
+
+2,070 +- 80	0.071 +- 0.01	29,155
+
+2,620 +- 90	0.044 +- 0.006	59,009
+
+1,600 +- 270    0.051 +- 0.026	31,373
+
+HerE	Acetyl esterase	Rhodococcus sp.	6-acetylmorphine   12.6 +- 0.6	0.5 +- 0.06	25.2	1LZL	Zhu et al. ()
+phenyl acetate	3.0 +- 0.05	7 x 10-5 +- 8 x 10-6 42,857
+EstE1	Esterase	Metagenomic	Butyrate (C4)	2,950	2.3	1,280	2C7B	Rhee et al.
+Valerate (C5)	1,300	0.6	2,170	()
+
+
+(C4)
+p-NP caproate (C6)
+
+
+11 +- 1	0.13 +- 0.04	79.5
+
+RmEstA  Esterase	Rhizomucor	p-NP acetate (C2)  0.37	1	0.37	4WY5 Liu et al. ()
+
+miehei
+
+p-NP butyrate (C4)
+p-NP hexanoate (C6)
+p-NP caprylate (C8)
+p-NP decanoate (C10)
+p-NP laurate (C12)
+
+1.17	0.17	6.90
+
+1.08	0.12	8.97
+
+0.42	0.82	0.51
+
+0.04	0.28	0.13
+
+0.02	3	0.06
+
+RmEstB  Esterase	Rhizomucor	p-NP acetate (C2)  0.195	1.6	0.122	4WY8 Yang et al.
+
+miehei
+
+p-NP butyrate (C4)
+p-NP hexanoate (C6)
+p-NP caprylate (C8)
+
+0.086	1.1	0.078
+
+0.031	5.6	0.005
+
+0.019 0.004    4.7 6.5	0.004 0.0007
+
+()
+
+E40	Esterase	Metagenomic	p-NP butyrate
+(C4)
+
+247	0.24	1,000	4XVC Li et al. ()
+
+
+C2 p-NP-acetate, C3 p-NP-propionate, C4 p-NP-butyrate, C5 p-NP-valerate, C6 p-NP-caproate, C8 p-NP-caprylate, C10 p-NP-decanoate, C12 p-NP- laurate, 6-ACPA acetyl morphine phenyl acetate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3 Three-dimensional structure of Est8. a Cartoon representation of Est8 three-dimensional structure showing the cap domain (above the line) and catalytic domain (below the line). The catalytic domain consists of a b-sheet (orange) with eight b-strands surrounded by helices (cyan) forming a structure that sustains the active site. b Structural superposition of Est8 (cyan) and Pyrobaculum calidifontis esterase (PDB ID 2YH2; gray). The most significant difference in the cap domain is highlighted
+
+with a dotted rectangle. This structural feature is related to the accessibil- ity to the active site and the volume of the enzyme pocket. The rmsd between both proteins is shown. c Overall positioning of the catalytic triad inside Est8 and detail of the superimposition of enzyme with the
+P. calidifontis esterase (residues shown in cyan stick). In Est8, the resi- dues from the HGGG motif are shown in yellow, and those from catalytic triad are shown in pink stick
+
+
+
+CD analyses revealed that Est8MF folding was not affected when compared to the wild type with slight differences in the helix content, as observed in the region 195 to 210 nm from the spectra (Fig. ). Similarly, the presence of substrates p-NP acetate (C2) or p-NP butyrate (C4) did not induce any difference in the folding of the mutant protein (Fig. ) but there is an increase of the Tm up to 4 degC, suggesting that the substrates help the protein stability (Fig. ).
+
+Discussion
+
+In this work, we showed the functional and structural characterization of Est8, a novel esterase isolated from oil-contaminated soil through metagenomic approach, in comparison with other orthologues previously character- ized. The enzyme is a new member of family IV of bacterial lipolytic enzymes that showed stability in the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4 Comparison of the substrate channel in different esterases/lipases that share similar fold with Est8. The figures show a cut-through of the structures with the gray surfaces show solid parts of the protein. On the other hand, the colored molecular surface lines show the active site cav- ities of the proteins. The enzymes are a Est8, b Pyrobaculum calidifontis
+
+
+esterase (PDB ID 2YH2), c Pseudomonas putida ECU1011 esterase (PDB ID 4OB8), d heroin esterase (PDB ID 1LZL), e ESTE1 carboxylesterase (PDB ID 2C7B), and f Archaeoglobus fulgidus carboxylesterase (PDB ID 1JJI). The best substrates for each enzyme are shown in parenthesis under the figures
+
+
+
+presence of up to 10% (v/v) DMSO, optimum catalytic activity at 30 degC, highest efficiency catalytic against  p-NP acetate, and melting temperature around 50 degC. Despite the structural conservation in  members  of  fam- ily IV, we showed that the cap domain region in these proteins could be variable defining the cavity for
+
+substrate, the substrate range, and  kinetic  parameters.  This observation is evidenced mainly when we com-  pared structures belonging to the same  family  as  Est8  and Est3 (Figs.  and ). Even sharing 80% of identity,   the differences in cap domain and cavity for substrate affect the pH range for activity (lower in Est3, pH 6 to
+
+
+Fig. 5 Comparison among the enzymes Est8, Est3, and Est16. a Crystallographic structure of Est8 and the molecular models of Est3 and Est16 are shown in cartoon. The small domain or cap domain in HSL enzymes is shown in gray. Beta-sheet from the catalytic domains are shown in orange.
+The amino acid sequence identity is shown based on the Est8 protein. The models of Est16 and Est3 were built according to Pereira and collaborators (2015) and Maester and collaborators (2016), respectively. b Internal cavities or channels for substrate interaction showed in surface mode for the crystallographic structure of Est8 and molecular models of Est3 and Est16. The internal pockets are evidenced in black. All the structures are positioned in the same way with lateral view, cap domain in the up side and N terminal end on the right. c Comparison of the catalytic parameters of the enzymes against different substrates
+
+
+
+
+
+
+
+
+8), substrates, and response to organic solvents and de- tergents (Maester et al. ). The small cavity evi- denced by Est8 structure and the location of the nucle- ophile Ser159 in this cavity explain its selected high activity against C2 shown in the kinetic analyses. In comparison with the Rhizomucor miehei esterase EstB  (Rm EstB) (Yang et al. ), an enzyme that also showed high activity against C2, Est8 is still more ef- fective (Table ). Similarly, both enzymes have small cavities constricted by the presence of aromatic residues that restrict carbon chain of long lengths, such as Met213 and  Phe217  in  Est8  and  Trp92  and  Phe222  in Rm EstB (Yang et al. ). In Est8, when mutations Met213Gly and Phe217Val  were  performed,  changes  in  the previous steric hindrance  led  to  an  increasing  of the relative activity against C4 and C5 as expected. However, the changes induced a dramatic effect in the activity against C2, suggesting that the constricted acyl-binding site is important for  the  activity  against this substrate.
+Another important characteristic that might be interest- ing for industrial applications is the broad temperature
+
+range. Est8 was isolated from soils where the temperature usually gets more than 30 degC and showed relative activity of 40% for all temperatures up to 50 degC. Its mild thermal stability might be attributed to the fact that Est8 is a mo- nomeric protein and does not present interactions between ion pairs in the catalytic domain, as pointed to be one of  the essential factors for the stability in the monomeric enzyme Est2 from A. acidocaldarius (Manco et al. ). In hyperthermophilic enzymes, EstE1 from thermal environment (Byun et al. ), PestE from P. calidifonti (Mandrich et al. ), and Sto-Est from Sulfolobus tokodaii (Angkawidjaja et al. ) oligomerization is pointed as an important factor for stability due the in- creasing in the number of hydrogen bonds and hydropho- bic interactions between the monomers. CD analyses re- vealed that there are no differences in the secondary struc- ture content in different pH but there is a slight increase in the Tm at pH 9.0, the same pH where the protein suffered    a pronounced quenching of tryptophans after addition of trybutyrin. This result suggests that in presence of the substrate, the protein could assume a more stable structure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 6 Protein modeling and functional characteristics of Est8MF. a Est8 active site showing the residues Met213 and Phe217 that block the substrate channel. b Model of the opened channel in Est8MF. c Enzymatic activity of Est8MF compared to the wild type in presence of p-nitrophenyl acetate (C2), p-nitrophenyl butyrate (C4), and p-nitrophenyl valerate (C5), d Circular dichroism spectra comparison between Est8 and Est8MF in
+
+Tris-HCl pH 8.0. e Circular dichroism spectra of 5.5 mmol Est8MF in presence and absence of substrates [11 mmol of p-nitrophenyl acetate (C2) or p-nitrophenyl butyrate (C4)]. The measurement was performed after 30-min incubation with the substrate at room temperature. f Thermal denaturation comparison between Est8 and Est8MF in pH 8.0
+
+
+
+
+Finally, the results presented here show that Est8 is a new esterase isolated from metagenomic sources that present different characteristics when compared to orthologues previously described, including the two en- zymes originated from the same habitat. Indeed, despite  the fact that the enzyme did not show high thermal stability, it presented the highest activity against
+
+substrates of short chains, which could be explored for future applications such as production of milk fatty acid production.
+
+Acknowledgements We are grateful for the Diamond Light Source for the provision of synchrotron radiation facilities, and we would like to thank the beamline managers for the assistance in using beamline I02
+
+
+
+for data collection. We thank the infrastructure offered by the Sao Paulo State University (UNESP), Jaboticabal Campus, Brazil; the National Laboratory of Biosciences (LNBio), Campinas, Brazil; and the Department of Biochemistry, University of Cambridge.
+
+Compliance with Ethical Standards
+
+Funding This study was supported by Sao Paulo State Research Foundation (FAPESP), grant numbers 2011/09136-7 (PhD fellowship) and 2012/20490-0 (Research Internalships Abroad (BEPE)).
+
+Conflict of interest The authors declare that they have no conflict of interest.
+
+Ethical approval This article does not contain any studies with human participants performed by any of the authors.
+
+
+References
+
+Angkawidjaja C, Koga Y, Takano K, Kanaya S (2012) Structure and stability of a thermostable carboxylesterase from the thermoacidophilic archaeon Sulfolobus tokodaii. FEBS J 279: 3071-3084
+Arpigny JL, Jaeger K-E (1999) Bacterial lipolytic enzymes: classification and properties. Biochem J 343:177-183
+Bornscheuer UT (2002) Microbial carboxyl esterases: classification, properties and application in biocatalysis. FEMS Microbiol Rev 26:73-81
+Byun J-S, Rhee J-K, Kim ND, Yoon J, Kim D-U, Koh E, Oh J-W, Cho H- S (2007) Crystal structure of hyperthermophilic esterase EstE1 and the relationship between its dimerization and thermostability prop- erties. BMC Struct Biol 7:47-51
+Chahinian H, Ali YB, Abousalham A, Petry S, Mandrich L, Manco G, Canaan S, Sarda L (2005) Substrate specificity and kinetic proper- ties of enzymes belonging to the hormone-sensitive lipase family: comparison with non-lipolytic and lipolytic carboxylesterases. Biochim Biophys Acta 1738:29-36
+Choi Y-J, Lee BH (2001) Culture conditions for the production of esterase from Lactobacillus casei CL96. Bioprocess Biosyst Eng 24:59-63 Delano WL (2010) The PyMOL molecular graphics system. Schrodinger
+LLC, New York
+Emsley P, Cowtan K (2004) Coot: model-building tools for molecular graphics. Acta Crystallogr D Biol Crystallogr International Union of Crystallography 60:2126-2132
+Giuliani S, Piana C, Setti L, Hochkoeppler A, Pifferi PG, Williamson G, Faulds CB (2001) Synthesis of pentylferulate by a feruloyl esterase from Aspergillus niger using water-in-oil microemulsions. Biotechnol Lett 23:325-330
+Hotta Y, Ezaki S, Atomi H, Imanaka T (2002) Extremely stable and versatile carboxylesterase from a hyperthermophilic archaeon. Appl Environ Microbiol 68:3925-3931
+Jaeger K, Reetz MT (1998) Microbial lipases form versatile tools for biotechnology. Trends Biotechnol 16:396-403
+Jaeger K-E, Dijkstra BW, Reetz MT (1999) Bacterial biocatalysts: mo- lecular biology, three-dimensional structures, and biotechnological applications of lipases. Annu Rev Microbiol 53:315-351
+Jeon JH, Lee HS, Kim JT, Kim S-J, Choi SH, Kang SG, Lee JH (2012) Identification of a new subfamily of salt-tolerant esterases from a metagenomic library of tidal flat sediment. Appl Microbiol Biotechnol 93:623-631
+Jin P, Pei X, Du P, Yin X, Xiong X, Wu H, Zhou X, Wang Q (2012) Overexpression and characterization of a new organic solvent-
+
+tolerant esterase derived from soil metagenomic DNA. Bioresour Technol 116:234-240
+JunGang L, KeGui Z, WenJun H (2010) Cloning and biochemical char- acterization of a novel lipolytic gene from activated sludge metagenome, and its gene product. Microb Cell Factories 9:83-87
+Kabsch W (2010) Xds Acta Crystallogr D Biol Crystallogr 66:125-132 Kim E-Y, Oh K-H, Lee M-H, Kang C-H, Oh T-K, Yoon J-H (2009) Novel cold-adapted alkaline lipase from an intertidal flat metagenome and
+proposal for a new family of bacterial lipases. Appl Environ Microbiol 75:257-260
+Kontkanen H, Tenkanen M, Fagerstrom R, Reinikainen T (2004) Characterisation of steryl esterase activities in commercial lipase preparations. J Biotech 108:51-59
+Lee M-H, Lee C-H, Oh T-K, Song JK, Yoon J-H (2006) Isolation and characterization of a novel lipase from a metagenomic library of tidal flat sediments: evidence for a new family of bacterial lipases. Appl Environ Microbiol 72:7406-7409
+Li P-Y, Chen X-L, Ji P, Li C-Y, Wang P, Zhang Y, Xie BB, Qin QL, Zhou BC, Zhang YZ, Zhang XY (2015) Interdomain hydrophobic inter- actions modulate the thermostability of microbial esterases from the hormone-sensitive lipase family. J Biol Chem 290:11188-11198
+Liu L, Suchard MA, Huelsenbeck JP (2012) MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space. Syst Biol 61:539-342
+Liu Y, Xu H, Yan Q, Yang S, Duan X, Jiang Z (2013) Biochemical characterization of a first fungal esterase from Rhizomucor miehei showing high efficiency of ester synthesis. PLoS One 8:e77856
+Lorenz P, Eck J (2005) Metagenomics and industrial applications. Nat Rev 3:510-516
+Maester TC, Pereira MR, Machado Sierra EG, Balan A, de Macedo Lemos EG (2016) Characterization of EST3: a metagenomic- derived esterase with suitable properties for biotechnological appli- cations. Appl Microbiol Biotechnol 13:5815-5827
+Manco G, Mandrich L, Rossi M (2001) Residues at the active site of the esterase 2 from Alicyclobacillus acidocaldarius involved in sub- strate specificity and catalytic activity at high temperature. J Biol Chem 276:37482-37490
+Mandrich L, Merone L, Pezzullo M, Cipolla L, Nicotra F, Rossi M (2005) Role of the N terminus in enzyme activity, stability and specificity in thermophilic esterases belonging to the HSL family. J Mol Biol 345: 501-512
+Murshudov GN, Skubak P, Lebedev AA, Pannu NS, Steiner RA, Nicholls RA, Winn MD, Long F, Vagin AA (2011) REFMAC 5 for the refinement of macromolecular crystal structures research papers. Acta Crystallogr D Biol Crystallogr D67:355-367
+Nam KH, Kim M-Y, Kim S-J, Priyadarshi A, Kwon ST, Koo BS, Yoon SH, Hwang KY (2009) Structural and functional analysis of a novel hormone-sensitive lipase from a metagenome library. Proteins 74: 1036-1040
+Nardini M, Dijkstra BW (1999) a/b hydrolase fold enzymes: the family keeps growing. Curr Opnion Struct Biol 9:732-737
+Ngo TD, Ryu BH, Ju H, Jang E, Park K, Kim KK, Kim TD (2013) Structural and functional analyses of a bacterial homologue of hormone-sensitive lipase from a metagenomic library. Acta Crystallogr D Biol Crystallogr 69:1726-1737
+Ohara K, Unno H, Oshima Y, Hosoya M, Fujino N, Hirooka K, Takahashi S, Yamashita S, Kasunoki M, Nakayama T (2014) Structural insights into the low pH adaptation of a unique carboxylesterase from Ferroplasma: altering the pH optima of two carboxylesterases. J Biol Chem 289:24499-24510
+Ollis DL, Cheah E, Cyglerl M, Dijkstra B, Frolow F, Franken SM, Harel M, Remington J, Silman I, Schrag J, Sussman JL, Verschueren KHG, Goldman A (1992) The a/b hydrolase fold. Protein Eng 5: 197-211
+Paixao DAA, Dimitrov MR, Pereira RM, Accorsini FR, Vidotti MB, Lemos EGL (2010) Molecular analysis of the bacterial diversity in
+
+
+
+a specialized consortium for diesel oil. Rev Bras Ciencias Solo 34: 773-781
+Palm GJ, Fernandez-Alvaro E, Bogdanovic X, Bartsch S, Sczodrok J, Singh RK, Bottcher D, Atomi H, Bornscheuer UT, Hinrichs W (2011) The crystal structure of an esterase from the hyperthermo- philic microorganism Pyrobaculum calidifontis VA1 explains its enantioselectivity. Appl Microbiol Biotechnol 91:1061-1072
+Peng Q, Wang X, Shang M, Huang J, Guan G, Li Y, Shi B (2014) Isolation of a novel alkaline-stable lipase from a metagenomic li- brary and its specific application for milkfat flavor production. Microb Cell Factories 13:1-9
+Peranen J, Rikkonen M, Hyvonen M, Kaarianen L (1996) T7 vectors with a modified T7lac promoter for expression of proteins in Escherichia coli. Anal Biochem 373:371-373
+Pereira MR, Mercaldi GF, Maester TC, Balan A, Lemos EGDM (2015) Est16, a new esterase isolated from a metagenomic library of a microbial consortium specializing in diesel oil degradation. PLoS One 10:e0133723
+Quax WJ, Brokhuizen C (1994) Development of a new Bacillus carboxyl esterase for use in the resolution of chiral drugs. Appl Microbiol Biotechnol 41:425-431
+Rao L, Xue Y, Zheng Y, Lu JR, Ma Y (2013) A novel alkaliphilic Bacillus esterase belongs to the 13(th) bacterial lipolytic enzyme family. PLoS One 8:e60645
+Rhee J, Ahn D, Kim Y, Oh J (2005) New thermophilic and thermostable esterase with sequence similarity to the hormone-sensitive lipase family, cloned from a metagenomic library. Appl Environ Microbiol 71:817-825
+
+Ronquist F, Teslenko M, van der Mark P, Ayres DL, Darling A, Hohna S, Larget B, Liu L, Suchard MA, Huelsenbeck JP (2012) Mr-Bayes 3.2: efficient Bayesian phylogenetic influence and model choice across a large model space. Syst Biol 61:539-542
+Tamura K, Stecher G, Peterson D, Filipski A, Kumar S (2013) MEGA6: Molecular Evolutionary Genetics Analysis version 6.0. Mol Biol Evol 30:2725-2729
+Thompson JD, Higgins DG, Gibson TJ (1994) ClustalW: improving the sensitivity of progressive multiple sequence alignment through se- quence weighting, position-specific gap penalties and weight matrix choice. Nucleic Acids Res 22:4673-4680
+Wei Y, Contreras JA, Sheffield P, Osterlund T, Derewenda U, Kneusel RE, Matern U, Holm C, Derewenda ZS (1999) Crystal structure of brefeldin A esterase, a bacterial homolog of the mammalian hormone-sensitive lipase. Nat Struct Biol 6:340-345
+Winn MD, Ballard CC, Cowtan KD, Dodson EJ, Emsley P, Evans PR, Keegan RM, Krissinel EB, Leslie AG, McCoy A, McNicholas SJ, Murshudov GN, Pannu NS, Potterton EA, Powell HR, Read RJ, Vagin A, Wilson KS (2011) Overview of the CCP4 suite and current developments. Acta Crystallogr D Biol Crystallogr International Union of Crystallography 67:235-242
+Yang S, Qin Z, Duan X, Yan Q, Jiang Z (2015) Structural insights into the substrate specificity of two esterases from the thermophilic Rhizomucor miehei. J of Lipid Res 56:1616-1624
+Zhu X, Larsen NA, Basran A, Bruce NC, Wilson IA (2003) Observation of an arsenic adduct in an acetyl esterase crystal structure. J Biol Chem 278:2008-2014

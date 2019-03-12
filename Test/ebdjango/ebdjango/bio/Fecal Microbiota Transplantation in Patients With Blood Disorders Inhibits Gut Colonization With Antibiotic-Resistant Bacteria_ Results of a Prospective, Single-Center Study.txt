@@ -1,0 +1,339 @@
+Clinical  Infectious Diseases
+   MAJO R ARTICL E 
+
+Fecal Microbiota Transplantation in Patients With Blood Disorders Inhibits Gut Colonization With Antibiotic-Resistant Bacteria: Results of a Prospective, Single-Center Study
+Jaroslaw Bilinski,1 Pawel Grzesiowski,2 Nikolaj Sorensen,3 Krzysztof Madry,1 Jacek Muszynski,4 Katarzyna Robak,1
+Marta Wroblewska,5,6 Tomasz Dzieciatkowski,5 Grazyna Dulny,7 Jadwiga Dwilewicz-Trojaczek,1 Wieslaw Wiktor-Jedrzejczak,1 and Grzegorz W. Basak1
+1Department of Hematology, Oncology, and Internal Diseases, Medical University of Warsaw, and 2Foundation for the Infection Prevention Institute, Warsaw, Poland; 3Clinical-Microbiomics,
+Copenhagen, Denmark; and 4Department of Gastroenterology and Metabolic Diseases, 5Department of Microbiology, Central Clinical Hospital, 6Department of Dental Microbiology, and
+7Department of Epidemiology, Central Clinical Hospital, Medical University of Warsaw, Poland
+
+Background. Patients with blood disorders colonized with antibiotic-resistant bacteria (ARB) are prone to systemic infections that are difficult to treat. Reintroduction of commensal bacteria in a murine model of enterococcal colonization of the gut can lead to eradication of enterococci. We hypothesized that fecal microbiota transplantation (FMT) could be used to eradicate ARB in humans. Methods. Participants colonized with ARB were treated with intraduodenal FMT according to a prospective protocol (NCT02461199). The primary endpoint was complete ARB decolonization at 1 month after FMT. Secondary endpoints included safety assessment and partial ARB decolonization. Microbiome sequencing was performed to investigate the influence of microbial
+composition of the transplanted material on the outcome of FMT.
+Results.  Twenty-five FMTs were performed in 20 participants (including 40% who had neutropenia) who were colonized by a median of 2 (range, 1-4) strains of ARB. The primary endpoint was reached in 15/25 (60%) of the FMTs and more frequently in cases in which there was no periprocedural use of antibiotics (79% vs 36%, P < .05). Among participants, 15/20 (75%) experienced complete ARB decolonization. There were no severe adverse events, and partial ARB decolonization was observed in 20/25 (80%) of the FMTs. The microbiota composition analysis revealed higher abundance of Barnesiella spp., Bacteroides, and Butyricimonas and greater bacterial richness in the fecal material, resulting in eradication of Klebsiella pneumoniae compared with nonresponders.
+Conclusions. FMT in patients with blood disorders is safe and promotes eradication of ARB from the gastrointestinal tract.
+Clinical Trials Registration. NCT02461199.
+Keywords. fecal microbiota transplantation; antibiotic-resistant bacteria; gut colonization; hematology; infection.
+
+
+
+In recent years, the World Health Organization and the scien- tific community have expressed alarm at the increasing rates of antimicrobial resistance. This increase has been caused by the extensive use of broad-spectrum antibiotics, and antimicro- bial resistance is now considered to be one of the most critical threats to human health [1, 2].
+Recent studies have revealed that the commensal microbiota in the human gut act as a large reservoir of antibiotic-resistance genes [3, 4]. The natural, healthy microbiome prevents the colonization of gastrointestinal (GI) niches by pathogens, which is known as colonization resistance. However, this crucial defense mechanism
+
+can be impaired by treatment with antibiotics and chemotherapy [5], and people may consequently become carriers of pathogenic bacteria, including strains that are resistant to treatment.
+Colonized patients pose an epidemiological threat to other hospitalized individuals and to members of their households [6, 7] but are also in danger of developing systemic infections with gut-colonizing microorganisms [8, 9]. This is especially the case for patients with blood disorders due to suppression of their innate and/or acquired immunity. It has been reported that 70% of cases of bacteremia in individuals with hemato-oncological diseases are derived from the gut [9]. Systemic infections with
+
+ 		antibiotic-resistant bacteria (ARB; eg, carbapenem-resistant
+
+
+Received 17 December 2016; editorial decision 27 February 2017; accepted 17 March 2017;
+published online March 24, 2017.
+Correspondence: G. W. Basak, Department of Hematology, Oncology and Internal Diseases, Medical University of Warsaw, 1A Banacha St, 02-097 Warsaw, Poland (grzegorz.basak@wum. edu.pl).
+Clinical Infectious Diseases(r) 2017;65(3):364-70
+(c) The Author 2017. Published by Oxford University Press for the Infectious Diseases Society of America. All rights reserved. For permissions, e-mail:  DOI: 10.1093/cid/cix252
+
+Acinetobacter baumannii and carbapenem-resistant Pseudomonas aeruginosa) in patients who have undergone allogeneic hemato- poietic cell transplantation (alloHCT) are associated with a mor- tality rate of 36%-95% [10-12].
+Fecal microbiota transplantations (FMTs) are increasingly being carried out in clinical practice to restore the physiological composition of the gut microflora. FMT has become a standard
+
+treatment for relapsing Clostridium difficile infection and it    is associated with a cure rate of >90% [13]. Furthermore, it is increasingly being used as a novel treatment for diseases that are linked with pathological imbalances of the microbiome, including inflammatory bowel diseases, obesity, and metabolic and rheumatoid diseases [14]. Recently it was shown that FMT in a murine model of vancomycin-resistant enterococci (VRE) gut colonization can lead to eradication of VRE [6]. It is likely that restoration of gut biodiversity and introduction of specific strains of commensal bacteria can displace pathogenic strains, leading to decolonization.
+We hypothesized that FMT can eradicate ARB in the human gut in a manner that is similar to how FMT works in C. difficile infection and in a murine model of VRE colonization of the gut. After an initial successful attempt [15], we carried out a prospective study to assess use of the procedure in individuals with blood disorders.
+
+METHODS
+Study Design
+In this single-center, prospective study, we collected data on 25 FMTs performed in participants whose GI tracts were colonized with ARB. The FMTs were performed between February 2015 and July 2016 at the Department of Hematology, Oncology, and Internal Diseases of the Medical University of Warsaw, Poland. The primary endpoint of the study was complete ARB decol- onization at 1 month after FMT. Secondary endpoints included safety assessments and partial ARB decolonization. Gut decol- onization was defined as a negative result for a minimum of
+2 consecutive rectal swab cultures. However, in cases that involved carbapenemase-producing Enterobacteriaceae (CPE), a negative result of a quantitative real-time polymerase chain reaction (qPCR) test for an antibiotic-resistance gene encoding carbapenemase was also required. Complete ARB decoloniza- tion was defined as decolonization of all strains of ARB, while partial ARB decolonization was defined as decolonization of at least 1 strain of ARB.
+Treatment Protocol
+Details of the treatment protocol are provided in the Supplementary Materials. FMT was offered to consecutive adult patients whose GI tracts were colonized with ARB and who did not meet exclusion criteria. The participants consented to FMT and allowed the resultant data to be analyzed and published. The Medical University of Warsaw Ethics Committee approved the research protocol (KB/180/2014).
+The transplanted fecal material was obtained from healthy unrelated donors who underwent thorough clinical examina- tions and antimicrobial testing [13]. Each FMT product was derived from 100 g feces. The day before FMT, bowel lavage was carried out using macrogols. Each participant fasted for at least 12 hours before transplantation, and a proton pump inhibitor
+
+was administered in the evening before FMT and twice daily on the day of transplantation to neutralize gastric acid.
+Each FMT was carried out intraduodenally via a nasoduo- denal tube. The first 3 participants underwent FMT on a sin- gle day, while the remaining participants underwent FMT on 2 consecutive days. Routine on-ward monitoring was performed for the subsequent 2 days. FMT efficacy was assessed by cul- turing rectal swabs obtained 1 week, 1 month, and 6 months after FMT. In cases that involved colonization with CPE, fecal samples were also tested using qPCR for the presence of an antibiotic-resistance gene encoding carbapenemase. Additional fecal samples were collected and frozen in liquid nitrogen for subsequent microbiome sequencing.
+
+Next-Generation Sequencing
+From 7 patients colonized with K. pneumoniae, New Delhi met- allo-b-lactamase-1 (NDM1+) fecal samples were subjected to microbiota composition sequencing. DNA was extracted and the V3-V4 region of the 16S rRNA gene was sequenced using an Illumina MiSeq Desktop Sequencer. Based on the available literature data, several genera were selected and subjected to detailed analysis as likely to be involved in the decolonization of ARB (Barnesiella; Bacteroides; Butyricimonas; Clostridium IV, XIVa, and XIVb; and Lactobacillus; see Supplementary Materials).
+
+Statistical Analyses
+The 64-bit versions of USEARCH [16] and mothur [17] were used in combination withseveral in-house programs forbioinformatical analysis of the microbiome sequence data (see the Supplementary Materials). Statistical analysis of the clinical data was conducted using STATISTICA 10 for Windows and R Statistics. Abundance of taxa between groups was evaluated with t tests on square-root transformed data; assumptions of variance homogeneity were tested with an F test (Welch t test [Welch unequal variances t test] was used when this assumption was not met).
+
+RESULTS
+Patients Characteristics
+Overall, 20 patients with blood disorders were enrolled in the study and underwent 25 FMTs. Although most individuals underwent only 1 FMT, 3 underwent 2 and 1 underwent 3. A summary of the participants' clinical characteristics is provided in (Table 1); detailed case-by-case characteristics are provided in (Supplementary Table 2s). The gut-colonizing ARB included K. pneumoniae NDM1+ (n = 14), carbapenem-resistant K. pneu- moniae (n = 3), K. pneumoniae extended-spectrum b-lacta- mase positive (ESBL+; n = 2), Escherichia coli ESBL+ (n = 11), Pseudomonas aeruginosa metallo-b-lactamase (MBL; n = 2), car- bapenem-resistant P. aeruginosa (n = 2), carbapenem-resistant Enterobacter cloacae (n = 2), VRE (n = 2), and other strains of ARB (n = 3; Table 3). Thirteen participants (52%) were colonized
+
+
+Fecal Transplantation and Gut Colonization * CID 2017:65 (1 August) * 365
+
+Table 1. Baseline Demographic Characteristics of the Study Sample
+
+Median
+
+Complete ARB decolonization was achieved in 15/25 (60%) of the FMTs at 1 month and in 13/14 (93%) of the FMTs at 6 months (Table 2). Complete ARB decolonization was achieved
+
+Characteristic	No.
+Participants	20
+FMTs	25
+
+(Range)	% of FMTs
+
+in 15/20 (75%) of the participants (taking into account the par- ticipants who underwent repeated FMTs). Partial ARB decol-
+
+Participants who underwent 2/3 FMTs
+
+3/1
+
+onization was achieved in 20/25 (80%) cases at 1 month and
+in 13/14 (93%) cases at 6 months. Notably, among the patients
+
+Male sex	14	56
+Age at FMT (y)		                                                                                         Median	51
+Range	22-77
+ANC at FMT (x109/L)
+Median	2.1
+Range	0.5-16.5
+
+who received 1-day FMTs (n = 3), no cases of complete ARB decolonization occurred, and only 1 participant achieved par- tial ARB decolonization at 1 month.
+For 17 patients, qPCR was used to investigate whether ARB with a gene encoding carbapenemase were eradicated. Results
+were negative in 9/17 (53%) individuals at 1 month and in 8/9
+
+FMTs for participants with neutro- penia (ANC 0.5-1.8 x 109/L)
+Diagnosis
+
+10	40
+
+(89%) participants at 6 months. The results for each case of ARB colonization were analyzed separately (Table 3).
+
+Acute myeloblastic leukemia	5	20
+Acute graft-versus-host disease	4	16
+
+purpura
+Kidney transplant recipient	1	4
+Strains of colonizing ARB (median, range)
+Median	2
+Range	1-4
+
+The most abundant pathogen was K. pneumoniae, and it was found to be eradicated in 10/19 (53%) FMTs at 1 month, which included 6/10 (60%) cases involving K. pneumoniae NDM1+. There was higher efficacy associated with eradication of E. coli ESBL+ (n = 11) and E. coli oxacillinase-48 (OXA-48+; n = 1); the rate of eradication of these strains was 100% at 1 month.
+Clinicians were permitted to administer antibiotics based on clinical need. We analyzed patients who had antibiotics introduced in the first 7 days after FMT (11/25 [44%] cases). Complete ARB decolonization was achieved in a significantly higher proportion of FMTs that did not involve antibiotics (11/14, 79%) compared
+with those that did involve antibiotics (4/11; 36%, P = .039). The
+
+FMTs for participants with at least 2 strains of colonizing ARB
+Colonization assessment at 1 week after FMT
+Colonization assessment at 1 month after FMT
+Colonization assessment at 6 months after FMT
+
+13	52
+
+25	100
+
+24	96
+
+14	56
+
+rates of partial ARB decolonization were also higher: 13/14 (93%) of the FMTs that did not involve antibiotics vs 7/11 (64%) of those that did involve antibiotics, but the difference was not significant.
+
+Safety Assessment
+The mean follow-up period was 187 days (range, 9-482 days).
+
+Follow-up period (days; mean, range)		                                                       Median	187
+Range	9-482
+Abbreviations: ANC, absolute neutrophil count; ARB, antibiotic-resistant bacteria; FMT, fecal microbiota transplantation.
+
+FMT was found to be safe; the adverse events were either mild and transient or exacerbations of conditions that were already present before the FMTs (Table 4). During the follow-up period, 1 previously decolonized patient experienced sepsis as
+
+ 		a result of a persisting skin infection caused by P. aeruginosa
+
+with at least 2 strains of ARB (range, 1-4). The median neutro- phil count immediately prior to FMT was 2.1 x 109/L (range, 0.5-16.5 x 109/L), and 40% of participants had neutropenia (<1.8
+x 109 neutrophils/L), but not severe neutropenia (<0.5 x 109/L).
+
+Outcomes
+The microbiological follow-up data were available for all FMTs at the 1-week time point and for 24/25 of the FMTs at the 1-month time point (1 participant died from primary disease within the first month post-FMT). Additionally, for 14 FMTs, there were follow-up data for the 6-month time point. qPCR testing for an antibiotic-resistance gene was performed for 17 participants at 1 month and for 9 participants at 6 months.
+
+MBL+. Another participant with severe chronic graft-versus- host disease died within the first month post-FMT as a result of septic shock caused by E. coli OXA-48+, which had previ- ously been eliminated from the GI tract. In 2 participants, recolonization with the same strain of ARB was observed at about 1 and 6 months after decolonization, respectively. In 1 patient, K. pneumoniae MBL+ was decolonized, but a new spe- cies (Pseudomonas rhodesiae) that exhibited the same resistance mechanism colonized the gut. More information about each FMT is provided in the Supplementary Materials.
+
+Microbiome Analyses
+Of the 7 patients colonized with K. pneumoniae NDM1+ whose microbiota compositions were analyzed, 4 became decolonized,
+
+
+366 * CID 2017:65 (1 August) * Bilinski et al
+
+Table 2. Impact of Fecal Microbiota Transplantation on Complete and Partial Antibiotic-Resistant Bacteria (ARB) Decolonization, With or Without Antibi- otics During the First Week After Transplantation
+
+
+
+All FMTs n = 25
+
+With Antibiotics, n = 11
+
+Without Antibiotics, n = 14
+
+
+Endpoint
+
+
+No.	%	No.	%	No.	%
+
+
+P Value
+
+
+Abbreviations: ARB, antibiotic-resistant bacteria; FMT, fecal microbiota transplantation.
+
+
+Table 3. Decolonization of Particular Strains of Antibiotic-Resistant Bacteria in All Participants and Those Without Antibiotics Use During the First Week After Fecal Microbiota Transplantation
+
+Negative Rectal Swab at 1 Week	Decolonization at 1 Month
+
+
+
+All
+
+
+Without
+Antibiotics	All
+
+
+Without Antibiotics
+
+
+Abbreviations: ESBL, extended-spectrum b-lactamase; MBL, metallo-b-lactamase.
+aDecolonization confirmed by quantitative real-time polymerase chain reaction.
+
+
+while the remaining 3 were nonresponders. The fecal mate- rial transplanted into the responders had a higher abundance  of Barnesiella spp. (1.3% vs 0.2%, P = .009), Bacteroides (12%
+vs 0.7%, P = .008), and Butyricimonas (0.1% vs 0%, P = .016;
+
+Figure 1A-C) and a higher number of operational taxonomic units (OTUs; 176 vs 122, P = .003; Figure 1D) compared with the material used from nonresponders. There was no signifi- cant difference in the diversity of the microbiome in the fecal
+
+ 		material transplanted into the responders and nonresponders
+
+Table 4. Adverse Events After Fecal Microbiota Transplantation
+
+Event	No.	%	Comment
+Vomiting	1	4	Immediately after infusion
+
+(Shannon index: 3.5 vs 3.1, P = .06; Figure 1E). There were no significant differences between the responders and non- responders in the abundance of Barnesiella spp., Bacteroides, Butyricimonas, the number of OTUs, or the Shannon index of
+
+Diarrhea within
+3 days after FMT
+
+25	100	Grade 1, transient
+
+fecal samples taken from the participants before and after FMT
+
+Abdominal pain	2	8	Grade 3, present already
+before FMT
+Ileus	2	8	Grade 2, present already before FMT
+Safety assessment of the adverse events involved grading them [18]. Abbreviation: FMT, fecal microbiota transplantation.
+
+(see Supplementary Materials).
+
+DISCUSSION
+Recently we showed that individuals who underwent alloHCT and who were colonized with ARB had a higher mortality rate
+
+
+
+Fecal Transplantation and Gut Colonization * CID 2017:65 (1 August) * 367
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Analysis of next-generation sequencing data from samples obtained from the transplanted fecal material donated to patients who were colonized with Klebsiella pneumoniae NDM1+. The white bars represent participants who were decolonized after fecal microbiota transplantation (n = 4), and the gray bars represent participants who were not decolonized (n = 3). A, Proportion of Barnesiella spp. in the samples. *P = .009. B, Proportion of Bacteroides in the samples. *P = .008. C, Proportion of Butyricimonas in the samples. *P = .016. D, Richness of the microbiome, as assessed using the number of operational taxonomic units. **P = .003. E, Diversity of the microbiome, as assessed using the Shannon index. ***P = .06. The box excludes the upper and lower 25% (quartiles) of data; the lines go to maximum and minimum excluding outliers. Outliers are defined as more/less than 3/2 of the upper/lower quartile. The line is the median. All data points are marked with "x" in the box plots. Abbreviation: FMT, fecal microbiota transplantation.
+
+
+from infection (42% vs 11%, P < .05), higher nonrelapse mor- tality (37% vs 9% at 1 year after alloHCT, P = .001), and lower overall survival rate (53% vs 81%, P < .001) compared with not colonized individuals [12]. There have been recent reports of the negative effect of decreases in the heterogeneity of the gut micro- biome on survival related to increased transplant-related mortal- ity [19], and these observations may have a causal relationship. It is also clear that gut colonization in patients with hematological diseases is associated with an increased rate of life-threatening systemic infections [9-12]. We postulated that restoration of the physiological composition of gut flora using FMT may benefit individuals with blood disorders and clear the gut from ARB.
+The literature suggests that spontaneous decolonization is a long process. Most data come from analyses of patients treated in long-term care facilities and intensive care units. In a study by O'Fallon et al, the median duration of colonization with mul- tidrug-resistant gram-negative bacilli was 144 days [20]. The spontaneous clearance of all resistant strains occurred in only 9% of participants. In addition, Haverkate et al found that the median time to spontaneous decolonization of ARB in intensive care unit patients was 4.8 months [21], and patients hospitalized
+
+in long-term acute-care hospitals needed a median of 205 days (and 270 days between readmissions) to get rid of colonizing ARB strains [22]. Looking at analyses performed in populations that are more comparable to the population in our study, the median duration of colonization with VRE in pediatric oncol- ogy patients was 112 days [23] and 306 days in immunosup- pressed liver or kidney transplant recipients colonized with VRE [24]. In a population that included patients with blood disorders, Zimmerman et al reported that a longer time (mean 387 days) was required to obtain negative rectal swab cultures from individuals who were originally colonized with CPE [25]. These findings were confirmed by Oren et al who revealed that only 7% of patients on a hematology ward became decolonized from CPE after a median of 140 days [26].
+Also there have been attempts to decolonize patients using targeted antibiotics.  For  this  reason,  patients  were  treated with oral rifaximin, polymyxin B, colistin, or  aminoglyco-  side. Rieg et al showed that treatment led to the eradication of ESBL+ Enterobacteriaceae in 42% of individuals. However, 54% of them were recolonized within 3 months [27]. A dou- ble-blind, placebo-controlled study showed that oral colistin
+
+
+368 * CID 2017:65 (1 August) * Bilinski et al
+
+plus neomycin significantly lowered the rectal carriage of ESBL+ Enterobacteriaceae from the first day of treatment. However, this effect disappeared 1 week after treatment was completed [28]. In contrast, more encouraging results were found in a study that assessed the efficacy of oral gentamicin plus polymyxin B for the eradication of carbapenem-resistant K. pneumoniae [29]. One week after treatment ended, 16% of rectal swab cultures in the placebo arm and 61% in the treatment arm were negative (P <
+.01), and a difference was maintained at 5 weeks after treatment was completed. Although the use of oral antibiotics to decontam- inate the GI tract may lead to decolonization, there is a strong rationale for not using this treatment in clinical practice. Namely, it has been documented that use of this antibiotic to decontami- nate the GI tract leads to the emergence of colistin resistance [30]. In our study, we assessed the potential for using FMT to tackle colonization of the gut by ARB in patients with blood disorders. The participants were colonized with heterogene- ous strains of ARB; 19 with K. pneumoniae, including 14 with the highly antibiotic-resistant strain NDM1+, and 11 with E. coli ESBL+. The participants had impaired immunity, and the majority had neutropenia (but not severe neutropenia of <0.5 x 109/L). Traditionally, the introduction of fecal isolates into the GI tracts of immunocompromised individuals has been consid- ered dangerous. However, there is strong evidence that the sys- temic infections experienced by this patient group are caused not by commensal gut microflora but by pathogenic bacteria acquired from other patients due to the loss of colonization resistance [31]. There is increasing acceptance that the tradi-
+tional low microbial diet (the "neutropenic diet") may not be appropriate for these individuals [32] and that treatment with probiotics may be beneficial [33].
+We carried out FMT with a high degree of caution. Each fecal microbiota suspension was administered via a nasoduodenal tube (which was localized using X rays) to avoid aspiration of the suspension. The initial 3 participants underwent a 1-day FMT and, as no unwanted effects were observed, the remainder of the participants underwent a 2-day FMT. The participants were strictly monitored while they stayed in hospital and were also followed up after discharge. There were no systemic infec- tions shortly after FMT. Moreover, FMT appeared to be highly efficient at eradicating ARB from the GI tract. Complete ARB decolonization was observed at 1 month in 60% of the FMTs, which is higher than the rates of spontaneous and oral anti- biotic-induced decolonization, as discussed above. The rate  of partial ARB decolonization was even higher, at 80%. The reported results are in line with recent observations by Millan et al who reported that FMT used to treat recurrent C. difficile infection reduces the load of antibiotic-resistant genes in the gut of patients heavily pretreated with antibiotics [34].
+Another positive aspect of the FMTs was the durability of the response, that is, recolonization with the same ARB occurred in only 3/15 (20%) patients (see Supplementary Materials). It should
+
+be noted that the efficacy of FMT at eradicating E. coli ESBL+ from the GI tract was 100%. In patients colonized with highly resistant K. pneumoniae NDM1+, complete ARB decolonization was achieved in 60% of cases and in 83% of patients not treated with antibiotics for the first week post-FMT, confirmed by qPCR. One putative mechanism of action of FMT against ARB is restoration of heterogeneity in the gut microbiota, including the restoration of species that tend to occupy the physiological niches that had been taken over by the ARB, eventually leading to eradication of the latter. Our data show that administration of antibiotics within 1 week of FMT radically decreases the effi- cacy of the procedure. When antibiotics were not used, the rate of complete ARB decolonization reached 79% compared with 36% when antibiotics were administered. This is certainly in line with our theory, as antibiotics presumably act against the transplanted physiological microflora, thus diminishing their effect. Therefore, when possible, the use of antibiotics shortly
+after FMT should be reserved for life-threatening situations.
+To explore the mechanisms behind the effects of FMT, we performed next-generation sequencing (NGS) of fecal samples taken from patients who were colonized with K. pneumoniae NDM1+ and from the fecal material that was transplanted into them. Regarding the transplanted fecal material, the number  of OTUs was significantly higher in the fecal material that was donated to the responders compared with that from nonre- sponders. We found that Bacteroides and Butyricimonas (com- mon anaerobes) were more abundant in fecal material given to responders than to nonresponders. Even more intriguing was the observation that the fecal material used in cases in which
+K. pneumoniae NDM1+ was eradicated had a higher abundance of Barnesiella spp. than the material used in cases in which
+K. pneumoniae was not eradicated.
+Ubeda et al found that in a murine model, restoration of Barnesiella spp. following FMT was associated with elimination of VRE [6]. Recently, Caballero et al showed that VRE occupies niches in the GI tract that overlap spatially with those occupied by
+pneumoniae [7]. Our finding, although it relates to a small num- ber of observations, suggests that a high abundance of Barnesiella spp., Bacteroides, and/or Butyricimonas and/or a large number of OTUs in the transplanted fecal material contribute to the eradica- tion of K. pneumoniae. This suggests that the composition of the transplanted fecal material affects the outcomes of FMT.
+Our study had several limitations. First, we were unable to con- trol the use of antibiotics, which affected the efficacy of the proce- dure. In addition, the strains of ARB that colonized participants were heterogeneous. However, our cohort included a large num- ber of participants who were colonized with the highly antibiot- ic-resistant K. Pneumoniae NDM1+, which poses one of the most severe epidemiological threats. We are also aware that this was a single-arm study, without an adequate control group, which makes the interpretation of results difficult. Therefore, it should be pri- marily treated as a feasibility study that evaluated the safety and
+
+
+Fecal Transplantation and Gut Colonization * CID 2017:65 (1 August) * 369
+
+preliminary efficacy of the procedure, the results of which can be interpreted only based on literature data. Future approaches should focus on more advanced, placebo-controlled phase 2 and 3 clinical trials that include groups, allowing reliable statistical comparisons. In conclusion, we clearly show that FMT is a safe procedure for patients with blood disorders. FMT promoted decolonization of most participants, although administration of antibiotics shortly after FMT decreased the success rate. We also show that eradica- tion of K. pneumoniae may depend on the abundance of Barnesiella spp., Bacteroides, and/or Butyricmonas in the transplanted fecal material. FMT appears to constitute a valid tool for tackling coloni-
+zation of the gut by ARB in patients with blood disorders.
+
+Supplementary Data
+Supplementary materials are available at Clinical Infectious Diseases online. Consisting of data provided by the authors to benefit the reader, the posted materials are not copyedited and are the sole responsibility of the authors, so questions or comments should be addressed to the corresponding author.
+Notes
+Author contributions. J. B., G. W. B., P. G., and W. W. J. designed the study. J. B. and K. R. collected the data, and J. B., G. W. B., and N.S. analyz- ed the data. All the authors vouch for the accuracy of the data and approve of the analysis. M. W., G. D., T. D., J. D. T., and P.G. devised the microbio- logical protocol. J. B. , G. W. B., and N. S. were the primary authors of the article, but all the other authors contributed to it.
+Acknowledgments. We thank medical editors Steve Mitchell and Cathel Kerr for editing the manuscript, which was paid for by statutory funding from the Medical University of Warsaw.
+Financial support. This research was supported by statutory funding from the Medical University of Warsaw.
+Potential conflict of interests. N. S. is employed by Clinical Microbiomics, which was paid for NGS and data analysis. All other authors: no reported conflicts. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors con- sider relevant to the content of the manuscript have been disclosed.
+
+References
+World Health Organization. Worldwide country situation analysis: response to antimicrobial resistance. Geneva: WHO 2015. WHO/HSE/PED/AIP/2015.1 Accessed 29 April 2015, available at  documents/situationanalysis/en/
+Pitout JD, Laupland KB. Extended-spectrum beta-lactamase-producing Enterobacteriaceae: an emerging public-health concern. Lancet Infect Dis 2008; 8:159-66.
+Forslund K, Sunagawa S, Kultima JR, et al. Country-specific antibiotic use prac- tices impact the human gut resistome. Genome Res 2013; 23:1163-9.
+Buffie CG, Pamer EG. Microbiota-mediated colonization resistance against intes- tinal pathogens. Nat Rev Immunol 2013; 13:790-801.
+Montassier E, Gastinne T, Vangay P, et al. Chemotherapy-driven dysbiosis in the intestinal microbiome. Aliment Pharmacol Ther 2015; 42:515-28.
+Ubeda C, Bucci V, Caballero S, et al. Intestinal microbiota containing Barnesiella species cures vancomycin-resistant Enterococcus faecium colonization. Infect Immun 2013; 81:965-73.
+Caballero S, Carter R, Ke X, et al. Distinct but spatially overlapping intestinal niches for vancomycin-resistant Enterococcus faecium and carbapenem-resistant Klebsiella pneumoniae. PLoS Pathog 2015; 11:e1005132.
+Oostdijk EA, Kesecioglu J, Schultz MJ, et al. Effects of decontamination of the oropharynx and intestinal tract on antibiotic resistance in ICUs: a randomized clinical trial. JAMA 2014; 312:1429-37.
+Samet A, Sledzinska A, Krawczyk B, et al. Leukemia and risk of recurrent Escherichia coli bacteremia: genotyping implicates E. coli translocation from the colon to the bloodstream. Eur J Clin Microbiol Infect Dis 2013; 32:1393-400.
+Kim SB, Min YH, Cheong JW, et al. Incidence and risk factors for carbapenem- and multidrug-resistant Acinetobacter baumannii bacteremia in hematopoietic stem cell transplantation recipients. Scand J Infect Dis 2014; 46:81-8.
+
+370 * CID 2017:65 (1 August) * Bilinski et al
+
+Caselli D, Cesaro S, Ziino O, et al; Infection Study Group of the Associazione Italiana Ematologia Oncologia Pediatrica. Multidrug resistant Pseudomonas aeruginosa infection in children undergoing chemotherapy and hematopoietic stem cell transplantation. Haematologica 2010; 95:1612-5.
+Bilinski J, Robak K, Peric Z, et al. Impact of gut colonization by antibiotic-re- sistant bacteria on the outcomes of allogeneic hematopoietic stem cell transplan- tation: a retrospective, single-center study. Biol Blood Marrow Transplant 2016; 22:1087-93.
+van Nood E, Vrieze A, Nieuwdorp M, et al. Duodenal infusion of donor feces for recurrent Clostridium difficile. N Engl J Med 2013; 368:407-15.
+Gupta S, Allen-Vercoe E, Petrof EO. Fecal microbiota transplantation: in perspec- tive. Therap Adv Gastroenterol 2016; 9:229-39.
+Bilinski J, Grzesiowski P, Muszynski J, et al. Fecal microbiota transplantation inhibits multidrug-resistant gut pathogens: preliminary report performed in an immunocompromised host. Arch Immunol Ther Exp (Warsz) 2016; 64:255-8.
+Edgar RC. UPARSE: highly accurate OTU sequences from microbial amplicon reads. Nat Methods 2013; 10:996-8.
+Schloss PD, Westcott SL, Ryabin T, et al. Introducing mothur: open-source, plat- form-independent, community-supported software for describing and compar- ing microbial communities. Appl Environ Microbiol 2009; 75:7537-41.
+Common Terminology Criteria for Adverse Events (CTCAE), Version 4.0. National Institutes of Health, National Cancer Institute. 2010. Available at  gov/ftp1/CTCAE/CTCAE_4.03_2010-06-14_QuickReference_5x7.pdf. Accessed 22 October 2013.
+Taur Y, Jenq RR, Perales MA, et al. The effects of intestinal tract bacterial diversity on mortality following allogeneic hematopoietic stem cell transplantation. Blood 2014; 124:1174-82.
+O'Fallon E, Gautam S, D'Agata EM. Colonization with multidrug-resistant gram-negative bacteria: prolonged duration and frequent cocolonization. Clin Infect Dis 2009; 48:1375-81.
+Haverkate MR, Derde LP, Brun-Buisson C, Bonten MJ, Bootsma MC. Duration of colonization with antimicrobial-resistant bacteria after ICU discharge. Intensive Care Med 2014; 40:564-71.
+Haverkate MR, Weiner S, Lolans K, et al. Duration of colonization with Klebsiella pneumoniae carbapenemase-producing bacteria at long-term acute care hospitals in Chicago, Illinois. Open Forum Infect Dis. 2016; 3: ofw178.
+Henning KJ, Delencastre H, Eagan J, et al. Vancomycin-resistant Enterococcus fae- cium on a pediatric oncology ward: duration of stool shedding and incidence of clinical infection. Pediatr Infect Dis J 1996; 15:848-54.
+Patel R, Allen SL, Manahan JM, et al. Natural history of vancomycin-resistant enterococcal colonization in liver and kidney transplant recipients. Liver Transpl 2001; 7:27-31.
+Zimmerman FS, Assous MV, Bdolah-Abram T, Lachish T, Yinnon AM, Wiener- Well Y. Duration of carriage of carbapenem-resistant Enterobacteriaceae follow- ing hospital discharge. Am J Infect Control 2013; 41:190-4.
+Oren I, Sprecher H, Finkelstein R,  et  al.  Eradication  of  carbapenem-resist- ant Enterobacteriaceae gastrointestinal colonization with nonabsorbable oral antibiotic treatment: a prospective controlled trial. Am J Infect Control 2013; 41:1167-72.
+Rieg S, Kupper MF, de With K, Serr A, Bohnert JA, Kern WV. Intestinal decoloni- zation of Enterobacteriaceae producing extended-spectrum b-lactamases (ESBL): a retrospective observational study in patients at risk for infection and a brief review of the literature. BMC Infect Dis 2015; 15:475.
+Huttner B, Haustein T, Uckay I, et al. Decolonization of intestinal carriage of extended-spectrum b-lactamase-producing Enterobacteriaceae with oral colis- tin and neomycin: a randomized, double-blind, placebo-controlled trial. J Antimicrob Chemother 2013; 68:2375-82.
+Saidel-Odes L, Polachek H, Peled N, et al. A randomized, double-blind, place- bo-controlled trial of selective digestive decontamination using oral gentamicin and oral polymyxin E for eradication of carbapenem-resistant Klebsiella pneumo- niae carriage. Infect Control Hosp Epidemiol 2012; 33:14-9.
+Halaby T, Al Naiemi N, Kluytmans J, van der Palen J, Vandenbroucke-Grauls CM. Emergence of colistin resistance in Enterobacteriaceae after the introduction of selective digestive tract decontamination in an intensive care unit. Antimicrob Agents Chemother 2013; 57:3224-9.
+Wellington EM, Boxall AB, Cross P, et al. The role of the natural environment in the emergence of antibiotic resistance in gram-negative bacteria. Lancet Infect Dis 2013; 13:155-65.
+Trifilio S, Helenowski I, Giel M, et al. Questioning the role of a neutropenic diet following hematopoetic stem cell transplantation. Biol Blood Marrow Transplant 2012; 18:1385-90.
+Gerbitz A, Schultz M, Wilke A, et al. Probiotic effects on experimental graft-ver- sus-host disease: let them eat yogurt. Blood 2004; 103:4365-7.
+Millan B, Park H, Hotte N, et al. Fecal microbial transplants reduce antibiotic-re- sistant genes in patients with recurrent Clostridium difficile infection. Clin Infect Dis 2016; 62:1479-86.

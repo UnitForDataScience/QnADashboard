@@ -1,0 +1,447 @@
+
+
+
+
+
+Epigallocatechin gallate induces a hepatospecific decrease in the CYP3A expression level by altering intestinal flora
+Nobutomo Ikarashi ,1, Sosuke Ogawa ,1, Ryuta Hirobe , Risako Kon , Yoshiki Kusunoki , Marin Yamashita ,
+Nanaho Mizukami , Miho Kaneko , Nobuyuki Wakui , Yoshiaki Machida , Kiyoshi Sugiyama ,
+a Department of Clinical Pharmacokinetics, Hoshi University, Japan
+b Division of Applied Pharmaceutical Education and Research, Hoshi University, Japan
+
+
+a r t i c l e	i n f o  
+
+Article history:
+Received 5 October 2016
+Received in revised form 10 January 2017
+Accepted 19 January 2017
+Available online 21 January 2017
+
+Keywords:
+Cytochrome P450 Epigallocatechin gallate Green tea polyphenol Clostridium spp.
+Pregnane X receptor
+
+a b s t r a c t  
+
+In previous studies, we showed that a high-dose intake of green tea polyphenol (GP) induced a hepatospecific decrease in the expression and activity of the drug-metabolizing enzyme cytochrome P450 3A (CYP3A). In this study, we examined whether this decrease in CYP3A expression is induced by epigallocatechin gallate (EGCG), which is the main component of GP. After a diet containing 1.5% EGCG was given to mice, the hepatic CYP3A ex- pression was measured. The level of intestinal bacteria of Clostridium spp., the concentration of lithocholic acid (LCA) in the feces, and the level of the translocation of pregnane X receptor (PXR) to the nucleus in the liver were examined. A decrease in the CYP3A expression level was observed beginning on the second day of the treat- ment with EGCG. The level of translocation of PXR to the nucleus was significantly lower in the EGCG group. The fecal level of LCA was clearly decreased by the EGCG treatment. The level of intestinal bacteria of Clostridium spp. was also decreased by the EGCG treatment. It is clear that the hepatospecific decrease in the CYP3A expression level observed after a high-dose intake of GP was caused by EGCG. Because EGCG, which is not absorbed from the intestine, causes a decrease in the level of LCA-producing bacteria in the colon, the level of LCA in the liver decreases, resulting in a decrease in the nuclear translocation of PXR, which in turn leads to the observed de- crease in the expression level of CYP3A.
+
+(c) 2017 Elsevier B.V. All rights reserved.
+
+
+
+
+Introduction
+
+Polyphenols are aromatic molecules that contain multiple phenolic hydroxyl groups and are components of plant pigments with a bitter fla- vor. Polyphenols have been reported to be useful in anti-oxidative () and anti-obesity ( ) treatments, and are currently used in func- tional foods. Representative polyphenols include green tea polyphenols (GP), apple polyphenols, and wine polyphenols. GP are used worldwide for their varied pharmacological effects.
+The absorption rate of polyphenols into the body is usually low. For example, the absorption rate of epigallocatechin gallate (EGCG), an ac- tive component in GP, is approximately 1% (). To in- crease absorption of GP in the body, people have been increasing their intake of functional foods that contain high-dose GP. Accordingly, al- though EGCG consumption may reduce drug-induced liver injury ( ), there have been many reports suggesting the adverse
+
+* Corresponding author at: Department of Clinical Pharmacokinetics, Hoshi University, 2-4-41 Ebara, Shinagawa-ku, Tokyo 142-8501, Japan.
+E-mail address: (K. Sugiyama).
+1 These authors contributed equally to this report.
+
+effects of excessive GP intake, including liver disorders ( ) and iron absorption inhibition (). Therefore, stud- ies regarding the safety of high-dose GP are required.
+In recent years, it has also been reported that various functional foods alter the pharmacokinetics of concomitant drugs. For example, St John's wort, which is an antidepressant, induces the expression of the drug-metabolizing enzyme cytochrome P450 3A (CYP3A), which exists predominantly in the liver. Thus, the efficacy of CYP3A substrate drugs decreases due to a decrease in the blood levels when St John's wort is concomitantly consumed with a CYP3A substrate drug (). Therefore, to assess the safety of functional foods, the consideration of drug interac- tions is very important.
+In previous studies, we examined the pharmacokinetic safety of in- take of high-dose GP in mice. We discovered that a high-dose intake  of GP (defined as a diet containing 3% GP) for a prolonged period     (4 weeks) induced a hepatospecific decrease in the expression level and metabolic activity of CYP3A, which led to an increase in the blood concentration of CYP3A substrate drugs (). In addi- tion, it was found that while the effect of GP on CYP3A was not observed after a low-dose intake of GP (defined as a diet containing 0.1% GP), a strong effect was observed after 1 week of high-dose GP intake
+
+
+
+0928-0987/(c) 2017 Elsevier B.V. All rights reserved.
+
+
+
+(). A previous report demonstrated that GP sup- pressed the gastrointestinal absorption of nadolol and that EGCG was the active ingredient (). The antioxidant effect of GP has also been reported and is largely attributable to EGCG ( ). We hypothesized that the hepatospecific decrease in CYP3A expression level observed after an intake of high- dose GP was caused by EGCG, and we therefore conducted an experi- ment to examine this possibility. The mechanism for the EGCG-induced decrease in CYP3A expression level was also investigated.
+
+Methods
+
+Materials
+
+Sunphenon EGCG-OP (Lot No. 403251; Taiyo Kagaku Co. Ltd., Mie, Japan), which was supplied by Mimozax Co., Ltd. (Hiroshima, Japan), was used as the EGCG. Sunphenon EGCG-OP is a dry powder with a total EGCG content of at least 90%. All other reagents were of the highest commercially available grade.
+
+Animals
+
+Male ICR mice (6 weeks old) were purchased from Japan SLC, Inc. (Shizuoka, Japan). The mice were kept at room temperature (24 +-      1 degC) at 55 +- 5% humidity with a 12 h light cycle (artificial illumination: 08:00-20:00). The present study was conducted according to the Guid- ing Principles for the Care and Use of Laboratory Animals as adopted by the Committee on Animal Research at Hoshi University.
+
+Treatments
+
+The mice were fed a powdered diet containing 0.05%, 0.75%, or 1.5% EGCG for 2 days, 7 days, or 10 days. The control group consisted of mice fed a powdered diet that did not contain EGCG. After the indicated time period, blood was collected from the abdominal vena cava, and plasma fractions were separated by centrifugation. The liver and small intes- tines were removed and flash-frozen in liquid nitrogen. The feces in the colon were also collected. Additionally, EGCG (20 mg/kg) or saline was administered intraperitoneally to a group of mice, and the plasma and organs were collected and preserved in the same way.
+
+Cell Culture of HepaRG
+
+The HepaRG cells (Charles River Laboratories Japan, Inc., Kanagawa, Japan) were plated on a 96-well plate at a density of 1.25 x 105 cells/ well, and treated with EGCG (100 mM) for 24 h.
+
+Real-time RT-PCR
+
+RNA was extracted from the mouse liver, small intestine, and HepaRG cells using the TRI reagent. A high-capacity cDNA synthesis kit was used to synthesize cDNA from 1 mg of RNA. Target gene expres- sion was analyzed with real-time RT-PCR using the primers listed in . The mRNA gene expression levels were normalized to glyceral- dehyde-3-phosphate dehydrogenase (GAPDH) gene expression levels.
+
+Table 1
+
+Preparation of Microsomal and Nuclear Fractions for Immunoblotting
+
+Microsomal fractions from the liver and small intestines were per- formed as described previously (). Nuclear proteins from the livers were extracted according to the NE-PER nuclear extrac- tion kit protocol.
+
+Electrophoresis and Immunoblotting
+
+The samples were separated using SDS-PAGE electrophoresis, and the proteins were transferred to a polyvinylidene difluoride membrane. The membrane was incubated with the primary antibodies and second- ary antibodies. The proteins were visualized using an LAS-3000 Mini Lumino image analyzer (Fuji Film, Tokyo, Japan).
+
+Quantification of Bacteria From Fecal Samples
+
+DNA was extracted from the feces using the QIAamp DNA stool mini kit. Target gene expression was analyzed with real-time PCR using the primers listed in . The DNA expression levels were normalized to 16S rRNA gene expression levels.
+
+Extraction of Bile Acids in the Feces and Analysis Using UPLC/ESI-MS
+
+Extraction of bile acids and analysis using UPLC/ESI-MS were per- formed as described previously (). The detection limit for both lithocholic acid (LCA) and deoxycholic acid (DCA) was
+0.002 mmol/g feces.
+
+Extraction of EGCG in the Plasma and Feces Analysis Using HPLC
+
+The extraction of EGCG and analysis using HPLC were performed as described previously (). The limit detection for EGCG was
+0.125 mg/mL.
+
+Statistical Analyses
+
+Numerical data were expressed as the mean +- standard deviation. Significance was examined using Student's t-test for pairs of values and Tukey's test for multiple comparisons. Differences of p b 0.05 were considered to be statistically significant.
+
+Results
+
+Body Weight and Food Intake
+
+Powdered diets containing 0.05%, 0.75%, and 1.5% EGCG were given to the mice for 7 days, and body weights and food intake were measured.
+The body weights of the mice in the 0.05%, 0.75%, and 1.5% EGCG groups did not differ from those of the mice in the control group ( -A). Similarly, there was no difference in food intake levels between the EGCG groups and the control group (-B).
+
+
+Table 2
+Primer sequences of intestinal microbacteria.
+Target	Forward primer (5'' to 3'')	Reverse primer (5'' to 3'')
+
+Primer sequences of mouse mRNA.
+Target	Forward primer (5'' to 3'')	Reverse primer (5'' to 3'') CYP3A11	CGCCTCTCCTTGCTGTCACA	CTTTGCCTTCTGCCTCAAGT
+
+Clostridium cluster IX Clostridium
+cluster XIVa
+
+GCACAAGCAGTGGAGT	CTTCCTCCGTTTTGTCAA GAWGAAGTATYTCGGTATGT CTACGCWCCCTTTACAC
+
+GAPDH	GGCAAATTCAACGGCACAGT	AGATGGTGATGGGCTTCCC	16S rRNA	TCCTACGGGAGGCAGCAGT	GGACTACCAGGGTATCTATCCTGTT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Body weight and food intake. A powdered diet containing EGCG or a diet that did not contain EGCG (control group) was fed to mice. After 7 days, body weight (A) and food intake (B) were determined. Body weight was presented as the mean +- standard deviation (n = 5). Food intake for each cage (5 mice/cage) in each group was determined, and the mean food intake by day was calculated.
+
+
+Effect of Oral Intake of EGCG on the mRNA Expression Level of CYP3A11 in the Liver
+
+In previous studies, we showed that after a diet containing 3% GP was given to mice for 7 days, the mRNA expression level of CYP3A11 in the liver decreased to approximately 40% of that in the control group (). A diet containing 3% GP contains 1.5% EGCG (). Accordingly, we examined whether this de- crease in the expression level of CYP3A11 would also be observed when EGCG was given.
+The expression level of the mRNA of CYP3A11 in the liver decreased in proportion to the EGCG dose. A significant difference from the control group was observed in the group of mice that was given a diet contain- ing 1.5% EGCG (). The extent of this decrease was nearly identical to that observed after the diet containing 3% GP was given for 7 days ().
+Based on these results, the decrease in CYP3A expression level ob- served after administration of a diet containing 3% GP was shown to be attributable to EGCG.
+
+Relationship Between the Decrease in CYP3A Expression Level Caused by EGCG and the Period of Food Intake
+
+It was observed that the mRNA expression level of CYP3A11 in the liver decreased significantly when a powdered diet containing 1.5% EGCG was given to mice for 7 days. We next examined which time point corresponded to the onset of this decrease in expression level, and whether  this decrease  would be  maintained  for longer than   7 days. A similar examination was performed for the expression level
+
+in the intestines, where the CYP3A expression level was the second highest following the liver ().
+The mRNA expression level of CYP3A11 in the livers of the mice that were given a diet containing 1.5% EGCG for 2 days decreased significant- ly to approximately 40% of the expression level in the control group. This decrease in expression level was nearly identical to that observed after EGCG was given for 7 days. The extent of the decrease in CYP3A11 expression level in the liver after EGCG was given for 10 days was similar to that after EGCG was given for 2 days (-A). However, the mRNA expression level of CYP3A11 in the intestines for all administration periods did not differ significantly from the level in the control group (-B).
+We next investigated whether the hepatic decrease in CYP3A ex- pression level caused by EGCG administration was also observed in the accompanying protein level. CYP3A was identified as 2 bands that
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. The effects of oral EGCG intake on the hepatic CYP3A11 mRNA expression level. A powdered diet containing EGCG or a diet that did not contain EGCG (control group) was fed to mice for 7 days. The CYP3A11 mRNA expression levels in the liver were measured with real-time RT-PCR and were normalized to GAPDH. The results were obtained by setting the means of the control group to 100%. The data are presented as the means +-
+S.D. and were obtained from five mice per group. Dunnett's test; ***p b 0.001 vs. the control group.
+
+
+Fig. 3. The effects of oral EGCG intake on the CYP3A11 mRNA expression level in the liver and small intestine. A powdered diet containing 1.5% EGCG or a diet that did not contain EGCG (control group) was fed to mice for 2 days or 10 days. The CYP3A11 mRNA expression levels in the liver and small intestine were measured with real-time RT-PCR and were normalized to GAPDH. The results were obtained by setting the means of the control group to 100%. The data are presented as the means +- S.D. and were obtained from five mice per group. Student's t-test; ***p b 0.001 vs. the control group.
+
+
+
+appeared at approximately 52 kDa. Genes encoding at least eight differ- ent mouse CYP3A isozymes have been identified (). Therefore, CYP3A was identified as 2 bands on our immunoblots, sug- gesting the expression of more than one mouse CYP3A isozyme. In this study, the sum of these band intensities was used to evaluate the CYP3A protein expression level (). In the group of mice that was given a diet containing 1.5% EGCG for 2 days, the protein expression level of CYP3A in the liver was significantly decreased to ap- proximately 80% of the expression level in the control group. In the group of mice that was given a diet containing 1.5% EGCG for 10 days, the protein expression level of CYP3A was significantly decreased to ap- proximately 60% of that in the control group ().
+Based on the above results, when a powdered diet containing 1.5% EGCG was given to mice, a hepatospecific decrease in CYP3A expression level was observed from the second day of treatment.
+
+Effect of EGCG on the Hepatic Expression of CYP3A
+
+The next issue to be examined was whether the decrease in CYP3A in the liver observed after the oral administration of EGCG was a direct effect of EGCG or an indirect effect characteristic of oral administration. Taking into account the absorption rate of orally administered EGCG (), the CYP3A expression level in the liver after 7 days of intraperitoneal administration of EGCG was analyzed. The expression level of CYP3A after the addition of EGCG to HepaRG cells, which are human hepatocellular carcinoma cells, was also analyzed. Note that be- cause CYP expression is maintained in HepaRG cells, they are widely used for research concerning changes in CYP expression ( ).
+No difference was observed in the mRNA expression level of CYP3A11 in the liver between the EGCG group and the control group (-A). Similarly, no difference was observed in the protein expres- sion level of CYP3A between these two groups (-B). EGCG was not detected in the mice that were given a diet containing 1.5% EGCG for 2 days (). In contrast, the plasma EGCG concentration at 2 h after the intraperitoneal administration of EGCG to the mice was ap- proximately 1 mg/mL ().
+The mRNA expression level of CYP3A4 after the addition of EGCG to the HepaRG cells was also analyzed. After treatment, CYP3A4 expres- sion was significantly increased to approximately twice the level of con- trol ().
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. The effects of the intraperitoneal administration of EGCG on the hepatic CYP3A expression level. EGCG (20 mg/kg) or saline was administered intraperitoneally to the mice for 7 days. The CYP3A11 mRNA expression level in the liver was measured with real-time RT-PCR and normalized to GAPDH (A). The CYP3A protein expression level in the liver was measured by western blotting and normalized to GAPDH (B). The results were obtained by setting the means of the control group to 100%. The data are presented as the means +- S.D. and were obtained from five mice per group.
+
+
+Based on the above results, it was determined that the probability that the expression level of hepatic CYP3A was decreased due to the di- rect effect of absorbed EGCG was low.
+
+
+The Expression Level and Nuclear Translocation Level of PXR in the Liver
+
+The expression level of CYP3A is regulated by PXR, a nuclear receptor (). When the level of translocation of PXR to the nu- cleus decreases, the expression level of CYP3A decreases ( ). Therefore, in this study, we examined whether the expression and nuclear translocation of PXR were suppressed in the livers of mice that showed a decrease in the expression of CYP3A.
+Regarding the mRNA expression level of hepatic PXR, no difference was observed between the mice that were given a diet containing 1.5% EGCG for 2 days and the mice in the control group. Similarly, no dif- ference in PXR expression level was observed in the mice that were given EGCG for 10 days and the control group (-A).
+PXR was identified as a signal band that appeared at approximately 50 kDa. In the mice that were given EGCG for 2 days, the PXR protein ex- pression level in the liver fraction decreased to approximately 50% of that in the control group. In  the mice that were  given EGCG  for 10 days, the nuclear translocation of PXR decreased to approximately 50% of that in the control group (-B).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4. The effects of oral EGCG intake on the hepatic CYP3A protein expression level. A powdered diet containing 1.5% EGCG or a diet that did not contain EGCG (control group) was fed to mice for 2 days or 10 days. The CYP3A protein expression level in the liver was measured by western blotting and normalized to GAPDH. The results were obtained by setting the means of the control group to 100%. The data are presented as the means +- S.D. and were obtained from five mice per group. Student's t-test;
+*p b 0.05 and ***p b 0.001 vs. the control group.
+
+
+
+Fig. 6. Plasma EGCG concentration after EGCG administration. A powdered diet containing 1.5% EGCG was fed to mice for 2 days. EGCG (20 mg/kg) was administered intraperitoneally to the mice for 7 days. Blood was collected, and plasma EGCG concentrations were measured by HPLC. The data are presented as the means +- S.D. and were obtained from five mice per group (ND; not detected).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 7. The effects of EGCG on the CYP3A4 mRNA expression level in HepaRG cells. HepaRG cells were treated with EGCG (100 mM) for 24 h. The CYP3A4 mRNA expression level was measured with real-time RT-PCR and normalized to GAPDH. The results were obtained by setting the means of the control group to 100%. The data are presented as the means +- S.D. and were obtained from five experiments. Student's t-test; **p b 0.01 vs. the control.
+
+Based on these results, it was suggested that the observed decrease in CYP3A expression levels in the livers of the mice that were given oral EGCG was caused by a decrease in the level of nuclear translocation of PXR, rather than by a decrease in the level of PXR synthesis.
+
+Bile Acid Concentration in the Colon
+
+PXR is translocated to the nucleus after becoming bound to a ligand. It is known that LCA, which is a secondary bile acid, is one of the intrinsic ligands of PXR (). In previous studies, we found the existence of a correlation between the LCA con- centration in the feces in the colon and the CYP3A expression level in the liver, and we showed that the hepatic CYP3A expression level de- creased when the LCA concentration in the colon decreased ( ). In this study, to understand the mechanism of the
+
+decrease in hepatic CYP3A levels caused by EGCG administration, we conducted an analysis that focused on the LCA concentration in the colon.
+The LCA concentration in the colon of the mice in the control group was between 0.015 mmol/g and 0.030 mmol/g. LCA was not detected in the colons of the mice that were given a diet containing 1.5% EGCG for either 2 days or 10 days (). On the other hand, the LCA concentra- tion in the colon was similar to that in the control group for the mice that received an intraperitoneal administration of EGCG (20 mg/kg/ day) for 7 days ().
+The above results showed that the LCA concentration in the colon decreased when EGCG was orally administered.
+
+
+Changes in Intestinal Flora Induced by the Administration of EGCG
+
+A primary bile acid, chenodeoxycholic acid, is converted to LCA by the action of 7a-dehydroxylase, an enzyme derived from intestinal bac- teria. It has been reported that intestinal bacteria of Clostridium spp., in- cluding C. leptum, C. Scindes, C. hiranonis, and C. hylemonae possess 7a- dehydroxylase activity (  ). These bacteria are classified into Clostridium cluster IV (C. leptum) and Clostridium cluster XIVa (C. Scindes, C. hiranonis, and
+C. hylemonae) based on the 16S rDNA sequence. In this study, we inves- tigated whether there were changes in the levels of intestinal bacteria of Clostridium cluster IV and Clostridium cluster XIVa in the feces of mice treated with EGCG.
+The level of intestinal bacteria of Clostridium cluster IV after 2 days of treatment with EGCG decreased to b 5% of that in the control group. This decrease was also observed after 10 days of treatment with EGCG. The level of intestinal bacteria of Clostridium cluster XIVa after 2 days of treatment with EGCG decreased to b 3% of that in the control group, and this decrease was also observed after 10 days of treatment ().
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 8. The expression level and nuclear translocation of PXR in the liver. A powdered diet containing 1.5% EGCG or a diet that did not contain EGCG (control group) was fed to mice for 2 days or 10 days. The PXR mRNA expression level in the liver was measured with real- time RT-PCR and normalized to GAPDH (A). Nuclear fractions were prepared from the livers, and the protein level of PXR  was measured by  western blotting and  normalized  to Lamin B (B). The results were obtained by setting the means of the control group to 100%. The data are presented as the means +- S.D. and were obtained from five mice per group. Student's t-test; *p b 0.05 vs. the control group.
+
+
+
+
+
+Fig. 9. The effects of oral EGCG intake on the LCA and DCA concentration in the colon. A powdered diet containing 1.5% EGCG or a diet that did not contain EGCG (control  group) was fed to mice for 2 days (A) or 10 days (B). The feces were collected from the colon, and LCA and DCA were measured by UPLC. The data  are  presented  as  the means +- S.D. and were obtained from five mice per group (ND; not detected).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 10. The effects of the intraperitoneal administration of EGCG on the LCA concentration in the colon. EGCG (20 mg/kg) or saline was administered intraperitoneally to the mice for 7 days. The feces were collected from the colon, and LCA concentrations were measured by UPLC. The data are presented as the means +- S.D. and were obtained from five mice per group (ND; not detected).
+
+Based on the above results, the level of intestinal bacteria possessing 7a-dehydroxylase activity decreased significantly when EGCG was orally administered.
+
+EGCG Concentration in Feces
+
+It has been reported that EGCG displays antimicrobial properties () and suppresses the growth of bacteria of Clostridium spp. (). In this study, we measured the concentration of EGCG in the feces to determine whether orally administered EGCG reached the colon.
+The EGCG concentration in the feces of the mice that received orally administered EGCG for 2 days was approximately 70 mg/g feces. The EGCG concentration in the feces of the mice that were administered EGCG for 7 days and 10 days was also approximately 70 mg/g feces ().
+Based on these results, it was shown that a constant amount of EGCG existed in the feces of the mice that were orally administered EGCG.
+
+Discussion
+
+In recent years, functional foods that contain high doses of GP have been developed with the expectation of increasing the absorption of polyphenols. In previous studies, we conducted in vivo experiments using mice to evaluate the safety of high-dose GP from a pharmacoki- netic perspective. From this experiment, we learned that when a diet containing 3% GP was given to mice for 4 weeks, the expression level of CYP3A decreased in a liver-specific manner, and the blood concentra- tion of CYP3A substrate drugs increased. A decrease in CYP3A expres- sion in the liver was also observed after the administration of GP for   7 days (). In this study, we examined whether the decrease in CYP3A expression observed after the administration of
+
+
+Fig. 12. The effects of oral EGCG intake on the EGCG concentration in the colon. A powdered diet containing 1.5% EGCG was fed for 2 days, 7 days, and 10 days. The feces were collected from the colon, and the EGCG concentration was measured by HPLC. The data are presented as the means +- S.D. and were obtained from five mice per group.
+
+high-dose GP was induced by EGCG, and we also investigated the mech- anism for this decrease.
+GP, which were used in our previous studies, contain 57% EGCG (). In this study, mice received a diet containing 1.5% EGCG (an equal amount of EGCG to that found in a diet containing 3% GP) for 7 days. The body weight and food intake in EGCG-treated mice was similar to those in GP-treated mice (). It was shown that the CYP3A expression level in the livers of the mice in the EGCG group was significantly decreased compared with the control group (A). This decrease in the expression of CYP3A was hepatospecific and was not observed in the intestines (). It was also shown that this decrease in CYP3A expression was present by the second day of EGCG administration (). These results are similar to those of a previous study in which a diet containing 3% GP was ad- ministered (). The above results indicated that the hepatospecific decrease in CYP3A expression observed when a diet con- taining 3% GP was administered to mice was caused by EGCG.
+We next considered the mechanism of the hepatospecific decrease in CYP3A exerted by EGCG. We examined the possibility that orally ad- ministered EGCG was absorbed from the intestine and directly de- creased the CYP3A expression level in the liver. Although the absorption rate of orally administered EGCG is low, intraperitoneally ad- ministered EGCG is rapidly transferred to the blood ( ) (). Thus, to examine the direct effect of EGCG in the liver, we analyzed the CYP3A expression level in the liver after an intraperito- neal administration of EGCG to mice; our results indicated there were no changes in the hepatic CYP3A expression level following the intra- peritoneal administration of EGCG (). It was also shown that an in- crease, rather than a decrease, in the expression level of CYP3A was observed when EGCG was treated to HepaRG cells (). This increase was consistent with a previous reported that demonstrated an EGCG-in- duced increase in CYP3A promoter activity (). There- fore, it was suggested that the probability that the hepatic CYP3A
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 11. The effects of oral EGCG intake on the intestinal flora in the colon. A powdered diet containing 1.5% EGCG or a diet that did not contain EGCG (control group) was fed to mice for 2 days or 10 days. The feces were collected from the colon, and Clostridium cluster IV (A) and Clostridium cluster XIVa (B) were measured using real-time PCR and normalized to 16S rRNA. The results were obtained by setting the means of the control group to 100%. The data are presented as the means +- S.D. and were obtained from five mice per group. Student's t-test;
+*p b 0.05 vs. the control group.
+
+
+
+expression level was decreased by a direct effect of EGCG in the liver was low. This view was also supported by the fact that the hepatic CYP3A expression level decreased even though the oral administration of EGCG did not result in a high EGCG concentration in plasma ( ). EGCG is transferred to the blood and is excreted into the urine after sulfate conjugation or glucuronic acid conjugation ( ). Therefore, although the possibility remained that the CYP3A ex- pression level was decreased via these conjugates, the effect was con- sidered to be small when accounting for the low absorption rate of EGCG from the gastrointestinal tract ().
+We next examined the possibility that the hepatic CYP3A expression level was decreased via an indirect effect of EGCG. Previously, it has been reported that EGCG suppressed the growth of intestinal bacteria of Clostridium spp., which are involved in the production of secondary bile acids (), and that the LCA concentration in the feces was decreased by polyphenols such as catechin, curcumin, and caffeic acid (). We re- ported that when LCA was administered to germ-free mice that lacked intestinal bacteria, the hepatic CYP3A expression level increased ( ). It was suggested that the hepatic CYP3A expression level increased because LCA acted as a ligand for the nuclear receptor, PXR, which controls the expression of CYP3A. We also revealed that when antibiotics were administered to mice, the level of LCA-producing bacteria decreased, which caused a decrease in LCA concentrations in the colon and led to a decrease in the CYP3A expression level in the liver (). It was also revealed that, although the level of LCA in the liver was below the detection limit, the level of taurine conjugate of LCA, which could reflect the LCA level in the liver, decreased when the LCA concentration in the colon decreased ( ). Based on the above findings, we attempted to prove the hy- pothesis that EGCG decreased the expression level of CYP3A in the liver via the following mechanism: EGCG that was not absorbed from the intestine was carried to the colon, which caused a decrease in the level of intestinal bacteria with 7a-dehydroxylase activity, and lead to a decrease in the LCA concentration in the colon. As a result, the level of LCA reaching the liver decreased, and the nuclear translocation of PXR in the liver was suppressed, which ultimately lead to a decrease in the expression level of CYP3A in the liver. The EGCG concentration in the colon of mice that were orally administered EGCG was already high on the second day of EGCG administration, and remained almost identical to the level in mice that were administered a diet containing EGCG for 10 days (). The levels of intestinal bacteria of Clostridium cluster IV and Clostridium cluster XIVa, which possess 7a- dehydroxylase activity, and the LCA concentration in the colon de- creased on the second day of EGCG treatment (). Similarly, the expression level of PXR in the liver fraction also decreased on the second day of EGCG treatment (B). In contrast, the concentration of LCA in the colon and CYP3A in the liver of the mice that were admin- istered intraperitoneal EGCG were almost the same as the control group (). Therefore, it was suggested that the decrease in the he- patic CYP3A expression level observed when EGCG was orally adminis- tered could be caused by the decrease in colon LCA concentrations associated with the changes in the intestinal flora. In addition, the ad- ministration of EGCG caused not only a decrease in colon LCA concen- trations but also a decrease in the concentration of DCA, a secondary bile acid acting as a ligand for PXR in the colon () ( ). Therefore, it is considered possible that the decrease in DCA is also involved in the decrease in CYP3A expression level observed after the administration of EGCG. However, additional studies are required in the future to determine the extent to which LCA and DCA are involved in the decrease of CYP3A expression.
+As described above, when EGCG was orally administered, CYP3A ex-
+pression in the liver decreased; however, the CYP3A expression level in the intestine was unchanged (). Although we remain speculative, one reason for this may be that because the level of intestinal bacteria in the upper part of the intestines is lower than in the colon, LCA,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 13. Mechanism by which EGCG decreases hepatic CYP3A expression.
+
+
+which is produced by intestinal bacteria, is almost undetectable in the upper part of the intestines. LCA produced in the colon is transferred to the liver and converted by taurine conjugation to taurolithocholic acid (TLCA), which is secreted into the intestine but does not activate PXR (); this is considered to be the reason for the ab- sence of changes in the CYP3A levels.
+In this study, we found that although the CYP3A expression level in- creased after the treatment of EGCG to liver cells, an increase in CYP3A expression level in the liver was not observed after the intraperitoneal administration of EGCG (). While the reason remains un- clear, one potential cause of this difference may be because the concen- tration of EGCG administered to the liver cells was higher than the concentration in the livers of the mice that were intraperitoneally ad- ministered EGCG.
+The results of our study clearly attributed the hepatospecific de- crease in CYP3A expression, which was observed after the administra- tion of a high dose of GP, to EGCG, which is the main component of GP. In addition, it is possible that this decrease in the CYP3A expression level occurred because EGCG that was not absorbed from the gastroin- testinal tract reached the colon and decreased the level of intestinal bac- teria that produced secondary bile acids, including LCA and DCA, and consequently caused a decrease in the concentrations of LCA and DCA (). It has been reported  that  the  intake  of  tea  polyphenols (0.4 g/day) by humans for 4 weeks caused a decrease in intestinal bac- teria of Clostridium spp. (). In future, it is necessary to investigate in detail whether the findings in this study can occur in clin- ical practice.
+
+Conflict of Interest
+
+The authors declare that there are no conflicts of interest.
+
+Acknowledgments
+
+This work was supported by the Japan Food Chemical Research Foundation. We thank Mr. Kanjiro Ishihara, Mr. Takanori Yoshino, and Mr. Hiroshi Kimura for their technical assistance.
+
+References
+Boots, A.W., Haenen, G.R., Bast, A., 2008.  7.
+Cai, Y., Anavy, N.D., Chow, H.H., 2002.   .
+
+
+
+Cantoni, L., Rozio, M., Mangolini, A., Hauri, L., Caccia, S., 2003.   .
+Chen, L., Lee, M.J., Li, H., Yang, C.S., 1997.  .
+Doerner, K.C., Takamine, F., LaVoie, C.P., Mallonee, D.H., Hylemon, P.B., 1997.   .
+Emoto, C., Yamazaki, H., Yamasaki, S., Shimada, N., Nakajima, M., Yokoi, T., 2000.   3.
+Fu, T., Liang, J., Han, G., Lv, L., Li, N., 2008.  
+7.
+Guillouzo, A., Corlu, A., Aninat, C., Glaise, D., Morel, F., Guguen-Guillouzo, C., 2007.   .
+Hagio, M., Matsumoto, M., Fukushima, M., Hara, H., Ishizuka, S., 2009.   0.
+Han, Y., Haraguchi, T., Iwanaga, S., Tomotake, H., Okazaki, Y., Mineo, S., Moriyama, A., Inoue, J., Kato, N., 2009.  
+.
+Hayakawa, S., Hattori, T., 1970.   .
+Hojo, Y., Echizenya, M., Ohkubo, T., Shimizu, T., 2011.  5.
+Ikarashi, N., Takeda, R., Ito, K., Ochiai, W., Sugiyama, K., 2011a.   .
+Ikarashi, N., Toda, T., Okaniwa, T., Ito, K., Ochiai, W., Sugiyama, K., 2011b.   .
+Ikarashi, N., Ogawa, S., Hirobe, R., Kusunoki, Y., Kon, R., Ochiai, W., Sugiyama, K., 2016.   5.
+Ishii, M., Toda, T., Ikarashi, N., Kusunoki, Y., Kon, R., Ochiai, W., Machida, Y., Sugiyama, K., 2014.   5.
+Jiang, X., Williams, K.M., Liauw, W.S., Ammit, A.J., Roufogalis, B.D., Duke, C.C., Day, R.O., McLachlan, A.J., 2004.   9.
+Kitahara, M., Takamine, F., Imamura, T., Benno, Y., 2000.       .
+Kitahara, M., Sakamoto, M., Benno, Y., 2001a.  6. Kitahara, M., Takamine, F., Imamura, T., Benno, Y., 2001b.  
+.
+Kluth, D., Banning, A., Paur, I., Blomhoff, R., Brigelius-Flohe, R., 2007.   5.
+Kono, K., Tatara, I., Takeda, S., Arakawa, K., Hara, Y., 1994.   .
+Kusunoki, Y., Ikarashi, N., Matsuda, S., Matsukawa, Y., Kitaoka, S., Kon, R., Tajima, M., Wakui, N., Ochiai, W., Machida, Y., Sugiyama, K., 2015.   .
+Lee, M.J., Wang, Z.Y., Li, H., Chen, L., Sun, Y., Gobbo, S., Balentine, D.A., Yang, C.S., 1995.  9.
+
+Lee, M.S., Kim, C.T., Kim, Y., 2009.   7.
+Li, G.X., Chen, Y.K., Hou, Z., Xiao, H., Jin, H., Lu, G., Lee, M.J., Liu, B., Guan, F., Yang, Z., Yu, A.,
+Yang, C.S., 2010.   .
+Ma, Q., Kim, E.Y., Han, O., 2010.   .
+Matheny, C.J., Ali, R.Y., Yang, X., Pollack, G.M., 2004.   .
+Misaka, S., Miyazaki, N., Fukushima, T., Yamada, S., Kimura, J., 2013.   
+Molinari, M., Watt, K.D., Kruszyna, T., Nelson, R., Walsh, M., Huang, W.Y., Nashan, B., Peltekian, K., 2006.    .
+Moravcova, A., Cervinkova, Z., Kucera, O., Mezera, V., Lotkova, H., 2014.   8.
+Nakai, M., Harada, M., Nakahara, K., Akimoto, K., Shibata, H., Miki, W., Kiso, Y., 2003.   .
+Nelson, D.R., Zeldin, D.C., Hoffman, S.M., Maltais, L.J., Wain, H.M., Nebert, D.W., 2004.    .
+Okubo, T., Ishihara, N., Oura, A., Serit, M., Kim, M., Yamamoto, T., Mitsuoka, T., 1992.   .
+Owen, B.M., Milona, A., van Mil, S., Clements, P., Holder, J., Boudjelal, M., Cairns, W., Parker, M., White, R., Williamson, C., 2010.  9.
+Shimada, T., Yamazaki, H., Mimura, M., Inui, Y., Guengerich, F.P., 1994.    3.
+Staudinger, J.L., Goodwin, B., Jones, S.A., Hawkins-Brown, D., MacKenzie, K.I., LaTour, A., Liu, Y., Klaassen, C.D., Brown, K.K., Reinhard, J., Willson, T.M., Koller, B.H., Kliewer, S.A., 2001.  .
+Stellwag, E.J., Hylemon, P.B., 1979.  3.
+Toda, T., Ohi, K., Kudo, T., Yoshida, T., Ikarashi, N., Ito, K., Sugiyama, K., 2009a.   8.
+Toda, T., Ohi, K., Kudo, T., Yoshida, T., Ikarashi, N., Ito, K., Sugiyama, K., 2009b.   8.
+Toda, T., Saito, N., Ikarashi, N., Ito, K., Yamamoto, M., Ishige, A., Watanabe, K., Sugiyama, K., 2009c.  4.
+Unno, T., Sakuma, M., Mitsuhashi, S., 2014.    .
+Xie, W., Radominska-Pandya, A., Shi, Y., Simon, C.M., Nelson, M.C., Ong, E.S., Waxman, D.J., Evans, R.M., 2001.  
+Yao, H.T., Yang, Y.C., Chang, C.H., Yang, H.T., Yin, M.C., 2015.   .
+Yun, B., Oh, S., Song, M., Hong, Y.S., Park, S., Park, D.J., Griffiths, M.W., Oh, S., 2015.   .

@@ -1,0 +1,440 @@
+
+e
+
+
+
+
+Exposure to the fungicide propamocarb causes gut microbiota dysbiosis and metabolic disorder in mice*
+Sisheng Wu, Cuiyuan Jin, Yueyi Wang, Zhengwei Fu, Yuanxiang Jin
+College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou 310032, China
+
+
+
+a r t i c l e i n f o  
+
+Article history:
+Received 5 June 2017 Received in revised form 21 September 2017
+Accepted 31 October 2017 Available online xxx
+
+Keywords: Propamocarb Hepatic metabolism Gut microbiota
+Microbial metabolites Mice
+
+
+a b s t r a c t  
+
+Propamocarb (PM) is a widely used fungicide with property of affecting fatty acid and phospholipid biosynthesis in funguses. In this study, we explored its effects on mice gut microbiota and metabolism by exposing mice to 3, 30, and 300 mg/L PM through drinking water for a duration of 28 days. We observed that the transcription of hepatic genes related to regulate lipid metabolism were perturbed by PM exposure. The microbiota in the cecal contents and feces changed during or after PM exposure at phylum or genus levels. 16S rRNA gene sequencing for the cecal content revealed shifted in overall microbial structure after PM exposure, and operational taxonomic unit (OTU) analysis indicated that 32.2% of OTUs changed by 300 mg/mL PM exposure for 28 days. In addition, based on 1H NMR analysis,a total of 20 fecal metabolites mainly including succinate, short chain fatty acids, bile acids and trimethylamine were found to be significantly influenced by exposure to 300 mg/L PM.,. These metabolites were tightly correlated to host metabolism. Our findings indicated that high doses of PM exposure could disturb mice metabolism through, or partly through, altering the gut microbiota and microbial metabolites.
+(c) 2017 Elsevier Ltd. All rights reserved.
+
+
+
+
+
+
+Introduction
+
+A great number of microorganisms, including thousands of species of bacteria, fungi, protozoa and viruses, coexist with ani- mals and humans, residing in their guts (). More than 3.3 million genes are encoded by the microbiota, which is about 150 times greater than the number of genes that are encoded in the human genome (). The functions of the microbiota are critical to the host and include breaking down indigestible polysaccharides (fiber), synthesizing essential vitamins and amino acids, promoting neurodevelopment, and modulating the immune system (). One of the most important functions of the gut microbiota is that, through their metabolites (such as short chain fatty acids and bile acids) and their ability to modulate the immune system (such as regulation of the TLR4 pathway) (), they can regulate the hosts' energy metabolism. Recent studies have revealed a relationship between the gut microbiota and metabolic
+
+
+This paper has been recommended for acceptance by Dr. Chen Da.
+Corresponding author. 18, Chaowang Road, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou, China.
+E-mail address: (Y. Jin).
+
+diseases; they have implicated the gut microbiota as a trigger for metabolic diseases including obesity, glucose response disorders, and decreasing insulin sensitivity ( ). In support of this theory, it has been shown that the trans- plantation of an unhealthy guy microbiota can also transfer these phenotypes to the recipient host ().
+The gut microbiota is influenced by environmental factors pre- sent in our daily lives, such as diet, medicine and even temperature. For example, a change in diet resulting in an increase in both fat and cholesterol was shown to significantly alter the gut microbiota after just 24 h (). Recently, a few environmental chemicals were also shown to be important factors that had an influence on the gut microbiota (). In fact, because of their widespread use, pesticide (and fungicide) residues have become a serious pollution problem. As reported, a lot of pesticide (and fungicide) residues were found in food materials, water, and soil; this resulted in a series of health problems in human and animals (). Some of the pesticides (and fungicides) were reported to have the ability to alter overall gut microbial structure, and these changes in micro- biota were usually linked to several negative phenotypes ( ).
+Propamocarb (PM) is a systemic carbamated fungicide used to control diseases caused by Oomycetes in soil, roots, and leaves. PM
+
+
+
+0269-7491/(c) 2017 Elsevier Ltd. All rights reserved.
+
+
+
+could affect the biosynthesis of fatty acid and phospholipid, thus change the membrane in funguses (fi ). PM residues may accumulate on the fruits to high levels, and people may subsequently ingest it when consuming the fruit (). Previous reports found that PM is slightly cytotoxic through its interference with glycolysis and the construction of fibrillary proteins ( ). According to European Food Safety Authority, PM could induce vacuolar alterations in multiple organs, and it's relevant NOAEL (No Observed Adverse Effect Level) for long term toxicity in rats (1 year-study) was considered to be 29 mg/ kg bw/day (). However, little is known about its effect on the gut microbiota and its subsequent effects in animals. In this study, we exposed mice to PM through their drinking water, and as a result, we found that this fungicide could alter overall gut bac- terial composition, and drastically disturb the homeostasis of lipid metabolism of the host. The results acquired in the present study provide new information on PM induced mammalian toxicity.
+
+Materials and methods
+
+Reagents
+
+Propamocarb (propyl -3-[dimethyl-amino] propyl carbamate, PM) was purchased from Aladdin (Product code: P115119, Lot number: H1514031, CAS: 24579-73-5, purity: 99%).
+
+Animals
+
+Five week-old male Institute of Cancer Research (ICR) mice   (n 32) were purchased from the China National Laboratory Ani- mal Resource Center (Shanghai, China) and individually housed at 22 +- 1 oC on a 12 h: 12 h light:dark cycle (200 lux at cage level) for 1week prior to the onset of treatments. The mice were randomly
+divided into 4 groups (n 8), and each mouse was harbored in one cage. Three groups of mice were orally administered 3 mg/L (PM 3), 30 mg/L (PM 30) or 300 mg/L (PM 300) PM in their drinking water for a duration of 4 weeks, each mouse in 4 groups consumed an average of 0, 0.5, 5, 50 mg/kg bw/day PM, respectively. In this study, the dosages were set according to the highest residue from the EU- MRLs () and the NOAEL (20 mg/kg bw/day) for long term toxicity (). The control group (PM 0) was treated with deionized water. Water and food were available ad libitum during the experiment. The feces from each  mouse  during  PM  exposure  were  regularly  collected  and
+stored at 80 oC until further use.
+At the end of the experiment, all mice were fasted for at least 8 h and anesthetized by ether before being sacrificed. The serum, liver, colon, cecal content were   collected   and   immediately   stored at 80 oC. All experiments were performed in accordance with the Guiding Principles in the Use of Animals in Zhejiang University of
+Technology, and every effort was made to minimize animal suffering.
+
+Histopathological analysis of the liver and colon
+
+The liver and colon of three mice from each group were randomly selected for histopathological analysis ( ). Briefly, the liver and colon were cut into 5 mm- thick sections, embedded in paraffin, fixed in 10% (v/v) formalde- hyde, and then stained with hematoxylin & eosin (H&E).
+
+Determination of serum, hepatic and colonic parameters
+
+The hepatic TG, bile acids (BAs) and pyruvate levels were
+
+quantified using kits purchased from the Nanjing Jiancheng Insti- tute of Biotechnology (Product code: A110-1, E003-2, A081, respectively, Nanjing, China) according to the manufacturer's instructions.
+For hepatic TG, the TG were extracted by first homogenizing the liver in three times its volume of methanol, then adding six vol- umes of chloroform and incubating for 16 h at room temperature. The chloroform layer was collected after separation by centrifuga- tion at 3000 rpm for 10 min.
+For hepatic BA, pyruvate and colonic lipoprotein lipase (LPL), the liver and colon were homogenized in nine times their volume of PBS, centrifuged at 2000 rpm for 10 min, and then the supernatant was collected and used in the assay.
+Colonic LPL levels were determined by ELISA (Product code: ML001947, MLBIO, Shanghai) following the manufacturer's instructions.
+
+
+RNA extraction and real-time quantitative polymerase chain reaction (RT-qPCR)
+
+Total RNA was isolated from the liver and the colon using the TRIzol reagent (Lot number: AKA2701, CAS: 108-95-2, Takara Bio- chemicals, China) cDNA was synthesized using a reverse tran- scriptase kit (Product code: FSQ-101, Toyobo, Japan) according to the manufacturers' instructions. RT-qPCR was performed using the SYBR Green system (Product code: QPK-201, Toyobo, Japan) in an Eppendorf MasterCycler ep RealPlex2 (Wesseling-Berzdorf, Ger- many), and gene transcription was normalized to the level of 18S rRNA transcript in each sample. Primer sequences are shown in Table S1 (). The following PCR protocol was used:
+denaturation for 1  min at 95  oC, followed by 40  cycles  of  15  s at
+95 oC and 1 min at 60 oC. The PCR and quantification of relative gene expression were performed as 2-^^ ().
+
+
+Microbial DNA extraction and structural analysis
+
+Microbial genomic DNA (gDNA) was extracted from freeze-dried cecal contents and fecal samples using a commercial magnetic bead DNA isolation kit provided by Hangzhou Foreal Nanotechnology (Hangzhou, China), following the manufacturer's instructions, and then quantified using UV spectroscopy. The V3-V4 region of the 16S
+rRNA gene was PCR-amplified from microbial genome DNA using the  following  primers  (forward   primer:  50-ACTCCTACGGGAGG- CAGCAG-3';   reverse   primer:   50-GGACTACHVGGGTWTCTAAT-30).
+The amplicons were normalized, pooled and sequenced on the Illumina Miseq deskstop sequencer (2 300 bp pairedend run). Sequence reads processing was performed using QIIME (version 1.9.0) and included additional quality trimming, demultiplexing (). Operational taxonomic unit(OTU) picking using Vsearch v1.11.1, included dereplication, cluster, detectection of chimeras. Taxonomic assignment of individual datasets using the Greengene 13.8. followed by QIIME (vision 1.6.0) bioinformatic analysis. Alpha diversity was calculated with qiime, including index of observed species, chao1, shannnon, simpson, PD_whole_tree. Beta diversity was performed using Qiime with the matrix of Bray- Curtis distances.
+In addition, a portion of the microbial genome DNA was amplified by a RT-qPCR using bacterial phyla specific primers (Table S1) under the following cycling conditions: 50 oC for 2 min; 95 oC for 10 min; 95 oC for 15 s, 56 oC for 30 s, and 72 oC for 1 min, repeated for 40 cycles; and 72 oC for 10 min ().
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Effect of PM on mice growth phenotypes and hepatic TG, pyruvate and bile acids. The mice were fed either untreated (PM 0) or PM-treated (PM 3, 30, 300: 3, 30, 300 mg/L) in deionized water for 4 weeks, samples were collected in day 28. (A) Body weight variation throughout the duration of the treatment period; (B and C) Relative liver and epididymal fat weights; (D) Results of H&E staining in the liver; (EeG) Levels of hepatic TG, pyruvate and total BAs. The presented values are the means +- SEM (n 1/4 8). An asterisk indicates a significant difference (*p < 0.05) between control and PM treated groups.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. PM induces transcriptional responses of genes related to glycolysis (A), fatty acid transport (B), b-oxidation (C), fatty acid synthesis (D) and TG synthesis (E) in the liver. The mice were fed either untreated (PM 0) or PM-treated (PM 3, 30, 300: 3, 30, 300 mg/L) in deionized water for 4 weeks, samples were collected in day 28. The presented values are the means +- SEM (n 1/4 8). An asterisk indicates a significant difference (*p < 0.05) between control and PM treated groups.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3.  Gut microbiota composition  in the feces  during PM exposure.  The mice were fed either  untreated  (PM 0) or PM-treated (PM 3, 30, 300: 3,  30, 300 mg/L) in deionized water  for 4 weeks, fecal samples were collected at day 7, 14, 21, 28. (AeF) Relative abundance of Bacteroidetes, Firmicutes, Actinobacteria, a-Proteobacteria, b-Proteobacteria, and g-Pro- teobacteria. The data was normalized to  control  group  in  every  time  point.  The  presented  values  are  the  means  +- SEM  (n  1/4 8).  An  asterisk  indicates  a  significant  difference (*p < 0.05) between control and PM treated groups.
+
+
+Sample preparation and NMR acquisition
+
+0.1M PBS (pH	7.4, v/v	1/10) was added to the feces collected from the PM 0 and 300 on the last day of exposure, then the
+
+samples were shocked for 30 s, and underwent a freeze-thaw cycle 3 times in liquid nitrogen. The samples were then processed ul- trasonically for 10 min, centrifuged at 16 000 rpm for 10 min, after which, 600 ml of the supernatant of each sample were transferred
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4.  PM induces gut microbiota dysbiosis in cecal content. The mice were fed either untreated (PM 0) or PM-treated (PM 3, 30, 300: 3, 30, 300 mg/L) in deionized water for 4    weeks, samples were collected in day 28. (A) Relative abundance of Bacteroidetes, Firmicutes, Actinobacteria, a-Proteobacteria, b-Proteobacteria, and g-Proteobacteria in PM 0 and PM 300; (B) UniFrac principal co-ordinates analysis (PCoA) in PM 0  and PM 300; (C and D) The percentage (mean)  of sequences  annotated at  the phylum and family level in PM 0  and  PM 300; (E) The percentage of sequences annotated at the genus level in PM 0 and PM 300. The presented values are the means +- SEM (n 1/4 5). An asterisk indicates a significant difference (*p < 0.05) between PM 0 and PM 300.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. Results of H&E staining in the colon (A), colonic LPL and GPR41 relative gene expression levels (B and D) and colonic LPL levels (C). The presented values are the means +- SEM (n 1/4 5). The mice were fed either untreated (PM 0) or PM-treated (PM 3, 30, 300: 3, 30, 300 mg/L) in deionized water for 4 weeks, samples were collected in day 28. The presented  values are the means +- SEM (n 1/4 8). An asterisk indicates a significant difference (*p < 0.05) between control and PM treated groups.
+
+
+into NMR tubes ().
+1H NMR spectra for all serum samples were collected on a Varian Unity INOVA 600 NMR spectrometer (Varian, Palo Alto, CA) at a frequency of 599.93 MHz. A Carr-Purcell-Meiboom-Gill pulse sequence was used (CPMG, recycle delay-90-(t-180-t) neacquisition) (). Typically, 126 transients and 16K data points were collected with a spectral width of 10 kHz, an acquisition time of 100 ms, and a relaxation delay of 2.5.
+
+
+
+NMR spectroscopy performance and multivariate statistics
+
+All spectra were manually phased and baseline referenced to the TSP resonance at d0.0. In order to extract all of the metabolic in- formation embedded in the spectra, all NMR spectra (0.5e9.5 ppm) were segmented into an equal width of 0.05 ppm using the Mes- tReNova software (V9.0.1). Spectral regions of the water (d5.15e4.67) and urea resonances (d6.25e5.45) were removed in order to eliminate baseline effects of imperfect water saturation. The remaining spectral segments in each NMR spectrum were normalized to the total sum of the spectral intensity to partially compensate for differences in the concentration among the numerous metabolites. The normalized integral values were im- ported into SIMCA-P 14.0 software (Umetrics, Umea, Sweden) () as variables and then mean-centered and pareto-scaled prior to multivariate data analysis.
+Principal component analysis (PCA) () was initially applied to the spectral data to visualize the inherent clus- tering between PM 0 and PM 300. After the overview of the NMR data using PCA analysis, the data were subjected to orthogonal partial least-squares discriminant analysis (OPLS-DA) ( ) and a model was built and utilized to identify marker me- tabolites that accounted for the differentiation among all groups. MetaboAnalyst and KEGG were used to pathway analysis ( ).
+
+Statistical analysis
+
+Values are expressed as the mean +- SEM. Data were evaluated by a one-way ANOVA followed by Dunnett's or Fisher's Protected Least Significant Difference test using SPSS 13.0 (SPSS, Chicago, IL). The data from each PM-treated group was compared with the control group.
+
+Results
+
+Effect of PM on mice growth phenotypes and lipid accumulation
+
+After 28 days of PM exposure, there were no significant changes in the body weights, body weight increase (data not shown), rela- tive liver weights or relative epididymal fat weights in any group of the mice (AeC). H&E staining also showed that this short period of PM exposure didn't induce hepatic injury (D).
+No significant changes in hepatic BA levels were observed after PM exposure (G). However, in the liver, the TG levels were shown to have decreased to 75.8% and 69.7% in PM 30 and PM 300 when compared with the control, respectively (E). In addition, hepatic pyruvate levels were found to be reduced in the PM treated groups, however, these changes were not significant (F).
+
+PM disturbed the transcription of genes related to lipid metabolism in the liver
+
+To investigate the cause of the decreased hepatic TG, the hepatic mRNA levels for the primary genes in the lipid metabolic pathways were determined (). Our results indicated that compared with PM 0, the transcription of Chrebp, Gk, and Pk were significantly down-regulated in PM 3 and PM 300. The products of these genes primarily participate in glycolysis; their down-regulation could partly reduce hepatic pyruvate levels (F).
+The mRNA level of Fatp2, which regulates the intercellular transport of free fatty acids (FFA), was significantly decreased in all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 6. PM altered the profile of fecal microbial metabolites. The mice were fed either untreated (PM 0) or PM-treated (PM 3, 30, 300: 3, 30, 300 mg/L) in water for 4 weeks, samples were collected in day 28. (A) 600 MHz 1H NMR spectra of fecal samples obtained from different groups. The spectra in the region d6.0e9.7 (in the dashed box) were magnified 5 times compared with the region d0.5e6.0 for the purpose of clarity. This figure was from a pair of samples in PM 0 and PM 300. (B) OPLS-DA scores plots (upper left panel) derived from 1H NMR spectra of fecal samples and corresponding coefficient loading plots (lower panels) obtained from different dosage groups and cross validation (upper right panel) by permutation test (n 1/4 200). This figure represented all samples in PM 0 and PM 300. (C) The significance of metabolite variations between the two classes. Peaks in the positive direction indicate metabolites that are more abundant in the groups in the positive direction of first principal component. Consequently, metabolites that are more abundant in the groups in the negative direction of first primary component are presented as peaks in the negative direction. This figure was from a pair of samples in PM 0 and PM 300. (D) The potential pathway induced by PM. The arrowheads represent the down-regulation or up-regulation of the metabolite. The blue words represent significantly decreased metabolites in PM 300; the red words represent
+significantly increased metabolites in PM 300. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+
+
+of the PM treatment groups (B). Fabp2, which mediates FFA intracellular transport, was significantly down-regulated in the PM 30 group (B). Acox, a regulator of b-oxidation, was also found to be suppressed in the three treatment groups (C).
+The de novo synthesis of FFA was regulated by a series of factors. As shown in D, PM treatment resulted in a significant decrease in two important Srebp1c transcription factors in three of the treatment groups and Ppar-g transcription factors in the PM 30 and PM 300 treatment groups. In addition, their downstream  genes were also significantly suppressed: Fas in PM 3 and PM 300, Acc in PM 3 and PM 30, Acl in PM 300, and Scd1 in each PM treatment group (D).
+PM exposure was also shown to result in decreased transcrip- tion levels of genes related to TG synthesis (E). Gpat tran- scription was significantly reduced in the PM 300 treatment group and Dgat2 was significantly reduced in the PM 3300 treatment groups. All of the results indicated that PM could suppress lipid transport, synthesis and glycolysis which results in decreased TG storage (E). Interestingly, most of genes did not decrease as a dose-dependent manner.
+
+Effects of PM on the structure of gut microbiota in the feces
+
+To determine the effects of PM on the gut microbiota, we analyzed the changes in the gut microbiota using RT-qPCR and high throughput sequencing of 16S rRNA.
+The Bacteroidetes, Firmicutes, Proteobacteria and Actino- bacteria are primary members of the gut microbiota at phylum level (), so we firstly tested the relative abundance of them through RT-qPCR in the feces, which could have a glimpse of the gut microbial composition. Fecal samples were collected every week during PM exposure. Continuous changes were observed in the gut microbiota, as shown in . The prevalence of a,geProteobacteria and Bacteroidetes began to decrease by PM by day 14, and this decrease continued through the duration of PM exposure (A, 3 D and 3 F). In first three weeks of PM exposure, the prevalence of Firmicutes increased in the PM 3 and PM 30 treatment groups, however, this increase disappeared by day 28 (B). The prevalence of Actinobacteria in PM treatment groups was also shown to change over time (C). b- Proteobacteria was shown at first to be reduced on day 7, but then their prevalence was observed to have increased on day 21 and on day 28 in PM treat- ment groups (E).
+
+Effects of PM on the structure of gut microbiota in the cecal contents
+
+For a more thorough evaluation of the changes in the compo- sition of the gut microbiota, we carried out 16S rRNA gene sequencing of the DNA form the cecal concent in the PM 0 and PM 300 treatment groups (n 5). A total of 65 695 usable reads were obtained from all of the cecal samples and delineated into 435 operational taxonomic units (OTUs), among them, 295 OTUs were found both in PM 0 and PM 300, 73 OTUs were only detected in PM
+0 and 67 OTUs in PM 300, at a 97% similarity level with the Greengenes OTUs reference sequences. Among them, Bacter- oidetes, Firmicutes, Proteobacteria, TM7 and Actinobacteria were found to be the most abundant phyla. Alpha diversity indices were not significant changed in communal richness nor diversity (Table S2). According to the principal coordinates analysis (PCoA) of Bray-Curtis distances, the gut microbiota in PM 300 group deviated from the PM 0 group (B).
+Interestingly, compared with the feces, PM was shown to have different effects on the cecal microbiota composition. At the phylum level, compared with the PM 0 treatment group, the
+
+prevalence of Firmicutes, Proteobacteria, TM7, Actinobacteria and Tenericutes were reduced in the PM 300 treatment group (C). The prevalence of Bacteroidetes, Acidobacteria, Chloroflexi and Planctomycetes were shown to have increased in the PM 300 treatment group. These changes in the composition of the micro- biota were similar to what was observed in the RT-qPCR analysis (A). At the family level, the prevalence of Ruminococcaceae, Lachnospiraceae, Rikenellaceae, Porphyromonadaceae and Desul- fovibrionaceae were also decreased in the PM 300 treatment group. The prevalence of S24-7, Bacteroidaceae, Dehalobacteriaceae were shown to have increased in the PM 300 treatment group (D). Moreover, at the genus level, the prevalence of Oscillospira, Para- bacteroides, Desulfovibrio and Ruminococcus were decreased in PM
+300. The prevalence of Bacteroides, Dehalobacterium and Butyr- icimonas was shown to have increased in the PM 300 treatment group. Additionally, 20 OTUs were significantly different between PM 0 and 300 treatment groups, they belong to Clostridiales, RF39, S24-7, Clostridiales, Lachnospiraceae, Ruminococcaceae and Bac- teroides. Among them, OTU62, identified as Bacteroides plebeius, which aids in the degradation of dietary polysaccharides (), were new appear in the PM 300 treatment group (E).
+
+Colonic histomorphological analysis, LPL and GPR41 measurement
+
+Gut microbiota regulates numerous physiological functions. The gut is the first organ they affect, so we tested the influence on the composition of the gut microbiota on colonic functions (). H&E staining showed no injury in the colon (A). LPL is a catalyst response for TG degradation and plays an important role in blood fat regulation (). We found that the transcription of LPL was significantly up-regulated in the PM 30 and PM 300 treat- ment groups (B). At the protein level, the concentration of LPL was also shown to have significantly increased in the PM 3 and PM 300 treatment groups (C). The transcription of the G protein- coupled receptor 41 (GPR41), a receptor of short chain fatty acids (SCFA), was found to be decreased in all PM treated groups (D).
+
+Fecal metabolomics analysis
+
+To explore the effect of the microbiota changes on the hosts, we used 1H NMR to analyse the fecal metabolites in the PM 0 and PM 300 treatment groups (n 8). 600 MHz 1H NMR spectra of the fecal samples are shown in A. More than 30 metabolites were identified based on their chemical shifts and signal multiplicity. The significance of the variations among the metabolites between the two groups is shown in C. Supervised analysis techniques of orthogonal partial least-squares discriminant analysis (OPLS-DA) were then used (B). The quality of the model was described by the  cross-validation  parameters  R2X  43.2%,  R2Y   0.789, Q2 0.262. Analysis of the OPLS-DA loading coefficient plots help to identify 20 differential metabolites with a correlation coefficient of r >0.5. The relative levels of these 20 metabolites responsible for discriminating between the PM 0 and PM 300 treatment groups is presented in Table S3.
+Additionally, we did a metabolic pathway analysis according to MetaboAnalyst and KEGG for these metabolites (D) ( ). Briefly, two kinds of SCFAs-propionates and isobutyrates significantly increased in the PM 300 group, as well as total bile acids and their modifier taurines. Two lecithin components, choline and ethanolamine, were significantly increased in the PM 300 treatment group, which suggests that the synthesis of lecithin was suppressed or that its degradation was promoted. Unfortunately, choline's downstream metabolite, trimethylamine (TMA), significantly
+
+
+increased in the PM 300 treatment group; this compound has the potential to convert to TMA N-oxide (TMAO) in the liver. Other pathways, including the tricarboxylic acid (TCA) cycle (succinate), polysaccharide degradation (trehalose and b-galactose), gluconeo- genesis (glycerol), asparagine metabolism, arginine metabolism (4- guanidinobutyrate), nicotinate metabolism and purine metabolism (guanosine and paraxanthine) were also shown to be significantly influenced by PM. Then Spearman correlation analysis between metabolites and the microbiome was performed at the genus and family levels, several correlations with statistical significance were found (Table S4). Above data indicated the robust relation between gut microbiota, microbial metabolites and host metabolism.
+
+Discussion
+
+PM is a widely used fungicide and is thought of having a low toxicity. However, with the profound understanding of the gut microbiota, studies have found that fungicides and pesticides could induce gut microbiota dysbiosis in several models, and these mi- crobial changes always correlate with negative symptoms ( ). This necessitated a re- assessment of the toxicity of PM in relations to its effect on the gut microbiota. In this study, mice were exposed to PM at doses of 3, 30, 300 mg/L for 28 days and the results indicated that lipid meta- bolism was influenced by PM at least partially through the gut microbiota and microbial metabolites.
+Hepatic lipid metabolism is regulated by a series of genes (); in our study, some of the genes that regulate glycolysis, FA translation, FA synthesis, and TG synthesis were significantly suppressed by PM exposure in the different treatment groups (). Although these transcriptional changes didn't reflect the changes observed in the external phenotypes   (AeD), the down-regulation of these genes induced lower levels of hepatic TG and pyruvate (E and F). The causes of this metabolic disturbance could be divided into two aspects: 1) the antimicrobial mechanism of PM is inhibiting the synthesis of membrane constituents including phospholipids and fatty acids (), so it is possible that PM or its downstream metabolites may directly react with the liver; 2) gut microbiota are tightly associated to hosts' energy metabolism (), considering to PM alter their overall structure (), thus the gut microbia may be major impetus of mice lipid metabolic disturbance. In this study, we paid attention to second aspect and found the gut microbiota played an important role in PM-induced metabolic disorders.
+According to previous studies, a high-fat diet or obese individuals
+were shown to have a higher abundance of Firmicutes ( ); in this study, the prevalence of Firmicutes (C) and lipid synthesis () were both suppressed by PM exposure, these results reveal robust association between Firmcutes and en- ergy harvest. Moreover, another primary member of the gut micro- biota, Bacteroidetes, showed the opposite trend in the feces and cecal contents ( C). This difference could be attributed to different microbial composition and physiological factors in the cecum and colon ().
+Only a few microbes can permeate the intestinal barrier and directly affect the liver, most microbes affect hosts through their metabolites. Corresponding to the disturbed hepatic lipid meta- bolism, microbial metabolites related to energy metabolism were also found to be significantly altered. Polysaccharide degradation products-Trehalose and b-galactose, the fermentation product- lactate, the TG degradation product-glycerol and  the  member  of the TCA cycle-succinate were shown to be significantly decreased in the PM 300 treatment group (D). Nicotinate, an important
+
+
+precursor of the coenzymes NADth and NADPth, which are indis- pensable electron transporters involved in the TCA cycle ( ), with two other succinate precursors 3-hydroxybutyrate and 4-guanidinobutyrate, were significantly increased in the PM 300 treatment group (D). These findings suggest that PM could also disturb the gut microbial metabolism. In addition, host also played an important role in altering fecal metabolites. For example, colonic LPL, which mediates the release of fatty acids from TG-rich lipo- proteins (), was increased by PM both at the transcriptional and protein level (B and C). It must be noted that the main targets of PM are funguses, these species would likely contribute to different metabolic profiles in treated and untreated groups although we haven's assayed them.
+Under PM exposure, two kinds of SCFAs (Propionate and iso- butyrate) were significantly increased in the feces (D), bacteria with capacity of producing SCFAs (such as Ruminococcus, Bacter- oides and Oscillospira) were altered (D) ( ), the transcription levels of colon GPR41 were decreased (D), these results indicated SCFAs were important factor in PM-induced effect, because PM play a pivotal role in the regulation of host metabolism through the portal vein and the gut- brain neural circuit ().
+Along with SCFAs, an increase in fecal bile acids was another major factor influenced host metabolism. BAs have emerged as being important regulators of energy metabolism, facilitating in- testinal lipid absorption and binding to distinct receptors such as FXR, TGR5 and S1PR2 (). Together, primary BAs from hepatic cholesterol and secondary BAs produced as a byproduct of microbial metabolism modulate the metabolism of the hosts. Due to the low sensitivity of NMR, we only measured the total level of BAs; we hypothesized that the primary BAs were more important in PM treatment for the following rea- sons: the primary bile acids modifier, taurine, was significantly increased in the PM 300 treatment group and the gut microbes, including Lachnospiraceae and Ruminococcaceae (), which have the capacity  to  generate  secondary  BAs  ( ), were decreased in the PM 300 treatment group.
+Due PM's effects on phospholipid synthesis (D) ( ), choline and its microbial metab- olite TMA were significantly increased in PM 300 treatment group (D, Table S3). TMA will be rapidly converted to TMAO in the liver (). Animal models have shown that an increase in plasma TMAO significantly accelerated the development of atherosclerosis (). This result suggested that PM exposure might increase the risk of athero- sclerosis, but we lack evidence to support this inference, and future study could focus on this point.
+Overall, our results show that PM could induce gut microbiota dysbiosis and influence microbial metabolites including bile acids, SCFAs, TMA, amino acids and guanosine. The altered metabolites may have an affect on the host, including increasing the hosts' risk of colonic LPL, disrupting hepatic energy metabolism.
+
+Acknowledgements
+
+This work was supported by the Zhejiang Provincial Natural Science Foundation of China (LR16B070002), National Natural Sci- ence Foundation of China (21777146) and the Scientific Innovation Program for University Students in Zhejiang Province (2016R403012).
+
+Appendix A. Supplementary data
+
+Supplementary data related to this article can be found at .
+
+
+
+References
+
+  e.
+   e.
+  e.
+  e.
+       e.
+   e.
+ e.
+ e.
+  e.
+ e.
+ e.
+ e.
+  e.
+ e.
+fi e.   
+e.
+  e.
+
+  e.
+ fl e.
+ e.
+  e.
+ fi  e.
+
+ fl e.
+   e.
+ fi  e.
+    e.
+  e.
+fi
+
+fl e.
+  e.
+
+ e.
+  e.
+  e.
+ e.
+      e.
+     e.
+
+e.
+  e.
+  e.
+  e.
+  .
+ e.
+   e.
+fi e.
+fi e.
+  e.
+ e.
+  e.
+   e.
+    e.
+  fl e.
+ e.
+  e.
+  e.
+  e.
+  e.
+  e.

@@ -1,0 +1,410 @@
+RESEARCH ARTICLE
+Host-Microbe Biology
+
+
+
+
+
+Extensive Core Microbiome in Drone- Captured Whale Blow Supports a Framework for Health Monitoring
+
+a Carolyn A. Miller,a Michael J. Moore,b John W. Durban,c Holly Fearnbach,d Lance G. Barrett-Lennarde,f
+Department of Marine Chemistry and Geochemistry, Woods Hole Oceanographic Institution, Woods Hole, Massachusetts, USAa; Biology Department, Woods Hole Oceanographic Institution, Woods Hole, Massachusetts, USAb; Marine Mammal and Turtle Division, Southwest Fisheries Science Center, National Marine Fisheries Service, NOAA, La Jolla, California, USAc; SR3 SeaLife Response, Rehabilitation, and Research, Mukilteo, Washington, USAd; Coastal Ocean Research Institute, Vancouver Aquarium, Vancouver, BC, Canadae; Zoology Department, University of British Columbia, Vancouver, BC, Canadaf
+
+ABSTRACT The pulmonary system is a common site for bacterial infections in ceta- ceans, but very little is known about their respiratory microbiome. We used a small, unmanned hexacopter to collect exhaled breath condensate (blow) from two geo- graphically distinct populations of apparently healthy humpback whales (Megaptera novaeangliae), sampled in the Massachusetts coastal waters off Cape Cod (n 17) and coastal waters around Vancouver Island (n 9). Bacterial and archaeal small- subunit rRNA genes were amplified and sequenced from blow samples, including many of sparse volume, as well as seawater and other controls, to characterize the associated microbial community. The blow microbiomes were distinct from the sea- water microbiomes and included 25 phylogenetically diverse bacteria common to all sampled whales. This core assemblage comprised on average 36% of the microbiome, making it one of the more consistent animal microbiomes studied to date. The closest phylogenetic relatives of 20 of these core microbes were previously detected in marine mammals, suggesting that this core microbiome assemblage is specialized for marine mammals and may indicate a healthy, noninfected pulmonary system. Pathogen screen- ing was conducted on the microbiomes at the genus level, which showed that all blow and few seawater microbiomes contained relatives of bacterial pathogens; no known cetacean respiratory pathogens were detected in the blow. Overall, the discovery of a shared large core microbiome in humpback whales is an important advancement for health and disease monitoring of this species and of other large whales.
+IMPORTANCE The conservation and management of large whales rely in part upon health monitoring of individuals and populations, and methods generally necessitate invasive sampling. Here, we used a small, unmanned hexacopter drone to noninva- sively fly above humpback whales from two populations, capture their exhaled breath (blow), and examine the associated microbiome. In the first extensive exami- nation of the large-whale blow microbiome, we present surprising results about the discovery of a large core microbiome that was shared across individual whales from geographically separated populations in two ocean basins. We suggest that this core microbiome, in addition to other microbiome characteristics, could be a useful fea- ture for health monitoring of large whales worldwide.
+
+KEYWORDS SSU rRNA gene, bacteria, drone, humpback whale, microbiome
+
+number of large whale populations are listed as endangered or critically endan- gered (), and their conservation and management greatly depend on understand-
+ing the relationship between anthropogenic disturbances and health (). The pul-
+
+September/October 2017  Volume 2  Issue 5 e00119-17	msystems.asm.org 1
+
+
+monary system is a common site of cetacean infection and disease (, ), and yet cases are diagnosed mostly in live-stranded or dead whales () and rarely in the wild. In humans, exhaled breath is used to test for bacterial and fungal infections of the lower respiratory tract (). Therefore, examining the microorganisms in the exhaled breath of whales, commonly referred to as blow, may serve as an important indicator of whale respiratory health, including the identification of potential bacterial, fungal, and viral respiratory pathogens.
+Advances in aerial drone technology offer new opportunities for studying the health of whales remotely and noninvasively. For example, the exhaled breath of large whales can be sampled with a small aerial drone (), given that whales exhale large volumes of air when they surface and usually breathe several times during a surfacing interval. The exhaled breath contains mucus and moisture that, when released into the com- parably cooler external air, condense to form a visible mass of vapor, which can be collected. Often blow is collected by approaching the whale in a small boat and holding an ~7-m pole with a collection plate above the blow hole (, ), requiring a skilled team and presenting safety risks to both the researchers and the whale. However, as mentioned above, blow was successfully collected by flying a remotely operated drone through the visible mass of vapor, thus offering a less invasive and safer platform for blow collections ().
+Knowledge of respiratory-associated microorganisms in cetaceans is limited. Several studies examined the diversity of respiratory-associated bacteria in captive and wild bottlenose dolphins (Tursiops truncatus) and provided preliminary evidence that dol- phins host a core group of bacteria associated with the respiratory system (). A cultivation-based study of blow from killer whales (Orcinus orca) identified pathogenic and antibiotic-resistant bacteria and fungi (), which may be presenting health risks to the whales. The only study of blow-associated microorganisms in baleen whales was conducted using taxonomic screening for specific bacteria, leaving a number of ques- tions remaining about the broader diversity of the blow microbiome (). Given this limited knowledge about the large-whale respiratory microbiome and the possible implications of using the microbiome for health and pathogen monitoring, a broader understanding of the large-whale blow microbiome is needed.
+In this study, we sought to determine if drone-captured blow microbiomes of large whales could be used to remotely monitor the respiratory health of large whales. Specifically, we sought to characterize the microbiomes associated with drone- collected samples of blow to assess commonalities and differences between the blow microbiomes of individual whales and identify the presence of potential pathogens. To address these goals, a small, unmanned hexacopter drone () () was used to collect blow samples from humpback whales (Megaptera novaeangliae) from Race Point Channel, north of Cape Cod, MA, and coastal waters surrounding Vancouver Island, in both British Columbia and Washington State. We examined the blow microbiomes, as well as those associated with the surface seawater, by sequencing and comparing partial small-subunit (SSU) rRNA genes of bacteria and archaea. These analyses revealed that blow microbiomes are distinct from seawater and contain an extensive network of consistent core microbiome members whose absence could serve as an important framework for health monitoring.
+
+RESULTS
+Blow microbiomes are similar between individuals and distinct from surface seawater. By flying a small, remotely operated hexacopter drone 2 to 4 m above humpback whales (), blow was collected from 17 whales off Cape Cod and nine whales near Vancouver Island (see Table S1 in the supplemental material). Partial
+bacterial and archaeal SSU rRNA genes were amplified from DNA extractions of the blow samples, including replicate blows from eight animals; environmental controls (a nonblow flight and nine replicate surface seawater samples from around Vancouver Island; sampling equipment was not available for Cape Cod seawater); and technical controls (DNA extraction of sterile swabs and PCR blanks) and sequenced, resulting in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG 1 (a) Photograph of the APH-22 hexacopter launching for flight, with a petri dish atop and a 96-well PCR plate attached on a forward arm for whale blow sampling. (b) Photograph of the hexacopter collecting blow from a humpback whale off Cape Cod. Photographs courtesy of the authors.
+
+
+2,337 to 180,141 sequences for the noncontrol samples. Minimum entropy decompo- sition (MED) (), a sensitive method for partitioning sequences into operational taxonomic units (here referred to as MEDs or nodes), identified 616 MEDs for the entire data set. A cluster dendrogram analysis of Bray-Curtis dissimilarity () of the MEDs showed that community compositions of the technical control samples were similar to each other but different from the majority of blow samples (). Five sparse-volume (volume observed in the field) blow samples (WA_A_F06, H_C_a, H_A_a, H_K, and H_B_b) clustered with the technical controls, indicating that the volume of these samples likely was so low that they only reflected the background microbial signal of technical contaminants such as laboratory reagents. Thus, these five low-volume samples were removed from the data set and are not included in the results presented below. Although two blow samples (BC_A_b_mix and BC_A_B_unk) from the same whale were more similar to the surface seawater than to the other humpback blow samples (), seawater microorganisms may be incorporated into the blow; hence, these blow samples were included in all further analyses. The compositions of the humpback blow microbiotas were significantly different from those of the microbiotas of surface seawater (permutational multivariate analysis of variance [PERMANOVA], F 61.364, P < 0.001). Although the compositions of the humpback whale blow microb-
+
+
+Similarity
+100	80	60	40	20	0
+
+PCR_S PCR_BCWA DNA_BCWA1 DNA_BCWA3 WA_A_F06
+Flight_S DNA_S
+H_C_a
+H_A_a H_K DNA_BCWA2
+H_B_b BC_SW_A_b BC_A_b_mix BC_A_b_unk WA_SW_C_a WA_SW_C_b WA_SW_A_a WA_SW_B_a WA_SW_A_b WA_SW_B_b BC_SW_B_b BC_SW_B_b BC_SW_C_b BC_SW_F_b BC_SW_E_a BC_SW_E_b BC_SW_F_a BC_SW_C_a BC_SW_D_a BC_SW_D_b BC_SW_A_a
+H_A_b H_D WA_C_d WA_C_p BC_E_p BC_C_d BC_C_p H_M H_C_b H_O H_J BC_A_a BC_F_p
+H_G
+H_B_a H_H H_F H_N H_I H_E H_L H_Q H_P
+WA_A_F08
+WA_B_p WA_B_d BC_E_d BC_F_d BC_D_bp BC_D_bd BC_D_ap BC_D_ad BC_B_d BC_B_p
+FIG 2 Comparison of humpback blow, surface seawater, and flight and technical control samples using a cluster dendrogram of bacterial and archaeal SSU rRNA genes grouped using minimum entropy decomposition () and compared using Bray-Curtis dissimilarity (). The categories "controls," "seawater," and "humpback blow" were inferred based on the clustering patterns and sample types.
+
+
+iotas were 50 to 90% similar to each other, the microbiotas of the blow samples collected off Cape Cod were nevertheless significantly different from those collected around Vancouver Island (PERMANOVA, F 5.8224, P < 0.001), and neither finding was impacted by the factor of sequencing depth (PERMANOVA with pairwise tests, P >
+
+
+
+
+500
+
+
+400
+
+
+300
+
+
+200
+
+
+
+
+0.96
+
+
+0.92
+
+
+0.88
+
+
+0.84
+
+Whale or seawater sample identification
+
+FIG 3 Diversity of whale blow and seawater samples from minimum entropy decomposition (MED) node groupings (), including observed number of MEDs, a relative estimate of species richness between samples (a), and Simpson's index (), a relative estimate of diversity and evenness (b). Data from replicate collections are shown for the Vancouver Island blow and seawater samples with multiple symbols per sample name.
+
+
+0.05). The technical controls were used only to assess the microbial signal of blow and seawater samples, and while they appear in , they are not represented in any further analyses but do serve as a constant source for assessing contamination (see below description of core microbiome).
+Diverse assemblage of microorganisms found in humpback blow. The hump- back whale blow samples contained a diverse assemblage of microorganisms, in terms of both richness and phylogeny. In whale blow, the observed number of MEDs, which is comparable to a fine-resolution species richness index, ranged from 164 to 515, with an average of 321 (). The number of MEDs in surface seawater samples generally fell into this range as well, suggesting that the blow and surface seawater support a similarly rich community of cells (). There was considerably more consistency between the numbers of observed MEDs within replicate samples in the seawater microbiome than for the Vancouver Island humpback whale blow samples (the only blow samples that were replicated), which could be related to inconsistencies in whale blows, volume of blow collection, or sequencing depth (). Simpson's index of diversity (), which also considers evenness, generally ranged above 0.90, indicating high microbial diversity in the samples. The Simpson index was comparable for blow and seawater samples from Vancouver Island but was more variable for the Cape Cod blow samples ().
+A phylogenetically diverse assemblage of sequences that spanned 15 phyla of Bacteria and two phyla of Archaea was identified in the humpback whale blow microbiomes. Several classes were shared with the seawater samples, including Gam- maproteobacteria, Flavobacteriia, and Alphaproteobacteria (). However, the whale blow samples from both locations harbored classes not common in the surface seawater, such as Actinobacteria, Bacilli, Clostridia, Fusobacteriia, Bacteroidia, Acidimicro- biia, Epsilonproteobacteria, Deltaproteobacteria, Erysipelotrichia, and Mollicutes ().
+Extensive core microbiome in whale blow with relatedness to other marine mammals. Twenty-six MEDs were present in all humpback whale blow samples. However, one of these MEDs, 6038, identified as Bacillus, was considered a technical contaminant and not a member of the blow microbiome because it was found in all technical control samples and is a common contaminant in laboratory reagents (). The remaining 25 MEDs common to all blow samples were considered "core" members of the humpback whale blow microbiome. These core microbiome members spanned
+
+
+100
+
+Class
+Gammaproteobacteria Flavobacteriia Alphaproteobacteria
+75	Actinobacteria
+Bacilli Clostridia Fusobacteriia Cyanobacteria Bacteroidia
+50	Acidimicrobiia
+Marine Group I (Archaea)
+Betaproteobacteria Epsilonproteobacteria Thermoplasmata Deltaproteobacteria
+25	Erysipelotrichia
+Verrucomicrobiae
+Sphingobacteriia Mollicutes
+Other
+
+0
+
+
+
+Cape Cod humpback blow	Vancouver Island humpback blow	Vancouver Island seawater
+
+FIG 4 Overview of the phylogeny of the bacteria and archaea associated with the humpback whale blow and seawater samples on a class level based on partial SSU rRNA gene sequences.
+
+seven phyla or classes (for the Proteobacteria) and ranged in relative abundance from
+0.01 to 18% of the total community in each blow sample (). Collectively, the 25 core microbiome members comprised 36.0% (standard deviation [SD], 10.5%) of the total humpback blow sequences from whales residing in both geographic locations.
+Phylogenetic analysis of the core microbiota using ARB and the SILVA database (v.128) revealed that 20 of the 25 core members were most closely related to microbial sequences recovered from other species of marine mammals, most commonly from the mouths and blowholes of bottlenose dolphins (; ). Core members with homology to other marine mammal-associated microbes that were represented at mean abundances of 1% or greater in all humpback blow samples were Corynebacte- rium MED6786 (bottlenose dolphin forestomach), Tenacibaculum MED7942 (bottlenose dolphin blowhole), Porphyromonas MED5795 (bottlenose dolphin mouth and hump- back whale skin), Cardiobacteriaceae MED1312 (bottlenose dolphin blowhole), Oceano- spirillaceae MED6423 and MED6459 (bottlenose dolphin forestomach and blowhole), Moraxella MED9495 and MED7186 (bottlenose dolphin mouth), Psychrobacter MED2426 (bottlenose dolphin mouth and blowhole), and Arcobacter MED3986 (bottlenose dol- phin blowhole and forestomach). The nine other core MEDs with homology to se- quences recovered from marine mammals were present at mean abundances less than 1% (; ). Additionally, two of the core members, Corynebacterium MED6836 and Zimmermannella MED8466, shared homology to sequences previously identified in terrestrial mammals (; ). Last, three core members present in the humpback blow shared homology to sequences commonly recovered from seawater: "Candidatus Actinomarina" MED857; the Roseobacter-affiliated Rhodovulum 9687; and SAR11, Sur- face 1 clade 9833. Indeed, these three seawater-affiliated MEDs were well represented in the seawater samples, each present at average abundances ranging from 4.3 to 5.1%. No cetacean respiratory pathogens detected in humpback blow. To identify samples that might be suitable for respiratory pathogen screening, the taxonomy of the blow MEDs was screened at the level of genus against a custom pathogen database
+
+
+20		Homology with sequences from marine mammals Homology with sequences from terrestrial mammals Homology with sequences from seawater
+
+
+15
+
+
+
+
+
+10
+
+
+
+
+
+5
+
+
+
+
+
+0
+
+
+
+Actinobacteria	Bacteroidetes	Firmicutes	Gammaproteobacteria	Alphaproteo
+
+
+
+FIG 5 Box plots displaying the median, minimum, maximum, and first and third quartiles of the percentage of the 25 members of the core microbiome detected in all humpback whale blow samples, obtained from minimum entropy decomposition () nodes of bacterial and archaeal SSU rRNA genes. The phyla or subphyla (for Proteobacteria) of each MED are listed below the box plot, the most detailed level of taxonomy available from the SILVA database (v.123) () is shown above, and the colors refer to sequences with homology to those previously recovered from marine mammals (blue), terrestrial mammals (green), or seawater (red). The color of MED 7188 is blue.
+
+
+that included human and animal pathogens recognized by the American Biological Safety Association, as well as previously identified and potential pathogens from studies of marine mammals (, ) (Table S2). One hundred fifteen MEDs from whale blow and seawater spanning 31 genera had a genus-level phylogenetic affiliation with pathogens listed in the database (). The pathogen relatives identified in the whale blow were numerous and distinct from those present in the seawater samples (). Of the potential pathogens identified in the blow samples, 10 genera were previously identified in other species of marine mammals, and of those, Corynebacterium was the only genus also represented in the core microbiome of humpback whale blow (). Specifically, two uncharacterized Corynebacterium species were previously cultivated from the spleen, blood, and lymph nodes of bottlenose dolphins following mortality (), although it should be noted that this genus harbors many nonpathogens that often associate with healthy humans (, ). Of the potential pathogens identified in the humpback blow samples, none were known cetacean respiratory pathogens.
+
+DISCUSSION
+In the first examination of whale blow microbial diversity, we show that blow from humpback whales supports a diverse and rich community of microorganisms with a number of features that may be useful for monitoring health. First, our study demon-
+
+
+TABLE 1 List of core MED nodes of SSU rRNA gene sequences with taxonomic affiliations and description of environment where the most similar sequences were recovered
+
+
+strates that the microbial communities in blow and surface seawater are different, indicating that whale blow is not just aerosolized seawater. Although both baleen and toothed whale blows were previously compared to seawater (, ), this was the first study to apply more comprehensive microbial diversity analyses to whale blow. Indeed, there were some surface seawater-associated bacteria within the humpback blow examined in our study, but this is not surprising because seawater may remain in the upper tract between breaths and enter and leave the blowhole cavity and the upper nasal tract of a surfacing whale during the inhalation phase (M. Moore, unpublished observations), to the point where these samples could be described as seawater lavages of the upper respiratory tract seeded with condensed exhalation. Three hump- back blow core MEDs, including bacteria from the globally abundant SAR11 clade (), were well represented in the seawater samples, at relative abundances of 4 to 5%, suggesting that the most abundant cells in the seawater are likely the cells making their way into the upper respiratory tract. Furthermore, the remaining 22 core microbiome sequences were most closely related to marine and terrestrial mammals, suggesting that these cells were, indeed, coming from the whales, not the seawater. The exhaled breath of most mammals is believed to comprise cells that originate from both the mouth and the nasopharynx because they are anatomically connected (). Because the nasopharynx of cetaceans is not connected to the mouth, cetacean breath passes through only the respiratory tract; therefore, the breath microbes originating from the cetacean are from the respiratory tract and almost certainly do not include oral microbes. Two core members of the blow microbiome were previously detected on humpback whale skin, Porphyromonas (MED5795) and Psychrobacter (MED2426) (). It is possible that these whale skin-associated microbes reside on the epithelium of the blowhole and become aerosolized with the force of the whale's exhalation. Thus, in addition to seawater-associated microbes, a mixture of pulmonary bacteria and mi- crobes associated with the epithelial cells of the blowholes likely comprise the blow microbiome in cetaceans.
+The second and possibly most useful feature of the humpback whale blow micro- biome for health monitoring is that it contains a surprisingly high number of core microbiome members shared by all individuals, despite our samples being collected
+
+
+
+Arthrobacter Corynebacterium
+
+
+Sphingomonas Bacillus Lactobacillus
+
+
+Lactococcus Listeria Staphylococcus
+
+Streptococcus
+
+
+Bacteroides Porphyromonas
+
+
+
+
+Neisseria Helcococcus
+
+
+
+Abundance
+
+
+
+
+
+Peptostreptococcus
+Arcobacter
+
+1.00
+
+
+
+
+Campylobacter
+
+
+
+Helicobacter Capnocytophaga Chryseobacterium Fusobacterium Acinetobacter
+
+
+0.01
+
+
+
+Actinobacillus Balneatrix Escherichia-Shigella Haemophilus
+
+
+Moraxella Pseudoalteromonas Pseudomonas
+
+Psychrobacter
+
+
+
+
+
+
+Vibrio Mycoplasma
+
+Veillonella
+
+
+
+Cape Cod whale blow	Vancouver Island whale blow	Vancouver Island seawater
+FIG 6 Heat map of the distribution and relative abundance of the minimum entropy decomposition nodes (MEDs) (), obtained from bacterial and archaeal SSU rRNA genes, from humpback whale blow and surface seawater samples that are related to potential pathogens. The MEDs are classified to genus level, and the line below a genus name indicates membership within the same genus.
+
+
+from different populations residing in distinct ocean basins. Defining core microorgan- isms in a host environment is helpful because the persistence of core members between individual animals suggests that these core microbes may be beneficial for the host (, ). Core microbiomes are generally identified by applying criteria such as sequences or taxonomic groups that are present in 30 to 80% of hosts, and only rarely is 100% membership within all hosts used as the defining criterion (). Here, we used the 100% host membership criterion at a highly discriminative species-type level of phylogenetic similarity (as determined by MED) and identified 25 core microbiome members, which to our knowledge is an unprecedented number of core members at this discriminative scale for any marine or terrestrial host microbiome. The most similar finding using the 100% core membership criterion is for the human gut and hands, which host 18 and 5 core microbial members, respectively (, ). While core mem- bership in the human respiratory tract has not been investigated extensively, studies suggest high variability in the lower respiratory tract microbiome between individuals (). Stable and persistent core microbiomes with low interindividual variability, as observed here for the humpback whales, suggest that the microbiome and/or host may receive benefits from the presence of this collective group of cells, such as nutritional or immune benefits. However, examining blow microbiomes from unhealthy or dis- eased animals will be necessary to understand if the core microbiome does indeed change with health state. Blow samples from populations of large whales with healthy
+
+
+TABLE 2 List of potential pathogens identified in the humpback whale blow according to genus-level identity, as well as descriptions of recognized pathogens and putative marine mammal pathogens
+Staphylococcus epidermidis (, ),
+Staphylococcus warneri (),
+Staphylococcus sp. (),
+Staphylococcus delphini ()
+
+
+
+aMED nodes () present in the core microbiome are in bold.
+bNA, not applicable.
+
+Vibrio wodanis (),
+Vibrio sp. ()
+
+
+
+and unhealthy individuals, such as the North Atlantic right whales, may be particularly useful for this comparison ().
+Another reason that the presence of a core microbiome in whale blow could be a useful feature for monitoring health is that the absence of core members and/or the presence of atypical microbes in the blow could suggest an alteration in the growth environment or immune response of the microbes, as is typical for pulmonary infec- tions and diseases (). Analyzing microbiomes associated with blow from humpback whales with known pulmonary conditions would greatly advance our understanding about the stability of the core microbiome. However, these conditions are challenging to diagnose in the wild. Instead, examining the blow microbiomes of whales with
+
+
+field-diagnosable conditions, such as poor body condition detectable by drone-enabled photogrammetry (), will help advance our understanding of the variability of the core microbiome in relation to health.
+The third feature of the blow microbiome of humpback whales that is important for health monitoring is that the microbiomes can be coarsely screened for pathogens using the amplicon sequencing approach. We chose to screen for relatives of patho- gens, instead of just species-level identity to known pathogens, because cetacean pathogens are not well described, and the pulmonary and blowhole system of ceta- ceans is unique compared to other mammals. As knowledge of specific cetacean respiratory pathogens increases, a stricter sequence similarity approach could be applied. Until that time, analyzing blow microbiomes for potential pathogens using amplicon sequencing provides a means to screen for samples for further analysis of pathogens using quantitative PCR (qPCR) or metagenomics. Additionally, this amplicon- based method provides a means to understand the other possibly mutualistic or commensal members of the respiratory microbiome that would not be available if analysis were limited to pathogen detection. In this study, no known marine mammal respiratory pathogens were identified for further verification using qPCR or metag- enomics. Recently, Raverty et al. suggested that potentially pathogenic bacteria and fungi, including some exhibiting resistance to antimicrobial agents, identified in killer whale blow and surface seawater may pose a threat to the endangered killer whale population (). Large whales, including humpbacks, frequently reside in coastal areas of high anthropogenic influence, including wastewater and sewage dispersal (, ), and therefore, the probability of whales being exposed to pathogens is high. Whales also exhibit behaviors, such as surfacing in close proximity to each other or feeding cooperatively (, ), which could facilitate the spread of pathogens between indi- viduals. Thus, screening for potential pathogens in the blow microbiome is a particu- larly useful endeavor for large whales.
+A fourth useful feature of the blow microbiome is that the richness, diversity, and sequence homology of microorganisms detected in whale blow were on par with those previously identified in the blowholes of bottlenose dolphins (), the only com- parable microbiome data sets (i.e., broad taxonomic microbiome surveys that used cultivation-independent approaches). This feature suggests that blow microbiome monitoring criteria for one species may be applicable to other cetaceans. Although the criteria for sequence delineation differed between this study (which used MEDs) and the previous dolphin studies (which used 97% sequence similarity), all studies exam- ined surface seawater and found similar microbiome richness patterns between the marine mammal and seawater environments, thus making the data sets comparable on this generalized level.
+To further advance the blow microbiome as a health monitoring tool for large whales, several features require consideration and future development. While drones are safer and less invasive to the whale than pole sampling, they can result in low-volume samples. Indeed, several low-volume samples collected from this study were found to be similar in composition to samples from flight and technical controls. Contaminating DNA is frequently identified in low-volume samples (, ), including those targeting low microbial biomass from human lungs (), and the present study suggests that flight and technical controls are necessary to ensure that biological samples have sufficient volume and microbial biomass for accurate comparisons. Also, the differences in richness and community composition that were observed in the replicate blow samples were probably related to inconsistencies in whale blows or blow collections and signify the importance of repeated sampling. In addition to these recommendations, we acknowledge that this study presents a limited description of the microbiome by focusing on bacteria and archaea. Protists, viruses, and fungi can also be important indicators of respiratory illnesses (, ), and detection of these organisms may be achievable on some of the higher-volume samples using a metagenomics-based sequencing approach. Efforts should also be made to examine the growth environment for the blow-associated microorganisms, including character-
+
+
+ization of blow chemistry, temperature, and salinity, which could inform conditions for microbial cell growth, enhance cultivation efforts, and ultimately allow us to better evaluate the beneficial, commensal, or pathogenic potential of the microbial cells residing in the whale's respiratory tract. Last, this and a previous study () used drones to collect blow-associated microorganisms from large whales, where this approach appears to be broadly applicable. These methods may also be applicable to smaller cetaceans, but this still needs to be examined in the context of the ability of small unmanned aerial systems (UAS) to operate near small cetaceans unobtrusively.
+Conclusions. This study demonstrates that remote sampling via drones provides a noninvasive means to collect whale blow for microbiome analysis. Using this technique, we showed that different humpback whales and populations harbor similar microbial communities in their exhaled blow, including the presence of a large number of specific core bacteria shared between all individuals. The persistence of these core members in apparently healthy individuals suggests that they may be indicative of a healthy, noninfected pulmonary system, and their presence or absence could be informative for health monitoring of humpback whales and possibly other large whales.
+
+MATERIALS AND METHODS
+Sample collection. Exhaled breath condensate (blow) was collected from humpback whales (Megaptera novaeangliae) in the Race Point Channel, north of Cape Cod, MA (n 17), during July 2015 and in two locations around Vancouver Island: Johnstone Strait and surrounding channels, British Columbia (n 6 whales with replicate samples for all animals), in August 2016 and off San Juan Island, Washington State (n 3 whales with replicate samples for 2 animals), in September 2016. Samples were collected using a small, unmanned hexacopter drone (APH-22; Aerial Imaging Solutions, Old Lyme, CT) operated by a pilot and copilot team from a vessel () (). Collection surfaces differed between the flights and locations. For Cape Cod, the hexacopter's dome and one to three 96-well PCR plates fixed to the struts of the hexacopter were used as the sterile collection surfaces. For Vancouver Island, one forward-facing sterile, 96-well PCR plate; the dome of the hexacopter; and, for some whales, a 150-mm- diameter sterile petri dish affixed to the top of the dome () were used. Prior to flight, the hexacopter's propellers, arms, struts, and dome were sterilized with 95% isopropanol. The hexacopter then was flown 2 to4m or more above the blowhole, and once the whale exhaled, the hexacopter was returned to the boat so that the sample could be processed. Using sterile technique, the blow was swabbed from the collection surfaces using sterile cotton-tipped swabs or flocked swabs (Copan Diagnostics, Inc., Murrieta, CA). Each swab then was placed in a sterile 2-ml cryovial, frozen in a liquid nitrogen  vapor  shipper,  and  transferred  to  -80degC  until  processing.  In  one  case,  a  sample  had  a large-enough volume to pipette and thus was pipetted directly into a 2-ml cryovial prior to freezing. Sampled whales were photographed for identification purposes using standard methods to identify duplicate samples from the same whale ().
+As a control, the hexacopter was flown with sterile PCR plates attached for the same flight duration, altitude over the water, and distance from the boat as had been done when collecting actual blow samples. Upon landing, a sterile cotton-tipped swab was used to wipe the PCR plates and was placed in a sterile 2-ml cryovial, frozen, and stored in the same manner as the blow samples. To sample surface seawater microbes, 1 liter surface seawater was collected at 0.25-m depth from the same general area as the blow collections around Vancouver Island and filtered through an 0.22-u,m Supor membrane filter (Millipore, Boston, MA) using a peristaltic pump. Each filter was placed in a sterile 2-ml cryovial, frozen in a liquid nitrogen vapor shipper, and transferred to -80degC until processing. Two replicate seawater samples were collected per sampling site.
+Sample preparation, PCR amplification, and sequencing. Nucleic acids were isolated from the swabs, 50 u,l of the pipetted sample, or the filters using the PowerBiofilm DNA isolation kit (Mo Bio Laboratories, Inc., Carlsbad, CA). Barcoded 515FY and 806RB (, ) primers, utilized by the Earth Microbiome Project, were used to amplify the V4 region of the SSU rRNA gene in triplicate 25-u,l PCR mixtures per sample on a Bio-Rad Thermocycler (Hercules, CA) as follows: an initial denaturation step at 95degC for 2 min; 30 to 38 cycles (blow samples) or 20 to 25 cycles (seawater samples) of 95degC for 20 s, 55degC for 15 s, and 72degC for 5 min; and an extension step at 72degC for 10 min. Each PCR mixture contained 1 ng of DNA, 200 nM barcoded primers, GoTaq Flexi DNA polymerase, GoTaq Flexi 5X colorless buffer, 2.5 mM MgCl2, and 200 u,M deoxynucleoside triphosphate (dNTP) mix (Promega, Madison, WI). Products of the triplicate reactions were combined for each sample, screened on a 1% agarose-Tris-borate-EDTA (TBE) gel using HyperLadder (50 bp; Bioline USA Inc., Taunton, MA) to confirm amplicon size, and purified either with a 1.5% agarose-TBE gel using the MinElute gel extraction kit (Qiagen, Valencia, CA) or without the gel extraction using a Wizard PCR cleanup system (Promega, Madison, WI). A low-concentration microbial mock community with equimolar rRNA operon counts (obtained through BEI Resources, NIAID, NIH, as part of the Human Microbiome Project; genomic DNA from microbial mock community B [even, low concentration], v5.1L, for 16S rRNA gene sequencing, HM-782D) was amplified and sequenced with the samples to test for sequencing errors. To test for reagent contamination from the DNA isolation kit, 50 u,l sterile water or a dry swab was included in each batch of isolations. Each PCR run included sterile water as a negative control, for which amplification was not detected via gel electrophoresis for any of
+
+
+the runs. After quantification on a Qubit 2.0 fluorometer with a double-stranded DNA (dsDNA) high- sensitivity assay kit (Invitrogen Corp., Carlsbad, CA), the PCR products were pooled into two libraries of equal concentrations. Amplicons were sequenced over two 2- by 250-bp MiSeq (Vancouver Island) and NanoSeq (Cape Cod) formats (Illumina, San Diego, CA) at the University of Illinois W. M. Keck Center for Comparative and Functional Genomics.
+Sequence data processing. Raw sequences (6,358,878) were assembled, denoised, and quality filtered using mothur v.1.36.1 (). Specifically, barcoded primers were removed, sequence reads were joined, sequences were trimmed to 255 bp, and ambiguous base pair calls were removed, resulting in sequences with an average of 253 bp. The sequencing error rate was calculated as 0.0015771% from the mock community samples. Sequences from technical and flight control samples did not meet quality control criteria. However, due to the low-volume nature of the blow samples, these samples were initially included in the analysis (). Sequences were classified using a k-nearest neighbor consensus algorithm in mothur with the SILVA rRNA sequence database (v.123) (, ), and those that were identified as chloroplasts (233,253 sequences, from the seawater samples) and unknown (355 sequences) were removed from the data set. Chimeric sequences found by UCHIME () within mothur also were removed, and the cumulative outcome of these quality control measures resulted in 4,903,825 sequences (22.9% loss of sequences). Minimum entropy decomposition (MED) () was used to bin sequences to homogeneous operational taxonomic units (here referred to as MEDs) on the entire data set, 4,903,825 sequences, with a minimum substantive abundance (M) set to 490 to reduce the impact of noise, resulting in 616 nodes and a further reduction of the data to 4,183,042 reads. Taxonomy was assigned to sequences representing each MED using the k-nearest neighbor consensus algorithm in mothur with the nonredundant SILVA rRNA sequence database v.123 that was customized for humpback whale skin for an unrelated study by adding Tenacibaculum and Psychrobacter hypervariable region IV sequences from the partial (shorter-read) version of the same database.
+Microbial community analysis. Using the Primer software (v7.0.9; Primer-E, Auckland, New Zealand), Bray-Curtis dissimilarity () was calculated from nonrarefied, square-root-transformed relative abun- dances of the MED nodes and compared using a single linkage clustering algorithm. The resulting dendrogram showed that five sparse-volume blow samples clustered with the technical control samples (DNA isolation, PCR, and mock community controls). Based on this high similarity to the technical controls, these samples were considered to have been of such low volume that they only reflected the background microbial signal of the lab reagents. Therefore, these five samples were removed from the remaining analyses. Differences in microbial community compositions between whale populations and between seawater and whale blow were tested on Bray-Curtis dissimilarity () using PERMANOVA+ (v7.0.9; Primer-E, Auckland, New Zealand) with replicate samples treated as a random effect and sequencing depth also tested as a factor using the categories of <50,000 and >50,000 sequences. The phyloseq package () in R was used to examine alpha diversity of the humpback blow and seawater MEDs, without repeated subsampling, including richness and Simpson's index of diversity (). R also was used to determine the core MEDs (MEDs present in all high-quality samples of humpback whale blow). Taxonomic affiliations of the core microbiome and most-homologous sequence were determined using ARB with the most recent nonredundant SILVA database (v.128) at the time of analysis. The ggplot2 package () in R was used to construct the taxonomic stacked bar and box plot figures.
+Pathogen database and screening. A custom pathogen database of phylogenetic affiliations was constructed to screen the humpback whale blow microbiome sequences for the presence of potential pathogens at the genus level. The database included putative pathogens of any marine mammal body site identified from a compilation made by Raverty and colleagues () and from other published studies (see Table S2 in the supplemental material). To account for any bacteria that have not yet been identified as marine mammal pathogens, the database also included any human and animal bacterial pathogens recognized by the American Biological Safety Association (899 pathogens). To ensure that the humpback blow and seawater MEDs were resolved to the most descriptive taxonomic level offered by the SILVA database, the representative sequences were assigned taxonomic identity using both the k-nearest neighbor algorithm in mothur with the SILVA rRNA sequence database customized for humpback whale skin as mentioned above and the SINA Alignment Service v1.2.11 ().
+Data availability. Sequence data from this study are available at NCBI under BioProject accession no. . Representative MED sequences are available in fasta format in Data Set S1 in the supplemental material.
+
+SUPPLEMENTAL MATERIAL
+Supplemental material for this article may be found at  .
+TABLE S1, XLSX file, 0.01 MB.
+TABLE S2, XLSX file, 0.04 MB.
+DATA SET S1, TXT file, 0.2 MB.
+
+ACKNOWLEDGMENTS
+We thank Hannah Moore, William Durban, and Carla Crossman for field assistance and Chris Wright and the University of Illinois W. M. Keck Center for Comparative and Functional Genomics for sequencing. Wayne Perryman provided advice on unmanned aircraft operations, and Don LeRoi constructed attachments for collection surfaces on
+
+
+the hexacopter. A research vessel for field collection of samples around Vancouver Island was provided by the Vancouver Aquarium Marine Science Centre.
+Research approaches by both the boat and the hexacopter were authorized by NMFS permits 19091 and 17355 in U.S. waters and a research license issued by Fisheries and Oceans Canada (2014-5 SARA-327) in Canadian waters.
+Funding for sample analysis was provided through a grant to A.A., M.J.M., and J.W.D. from the Ocean Life Institute of the Woods Hole Oceanographic Institution. Attach- ments for collection surfaces on the hexacopter were constructed with funding support from NOAA's UAS Program.
+
+
+
+REFERENCES
+Thomas PO, Reeves RR, Brownell RL. 2016. Status of the world's baleen whales. Mar Mamm Sci 32:682-734. .
+Kraus SD, Brown MW, Caswell H, Clark CW, Fujiwara M, Hamilton PK, Kenney RD, Knowlton AR, Landry S, Mayo CA, McLellan WA, Moore MJ, Nowacek DP, Pabst DA, Read AJ, Rolland RM. 2005. North Atlantic right whales in crisis. Science 309:561-562. 
+.
+Clapham PJ, Young SB, Brownell RL. 1999. Baleen whales: conservation issues and the status of the most endangered populations. Mamm Rev 29:37- 62. .
+Fleming AH, Clark CT, Calambokidis J, Barlow J. 2016. Humpback whale diets respond to variance in ocean climate and ecosystem conditions in the California Current. Glob Chang Biol 22:1214 -1224. .
+Knowlton AR, Hamilton PK, Marx MK, Pettis HM, Kraus SD. 2012. Moni- toring North Atlantic right whale Eubalaena glacialis entanglement rates: a 30 yr retrospective. Mar Ecol Prog Ser 466:293-302. 
+.
+Sweeney JC, Ridgway SH. 1975. Common diseases of small cetaceans. J Am Vet Med Assoc 167:533-540.
+Venn-Watson S, Daniels R, Smith C. 2012. Thirty year retrospective evaluation of pneumonia in a bottlenose dolphin Tursiops truncatus population. Dis Aquat Organ 99:237-242. .
+Fernandez A, Esperon F, Herraez P, de Los Monteros AE, Clavel C, Bernabe A, Sanchez-Vizcaino JM, Verborgh P, DeStephanis R, Toledano F, Bayon A. 2008. Morbillivirus and pilot whale deaths, Mediterranean Sea. Emerg Infect Dis 14:792-794. .
+Chambers ST, Scott-Thomas A, Epton M. 2012. Developments in novel breath tests for bacterial and fungal pulmonary infection. Curr Opin Pulm Med 18:228 -232. .
+Acevedo-Whitehouse K, Rocha-Gosselin A, Gendron D. 2010. A novel non-invasive tool for disease surveillance of free-ranging whales and its relevance to conservation programs. Anim Conserv 13:217-225. .
+Hogg CJ, Rogers TL, Shorter A, Barton K, Miller PJO, Nowacek D. 2009. Determination of steroid hormones in whale blow: it is possible. Mar Mamm Sci 25:605- 618. .
+Hunt KE, Rolland RM, Kraus SD. 2014. Detection of steroid and thyroid hormones via immunoassay of North Atlantic right whale (Eubalaena glacialis) respiratory vapor. Mar Mamm Sci 30:796 - 809. .
+Johnson WR, Torralba M, Fair PA, Bossart GD, Nelson KE, Morris PJ. 2009. Novel diversity of bacterial communities associated with bottlenose dolphin upper respiratory tracts. Environ Microbiol Rep 1:555-562. .
+Bik EM, Costello EK, Switzer AD, Callahan BJ, Holmes SP, Wells RS, Carlin KP, Jensen ED, Venn-Watson S, Relman DA. 2016. Marine mammals harbor unique microbiotas shaped by and yet distinct from the sea. Nat Commun 7:10516. .
+Lima N, Rogers T, Acevedo-Whitehouse K, Brown MV. 2012. Temporal stability and species specificity in bacteria associated with the bottle- nose dolphins respiratory system. Environ Microbiol Rep 4:89 -96. .
+Raverty SA, Rhodes LD, Zabek E, Eshghi A, Cameron CE, Hanson MB, Schroeder JP. 2017. Respiratory microbiome of endangered southern resident killer whales and microbiota of surrounding sea surface micro-
+
+
+
+layer in the eastern north Pacific. Sci Rep 7:394.  .
+Eren AM, Morrison HG, Lescault PJ, Reveillaud J, Vineis JH, Sogin ML. 2015. Minimum entropy decomposition: unsupervised oligotyping for sensitive partitioning of high-throughput marker gene sequences. ISME J 9:968 -979. .
+Bray JR, Curtis JT. 1957. An ordination of the upland forest communities of southern Wisconsin. Ecol Monogr 27:325-349. 
+.
+Simpson EH. 1949. Measurement of diversity. Nature 163:688. .
+Salter SJ, Cox MJ, Turek EM, Calus ST, Cookson WO, Moffatt MF, Turner P, Parkhill J, Loman NJ, Walker AW. 2014. Reagent and laboratory contamination can critically impact sequence-based microbiome analy- ses. BMC Biol 12:87. .
+Venn-Watson S, Smith CR, Jensen ED. 2008. Primary bacterial pathogens in bottlenose dolphins Tursiops truncatus: needles in haystacks of com- mensal and environmental microbes. Dis Aquat Organ 79:87-93. .
+Foster G, Ross HM, Malnick H, Willems A, Garcia P, Reid RJ, Collins MD. 1996. Actinobacillus delphinicola sp. nov., a new member of the family Pasteurellaceae Pohl (1979) 1981 isolated from sea mammals. Int J Syst Bacteriol 46:648 - 652. .
+Varaldo PE, Kilpper-Balz R, Biavasco F, Satta G, Schleifer KH. 1988. Staphylococcus delphini sp. nov., a coagulase-positive species isolated from dolphins. Int J Syst Bacteriol 38:436 - 439. .
+Bernardelli A, Bastida R, Loureiro J, Michelis H, Romano MI, Cataldi A, Costa E. 1996. Tuberculosis in sea lions and fur seals from the south- western Atlantic coast. Rev Sci Tech 15:985-1005. 
+.
+Bogomolni AL, Gast RJ, Ellis JC, Dennett M, Pugliares KR, Lentell BJ, Moore MJ. 2008. Victims or vectors: a survey of marine vertebrate zoonoses from coastal waters of the northwest Atlantic. Dis Aquat Organ 81:13-38. .
+Higgins R. 2000. Bacteria and fungi of marine mammals: a review. Can Vet J 41:105-116.
+Cusick PK, Bullock BC. 1973. Ulcerative dermatitis and pneumonia asso- ciated with Aeromonas hydrophila infection in the bottle-nosed dolphin. J Am Vet Med Assoc 163:578 -579.
+Costello EK, Lauber CL, Hamady M, Fierer N, Gordon JI, Knight R. 2009. Bacterial community variation in human body habitats across space and time. Science 326:1694 -1697. .
+The Human Microbiome Project Consortium. 2012. Structure, function and diversity of the healthy human microbiome. Nature 486:207-214. .
+Morris RM, Rappe MS, Connon SA, Vergin KL, Siebold WA, Carlson CA, Giovannoni SJ. 2002. SAR11 clade dominates ocean surface bacterio- plankton communities. Nature 420:806 - 810. .
+Dickson RP, Huffnagle GB. 2015. The lung microbiome: new principles for respiratory bacteriology in health and disease. PLoS Pathog 11: e1004923. .
+Dickson RP, Erb-Downward JR, Huffnagle GB. 2013. The role of the bacterial microbiome in lung disease. Expert Rev Respir Med 7:245-257. .
+Beck JM, Young VB, Huffnagle GB. 2012. The microbiome of the lung. Transl Res 160:258 -266. .
+
+
+
+Apprill A, Robbins J, Eren AM, Pack AA, Reveillaud J, Mattila D, Moore M, Niemeyer M, Moore KMT, Mincer TJ. 2014. Humpback whale populations share a core skin bacterial community: towards a health index for marine mammals? PLoS One 9:e90785. 
+.
+Hernandez-Agreda A, Gates RD, Ainsworth TD. 2017. Defining the core microbiome in corals. Trends Microbiol 25:125-140. 
+.
+Astudillo-Garcia C, Bell JJ, Webster NS, Glasl B, Jompa J, Montoya JM, Taylor MW. 2017. Evaluating the core microbiota in complex communities: a systematic investigation. Environ Microbiol 19:1450 -1462. .
+Qin J, Li R, Raes J, Arumugam M, Burgdorf KS, Manichanh C, Nielsen T, Pons N, Levenez F, Yamada T, Mende DR, Li J, Xu J, Li S, Li D, Cao J, Wang B, Liang H, Zheng H, Xie Y, Tap J, Lepage P, Bertalan M, Batto JM, Hansen T, Le Paslier D, Linneberg A, Nielsen HB, Pelletier E, Renault P, Sicheritz- Ponten T, Turner K, Zhu H, Yu C, Li S, Jian M, Zhou Y, Li Y, Zhang X, Li
+S. 2010. A human gut microbial gene catalogue established by metag- enomic sequencing. Nature 464:59 - 65. .
+Fierer N, Hamady M, Lauber CL, Knight R. 2008. The influence of sex, handedness, and washing on the diversity of hand surface bacteria. Proc Natl Acad SciUSA 105:17994 -17999. 
+.
+Charlson ES, Bittinger K, Haas AR, Fitzgerald AS, Frank I, Yadav A, Bushman FD, Collman RG. 2011. Topographical continuity of bacterial populations in the healthy human respiratory tract. Am J Respir Crit Care Med 184:957-963. .
+Rolland RM, Schick RS, Pettis HM, Knowlton AR, Hamilton PK, Clark JS, Kraus SD. 2016. Health of North Atlantic right whales Eubalaena glacialis over three decades: from individual health to demographic and popu- lation health trends. Mar Ecol Prog Ser 542:265-282. 
+.
+Durban JW, Moore MJ, Chiang G, Hickmott LS, Bocconcelli A, Howes G, Bahamonde PA, Perryman WL, LeRoi DJ. 2016. Photogrammetry of blue whales with an unmanned hexacopter. Mar Mamm Sci 32:1510 -1515. .
+Elfes CT, VanBlaricom GR, Boyd D, Calambokidis J, Clapham PJ, Pearce RW, Robbins J, Salinas JC, Straley JM, Wade PR, Krahn MM. 2010. Geo- graphic variation of persistent organic pollutant levels in humpback whale (Megaptera novaeangliae) feeding areas of the North Pacific and North Atlantic. Environ Toxicol Chem 29:824 - 834. 
+.
+Kraus SD, Rolland R. 2007. The urban whale: North Atlantic right whales at the crossroads. Harvard University Press, Cambridge, MA.
+Hain JW, Carter R, Kraus D, Mayo A, Winni E. 1982. Feeding behavior of the humpback whale, Megaptera novaeangliae, in the western North Atlantic. Fish Bull 80:259 -268.
+Wursig B, Dorsey EM, Fraker MA, Payne RS, Richardson WJ, Wells RS.
+
+1984. Behavior of bowhead whales, Balaena mysticetus, summering in the Beaufort Sea: surfacing, respiration, and dive characteristics. Can J Zool 62:1910 -1921. .
+Kim D, Hofstaedter CE, Zhao C, Mattei L, Tanes C, Clarke E, Lauder A, Sherrill-Mix S, Chehoud C, Kelsen J, Conrad M, Collman RG, Baldassano R, Bushman FD, Bittinger K. 2017. Optimizing methods and dodging pitfalls in microbiome research. Microbiome 5:52. 
+.
+Nollens HH, Wellehan JF, Saliki JT, Caseltine SL, Jensen ED, Van Bonn W, Venn-Watson S. 2008. Characterization of a parainfluenza virus isolated from a bottlenose dolphin (Tursiops truncatus). Vet Microbiol 128: 231-242. .
+Durban JW, Fearnbach H, Barrett-Lennard LG, Perryman WL, LeRoi DJ. 2015. Photogrammetry of killer whales using a small hexacopter launched at sea. J Unmanned Veh Syst 3:1-21. .
+Mizroch S. 2007. Whale photo-identification: digital photography tech- niques, using EXIF data, and photo editing tools. NOAA, Washington, DC. .
+Apprill A, McNally SP, Parsons R, Weber L. 2015. Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton. Aquat Microb Ecol 75:129 -137. 
+.
+Schloss PD, Westcott SL, Ryabin T, Hall JR, Hartmann M, Hollister EB, Lesniewski RA, Oakley BB, Parks DH, Robinson CJ, Sahl JW, Stres B, Thallinger GG, Van Horn DJ, Weber CF. 2009. Introducing mothur: open- source, platform-independent, community-supported software for de- scribing and comparing microbial communities. Appl Environ Microbiol 75:7537-7541. .
+Quast C, Pruesse E, Yilmaz P, Gerken J, Schweer T, Yarza P, Peplies J, Glockner FO. 2013. The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. Nucleic Acids Res 41: D590 -D596. .
+Pruesse E, Quast C, Knittel K, Fuchs BM, Ludwig W, Peplies J, Glockner FO. 2007. SILVA: a comprehensive online resource for quality checked and aligned ribosomal RNA sequence data compatible with ARB. Nucleic Acids Res 35:7188 -7196. .
+Edgar RC, Haas BJ, Clemente JC, Quince C, Knight R. 2011. UCHIME improves sensitivity and speed of chimera detection. Bioinformatics 27:2194 -2200. .
+McMurdie PJ, Holmes S. 2013. phyloseq: an R package for reproducible interactive analysis and graphics of microbiome census data. PLoS One 8:e61217. .
+Wickham H. 2009. ggplot2: elegant graphics for data analysis. Springer Science and Business Media, New York, NY.
+Parada A, Needham DM, Fuhrman JA. 2015. Every base matters: assess- ing small subunit rRNA primers for marine microbiomes with mock communities, time-series and global field samples. Environ Microbiol 18:1403-1414. .

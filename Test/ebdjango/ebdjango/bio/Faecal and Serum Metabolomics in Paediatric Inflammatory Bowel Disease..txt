@@ -1,0 +1,645 @@
+
+Journal of Crohn's and Colitis, 2017, 321-334
+doi:10.1093/ecco-jcc/jjw158 Advance Access publication October 4, 2016
+Original Article
+
+Original Article
+Faecal and Serum Metabolomics in Paediatric Inflammatory Bowel Disease
+Kaija-Leena Kolho,Alberto Pessia,Tytti Jaakkola,Willem M. de Vos,,, Vidya Velagapudi
+aChildren's Hospital, Helsinki University Hospital, University of Helsinki, Helsinki, FIN-00029, Finland bMetabolomics
+Unit, Institute for Molecular Medicine Finland FIMM, University of Helsinki, Helsinki, FIN-00029, Finland cImmunobiology Program, Department of Bacteriology & Immunology, University of Helsinki, Helsinki, FIN-00029, Finland dLaboratory of Microbiology, Wageningen University, 6703 HB Wageningen, The Netherlands eDepartment of Veterinary Biosciences, University of Helsinki, Helsinki, FIN-00029, Finland
+Corresponding authors: Dr Kaija-Leena Kolho, MD, PhD, Children's Hospital, PO Box 281, FI-00029 HUS, Finland. Tel.: +358 40 7615172; e-mail: and Dr Vidya Velagapudi, PhD, Docent, Metabolomics Unit, Institute for Molecular Medicine Finland FIMM, Helsinki, FI-00029, Finland. Tel.: +358 50 3175087; e-mail: 
+
+Abstract
+Background: Inflammatory bowel disease [IBD] is considered to result from the interplay between host and intestinal microbiota but its pathogenesis is incompletely understood. While IBD in adults has shown to be associated with marked changes in body fluid metabolomics, there are only few studies in children. Hence, this prospective study addressed the faecal and serum metabolomics in newly diagnosed paediatric IBD.
+Methods: Paediatric patients with IBD undergoing diagnostic endoscopies and controls also with endoscopy but no signs of inflammation provided blood and stool samples in a tertiary care hospital. Blood inflammatory markers and faecal calprotectin levels were determined. The serum and faecal metabolomics were determined using ultra-high pressure liquid chromatography coupled to a mass spectrometer.
+Results: Serum and faecal metabolite profiles in newly diagnosed paediatric IBD patients were different from healthy controls and categorized Crohn's disease and ulcerative colitis [UC] patients into separate groups. In serum, amino acid metabolism, folate biosynthesis and signalling pathways were perturbed in Crohn's disease; in UC also sphingolipid metabolic pathways were perturbed when compared to controls. In faecal samples, there was an increased level of several metabolites in UC in contrast to low or intermediate levels in Crohn's disease. There was a clear correlation with the level of inflammation, i.e. faecal calprotectin levels and the profile of various biologically important metabolites [carnosine, ribose and, most significantly, choline].
+Conclusion: Characterization of inflammatory pattern using metabolomics analysis is a promising tool for better understanding disease pathogenesis of paediatric IBD.
+
+Key Words: Children; Crohn's disease; ulcerative colitis
+
+
+
+
+Introduction
+Recent decades have seen a dramatic increase in inflammatory bowel disease [IBD], in adult and paediatric patients alike. The reasons for
+
+
+this increase, however, remain unknown, although likely causes may include the Western lifestyle, excessively good hygiene, intake of anti- biotics and specific diets.Diagnoses of IBD always include chronic inflammation of the gastrointestinal tract with the exclusion of other
+
+
+
+Copyright (c) 2016 European Crohn's and Colitis Organisation (ECCO). Published by Oxford University Press. All rights reserved. For permissions, please email: 
+
+321
+
+322	K. Kolho et al.
+
+
+causes of inflammation. IBD is divided into three different subtypes: Crohn's disease, ulcerative colitis [UC] and unclassified IBD [IBDU]. These subtypes differ in patterns of involvement and development.
+IBD is attributed to a dysregulated  immune  response towards the intestinal microbiota in genetically predisposed individuals. In children, IBD tends to be more extensive and aggressive compared to adult counterparts, the reasons for these differences being far from clear.It has been well established that changes in microbiota affect the immune system and metabolic pathways. These changes are of great interest also in IBD research as they may develop into mark- ers indicative of the onset of the disease or into markers guiding treatment. This can be illustrated by recent findings on microbial patterns related to paediatric Crohn's disease as well as segmenta- tion of responders to anti-tumour necrosis factor [TNF] treatments   in paediatric IBD.,Another way to detect microbial changes is to use unsupervised metabolomics approaches. These aim to reveal metabolite perturbations associated with diseases by measuring high sample throughput of multiple metabolites in biological samples, such as blood and faeces. Recent findings in a worldwide IBD study show that the metabolite profiles can be powerful in strati- fying patients according to their disease subtype [UC or Crohn's disease]., Specifically in view of the high treatment costs and severity of the disease, there is an urgent need to manage a more individual treatment for patients than currently is practical. Whether metabolite profiles may aid in guiding an individual treatment is an unanswered question., The few reported studies using metabo- lomics in IBD comprise only adult patients and do not include newly diagnosed patients. Hence, we focused in this study on applying a metabolomics approach to newly diagnosed paediatric IBD patients, who are known to display unique characteristics and disease devel- opment. We show that both blood and faecal metabolites  can  be used to classify Crohn's disease and UC patients and separate them
+
+from healthy subjects, providing new options for diagnostics and treatment.
+
+Subjects and Methods
+We invited 6- to 17-year-old native Finnish patients with IBD treated at the Gastroenterology unit of the Children's hospital, Helsinki University, Finland, to this prospective study on metabolomics. All IBD diagnoses were endoscopy-based and fulfilled the revised Porto criteria. Controls [n=29] were patients undergoing endoscopy because of abdominal pain [n=13], haematochezia [n=5], diarrhoea [n=4] and for other reasons [n=7] to exclude IBD. None of these con- trol subjects presented with active inflammation. All participants were requested to provide a blood sample and a stool sample for study purposes. All blood samples were taken when starting preparations for the anaesthesia. Thus, all patients and controls were fasting when sampled and had undergone a similar procedure for bowel cleansing. Faecal samples were taken at home within 2 days before admission or on the ward before starting bowel cleansing. Secondly, after analysing the first sample set of patients undergoing diagnostic investigations, we invited 12 of the included patients [n=51] to provide a follow-up sample once while recruiting additional patients undergoing diagnos- tic investigations for IBD [n=18; validation cohort]. These samples comprised the second sample set; in total 69 patients were included []. Samples were collected between June 2009 and February 2013 and were frozen and stored at -70degC until analysed [see below]. Faecal calprotectin was measured according to clinical routine
+24 h to 2 weeks before endoscopy. We collected information on
+disease localization and age at diagnosis, and blood inflammatory markers [erythrocyte sedimentation rate, ESR] at the time of sam- pling. Clinical disease activity was scored based on physicians global assessment [PGA] 1 to 3.For most of the analyses, the groups of
+
+
+Table 1. Background characteristics of the paediatric inflammatory bowel disease [IBD] patients and controls.
+
+
+*Not applicable.
+
+Metabolomics in Paediatric IBD	323
+
+
+UC and IBDU were combined due to the low number of patients with IBDU. None of the patients recruited were receiving medica- tions at the time of diagnostic endoscopies or sampling.
+The faecal calprotectin level was measured in a routine clinical laboratory using a quantitative enzyme immunoassay [PhiCal Test, Calpro AS], and values <100 mg/g were considered as normal.,
+
+Metabolomics analyses
+All samples were analysed in a double random order, i.e. first step at the metabolite extraction phase and the second step at the liquid chromatography [LC] injection order. Investigators were blinded to the patient classification information when performing the sample analyses.
+
+Faecal sample extraction
+Frozen faecal samples were weighed [around 50 mg] and transferred to Precellys homogenization tubes [Precellys 24 lysing kit, Precellys] containing 1.4 mm  ceramic  [zirconium  oxide]  beads  by  adding  20 ulof labelled internal standard  mix  and  incubated  on  ice  for  10 min. After incubation, 20 parts of extraction solvent was added   to the sample [1:20, sample/extraction solvent]. To gain maximum recovery of small molecules, the homogenizations were performed with a Precellys 24 homogenizer [Precellys] in a two-step extraction process. In the first step, 10 parts of precooled 100% acetonitrile [ACN] + 1% formic acid [FA] was added to the sample and homog- enized for three cycles of 30 s each at 5500 r.p.m. with a 10-s pause between each homogenization interval. After homogenization, the sample tubes were centrifuged for 15 min at 8000 g at 4 degC and the supernatant was collected in a 1.5 ml Eppendorf tube. In the sec-  ond step, 10 parts of 80:20% ACN/H2O  +  1%  FA  was  added  to the remaining pellet, the steps as detailed above were repeated, and finally the pellet was pooled to the previous extract and the whole extract centrifuged again for 15 min at 14000 g at 4 degC. A dilution set of 1:50 was made to quantify the highly abundant metabolites.
+
+Serum sample extraction
+Ten microlitres of labelled internal standard mixture was added to 100 ul of serum sample. Metabolites were extracted by adding four parts [1 : 4, sample/extraction solvent] of the 100% ACN + 1% FA solvent.
+The collected extracts were dispensed in Ostro(tm) 96-well plates [Waters Corporation] and filtered by applying vacuum at a delta pres- sure of 300-400 mbar for 2.5 min on the robot's vacuum station. This resulted in a cleaner extract to the 96-well collection plate, which was placed under the Ostro plate. The collection plate was sealed with the cap map and centrifuged for 15 min at 5000 r.p.m. at 4 degC and then placed in auto-sampler of the LC system for the injection.
+
+Instrumentation and analytical conditions
+Sample analysis was performed on an ACQUITY ultra pressure liq- uid chromatography tandem mass spectrometry [UPLC-MS/MS] system [Waters Corporation] and the detection system, a Xevo(r) TQ-S tandem triple quadrupole mass spectrometer [Waters], was operated in both positive and negative polarities. A detailed descrip- tion of the analytical conditions is given elsewhere.All the meas- ured metabolites with corresponding multiple reaction monitoring [MRM] conditions are given in Supplementary Table S1.
+
+Metabolomics data analysis
+Metabolomics data analysis was carried out using a web-based comprehensive metabolomics data processing tool, MetaboAnalyst
+
+
+3.0 , Hierarchical cluster analy- sis was performed in order to identify clustering patterns while Pearson's correlation coefficient was used to evaluate the correla- tion between each pair of features. For these purposes, each variable of the quantitative data was first normalized by the median value of the control group and then log-transformed. Dendrograms were plotted on pre-processed data using Ward's linkage clustering algo- rithm and Pearson's correlation similarity measure. Dendrograms were visualized through heatmaps, where each coloured cell on the map corresponds to a concentration value. To analyse differences among groups, univariate analyses and t-tests were performed on pre-processed data. To explain the maximum separation among groups, unsupervised and supervised multivariate regression tech- niques, principal component analysis [PCA] and partial least squares discriminant analysis [PLS-DA], respectively, were performed. For each model, the optimal number of components was chosen accord- ing to the highest prediction accuracy estimated by the 5-fold cross- validation technique. Sensitivity, specificity and receiver operating characteristic [ROC] statistics were also computed. To validate the model, accuracy in predicting group labels in the second sample set [fresh diagnosis] was measured. Variable importance in projec- tion [VIP] is one of the important measures of PLS-DA, and is a weighted sum of squares of the PLS loadings taking into account the amount of explained class variation in each dimension. Metabolites were ranked according to their VIP scores and usually metabolites with VIP scores greater than 1 are considered as the most significant contributors. To identify biologically meaningful patterns based on the metabolomics data, quantitative enrichment analysis [QEA] was carried out. Data were mapped to the human metabolome database, where the 'metabolic pathway associated metabolite sets' library comprising 88 metabolite sets of normal metabolic pathways was chosen for QEA. All the mapped metabolic pathways with total number of metabolites and matched metabolites from the data are given in Supplementary Table S2.
+
+
+Results
+A total of 69 IBD patients and 29 controls were enrolled in this study []. All patients with IBD included in the first sample set were undergoing diagnostic endoscopies. The control group comprised patients with no signs of intestinal inflammation in the intestinal biopsies. The second sample set consisted of 12 follow-up samples available from first sample set [Crohn's n=6, UC/IBDU n=6], and additional samples from 18 newly diagnosed patients [no medica- tion, Crohn's n=10, UC/IBDU n=8] as a validation cohort. All sub- jects provided blood samples and a subset donated faecal samples, which are difficult to obtain from this age group. The major results below are presented for the first sample set, with the findings of the second sample set commented upon separately later.
+For the first sample set, the whole metabolomics profiles  are shown as heatmaps for serum samples [] and faecal samples [], where distinct metabolite profiles were observed in faecal rather than serum  samples. The key metabolites  that contributed  most to the separation between controls, Crohn's  disease and UC are shown in a PLS-DA VIP plot, ranking these by importance []. In serum, neopterin showed as a top metabolite in the discriminant analysis with higher levels in Crohn's disease, lower levels in controls and intermediate levels in UC. The following top metabolites that are involved in the urea cycle, arginine and methionine metabolisms, namely L-arginine, dimeth- ylglycine, asymmetric dimethylarginine, guanosine, L-octanoylcarnitine, betaine, L-cystathionine, citrulline and decanoylcarnitine, also showed
+
+324	K. Kolho et al.
+
+
+class
+Kynurenate Isovalerylcarnitin Kynurenine Histidine Trytophan Aminoadipate
+2-Aminoisobutyrate Valine
+Leucine Glyceraldehyde Phenylalanine Tyrosine Lysine Methionine Threonine Asparagine GABA
+4-Hydroxyproline Proline
+Alanine Choline Succinate Creatinine Guanidoacetate Inosine Guanosine
+5-Hydroxyindoleace 4-Pyridoxate Cystathionine
+1-Methylhistamine Arginine Isoleucine Dimethylglycine SDMA
+ADMA
+Glycine Glutamine Serine Carnosine Ornithine Citrulline
+Hexanoylcarnitine Acetylcarnitine Taurocholate Uracil Acetoacetate Decanoylcarnitine Octanoylcarnitine Betaine
+Phosphoethanolamin Normetanephrine Deoxycytidine Propionylcarnitine Carnitine
+Isobutyryl-L-carni IMP
+AMP
+Xanthine Glucuronate Adenosine Adenine Hypoxanthine D-Ribose-5-P Creatine cAMP
+Neopterin Niacinamide Allantoin Spermidine Glycocholate Taurochenodesoxych Glutamate
+Aspartate Xanthosine Taurine
+Chenodeoxycholate Sorbitol
+Cytosine
+G-Glutamylcysteine Pantothenate Trimethylamine N-o Hippurate Myoinositol  Sucrose
+
+class
+4	Control Crohn
+2	IBDU UC
+
+0
+
+-2
+
+-4
+
+
+Figure 1. Serum [A] and faecal [B] metabolite profiles shown as heatmaps in newly diagnosed paediatric Crohn's disease, ulcerative colitis, unclassified colitis [IBDU] and controls [with no evidence of inflammation in endoscopy]. Serum samples were available from 79 children [50 patients and 29 controls] and faecal samples from 37 children [23 patients and 14 controls]; see for details [sample set 1].
+
+
+similar profiles, i.e. higher in Crohn's and UC being in between Crohn's and controls. Glycocholic acid, L-isoleucine, symmetric dimethylargi- nine, serine, phosphoethanolamine, proline and hexanoylcarnitine, by contrast, showed higher values in UC, lower values in controls and inter- mediate values in Crohn's. L-Tryptophan, kynurenic acid and trimethyl- amine-N-oxide showed lower values in the disease groups []. Unlike serum samples, metabolomic analyses of faecal samples clearly showed elevated levels of all the top metabolites, except cytosine, in UC as compared to Crohn's disease and controls []. PLS-DA cross-validation summaries are shown in Supplementary Figure S1A for serum and Figure S1B for faecal samples. The faecal metabolomics profile, even with 37 samples, was superior to the serum metabolomics profile, with 79 samples, in discriminating the controls and the two dis- ease subtypes, and between the two disease subtypes. The performance of the chosen PLS-DA model is shown in Supplementary Table S3 for controls and disease groups.
+
+To identify biologically meaningful patterns based on the metabo- lomics data, QEA was done separately for Crohn's disease and UC in both serum and faecal samples. In Crohn's disease, metabolic path- way analysis in serum depicted folate and pterine biosynthesis, purine, amino acid, betaine, nicotinate and nicotineamide metabolisms, urea cycle and intracellular signalling pathways as significantly enriched compared to controls []. In UC, most of the metabolic path- ways, except signalling pathways, were perturbed in addition to bile acid biosynthesis and sphingolipid metabolisms when compared to controls []. In faecal samples, no pathways were significantly altered in Crohn's disease [data not shown], whereas in faecal samples of UC patients, the majority of the studied pathways were perturbed when compared to controls, taurine and hypotaurine metabolism being the most highly enriched pathways [].
+We  further  investigated  the  metabolite  differentiations  local-
+ized to colitis in both Crohn's disease and UC. Interestingly, when
+
+Metabolomics in Paediatric IBD	325
+
+
+
+class
+Dimethylglycine
+2-Aminoisobutyrate Homoserine Chenodeoxycholate Homogentisate Orotate
+Kynurenate 4-Pyridoxate Pyridoxine Adenosine Nicotinate Pantothenate GABA
+Adenine Hypoxanthine Cytosine Isoleucine Alanine Valine
+Glyceraldehyde Leucine Phenylalanine Glycine Trytophan Serine Threonine
+5-Hydroxytryptopha Proline
+Tyrosine Methionine Inosine Guanosine Deoxyuridine Uracil Xanthine AMP
+Spermidine Citrulline Aspartate Glutamate Glucuronate Asparagine Arginine Glutamine Histidine Cystathionine Lysine Ornithine Carnosine Niacinamide Allantoin
+Decanoylcarnitine Octanoylcarnitine Hexanoylcarnitine Isovalerylcarnitin Cytidine Propionylcarnitine Isobutyryl-L-carni Carnitine Creatinine Creatine
+4-Hydroxyproline Neopterin Phosphoethanolamin Succinate
+Taurine Xanthosine Normetanephrine Choline Kynurenine Taurocholate
+Taurochenodesoxych Glycocholate Cholate
+Sorbitol
+
+
+4 class
+Control
+Crohn
+2	IBDU UC
+0
+
+
+-2
+
+
+-4
+
+
+
+UC/IBDU patients [25 serum samples and ten faecal samples] were compared to patients with Crohn's colitis [13 serum samples and seven fecal samples; patients with ileal disease excluded], we found increased levels of normetanephrine, propionylcarnitine, deoxycytidine, allantoin and spermidine in serum UC samples, and L-asparagine, L-aspartic acid, 5-hydroxy-L-tryptophan, guanosine, L-serine, L-glutamine, L-arginine and L-threonine in faecal UC sam- ples. Conversely, we found decreased levels of inosine, guanosine, adenosine, cytosine, AMP, sorbitol and arginine in serum UC sam- ples [], and pyridoxine, pyridoxic acid, orotic acid and kynurenic acid in faecal UC samples []. At pathway level, purine metabolism and oxidation of branched chain fatty acids were perturbed in serum samples []. In faecal samples, amino acid metabolisms, malate-aspartate shuttle, ammonia recycling, urea cycle and glucose-alanine cycle were perturbed [].
+As  expected  in  this  cohort  of  adolescents,  we  observed some
+gender differences in metabolite patters, while UC faecal metabolic profiles were more clearly separated from controls in girls than in boys [Supplementary Figure S2A and 2B]. In serum this difference
+
+was less clear [data not shown]. This difference was also seen in the PCA model when stratified into disease subgroups, and girls with UC were more clearly separated from controls than boys in the faecal PCA model but not in the serum PCA model [data not shown]. Body mass index [BMI] was associated with serum levels of 5-hydrox- yindole-3-acetic acid and carnosine in paediatric UC [Pearson's r=-0.578, p=0.003 and Pearson's r=0.539, p=0.007, respectively]. In Crohn's disease serum creatine and taurocholic acid showed signifi- cant negative associations with BMI [Pearson's r=-0.494, p=0.012 and r=-0.463, p=0.02, respectively] but creatinine and the amino acids methionine, proline, tryptophan, lysine and alanine showed a positive association with BMI [Pearson's r between 0.402 and 0.517 and p between 0.008 and 0.047]. There were, however, no data available on energy intake of the patients but samples of treatment naive patients were taken while fasting.
+Faecal  calprotectin  level,  a  surrogate  marker  of  intestinal
+inflammation, showed correlation with various faecal metabolites [carnosine, ribose-5-phosphate, choline, aminoadipic acid, taurine, glyceraldehyde  and  L-methinone]  in  UC. In  Crohn's  disease such
+
+
+
+326	K. Kolho et al.
+
+
+2A
+
+
+Neopterin Glycocholate
+Arginine Dimethylglycin Tryptophan Isoleucine ADMA
+SDMA
+Kynurenate
+Serine Phosphoethnol Guanosine Octanoylcarnit
+Betaine Proline Hexanoylcarnit Cystathionine
+Citrulline Decanoylcarnit Trimethylamine
+
+
+
+
+
+
+
+High
+
+
+
+
+
+
+
+
+
+Low
+
+
+1.0	1.5	2.0	2.5	3.0
+
+2B
+
+
+Aspartate Glycine Tryptophan Carnosine Allantoin Citrulline
+Serine Threonine Ornithine Creatinine Asparagine Glyceraldehyde
+Choline Cytosine Kynurenine Histidine Taurine Phenylalanine
+Alanine Normetanephrin
+
+
+
+
+
+
+
+High
+
+
+
+
+
+
+
+
+Low
+
+
+1.3	1.4	1.5	1.6	1.7
+
+Figure 2. Serum partial least squares discriminant analysis [PLS-DA] variable importance in projection [VIP] plot [A] and faecal PLS-DA VIP plot [B], in newly diagnosed paediatric Crohn's disease, ulcerative colitis [or unclassified colitis, IBDU] and controls [with no evidence of inflammation in endoscopy]. Serum samples were available from 79 children [50 patients and 29 controls] and faecal samples from 37 children [23 patients and 14 controls]; see for details [sample set 1].
+
+
+faecal correlations were evident to a lesser extent, allantoin and gamma-gutamylcysteine being the major metabolites significantly associated with calprotectin []. When all IBD patients were grouped together, faecal carnosine showed the most significant association to faecal calprotectin [r=0.887, p<0.0001] but the
+
+correlation with allantoin  and  gamma-glutamylcysteine  observed  in Crohn's disease was lost [data not shown]. When related to the blood inflammatory marker ESR, neopterin, histidine and taurine were among the metabolites in  UC  with  the  strongest  correla-  tion []. We noticed that in Crohn's disease the correlation
+
+Metabolomics in Paediatric IBD	327
+
+
+
+3A	FOLATE AND PTERINE BIOSYNTHESIS PURINE METABOLISM TRYPTOPHAN METABOLISM
+GLYCINE, SERINE AND THREONINE METABOLISM
+METHIONINE METABOLISM BETAINE METABOLISM
+NICOTINATE AND NICOTINAMIDE METABOLISM
+UREA CYCLE EXCITATORY NEURAL SIGNALLING THROUGH.... CORTICOTROPIN ACTIVATION OF CORTISOL.... VASOPRESSIN REGULATION OF WATER HOMEOSTASIS INTRACELLULAR SIGNALLING THROUGH FSH....
+INTRACELLULAR SIGNALLING THROUGH.... INTRACELLULAR SIGNALLING THROUGH PGD2.... INTRACELLULAR SIGNALLING THROUGH....
+ARGININE AND PROLINE METABOLISM
+PROTEIN BIOSYNTHESIS INSULIN SIGNALLING ASPARTATE METABOLISM SPHINGOLIPID METABOLISM BILE ACID BIOSYNTHESIS INOSITOL METABOLISM
+INTRACELLULAR SIGNALLING THROUGH....
+TAURINE AND HYPOTAURINE METABOLISM
+HISTIDINE METABOLISM GLUTAMATE METABOLISM PROPANOATE METABOLISM
+STARCH AND SUCROSE METABOLISM SELENOAMINO ACID METABOLISM MALATE-ASPARTATE SHUTTLE KETONE BODY METABOLISM BUTYRATE METABOLISM
+VALINE, LEUCINE AND ISOLEUCINE DEGRADATION PHENYLALANINE AND TYROSINE METABOLISM
+AMMONIA RECYCLING TYROSINE METABOLISM GLYCEROLIPID METABOLISM BETA-ALANINE METABOLISM LYSINE DEGRADATION
+RNA TRANSCRIPTION ALANINE METABOLISM GLUCOSE-ALANINE CYCLE BIOTIN METABOLISM PYRIMIDINE METABOLISM
+FRUCTOSE AND MANNOSE DEGRADATION PANTOTHENATE AND COA BIOSYNTHESIS
+GALACTOSE METABOLISM OXIDATION  OF BRANCHED CHAIN FATTY ACIDS
+CYSTEINE METABOLISM BETA OXIDATION OF VERY LONG CHAIN FATTY  ACIDS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p-value < 0.05
+
+
+0	5	10	15
+
+Fold Enrichment
+
+Figure 3. Metabolic pathway analysis in newly diagnosed patients with paediatric inflammatory bowel disease. [A] Serum samples in paediatric Crohn's disease [n=25; one sample lost]; [B] serum samples in ulcerative colitis and unclassified colitis [n=25] and in faecal samples in ulcerative colitis [available samples n=10]
+[C] compared to controls [with no evidence of inflammation in endoscopy; n=29 for serum samples; n=14 for faecal samples].
+
+
+pattern with ESR and serum metabolites was different from UC [].
+Having established that the metabolomics approach is instrumental in differentiating Crohn's disease and UC patients as well as controls, we wanted to validate these findings in a series of newly diagnosed IBD patients. In this second sample set with ten Crohn's disease and eight UC/IBDU patients, we observed essentially similar results as in the first sample set, i.e. no striking differences in serum metabolomics profiles but similar differentiating patters when faecal metabolites were com- pared. Most of the significantly altered faecal metabolites showed an almost similar profile in both the first dataset and the second validation dataset. This clearly shows the robustness of the method and repeat- ability of the results. The performance of the chosen PLS-DA model in this second sample set is shown in Supplementary Table S4.
+
+We had the opportunity to analyse the follow-up samples of 12 UC/IBDU and Crohn's study participants. We observed interesting features even in these limited longitudinal follow-up samples. When serum follow-up samples were compared to the samples obtained     at the time of diagnosis [reflecting higher disease activity], the top ranked metabolites in the PLS-DA VIP analysis showed higher levels in Crohn's disease compared to UC at baseline, but opposite profiles [i.e. elevated levels declined in the latter or vice versa] were observed at follow-up, i.e. all the other most  important  metabolites  except  for adenosine and inosinic acid were decreased in Crohn's disease [Supplementary Figure S3A]. Similarly, in faecal samples, baseline metabolite profiles had elevated levels in UC compared to Crohn's, whereas half of the top ranked metabolite levels were reduced in follow-up UC faecal samples [Supplementary Figure S3B].
+
+328	K. Kolho et al.
+
+
+3B	FOLATE AND PTERINE BIOSYNTHESIS BETAINE METABOLISM TRYPTOPHAN METABOLISM
+GLYCINE, SERINE AND THREONINE METABOLISM
+METHIONINE METABOLISM BILE ACID BIOSYNTHESIS SPHINGOLIPID METABOLISM PROTEIN BIOSYNTHESIS
+UREA CYCLE ARGININE AND PROLINE METABOLISM
+VALINE, LEUCINE AND ISOLEUCINE DEGRADATION
+PENTOSE PHOSPHATE PATHWAY TAURINE AND HYPOTAURINE METABOLISM
+PORPHYRIN METABOLISM RNA TRANSCRIPTION INSULIN SIGNALLING PURINE METABOLISM TYROSINE METABOLISM KETONE BODY METABOLISM BUTYRATE METABOLISM
+NICOTINATE AND NICOTINAMIDE METABOLISM PHENYLALANINE AND TYROSINE METABOLISM EXCITATORY NEURAL SIGNALLING THROUGH.... CORTICOTROPIN ACTIVATION OF CORTISOL.... VASOPRESSIN REGULATION OF WATER HOMEOSTASIS INTRACELLULAR SIGNALLING THROUGH FSH....
+INTRACELLULAR SIGNALLING THROUGH.... INTRACELLULAR SIGNALLING THROUGH PGD2.... INTRACELLULAR SIGNALLING THROUGH....
+BETA OXIDATION OF VERY LONG CHAIN FATTY  ACIDS
+PROPANOATE METABOLISM PYRIMIDINE METABOLISM BIOTIN METABOLISM
+INTRACELLULAR SIGNALLING THROUGH....
+ASPARTATE METABOLISM OXIDATION  OF BRANCHED CHAIN FATTY ACIDS
+AMMONIA RECYCLING GLYCEROLIPID METABOLISM HISTIDINE METABOLISM GLUTATHIONE METABOLISM INOSITOL METABOLISM PHOSPHOLIPID BIOSYNTHESIS CYSTEINE METABOLISM
+FRUCTOSE AND MANNOSE DEGRADATION
+GLUTAMATE METABOLISM LYSINE DEGRADATION
+BETA-ALANINE METABOLISM STARCH AND SUCROSE METABOLISM MALATE-ASPARTATE SHUTTLE ALANINE METABOLISM
+
+
+
+
+
+
+
+p-value < 0.05
+
+
+
+0	2	4	6	8	10	12	14
+Fold Enrichment
+
+
+Discussion
+To the best of our knowledge, this is the first published report on metabolomics in paediatric IBD with newly diagnosed patients. We found significantly different metabolite profiles in paediatric UC and Crohn's disease patients compared to healthy controls. In serum sam- ples, amino acid metabolism, folate biosynthesis and signalling path- ways were perturbed in Crohn's disease while sphingolipid metabolic pathways were also perturbed in UC compared to controls. In faecal samples, we found that Crohn's disease patients showed in general low or intermediate levels of metabolites that were more abundantly present in paediatric UC. In addition, faecal metabolite profiles strati- fied Crohn's disease and UC into separate groups better than serum samples. In faecal samples, most of the metabolic pathways were per- turbed in UC, contrasting with Crohn's disease with none of the met- abolic pathways perturbed. The key players in metabolic pathways depicted here probably include liver metabolism, especially for the serum metabolites, and microbial metabolism for the faecal samples, although this needs additional study.
+
+In serum, neopterin showed as a top metabolite in the discrimi- nant analysis between paediatric IBD patients and controls. Also, when related to the level of inflammation, the metabolites showing strong correlation to blood inflammatory markers included neopterin, an intermediate metabolite in the synthetic pathway of biopterin. Previously, faecal neopterin has been indicated as an inflammatory marker of Crohn's disease or UC,, but was not depicted here among the major metabolites in faecal samples. It has been suggested that serum neopterin levels originate from activated T cells induced by interferon-g [as a metabolite of guanosine monophosphate] and are not significantly different in active or quiescent disease. It is notable, however, that in paediatric IBD a significant proportion of the patients may have low levels of inflammatory markers, namely ESR or C-reactive protein, despite active disease. Thus, when related to these inflammatory markers the measurement of serum metabolites may bring little information in most patients. The rela- tion between faecal calprotectin, a surrogate marker of intestinal inflammation, and faecal metabolites depicted carnosine, choline and
+
+Metabolomics in Paediatric IBD	329
+
+
+
+3C	ASPARTATE  METABOLISM
+AMMONIA RECYCLING TAURINE AND HYPOTAURINE METABOLISM
+GLUTAMATE METABOLISM MALATE-ASPARTATE SHUTTLE BETA-ALANINE METABOLISM
+UREA CYCLE PORPHYRIN METABOLISM
+ARGININE AND PROLINE METABOLISM
+PROTEIN BIOSYNTHESIS HISTIDINE METABOLISM TRYPTOPHAN METABOLISM SPHINGOLIPID METABOLISM GLUTATHIONE METABOLISM
+GLYCINE, SERINE AND THREONINE METABOLISM
+TYROSINE METABOLISM METHIONINE METABOLISM
+OXIDATION  OF BRANCHED CHAIN FATTY ACIDS
+BETAINE METABOLISM PHOSPHOLIPID BIOSYNTHESIS SELENOAMINO ACID METABOLISM FOLATE AND PTERINE BIOSYNTHESIS GLYCEROLIPID METABOLISM ALANINE METABOLISM
+GLUCOSE-ALANINE CYCLE BILE ACID BIOSYNTHESIS
+PHENYLALANINE AND TYROSINE METABOLISM
+CATECHOLAMINE   BIOSYNTHESIS
+LYSINE DEGRADATION BIOTIN METABOLISM
+BETA OXIDATION OF VERY LONG CHAIN FATTY  ACIDS
+PROPANOATE METABOLISM VALINE, LEUCINE AND ISOLEUCINE DEGRADATION NICOTINATE AND NICOTINAMIDE METABOLISM
+VITAMIN B6 METABOLISM PYRIMIDINE METABOLISM PURINE METABOLISM CITRIC ACID CYCLE
+MITOCHONDRIAL  ELECTRON  TRANSPORT CHAIN
+INSULIN SIGNALLING RNA TRANSCRIPTION
+PANTOTHENATE AND COA BIOSYNTHESIS
+INOSITOL METABOLISM STARCH AND SUCROSE METABOLISM
+CYSTEINE METABOLISM INTRACELLULAR SIGNALLING THROUGH....
+GALACTOSE METABOLISM FRUCTOSE AND MANNOSE DEGRADATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p-value < 0.05
+
+
+
+0	2	4	6	8
+Fold Enrichment
+
+
+taurine as the most significant metabolites associating with the level of inflammation. L-carnosine may protect against colonic mucosal injury through induction of heat shock protein 72 and suppression   of NF-kappaB activation, as suggested in an experimental study in rats.Also, this dietary dipeptide may down-regulate the intestinal inflammatory response by inhibiting in intestinal epithelial cells inter- leukin-8 secretion that is stimulated by, for example, TNFa.Faecal metabolomics may also reflect  microbial  and  mucus  metabolism  in the gut. Recently, it was suggested that trimethylamine-N-oxide [TMAO], which is generated by gastrointestinal anaerobes through the digestion of dietary phosphatidylcholine and carnitine in a micro- bial-mammalian co-metabolic pathway, might serve as a biomarker for IBD.  Interestingly, hippurate has been linked to the presence    of Clostridia in the gut, the relative abundance of these bacteria being tightly associated with the level of intestinal inflammation while they are depleted in UC patients. Furthermore, in Crohn's disease the down-regulation of hippurate is considered to result from altered gut microbial metabolism.,However, hippurate also allows
+
+discrimination between lean and obese subjects. Unexpectedly, hip- purate was not among our top list of disease-related metabolites. One explanation underlying the observed differences might be variation in the diet of the subjects in different studies. Unfortunately, specific data on dietary records were not available.
+Most patients in our study were undergoing diagnostic evalua- tion for IBD and with few exceptions were treatment naive at the time of delivering the samples. Thus, the observed differences were not related to ongoing medications. Most patients had moderate  or severe disease activity, and thus the major findings reflect state of active disease. Intriguingly, a recent study conducted in young patients with type 1 diabetes suggested that alterations in lipid and amino acid metabolism might precede the development of autoim- munity. The authors speculated that autoimmunity might develop as a response to metabolic alterationsindicated not only in humans but also in serum metabolomics in mice. In keeping with this, a recent report on mice suggested that immune cell infiltration pre- cedes lipid accumulation, leading to an altered lipid membrane
+
+
+
+330	K. Kolho et al.
+
+4A
+
+
+Inosine Guanosine Normetanephrin Propionylcarni Deoxycytidine
+Allantoin Spermidine Adenosine Cytosine Taurocholate Carnitine Aspartate Acetylcarnitin
+AMP
+4-Hydroxyproli
+Isoleucine Sorbitol GABA
+Niacinamide
+Arginine
+
+
+
+
+
+
+
+High
+
+
+
+
+
+
+
+
+Low
+
+
+1.5	2.0	2.5
+
+4B
+Asparagine Aspartate
+
+5-Hydroxytrypt
+Guanosine
+Serine Glutamine Arginine Threonine Pyridoxine
+G-Glutamylcyst
+Glycine Orotate
+4-Pyridoxate
+Alanine Kynurenate Methionine Ornithine Tyrosine Taurine Histidine
+
+
+
+
+High
+
+
+
+
+
+
+
+
+
+Low
+
+
+1.4	1.6	1.8	2.0
+
+Figure 4. Partial least squares discriminant analysis [PLS-DA] variable importance in projection [VIP] plot in serum [A] and faecal [B] samples, and metabolic pathway analysis in serum [C] and faecal [D] samples of patients with ulcerative colitis or unclassified colitis [UC/IBD-U] and with Crohn's colitis.
+
+
+composition and possibly increased permeability reported in Crohn's disease.
+Recently, N-acetylated compounds, phenylalanine, and low- [LDL] and very low-density lipoprotein [VLDL] particles were suggested as candidate markers for stratification of adult IBD patients in remission or with active disease.However, they could not clearly separate patients
+
+with Crohn's disease and UC while we found serum neopterin, bile acids and amino acids as the differentiating metabolites but did not determine LDL and VLDL particles. In line with our findings, succinate and cre- atine were included among the metabolites as biomarkers for active dis- ease. The method used by Dawiskiba et al. was proton nuclear magnetic resonance spectroscopy. We observed an association between faecal
+
+Metabolomics in Paediatric IBD	331
+4C	PURINE METABOLISM
+ 	OXIDATION  OF BRANCHED CHAIN FATTY ACIDS	
+
+INTRACELLULAR SIGNALLING THROUGH.... BETA OXIDATION OF VERY LONG CHAIN FATTY  ACIDS
+RNA TRANSCRIPTION FRUCTOSE AND MANNOSE DEGRADATION MALATE-ASPARTATE SHUTTLE
+NICOTINATE AND NICOTINAMIDE METABOLISM
+GALACTOSE METABOLISM ASPARTATE METABOLISM INSULIN SIGNALLING PYRIMIDINE METABOLISM
+UREA CYCLE AMMONIA RECYCLING
+PANTOTHENATE AND COA BIOSYNTHESIS
+BETA-ALANINE METABOLISM PORPHYRIN METABOLISM METHIONINE METABOLISM TYROSINE METABOLISM
+TAURINE AND HYPOTAURINE METABOLISM
+GLYCEROLIPID METABOLISM VITAMIN B6 METABOLISM SELENOAMINO ACID METABOLISM
+ALANINE METABOLISM GLUCOSE-ALANINE CYCLE PHOSPHOLIPID BIOSYNTHESIS TRYPTOPHAN METABOLISM GLUTATHIONE METABOLISM CYSTEINE METABOLISM
+STARCH AND SUCROSE METABOLISM ARGININE AND PROLINE METABOLISM
+PROTEIN BIOSYNTHESIS GLUTAMATE METABOLISM INOSITOL METABOLISM HISTIDINE METABOLISM
+VALINE, LEUCINE AND ISOLEUCINE DEGRADATION
+KETONE BODY METABOLISM BUTYRATE METABOLISM PENTOSE PHOSPHATE PATHWAY
+EXCITATORY NEURAL SIGNALLING THROUGH.... CORTICOTROPIN ACTIVATION OF CORTISOL.... VASOPRESSIN REGULATION OF WATER HOMEOSTASIS INTRACELLULAR SIGNALLING THROUGH FSH....
+INTRACELLULAR SIGNALLING THROUGH.... INTRACELLULAR SIGNALLING THROUGH PGD2.... INTRACELLULAR SIGNALLING THROUGH....
+BILE ACID BIOSYNTHESIS PROPANOATE METABOLISM
+FOLATE AND PTERINE BIOSYNTHESIS PHENYLALANINE AND TYROSINE METABOLISM
+
+p-value < 0.05
+
+
+0	1	2	3	4	5
+Fold Enrichment
+
+
+calprotectin and metabolite profiles while allantoin and gamma-gluta- mylcysteine showed up as biomarkers for Crohn's disease, and aminoad- ipic acid, carnosine and ribose-5-phosphate for UC. Intriguingly, a recent spectroscopy-based study on adult IBD patients reported that for strati- fication of Crohn's disease and UC, the metabolites holding differential power primarily belonged to a range of amino acids, microbiota-related short chain fatty acids and lactate, suggesting an inflammation-driven malabsorption and dysbiosis of the normal bacterial ecology.Unlike our paediatric patients, all the adult patients were on maintenance medi- cation, at least partially modifying the observed results.
+
+4.1. Gender and BMI
+In faecal heatmap and PCA, girls with UC separated more clearly than boys from controls and Crohn's disease patients. In serum there was no such difference. The majority of patients we included were  in midpuberty [aged 13-14 years] and we did not include infants. The pattern of pubertal development, e.g. the timing of growth spurt, is different between boys and girls and might in part explain the
+
+observed variation in metabolites. Unfortunately, the pubertal stag- ing was not registered accurately enough to allow further analyses. As described previously, BMI is likely to be associated with the total metabolomic profile. Here, such correlations were rare in UC but in Crohn's disease amino acids and as expected creatinine were associ- ated with BMI, also most likely reflecting diet as a driver. Also, deple- tion in serum amino acids may act as an indicator of impaired growth but the current dataset did not allow further analyses on this aspect. The strength of the study is that the major patient cohort included treatment naive patients. Also, all samples [with the exception of follow-up samples] were obtained in conjunction with thorough endoscopic investigations, i.e. the presence of intestinal inflamma- tion was objectively verified. Furthermore, the likely differences in the diet between patients and controls were of lesser impact as both groups underwent a similar bowel cleansing procedure before blood sampling. Also, all samples were frozen without any delays and were well preserved at -70 degC until further metabolomics analyses. The targeted metabolite profiling was done using a good quality control
+
+332	K. Kolho et al.
+
+
+4D	ASPARTATE  METABOLISM
+MALATE-ASPARTATE SHUTTLE AMMONIA RECYCLING GLUTAMATE METABOLISM PURINE METABOLISM
+UREA CYCLE PROTEIN BIOSYNTHESIS PYRIMIDINE METABOLISM GLUTATHIONE METABOLISM VITAMIN B6 METABOLISM
+ARGININE AND PROLINE METABOLISM BETA-ALANINE METABOLISM HISTIDINE METABOLISM CYSTEINE METABOLISM PORPHYRIN METABOLISM SELENOAMINO ACID METABOLISM
+ALANINE METABOLISM GLUCOSE-ALANINE CYCLE TRYPTOPHAN METABOLISM CATECHOLAMINE   BIOSYNTHESIS
+TAURINE AND HYPOTAURINE METABOLISM
+TYROSINE METABOLISM GLYCINE, SERINE AND THREONINE METABOLISM
+PROPANOATE METABOLISM PHENYLALANINE AND TYROSINE METABOLISM
+METHIONINE METABOLISM BILE ACID BIOSYNTHESIS GLYCEROLIPID METABOLISM SPHINGOLIPID METABOLISM
+BETA OXIDATION OF VERY LONG CHAIN FATTY  ACIDS
+BETAINE METABOLISM VALINE, LEUCINE AND ISOLEUCINE DEGRADATION
+ONE CARBON POOL BY FOLATE LYSINE DEGRADATION BIOTIN METABOLISM
+PANTOTHENATE AND COA BIOSYNTHESIS
+CITRIC ACID CYCLE MITOCHONDRIAL ELECTRON TRANSPORT CHAIN NICOTINATE AND NICOTINAMIDE METABOLISM
+INOSITOL METABOLISM STARCH AND SUCROSE METABOLISM PHOSPHOLIPID BIOSYNTHESIS INTRACELLULAR SIGNALLING THROUGH....
+OXIDATION OF BRANCHED CHAIN FATTY ACIDS FOLATE AND PTERINE BIOSYNTHESIS
+INSULIN SIGNALLING RNA TRANSCRIPTION GALACTOSE  METABOLISM
+FRUCTOSE AND MANNOSE DEGRADATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p-value < 0.05
+
+
+
+0	2	4	6	8
+Fold Enrichment
+
+
+
+
+Table 2. Correlation of faecal metabolite profiles with faecal calprotectin levels.
+
+Table 3. Correlation of serum metabolite profiles with erythrocyte sedimentation rate [ESR]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[QC] system and standard operating protocols. Internal QC samples
+
+Creatinine	-0.623	0.003
+
+were interspersed with the samples and analysed after every 10th run,	 	 and a blank sample was run every 5th run. Labelled internal standards
+
+Metabolomics in Paediatric IBD	333
+
+
+were run to check their response. Data were processed manually by checking the quality of every peak in the samples, calibration samples and QC samples. Data were quantified using internal labelled stand- ards and external calibration curves. As a limitation, the number of patients analysed was limited especially during follow-up, not allowing any further conclusions of metabolomic profiles at diagnosis related to disease outcome. This is further hampered by the fact that the disease characteristics are heterogeneous, resulting in low numbers of patients in various disease subgroups with a variable extent of inflammation. Taken together, paediatric IBD is a complex disease with various disease subgroups, and outcome ranges from mild disease course to aggressive phenotype in a significant proportion of patients. The patho- genesis of the disease is incompletely understood. Characterization of metabolomic patterns, especially in faecal samples, is a promising means for stratification of the disease subtypes. Whether the faecal metabolomic profile in active inflammation is tightly linked to the pro-
+files of the intestinal microbiomewarrants future studies.
+
+Funding
+The work was supported by the Finnish Foundation for Pediatric Research, by the Helsinki University Central Hospital Research Fund [TYH2013321], and the Sigrid Juselius Foundation. The Foundations providing grants had no role in the study design, the collection, analysis and interpretation of the data, writing the report or the decision to submit the paper.
+
+Conflict of Interest
+None of the authors has any relevant conflicts of interest to declare.
+
+
+Acknowledgments
+RN Anne Nikkonen is thanked for her invaluable help in recruiting the patients and gathering the patient data. Meri Kokkonen and Jatin Nandania are thanked for their technical assistance in metabolite profiling.
+
+Author Contributions
+KLK and VV designed the study. VV supervised the metabolite profiling and metabolomics data analyses. AP performed the metabolomics data analyses. KLK, TJ, WMdeV and VV wrote the manuscript. All authors critically revised the text and approved the final version.
+
+Supplementary Data
+Supplementary data are available at ECCO-JCC online.
+
+
+References
+Molodecky NA, Soon I, Rabi DM, et al. Increasing incidence and preva- lence of the inflammatory bowel diseases with time, based on systematic review. Gastroenterology 2012;142:46-54.
+Benchimol EI, Fortinsky KJ, Gozdyra P, Van den Heuvel M, Van Lim- bergen J, Griffiths AM. Epidemiology of pediatric inflammatory bowel disease: a systematic review of international trends. Inflamm Bowel Dis 2011;17:423-39.
+Ponder A, Long MD. A clinical review of recent findings in the epidemiology of inflammatory bowel disease. Clin Epidemiol 2013:5:237-247.
+Levine A, Koletzko S, Turner D, et al.; European Society of Pediatric Gastroenterology, Hepatology, and Nutrition. ESPGHAN revised Porto criteria for the diagnosis of inflammatory bowel disease in children and adolescents. J Pediatr Gastroenterol Nutr 2014;58:795-806.
+Griffiths AM. Specificities of inflammatory bowel disease in childhood.
+Best Pract Res Clin Gastroenterol 2004;18:509-23.
+
+
+
+Gevers D, Kugathasan S, Denson LA, et al. The treatment-naive microbi- ome in new-onset Crohn's disease. Cell Host Microbe 2014;15:382-92.
+Kolho KL, Korpela K, Jaakkola T, et al. Fecal microbiota in pediatric inflammatory bowel disease and its relation to inflammation. Am J Gas- troenterol 2015;110:921-30.
+Schicho R, Nazyrova A, Shaykhutdinov R, Duggan G, Vogel HJ, Storr M. Quantitative metabolomic profiling of serum and urine in DSS-induced ulcerative colitis of mice by 1H NMR spectroscopy. J Proteome Res 2010;9:6265-73.
+Yau Y, Leong RW, Zeng M, Wasinger VC. Proteomics and metabo- lomics in inflammatory bowel disease. J Gastroenterol Hepatol 2013;28:1076-86.
+Schicho R, Shaykhutdinov R, Ngo J, et al. Quantitative metabolomic pro- filing of serum, plasma, and urine by 1H NMR spectroscopy discriminates between patients with inflammatory bowel disease and healthy individu- als. J Proteome Res 2012;11:3344-57
+Bjerrum JT, Wang Y, Hao F, et al. Metabonomics of human fecal extracts characterize ulcerative colitis, Crohn's disease and healthy individuals. Metabolomics 2015;11:122-133.
+Storr M, Vogel HJ, Schicho R. Metabolomics: is it useful for inflammatory bowel diseases? Curr Opin Gastroenterol 2013;29:378-83.
+Dawiskiba T, Deja S, Mulak A, et al. Serum and urine metabolomics fin- gerprinting in diagnostics of inflammatory bowel diseases. World J Gas- troenterol 2014;20:163-174.
+Haapamaki J, Roine RP, Sintonen H, Kolho KL. Health-related quality of life in paediatric patients with inflammatory bowel disease related to disease activity. J Paediatr Child Health 2011;47:832-7.
+Kolho KL, Raivio T, Lindahl H, Savilahti E. Fecal calprotectin remains high during glucocorticoid therapy in children with inflammatory bowel disease. Scand J Gastroenterol 2006;41:720-5.
+Hamalainen A, Sipponen T, Kolho KL. Infliximab in pediatric inflamma- tory bowel disease rapidly decreases fecal calprotectin levels. World J Gas- troenterol 2011;17:5166-71.
+Roman-Garcia P, Quiros-Gonzales I, Mottram L, et al. Vitamin B12-dependent taurine synthesis regulates growth and bone mass. J Clin Invest 2014;124:2988-3002.
+Xia J, Mandal R, Sinelnikov I, Broadhurst D, Wishart DS. MetaboAna- lyst 2.0 - a comprehensive server for metabolomics data analysis. Nucleic Acids Res 2012;40:W127-133.
+Xia J, Psychogios N, Young N, Wishart D. MetaboAnalyst: a web server for metabolomics data analysis and interpretation. Nucleic Acids Res 2009;37:W652-660.
+Faure M, Moennoz D, Montigon F, Mettraux C, Breuille D, Ballevre O. Dietary threonine restriction specifically reduces intestinal mucin synthesis in rats. J Nutr 2005;135:486-91.
+Dorofeyev AE, Vasilenko IV, Rassokhina OA, Kondratiuk RB. Mucosal barrier in ulcerative colitis and Crohn's disease. Gastroenterol Res Pract 2013;2013:431231.
+Nancey S, Boschetti G, Moussata D, et al. Neopterin is a novel reliable fecal marker as accurate as calprotectin for predicting endoscopic disease activity in patients with inflammatory bowel diseases. Inflamm Bowel Dis 2013;19:1043-52.
+Husain N, Tokoro K, Popov JM, Naides SJ, Kwasny MJ, Buchman AL. Neopterin concentration as an index of disease activity in Crohn's disease and ulcerative colitis. J Clin Gastroenterol 2013;47:246-51.
+Henderson P, Anderson NH, Wilson DC. The diagnostic accuracy of fecal calprotectin during the investigation of suspected pediatric inflammatory bowel disease: a systematic review and meta-analysis. Am J Gastroenterol 2014;109:637-45.
+Odashima M, Otaka M, Jin M, et al. Zinc l-carnosine protects colonic mucosal injury through induction of heat shock protein 72 and suppres- sion of NF-kappaB activation. Life Sci 2006;79:2245-50.
+Son DO, Satsu H, Kiso Y, Totsuka M, Shimizu M. Inhibitory effect of car- nosine on interleukin-8 production in intestinal epithelial cells through translational regulation. Cytokine 2008;42:265-76.
+Wilson A, Teft WA, Morse BL, et al. Trimethylamine-N-oxide: a novel bio- marker for the identification of inflammatory bowel disease. Dig Dis Sci 2015;60:3620-30.
+
+334	K. Kolho et al.
+
+
+Rajilic-Stojanovic M, Shanahan F, Guarner F, de Vos WM. Phylogenetic analysis of dysbiosis in ulcerative colitis during remission. Inflamm Bowel Dis 2013;19:481-8.
+Williams HR, Cox IJ, Walker DG, et al. Differences in gut microbial metabolism are responsible for reduced hippurate synthesis in Crohn's disease. BMC Gastroenterol 2010;10:108.
+Oresic M, Simell S, Sysi-Aho M, et al. Dysregulation of lipid and amino acid metabolism precedes islet autoimmunity in children who later pro- gress to type 1 diabetes. J Exp Med 2008;205:2975-84.
+
+Sysi-Aho M, Ermolov A, Gopalacharyulu PV, et al. Metabolic regu- lation in progression to autoimmune diabetes. PLoS Comput Biol 2011;7:e1002257.
+Moco S, Candela M, Chuang E, et al. Systems biology approaches for inflammatory bowel disease: emphasis on gut microbial metabolism. Inflamm Bowel Dis 2014;20:2104-14.
+Velagapudi V, Hezaveh R, Reigstad CS, et al. The gut microbiota modulates host energy and lipid metabolism in mice. J Lipid Res 2010;51:1101-12.

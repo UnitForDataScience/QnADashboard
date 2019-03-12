@@ -1,0 +1,686 @@
+Article
+
+
+Fiber-Mediated Nourishment of Gut Microbiota Protects against Diet-Induced Obesity by Restoring IL-22-Mediated Colonic Health
+
+
+Graphical Abstract
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights
+d The fermentable fiber inulin prevented high-fat diet (HFD)- induced metabolic syndrome
+
+d HFD enriched with inulin increased gut epithelial proliferation, prevented colon atrophy
+
+d Inulin restored HFD-induced microbiota depletion and microbiota-mucosa separation
+
+d Inulin effects are microbiota and IL-22, but not short-chain fatty acid, dependent
+
+Authors
+Jun Zou, Benoit  Chassaing, Vishal Singh, ..., Michael D. Fythe,
+Matam Vijay Kumar, Andrew T. Gewirtz
+
+Correspondence
+
+
+In Brief
+Dietary fiber supplements suppress adiposity and the associated parameters of metabolic syndrome. Zou et al. show that the fermentable fiber inulin impacts gut microbiota to increase intestinal epithelial proliferation, prevent colonic atrophy, reduce microbiota encroachment into the mucosa, and thereby protect against metabolic syndrome in a microbiota- and IL-22- dependent manner.
+
+
+
+
+
+Zou et al., 2018, Cell Host & Microbe 23, 41-53 January 10, 2018 a 2017 Elsevier Inc. 
+
+
+
+Cell Host & Microbe
+Article
+
+Fiber-Mediated Nourishment of Gut Microbiota Protects against Diet-Induced Obesity
+by Restoring IL-22-Mediated Colonic Health
+Jun Zou,Benoit Chassaing,Vishal Singh,Michael Pellizzon,Matthew Ricci,Michael D. Fythe,Matam Vijay Kumar, and Andrew T. Gewirtz,,
+1Center for Inflammation, Immunity, and Infection, Institute for Biomedical Sciences, Georgia State University, Atlanta, GA 30303, USA
+2Department of Nutritional Sciences, Pennsylvania State University, University Park, PA 16802, USA
+3Research Diets, New Brunswick, NJ 08901, USA
+4USDA-ARS Forage-Animal Production Research Unit, University of Kentucky, Lexington, KY 40546, USA
+5Lead Contact
+*Correspondence:  
+
+
+
+SUMMARY
+
+Dietary supplementation with fermentable fiber sup- presses adiposity and the associated parameters of metabolic syndrome. Microbiota-generated fiber- derived short-chain fatty acids (SCFAs) and free fatty acid receptors including GPR43 are thought to mediate these effects. We find that while fermentable (inulin), but not insoluble (cellulose), fiber markedly protected mice against high-fat diet (HFD)-induced metabolic syndrome, the effect was not significantly impaired by either inhibiting SCFA production or genetic ablation of GPR43. Rather, HFD decimates gut microbiota, resulting in loss of enterocyte proliferation, leading to microbiota encroachment, low-grade inflammation (LGI), and metabolic syn- drome. Enriching HFD with inulin restored microbiota loads, interleukin-22 (IL-22) production, enterocyte proliferation, and antimicrobial gene expression in a microbiota-dependent manner, as assessed by antibiotic and germ-free approaches. Inulin-induced IL-22 expression, which required innate lymphoid cells, prevented microbiota encroachment and protected against LGI and metabolic syndrome. Thus, fermentable fiber protects against metabolic syndrome by nourishing microbiota to restore IL-22-mediated enterocyte function.
+
+
+INTRODUCTION
+
+Obesity and its associated metabolic disorders, collectively referred to as metabolic syndrome, are among humanity's  most pressing public health problems ( ). Metabolic syndrome is increasingly viewed as a chronic inflammatory disease in which altered host-microbiota interactions in the gut contribute to disease development (). Accordingly, in humans, metabolic syndrome is associated with alterations in gut
+
+microbiota composition and gut bacteria infiltrating the inner mucus layer, thus encroaching upon gut epithelial cells in a manner that may promote inflammation ( ). Societal changes in dietary habits, especially increased consumption of processed foods lacking fiber, are thought to have impacted the microbiota and contributed to increased incidence of chronic inflammatory disease, including metabolic syndrome ( ). Accordingly, administering mice or humans supplements of the fermentable fiber inulin suppresses adiposity and associated parameters of  metabolic  syndrome  (  ). However, the doses of inulin needed to provide a marked health benefit are difficult to achieve both because of logistical considerations and adverse effects, especially bloating and flatulence. Hence, it remains important to use tractable models to define mechanisms by which ferment- able fiber protects against metabolic syndrome, thus providing the rationale for the central question addressed herein. Previous studies have reported a role for microbiota-generated inulin- derived short-chain fatty acids (SCFAs) in promoting beneficial aspects of host metabolism and reducing inflammation, acting in large part through free fatty acid receptor GPR43 (also known as Ffar2) (). In contrast, our results indicate that much of the ability of inulin to suppress diet-induced obesity (DIO) may not require SCFAs but is driven by inulin-elicited bacteria inducing interleukin-22 (IL-22), which fortifies the intes- tine, thus reducing microbiota encroachment and ameliorating metabolic syndrome.
+
+RESULTS
+
+Fermentable Fiber Inulin Prevented HFD-Induced Metabolic Syndrome
+A widely used mouse model of DIO compares mice fed a grain- based, poorly defined rodent chow with mice fed a composition- ally defined obesogenic purified diet, commonly referred to as a ''high-fat diet'' (HFD), which is typically 35% fat by weight (60% by calories) and contains 5% cellulose as a source of fiber. This is in contrast to chows that typically contain 5% fat by weight (10%-15% by calories) and 15%-25% fiber, coming from diverse sources. Relative to chow-fed mice, this obesogenic
+
+
+Cell Host & Microbe 23, 41-53, January 10, 2018 a 2017 Elsevier Inc. 41
+
+
+
+
+
+diet results in a marked increase in adiposity associated with numerous features of metabolic syndrome. Moreover, in addition to its high-fat content, its relatively low fiber content, particularly its lack of fermentable fiber, drives the metabolic syndrome phenotype induced by this diet ( ). Accordingly, manipulating the fiber content of this diet, particularly adding fermentable fiber, ameliorates the severity  of metabolic syndrome, although the extent of such amelioration is highly variable across different studies ( ). Hence, we first sought to establish a well-controlled experimental platform whereby supplementation of an obesogenic diet with fiber would result in a strong degree of protection against indices of meta- bolic syndrome that would be amenable to mechanistic study. We found that, relative to the ''standard'' HFD, a diet comprised of 20% inulin (w/w) reduced weight gain and markedly attenu- ated HFD-induced adiposity, as assessed by amount of epidid- ymal, mesenteric, and subcutaneous fat (A and 1B). This reduction in adiposity was accompanied by a reduction in adipocyte size (C and S1A). In contrast, no changes were found in brown adipose tissue adipocyte size (Figure S1B), and expression of mRNA of UCP1 (data not shown) was similar between mice fed inulin or cellulose-enriched diets, suggesting that fiber content did not affect thermogenesis of brown adipose tissue. Dietary enrichment with inulin did not significantly impact serum levels of free fatty acids or triglycerides (Figures S1D and S1E), but markedly lowered levels of cholesterol, which were increased by HFD relative to chow (Figure S1F). Supplementa- tion of the HFD with inulin also largely prevented dysglycemia, as assessed by measuring blood glucose after administration of glucose (D and 1E), or in a fasted state and following injection of insulin (F and 1G), although the statistical significance of differences following insulin administration varied depending upon metric used for the analysis (H and S1G). Inulin also reduced hepatosteatosis, as assessed by stain- ing liver sections with hematoxylin and eosin (H&E) (Figure S1C) or oil red O (I and 1J), which otherwise resulted from exposure to the standard HFD (HFD-50 Cell). Inulin's ability to reduce indices of metabolic syndrome was associated with a modest but significant reduction in food consumption,  based on both food weight and calorie content (Figures S1H and S1I). Such reduction in food consumption was not likely a simple ''bulking effect,'' as food consumption was not significantly impacted by cellulose. Moreover, enriching HFD with cellulose (HFD-200 Cell), which is not easily fermentable by mice, only very modestly reduced adiposity and dysglycemia ( and S1). Together, these results suggest that comparing phenotypes of mice being fed HFDs comprised of about 20% cellulose or inulin provides a tractable means to study how fermentable fiber is impacting DIO.
+
+Enrichment of HFD with Inulin Increased Gut Epithelial Cell Proliferation and Prevented Colon Atrophy
+The promotion of adiposity by diets lacking fermentable fiber, irrespective of fat content, correlates with a marked loss of colon mass, quantifiable by weighing the organ, that occurs within a few days of the change in diet (). Such loss of colon length and mass (A and 2B) largely reflects a reduction in colon cross-sectional area, which is proportional
+
+to crypt length (D and 2E). We hypothesize that such HFD-induced intestinal atrophy contributes to the low-grade inflammation (LGI) and metabolic syndrome-like phenotype  that eventuates from HFD consumption. In accord with this notion, the reductions in colon mass and crypt length that resulted from switching from chow to HFD were fully restored by enrichment of the diet with inulin, but not cellulose, thus corre- lating with inulin's protection against HFD-induced metabolic syndrome. Such promotion of colon mass by inulin enrichment correlated with increased enterocyte proliferation, as measured by the number of BrdU-positive cells per crypt in the proximal colon section (F and 2G). A similar pattern of results was yielded from immunostaining for PCNA (Figure S2A). We hy- pothesize that inulin's ability to promote enterocyte growth may have broad impacts upon a range of cell types. Accordingly, we observed that inulin, but not cellulose, increased the level of Paneth cells in the ileum, as assessed by quantitating the num- ber of lysozyme-expressing cells per crypt by immunostaining (H and 2I). Inulin, but not cellulose, also increased colon expression of tight junction proteins Occludin and Claudin-2 (C), although such changes did not correlate with a significant change in overall gut permeability to fluorescein isothiocyanate-dextran (data not shown). In contrast to the colon, neither a generalized change in tissue growth (Figures S2B and S2C) nor changes in tight junction proteins (Figure S2D) were observed in the small intestine in response to HFD or inulin. However, enrichment of HFD with inulin, but not cellulose, did result in a significant increase in GLP1-expressing L cells (Fig- ures S2E and S2F), which can be envisaged to contribute to inulin's impact upon glucose metabolism. Thus, inulin, but not cellulose, promotes enterocyte proliferation, which correlates with protection against HFD-induced metabolic syndrome.
+
+Inulin Restored HFD-Induced Microbiota Depletion and Host-Microbiota  Separation  at  the   Mucosal   Surface Obesity and metabolic syndrome are associated with alterations in intestinal microbiota composition in both mice and humans, including an increase in the ratio of Firmicutes to Bacteroidetes and increases in relative abundance of Proteobacteria (). Conversely, inulin is a well-recognized prebiotic known to promote growth of select beneficial bacteria, such as the Bifidobacteria species ( ). Hence, we next examined the extent to which inulin's protection against HFD-induced metabolic disease would corre- late with microbiota alterations. Relative to chow-fed mice, feeding of the standard HFD (i.e., HFD-50 Cell) resulted in about 10-fold reduction in total fecal bacterial loads as assessed by qPCR, suggesting that, relative to chow, this compositionally defined diet does not support a normal level of bacterial growth (A). Importantly, such reduction in fecal bacterial load was fully restored by addition of inulin but not cellulose. More- over, analysis of microbiota composition by 16S sequencing indicated that replacing cellulose with inulin also corrected some of the HFD-induced changes in microbiota that were observed at the phylum level. Specifically, supplementation of HFD with inulin, but not cellulose, ameliorated HFD-induced in- creases in the Firmicutes/Bacteroidetes ratio and lowered levels of Proteobacteria (B-3D). Such sequence-based anal- ysis also showed an inulin-induced increase in Bifidobacteria
+
+
+
+
+A	B	C
+
+
+
+
+
+
+
+
+
+
+
+
+D	E	F	G	H
+
+
+
+
+
+
+
+
+
+
+
+
+I	J
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Inulin Prevented Metabolic Syndrome Induced by HFD
+C57BL/6 male mice were fed chow, HFD, or HFD supplemented with cellulose or inulin for 4 weeks.
+Body mass over time (n = 10).
+Epididymal fat (n = 10), mesenteric fat (n = 5), and subcutaneous fat (n = 5) were measured at the end of experiment.
+The         epididymal          fat         was          stained          with         H&E,         and         adipocyte         size         distribution         was          determined. (D and E) Mice (n = 10) were administered glucose, 2 g/kg intraperitoneally, following an overnight fast. Blood glucose levels were measured at the indicated time point                    (D)                     and                     area                     under                     curve                     (AUC)                     calculated                     (E). (F-H) Mice (n = 10) were fasted 5 hr, the glucose was measured at 0 (F), 30, 60, and 90 min after intraperitoneally injected with insulin (G) and AUC calculated (H). (I and J) Fat in the liver (n = 5) was observed by oil red staining (I) and quantified by image analysis (J). Scale bars, 50 mm. Data are expressed as mean +- SEM. Statistical significance was assessed by unpaired Student's t test. *p < 0.05; **p < 0.01. See also Figure S1.
+
+
+and Akkermansia (Figurse S3A and S3B) in accord with previous reports (), although the latter was also observed upon supplementation of HFD with cellulose. Using 16S data  to look broadly at microbiota composition by an unbiased method, namely principal component analysis of the UniFrac distance, revealed that addition of inulin, but not cellulose, to
+
+
+the HFD dramatically altered the microbiota composition (E and S3C). Such a change in microbiota composition that associated with inulin feeding was driven by enrichment   in Bifidobacteriaceae and depletion of Streptococcus, Clostridium, and Enterococcaceae (Figure S3D). However, it should be noted that inulin did not restore the microbiota
+
+
+
+
+
+
+
+
+
+
+
+
+D	E
+
+
+
+
+
+
+F	G
+
+
+
+
+I
+H
+
+
+
+
+
+
+
+
+
+Figure 2. Enrichment of HFD with Inulin Increased Epithelial Cell Proliferation and Prevented Gut Atrophy
+C57BL/6 male mice were fed chow, HFD, or HFD supplemented with cellulose or inulin for 4 weeks.
+Colon length (n = 10).
+Colon mass (n = 10).
+The mRNA was extracted from colon of mice fed with chow (n = 4), or HFD supplemented with cellulose (n = 8) or inulin (n = 8), and expression level of ZO-1, Occludin, and Claudin-2 was analyzed by RT-PCR.
+Colon histopathologic appearance by H&E staining. Scale bars, 200 mm.
+Colon crypt length (n = 5), as shown by a double-headed arrow in (D), was measured.
+(F and G) BrdU was injected intraperitoneally 24 hr before euthanizing (n = 5). Visualization of BrdU-positive cells in proximal colon by fluorescence microscopy following staining with fluorescein isothiocyanate-anti-BrdU (F). Scale bars, 100 mm. Enumeration of BrdU-positive cells (G).
+(H and I) The Paneth cells in ileum (n = 5) were stained for lysozyme (H), and the number of Paneth cells per crypt was counted (I). Scale bars, 50 mm. Data are expressed as mean +- SEM. Statistical significance was assessed by unpaired Student's t test. *p < 0.05; **p < 0.01. See also Figure S2.
+
+
+composition of HFD-fed mice toward that of chow-fed mice. Rather, there remained a marked difference in microbiota composition between chow-fed and inulin-HFD-fed mice that was driven by enrichment and depletion of a wide variety of spe- cies (Figure S3E). Such inulin-induced changes in the microbiota resulted in reduced levels of alpha diversity (Figure S3F), which we and others have generally considered a feature of dysbiosis. In contrast, enrichment of HFD with cellulose has a relatively mild impact on microbiota composition.
+
+While mechanisms by which alterations in microbiota alter metabolic phenotype of the host are not well understood, we have shown that both mice and humans with dysglycemia exhibit microbiota that infiltrate the mucus layer to attain a close prox- imity to host cells (). Herein, we observed that such microbiota encroachment, which was previously observed in mice fed emulsifiers and mice with a genetic deficiency in TLR5, was also observed in response to HFD (F and 3G). Moreover, such an encroachment
+
+
+
+
+A	B	C	D	E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Inulin Restored Microbiota Loads and Prevented HFD-Induced Microbiota Encroachment
+C57BL/6 male mice were fed chow, HFD, or HFD supplemented with cellulose or inulin for 4 weeks and feces collected at 28 days post-diet treatment.
+(A) Levels of fecal bacterial DNA were quantitated by qPCR (n = 5).
+(B-E) Fecal microbiota composition was analyzed by 16S RNA sequencing (n = 4-5). (B-D) Relative abundance of bacteria at the phylum level.
+(E) Global composition as expressed by UniFrac PCoA analysis.
+(F and G) Analysis of microbiota-mucus-epithelial localization in transverse colon via carnoy fixation, FISH (fluorescence in situ hybridization), and immunohistochemical staining (F). Scale bars, 20 mm. Bacterial epithelial distance was quantified (G).
+Quantitation of colonic Reg3g by RT-PCR. Data are expressed as mean +- SEM. Statistical significance was assessed by unpaired Student's t test. *p < 0.05;
+**p < 0.01. See also Figure S3.
+
+
+was largely reversed by adding 4-fold more fiber as inulin, but not cellulose (F and 3G). Such a reduction of microbiota encroachment by inulin was associated with restoration of the expression of antimicrobial peptide Reg3g in whole-colon tissue (H) or in colon epithelial cells (Figure S3G). Altogether, these results are consistent with the notion that inulin's protection against HFD is mediated by promoting epithelial proliferation and antimicrobial gene expression, which impacts host-microbiota interactions in a manner that may reduce micro- biota encroachment and thus LGI.
+
+Microbiota Ablation Eliminates Inulin's Ability to Impact Colon, Suppress Adiposity, and Improve Glycemic Control
+We next sought to examine the extent to which inulin's ability to restore HFD-induced loss of colon mass required the presence of a microbiota. First, we eliminated the contribution of the microbiota by using germ-free (GF) mice. These experiments utilized Swiss-Webster mice, which, unlike C57BL/6 mice, are readily maintained in a seemingly healthy state in GF conditions. While HFD is not autoclavable, irrespective of fiber content, we found that subjecting such diets to two rounds of g-irradiation did not compromise the GF status of mice consuming these
+
+diets, as demonstrated by similar levels of fecal bacterial DNA before and after cessation of HFD (Figure S4A). The increase in levels of fecal bacterial DNA while consuming HFD reflects levels of bacterial products in these diets, which is not removed by irra- diation, with the observation of bacterial DNA mainly being from Lactococcus (Figure S4A). The source in the purified HFDs was likely the casein, which is precipitated from skim milk by lactic cultures. Comparison of chow-fed conventional and GF Swiss- Webster mice revealed that the absence of a microbiota by itself on a chow diet resulted in colon atrophy, specifically reduced mass and crypt length, reminiscent of that exhibited by conven- tional mice fed a compositionally defined diet with cellulose as a sole source of fiber (Figures S4B-S4D). Such gut atrophy that resulted from the GF status was not further enhanced by administration of HFD. Moreover, in GF conditions, inulin supplementation did not rescue gut atrophy and enterocyte proliferation as assayed by any of these measurements (Figures S4B-S4F). These results suggest that HFD-induced colon atrophy reflects a reduction in gut bacterial loads, and/or key species, and that inulin's restoration of the former reflects its restoration of the latter. Because GF mice are known to have a number of developmental abnormalities, particularly in regard to the gut-associated immune system (),
+
+
+
+
+
+
+
+
+
+
+
+
+F	G	H
+
+
+
+
+
+
+
+
+
+
+
+I	J
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Microbiota Ablation Eliminated Inulin's Beneficial Effects in HFD-Induced Metabolic Syndrome
+C57BL/6 male mice (n = 10) were fed HFD supplemented with cellulose (HFD-200 Cell) or inulin (HFD-200 Inul), with or without antibiotic cocktail (Ab) in  drink water.
+(A-D) Body mass over time (A), colon length (B), colon weight (C), and epididymal fat and mesenteric fat (D) were measured at the end of experiment. (E-G) Glucose tolerance was measured and AUC calculated.
+Five hour fasting glucose.
+Mice were fasted 5 hr and intraperitoneally injected with insulin to measure insulin sensitivity.
+Correlation between 5 hr fasting glucose and colon weight using data from and . Data are expressed as mean +- SEM. Statistical significance was assessed by unpaired Student's t test. *p < 0.05; **p < 0.01; n.s., not significant. See also Figure S4.
+
+
+which is thought to influence development of metabolic syndrome (), we also sought to ablate the microbiota by use of antibiotics. Specifically, we examined the extent to which supplementation of HFD with inulin versus cellulose would promote intestinal mass in mice maintained on a cocktail of oral antibiotics that reduced fecal bacterial loads by about 3 logs (Figure S4G). We observed that, analogous to our results with GF mice, antibiotic treatment greatly reduced the ability of inulin to promote microbiota growth and was paralleled by markedly reducing its promotion of colon mass (B and 4C).
+
+
+HFD-induced metabolic syndrome is, itself, known to be largely dependent upon the presence of a microbiota ( ), particularly in GF mice, thus making it difficult to discern the extent to which amelioration of such a phenotype by a particular treatment is also dependent upon the microbiota. Such caveat notwithstanding, we sought to determine if, under conditions of microbiota ablation via anti- biotics, inulin might retain any ability to improve parameters of metabolic syndrome in HFD-treated mice. We observed that, upon antibiotic cocktail-mediated suppression of the micro- biota, inulin's ability to reduce weight gain, adiposity, and
+
+
+
+
+
+improve glycemic control was not merely eliminated but, rather, inulin promoted adiposity and dysglycemia (A, 4D-4I, and S4H), perhaps reflecting that mice with minimal microbiota more readily digest inulin-enriched diets and harvest energy therefrom (). In any case, these results indi- cate that microbiota are necessary for both inulin's promotion of colon mass and beneficial effects on parameters of metabolic syndrome. Lastly, in accord with the general notion that increased colonic mass is generally protective against metabolic syndrome, we note that, over a range of experimental conditions, colon mass negatively correlates with fasting blood glucose concentration (J). To further investigate the role of inulin-induced changes in microbiota in impacting the gut and influencing metabolic parameters, fecal microbiota transplants were performed. Specifically, feces from mice fed chow or HFD supplemented with inulin or cellulose, were admin- istered to 4-week-old GF mice, which were then maintained on autoclaved chow for an additional 4 weeks. We observed that mice transplanted with microbiota from inulin-fed mice exhibited a trend toward improved glycemic control, reduced adiposity, and increased colon mass (Figures S4I-S4O). That these effects were of modest magnitude and significance might reflect that the inulin-induced alterations in microbiota are not fully maintained when mice are fed a chow diet, but are nonetheless in accord with the notion that such alterations play a role in mediating inulin's impact on the gut and metabolic phenotype.
+
+Manipulation of SCFA Levels in Intestine Did Not Impact Colonic Health or Adiposity Induced by HFD Enriched with Cellulose or Inulin
+Next, we examined the mechanism by which the microbiota mediate inulin's restoration of colon mass and amelioration of metabolic syndrome. First, we considered the role of SCFAs, which have been reported to mediate many of the beneficial effects of fermentable fiber in general and inulin in particular (). In accord with this notion, the con- sumption of the HFD resulted in a marked loss of feces levels of acetate, propionate, and butyrate, which was fully restored by addition of inulin (Figures S5A-S5C). To investigate the role of inulin-induced SCFAs in promotion of colon mass and ameliora- tion of metabolic syndrome, we sought a means to inhibit SCFAs without significantly altering bacterial loads per se. Hence, we utilized b acids, an ingredient derived from hops that have been shown to decrease bacterial-mediated SCFA production by gastrointestinal or fecal bacteria ex vivo ( ). We observed that administration   of b acids to mice via drinking water potently blocked the inulin- induced increase in SCFAs in vivo (Figures S5D-S5F) but, importantly, did not significantly reduce inulin's ability to restore microbiota growth (data not shown). Such b acid-mediated inhibi- tion of SCFA production did not reduce inulin's ability to promote intestinal mass or suppress adiposity and only mildly impaired inulin's ability to improve glycemic control (A-5F), arguing against the notion that SCFA production is a limiting factor in inulin's protective effects in this model.
+Next, we examined the extent to which direct administration of SCFAs might impact the intestinal atrophy and metabolic syn- drome induced by HFD. A mixture of SCFAs was provided in drinking water to HFD-fed mice using two different doses that
+
+were shown to be anti-inflammatory or health-promoting in other studies (). In contrast to inulin enrichment in diet, direct administration of SCFAs did not significantly restore colonic mass or ameliorate metabolic syndrome induced by HFD (G-5N). Finally, we sought a means to impede the actions of SCFAs, specifically by use of mice deficient in the free fatty acid receptor GPR43 (also referred to FFar2), which is reported to mediate many of the beneficial effects of SCFAs (). Our experimental design was not optimized to discern the role of GPR43 in mediating the response to HFD per se, on which there is conflicting literature ( ), but rather to define if this receptor was required for inulin's promotion of colon mass and/or its ability to improve indices of metabolic syndrome. We observed that, irrespective of whether mice expressed GPR43 or not, inulin promoted intestinal mass and suppressed HFD-induced adiposity and dysglycemia (Fig- ures S5G-S5K). SCFAs are reported to promote expansion of regulatory T cells, which dampen chronic inflammatory diseases (). Hence, in light of the notion that HFD- induced metabolic syndrome can be viewed as chronic inflammatory disease, we considered role for T cells in mediating inulin's protective effect in metabolic syndrome. Inulin promoted colonic mass, suppressed adiposity, and improved glycemic control in HFD-fed Rag1 knockout (Rag1KO) mice, which lack T and B lymphocytes, arguing against this possibility (Figures S5L-S5P). Together, these results indicate that inulin's promo- tion of colon mass and improvement of metabolic syndrome  are not largely mediated by SCFA production.
+
+Inulin Restoration of Colonic and Metabolic Health Is Dependent                                 on                                 IL-22 We next began to consider other potential mechanisms whereby inulin might impact the microbiota to promote epithelial cell pro- liferation and production of antimicrobial gene expression that, together, might reduce HFD-induced microbiota encroachment and associated parameters of metabolic syndrome. IL-22, induced by gut bacteria, is known to both promote epithelial  cell proliferation and induce antimicrobials such as Reg3g, and thereby promote intestinal restitution following acute inflamma- tion (). We view HFD-induced metabolic syndrome as a state of LGI and thus envisaged that inulin's impact on the microbiota might result in IL-22 production that could prevent or resolve such LGI. In accord with this hypothesis, genetic ablation of IL-22 receptor potentiates HFD-induced metabolic syndrome, while adminis- tration of recombinant IL-22 ameliorates it (). Hence, we next considered the possibility that inulin's protective effect against HFD might be mediated by IL-22. In accord with this notion, HFD supplementation with inulin increased IL-22 production (A). Such inulin-induced IL-22 production, which was detectable in the colon, but not serum, was depen- dent upon the presence of a microbiota that was absent in GF and antibiotic-treated mice (A and S6A), wherein it correlated with lack of induction of Reg3g expression in GF mice (Figure S6B). IL-22 has been reported to be produced by neutrophils (), a subset of T helper lymphocytes (Th22 cells) (), and type 3 innate lymphoid cells (ILC3) (). We observed that inulin-induced IL-22 was not impacted by antibody-mediated neutrophil
+
+
+
+
+
+
+
+
+
+
+G	H	I	J
+
+
+
+
+
+
+
+
+
+
+
+K	L	M	N
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5. Manipulation of SCFA Levels in Intestine Did Not Impact Colonic Health or Adiposity Induced by HFD Enriched with Cellulose or Inulin
+(A-F) C57BL/6 male mice (n = 5) were fed HFD supplemented with cellulose (HFD-200 Cell) or inulin (HFD-200 Inul) with drink water containing b acid or not.
+Colon weight.
+Epididymal fat pad.
+Mesenteric fat pad.
+(D and E) Glucose tolerance was measured and AUC calculated.
+Five hour fasting glucose.
+(G-N) C57BL/6 male mice (n = 5) were fed chow, standard HFD, or HFD containing inulin while being administered drinking water containing SCFAs (L or H as described in the ) for 28 days.
+Colon weight.
+Epididymal fat pad.
+Fat percentage.
+Lean percentage.
+(K and L) Glucose tolerance was measured (K) and AUC calculated (L).
+Five hour fasting glucose.
+Mice were fasted 5 hr and intraperitoneally injected with insulin to measure insulin sensitivity. Data are expressed as mean +- SEM. Statistical significance was assessed by unpaired Student's t test. *p < 0.05; **p < 0.01; n.s., not significant. See also Figure S5.
+
+
+depletion (data not shown); was maintained in Rag1KO mice, which lack most populations of T and B lymphocytes; but was absent in Rag/IL2Rg-DKO mice, which lack ILC3, thus indicating a key role for ILC3 in this response (Figure S7A). Next, we exam-
+
+ined whether deficiency of IL-22 impacted inulin's ability to restore gut mass and protect against HFD-induced metabolic syndrome. We observed that inability to produce IL-22 in response to consumption of an inulin-enriched diet, due to loss
+
+
+
+
+A	B	C	D
+
+
+
+
+
+
+
+
+
+
+E	F	G	H	I
+
+
+
+
+
+
+
+
+
+
+
+Figure 6. Inulin's Rescue of HFD-Induced Colon Atrophy and Metabolic Syndrome Is Mediated by IL-22
+C57BL/6 female conventional (n = 5) mice and Swiss-Webster GF (n = 3-4) mice fed the indicated diets were euthanized and distal colon cut into small pieces and cultured overnight. The supernatant was used to measure IL-22 by ELISA.
+(B-I) IL-22KO (n = 13) male mice were fed chow, or HFD supplemented with cellulose (HFD-200 Cell) or inulin (HFD-200 Inul) for 4 weeks.
+Colon length.
+Colon weight.
+Epididymal fat pad.
+Mesenteric                                                                                                                                                                                                                             fat. (F and G) Mice (n = 10) were administered glucose, 2 g/kg intraperitoneally, following an overnight fast. Blood glucose levels were measured at the indicated time point (F) and AUC calculated (G).
+(H and I) Mice (n = 5) were fasted 5 hr, the glucose was measured at 0 (H), 30, 60, and 90 min after being intraperitoneally injected with insulin (I). Data       are expressed as mean +- SEM. Statistical significance was assessed by unpaired Student's t test. **p < 0.01; n.s., not significant. See also Figures S6 and S7.
+
+
+of the IL-22 gene or ILC3, markedly impaired inulin's ability to restore colon health (B, 6C, and S7B-S7G) and to sup- press indices of metabolic syndrome (D-6I and S6C).
+In considering how IL-22 might protect against metabolic syndrome, we hypothesized that IL-22-induced fortification of the gut might protect against bacterial translocation that pro- motes LGI, which has classically been defined as mild elevations in pro-inflammatory gene expression in adipose tissue ( ). In accord with this possibility, we observed that, in the absence of IL-22, inulin no longer significantly induced Reg3g (A) and no longer prevented HFD-induced microbiota encroachment (C). Rather, inulin-treated IL-22KO mice exhibited markedly enhanced microbial staining in the mucus layer, which appeared to have an increased tendency to breach intestinal defenses (C and 7D). Specifically, supple- mentation of HFD with inulin resulted in a marked increase in levels of bacterial 16S RNA in the liver of IL-22KO, but not wild-type (WT), mice (B), suggesting increased bacterial translocation. Furthermore, inulin reversed some indices of HFD-induced LGI, specifically, adipose tissue expression of CXCL1, tumor necrosis factor alpha, and IL-6, in WT, but not
+
+IL-22KO, mice (E and 7F). Together, these results indicate that inulin impacts  microbiota  to  induce  expression of IL-22, which fortifies the intestine, resulting in reduced microbiota encroachment and pro-inflammatory gene expres- sion, which, together, may underlie inulin's protection against HFD-induced metabolic syndrome.
+
+DISCUSSION
+
+The central goal of this study was to elucidate the mechanism whereby enrichment of an obesogenic HFD with inulin sup- presses adiposity and its associated parameters of metabolic syndrome. We hypothesized that bacterial metabolism of inulin, specifically generation of SCFAs, would promote enterocyte proliferation and thus broadly fortify innate mucosal defense, leading to reduced bacterial encroachment. Subsequently, this would reduce LGI, which promotes numerous events that pro- mote and define the metabolic syndrome. Our results supported some aspects of this hypothesis, particularly the notion that inulin restores the HFD-induced loss of enterocyte proliferation, reduces microbiota encroachment, and protects against
+
+
+
+
+A	B
+
+
+
+
+
+
+
+
+
+
+
+
+C	D
+
+
+
+
+
+
+
+
+
+
+
+E	F
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 7. Inulin's Restoration of Microbiota Containment and Prevention of Low-Grade Inflammation Required IL-22
+IL-22KO mice were fed chow, or HFD supplemented with cellulose (HFD-200 Cell) or inulin (HFD-200 Inul) for 4 weeks.
+The mRNA was extracted from colon to analyze the expression of Reg3g (n = 4).
+Bacterial 16S rRNA in the livers were analyzed by qRT-PCR (n = 4).
+Analysis of microbiota-mucus-epithelial localization in transverse colon of IL-22KO mice via carnoy fixation, FISH, and immunohistochemical staining.
+Bacterial versus epithelial distance was quantified.
+(E and F) Quantitation of CXCL1, TNF-a, and IL-6 in white adipose tissue (WAT) of WT (E) and IL-22KO mice (F) by qRT-PCR. Data are expressed as mean +- SEM. Statistical significance was assessed by unpaired Student's t test. *p < 0.05; **p < 0.01; n.s., not significant.
+
+
+metabolic syndrome in a microbiota-dependent manner. How- ever, our data did not support a major role for SCFAs in inulin's restoration of colonic health or amelioration of metabolic syndrome. Rather, our results indicate that inulin restores gut health and protects against metabolic syndrome in a manner that correlates with, and is dependent upon, microbiota-depen- dent induction of IL-22 expression. We now hypothesize that such inulin-induced IL-22 expression promotes colon health in
+
+a manner that reduces microbiota encroachment by fortifying the epithelium via promoting crypt regeneration and increasing expression of antibacterial proteins. These results add to under- standing of pathophysiologic mechanisms that underlie DIO and provide a previously unappreciated means by which fermentable fibers might promote health.
+Our previous study revealed that HFD resulted in a loss of gut mass, and that such gut atrophy was not caused by dietary fat
+
+
+
+
+
+content per se but, rather, by its lack of fermentable fiber (). Herein, we observed that gut atrophy correlated with reduced enterocyte proliferation and, moreover, microbiota encroachment, all of which were reversed by enrich- ment of HFD with inulin, but not with additional insoluble fiber, cellulose. Interestingly, such microbiota encroachment was inversely proportional to total bacterial loads in the gut. Specif- ically, relative to chow-fed mice, HFD administration resulted in bacterial infiltration into the mucus layer despite an approximate 10-fold reduction in fecal bacteria. Inulin supplementation of HFD restored bacterial loads and resulted in some changes in gut microbiota composition that have been associated with health. Specifically, inulin enrichment of HFD restored the Firmicutes/ Bacteroidetes ratio, which is associated with, and is thought to contribute to, leanness; reduced levels of Proteobacteria, which have been proposed to promote an array of chronic inflammatory diseases; and increased levels of Bifidobacteria, which are depleted in inflammatory diseases and have been used as probiotics to ameliorate such diseases. While there are a myriad of potential means by which these and other inulin-induced changes in microbiota might ameliorate metabolic disease, we hypothesize that reducing microbiota encroachment plays a central role in this process. We envision that such reduced micro- biota encroachment should reduce inflammatory signaling, which is thought to impair a range of metabolic signaling pathways including those involved in glycemic control and satiety signaling, such as insulin and leptin, respectively. Thus, we propose that inulin-induced fortification of the mucosa enhances both insulin and satiety signaling in an intertwined manner to ameliorate metabolic syndrome. In accord with our hypothesis, we recently reported that microbiota encroachment is a feature of metabolic syndrome in humans (), wherein it may play a role in driving this low-grade chronic inflammatory disorder. While reduced microbiota encroachment can be imagined to result in  reduced  expression  of  IL-22  and Reg3g, we propose that, in fact, inulin-induced micro- biotas resulted in a relatively stable host-microbiota equilibrium state. We speculate that inulin-induced IL-22-dependent fortifi- cation of the mucosa likely involves increased barrier function but further studies are needed to determine the extent  to  which this involves exclusion of bacteria themselves and/or their products.
+While our observation that soluble fiber improves parameters of metabolic syndrome via a microbiota-dependent process is generally in accord with most published work in this area, we note that recently reported that such fibers improved glycemic control, even in GF mice. While this apparent discrepancy between their and our results could reflect differ- ences in specific fibers, source, and/or mouse strains utilized, we speculate that the absolute absence of bacteria in GF mice makes it very difficult for them to digest these fibers,  resulting in reduced appetite and, consequently, alterations in glycemic control by mechanisms that would not be relevant in mice with a microbiota. Such apparent inability to digest inulin-enriched diets was not seen in antibiotic-treated mice, perhaps reflecting that a minimal microbiota is sufficient to at least partially digest this fiber () and, in any case, arguing that the inability of inulin to suppress adiposity or improve glycemic control in antibiotic-treated mice reflects an essential role for
+
+the microbiota in mediating inulin's amelioration of HFD-induced metabolic syndrome.
+That inulin's restoration of gut bacterial loads correlated with a microbiota-dependent increase in fecal SCFA levels supported our presumption that SCFAs would be pivotal in mediating inulin's beneficial effects. Yet suppressing SCFA production to levels approaching or below baseline levels in the cecum, which is the most sensitive locale to measure changes in SCFAs, resulted in only a modest loss of glucose tolerance and did not ameliorate inulin's ability to suppress adiposity and fasting glucose levels. Nor did loss of the free fatty acid receptor GPR43 impact upon inulin's ability to ameliorate HFD-induced dysglycemia or adiposity. This latter result is an apparent contradiction with a recent publication from , which reported that inulin suppressed HFD-induced weight gain and adiposity in WT, but not GPR43KO, mice. The reason for this discrepancy is unclear but given that our study used a higher level of inulin, which appears to have a stronger suppression of adiposity, we specu- late that some portion of inulin's beneficial metabolic effects might be mediated by SCFAs acting via GPR43, but that SCFA- independent effects may mask the need for this receptor. We also note that our approaches to manipulate SCFA levels have significant limitations. Indeed, the specificity of b acids is not well defined, and administration of SCFAs in drinking water may not reach the colon in adequate levels. Thus, further work is needed in this area to better define the role of SCFAs in protecting against metabolic syndrome. Specific needs include determining what metabolites are produced when SCFA production is blocked and discern how they impact the host. The need for such studies notwithstanding, our results indicate that SCFAs may not be a limiting factor in the microbiota-dependent ability of inulin to protect against HFD-induced metabolic syndrome.
+It should be noted that, although inulin restored total gut bacterial loads, it did not restore microbiota composition toward that of chow-fed mice but, rather, resulted in a microbiota composition seemingly equally distinct from chow- and HFD- fed mice, at least as assessed by unbiased metrics such as UniFrac analysis. While such altered microbiota composition did not result in an obvious phenotypic difference relative to chow-fed mice, we recently reported that exposure of mice fed inulin-enriched diets, irrespective of fat content, exhibited very severe colitis upon challenge with dextran sodium sulfate (DSS), a chemical colitogen (). This observation highlights the potential risk in promoting bacterial growth in the gut, particularly in inducing a microbiota composition whose functional attributes are not well defined. Moreover, it under- scores the need to define specific mechanisms whereby inulin impacts microbiota to protect against metabolic disease. That inulin's protection against HFD-induced metabolic syndrome correlated with IL-22 induction and is IL-22 dependent, combined with the observation that recombinant IL-22 ameliorates HFD- induced obesity, indicates that IL-22 is one such potential mech- anism (). This notion is in accord with recent work that direct IL-22 administration protects against HFD- induced metabolic syndrome and the observation that IL-22 receptor KO mice potentiated disease in this model. Yet interest- ingly, IL-22KO mice were not found to share this latter phenotype (). Our results were in accord with this observa- tion in that we did not observe a difference in the extent of
+
+
+
+
+
+standard HFD-induced metabolic disease between IL-22 and WT mice, but it should be noted that, although maintained in the same facility in similar conditions, KO mice had not been bred with the WT control mice so we do not view our comparison to be a rigorous confirmation of this seemingly enigmatic result.
+In contrast to inulin supplementation, which can exacerbate severity of DSS colitis (), IL-22 administration seems broadly protective against a range of intestinal infectious and inflammatory challenges including DSS, C. rodentium, and rotavirus (      ). We hypothesize that a common mechanism by which IL-22 protects against these inflammatory challenges, including HFD, which we view as a low-grade inflammatory challenge, is by increasing the metabolic rate of the epithelium, resulting in greater expression of antimicrobials and more rapid proliferation, which correlates with longer crypts, thus, together, creating a more protective shield against the gut microbiota. IL-22's recently recognized ability to strengthen the intestinal barrier by reducing ER stress might contribute to this process (). We speculate that such effects on the epithelium result in an enhanced shield from the microbiota, protect against an array of inflammatory challenges, and, in particular, underlie inulin's and recombinant IL-22's protection against HFD-induced metabolic syndrome.
+
+STAR+METHODS
+
+Detailed methods are provided in the online version of this paper and include the following:
+
+d 
+d 
+d 
+B Mice and Diets
+d  
+B Food Consumption Measurements
+B SCFA Treatment
+B Glucose Measurement
+B Assays for Cholesterol, Triglyceride and FFA
+B Germ-Free (GF) Mice Experiments
+B Microbiota Transplantation
+B Bacteria Localization by FISH Staining
+B RNA Isolation and qRT-PCR
+B Hematoxylin and Eosin Staining
+B Immunohistochemistry
+B Oil Red O Staining
+B BrdU Staining
+B ELISA
+B Bacterial Quantification in Feces and Liver
+B Isolation of Intestinal Epithelial Cells
+B Short-Chain Fatty Acids Analysis
+B 16S rRNA Gene Sequence Analysis
+d 
+d 
+
+
+SUPPLEMENTAL INFORMATION
+
+Supplemental Information includes seven figures and two tables and can be found with this article online at .
+
+ACKNOWLEDGMENTS
+
+This work was supported by the National Institute of Diabetes and Digestive and Kidney Diseases grants DK099071, DK083890, and CA219144. B.C. is supported by a Career Development Award from the Crohn's and Colitis Foun- dation of America. We thank Dr. Edward Ulman from Research Diets for his insightful comments regarding the differences in fiber level/type between grain-based and purified diets and how this might impact animal phenotype.
+
+AUTHOR CONTRIBUTIONS
+
+J.Z., B.C., and A.T.G. conceived the project and designed experiments. J.Z. and A.T.G. prepared the manuscript with input from all other authors. J.Z., B.C., and V.S. performed the experiments and data analysis. M.P., M.R., M.D.F., and M.V.K. provided key reagents and guided experimental design and data interpretation.
+
+Received: June 21, 2017
+Revised: October 2, 2017
+Accepted: November 9, 2017
+Published: December 21, 2017
+
+REFERENCES
+
+ .
+  .
+   .
+   .
+  .
+   .
+  .
+   .
+   .
+  .
+       .
+ 
+
+
+
+
+
+ .
+ .
+   .
+ .
+    .
+    .
+  .
+   .
+   .
+   .
+   .
+   .
+   .
+   .
+  
+
+ .
+   .
+  .
+  .
+   .
+ .
+  .
+     .
+   .
+   .
+ .
+ .
+   .
+  .
+ 
+.
+   .
+
+
+
+
+STAR+METHODS
+
+KEY RESOURCES TABLE
+
+
+REAGENT or RESOURCE	SOURCE	IDENTIFIER
+Antibodies
+Chemicals, Peptides, and Recombinant Proteins
+Critical Commercial Assays
+Deposited Data
+Experimental Models: Organisms/Strains
+Oligonucleotides Software and Algorithms
+
+Other
+(Continued on next page)
+
+
+
+
+
+Continued
+REAGENT or RESOURCE	SOURCE	IDENTIFIER
+
+
+CONTACT FOR REAGENT AND RESOURCE SHARING
+
+Further information and requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Andrew T. Gewirtz ().
+
+EXPERIMENTAL MODEL AND SUBJECT DETAILS
+
+Mice and Diets
+C57BL/6 WT, Rag1 knockout (Rag1KO) and GPR43 knockout (GPR43KO) mice, Rag2-/-IL2rg-/- were purchased from Jackson Laboratories, Bar Harbor, ME. IL-22 KO mice were provided by Genentech, South San Francisco, CA. Swiss-Webster mice were purchased from Charles River Laboratories. All mice were bred and housed at Georgia State University, Atlanta, Georgia, USA under institutionally-approved  protocols  (IACUC # A14033).  Mice, 7-11 weeks  of age, were fed either a grain-based rodent chow  (cat# 5001) from LabDiet (hereafter referred as 'chow'), St. Louis, MO, or indicated compositionally defined diets (CDD) made  with purified ingredients, which were produced by Research Diets, New Brunswick, NJ. The composition of all purified-ingredient CDDs used in this study are listed in Table S1, and wherein levels of fiber in supplemented HFD (about 20% fiber) is approximately similar that of grain-based chows (15-25% fiber). As shown, there were 3 different compositionally defined high fat diets with 60 kcal
+% fat (mainly lard) and different levels and types of fiber: A high fat purified diet with 50 g cellulose per 4,057 kcals (D12492, HFD-50 Cell) and the remaining diets with 200 g cellulose (HFD-200 Cell) or 200 g inulin (HFD-200 Inul) per 4,057 kcals. Three other diets (not shown) contained 50% more vitamins to compensate for potential losses during double irradiation for germ-free mice. Prior to the experimentation period, all mice were maintained on chow, which we view as a reference diet. During the experimental period, male mice were fed chow or specified CDD for a period of 28 days except where indicated. At the end of the experimental period, feces and blood were collected before euthanasia, organs including colon and fat were collected for measuring colon length, weight, fat pad weight and other downstream analysis. For antibiotic treatment, two days prior to HFD initiation, mice were administered drinking water containing ampicillin (1 g/L), vancomycin (0.25 g/L), neomycin (1 g/L), and metronidazole (1 g/L), water supply was renewed every 3 days. To inhibit short chain fatty acid production by inhibiting bacterial fermentation, mice were treated with vehicle control (Propylene Glycol) or 20 ppm b-acid (extracted from the hops plant; S.S. Steiner) ().
+
+METHOD DETAILS
+
+Food                                                                            Consumption                                                                            Measurements A known amount of food was placed in a cage of five mice, the amount of remaining food was measured twenty-four hours later. The amount of food consumed was calculated by the difference divided by 5 and expressed as food intake per mouse per 24 h. Food intake was monitored every day for two weeks.
+
+SCFA Treatment
+Mice consuming standard HFD (D12492) were treated with the following high (H) and low (L) dose cocktail of short chain fatty acid (SCFA) mixture in drink water for 28 days: H= 67.5 mM sodium acetate, 40 mM sodium butyrate, and 25.9 mM sodium propionate; L= 33.75 mM sodium acetate, 20 mM sodium butyrate, and 12.95 mM sodium propionate. Measurement of % fat mass and lean mass was performed via MRI (Bruker MiniSpec) at day 27 post diets treatment.
+
+Glucose Measurement
+Glucose tolerance was measured 26 days following initiation of indicated diet. Mice were placed in a clean cage and provided with water but without food overnight (15h). Baseline blood glucose was then measured using a Nova Max plus Glucose meter. Mice were administered glucose, 2 mg of glucose/gm body weight, and blood glucose levels measured 30, 60, and 90 minutes later. Data are expressed as mg glucose/dL blood. 2 days later, (i.e. day 28), to measure ''fasting glucose levels'', mice were placed in a clean cage and provided with water but without food for 5h, at which point, fasting glucose levels were determined and insulin tolerance test initiated. Specifically, 5h-fasted mice were injected with 0.5 U insulin/kg body weight and blood glucose levels were measured     at 30, 60, 90 min after injection.
+
+
+
+
+Assays for Cholesterol, Triglyceride and FFA
+Cholesterol and triglyceride levels in serum were measured using kits from Thermo Scientific. Serum total free fatty Acids (FFA) was measured by using a FFA quantification assay kit from Abcam, Cambridge MA.
+
+Germ-Free (GF) Mice Experiments
+Germ-free Swiss Webster mice were bred in a Park Bioservices isolator and then transferred to ''Isocages'' (Techniplast USA, West Chester, PA), which maintain a germ-free state. GF male mice were fed autoclaved chow or CDD, which was sterilized by 2 rounds of g-irradiation (10 - 20 kGy, 2 times). Such diets were supplemented with extra vitamins to guard against depletion of key micro- nutrients by radiation. After 4 weeks of treatment, mice were removed from isocages and immediately euthanized. To verify that the irradiated diets are free of bacteria, GF mice were treated with irradiated HFD diet for 14 days, the feces were collected before and after irradiated HFD diet treatment. Then these mice were switched to autoclaved chow diet for 14 days before the feces were collected to measure bacteria load (Figure S4A).
+
+Microbiota Transplantation
+Feces from mice fed chow or HFD supplemented with cellulose or inulin were suspended in PBS. Germ-free Swiss Webster mice (4 weeks old) were removed from the isolator and were orally administered 200 ml of faecal suspension. Transplanted mice were fed with chow for 4 weeks.
+
+Bacteria                                    Localization                                    by                                    FISH                                    Staining The staining of bacteria localization at the surface of the intestinal mucosa was conducted as previously described ( ). Briefly, transverse colonic tissues full of fecal material were placed in methanol-Carnoy's fixative solution (60% methanol, 30% chloroform, 10% glacial acetic acid) for a minimum of 3 h at room temperature. Tissues were then washed in methanol 2x 30 min, ethanol 2x 20 min, and xylene 2x 20 min and embedded in paraffin for 5 mm sections on glass slides. The tissue sections were dewaxed by preheating at 60oC for 10 min, followed by xylene 60oC for 10 min, xylene for 10 min and 99.5% ethanol for 10 minutes. Deparaffinized sections were incubated at 50oC overnight with EUB338 probe (5'-GCTGCCTCCCGTAGGAGT-3', with a 5' labeling using Alexa 647) diluted to 10 mg/mL in hybridization buffer (20 mM Tris-HCl, pH 7.4, 0.9 M NaCl, 0.1% SDS, 20% formamide). After incubating with wash buffer (20 mM Tris-HCl, pH 7.4, 0.9 M NaCl) for 10 min and 3x 10 min in PBS sequentially, the     slides were blocked with 5% fetal bovine serum for 1h at 4oC. Samples were then incubated with Mucin-2  primary  antibody (Santa Cruz Biotechnology, 1:500) overnight at 4oC. After washing 3x 10 min in PBS, the slides were incubated with anti-rabbit Alexa 488 secondary antibody diluted 1:500, Phalloidin Tetramethyl rhodamine B isothiocyanate (Sigma, St. Louis, MO) at 1mg/mL. After washing 3x in PBS, allowed to dry, the slides were mounted in DAPI containing mounting medium.
+
+RNA                                                    Isolation                                                    and                                                     qRT-PCR Total RNA was extracted from transverse colonic tissues or epithelial cells using TRIzol (Invitrogen, Carlsbad, California) according to the manufacturer's protocol. Quantitative RT-PCR was performed using the iScript One-Step RT-PCR Kit with SYBR Green (Bio-Rad, Hercules, Californai) in a CFX96 apparatus (Bio-Rad, Hercules, California) with the primers listed in Table S2. Difference in transcript levels were quantified by normalization of each amplicon to housekeeping gene 36B4.
+
+Hematoxylin and Eosin Staining
+Mouse colons, small intestine including duodenum and ileum, adipose tissue, and liver were fixed in 10% buffered formalin at room temperature before embedding in paraffin. Tissues were sectioned at 4 mm thickness and stained with hematoxylin and eosin (H&E). The adipose cells size and colonic cypt length and villus length in small intestine was determined using Image J software from H&E.
+
+Immunohistochemistry                                                                                                                                                                      The tissue sections were immersed in a citrate buffer solution (0.01M, pH 6.0) and heated at 120oC in an autoclave sterilizer for 10 min for antigen retrieval. After cooling to room temperature the following steps were performed in a moist chamber. The sections were washed in PBS, blocked with protein block (BioGenex, CA, USA), and the proximal colon section was incubated with rabbit anti-Ki67, or anti-GLP1 (Abcam, Cambridge, MA) diluted 1:1000 for 1 h, the ileum section was incubated with rabbit anti-lysozyme for 1 h. After washing in PBS, these sections for Ki67, GLP1 and lysozyme staining were stained with secondary fluorescent antibody, and the tissues were mounted with mounting medium containing DAPI. The section for PCNA staining was detected by DAB. The expression level of Ki67 in chow-fed Swiss Webster conventional and GF mice were set as ''1'' respectively. The relative level of ki67 in conven- tional mice or GF mice with different HFD diets treatment were expressed fold change relative to conventional mice or GF mice which fed chow diet respectively. The number of GLP1 positive cells per crypt in proximal colon, and lysozyme positive Paneth cells per crypt in ileum was counted.
+
+Oil Red O Staining
+Mouse livers were embedded in OCT (Optimal cutting temperature) compound after euthanasia. Tissues were sectioned at 4 mm thickness and stained with Oil red O. Briefly, 1.9g of Oil red O (Sigma) was dissolved in 300mL of isopropyl alcohol. After homoge- nization, 200 mL of distilled water was added. The reagent was filtered after incubating at 4oC for 30 minutes, then used for staining
+
+
+
+
+liver sections. After staining for 6 min, the sections were washed using running tap water, and mounted using a sterile glycerol 40% solution. Image J was used to quantify the red staining.
+
+BrdU Staining
+Mice were injected with Brdu (50 mg of BrdU/g) intraperitoneally. After 24 h, proximal colon tissue was harvested and embedded in OCT. Tissues sections (4 mm thickness) were cut and, fixed with 4% formaldehyde for 30 min at room temperature. After washing with PBS, the sections were incubated with prewarmed (37oC) 1N HCL for 45 min in 37oC incubator, blocked with protein block (BioGenex, CA, USA) before incubating with FITC labeled anti-BrdU antibody (Abcam) overnight at 4oC. Brdu-labeled nuclei were counted in each crypt of colon under fluorescent microscope. While Brdu positive cells in the lamina propria, which might be immune cells, were not excluded.
+
+ELISA
+The distal colons were washed in HBSS supplemented with penicillin and streptomycin, and cut into 1 cm segments. These segments were cultured in 24-well flat-bottom culture plates in RPMI 1640 medium supplemented with 10% FBS, penicillin        and streptomycin, l-glutamine. After 24 h, supernatant was collected and centrifuged at 5,000 g for 10 minutes at 4oC and the concentration of IL-22 was measured according to the ELISA kit provided by R&D Systems.
+
+Bacterial                           Quantification                            in                            Feces                            and                            Liver For quantification of total faecal bacterial load, total DNA was isolated from known amounts of feces using QIAamp DNA Stool Mini Kit (Qiagen). DNA was then subjected to quantitative PCR using QuantiFast SYBR Green PCR kit (Biorad) with universal 16S rRNA primers listed in Table S2 to measure total bacteria number. Results are expressed as bacteria number per mg of stool, using a standard curve. The quantification of bacteria in the liver was measured as previously described by .
+
+Isolation of Intestinal Epithelial Cells
+The colons were washed extensively in PBS, cut longitudinally and generated 1.0 cm pieces and incubated with HBSS containing 2 mM EDTA for 30 min with shanking at 200 rpm. After vortexing, the supernatant was passed through 100 mm cell strainer. The filtrate containing intestinal epithelial cells (IEC) were centrifuged, washed with cold PBS and centrifuged and pellet was stored at -80oC until analyzed.
+
+Short-Chain Fatty Acids Analysis
+Levels of acetate, propionate, and butyrate in feces and cecal content, from non-fasted mice, were measured by gas chromatog- raphy as previously described ().
+
+16S rRNA Gene Sequence Analysis
+16S rRNA gene amplification and sequencing were conducted as described (). Briefly, DNA was extracted from feces of C57BL/6, which was collected at 28 day post diet initiation, using a PowerSoil-htp kit from MO BIO Laboratories (Carlsbad, California). The region V4 of 16S rRNA genes were amplified by the primers listed in Table S2; The PCR product of each samples were combined and purified with Ampure magnetic purification beads (Agencourt). Products were then quantified (BIOTEK Fluorescence Spectrophotometer) using a Quant-iT PicoGreen dsDNA assay. The pooled products were quantified and sequenced by using an Illumina MiSeq sequencer (paired-end reads, 2 3 250 base pairs) at Cornell University, Ithaca. The sequences were demultiplexed, quality filtered using the Quantitative Insights into Microbial Ecology (QIIME, version 1.8.0) software package before analysis as previously described ().
+
+QUANTIFICATION AND STATISTICAL ANALYSIS
+
+Results were expressed as mean +- SEM. Statistical significance was analyzed by unpaired Student t test (GraphPad Prism 5). Differences between experimental groups were considered significant at *P % 0.05 or **P % 0.01.
+
+DATA AND SOFTWARE AVAILABILITY
+
+The accession number for the unprocessed sequencing data is ENA: PRJEB23793.

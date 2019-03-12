@@ -1,0 +1,284 @@
+
+Animal (2018), 12:4, pp 692-700 (c) The Animal Consortium 2017 doi:10.1017/S1751731117002208
+
+animal
+
+
+
+
+
+Feeding broilers with dry whey powder and whey protein concentrate affected productive performance, ileal digestibility of nutrients and cecal microbiota community
+C. Pineda-Quiroga1+, A. Camarinha-Silva2, D. Borda-Molina2, R. Atxaerandio1, R. Ruiz1 and
+A. Garcia-Rodriguez1
+1Department of Animal Production, Neiker-Tecnalia, Granja Modelo de Arkaute, 01080 Vitoria-Gasteiz, Spain; 2Institute of Animal Science, University of Hohenheim,
+Stuttgart 70599, Germany
+
+
+(Received 2 February 2017; Accepted 1 August 2017; First published online 7 September 2017)
+
+
+Dietary interventions are a common practice in the poultry industry to promote optimal performance and health of animals. Here, we aim at assessing the influence of supplementing broiler diets with dry whey powder (DWP) and whey protein concentrate (WPC) on nutrient coefficient of apparent ileal digestibility (CAID) and productive performance. Cecal microbiota composition was also determined using Illumina amplicon sequencing. Dietary treatments were control diet (no supplementation of DWP or WPC), 60-DWP (60 g/kg of DWP), and 80-WPC (80 g/kg of WPC). One-day-old male broilers were randomly assigned to one of three treatments, and housed in floor pens. In Trial 1, 90 1-day-old chicks were allocated to three pens/treatment, with 10 birds/pen, during 21 days for CAID evaluation. Diet 60-DWP increased Ca CAID (P = 0.041), while diet 80-WPC improved Ca and P CAID (P < 0.001 and 0.002, respectively) when compared with control diet. In Trial 2, 810 one-day-old chicks were allocated to nine pens/treatment, with 30 birds/pen, during 42 days. Feeding chickens with 60-DWP and 80-WPC increased their BW, average daily gain (ADG) and feed intake (FI) during the starter (P < 0.001 for all variables) and grower-finisher periods (P < 0.001 for BW and FI, and P = 0.048 for ADG), and during the entire feeding period (P < 0.05), when compared with control diet. Diets 60-DWP and
+80-WPC reduced the feed conversion ratio of chickens during the starter period (P < 0.001 and 0.003, respectively), while 60-DWP reduced this parameter during the entire feeding period (P = 0.048), when compared to control diet. At day 42, cecal microbial communities of chickens that were fed with 60-DWP and 80-WPC differed from those fed with control diet (R = 0.776, P = 0.008; and R = 0.740, P = 0.008, respectively). The abundance of Bacteroides fragilis, Bacteroides spp., Escherichia coli/Shigella flexneri and Megamonas furniformis increased when 60-DWP and 80-WPC diets were offered, while the presence of Helicobacter pullorum decreased. Lactobacillus salivarius consistently increased in chickens with better feed conversion ratio, which were those fed with 60-DWP. The results obtained in the present study indicate that growth of chickens is improved by DWP and WPC supplementation because of a higher mineral digestibility, increased feed intake and modulation of cecal microbiota communities.
+
+Keywords: lactose, protein, Lactobacillus salivarius, Helicobacter pullorum, poultry
+
+
+Implications
+Whey is the main co-product of the cheese industry, although it is usually disposed as a waste product. It is therefore essential to give whey an alternative use and minimize environmental pollution. Its high lactose content and high- protein quality make whey a potentially interesting ingre- dient in poultry nutrition. Our results indicate that dry whey powder and whey protein concentrate can be successfully used to feed broilers, as they enhance their growth. Dry whey powder also improves feed conversion. Both ingredients
+
++ E-mail: 
+
+increase calcium and phosphorus digestibility, and result in a favorable modulation of the cecal microbial composition.
+
+
+Introduction
+The main purpose of modern intensive broiler production is to promote a high growth rate, feed efficiency and optimal health status of animals. Such desirable conditions can be achieved through different dietary interventions that, during the last decades, have focused on the addition of low levels of antibiotics, as growth promoters, for an extended period of time (Huyghebaert et al., One of the advantages of
+
+
+
+the use of antibiotics as growth promoters is the improve- ment of weight gain and feed efficiency through their impact on gut microbiota (Danzeisen et al., However, the ban on their use in the European Union (European Commision Regulation,  and the potential restriction in other countries (Huyghebaert et al.,  have resulted in a concomitant reduction of animal performance and in an increase of the incidence of enteric pathologies. This situa- tion has led to an increasing interest in non-resistant, non- residual feeding alternatives that benefit productivity and health status through a favorable modulation of the gut microbiota (Gaggia et al., 
+Animal performance might be associated with changes in gut microbiota. Promotion of a balanced gut microbiota population is basic to protect the host against pathogenic bacteria, enhancing the intestinal integrity and morphology, as well as the absorption of nutrients (Rinttila and Apajalahti, One way to benefit gut balance is the use of specific dietary components that serve as substrate to a selective group of bacteria, such as the case of prebiotics (Gaggia et al.,  Prebiotics are defined as a non-digestible, dietary compounds that modulate the composition and/or activity of the gut microbiota, conferring a beneficial physiological effect on the host (Bindels et al., Dry whey powder (DWP) is a co- product of cheese industry with high lactose content (~70% of dry matter). Given that birds have a negligible lactase activity in the gut (Denbow, lactose can be used as a prebiotic. Lactose is not digested, being thus fermented by the cecal microflora, which can lead to a decrease on cecum pH and toa reduction of potential pathogenic bacteria such as Salmonella enteritidis (Tellez et al., The benefits of feeding broilers and laying hens with DWP, as lactose source, on their perfor- mance and cecal bacteria counts has been reported (Radfar and Farhoomand,  Pineda-Quiroga et al.,  However, to our knowledge, results on the effects of DWP on broilers concerning nutrient ileal digestibility and cecal microbiota community are lacking so far.
+The protein source used in feed formulation influences the productive performance and the gut microbiota composition of broilers. The benefits of the selected protein on animal growth are related to their inclusion level, digestibility and amino acid profile (Beski et al., Gut microbiota could also be affected, as diet non-digested proteins might reach the hind gut, promote a proteolytic fermentation and stimulate an increase in the microbiota that use amino acids as energy source (Qaisrani et al.,  Whey protein concentrate (WPC) is a co-product of cheese or rennet casein industries with relevant protein (30% CP of dry matter) and lactose (52.5% of dry matter) contents. The WPC is considered as an excellent amino acid source in bird nutrition and is composed of biologically active proteins such as b-lactoglobulin, a-lactalbumin and immunoglobulins (Szczurek et al., These proteins have a higher bio- logical value compared with soybean meal (Smithers,  the main protein source in poultry feed. The lactose of WPC might promote broiler performance by stimulating the growth of beneficial cecal bacteria. The benefits of the
+
+inclusion of WPC on the performance and protein ileal digestibility of broiler diets have been reported (Szczurek et al., but little is known about its effects on digest- ibility of other nutrients and on cecal microbiota community. We hypothesize that lactose from supplemented DWP and WPC could modulate the cecal microbiota composition toward beneficial bacteria, in detriment of pathogens, therefore enhancing the sanitary status and the productive performance of broilers. In the case of WPC supplementa- tion, we additionally hypothesize that the benefits of lactose on performance could be further potentiated by simulta- neously providing a high nutritional value protein in the diet. Thus, the aim of this study was to evaluate the effect of supplementing broiler diets with DWP as lactose source, and WPC as protein and lactose source, on the productive per- formance, nutrient ileal digestibility and cecal microbial
+community of broiler chickens.
+
+
+Material and methods
+This experiment followed the European Union (2010/63/EU) and Spanish regulations (RD 53/2013) for the care and use of animals for experimental and other scientific purposes.
+
+Animals, housing and experimental diets
+The study was carried out at the experimental farm of Neiker- Tecnalia in Arkaute (Vitoria-Gasteiz, Spain). One-day-old male broiler chicks (Ross 308 strain), with an average body weight of 42 +- 0.99 g, were obtained from a local commer- cial hatchery (AN Avicola Melida, S.A, Zumaia, Spain). At arrival, birds were randomly allocated to their floor pens, with stocking density being 30 kg/m2. Pens were equipped with a manual feeder, nipple drinkers, and wood shavings as litter material. Room temperature and lighting program were adjusted following the guidelines for Ross 308.
+Diets were corn-soybean based, and were formulated to meet broilers' requirements during the starter and grower- finisher stages (FEDNA,  Starter diets were offered from day one to 21, and grower-finisher diets were offered from day 22 to 42. Chromium oxide (Cr2O3, 5 g/kg of diet) was added to starter diets as an external indigestible marker. Birds had ad libitum access to one of the following experi- mental diets: control (no supplementation of DWP or WPC), 60-DWP (60 g/kg of inclusion of DWP) and 80-WPC (80 g/kg of inclusion of WPC). Diets with DWP and WPC were for- mulated to provide 42 g/kg of lactose. The ingredient com- position and the analyzed nutritional value of experimental diets are shown in 1. The used DWP was a commercial sweet powder (Sueromancha S.L, Toledo, Spain; 703 g/kg of lactose, 126 g/kg of CP). Renylat 3300 (Industrias Lacteas Asturianas, Spain; 520 g/kg lactose content, 350 g/kg of CP) was used as WPC.
+
+Experimental design, measurements and sampling
+Trial 1: Determination of the nutrient coefficient of apparent ileal digestibility. In this trial, 91 one-day-old chicks were
+
+
+Table 1 Ingredients and chemical composition of the experimental diets (trials 1 and 2)
+Starter period (1 to 21 days)	Grower-finisher period (22 to 42 days)
+
+1Control: no supplementation of dry whey powder or whey protein concentrate; 60-DWP: 60 g/kg of dry whey powder; 80-WPC: 80 g/kg of whey protein concentrate. 2Providing the following per kg of diet: of diet: 8000 IU vitamin A (trans-retinyl acetate), 1600 IU vitamin D3 (cholecalciferol), 16 mg vitamin E (DL-a-tocopherol), 1 mg thiamine (thiamine-mononitrate), 3 mg riboflavin, 1 mg pyridoxine (pyridoxine HCL), 0.01 mg vitamin B12 (cyanocobalamin), 1 mg vitamin K3 (menadione nicotinamide bisulphite), 16 mg niacin (nicotinic acid), 7 mg pantotenic acid (D-Ca pantothenate), 70 mg Mn (manganese oxide), 50 mg Zn (zinc sulfate), 30 mg Fe (iron sulfate monohydrate), 4 mg Cu (copper sulfate), 1 mg I (calcium iodate), 0.2 mg Co (cobalt sulfate), 0.1 mg Se (sodium selenite), 240 mg choline (choline choride), 300 units phytase, 110 mg ethoxyquin.
+3Calculated value.
+
+randomly allocated to 1.0 x 0.83 m floor pens, which were assigned to one of the three experimental diets formulated for the starter period 1). Each treatment comprised three pens with 10 chickens each. At 21 days of feeding, five chickens per pen were euthanized by CO2 inhalation, and their ileal digesta was collected. Ileum was considered as the portion of the small intestine from the Meckel's diverticulum to the ileocecal junction, and digesta of the last two-thirds of this section was gently collected. Ileal samples from birds within the same pen were pooled, frozen at -20degC and lyophilized. Dried ileal digesta samples were ground to pass through a 0.5 mm screen, and stored in airtight containers at room temperature until chemical analyses. The CAID of dry matter (DM), CP, calcium (Ca) and phosphorus (P) was esti- mated using Cr2O3 as external indigestible marker.
+
+Trial 2: Determination of productive performance and cecal microbial community. In this trial 810 one-day-old chicks were randomly allocated to 1.0 x 2.5 m floor pens, which were assigned to one of the three experimental diets 1) for a period of 42 days. Each treatment comprised nine replicates of 30 chickens each. To determine productive performance, all chickens and feeders from each pen were
+
+weighted weekly. Body weight, average daily gain (ADG), feed intake (FI) and FCR were recorded on a pen basis. Mortality was recorded daily.
+
+Cecal sample collection and DNA extraction. At 42 days, five chickens from each experimental treatment were randomly selected from different pens and euthanized by CO2 inhala- tion. The gastrointestinal tract was dissected, the two caeca were opened longitudinally, and digesta samples were col- lected with a sterile spoon. Samples were immediately stored at -80degC until further analysis. Total nucleic acid was extracted from samples using the PowerSoil DNA extraction Kit (MOBIO Laboratories Inc., Carlsbad, CA, USA) according to the manufacturer recommendations. DNA was quantified in Nanodrop (ND-1000 Spectrophotometer; Nanodrop Techno- logies, Wilmington, DE, USA) and DNA integrity was checked through agarose gel electrophoresis.
+
+16S rRNA amplification, Illumina sequencing and bioinformatics sequence analysis. The V4 hypervariable region of the 16S rRNA gene was used to prepare Illumina amplicon libraries (Caporaso et al., 1). Two PCR were performed to incorporate Illumina adapters and barcodes for sample identification. The PCR
+
+
+
+products were purified using Agencourt AMPure(r)XP kit (Agencourt Bioscience Corporation, Beverly, Massachusetts, USA) according to the manufacturer instructions, and eluted in 20 ul of water. Amplicons were quantified using Qubit fluoro- metric quantitation (Qubit(r) 3.0; Thermo Fisher Scientific Inc., USA), and the Agilent 2100 Bioanalyzer (Agilent Technologies, Santa Clara, CA, USA) in order to pool the samples and sequence them on an Illumina MiSeq platform.
+Illumina reads were analyzed using Mothur Miseq SOP (Kozich et al., Primers and barcodes were trimmed before analysis. All samples comprised 3 912 932 sequence reads, with a mean number of reads per sample of 261 202 +- 62 590. Sequences were aligned using SILVA- based bacterial reference alignment obtained from Mothur. Chimera sequences were checked and removed using UCHIME. A final data set was then clustered into operational taxonomic units (OTUs) at 97% similarity. Operational taxonomic units with <10 reads in one sample were removed from the analysis (<0.0013% of the total). A total of 855 OTUs were taxonomically assigned using the Seqmatch function in Ribosomal Database Project. Sequences are available at the European Nucleotide Archive under the accession number PRJEB17510 in 
+
+Chemical analyses and calculations
+Experimental diets and ileum samples were analyzed in triplicate for DM (method 934.01), total ash (method 942.05), CP (method 990.03), ether extract (method 920.39), according to the Association of Official Analytical Chemists  Measurements of Ca, P and Cr2O3 oxide were determined by spectroscopy plasma atomic emission.
+Calculation of nutrients CAID was made using the following formula:
+CAID of diet component 1/4
+dDiet component = Cr2O3Thd-dDiet component =Cr2O3Thi dDiet component = Cr2O3Thd
+where (Diet component/Cr2O3)d is the ratio of the diet component to the Cr2O3 content in the diet, and (Diet com- ponent/Cr2O3)i is the ratio of the component to Cr2O3 in the ileal digesta.
+
+Statistical analysis
+For analysis of productive performance and nutrient CAID, pen was considered the experimental unit. Performance data were evaluated during the starter (day 1 to 21) and grower- finisher periods (day 22 to 42), as well as for the entire feeding period (day 1 to 42). One-way ANOVA was per- formed considering the experimental diet as the fixed effect, and the pen as the random effect. Performance and CAID were analyzed using a Gaussian distribution, whereas sur- vival data were analyzed considering a binomial distribution. Initial BW was used as a covariate in performance analysis. Data were analyzed using the GLIMMIX procedure of SAS V
+9.3 (SAS Institute Inc., Cary, NC, USA). In case of a significant effect (P < 0.05) multiple comparisons were carried out to
+
+detect differences between treatments using the Tukey's range test.
+For sequencing analysis, relative abundances of the OTUs were analyzed by means of multivariate statistical routines using PRIMER (version 7.0.9, PRIMER-E; Plymouth Marine Laboratory, Plymouth, UK). Data were standardized in rela- tion to their total amount, and a sample similarity matrix was created using Bray-Curtis coefficient. Community structures ordination was explored by hierarchical clustering, and similarity profile permutation test was used to seek for sta- tistically significant clusters. Statistical comparisons of microbial communities between treatments were determined using one-way analysis of similarity (ANOSIM, 999 permu- tations), and significant differences were considered if P < 0.05. Subsets of OTUs summarizing the overall differ- ences in microbial community composition were identified using BEST routine. Individual OTUs contributing to dissim- ilarity between treatments were identified by similarity per- centage analysis, as well as the average of similarity in cecal microbial community composition among birds fed with the same diet.
+
+Results
+Trial 1: Nutrient coefficient of apparent ileal digestibility Results relative to nutrient CAID are shown in 2. An increase on the CAID of Ca was promoted by 60-DWP diet compared to control diet (P = 0.041) while no differences were found between 60-DWP and 80-WPC (P = 0.695) or 80-WPC and control diet (P = 0.119). Chickens fed with 60-DWP and 80-WPC showed an increase in the CAID of P when com- pared with control diet (P < 0.001 and 0.002, respectively), while no differences were found between 60-DWP and 80-WPC (P = 0.406). Feeding birds with experimental diets did not influence the CAID of DM and CP (P = 0.402 and 0.201, respectively).
+
+Trial 2: Performance parameters
+Broilers fed with 60-DWP and 80-WPC diets showed the highest values for growth parameters in the analyzed periods 1). At the end of the starter period, birds fed with
+
+Table 2 Influence of diet supplementation with dry whey powder and whey protein concentrate on nutrient coefficient of apparent ileal digestibility in broilers at 21 day of age
+Treatment1
+
+a,bMeans followed by different superscript in a column indicate differences between treatments (P < 0.05).
+1Control: no supplementation of dry whey powder or whey protein concentrate;
+60-DWP: 60 g/kg of dry whey powder; 80-WPC: 80 g/kg of whey protein concentrate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1 Effect of experimental diets on broiler performance at different feeding periods. Experimental diets: Control: no supplementation of dry whey powder (DWP) or whey protein concentrate 60-DWP: 60 g/kg of dry whey powder 80-WPC: 80 g/kg of whey protein concentrate. Error bars indicate the square error of the mean. Bars not sharing a common letter are significantly different (P < 0.05).
+
+
+
+80-WPC showed higher BW, ADG and FI values when com- pared with the control diet (P < 0.001) and 60-DWP (P < 0.001). The FCR of 80-WPC diet was lower than that of control diet (P = 0.003) and did not differ from that of 60-DWP (P = 0.078). Feeding with 60-DWP promoted an increase in BW and ADG, as well as a reduction in FCR (P < 0.001) when compared with control diet. However, no differences were observed for FI (P = 0.494). Mean mortality values were 1.75%, remaining unaffected by treatments.
+At the end of the grower-finisher period, animals fed with 80-WPC and 60-DWP increased their BW (P < 0.001), ADG (P = 0.048) and FI (P < 0.001) as compared with those fed the control diet, whereas no significant differences were found on FCR (P = 0.793). There were no statistical differ- ences in BW, ADG, FI and FCR between birds fed with 60-DWP and 80-WPC (P > 0.05). Mean mortality values were 1.22% and remained unaffected by treatments.
+For the entire feeding period, birds fed with 60-DWP and 80-WPC showed higher ADG (P = 0.006 and <0.001, respectively) and FI (P < 0.001 and 0.001, respectively) than those fed control diets. A decrease in FCR was observed by feeding with 60-DWP compared with control diet
+
+(P = 0.048), while no difference were found between 80-WPC and control diet (P = 0.096). When comparing 60-DWP and 80-WPC, no differences were detected for ADG (P = 0.061) and FCR (P = 0.974), although FI was lower in 60-DWP (P = 0.005). Mean mortality values were 2.25%, remaining unaffected by treatments.
+
+Microbial community analysis. Bacteroidetes, Firmicutes and Proteobacteria were the most representative phyla in all diets (Supplementary Material Figure S1). Control samples showed 45% of the sequences associated to Bacteroidetes, 40% to Firmicutes and 14% to Proteobacteria. Bacteroidetes and Proteobacteria decreased their abundance in birds fed 60-DWP diets (31% and 6%, respectively) and 80-WPC diets (39% and 5%, respectively), while Firmicutes increased their abundance (63% in 60-DWP and 55% in 80-WPC). A change in the Firmicutes/Bacteroidetes (F/B) ratio was also observed between treatments, being the ratio 0.89 in samples from control diet, 2.03 in 60-DWP and 1.43 in 80-WPC.
+The most abundant families harboring the ceca are shown in Supplementary Material Figure S2. Cecal samples from control diet were mainly colonized by Ruminococcaceae,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2 Composition of bacteria in cecal samples of broilers at genus level. Relative abundance (>1% on average) of genus in response to experimental diets. Control: no supplementation of dry whey powder or whey protein concentrate, 60-DWP: 60 g/kg of dry whey powder, 80-WPC: 80 g/kg of whey protein concentrate.
+
+
+Bacteroidaceae, Porphyromonadaceae and Helicobactera- ceae (24%, 22%, 17% and 10%, respectively), while samples from 60-DWP and 80-WPC diets were represented by Ruminococcaceae (38% and 34%, respectively), Bacter- oidaceae (17% and 27%, respectively), Lachnospiraceae
+(15% and 11%, respectively) and Porphyromonadaceae (10% and 8%, respectively). Bacteroides was the most representative genus in all samples, accounting for 22% of total community in samples from control diet, 17% in 60-DWP, and 27% in 80-WPC  2), followed by Barnesiella and Helicobacter (15% and 10%) in control diet. In 60-DWP and 80-WPC diets Faecalibacterium accounts for 12% of total bacteria, Barnesiella for 9% and 6%, respectively, and Ruminococcus for 6% and 4%, respectively. Exploratory analysis of the microbial community revealed two main clusters that separate the cecal samples of chickens fed with control diet from those fed with 60-DWP and 80-WPC 3). Within each cluster microbial community similarities between 55% and 60% were observed. The average similarity within replicates of cecal samples was
+62% in control diet, 61% in 60-DWP and 56% in 80-WPC.
+Significant differences in the composition of the bacterial community were observed between experimental diets (R = 0.476, P = 0.001; Supplementary Material Table S1). A subset of six OTUs summarizes the overall differences (Supplementary Material Table S2), which are associated to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3 Hierarchical cluster representing relationships among microbial communities of cecal samples from chickens fed with the experimental diets. On y-axis: similarity percentage based on Bray-Curtis matrix, on x-axis: individual samples of cecal digesta. Experimental diets: Control: no supplementation of dry powder whey or whey protein concentrate 60-DWP: 60 g/kg of dry whey powder 80-WPC: 80 g/kg of whey protein concentrate.
+
+Faecalibacterium spp. (OTU 1), Bacteroides spp. (OTU 2), unclassified Porphyromonadaceae (OTU 3), Bacteroides fragilis (OTU 5), Helicobacter pullorum (OTU 7), and Escherichia coli/Shigella flexneri (OTU 9).
+Microbial communities from cecal samples of chickens fed with control diet were different from those of 60-DWP (R = 0.776, P = 0.008). The percentage of dissimilarity was
+
+
+
+51%, mainly due to the decrease in the abundance of OTUs associated to Bacteroides spp. (OTU 2), unclassified Porphyromonadaceae (OTU 3), H. pullorum (OTU 7), Barnesiella intestinihominis (OTU 17) and unclassified Rikenellaceae (OTU 13) in 60-DWP treatment. An increase in the abundance of phylotypes associated to Faecalibacterium spp. (OTU 1), B. fragilis (OTU 5), Bacteroides spp. (OTU 6),
+E. coli/S. flexneri (OTU 9), Megamonas funiformis (OTU 12), Lactobacillus salivarius (OTU 33), Ruminococcus spp. (OTU 4), unclassified Lachnospiraceae (OTU 10), and Phascolarctobac- terium spp. (OTU 11) in 60-DWP treatment also contributed to the dissimilarity between both groups.
+Microbial communities of samples from control diet were significantly different from those from 80-WPC (R = 0.740, P = 0.008). The percentage of dissimilarity was 52%, being this attributed to the decrease in the abundance of OTUs associated to Bacteroides spp. (OTU 2), unclassified Porphyromonadaceae (OTU 3) H. pullorum (OTU 7), unclassified Rikenellaceae (OTU 13) and B. intestinihominis (OTU 17) in 80-WPC samples. In contrast, Faecalibacterium spp. (OTU 1), B. fragilis (OTU 5), Bacteroides spp. (OTU 6),
+E. coli/S. flexneri (OTU 9), unclassified Lachnospiraceae (OTU 10), Phascolarctobacterium spp. (OTU 11),
+M. funiformis (OTU 12) and Subdoligranulum variabile (OTU 22) were more abundant in 80-WPC samples compared with control samples.
+60-DWP and 80-WPC microbial communities did not differ (R = - 0.024, P = 0.508). The most common OTUs in both diets were associated to Bacteroides spp. (OTU 6), E. coli/
+S. flexneri (OTU 9), M. funiformis (OTU 12), Faecalibacterium spp. (OTU 1), unclassified Rikenellaceae (OTU 13), and Phascolarctobacterium spp. (OTU 11).
+
+
+Discussion
+The current study shows that including 60 g/kg of DWP or 80 g/kg of WPC in diets improves broiler growth and feed efficiency, from early growth stages to later ages. These dietary supplementations improve ileal digestibility of calcium and phosphorus, and promote a higher ratio of Firmicutes/Bacteroidetes in ceca. Similarly, Gulsen et al.  showed that adding 38.5 g/kg of DWP as lactose source at starter and grower-finisher diets improved BW, whereas Kermanshahi and Rostami  reported that supplying 40 g/kg of DWP did not affect BW during the starter period, but BW and FCR were improved both during the grower-finisher and the entire feeding periods. Authors attributed the weight increase to a higher absorption of pro- tein and some minerals such as calcium and phosphorous, although they did not present such results. Regarding the use of proteins from whey in broiler diets, Szczurek et al. ( reported an increase in BW, and a reduction of FCR when adding 8 or 32 g/kg of WPC during both the starter and grower-finisher periods. These authors attributed the improved performance to the observed increase in ileal digestibility of protein measured on broilers at 26 days of
+
+age. Digestibility results differ from ours, possibly due to age differences, number of animals sampled, and ingredient and nutrient composition of diets. According to our findings, we consider the improvement of CAID of Ca and P, and the increase in FI as one of the reasons explaining the improved performance of broilers fed with DWP or WPC. Both feed ingredients contain a considerable amount of Ca and P, which led to a reduction in dicalcium phosphate during diet formulation, and to lesser extent in calcium carbonate, with respect to control diet. It is known that mineral organic sources have higher intestinal absorption than inorganic sources (Nollet et al., and that lactose greatly stimu- lates the absorption of Ca and P (Matin et al., which would explain the observed results. The higher Ca and P digestion influences the growth of animals because these minerals promote bone development and mineralization (Proszkowiec-Weglarz and Angel, Similarly, we con- sider that higher Ca and P digestion, together with the observed increase in FI, promotes a higher digestible mineral intake, and in consequence an improvement in growth.
+We also consider that the observed changes in ceca microbiota would enhance broiler performance. Therefore, birds with a higher weight showed a greater F/B ratio. These results are in agreement with Singh et al. (who found that broilers with greater weight exhibited higher F/B ratio in ceca. Representatives of the Firmicutes phylum are known for harvesting energy from diets and transfering calories to the host, with the subsequent weight gain (Turnbaugh et al., Some of the microorganisms belong to the Rumino- coccaceae and Lachnospiraceae families, which were more abundant in broilers with higher weight. Both families break down complex, plant-derived carbohydrates and resistant starch, which are found in diet grains, into saccharides and make them available for microbial fermentation to high- energy metabolites (Biddle et al.,  It was therefore expected that the microorganisms that play an important role in this process were more abundant in birds with higher weight, indicating improved efficiency in extracting energy from the diet.
+Our results also revealed that ceca from those chickens with a higher weight was colonized to a larger extent with bacteria able to ferment lactose, among other carbohydrates, and produce short chain fatty acids (SCFAs) as fermentation products. The abundance of Faecalibacterium, Clostridium XIVa and IV, which are linked to butyric acid production, and Ruminococcus associated to acetic acid production (De Vos et al.,  increased in supplemented diets. Stanley et al. (showed greater abundance of Faecali- bacterium and Ruminococcus in broilers with higher growth, together with a major abundance of B. fragilis in those birds with a better energy metabolism. In our study, B. fragilis (OTU 5), Bacteroides spp. (OTU 6) and M. funiformis (OTU 12), known to produce acetic acid and propionic acid as fermentation product (De Vos et al.,  were also detected in the ceca of chickens fed with supplemented diets. An increase on E. coli/S. flexneri (OTU 9) was noted as well. Torok et al. (showed an increase of E. coli in broilers
+
+
+
+with improved feed effciency. However, to the best of our knowledge no studies have so far reported an association between OTU 6 and OTU 12 and any performance parameter in poultry. Operational taxonomic unit 6 is a common inha- bitant of layer hens' ceca (Prasai et al., and a previous study has reported that Megamonas acts as hydrogen sink in the ceca of broilers, thereby increasing the SCFAs production (Sergeant et al., Ceca colonization by efficient SCFA's- producing microbiota provides extra energy for host meta- bolism (Rinttila and Apajalahti, promoting growth.
+In the present study higher abundance of L. salivarius (OTU 33) was identified in broilers with better FCR results, which were those fed with 60-DWP. The same findings were also reported by Stanley et al. (Lactobacillus salivarius is a lactic-acid-producing bacteria able to ferment lactose (De Vos et al., and it has been used as probiotic in poultry nutrition (Saint-Cyr et al., We hypothesize that these bacteria improved feed efficiency, possibly through the improvement of the sanitary status and gut microbiota balance of broilers. Lactobacillus salivarius produces effective bacteriocins against some potentially pathogenic bacteria, and has the ability to stimulate butyrate producing bacteria, together with the establishment of good microflora balance (Messaoudi et al., 
+Broilers with higher weight showed lower cecal abun- dance of H. pullorum (OTU 7), being this a positive finding because H. pullorum is considered a potential zoonotic pathogen, constituting an important health problem both for poultry and humans. Low abundance of this bacteria reduces the chickens' risk of enteric disease and vibrionic hepatitis (Borges et al., Therefore, productivity is not threa- tened by disease and birds are able to gain weight more efficiently. This bacterial reduction also minimizes the risk of contamination of chicken products for human consumption, thereby reducing the risk of several human digestive pathologies (Borges et al., We hypothesize that the reduction in the abundance of H. pullorum could be related to the observed parallel increase of SCFAs-producing bac- teria, and to the effectiveness of SCFAs as an inhibitor of some harmful bacteria due to their ability to damage pathogen cell walls.
+The current study also showed that inclusion of WPC in diets did not result in improved performance compared with diets supplemented with DWP, despite being both for- mulated with a similar amino acid profile. The reason could lay on the fact that lactose, provided in equal quantities by both diets, promoted a similar mineral digestibility. The microbial community composition is therefore modulated similarly, leading to chickens reaching comparable produc- tive performance results.
+Future work should also include the characterization of different sections of the upper gastrointestinal tract to determine the microbial community modulations that might occur due to the dietary interventions. Also, it would be relevant to investigate the gut bacterial function through metagenomics studies to elucidate the biochemical properties of microbiota, and potential metagenomics
+
+modulation by feeding chickens with different dietary treatments.
+
+Conclusion
+Data presented here indicate that both DWP and WPC are viable ingredients in poultry feeding because they improve chicken growth, ileal digestibility of Ca and P, and modulate the cecal microbiota. Of special interest is the association of a greater abundance of B. fragilis, Bacteroides spp., E. coli/
+S. flexneri and Megamonas furniformis with improved weight, as well as a greater abundance of L. salivarius with better FCR. The reduction of the pathogenic phylotype H. pullorum, linked to higher chicken weight, is especially important since DWP and WPC could improve broiler sanitary status and reduce foodborne pathogen contamination risk.
+
+Acknowledgments
+The authors would like to thank LIFE program of the European Union (LIFE11/ENV/ES/000639, European Commission, Brussels, Belgium) and the Department of Economic Development and Competitiveness (Basque Government, Vitoria-Gasteiz, Spain) for funding this study. The authors also thank the Department of Education, Language Policy and Culture (PRE/2013/1/1077, Basque Government, Vitoria-Gasteiz, Spain) by the scholarship awarded to C. Pineda-Quiroga.
+
+Supplementary material
+To view supplementary material for this article, please visit https://doi.org/10.1017/S1751731117002208
+
+References
+Association of Official Analytical Chemists 2007. Official methods of analysis, 18th edition. AOAC, Gaitherburg, MD, USA.
+Beski SSM, Swick RA and Iji PA 2015. Specialized protein products in broiler chicken nutrition: a review. Animal Nutrition 1, 47-53.
+Biddle A, Stewart L, Blanchard J and Leschine S 2013. Untangling the genetic basis of fibrolytic specialization by Lachnospiraceae and Ruminococcaceae in diverse gut cummunities. Diversity 5, 627-640.
+Bindels LB, Delzenne NM, Cani PD and Walter J 2015. Towards a more com- prehensive concept for prebiotics. Nature Reviews Gastroenterology & Hepatology 12, 303-310.
+Borges V, Santos A, Correia CB, Saraiva M, Menard A, Vieira L, Sampaio DA, Pinheiro M, Gomes JP and Oleastro M 2015. Helicobacter pullorum isolated from fresh chicken meat: antibiotic resistance and genomic traits of an emerging foodborne pathogen. Applied Environmental Microbiology 81, 8155-8163.
+Caporaso JG, Lauber CL, Walters WA, Berg-Lyons D, Lozupone CA, Turnbaugh PJ, Fierer N and Knight R 2011. Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample. Proceedings of the National Academy of Sciences of the United States of America 108, 4516-4522.
+Danzeisen JL, Kim HB, Isaacson RE, Tu ZJ and Johnson TJ 2011. Modulations of the chicken cecal microbiome and metagenome in response to anticoccidial and growth promoter treatment. PLoS One 6, e27949.
+Denbow DM 2000. Gastrointestinal anatomy and physiology. In Sturkie's avian physiology (ed. GC Whittow), pp 299-325. Academic Press, San Diego, CA, USA.
+De Vos P, Garrity GM, Jones D, Krieg NR, Ludwig W, Rainey FA, Schleifer K and Whitman WB 2009. Bergey's manual of systematic bacteriology, the revised road map to the phylum Firmicutes. Springer, New York, USA.
+
+
+
+European Commision Regulation 2003. Council Directive 1831/2003/EC of 22 September 2003 on additives for use in animal nutrition. The Official Journal of the European Union, L 268, 29-43.
+FEDNA 2008. Necesidades nutricionales de pollos de carne. In Necesidades nutricionales para avicultura: Pollos de carne y aves de puesta (ed. R Lazaro and GG Mateos), pp. 15 -25. Fundacion Espanola para el Desarrollo de la Nutricion Animal, Madrid, Espana.
+Gaggia F, Mattarelli P and Biavati B 2010. Probiotics and prebiotics in animal feeding for safe food production. International Journal of Food Microbiology 141, 15-28.
+Gulsen N, Coskun B, Umucalilar HD, Inal F and Boydak M 2002. Effect of lactose and dried whey supplementation on growth performance and histology of the immune system in broilers. Archiv fur Tierernaehrung 56, 131-139.
+Huyghebaert G, Ducatelle R and Van Immerseel F 2011. An update on alter- natives to antimicrobial growth promoters for broilers. The Veterinary Journal 187, 182-188.
+Kermanshahi H and Rostami H 2006. Influence of supplemental dried whey on broiler performance and cecal flora. International Journal of Poultry Science 5, 538-543.
+Kozich JJ, Westcott SL, Baxter NT, Highlander SK and Schloss PD 2013. Devel- opment of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the MiSeq Illumina sequencing platform. Applied and Environmental Microbiology 79, 5112-5120.
+Matin HR, Dashtbin F and Salari J 2013. Absorption and macromineral interac- tions in broiler production: an overview. Global Veternaria 11, 49-54.
+Messaoudi S, Manai M, Kergourlay G, Prevost H, Connil N, Chobert JM and Dousset X 2013. Lactobacillus salivarius: bacteriocin and probiotic activity. Food Microbiology 36, 296-304.
+Nollet L, van der Klis JD, Lensing M and Spring P 2007. The effect of replacing inorganic with organic trace minerals in broiler diets on productive performance and mineral excretion. Journal of Applied Poultry Research 16, 592-597.
+Pineda-Quiroga C, Atxaerandio R, Zubiria I, Gonzalez-Pozuelo I, Hurtado A, Ruiz R and Garcia-Rodriguez A 2017. Productive performance and cecal microbial counts of floor housed laying hens supplemented with dry whey powder alone or combined with Pediococcus acidilactici in the late phase of production. Livestock Science 195, 9-12.
+Prasai TP, Walsh KB, Bhattarai SP, Midmore DJ, Van TT, Moore RJ and Stanley D 2016. Biochar, bentonite and zeolite supplemented feeding of layer chickens alters intestinal microbiota and reduces Campylobacter load. PLoS One 11, e0154061.
+Proszkowiec-Weglarz M and Angel R 2013. Calcium and phosphorus metabo- lism in broilers: effect of homeostatic mechanism on calcium and phosphorus digestibility. Journal of Applied Poultry Research 22, 609-627.
+
+Qaisrani SN, Van Krimpen MM, Kwakkel RP, Verstegen MWA and Hendriks WH 2015. Dietary factors affecting hindgut protein fermentation in broilers: a review. World's Poultry Science Journal 71, 139-160.
+Radfar M and Farhoomand P 2008. The role of probiotic and source of lactose as feed additives on performance and gut improvements in broilers. Asian Journal Animal and Veterinary Advances 3, 179-182.
+Rinttila T and Apajalahti J 2013. Intestinal microbiota and metabolites - impli- cations for broiler chicken health and performance. Journal of Applied Poultry Research 22, 647-658.
+Saint-Cyr MJ, Haddad N, Taminiau B, Poezevara T, Quesne S, Amelot M, Daube G, Chemaly M, Dousset X and Guyard-Nicodeme M 2017. Use of the potential probiotic strain Lactobacillus salivarius SMXD51 to control Campylobacter jejuni in broilers. International Journal of Food Microbiology 247, 9-17.
+Sergeant MJ, Constantinidou C, Cogan TA, Bedford MR, Penn CW and Pallen MJ 2014. Extensive microbial and functional diversity within the chicken cecal microbiome. PLoS One 9, e91941.
+Singh P, Karimi A, Devendra K, Waldroup PW, Cho KK and Kwon YM 2013. Influence of penicillin on microbial diversity of the cecal microbiota in broiler chickens. Poultry Science 92, 272-276.
+Smithers GW 2015. Whey-ing up the options - yesterday, today and tomorrow. International Dairy Journal 48, 2-14.
+Stanley D, Geier MS, Denman SE, Haring VR, Crowley TM, Hughes RJ and Moore RJ 2013. Identification of chicken intestinal microbiota correlated with the efficiency of energy extraction from feed. Veterinary Microbiology 164, 85-92.
+Stanley D, Hughes RJ, Geier MS and Moore RJ 2016. Bacteria within the gastrointestinal tract microbiota correlated with improved growth and feed conversion: challenges presented for the identification of performance enhancing probiotic bacteria. Frontiers of Microbiol 7, 1-13.
+Szczurek W, Szymczyk B, Arczewska-Wlosek A, Jozefiak D and Alloui MN 2013. The effects of dietary whey protein concentrate level on performance, selected intestinal tract and blood parameters, and thiobarbituric acid reactive sub- stances in the liver and breast meat of broiler chickens. Journal of Animal and Feed Sciences 22, 342-353.
+Tellez G, Dean CE, Corrier DE, Deloach JR, Jaeger L and Hargis BM 1993. Effect of dietary lactose on cecal morphology, pH, organic acids, and Salmonella enteritidis organ invasion in Leghorn chicks. Poultry Science 72, 636-642.
+Torok VA, Hughes RJ, Mikkelsen LL, Perez-Maldonado R, Balding K, MacAlpine R, Percy NJ and Ophel-Keller K 2011. Identification and characterization of potential performance-related gut microbiotas in broiler chickens across various feeding trials. Applied and Environmental Microbiology 77, 5868-5878.
+Turnbaugh PJ, Hamady M, Yatsunenko T, Cantarel BL, Duncan A, Ley RE, Sogin ML, Jones WJ, Roe BA, Affourtit JP, Egholm M, Henrissat B, Heath AC, Knight R and Gordon JI 2009. A core gut microbiome in obese and lean twins. Nature 457, 480-484.

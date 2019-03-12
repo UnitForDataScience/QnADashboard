@@ -1,0 +1,1012 @@
+FEMS Microbiology Reviews, fuw040, 41, 2017, 109-130
+
+doi: 10.1093/femsre/fuw040
+Advance Access Publication Date: 13 December 2016 Review Article
+
+
+
+
+
+REVIEW ARTICLE 
+Forest microbiome: diversity, complexity and dynamics
+Petr Baldrian
+Laboratory of Environmental Microbiology, Institute of Microbiology of the CAS, Vi'denV ska'  1083, 14220 Praha 4, Czech Republic
+*Contact: Tel: +420-723-770-570; Fax: +420-241-062-384; E-mail: 
+One sentence summary: Forests are specific ecosystems comprising a multitude of microbial habitats with specific properties, such as foliage, the wood of living trees, the bark surface, ground vegetation, roots and the rhizosphere, litter, soil, deadwood, rock surfaces, invertebrates, wetlands or the atmosphere that are dynamic on a broad temporal scale with ecosystem processes ranging from short-term events over seasonal ones to long-term stand development where fungi, bacteria and other organisms composing the 'forest microbiome' play important roles.
+Editor: Ehud Banin
+
+
+ABSTRACT
+Globally, forests represent highly productive ecosystems that act as carbon sinks where soil organic matter is formed from residuals after biomass decomposition as well as from rhizodeposited carbon. Forests exhibit a high level of spatial heterogeneity and the importance of trees, the dominant primary producers, for their structure and functioning. Fungi, bacteria and archaea inhabit various forest habitats: foliage, the wood of living trees, the bark surface, ground vegetation, roots and the rhizosphere, litter, soil, deadwood, rock surfaces, invertebrates, wetlands or the atmosphere, each of which has its own specific features, such as nutrient availability or temporal dynamicy and specific drivers that affect microbial abundance, the level of dominance of bacteria or fungi as well as the composition of their communities. However, several microorganisms, and in particular fungi, inhabit or even connect multiple habitats, and most ecosystem processes affect multiple habitats. Forests are dynamic on a broad temporal scale with processes ranging from short-term events over seasonal ecosystem dynamics to long-term stand development after disturbances such as fires or insect outbreaks. The understanding of these processes can be only achieved by the exploration of the complex 'ecosystem microbiome' and its functioning using focused, integrative microbiological and ecological research performed across multiple habitats.
+Keywords: forests; microbiome; habitat; ecosystem dynamics; tree physiology; decomposition; microbial interactions; fungi; bacteria
+
+
+
+INTRODUCTION
+With an estimated size of 38 million square kilometres and a to- tal of more than 3 trillions of trees on Earth (Perry, Oren and Hart ; Crowther et al. ; Peh, Corlett and Begeron ), for- est biomes cover much of the terrestrial surface and this makes them globally important. For example, forests act as important carbon sinks, where carbon (C) fixed by primary producers ex- ceeds C loss by respiration by 7%-25% (Malhi, Baldocchi and Jarvis ) but also affect the geochemical cycles of other el-
+
+
+ements and the climate (Perry, Oren and Hart ). Soil organic matter is accumulated as the residual components from the de- composition of litter, deadwood and microbial biomass and the rhizodeposited carbon supplied by photosynthesis are immo- bilised in fungal mycelia growing in soils (Clemmensen et al. ). Organic matter transformation as well as many other pro- cesses depend on the activity of microorganisms, mainly fungi and bacteria. The understanding of these microbe-catalysed processes is critical in maintaining the role of forests in the fu- ture. Forests are subject to multiple modes of disturbance, such
+
+
+
+Received: 29 June 2016; Accepted: 8 October 2016
+QC  FEMS 2016. All rights reserved. For permissions, please e-mail: 
+
+
+
+
+109
+
+110	FEMS Microbiology Reviews, 2017, Vol. 41, No. 2
+
+
+
+
+Invertebrates
+
+Atmosphere
+
+
+
+Foliage
+
+
+
+Rock surface	Bark surface
+
+
+
+Wood
+
+
+
+Deadwood
+
+
+
+
+Litter
+
+
+Ground vegetation
+
+
+
+
+
+Soil
+
+Roots and rhizosphere
+
+
+
+Wetlands
+
+Streams
+
+
+Figure 1. Habitats within the forest ecosystem. The mixed natural forest in the ZV ofi'n Nature Reserve, Central Europe, with no intervention since 1838, demonstrates the diversity of forest habitats. The pictures were captured in the area visible on the photograph.
+
+
+as insect outbreaks, fires or windthrows. They are also signif- icantly threatened by a combination of anthropogenic factors ranging from climate change to environmental pollution and in- appropriate management practices (Gauthier et al. ), which together may easily shift the balance of carbon cycling pro- cesses.
+Thanks to our recent ability to explore microbial commu- nities and their functioning at an unprecedented resolution, there is an increasing appreciation for the need for integrative studies. Not surprisingly, the concept of the human microbiome was among the first to emerge with the aim to address the whole microbiota associated with habitats of the human body (Huttenhower et al. ). In a similar way, other microbiomes have been recently outlined and proposed to be the focus of future research, such as the plant microbiome (Lebeis ) or host hologenomes of any type (Theis et al. ). From a differ- ent viewpoint related to the exploration of the microbiota of in- dividual environmental samples, the Earth Microbiome Project aims to collect and catalogue information on microbial diversity in the environment (Gilbert, Jansson and Knight ). These ap- proaches are important, but are either too narrow to make pre- dictions at the ecosystem level or too broad and overdependent on community description to be able to define and integrate in- formation relevant to microbial roles in ecosystem functioning. Since ecological processes are ecosystem specific and usually af- fect multiple habitats at the same time, they cannot be properly understood without considering their functioning as a whole. The involvement of microorganisms in the ecosystem processes should thus integrate the microbiology of all habitats, and the
+
+term 'ecosystem microbiome' should be introduced that encom- passes the structure and function of microorganisms present in all components of certain ecosystem.
+The aim of this review is to summarise the current under- standing of the microbiology of forests to show that the ecosys- tem microbiome view can substantially increase our under- standing of the role of microbes in individual habitats that often have unique properties (Fig. ) and to define and describe the 'forest microbiome'. Because the bulk of studies in forest micro- bial ecology has focused on temperate and boreal forests, this paper is limited to these biomes. Despite the fact that many ecosystem processes are highly complex and affect multiple habitats, it is at the level of individual habitats that research has so far most progressed. In the future, holistic approaches to the microbiology of ecosystems seem to be inevitable to overcome the present limitations of understanding.
+
+THE FOREST ENVIRONMENT
+Forest biomes have specific features that differentiate them. The most important defining features are the large effects of trees as the dominant primary producers and the spatial hetero- geneity that also partially results from tree dominance (Fig. ). Although forest vegetation typically grows in multiple layers that all contribute to ecosystem processes, the activity of the tree layer largely prevails (Peh, Corlett and Begeron ). An estimated 300-1000 trees ha-1 with a breast height diameter
+>10 cm are present in various forested biomes (Crowther et al.
+) and are typically responsible for >90% of the forest primary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. The forest in the Bohemian Forest National Park, Central Europe, regenerating after a bark beetle outbreak that killed all large trees, repre- sents a highly spatially heterogeneous environment showing specific features of forest ecosystems. As dominant primary producers and suppliers of recal- citrant deadwood and litter material undergoing fungi-dominated decomposi- tion, trees largely determine ecosystem processes. Spatial heterogeneity results from the combination of disturbance and succession/regeneration events lead- ing to the patchy distribution of ground vegetation, and windthrows highly in- crease the heterogeneity of soil profile patterns. The presence of shaded and open spaces underlies the high diversity of microclimatic conditions.
+
+
+production (Perry, Oren and Hart ; Peh, Corlett and Begeron ). As much as 33%-50% of the C fixed by trees is allocated into soil through their roots (Ho" gberg et al. ), while tree lit- ter and deadwood are important sources of recalcitrant organic matter. In general, vegetation, and particularly trees, regulates aboveground-belowground ecosystem interactions (Wardle et al. ).
+The identity of tree species largely determines the forest mi- crobiome. The symbiotic mycorrhizal roots harbour fungal sym- bionts belonging to the ectomycorrhizal (ECM) fungi, ericoid my- corrhizal (ERM) fungi or arbuscular mycorrhizal (AM) fungi, and several ECM taxa show specificity to a single tree species (Lang, Seven and Polle ). Tree identity also significantly affects
+the total microbial activity in soil and litter (SV najdr et al. ;
+Augusto et al. ) as well as the composition of the fungal, bacterial and protist communities in the phyllosphere, litter and bulk soil (Redford et al. ; Prescott and Grayston ; Ur- banova', SV najdr and Baldrian ; Tedersoo et al. ). The ef- fect of trees on the composition of fungal communities is great, and many fungal taxa are specifically associated with certain tree taxa, while the effect on bacteria seems to be weaker and partly  moderated  through  soil  and  litter  chemistry  (Urbanova', SV najdr and Baldrian ). In addition to mycorrhizal symbionts, trees also have species-specific fungal and bacterial endophytes, and saprotrophic taxa are often associated with certain types of  litter  (Prescott  and  Grayston  ;  Urbanova',  SV najdr  and Baldrian ). In soil, the trees most strongly affect their rhizo- spheres, which is a consequence of direct interactions of micro- bial taxa with the roots, as well as the production of tree species- specific root exudates (Augusto et al. ). In bulk soil, microbial communities are affected by both tree diversity and tree iden- tity, but the effects seem to be context dependent and at least partly mediated by tree effects on soil chemistry (Tedersoo et al. ). The tree effects on the microbiota limit our ability to gen- eralise observations from studies obtained in stands of certain composition.
+
+Trees are largely dependent on microbial symbionts pro- viding growth-limiting nutrients such as nitrogen through its mobilisation from organic matter and provision in the min- eral forms that can be used by plants. Mycorrhizal fungi and nitrogen-fixing bacteria are responsible for the delivery of up to 80% of all nitrogen and 75% of phosphorus acquired by plants in temperate and boreal forests (van der Heijden, Bardgett and van Straalen ).
+Due to the multi-layered vegetation of forests, these ecosys- tems are characterised by their high level of spatial heterogene- ity both aboveground and belowground, which is due to the presence of various cohorts of roots and/or wood debris of var- ious sizes, compared with that of most grassland or agricul- tural ecosystems, in which spatial heterogeneity is often re-
+duced through management (Saetre ; SV tursova' and Baldrian
+). Spatial heterogeneity within forests allows for the coex- istence of species and the processes that these species con- duct and exists at various scales, ranging from landscapes to micrometre-sized soil pores (Ettema and Wardle ; Baldrian and VeVtrovsky'  ; Baldrian ).
+The stand-level spatial heterogeneity of soil chemistry and microbial biomass in temperate forests is high, even in even-
+aged forest monocultures with reduced or absent ground veg- etation  (Saetre  and  Ba@ a@ th  ;  Go" mo" ryova'  ;  SV najdr  et  al. ; Baldrian et al. ). Natural, unmanaged forests with
+multi-layered vegetation, an abundance of deadwood and a long history of disturbance show even greater variability in spatial structure (Fig. ). In soil, this variability is a record of historical disturbances of various degrees of severity and frequency, such as tree-throws, uprooting, deadwood decomposition and bark-
+beetle outbreaks (SV amonil et al. ; Valtera et al. ), and re-
+sults in microhabitat heterogeneity with distinct microclimates and the uneven distribution of nutrients within pits and mounds on the forest floor (Schaetzl et al. ; SV amonil, Kra'l and Hort ). Recent processes, including the production of roots of var- ious sizes, their activity and dieback, also largely contribute to soil heterogeneity.
+Spatial heterogeneity of forest topsoils determines the com- position of microbial communities mainly through two sets of drivers. First, soil and litter chemistry, including, most impor- tantly, organic matter content, the pH value, and the contents of N and other nutrients, affect both bacteria and fungi, although  to variable degrees (Fierer and Jackson ; Lauber et al. ; Rousk et al. ). Vegetation composition and activity is the second major driver and is more important for fungal than for bacterial  communities  (Prescott  and  Grayston  ;  Urbanova', SV najdr and Baldrian ; Tedersoo et al. ). The relative ef- fects of these drivers are accompanied by stochastic effects on microbial community assembly (Bahram et al. ), and these all together contribute to the variability of microbiomes within and among forest habitats (SV tursova'  et al. ).
+The spatial heterogeneity of forest soils results in high spa- tial variation in microbial activity (e.g. enzyme activity or res- piration) and microbial biomass content. A sharp vertical gra- dient of decreasing microbial abundance and activity has been
+demonstrated  (SV najdr  et  al.  ).  The  activity  of  extracellular
+enzymes and the abundance of microbial biomass also vary hor- izontally at the centimetre to metre scales and is often elevated in 'activity hotspots' (Baldrian et al. ; Anderson, Genney and Alexander ). In hotspots such as the rhizosphere, the frac- tion of active microorganisms may be 2-20 times higher than in bulk soil, and their specific activities (i.e. respiration, microbial growth, mineralisation potential, enzyme activities, RNA/DNA ratio) are also much higher (Baldrian et al. ; Kuzyakov and
+
+112	FEMS Microbiology Reviews, 2017, Vol. 41, No. 2
+
+
+14deg42'26"E	14deg42'27"E	14deg42'28"E	14deg42'29"E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14deg42'26"E	14deg42'27"E	14deg42'28"E	14deg42'29"E	14deg42'30"E
+
+Figure 3. The locations of living and dead trees in a mixed natural forest in the ZV ofi'n Nature Reserve, Central Europe, show high spatial heterogeneity in the distribution of live trees and deadwood. The map contains the area depicted in Fig. . The circles indicate standing trees with all their associated habitats, foliage, bark, living wood and roots, while symbols indicate tree species (e.g. empty--Fagus sylvatica, full--Picea abies, split--Abies alba). The arrows indicate the deadwood habitat (decomposing tree trunks) at different stages of decay. The rocks are represented by triangles, and the wetlands and streams are indicated in blue (SV amonil et al. ).
+
+
+Blagodatskaya ). Spatial heterogeneity has important impli- cations for ecosystem functioning and complicates stand-level predictions because it is difficult to address experimentally. In- deed, activity hotspots may be responsible for a large proportion of the total ecosystem activity, but the extent of their contribu- tion remains unknown.
+
+FOREST HABITATS
+Forest ecosystems offer a wide range of habitats: the ubiqui- tous soil, litter and atmosphere, habitats associated with forest
+
+trees--foliage, wood, bark, roots and rhizospheres, and several others, such as the ground vegetation, deadwood, invertebrates, wetlands, streams or rocks, which are present in varying pro- portions (Table ). Very often, most or all of the habitats can be found in close proximity within the forest ecosystem (Fig. ). The habitats differ dramatically in size; while the mass of soil is enormous and the surface area of the foliage exceeds the land area of the ecosystem, other habitats may be absent or limited in size. More importantly, habitats differ in properties such as nutrient availability, major environmental conditions, processes and dynamics, which altogether affect microbial abundance and
+
+
+
+
+
+Table 1. Properties of habitats within forest ecosystems. The values are representative of the temperate and boreal forests of the northern hemisphere, which are the most explored.
+Characteristic
+
+
+Habitat	Typical sizea	Carbon sources
+
+Drivers, processes and
+dynamics	Microbial biomass
+
+Fungi/bacteria ratio
+
+(dominant) taxa, groups, ecology
+
+Level of ex-
+p*loration	Selected references
+
+Atmosphere	1 ha ha-1	CO2	Air movement, dispersal, radiation, precipitation, deposition, circadian
+changes in temperature and moisture content, climatic events, windstorms
+
+105-106 bacterial cells
+m-3 and 104-105 fungal spores m-3
+
+Low	Bacteria, fungal spores
+
+
+
+
+
+** 
+
+Bowers et al. ()
+
+
+
+
+
+
+
+
+ecophysiology
+
+
+
+
+
+
+
+
+
+
+
+
+
+by lichen cyanobacteria
+
+*
+
+pathogens	*
+
+** 
+mosses	** 
+
+
+
+
+
+
+
+
+Table 1. (Continued).
+
+
+Habitat	Typical sizea	Carbon sources
+
+
+
+
+Drivers, processes and
+dynamics	Microbial biomass
+
+
+
+
+Fungi/bacteria ratio
+
+
+
+Characteristic (dominant) taxa, groups, ecology
+
+
+
+
+Level of ex-
+p*lo*ration	Selected references
+
+
+
+
+
+
+
+
+predators
+
+**** 
+
+
+
+
+
+
+
+
+
+activity
+
+**** 
+
+
+
+
+
+
+
+
+variation
+
+
+
+
+
+
+
+
+
+
+
+and fungi
+
+*** 
+
+**** 
+
+
+
+
+
+community composition. Until recently, research on the forest microbiome has been highly focused on soil habitats, empha- sising tree roots, their symbionts and on deadwood and litter to some extent, while other habitats have been greatly underex- plored. Yet, there are already the first clues that help us to un- derstand their specific properties shaping their microbiomes, at least in the temperate and boreal forests that are described best (Table ).
+
+Atmosphere
+Atmosphere is largely an environment where microbes are present transiently and represents a medium for dispersal. Mi- crobial biomass content is relatively low (Table ), but trans- port seems to be very efficient; environmental filtering has been demonstrated to be a much more important barrier for fungal establishment than dispersal (Kivlin et al. ). Nevertheless, dispersal and survival of spores decreases rapidly with distance from the source, and their transport is thus most efficient at short ranges (Edman et al. ). This has been shown to be the case in the wood-decomposing fungus Phlebia radiata and sev- eral ECM fungi in which dispersal was largely confined to tens to hundreds of metres (Norros et al. ). The dispersal abil- ity of fungal taxa varies considerably depending on the prop- erties of their spores (Peay et al. ). Although the mass of spores produced seems to be low (2.1 kg ha-1 y-1), the number of propagules produced is extremely high, ranging from 1-14 x 1013 ha-1 y-1, with a mean of 6 x 1013 ha-1 y-1 (Sesartic and Dallafior ). Bacteria recovered from the atmosphere seem to reflect land use type but typically differ from potential source communities in the immediate proximity. This may indicate that long-distance transport occurs. Their abundances ranged from 105 to 106 m-3 in the forests of western USA (Bowers et al. ). Microorganisms in the atmosphere are affected by so- lar radiation and circadian and seasonal variation in tempera- ture and moisture, which apparently favour resistant cells and propagules (Norros et al. ). The dynamics of the atmosphere microbiome is apparently governed by the combination of air movement, spore production and climatic events such as pre- cipitation or windstorms, but remains very little understood.
+
+Foliage
+With the leaf area index above 1, the habitat provided by tree leaves is large in size (Table ): the global estimate of the to- tal area is 108 km2 (Morris and Kinkel ). Foliage (and es- pecially leaf surfaces) represents an environment exposed to multiple stressors, with dynamic changes in solar irradiation, temperature and moisture. Microbes typically exhibit low abun- dance and low diversity, particularly compared to the soil or lit- ter  (SV najdr  et  al.  ;  Bringel  and  Coue'e  ).  Although  the habitat provided by foliage is rich in organic compounds, these nutrients are largely inaccessible to foliar microorganisms. Plant defence mechanisms prevent microbial endophytes from enter- ing cells, and many endophytes and epiphytes survive by scav- enging on quantitatively minor substrates, including volatile organic compounds, or methylated compounds, which are fre- quently utilised in cometabolism (Redford et al. ; Vorholt ; Hardoim et al. ; Lebeis ). Leaf-associated fungi are more abundant than bacteria, but their sources of nutrition are unclear, although several of them are likely able to decom-
+pose plant cell wall biopolymers (ZV ifcVa'kova' et al. ; VorVi'sVkova' and Baldrian ; PersVoh ) and methylotrophic yeasts were also recorded (Peter, Tornai-Lehoczki and Dlauchy ). In Picea
+
+116	FEMS Microbiology Reviews, 2017, Vol. 41, No. 2
+
+
+
+abies, more diverse fungal communities were found in needles with symptoms of disease than in the healthy ones, indicating the enrichment in plant pathogens or decomposers (Millberg, Boberg and Stenlid ).
+The community assembly of the foliar microbiome is af- fected through a range of factors, including the effects of random deposition following atmospheric dispersal, stochastic events and the location within the canopy (Lebeis ). Tem- porary stress events, such as high temperatures or desiccation, likely induce bottlenecks during community development, re- sulting in dynamic changes in communities over time (Penuelas et al. ). Likely as a consequence of differences in stress in- tensity (such as irradiation), fungal communities in leaves dif- fer within the canopy of a single tree, although they include a high proportion of generalists. At the stand level, they respond to phylogenetic relationships among tree species and also to ge- netic distance between trees of the same species (Redford et al. ; Cordier et al. ). Non-fungal eukaryotes are likely of mi- nor importance in tree leaves; in the eukaryotic transcript pool from spruce leaves, fungi showed high level of dominance, es- pecially the members of Dothideomycetes and Leotiomycetes (Delhomme et al. ). Bacteria on Sequoia spp. leaves showed low biomass and low diversity, with the dominance of a few taxa, which are often generalists that are shared across multi- ple biomes (Carrell and Frank ). Recent reports indicate that N2 fixation may be important in this N-limited habitat. This was shown for acetic acid-utilising bacteria that are stable symbionts of Pinus flexilis and may provide 7-14 g N m-2 d-1. (Moyes et al. ).
+Foliage represents a dynamic substrate, with an annual pro- duction ranging within tons of biomass per hectare (Hendricks et al. ). Importantly, while evergreen foliage remains active at all times, deciduous trees produce their leaves after winter and shed them in late autumn. This makes the microbiomes of deciduous trees much more dynamic (PersVoh ). Indeed, development follows plant phenology; community structure clearly depends on leaf age and shows rapid turnover (Redford and Fierer ; Penuelas et al. ; Lebeis ).
+
+The bark surface
+As a protective tissue, tree bark is composed of compounds recalcitrant to microbial decomposition, such as suberin, and is impregnated with resins that inhibit microbial growth. In- stead of these recalcitrant compounds, CO2 is an important C source for algae and cyanobacteria, both free-living and lichen symbionts. Fungi form relatively rich communities on bark, pri- marily comprising lichens, but yeasts have also been reported (Bhadra et al. ; Beck, Persoh and Rambold ). Temporal variation in the fungal community composition on tree bark has been observed in a temperate forest (Beck, Persoh and Rambold ), but it remains unclear whether community development has a seasonal pattern or is rather stochastic.
+Lichens were recently demonstrated to be complex symbi- otic associations of fungi, CO2- and N2-fixing bacteria but they also other bacterial associates. Bacterial communities in lichens have been identified to be stable, specific and structurally in- tegrated partners of the symbiosis, including taxa that are en- dosymbiotic to fungi. More than 800 bacterial species are able to contribute multiple aspects to the symbiotic system, includ- ing essential functions such as the supply of nutrients, espe- cially nitrogen, phosphorous and sulphur, the support of fungal and algal growth by the provision of hormones, and the degra- dation of older lichen thalli (Grube et al. ). Importantly, N2
+
+
+fixation by lichen-associated cyanobacteria may be important at the ecosystem level in the boreal zone (Rousk et al. ). Bacte- ria have also been documented to colonise symbiotic propagules of lichens developed for transmission so that fungal, cyanobac- terial and bacterial partners are cotransported during dispersal. Due to the large size of such propagules, transmission occurs at rather short distances (Aschenbrenner et al. ).
+
+Wood of living trees
+The woody biomass of living trees represents a large re- source in forest ecosystems that is rich in potential nutrients (Table ). However, because stem infections might be fatal, trees efficiently protect themselves against the entry of microbes, and the microbial biomass in healthy trees is therefore low. Be- cause of their filamentous growth, fungi are better adapted to wood penetration and seem to dominate this niche (Rayner and Boddy ; de Boer et al. ). Diverse fungal communities in P. sylvestris wood included potential endophyte and parasite species (Giordano et al. ), as well as potential saprotrophs that typically grow on deadwood (Parfitt et al. ). Fungi also dominate the eukaryotic transcript pool in spruce shoots (Del- homme et al. ). Knowledge regarding bacterial wood endo- phytes is generally lacking, and the wood of healthy trees re- mains one of the least explored forest habitats.
+
+Ground vegetation
+Forests (or forest patches) with sufficient light penetration typ- ically support the growth of ground vegetation of variable com- positions and biomass, which is dependent on  the  combina- tion of factors that include dominant trees in the canopy, fer- tility, light penetration and moisture (Perry, Oren and Hart ; Sterkenburg et al. ; Urbanova', SV najdr and Baldrian ). Al- though the biomass of ground vegetation varies considerably, its mass and net primary production contribute typically <20% of the total net primary production in the ecosystem (Malhi, Bal- docchi and Jarvis ; Sabo et al. ; Peh, Corlett and Begeron ). The niches associated with ground vegetation are diverse, as is typical for the plant holobiont and similar to the corre- sponding habitats associated with trees (Vorholt ; Hardoim et al. ; Lebeis ). The roots of ground vegetation mostly form symbioses with AM or ERM fungi (O" pik et al. ; Clem- mensen et al. ), which frequently coexist in soils with the ECM tree symbionts. Mosses harbour other fungal communities dominated by saprotrophic Ascomycota (Davey et al. ). In contrast to those of trees, the composition of microbiomes of forest plants on the ground remain largely unexplored.
+As in trees, the activity of ground vegetation is typically sea- sonally variable and depends on the temperature and precipita- tion regime. In addition, the ground vegetation composition of deciduous forests changes during the year with the change of light penetration and different cohorts of plants are present be- fore tree leaf emergence and during the shady summer. Vegeta- tion development is also highly dependent on the successional age of forests, with very young and very old stands harbouring more plants (Wallander et al. ; Clemmensen et al. ). The seasonality of ground vegetation activity obviously contributes to the seasonality of associated microbial communities (Davey et al. ). In annual plants, symbiotic and endophytic taxa are expected to be replaced by saprotrophs after the senescence and dieback of their plant hosts. It should be noted that due to the limited contribution of the ground vegetation to total photosyn- thetic production in comparison to trees, the size of its effect on
+
+
+
+
+forest microbiota is likely limited. For example, AM and ERM taxa contributed only marginally to the transcription of ribosomal RNA in a Pi. abies forest (Baldrian et al. ). Still, within mono- cultures of P. contorta, specific microbial community and chemi- cal similarities were detected in soils covered by similar under- ground vegetation (McIntosh, Macdonald and Quideau ).
+
+Streams and lakes
+Streams and lakes represent largely specific habitats (Table ), that are, however, due to high inputs of allochthonous biomass, such as plant litter and soil organic matter, largely connected to other forest habitats as well as wetlands with stagnant wa- ter. In addition to allochthonous material, primary produc- tion represents another source of C in these aquatic ecosys- tems to a varying extent. Decomposition of litter in streams  is rapid and decomposing litter is mainly colonised by spe- cific aquatic hyphomycetes. In litter, fungal biomass exceeds that of bacteria more than 20-fold (Hieber and Gessner ). In the water, bacterial abundance is typically low, with 106-108 cells ml-1, and characterised by high relative abundances of Actinobacteria, Bacteroidetes and Proteobacteria (Newton et al. ). Fungal communities in aquatic ecosystems are domi- nated by Ascomycetous hyphomycetes and zoosporic fungi such as Chytridiomycetes (Ba" rlocher and Boddy ). Specific bacte- rial communities rich in oligotrophic taxa were reported from submerged decomposing wood (Zaichikova, Berestovskaya and Vasil'eva ) and immersed litter; the latter substrate har- bours mostly Proteobacteria, Bacteroidetes and Verrucomicro- bia, and the bacterial community changes profoundly as decay progresses (Newman, Liles and Feminella ; Wymore et al. ). The environment is typified by spatial gradients in oxygen availability, the process of sedimentation and the formation of biofilms on litter or other surfaces, and is largely different from terrestrial conditions (Ba" rlocher and Boddy ). Hypoxic con- ditions and droughts lower diversity and activity (Ba" rlocher and Boddy ). The dynamics of productivity is driven by variation in primary production (affected by temperature and light con- ditions) and the largely variable inputs of allochthonous mate- rial, such as during the litterfall period in autumn or the spring snowmelts that bring soil organic matter.
+
+Wetlands
+Forested wetlands represent a specific habitat for multiple rea- sons. The organic matter content of such ecosystems is typi- cally high and has a specific composition, such as the bodies of the Sphagnum mosses. Due to limited oxygen solubility in water, decomposition is slowed and stratified vertical profiles develop (Table ). The deep, anoxic parts of the profile may be the source of methane production by methanogens, while the upper lay- ers harbour methanotrophs and aerobic decomposers (Schmidt et al. ).
+With 108-109 bacterial cells per ml of peat extract,  wet- lands harbour fewer bacteria  than  soils, but  more  than  lakes or streams. Dominant bacterial taxa are typically Acidobacte- ria, Proteobacteria and Actinobacteria, but Verrucomicrobia and Planctomycetes are also common (Serkebaeva et al. ). The abundance of fungi is typically very low due to the absence      of root symbionts (Pankratov et al. ) and is largely unex- plored. Euryarcheota may represent >7% of the total microbial abundance in wetlands compared to a typical representation of
+<2% in soils (Bragina, Berg and Berg ). A low level of plant- host specificity among bog bacteria has been reported, and most
+
+of the core taxa were associated with the dominant Sphagnum mosses (Bragina, Berg and Berg ). Although the majority of the Sphagnum microbiome remains uncultured and its metabolic capabilities uncharacterised, prokaryotes and fungi have the po- tential to act as mutualists, symbionts or antagonists of Sphag- num. For example, methanotrophic and N2-fixing bacteria, most frequently Alphaproteobacteria and Cyanobacteria, may bene- fit their plant hosts (Sphagnum spp. or other mosses) by pro- viding up to 20%-30% of their carbon and nitrogen. Nitrogen fixation appears to be quantitatively important in forest wet- lands (Leppa" nen et al. ; Leppa" nen, Rissanen and Tiirola ; Kostka et al. ).
+Changes in the water table level that change oxygen avail- ability along the vertical profile represent one of the most im- portant factors in microbial C cycling (Laiho ). In terms of immediate short-term changes, such as during the summer drought, decomposition is boosted by a decrease in the water table. If the effect is long term, complex processes follow that involve changes in vegetation cover, litter amount and quality, and decomposition (Strakova'  et al. ), all of which obviously largely affect microbial communities.
+
+Roots and the rhizosphere
+Plant nutrient exchange with the soil environment is mediated through plant root tissues, ECM or AM roots, rhizospheres and fungal mycelia extending from the roots and rhizospheres into the bulk soil. At the level of fine roots, ECM tips represent symbi- otic organs combining the structures of tree hosts and their fun- gal associates. Roots and rhizospheres clearly represent a large and unique habitat (Table ), highly specific and rich in microbial abundance and activity (Lebeis ).
+Microbial communities in this habitat clearly differ from those in the bulk soil, most obviously due to the presence of root- symbiotic mycorrhizal fungi (Prescott and Grayston ). This is thought to be the result of the release of a diverse array of exudates originating both from the roots and from mycorrhizal fungi. The exudates are comprised of carbohydrates, amino acids, low molecular mass aliphatic and aromatic acids, fatty acids, enzymes and hormones (Prescott and Grayston ). The current understanding of the rhizosphere microbiota in forests is unfortunately largely limited to ECM fungi. ECM root tips sup- port specific and diverse populations of bacteria and microfungi, including bacteria that help to establish mycorrhizal symbioses (Garbaye ; Frey-Klett, Garbaye and Tarkka ; Toljander et al. ). In addition, tree roots also harbour a phenotypically defined group of dark septate endophytes with an unclear ecol- ogy  (Ahlich  and  Sieber  ;  LukesVova'  et  al.  )  and  wood- decomposing fungi (Vasiliauskas et al. ). Rhizosphere com- munities of bacteria show higher cell counts than those of bulk soils, a specific enrichment of certain bacterial phyla and a lower abundance of archaea (Uroz et al. ; Karlsson, Johansson and Bengtson ). Experiments with P. contorta suggest that in addition to ECM, trees can also derive their N from bacterial N-fixers living in their rhizosphere (Bal and Chanway ). Symbiotic ECM tree roots represent an important niche where ECM fungi and bacteria interact. This is due to the large sur- face area of root-associated fungal mycelia and the direct access to photosynthetically derived carbon. Bacterial communities are highly dynamic in time, and individual ECM fungi tend to select for specific bacteria (Marupakula, Mahmood and Finlay ).
+The seasonal production of roots and variation in their ac- tivity leads to seasonal differences in root and rhizosphere mi- crobial communities (Ekblad et al. ; Lebeis ). Priority
+
+118	FEMS Microbiology Reviews, 2017, Vol. 41, No. 2
+
+
+effects are important in the ECM fungal colonisation of root tips (Kennedy, Peay and Bruns ), and the communities of ECM fungal symbionts of tree fine roots continue to change with tree age (Wallander et al. ).
+
+Soil
+Soil clearly represents the quantitatively most important habi- tat for soil microbes (Table ), with their activity being fuelled by the decomposition of organic matter and photosynthetically derived C entering the soil through the mycelia of mycorrhizal fungi (Clemmensen et al. ). The most important feature of temperate and boreal forests is the presence of large quan- tities of ECM mycelia that may represent up to one-third of the total microbial biomass and may produce 50% of the dis- solved organic carbon (Ho" gberg and Ho" gberg ; Ekblad et al. ). Mycorrhizae liberate N and P from dead organic mat- ter and transport it to their plant symbionts (Read and Perez- Moreno ) but also form complex networks connecting mul- tiple trees, including both overstorey and understorey members (Ho" gberg et al. ). Although ECM have lost much of their enzy- matic toolkit during evolution from their saprotrophic ancestors (Kohler et al. ), they likely still contribute to organic matter decomposition while mining for organic N (Bo" deker et al. ; Lindahl and Tunlid ). ECM fungal mycelia often form dense mats that have specific properties such as low pH (Kluber et al. ), and ECM mats consequently harbour microbial communi- ties that differ from soils without such mats (Kluber, Smith and Myrold ). In addition to bacteria and fungi, these also in- clude predators such as testate amoebae, collembolans, nema- todes, microarthropods and enchytraeids that substantially af- fect mycelial productivity (Schroter, Wolters and De Ruiter ; Kanters, Anderson and Johnson ). ECM fungi also harbour endobacteria, mainly Alphaproteobacteria (Bertaux et al. ).
+In addition to ECM fungi and their associated organisms, soils also harbour saprotrophic fungi and bacteria. With the de- creasing organic matter content and turnover that occur with
+increasing soil depth (SV najdr et al. ), the microbial commu-
+nity composition also changes (O'Brien et al. ; VorVi'sVkova' et al. ; Lo' pez-Monde'jar et al. ). While saprotrophs are com- mon in the upper parts of the soil profile, mycorrhizal dom- inance  and  the  relative  abundance  of  bacteria  increase  with
+depth (Lindahl et al. ; SV najdr et al. ) and ECM communi-
+ties change in composition (Dickie, Xu and Koide ; Rosling et al. ). Archaea often show low diversity and abundance  in forest soils, increasing with depth (Pesaro and Widmer ; Hartmann et al. ), but some groups, such as the ammonia- oxidising Thaumarchaeota, seem to be important in nitrogen cycling in acidic forest soils with ammonia concentrations too low to support bacterial ammonia oxidisers (He, Hu and Zhang ; Levy-Booth, Prescott and Grayston ); in acidic soils with higher ammonia concentrations, archaea seem to be much less abundant and active (ZV ifcVa'kova'  et al. ). The abundance of yeasts in the bulk soil is low compared to the rhizosphere (Yurkov, Kemler and Begerow ). It should be noted that soil is also highly heterogeneous horizontally, with activity concen- trated into hotspots such as the rhizosphere, the detritusphere and biopores (Baldrian ).
+Bacteria dominate the total transcription in the soil of Pi. abies, followed by fungi, with the contribution of archaea lower than  2%  (Hesse  et  al.  ;  ZV ifcVa'kova'  et  al.  ).  In  temper-
+ate forest soils, fungal sequences dominate in eukaryotic meta- transcriptomes, with protists being the second most active eu- karyotic microbial group (Bailly et al. ; Damon et al. ;
+
+ZV ifcVa'kova'  et  al.  ).  Microbial  activity,  community  composi- tion and abundance are largely variable in time, showing sea-
+sonal responses to the activity of tree roots (VorVi'sVkova' et al. ; Lo' pez-Monde'jar et al. ; ZV ifcVa'kova'  et al. ). This is largely due  to  the  seasonality  of  ECM:  the  relative  abundance  of fun-
+gal transcripts in summer, when ECM are active, was found to be twice as high as in winter (ZV ifcVa'kova'  et al. ). In addition to ECM fungi, other microbial taxa also seem to depend on sea-
+sonal C allocation belowground (Yarwood, Myrold and Hogberg ; VorVi'sVkova'  et al. ; Lo' pez-Monde'jar et al. ) because root-derived carbon can be more readily utilised than recalci- trant organic matter.
+In addition to general seasonal trends, soil activity is highly inconsistent on a shorter timescale, with 'hot moments' such as rainfall, snowmelt, freezing/thawing cycles, animal and root activity greatly affecting microbial activity (Kuzyakov and Blagodatskaya ). Under certain conditions, anoxic mi- crosites may temporarily appear. These are characterised by the dominance of heterotrophic, fermentative bacteria, while fungi are less abundant and are represented by yeasts (Reith, Drake and Kusel ). Damage to roots or mycelia temporarily boosts the activity of r-strategist microorganisms (Lindahl, de Boer and Finlay ).
+
+Litter
+Plant litter, especially the litter of forest trees, is the major source of organic matter accumulation on the forest soil surface (Table  ), which is the driving force behind the establishment  of the soil profile (Berg ). Being composed of plant cell wall biopolymers, litter supports mainly saprotrophic taxa (Lindahl  et al. ) that are able to decompose recalcitrant plant-derived biopolymers. Litter-decomposing saprotrophic basidiomycetes that are physiologically related to white-rot wood-decomposing fungi often act as major litter decomposers together with as- comycetous  microfungi  (Osono  ;  Eichlerova'  et  al.  ).  In the Pi. abies litterlayer, fungi dominate microbial transcripts, with a share of >60%, compared to 30% for bacteria and <2% for archaea  (ZV ifcVa'kova'  et  al.  ).  The  expressed  decomposition- related enzymes in litter are largely of fungal origin (Kellner, Zak and Vandenbol ; Schneider et al. ; ZV ifcVa'kova'  et al. ). Among bacteria, Proteobacteria and Bacteroidetes seem to be enriched in temperate forest litter compared to soil (Lo' pez- Monde'jar et al. ), and multiple litter-inhabiting bacteria are able to accumulate C from decomposing plant biomass (SV tursova' et  al.  ;  Lo' pez-Monde'jar  et  al.  ).  Due  to  the  high  fun- gal biomass in litter, fungal mycelia represent another im- portant source of nutrients in this habitat that is used by a specific functional guild of microorganisms, especially bacteria
+(Brabcova'  et al. ; Tla'skal, VorVi'sVkova'  and Baldrian ). De- composition of mycelia is typically faster than that of plant residues, but depends on their composition, such as the amount of chitin and melanin (Fernandez and Koide ). Fine roots represent another litter source, quantitatively comparable to the aboveground litter, but typically more recalcitrant to decay (Xia, Talhelm and Pregitzer ). The composition of decomposer communities in this substrate, however, remains so far largely unknown.
+The chemical composition of litter changes as its decom- position progresses, and litter of various ages thus offers dif- ferent  nutrients  (SV najdr  et  al.  ).  This  is  reflected  by  differ-
+ences in enzyme activity, as well as in the composition of fungal and  bacterial  communities  associated  with  litter  (SV najdr  et  al. ; VorVi'sVkova'  and Baldrian ; Purahong et al. ; Tla'skal,
+
+
+
+
+VorVi'sVkova'  and Baldrian ). The initial stages of litter decom- position show high fungal/bacterial biomass ratios, and the fun- gal endophytes of leaves are important primary decomposers (VorVi'sVkova'   and  Baldrian  ;  Purahong  et  al.  ).  Later  in the process, litter decomposers are recruited from the soil and the relative abundances of Basidiomycota and bacteria increase (VorVi'sVkova'  and Baldrian ).
+
+Deadwood
+Deadwood represents a specific habitat, whose amount varies largely among different forests (Table ). While the deadwood volume in natural forests can reach up to 1200 m3  ha-1  and    can exceed the biomass of living trees, the stock is typically 2-65 m3 ha-1 in managed forests where wood is  harvested (Hahn and Christensen ; Stokland, Siitonen and Jonsson ). Most deadwood is represented by coarse wood (fallen trees and large branches), fine woody debris typically total only 2-8 t ha-1 (Domke et al. ). Due to its physical and chem- ical properties, such as impermeability, high lignin and low N concentrations, fresh wood is resistant to colonisation by most bacteria (de Boer et al. ). Thus, fungi, particularly sapro- trophic cord-forming basidiomycetes, dominate wood decom- position (Rayner and Boddy ), reflecting the ability of these microorganisms to efficiently colonise and decompose complex organic  matter  (Eichlerova'  et  al.  ).  Decomposing  wood  is strongly influenced by fungi and fungal decomposition machin- ery, which requires an acidic pH. The bacterial community is composed of low pH-tolerant bacteria, combining decomposers, commensalists and likely also mycophages (Folman et al. ; Vala'sVkova'  et  al.  ;  Johnston,  Boddy  and  Weightman  ). Deadwood surfaces represent an important niche for specialised lignicolous lichens (Svensson et al. ).
+Decomposition of coarse wood such as logs or stumps typi- cally takes tens of years to accomplish, and it is characterised by the successive development of fungal communities with an ini- tial dominance of decomposers and an increase of ECM fungi during late decay (Rajala et al. ; Baldrian et al. ). Be- cause several fungal taxa can colonise fresh wood, the assem- bly and development of fungal communities is stochastic. Due to the priority effect, the identity of primary colonisers largely determines the establishment of later-arriving species (Fukami  et al. ; Lindner et al. ; Hiscox et al. ), and dead- wood decomposition can therefore follow very different tracks, such as brown-rot or white-rot decay, that lead to profound dif- ferences in wood chemistry and decomposition rates (Baldrian ; Schilling et al. ; van der Wal, Ottosson and de Boer ). At certain stages of development, wood fungi produce fruiting bodies and spores to ensure dispersal to novel substrates (Ovaskainen et al. ). Climate, soil properties, sun exposure, and deadwood size and type (log, twig, or stump) have been recorded as important determinants of fungal community com- position (Forrester et al. ; Seibold et al. ).
+The composition of the bacterial community also develops with decay, primarily reflecting the increasing N content and changing pH (Hoppe et al. ; Kielak et al. ; Rinta-Kanto et al. ). The initial community assembly appears stochas- tic but becomes more deterministic in later stages, although the changes in community composition are less pronounced than in fungi (Kielak et al. ). Myxomycotan protists that are often associated with deadwood respond to wood pH rather than to the decomposition stage of beechwood (Clissmann et al. ).
+Fresh deadwood is typically N limited, but N content in- creases during decay (Baldrian et al. ). This has been
+
+demonstrated to be the result of N2 fixation by deadwood bac- teria (Wei and Kimmins ; Brunner and Kimmins ), translocation of N by mycelial networks of cord-forming sapro- trophic fungi (Bebber et al. ; Philpott et al. ) and pos- sibly also by mycorrhizal mycelial networks (Rajala et al. ). Nitrogen fixation in deadwood can be significant at the ecosys- tem level, with estimates ranging up to 2.1 kg fixed N ha-1 y-1 (Brunner and Kimmins ).
+
+Rock surfaces
+Rock surfaces, both aboveground and belowground, represent specific habitats in certain forests (Table ). Both fungi and bac- teria contribute to the weathering of mineral surfaces (Hof- fland et al. ; Uroz et al. ). ECM fungi produce organic acids to mobilise mineral nutrients and deliver them to their plant hosts in exchange for carbon (Landeweert et al. ; Gadd ), and mineral weathering by the production of acids and chelators has also been described in bacteria, including those associated with mycorrhizae (Uroz et al. ). Mineral weathering by the ECM fungus Paxillus involutus was found to be fuelled by photosynthate-derived carbon from its Pinus host and to preferentially dissolve minerals that yield important bivalent cations (Schmalenberger et al. ). Aboveground, rock surfaces are habitats for mosses and lichens with their own specific mi- crobiomes and their important involvement in the weathering   of rock in the lichen/rock contact zone mediated by organic acid production (Banfield et al. ; Grube et al. ).
+
+Invertebrates
+All invertebrates have their own microbiomes, ranging from loosely associated taxa over commensalists to symbionts, but only some of these organisms are of importance in ecosystem- level processes (Table ). For example, bark beetles act as vec- tors that spread fungi. The fungi can serve as a nutrient source for larvae, assist  the  insects  by  modifying  the  environment  in a living tree to make it more favourable for the insects or    kill the trees (Stokland, Siitonen and Jonsson ). Blue stain fungi are typically associated with bark beetles contained within myalgia, small cavities with fungal spores containing symbiotic fungi that aid to decompose wood. Less specific fungal asso- ciates (e.g. yeasts, moulds or wood-rotting basidiomycetes) are transmitted more incidentally when attached to body surfaces (Six ). Other invertebrates such as wood-boring beetles or woodwasps have specialist microbial symbionts in their guts that assist them in decomposing lignocellulose. Proteobacteria, Actinobacteria and Bacteroidetes were recorded in the guts of beetles, while the guts of the woodwasps, Sirex sp., which feed on wood, contain Actinobacteria, Proteobacteria and the basid- iomycete Amylostereum (Schloss et al. ; Adams et al. ). Xylophagous beetles contain hindgut microbiomes composed mainly of Bacteroidetes, Firmicutes, Proteobacteria and Acti- nobacteria, which help them to digest wood (Berlanga et al. ). As vectors, insects clearly facilitate the establishment    of wood-decomposing fungi on living as well as dead trees (Persson, Ihrmark and Stenlid ). Also forest soil earthworms were demonstrated to have specific gut microbiota that includes bacterial denitrifiers (Karsten and Drake ).
+Multiple guilds of invertebrates in soil, litter and dead- wood also act as grazers of fungal mycelia. Extensive graz- ing leads to the alteration of fungal enzyme production and community composition and may ultimately affect decompo- sition (Crowther et al. , ). It should be noted that also
+
+120	FEMS Microbiology Reviews, 2017, Vol. 41, No. 2
+
+Leaf endophytes	Mycorrhizal fungi
+
+
+Spore dispersal
+
+
+Fruiting
+
+
+
+
+Endophytic life
+
+
+Dispersal
+
+
+Root colonization
+
+
+Common	networks
+
+
+
+
+Decomposition
+
+
+
+
+
+
+
+Spore
+
+
+
+Tree pathogens
+Dispersal
+
+
+
+
+
+Weathering
+
+
+
+Decomposition
+
+Mycelial cords
+
+production
+
+
+
+Tree dieback
+
+
+
+
+
+
+
+Establishment in living trees
+
+
+
+Nutrient acquisition
+
+
+Search for habitats
+
+
+Figure 4. Connections between the microbiomes of multiple habitats mediated by fungi. Due to their filamentous growth and spore dispersal, fungi are better connectors of habitats than bacteria.
+
+
+vertebrates inhabiting forests possess specific microbiomes and act as vectors spreading microorganisms in the ecosystem.
+
+Habitat connections
+Although forest habitats appear to be distinct in their proper- ties, many microbial taxa inhabit several of them, either subse- quently or at the same time. This appears to be especially com- mon for filamentous fungi that, unlike the unicellular bacteria or yeasts, are able to explore multiple habitats during their search for novel niches, and then connect and exploit them by the translocation of nutrients or water (Boddy and Watkinson ; de Boer et al. ; Guhr et al. ). The lifecycles of fungal foliar endophytes, tree pathogens and mycorrhizal fungi demonstrate how diverse habitats can be connected by fungi (Fig. ).
+Many fungal foliar endophytes are recovered from living tree leaves or needles as asymptomatic inhabitants with limited biomass. However, many of them can actively initiate litter de- composition, as they are able to benefit from their presence  in senescent leaves before the arrival of soilborne saprotrophs
+(Muller et al. ; ZV ifcVa'kova'  et al. ; VorVi'sVkova'  and Baldrian
+; PersVoh ; Szink et al. ). It is proposed that the en- dophytes of leaves that are shed by deciduous trees in autumn
+
+
+persist as saprobes in litter or dead wood over winter, sporulate and then re-invade living leaves, as indicated by their presence in both litter and live leaves (Unterseher, Persoh and Schnittler ). There are indications that some of these endophytes may even spend some part of their lifecycle in the aquatic environ- ment (Selosse, Vohni'k and Chauvet ). Although the mode of re-entry into the foliar structures of their hosts is unknown, spore dispersal via the atmosphere seems to  be  most  likely (Fig. ).
+Saprotrophic fungi can use deadwood as a resource that pro- vides them C and energy to spread in the soil and colonise the next deadwood resources or, in the case of pathogens, the roots of living trees (Rayner and Boddy ; Baldrian ). Wood decay is promoted by the translocation of N and P into this nutrient-poor substrate by the mycelial cords of the fungi (Wells and Boddy ; Bebber et al. ; Philpott et al. ). A suf- ficient nutrient supply allows the fungi to fruit and produce large numbers of spores that are transported by air.  The wood  of trees is typically entered through wounds by mycelia germi- nating from spores, but even the wood of living trees with no symptoms of fungal presence often  contains  several  parasitic or saprotrophic wood-decaying fungal taxa (Fig. ). The pres- ence of saprotrophic fungi in wood tissues may allow them to
+
+
+
+
+rapidly colonise wood when the tree dies or to develop into par- asites when it is stressed (Parfitt et al. ). Wood-decomposing saprotrophic basidiomycetes, such as Phanerochaete velutina or Hypholoma fasciculare, also extend their mycelia into soil and are able to decompose litter during the search for deadwood (Baldrian ). In a similar way, the root pathogen Heterobasid- ion annosum can live as a saprotroph on deadwood in stumps and spread through soil to infect living trees (Piri ). Interestingly, wood-rotting fungi have also been recovered from tree needles (ZV ifcVa'kova'  et al. ).
+ECM fungi inhabit plant roots and the rhizosphere, and most of them extend into the bulk soil, although to a varying ex- tent depending on their mycelial structure, the so-called explo- ration type (Agerer ). They can even utilise organic N in de- composing deadwood or litter (Tedersoo et al. ; Rajala et al. ;  Urbanova',  SV najdr  and  Baldrian  )  and  mine  rock  sur- faces for mineral nutrients to be delivered to their plant hosts (Landeweert et al. ; Schmalenberger et al. ). Mycelia of ECM fungi may connect their host to soil or nutrient patches by their mycelia (e.g. Lindahl et al. ). Forest trees with my- corrhizal roots and ground vegetation may be even connected by ECM fungi with appropriate mycelial morphology into com- mon mycelial networks that link their roots and rhizospheres with the nutrients in soil or weathered rock (Ho" gberg et al. ; Simard et al. ). Such networks appear to be resilient to the random loss of participant trees and to soil water stress, but may depend on large trees or fungal genets that represent hubs (Beiler, Simard and Durall ). Networks transport soil water, nitrogen and phosphorus, and carbon provided by tree primary production (Simard et al. ). For example, C assimilated by mature spruce was shown to be traded over to neighbouring beech, larch and pine trees via overlapping root spheres. Isotope mixing signals indicated that this interspecific, bidirectional transfer, assisted by common ECM networks, accounted for 40% of  the  fine  root  carbon  (Klein,  Siegwolf  and  Ko" rner  ).  Sea-
+sonally, mycorrhizal fungi colonise litter (VorVi'sVkova'  et al. ), produce fruiting bodies on the forest floor and disperse as spores by air movement or depend on invertebrates that disperse their spores from hypogeous fruiting bodies (Fig. ). Mycelial networks of ECM fungi have also been proposed to connect soil and dead- wood and to act in N translocation between these habitats in  one or the other direction (Rajala et al. ; Hoppe et al. ). Mycelial networks also provide the means for communication: for example, the defoliation or budworm infestation of Pseudot- suga menziesii led to the allocation of carbon and stress signals to P. ponderosae seedlings via their ECM connection (Song et al. ).
+In different habitats, ECM fungi have to adapt their physiol- ogy to the habitat properties (Table ), to differentiate function- ally. Theoretically, fungi that grow as root symbionts and bene- fit from the photosynthesis of their hosts in summer should be able to switch to full saprotrophy in winter, when their tree host does not provide sufficient C. However, there are no ECM fungi that assimilate significant amounts of soil or litter C because all of their evolutionary lineages lost the ability to utilise biopoly- mers (Kohler et al. ). Their decomposition abilities vary but are typically confined to mining for N contained in organic mat- ter (Lindahl and Tunlid ; Shah et al. ).
+Almost no information exists regarding habitat sharing in bacteria, but it is highly probable that such sharing also exists where habitats offer similar niches, such as in the litter and soil
+(Baldrian et al. ; Urbanova', SV najdr and Baldrian ). In this
+respect, it should be noted that bacteria may use fungal hyphae or cords to move through the environment (Kohlmeier et al. ;
+
+Warmink et al. ), and fungal networks thus likely promote habitat sharing by bacteria. The above examples indicate that there seems to be a complex network of connections between forest habitats, the importance of which has so far not been fully appreciated, where live or dead trees act as hubs providing carbon.
+
+
+FORESTS AS DYNAMIC ECOSYSTEMS
+Forest ecosystem processes are dynamic at a wide range of tem- poral scales, and the dynamics of processes is habitat specific (Table , Fig. ). For example, the utilisation of root exudates by soil microbes takes minutes to hours, whereas the growth re- sponse and sharp increase in respiration by forest soil microbes following precipitation or disturbance occurs on the scale of a few hours to days (Aanderud et al. ). On the other hand, de- composition of fine roots occurs over the course of months, litter decomposition occurs over the course of years and some coarse woody debris are decomposed only after >50 years. Rock weath- ering occurs over even longer time scales, as well as the effects of uprooting on soil morphology and chemistry (Rajala et al. ; SV najdr et al. ; SV amonil et al. ; Hendricks et al. ).
+Importantly, most ecosystem processes affect multiple habi- tats at the same time, such as those that affect trees, which rep- resent multiple microbial habitats themselves (Fig. ). It is these ecosystem-level processes that cannot be properly understood without considering the whole ecosystem microbiome. They in- clude, for example, temperature or moisture seasonality, distur- bances of various intensity, such as forest fires or insect inva- sions, and stand development after disturbance or as a result of management.
+As mentioned above, the microbial communities of all habi- tats are dynamic and change in composition over time. The tem- poral variability of fungal communities was found to be higher in topsoil compared with lower soil horizons, which can be ex- plained by different levels of environmental heterogeneity or the faster turnover of microbial biomass in the nutrient-rich or- ganic soil horizon (Bahram, Peay and Tedersoo ). While di- urnal fluctuations in microbial activity driven by the photosyn- thetic activity of trees has been rarely addressed and seems to be rather minor due to a time delay between photosynthesis and allocation to roots (Betson et al. ; Ho" gberg et al. ), seasonality in the temperate and boreal zones has been fre- quently addressed and has been demonstrated to be important, as discussed above for individual habitats. Cold and dark win- ters and warm summers with longer photoperiods affect the de- velopment and production of foliage, the activity of tree roots and rhizospheres, the production of mycorrhizal mycelia and, consequently, microbial activity in the roots, rhizospheres, litter and soil, and in the foliage (Kaiser et al. ; Rasche et al. ;
+PersVoh ; ZV ifcVa'kova'  et al. ). In soil, seasonality also likely
+affects competition between ECM and saprotrophic fungi and thus the contribution of these two functional groups to soil or- ganic matter turnover (Fernandez and Kennedy ; Shah et al. ). Seasonality also affects ground vegetation development and activity, input of allochthonous nutrients into streams, pho- tosynthetic production in lakes and changes to the water ta- ble in wetlands. Biochemically, temperature differences affect the decomposition rate through the acceleration of enzymatic processes with temperature (Baldrian et al. ). Some short weather events such as precipitation or snowmelt most likely represent hot moments of activity in certain habitats (Kuzyakov and Blagodatskaya ), e.g. when nutrients, enzymes or even
+
+122	FEMS Microbiology Reviews, 2017, Vol. 41, No. 2
+
+
+
+
+Process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5. Time scales of selected processes occurring in forest ecosystems and the habitats that are affected.
+
+
+microorganisms from litter or soil are transported vertically in the soil profile or washed into the streams and lakes by rain or during snowmelt.
+With much lower frequency and varying probability, forest ecosystems are affected by large-scale disturbances that may re- duce or remove the tree layer. Forest fires differ largely in their severity and thus effects. Large fires may remove much of the soil organic matter and often kill ECM trees. Microbial biomass is reduced by tens of percents (Dooley and Treseder ), but ECM fungi can survive severe fires in the form of propagules, al- though community composition and density can be changed in favour of fire-resistant taxa as shown in the coniferous forest after the California Rim Fire (Glassman et al. ). While for- est fires affect microbiota mainly by heat-induced mortality in the short term, the long-term effects are largely due to altered vegetation cover (Hart et al. ). The fungal community shifts from being ECM dominated before the fire to AM dominated in the early post-fire stages with abundant ground vegetation. Sub- sequently, ECM abundance increases again with accumulating organic matter and tree development (Treseder, Mack and Cross ).
+Insect invasions are the quantitatively most important dis- turbances of forest ecosystems (Peh, Corlett and Begeron ). Both defoliators and bark beetles can kill virtually all mature trees within large areas and represent an excellent example of processes affecting multiple forest habitats (Table ) (Culling-
+ham  et  al.  ;  SV tursova'   et  al.  ).  In  the  case  of  a  bark
+beetle attack killing all spruce trees (SV tursova'  et al. ), tree- associated habitats of foliage and living wood disappear in- stantly. At the same time, rhizodeposition stops, and shed leaves and  dying roots increase the pool of litter in the short term     but result in drastically reduced litter production in the follow- ing years. In the timeframe of a few years, the ground vege- tation develops to form a thick, patchy, highly heterogeneous cover (Fig. ) and the amount of deadwood increases by an or- der of magnitude. Soil experiences changes in chemistry such  as a temporal increase in nitrate and a decrease in organic N content and complex changes in C and N availability over the
+
+mid-term that affect microbial nutrient cycling (KanV a, Tahovska' and Kopa'cVek ; SV tursova' et al. ; KanV a et al. ). Streams and lakes in the affected catchments temporarily change in chemistry, such as in the content of nitrate and base cations (Oulehle et al. ). Stand damage also leads to greater air move- ment, a reduction in mean moisture content and increased des- iccation, especially during hot summer days (Ba" ssler et al. ). At the microbial community level in the litter and soil, distur- bance is followed by a rapid decrease in fungal biomass and a slight decrease in bacterial abundance. Root-symbiotic fungi in litter and soil are replaced by saprotrophs, and later by wood- inhabiting taxa spreading from deadwood, while enzyme activ- ities  drop  as  a  consequence  of  limited  C  input  (SV tursova'  et  al. ). Furthermore, bark beetle-deforested stands are subject to changes in the functional guilds of lignicolous fungi, includ- ing decomposers and lichen symbionts. Due to a higher dead- wood volume, lichenous species with larger and more com- plex growth forms and fungi with large, perennial fruiting bod- ies  are  favoured  and  lichen  diversity  increases  (Ba" ssler  et  al. ). The community of bacteria changes in composition as well, mostly due to changes in nutrient availability and overall chemistry (Mikkelson, Lozupone and Sharp ). The effects of defoliation by leaf-feeding insects have similar effects to bark beetle-induced tree dieback. For example, defoliation caused by birch-feeding moths caused dramatic shifts in the functional and taxonomic community composition of root-associated fungi. Differentially defoliated mountain birch roots harboured distinct communities as a consequence of an increase in soil nutrients and a decreased amount of host trees with green fo- liar mass. ECM abundance and richness declined with increas- ing defoliation intensity, while the proportion of saprotrophic and endophytic fungi increased (Saravesi et al. ). Develop- ment of natural stands that are subject to disturbances may pro- ceed for a long time. Based on a metastudy of temperate and boreal forests, the recovery of diversity after disturbance of old growth forests took an average of 90 years for ECM fungi and 180 years for epiphytic lichens, while the diversity of non-saproxylic insects decreased slowly over time to reach the values of the
+
+
+
+Table 2. Changes in forest habitats following bark beetle-induced tree dieback. Based on Cullingham et al. (), Ba" ssler et al. (), KanV a, Tahovska'  and Kopa'cVek (), KanV a et al. (), Karst et al. (), Mikkelson, Lozupone and Sharp (), Oulehle et al. () and SV tursova' et al. ().
+
+Habitat	Development following insect invasion
+
+Insects	High levels of bark beetle reproduction, dispersal of microbes (especially symbionts), change in insect community with stand desiccation
+Foliage	Rapid defoliation--habitat disappears over a short term
+Living wood	Slow dieback--transition to standing snags (habitat transition into deadwood) Roots/rhizosphere	Slow dieback--input of root litter (habitat disappears over time)
+Litter	One-time accumulation as a result of defoliation, very low input in years following invasion
+Soil	Changes in chemistry over time, replacement of fungal root symbionts by saprotrophs, relative increase in bacteria and change in their community composition
+Bark	Accumulation on forest floor within a few years after tree dieback
+Deadwood	Increase in size as a result of tree dieback, changes in functional guilds of lichens and wood-associated fungi
+Ground vegetation	Change in composition and increase in biomass in response to higher light penetration Streams and lakes	Changes in chemistry due to nutrient leaching and changes in soil base saturation
+
+
+
+climax ecosystem (Spake et al. ). In a boreal forest, soils of young stands (50 years since fire) are dominated by ECM fun- gal mycelia that decompose rapidly, while at later stages (up to 5000 years), the mycelia of stress-tolerant ERM that are difficult to decompose prevail. For this reason, the rates of organic mat- ter decomposition decrease and C accumulation increases with the successional age of the forest (Clemmensen et al. ).
+A similar course of development is typical after the clearcut- ting of tree plantations. Successive development of newly estab- lished stands causes increasing tree biomass and changes in the abundance of ground vegetation. Microbial activity, biomass and community composition, as well as soil invertebrates, respond to this development (Chauvat, Zaitsev and Wolters ). ECM fungi seem to be largely affected, while the effects on bacteria and archaea appear to be more moderate (Jurgensen et al. ;
+Hartmann et al. ; SV tursova' et al. ). Following the clearcut-
+ting of coniferous trees, ECM fungi re-establish rapidly, but their community composition on young seedlings is different from that on mature trees (Jones, Durall and Cairney ). Changes in ECM communities continue with stand development and reach  a peak in biomass at the intermediate stages of stand develop- ment (Wallander et al. ). The ratio of ECM and AM fungi also changes during forest stand development, depending on plant community assembly, climate and edaphic factors (Dickie et al. ).
+
+OPEN QUESTIONS AND FUTURE RESEARCH NEEDS
+Despite the fact that forest microbial ecology research has slowly begun to create an integrated view of forest ecosystem processes mediated by microorganisms and their diversity, it is far from being complete, and our present knowledge suffers from several caveats. On the microbial community level, these include:
+
+the incomplete or biased description of microbial commu- nities
+
+Despite considerable progress, our ability to describe micro- bial community composition is so far incomplete. For exam- ple, the Archaeorhizomycota were only recently demonstrated to be frequent inhabitants of forest soils, and the same may  be the case for other fungi belonging to basal lineages (Rosling et al. ; VeVtrovsky'  et al. ). Their absence in surveys was
+
+likely due to biases in the most frequently used molecular mark- ers  (Ihrmark  et  al.  ;  Baldrian  et  al.  ;  VeVtrovsky'  et  al. ). Even less is known about the communities of protists and viruses, although metagenomic and metatranscriptomic results show that they may be both important and diverse (Vainio et al.
+; ZV ifcVa'kova'  et al. ).
+imbalanced focus on different groups of microorganisms Extensive information exists on ECM fungi in forest soils
+and saprotrophic wood-decomposing taxa in deadwood due to their presumed importance. Far less is known about bacteria in both environments. Still, most recently published studies ad- dress only bacteria or only fungi, and rarely both.
+lack of quantitative abundance data
+
+Current molecular surveys make it simple, although not al- ways reliable, to describe the diversity and composition of mi- crobial communities. Unfortunately, in many papers, a clear def- inition of the explored habitat is missing, as well as an estimate of the relative proportions of certain taxa or functional groups within the ecosystem. The same is true for estimates of micro- bial abundance in terms of biomass or cell counts. Even less complete is our understanding of turnover rates, for example, in the cases of mycorrhizal roots and fungal mycelia (Ekblad et al. ; Brabcova'  et al. ; Fernandez et al. ) or the turnover of bacterial cells (Hungate et al. ).
+difficulty in identifying active microbes and their functions
+Many microbes may be inactive or dormant in the environ- ment (Lennon and Jones ). For example, much of the DNA extracted from decomposing wood likely belongs to inactive taxa that were replaced in succession (Rajala et al. ), and the active (RNA based) and total microbial communities in litter and soil differ, with the former being much more dynamic (Baldrian et al. ; ZV ifcVa'kova'  et al. ). Still, the ability to identify in- dividual communities does not allow us to infer much about ecosystem-level functioning because the ecology of many domi- nant taxa, especially unculturable bacteria and archaea, is com- pletely unknown (Baldrian et al. ). It was recently demon- strated that high-throughput culturing is able to yield isolates    of dominant microorganisms and that their nutritional require- ments and decomposition abilities can be determined in culture (Llado'  et al. ; Lo' pez-Monde'jar et al. ). However, despite
+
+124	FEMS Microbiology Reviews, 2017, Vol. 41, No. 2
+
+
+
+apparent feasibility, these approaches are considered too labo- rious and are therefore rarely used. Studies of microbial expres- sion (Damon et al. ; ZV ifcVa'kova' et al. ) and metaproteomic studies (Schneider et al. ) are so far limited, and their abil- ity to assign functions and taxonomy to sequences is currently inadequate.
+At the ecosystem level, our understanding is limited mainly due to
+
+a highly variable level of exploration of individual habitats and biomes
+
+The uneven level of description of individual habitats is es- timated in Table . For some of them, only a handful of stud- ies are available. The information is highly unbalanced towards temperate and boreal forests, with results from other biomes almost missing, such as in the case of deadwood microbiota (Seibold et al. ).
+an absence of studies focusing on ecosystems as a whole The available data that consider individual habitats are dif-
+ficult to integrate because they come from different study sites and the insufficient data from certain habitats cannot be extrap- olated to the biome level. This is also impossible without proper ecosystem descriptions (Fig. ).
+There is a clear need for intensive studies on stands that consider multiple habitats and the relationships between them, even if such studies are descriptive. As demonstrated above, most ecosystem-level processes affect multiple habitats and all microorganisms present, to a certain extent so that the "ecosys- tem microbiome" concept appears to be more approppriate rather than the limitation of experimental question to a single habitat. With the currently available analytical and molecular tools in hand, integrative surveys have become feasible. The fo- cus on ecosystem-level microbiology should thus represent an important field of future work in microbial ecology.
+
+FUNDING
+This work was supported by the Czech Science Foundation (13- 06763S, 13-27454S), the Ministry of Education, Youth and Sports of the Czech Republic (LD15086), and the research concept of the Institute of Microbiology of the CAS (RVO61388971).
+Conflict of interest. None declared.
+
+REFERENCES
+Aanderud ZT, Jones SE, Fierer N et al. Resuscitation of the rare boisphere contributes to pulses of ecosystem activity. Front Microbiol 2015;6:24.
+Adams AS, Jordan MS, Adams SM et al. Cellulose-degrading bac- teria associated with the invasive woodwasp Sirex noctilio. ISME J 2011;5:1323-31.
+Agerer R. Exploration types of ectomycorrhizae--a proposal to classify ectomycorrhizal mycelial systems according to their patterns of differentiation and putative ecological impor- tance. Mycorrhiza 2001;11:107-14.
+Ahlich K, Sieber TN. The profusion of dark septate endophytic fungi in non-ectomycorrhizal fine roots of forest trees and shrubs. New Phytol 1996;132:259-70.
+Anderson IC, Genney DR, Alexander IJ. Fine-scale diversity and distribution of ectomycorrhizal fungal mycelium in a Scots pine forest. New Phytol 2014;201:1423-30.
+
+
+Aschenbrenner IA, Cardinale M, Berg G et al. Microbial cargo: do bacteria on symbiotic  propagules  reinforce  the  microbiome of lichens? Environ Microbiol 2014;16:3743-52.
+Augusto L, De Schrijver A, Vesterdal L et al. Influences of ever- green gymnosperm and  deciduous  angiosperm  tree  species on the functioning of temperate and boreal forests. Biol Rev 2015;90:444-66.
+Bahram M, Kohout P, Anslan S et al. Stochastic distribution of small soil eukaryotes resulting from high dispersal and drift in a local environment. ISME J 2016;10:885-96.
+Bahram M, Peay KG, Tedersoo L. Local-scale biogeography and spatiotemporal variability in communities of  mycorrhizal fungi. New Phytol 2015;205:1454-63.
+Bailly J, Fraissinet-Tachet L, Verner MC et al. Soil eukaryotic functional diversity, a metatranscriptomic approach. ISME J 2007;1:632-42.
+Bal A, Chanway CP. Evidence of nitrogen fixation in lodgepole pine inoculated with diazotrophic Paenibacillus polymyxa. Botany 2012;90:891-6.
+Baldrian P. Wood-inhabiting ligninolytic basidiomycetes in soils: ecology and constraints for applicability in bioremediation. Fungal Ecol 2008;1:4-12.
+Baldrian P. Distribution of extracellular enzymes in soils: spatial heterogeneity and determining factors at various scales. Soil Sci Soc Am J 2014;78:11-8.
+Baldrian  P,  KolarVik  M,  SV tursova'  M  et  al.  Active  and  total  mi-
+crobial communities in forest  soil  are  largely  different  and highly stratified during decomposition. ISME J 2012;6: 248-58.
+Baldrian P, Merhautova'  V, Cajthaml T et al. Small-scale distribu- tion of extracellular enzymes, fungal, and bacterial biomass in Quercus petraea forest topsoil. Biol Fertil Soils 2010;46: 717-26.
+Baldrian  P,  SV najdr  J,  Merhautova  V  et  al.  Responses  of  the  ex-
+tracellular enzyme activities in hardwood forest to soil tem- perature and seasonality and the potential effects of climate change. Soil Biol Biochem 2013a;56:60-8.
+Baldrian P, VeVtrovsky'  T. Scaling down the analysis of environ- mental processes: monitoring enzyme activity in natural substrates on a millimeter resolution scale. Appl Environ Mi- crob 2012;78:3473-5.
+Baldrian P, VeVtrovsky'  T, Cajthaml T  et al. Estimation of fungal biomass in forest litter and soil. Fungal Ecol 2013b;6:1-11.
+Baldrian P, Zru@ stova'  P, Tla'skal V et al. Fungi associated with de- composing deadwood in a natural beech-dominated forest. Fungal Ecol 2016;23:109-22.
+Banfield JF, Barker WW, Welch SA et al. Biological impact on min- eral dissolution: application of the lichen model to under- standing mineral weathering in the rhizosphere. P Natl Acad  Sci USA 1999;96:3404-11.
+Ba" rlocher F, Boddy L. Aquatic fungal ecology--how does it differ from terrestrial? Fungal Ecol 2016;19:5-13.
+Ba" ssler C, Mu" ller J, Cadotte MW et al. Functional response of lig- nicolous fungal guilds to bark beetle deforestation. Ecol Indic 2016;65:149-60.
+Bebber DP, Watkinson SC, Boddy L et al. Simulated nitrogen de- position affects wood decomposition by cord-forming fungi. Oecologia 2011;167:1177-84.
+Beck A, Persoh D, Rambold G. First evidence for seasonal fluc- tuations in lichen- and bark-colonising fungal communities. Folia Microbiol 2014;59:155-7.
+Beiler KJ, Simard SW, Durall DM. Topology of tree-mycorrhizal fungus interaction networks in xeric and mesic Douglas-fir forests. J Ecol 2015;103:616-28.
+
+
+
+
+Berg B. Litter decomposition and organic matter turnover in northern forest soils. For Ecol Manage 2000;133:13-22.
+Berlanga M, Llorens C, Comas J  et al. Gut bacterial community  of the xylophagous cockroaches Cryptocercus punctulatus and Parasphaeria boleiriana. PLoS One 2016;11:152400.
+Bertaux J, Schmid M, Hutzler P et al. Occurrence and distribution of endobacteria in the plant-associated mycelium of the ec- tomycorrhizal fungus Laccaria bicolor S238N. Environ Microbiol 2005;7:1786-95.
+Betson NR, Gottlicher SG, Hall M et al. No diurnal variation in rate or carbon isotope composition of soil respiration in a boreal forest. Tree Physiol 2007;27:749-56.
+Bhadra B, Rao RS, Singh PK et al. Yeasts and yeast-like fungi associated with tree bark: diversity and identification of yeasts producing extracellular endoxylanases. Curr Microbiol 2008;56:489-94.
+Boddy L, Watkinson SC. Wood decomposition, higher fungi, and their role in nutrient redistribution. Can J Bot 1995;73:S1377- 83.
+Bo" deker ITM, Nygren CMR, Taylor AFS et al. ClassII peroxidase- encoding   genes   are    present    in    a    phylogenetically wide range of ectomycorrhizal fungi. ISME J  2009;3:  1387-95.
+Bowers RM, McLetchie S, Knight R et al. Spatial variability in air- borne bacterial communities across land-use types and their relationship to the bacterial communities of potential source environments. ISME J 2011;5:601-12.
+Brabcova' V, Nova'kova' M, Davidova' A et al. Dead fungal mycelium in forest soil represents a decomposition hotspot and a habitat for a specific microbial community. New Phytol 2016;210:1369-81.
+Bragina A, Berg C, Berg G. The core microbiome bonds the Alpine bog vegetation to a transkingdom metacommunity. Mol Ecol 2015;24:4795-807.
+Bringel F, Coue'e I. Pivotal roles of phyllosphere microorganisms at the interface between plant functioning and atmospheric trace gas dynamics. Front Microbiol 2015;6:14.
+Brunner A, Kimmins JP. Nitrogen fixation in coarse woody debris of Thuja plicata and Tsuga heterophylla forests on northern Vancouver Island. Can J For Res 2003;33:1670-82.
+Carrell AA, Frank C. Bacterial endophyte communities in the foliage of coast redwood and giant sequoia. Front Microbiol 2015;6:1008.
+Chauvat M, Zaitsev AS, Wolters V. Successional changes of Collembola and soil microbiota during forest rotation. Oecolo- gia 2003;137:269-76.
+Clemmensen KE, Bahr A, Ovaskainen O et al. Roots and asso- ciated fungi drive long-term carbon sequestration in boreal forest. Science 2013;339:1615-8.
+Clemmensen KE, Finlay RD, Dahlberg A et al. Carbon seques- tration is related to mycorrhizal fungal community shifts  during long-term succession in boreal forests. New Phytol 2015;205:1525-36.
+Clissmann F, Fiore-Donno AM, Hoppe  B  et  al.  First  insight  into  dead  wood  protistan  diversity:  a  molecular  sam-   pling of bright-spored Myxomycetes (Amoebozoa, slime- moulds) in decaying beech logs. FEMS Microbiol Ecol 2015;91: fiv050.
+Cordier T, Robin C, Capdevielle X et al. Spatial variability of phyl- losphere fungal assemblages: genetic distance predominates over geographic distance in a European beech stand (Fagus sylvatica). Fungal Ecol 2012;5:509-20.
+Crowther TW, Glick HB, Covey KR et al. Mapping tree density at a global scale. Nature 2015;525:201-5.
+
+Crowther TW, Jones TH, Boddy L et al. Invertebrate grazing de- termines enzyme production by basidiomycete fungi. Soil Biol Biochem 2011;43:2060-8.
+Crowther TW, Stanton DWG, Thomas SM et al. Top-down control of soil fungal community  composition  by  a  globally distributed keystone consumer. Ecology 2013;94: 2518-28.
+Cullingham CI, Cooke JEK, Dang S et al. Mountain pine beetle host-range expansion threatens the boreal forest. Mol Ecol 2011;20:2157-71.
+Damon C, Lehembre F, Oger-Desfeux C et al. Metatranscrip- tomics reveals the diversity of genes expressed  by  eukary- otes in forest soils. PLoS One 2012;7:e28967.
+Davey ML, Heegaard E, Halvorsen R et al. Seasonal trends in the biomass and structure of bryophyte-associated fungal communities explored by 454 pyrosequencing. New Phytol 2012;195:844-56.
+de Boer W, Folman LB, Summerbell RC et al. Living in a fungal world: impact of fungi on soil bacterial niche development. FEMS Microbiol Rev 2005;29:795-811.
+Delhomme N, Sundstro" m G, Zamani N et al. Serendipitous meta- transcriptomics: the fungal community of Norway Spruce (Picea abies). PLoS One 2015;10:e0139080.
+Dickie IA, Martinez-Garcia LB, Koele N et al. Mycorrhizas and my- corrhizal fungal communities throughout ecosystem devel- opment. Plant Soil 2013;367:11-39.
+Dickie IA, Xu B, Koide RT. Vertical niche differentiation of ecto- mycorrhizal hyphae in soil as shown by T-RFLP analysis. New Phytol 2002;156:527-35.
+Domke GM, Perry CH, Walters BF et al. Estimating litter carbon stocks on forest land in the United States. Sci Total Environ 2016;557:469-78.
+Dooley SR, Treseder KK. The effect of fire on microbial biomass: a meta-analysis of field studies. Biogeochemistry 2012;109:49- 61.
+Edman M, Gustafsson M, Stenlid J et al. Abundance and viabil- ity of fungal spores along a forestry gradient--responses to habitat loss and isolation? Oikos 2004;104:35-42.
+Eichlerova' I, Homolka L, ZV ifcVa'kova' L et al. Enzymatic systems in-
+volved in decomposition reflects the ecology and taxonomy of saprotrophic fungi. Fungal Ecol 2015;13:10-22.
+Ekblad A, Wallander H, Godbold DL  et  al.  The  production and turnover of extramatrical mycelium of ectomycor-  rhizal fungi in forest soils: role in carbon cycling. Plant Soil 2013;366:1-27.
+Ettema CH, Wardle DA. Spatial soil ecology. Trends Ecol Evol
+2002;17:177-83.
+EUROPE F, UNECE, FAO. State of Europe's Forests 2011: Status and Trends in Sustainable Forest Management in Europe. Oslo: Minis- terial Conference on the Protection of Forests in Europe, 2011. Fernandez CW, Kennedy PG. Revisiting the 'Gadgil effect': do in- terguild fungal interactions control carbon cycling in forest
+soils? New Phytol 2016;209:1382-94.
+Fernandez CW, Koide RT. The role of chitin in the decomposition of ectomycorrhizal fungal litter. Ecology 2012;93:24-8.
+Fernandez CW, Langley JA, Chapman S et al. The decomposi-  tion of ectomycorrhizal fungal necromass. Soil Biol Biochem 2016;93:38-49.
+Fierer N, Jackson RB. The diversity and biogeography of soil bac- terial communities. P Natl Acad Sci USA 2006;103:626-31.
+Folman LB, Gunnewiek P, Boddy L et al. Impact of white-rot fungi on numbers and community composition of bacteria colonizing beech wood from forest soil. FEMS Microbiol Ecol 2008;63:181-91.
+
+126	FEMS Microbiology Reviews, 2017, Vol. 41, No. 2
+
+
+
+Forrester JA, Mladenoff DJ, D'Amato AW et al. Temporal trends and sources of variation in carbon flux from coarse woody debris in experimental forest canopy openings. Oecologia 2015;179:889-900.
+Frey-Klett P, Garbaye J, Tarkka M. The mycorrhiza helper bacteria revisited. New Phytol 2007;176:22-36.
+Fukami T, Dickie IA, Wilkie JP et al. Assembly history dictates ecosystem functioning: evidence from wood decomposer communities. Ecol Lett 2010;13:675-84.
+Gadd  GM.  Geomycology:  biogeochemical   transformations of rocks, minerals, metals and radionuclides by fungi, bioweathering and bioremediation. Mycol Res 2007;111:3-49.
+Garbaye J. Helper bacteria: a new dimension to the mycorrhizal symbiosis. New Phytol 1994;128:197-210.
+Gauthier S, Bernier P, Kuuluvainen T et al. Boreal forest health and global change. Science 2015;349:819-22.
+Gilbert J, Jansson J, Knight R. The Earth Microbiome project: suc- cesses and aspirations. BMC Biol 2014;12:69.
+Giordano L, Gonthier P, Varese GC  et  al.  Mycobiota  inhab-  iting  sapwood  of  healthy  and  declining  Scots  pine  (Pi-  nus sylvestris L.) trees in the Alps. Fungal Divers 2009;38: 69-83.
+Glassman SI, Levine CR, DiRocco AM et al. Ectomycorrhizal fun- gal spore bank recovery after a severe forest fire: some like it hot. ISME J 2016;10:1228-39.
+Go" mo" ryova'  E. Small-scale variation of microbial activities in a forest soil under a beech (Fagus sylvatica L.) stand. Pol J Ecol 2004;52:311-21.
+Grube M, Cernava T, Soh J et al. Exploring functional contexts of symbiotic sustain within lichen-associated bacteria by com- parative omics. ISME J 2015;9:412-24.
+Guhr A, Borken W, Spohn M et al. Redistribution of soil water    by a saprotrophic fungus enhances carbon mineralization. P Natl Acad Sci USA 2015;112:14647-51.
+Hahn K, Christensen M. Dead wood in European forest reserves
+- a reference for forest management. In: Marchetti M (ed.). Monitoring and Indicators of Forest Biodiversity in Europe - From Ideas to Operationality. Joensuu: European Forest Institute, 2005, 181-91.
+Hardoim PR, van Overbeek LS, Berg G et al. The hidden world within plants: ecological and evolutionary considerations for defining functioning of microbial endophytes. Microbiol Mol Biol R 2015;79:293-320.
+Hart SC,  DeLuca  TH,  Newman  GS  et  al.  Post-fire  vegeta-  tive dynamics  as  drivers  of  microbial  community  struc-  ture and function in forest soils. For Ecol Manage 2005;220: 166-84.
+Hartmann M, Lee S, Hallam SJ et al. Bacterial, archaeal and eu-
+
+
+Hiscox J, Savoury M, Muller CT et al. Priority effects during fungal community establishment in beech wood. ISME J 2015;9:2246-60.
+Hoffland E, Kuyper TW, Wallander H et al. The role of fungi in weathering. Front Ecol Environ 2004;2:258-64.
+Ho" gberg    MN,    Ho" gberg    P.    Extramatrical    ectomycorrhizal mycelium contributes one-third of microbial biomass and produces, together with associated roots, half the dissolved organic carbon in a forest soil. New Phytol 2002;154:791-5.
+Ho" gberg P, Ho" gberg MN, Gottlicher SG et al. High temporal reso- lution tracing of photosynthate carbon from the tree canopy    to forest soil microorganisms. New Phytol 2008;177:220-8.
+Ho" gberg  P,  Nordgren  A,  Buchmann  N  et  al.  Large-scale  forest girdling shows that current photosynthesis drives soil res- piration. Nature 2001;411:789-92.
+Ho" gberg P, Plamboeck AH, Taylor AFS et al. Natural C-13 abun- dance reveals trophic status of fungi and host-origin of car- bon in mycorrhizal fungi in mixed forests. P Natl Acad Sci USA 1999;96:8534-9.
+Hoppe B, Kru" ger D, Kahl T et al. A pyrosequencing insight into sprawling bacterial diversity and community dynamics in decaying deadwood logs of Fagus sylvatica and Picea abies. Sci Rep 2015;5:9456.
+Hungate BA, Mau RL, Schwartz E et al. Quantitative microbial ecology through stable isotope probing. Appl Environ Microb 2015;81:7570-81.
+Huttenhower C, Gevers D, Knight R et al. Structure, function and diversity of the healthy human microbiome. Nature 2012;486:207-14.
+Ihrmark K, Bodeker ITM, Cruz-Martinez K et al. New primers     to amplify the fungal ITS2 region - evaluation by 454- sequencing of artificial and natural communities. FEMS Mi- crobiol Ecol 2012;82:666-77.
+Johnston SR, Boddy L, Weightman AJ. Bacteria in decomposing wood and their interactions with wood-decay fungi. FEMS Microbiol Ecol 2016;92:fiw179.
+Jones MD, Durall DM, Cairney JWG. Ectomycorrhizal fungal com- munities in young forest stands regenerating after clearcut logging. New Phytol 2003;157:399-422.
+Jurgensen MF, Harvey AE, Graham RT et al. Impacts of timber harvesting on soil organic matter, nitrogen, productivity, and health of Inland Northwest forests. For Sci 1997;43:234-51.
+Kaiser C, Fuchslueger L, Koranda M et al. Plants control the sea- sonal dynamics of microbial N cycling in a beech forest soil   by belowground C allocation. Ecology 2011;92:1036-51.
+KanV a  J,  Tahovska'  K,  Kopa'cVek  J.  Response  of  soil  chemistry  to forest dieback after bark beetle infestation. Biogeochemistry 2012;113:369-83.
+
+karyal community structures throughout soil horizons of
+
+KanV a  J,  Tahovska'
+
+K,  Kopa'cVek  J  et  al.  Excess  of  organic  car-
+
+harvested and naturally disturbed forest stands. Environ Mi- crobiol 2009;11:3045-62.
+He JZ, Hu HW, Zhang LM. Current insights into the autotrophic thaumarchaeal ammonia oxidation in acidic soils. Soil Biol Biochem 2012;55:146-54.
+Hendricks JJ, Mitchell RJ, Kuehn KA et al. Ectomycorrhizal fun- gal mycelia turnover in a longleaf pine forest. New Phytol 2016;209:1693-704.
+Hesse CN, Mueller RC, Vuyisich M et al. Forest floor commu- nity metatranscriptomes identify fungal and bacterial re- sponses to N deposition in two maple forests. Front Microbiol 2015;6:337.
+Hieber M, Gessner MO. Contribution of stream detrivores, fungi, and bacteria to leaf breakdown based on biomass estimates. Ecology 2002;83:1026-38.
+
+bon in mountain spruce forest soils after bark beetle out- break altered microbial N transformations and mitigated N- saturation. PLoS One 2015;10:e0134165.
+Kanters C, Anderson IC, Johnson D. Chewing up the wood-wide web: selective grazing on ectomycorrhizal fungi by collem- bola. Forests 2015;6:2560-70.
+Karlsson AE, Johansson T, Bengtson P. Archaeal abundance in relation to root and fungal exudation rates. FEMS Microbiol Ecol 2012;80:305-11.
+Karst J, Erbilgin N, Pec GJ et al. Ectomycorrhizal fungi medi-    ate indirect effects of a bark beetle outbreak on secondary chemistry and establishment of pine seedlings. New Phytol 2015;208:904-14.
+Karsten GR, Drake HL. Denitrifying bacteria in the earth-  worm gastrointestinal tract and in vivo emission of nitrous
+
+
+
+
+oxide (N2O) by earthworms. Appl Environ Microb 1997;63: 1878-82.
+Kellner H, Zak DR, Vandenbol M. Fungi unearthed: transcripts encoding lignocellulolytic and chitinolytic enzymes in forest soil. PLoS One 2010;5:e10971.
+Kennedy PG, Peay KG, Bruns TD. Root tip competition among ec- tomycorrhizal fungi: are priority effects a rule or an excep- tion? Ecology 2009;90:2098-107.
+Kielak A,  Scheublin  T,  Mendes  L  et  al.  Bacterial  commu-  nity succession in pine-wood decomposition. Front Microbiol 2016;7:231.
+Kivlin SN, Winston GC, Goulden ML et al. Environmental filtering affects soil fungal community composition more than dis- persal limitation at regional scales. Fungal Ecol 2014;12:14-25. Klein  T,  Siegwolf  RTW,  Ko" rner  C.  Belowground  carbon  trade among tall trees in a temperate forest. Science 2016;352:
+342-4.
+Kluber LA, Smith JE, Myrold DD. Distinctive fungal and bacterial communities are associated with mats formed by ectomyc- orrhizal fungi. Soil Biol Biochem 2011;43:1042-50.
+
+Levy-Booth DJ, Prescott CE, Grayston SJ. Microbial functional genes involved in nitrogen fixation, nitrification and denitri- fication in forest ecosystems. Soil Biol Biochem 2014;75:11-25. Lindahl B, Stenlid J, Olsson S et al. Translocation of P-32 be- tween interacting mycelia of a wood-decomposing  fungus and ectomycorrhizal fungi in microcosm systems. New Phytol
+1999;144:183-93.
+Lindahl BD, de Boer W, Finlay RD. Disruption of root carbon transport into forest humus stimulates fungal opportunists   at the expense of mycorrhizal fungi. ISME J 2010;4:872-81.
+Lindahl BD, Ihrmark K, Boberg J et al. Spatial separation of litter decomposition and mycorrhizal nitrogen uptake in a boreal forest. New Phytol 2007;173:611-20.
+Lindahl BD, Tunlid A. Ectomycorrhizal fungi - potential or- ganic matter decomposers, yet not saprotrophs. New Phytol 2015;205:1443-7.
+Lindner DL, Vasaitis R, Kubartova A et al. Initial fungal colo- nizer affects mass loss and fungal community development in Picea abies logs 6 yr after inoculation. Fungal Ecol 2011;4: 449-60.
+
+Kluber LA, Tinnesand KM, Caldwell BA et al. Ectomycorrhizal
+
+Llado'
+
+S,   ZV ifcVa'kova'
+
+L,   VeVtrovsky'
+
+T et al. Functional screen-
+
+mats alter forest soil biogeochemistry. Soil Biol Biochem
+2010;42:1607-13.
+Kohler A, Kuo A, Nagy LG et al. Convergent losses of decay mech- anisms and rapid turnover of symbiosis genes in mycorrhizal mutualists. Nature Genet 2015;47:410-U176.
+Kohlmeier S, Smits THM, Ford RM et al. Taking the fungal high- way: mobilization of pollutant-degrading bacteria by fungi. Environ Sci Technol 2005;39:4640-6.
+Kostka JE, Weston DJ, Glass JB et al. The Sphagnum micro- biome: new insights from an ancient plant lineage. New Phy- tol 2016;211:57-64.
+Kuzyakov Y, Blagodatskaya E. Microbial hotspots and hot moments in soil: concept and review. Soil Biol Biochem 2015;83:184-99.
+Laiho R. Decomposition in peatlands: reconciling seemingly contrasting results on the impacts of lowered water levels. Soil Biol Biochem 2006;38:2011-24.
+Landeweert R, Hoffland E, Finlay RD et al. Linking plants to rocks: ectomycorrhizal fungi mobilize nutrients from min- erals. Trends Ecol Evol 2001;16:248-54.
+Lang C, Seven J, Polle A. Host preferences and differential contri- butions of deciduous tree species shape mycorrhizal species richness in a mixed Central European forest. Mycorrhiza 2011;21:297-308.
+Lauber CL, Strickland MS, Bradford MA et al. The influence of soil properties on the structure of bacterial and fungal com- munities across land-use types. Soil Biol Biochem 2008;40: 2407-15.
+Lebeis SL. Greater than the sum of their parts: characterizing plant microbiomes at the community-level. Curr Opin Plant Biol 2015;24:82-6.
+Lennon JT, Jones SE. Microbial seed banks: the ecological and evolutionary implications of dormancy. Nat Rev Microbiol 2011;9:119-30.
+Leppa" lammi-Kujansuu  J,  Salemaa  M,  Kleja  DB  et  al.  Fine  root turnover and litter production of Norway spruce in a long- term temperature and nutrient manipulation experiment. Plant Soil 2014;374:73-88.
+Leppa" nen  S,  Rissanen  A,  Tiirola  M.  Nitrogen  fixation  in  Sphag- num mosses is affected by moss species and water table level. Plant Soil 2015;389:185-96.
+Leppa" nen SM, Salemaa M, Smolander A et al. Nitrogen fixation and methanotrophy in forest mosses along a N deposition gradient. Environ Exp Bot 2013;90:62-9.
+
+ing of abundant bacteria from acidic forest soil indicates   the metabolic potential of Acidobacteria subdivision 1 for polysaccharide decomposition. Biol Fert Soils 2016;52:251-60.
+Lo' pez-Monde'jar R, VorVi'sVkova'  J, VeVtrovsky'  T et al. The bacterial community inhabiting temperate deciduous forests is ver- tically stratified and undergoes seasonal dynamics. Soil Biol Biochem 2015;87:43-50.
+Lo' pez-Monde'jar R, Zu" hlke D, Becher D et al. Cellulose and hemi- cellulose decomposition by forest soil bacteria proceeds by the action of structurally variable enzymatic systems. Sci Rep 2016;6:25279.
+LukesVova'  T,  Kohout  P,  VeVtrovsky'  T  et  al.  The  potential  of  dark septate endophytes to form root symbioses with ectomy- corrhizal and ericoid mycorrhizal middle European forest plants. PLoS One 2015;10:e124752.
+McIntosh ACS, Macdonald SE, Quideau SA. Understory plant community composition is associated with fine-scale above- and below-ground resource heterogeneity in mature lodge- pole pine (Pinus contorta) Forests. PLoS One 2016;11:e151436.
+Malhi Y, Baldocchi DD, Jarvis PG. The carbon balance of tropi- cal, temperate and boreal forests. Plant Cell Environ 1999;22: 715-40.
+Marupakula S, Mahmood S, Finlay RD. Analysis of single root tip microbiomes suggests that distinctive bacterial commu- nities are selected by Pinus sylvestris roots colonized by differ- ent ectomycorrhizal fungi. Environ Microbiol 2016;18:1470-83. Mikkelson KM, Lozupone CA, Sharp JO. Altered edaphic parame- ters couple to shifts in terrestrial bacterial community struc- ture associated with insect-induced tree mortality. Soil Biol
+Biochem 2016;95:19-29.
+Millberg H, Boberg J, Stenlid J. Changes in fungal community of Scots pine (Pinus sylvestris) needles along a latitudinal gradi- ent in Sweden. Fungal Ecol 2015;17:126-39.
+Morris CE, Kinkel LL. Fifty years of phyllosphere microbiology: significant contributions to research in related fields. In: Lin- dow SE, Hecht-Poinar EI, Elliott VJ (eds). Phyllosphere Micro- biology. St Paul: American Phytopathological Society, 2002, 365-74.
+Moyes AB, Kueppers LM, Pett-Ridge J et al. Evidence for foliar en- dophytic nitrogen fixation in a widely distributed subalpine conifer. New Phytol 2016;210:657-68.
+Muller MM, Valjakka R, Suokko A et al. Diversity of endophytic fungi of single Norway spruce needles and their role as pio- neer decomposers. Mol Ecol 2001;10:1801-10.
+
+128	FEMS Microbiology Reviews, 2017, Vol. 41, No. 2
+
+
+
+Newman MM, Liles MR, Feminella JW. Litter breakdown and mi- crobial succession on two submerged leaf species in a small forested stream. PLoS One 2015;10:e130801.
+Newton RJ, Jones SE, Eiler A et al. A guide to the natural history of freshwater lake bacteria. Microbiol Mol Biol R 2011;75:14-49. Norros V, Karhu E, Norden J et al. Spore sensitivity to sunlight and freezing can restrict dispersal in wood-decay fungi. Ecol
+Evol 2015;5:3312-26.
+Norros V, Penttila"  R, Suominen M et al. Dispersal may limit the occurrence of specialist wood decay fungi already at small spatial scales. Oikos 2012;121:961-74.
+O'Brien HE, Parrent JL, Jackson JA et al. Fungal community analy- sis by large-scale sequencing of environmental samples. Appl Environ Microb 2005;71:5544-50.
+O" pik M, Moora M, Zobel M et al. High diversity of arbuscular my-
+corrhizal fungi in a boreal herb-rich coniferous forest. New Phytol 2008;179:867-76.
+Osono T. Ecology of ligninolytic fungi associated with leaf litter decomposition. Ecol Res 2007;22:955-74.
+Ostonen I, Lohmus K, Pajuste K. Fine root biomass, production and its proportion of NPP in a fertile middle-aged Norway spruce forest: comparison of soil core and ingrowth core methods. For Ecol Manage 2005;212:264-77.
+Oulehle F, Chuman T, Majer V et al. Chemical recovery of acidi- fied Bohemian lakes between 1984 and 2012: the role of acid deposition and bark beetle induced forest disturbance. Bio- geochemistry 2013;116:83-101.
+Ovaskainen O, Schigel D, Ali-Kovero H et al. Combining high- throughput sequencing with fruit body surveys reveals contrasting life-history strategies in fungi. ISME J 2013;7: 1696-709.
+Pankratov TA, Ivanova AO, Dedysh SN et al. Bacterial populations and environmental factors controlling cellulose degradation in an acidic Sphagnum peat. Environ Microbiol 2011;13:1800-14.
+Parfitt D, Hunt J, Dockrell D et al. Do all trees carry the seeds of their own destruction? PCR reveals numerous wood de- cay fungi latently present in sapwood of a wide range of an- giosperm trees. Fungal Ecol 2010;3:338-46.
+Peay KG, Schubert MG, Nguyen NH et al. Measuring ectomycor- rhizal fungal dispersal: macroecological patterns driven by microscopic propagules. Mol Ecol 2012;21:4122-36.
+Peh KS-H, Corlett RT, Begeron Y. Routledge Handbook of Forest Ecol- ogy. London: Routledge, 2015.
+Penuelas J, Rico L, Ogaya R et al. Summer season and long-term drought increase the richness of bacteria and fungi in the foliar phyllosphere of Quercus ilex in a mixed Mediterranean forest. Plant Biol 2012;14:565-75.
+Perry DA, Oren R, Hart SC. Forest Ecosystems. Baltimore: Johns Hopkins University Press, 2009.
+Persson Y, Ihrmark K, Stenlid J. Do bark beetles facilitate the establishment of rot fungi in Norway spruce? Fungal Ecol 2011;4:262-9.
+PersVoh  D.  Plant-associated  fungal  communities  in  the  light  of meta'omics. Fungal Divers 2015;75:1-25.
+Pesaro M, Widmer F. Identification of novel Crenarchaeota and Euryarchaeota clusters associated with different depth lay- ers of a forest soil. FEMS Microbiol Ecol 2002;42:89-98.
+Peter G, Tornai-Lehoczki J, Dlauchy D. Ogataea nitratoaversa sp nov., a methylotrophic yeast species from temperate forest habitats. Anton Leeuw 2008;94:217-22.
+Philpott TJ, Prescott CE, Chapman WK et al. Nitrogen transloca- tion and accumulation by a cord-forming fungus (Hypholoma fasciculare) into simulated woody debris. For Ecol Manage 2014;315:121-8.
+
+
+Piri T. The spreading of the S type of Heterobasidion annosum from Norway spruce stumps to the subsequent tree stand. Eur J Forest Pathol 1996;26:193-204.
+Prescott CE, Grayston SJ. Tree species influence on microbial communities in litter and soil: Current knowledge and re- search needs. For Ecol Manage 2013;309:19-27.
+Purahong W, Kapturska D, Pecyna MJ et al. Effects of forest man- agement practices in temperate beech forests on bacterial and fungal communities involved in leaf litter degradation. Microb Ecol 2015;69:905-13.
+Rajala T, Peltoniemi M, Hantula J et al. RNA reveals a succession    of active fungi during the decay of Norway spruce logs. Fungal Ecol 2011;4:437-48.
+Rajala T, Peltoniemi M, Pennanen T et al. Fungal community dy- namics in relation to substrate quality of decaying Norway spruce (Picea abies L. Karst.) logs in boreal forests. FEMS Mi- crobiol Ecol 2012;81:494-505.
+Rasche F, Knapp D, Kaiser C et al. Seasonality and resource avail- ability control bacterial and archaeal communities in soils of a temperate beech forest. ISME J 2011;5:389-402.
+Rayner ADM, Boddy L. Fungal Decomposition of Wood: Its Biology and Ecology. Chichester, NY: Wiley, 1988.
+Read  DJ,  Perez-Moreno  J.  Mycorrhizas  and  nutrient  cycling  in ecosystems--a journey towards relevance? New Phytol 2003;157:475-92.
+Redford AJ, Bowers RM, Knight R et al. The ecology of the phyllosphere:  geographic  and  phylogenetic  variability  in  the distribution of bacteria on tree leaves. Environ Microbiol 2010;12:2885-93.
+Redford AJ, Fierer N. Bacterial succession on the leaf surface: a novel system for studying successional dynamics. Microb Ecol 2009;58:189-98.
+Reith F, Drake HL, Kusel K. Anaerobic activities of bacteria and fungi in moderately acidic conifer and deciduous leaf litter. FEMS Microbiol Ecol 2002;41:27-35.
+Rinta-Kanto JM, Sinkko H, Rajala T et al. Natural decay pro-   cess affects the abundance and community structure of Bac- teria and Archaea in Picea abies logs. FEMS Microbiol Ecol 2016;92:fiw087.
+Rosling A, Cox F, Cruz-Martinez K et al. Archaeorhizomycetes: unearthing an ancient class of ubiquitous soil fungi. Science 2011;333:876-9.
+Rosling A, Landeweert R, Lindahl BD et al. Vertical distribution of ectomycorrhizal fungal taxa in a podzol soil profile. New Phytol 2003;159:775-83.
+Rousk  J,  Ba@ a@ th  E,  Brookes  PC  et  al.  Soil  bacterial  and  fungal communities across a pH gradient in an arable soil. ISME J 2010;4:1340-51.
+Rousk K, Sorensen PL, Lett S et al. Across-habitat comparison of diazotroph activity in the subarctic. Microb Ecol 2015;69:778- 87.
+Sabo KE, Hart SC, Sieg CH et al. Tradeoffs in overstory and under- story aboveground net primary productivity in southwestern ponderosa pine stands. Forest Sci 2008;54:408-16.
+Saetre P. Spatial patterns of ground vegetation, soil microbial biomass and activity in a mixed spruce-birch stand. Ecogra- phy 1999;22:183-92.
+Saetre P, Ba@ a@ th E. Spatial variation and patterns of soil microbial community structure in a mixed spruce-birch stand. Soil Biol Biochem 2000;32:909-17.
+SV amonil P, DolezVelova'  P, VasVi'cVkova'  I et al. Individual-based ap-
+proach to the detection of disturbance history through spa- tial scales in a natural beech-dominated forest. J Veg Sci 2013a;24:1167-84.
+
+
+
+
+SV amonil P, Kra'l K, Hort L. The role of tree uprooting in soil for- mation: a critical literature review. Geoderma 2010;157:65-79.
+SV amonil  P,  Schaetzl  RJ,  Valtera  M  et  al.  Crossdating  of  distur-
+bances by tree uprooting: can treethrow microtopography persist for 6000 years? For Ecol Manage 2013b;307:123-35.
+SV amonil P, Valtera M, Bek S et al. Soil variability through spatial
+scales in a permanently disturbed natural spruce-fir-beech forest. Euro J Forest Res 2011;130:1075-91.
+Saravesi K, Aikio S, Wali PR et al. Moth outbreaks alter root- associated fungal communities in subarctic mountain birch forests. Microb Ecol 2015;69:788-97.
+Seibold  S,  Ba" ssler  C,  Brandl  R  et  al.  Experimental  studies  of dead-wood biodiversity--a review identifying global gaps in knowledge. Biol Conserv 2015;191:139-49.
+Selosse M-A, Vohni'k M, Chauvet E. Out of the  rivers:  are some aquatic hyphomycetes plant endophytes? New Phytol 2008;178:3-7.
+Serkebaeva YM, Kim Y, Liesack W et al. Pyrosequencing-based assessment of the bacteria diversity in surface and sub- surface peat layers of a Northern Wetland, with focus on poorly studied phyla and candidate divisions. PLoS One 2013;8:e63994.
+Sesartic A, Dallafior TN. Global fungal spore emissions, review and synthesis of literature data. Biogeosciences 2011;8:1181- 92.
+Shah F, Nicolas C, Bentzer J et al. Ectomycorrhizal fungi decompose soil organic  matter  using  oxidative  mecha-  nisms adapted from saprotrophic ancestors. New Phytol 2016;209:1705-19.
+Schaetzl RJ, Burns SF, Johnson DL et al. Tree uprooting--review of impacts on forest ecology. Vegetatio 1989;79:165-76.
+Schilling JS, Kaffenberger JT, Liew FJ et al. Signature wood mod- ifications reveal decomposer community history. PLoS One 2015;10:e120679.
+Schloss PD, Delalibera I, Handelsman J et al.  Bacteria  associ- ated with the guts of two wood-boring beetles: Anoplophora glabripennis and Saperda vestita (Cerambycidae). Environ Ento- mol 2006;35:625-9.
+Schmalenberger A, Duran AL, Bray AW  et  al.  Oxalate  secre- tion by ectomycorrhizal Paxillus involutus is mineral-specific and controls calcium weathering from minerals. Sci Rep 2015;5:12187.
+Schmidt O, Horn MA, Kolb S et al. Temperature impacts dif- ferentially on the methanogenic food web of cellulose- supplemented peatland soil. Environ Microbiol 2015;17:720- 34.
+Schneider T, Keiblinger KM, Schmid E et al. Who  is  who  in litter decomposition? Metaproteomics reveals major  mi- crobial players and their biogeochemical functions. ISME J 2012;6:1749-62.
+Schroter D, Wolters V, De Ruiter PC. C and N mineralisation in the decomposer food webs of a European forest transect. Oikos 2003;102:294-308.
+Simard SW, Beiler KJ, Bingham MA et al. Mycorrhizal net- works: mechanisms, ecology and modelling. Fungal Biol Rev 2012;26:39-60.
+Six DL. A comparison of mycangial and phoretic fungi of individual mountain pine beetles. Can J For Res 2003;33: 1331-4.
+SV najdr J, Cajthaml T, Vala'sVkova'  V et al. Transformation of Quer-
+cus petraea litter: successive changes in litter chemistry are reflected in differential enzyme activity  and  changes  in  the microbial community composition. FEMS Microbiol Ecol 2011;75:291-303.
+
+SV najdr  J,  Dobia'sVova'   P,  Urbanova'   M  et  al.  Dominant  trees  af- fect microbial community composition and activity in post- mining afforested soils. Soil Biol Biochem 2013;56:105-15.
+SV najdr J, Vala'sVkova'  V, Merhautova'  V et al. Spatial variability of
+enzyme activities and microbial biomass in the upper layers of Quercus petraea forest soil. Soil Biol Biochem 2008;40:2068-75. Song YY, Simard SW, Carroll A et al. Defoliation of interior Douglas-fir elicits carbon transfer and stress signalling to ponderosa pine neighbors through ectomycorrhizal net-
+works. Sci Rep 2015;5:8495.
+Spake R, Ezard THG, Martin PA et al. A meta-analysis of func- tional group responses to forest recovery outside of the trop- ics. Conserv Biol 2015;29:1695-703.
+Sterkenburg E, Bahr A, Durling MB et al. Changes in fungal com- munities along a boreal forest soil fertility gradient. New Phy- tol 2015;207:1145-58.
+Stokland JN, Siitonen J, Jonsson BG. Biodiversity in Dead Wood.
+Cambridge: Cambridge University Press, 2012.
+Strakova'  P, Penttila"  T, Laine J et al. Disentangling direct and in- direct effects of water table drawdown on above- and below- ground plant litter decomposition: consequences for accu- mulation of organic matter in boreal peatlands. Glob Change Biol 2012;18:322-35.
+SV tursova'  M,  Baldrian  P.  Effects  of  soil  properties  and  manage-
+ment on the activity of soil organic matter transforming en- zymes and the quantification of soil-bound and free activity. Plant Soil 2011;338:99-110.
+SV tursova'  M, Ba'rta J, SV antru@ cVkova'  H et al. Small-scale spatial het-
+erogeneity of ecosystem properties, microbial community composition and microbial activities in a temperate moun- tain forest soil. FEMS Microbiol Ecol 2016;92, DOI: 10.1093/fem- sec/fiw185.
+SV tursova'  M, SV najdr J, Cajthaml T et al. When the forest dies: the
+response of forest soil fungi to a bark beetle-induced tree dieback. ISME J 2014;8:1920-31.
+SV tursova'  M, ZV ifcVa'kova'  L, Leigh MB et al. Cellulose utilization in
+forest litter and soil: identification of bacterial and fungal de- composers. FEMS Microbiol Ecol 2012;80:735-46.
+Svensson M, Johansson V, Dahlberg A et al. The relative im- portance of stand and dead wood types for wood depen-  dent lichens in managed boreal forests. Fungal Ecol 2016;20: 166-74.
+Swank WT, Schreude HT. Comparison of three methods of esti- mating surface area and biomass for a forest of young east- ern white pine. For Sci 1974;20:91-100.
+Szink I, Davis EL, Ricks KD et al. New evidence for broad trophic status of leaf endophytic fungi of Quercus gambelii. Fungal Ecol 2016;22:2-9.
+Tedersoo L, Bahram M, Cajthaml T et al. Tree diversity and species identity effects on soil fungi, protists and animals  are context dependent. ISME J 2016;10:346-62.
+Tedersoo L, Koljalg U, Hallenberg N et al. Fine scale distribution of ectomycorrhizal fungi and roots across substrate layers in- cluding coarse woody debris in a mixed forest. New Phytol 2003;159:153-65.
+Theis KR, Dheilly NM, Klassen JL et al. Getting the hologenome concept right: an eco-evolutionary framework for hosts and their microbiomes. mSystems 2016;1:e00028-16.
+Tla'skal  V,  VorVi'sVkova'  J,  Baldrian  P.  Bacterial  succession  on  de- composing leaf litter  exhibits  a  specific  occurrence  pattern of cellulolytic taxa and potential decomposers of fungal mycelia. FEMS Microbiol Ecol 2016;92:fiw177.
+Toljander  JF, Lindahl BD, Paul LR et al. Influence of arbuscu-    lar mycorrhizal mycelial exudates on soil bacterial growth
+
+130	FEMS Microbiology Reviews, 2017, Vol. 41, No. 2
+
+
+
+and community structure. FEMS Microbiol Ecol 2007;61: 295-304.
+Treseder KK, Mack MC, Cross A. Relationships among fires, fungi, and soil dynamics in Alaskan Boreal Forests. Ecol Appl 2004;14:1826-38.
+Unterseher M, Persoh D, Schnittler M. Leaf-inhabiting endo- phytic fungi of European Beech (Fagus sylvatica L.) co-occur in leaf litter but are rare on decaying wood of the same host. Fungal Divers 2013;60:43-54.
+Urbanova' M, SV najdr J, Baldrian P. Composition of fungal and bac-
+terial communities in forest litter and soil is largely deter- mined by dominant trees. Soil Biol Biochem 2015;84:53-64.
+Uroz S, Buee M, Murat C et al. Pyrosequencing reveals a con- trasted bacterial diversity between oak rhizosphere and sur- rounding soil. Environ Microbiol Rep 2010;2:281-8.
+Uroz S, Calvaruso C, Turpault MP et al. Mineral weathering by bacteria: ecology, actors and mechanisms. Trends Microbiol 2009;17:378-87.
+Vainio EJ, Muller MM, Korhonen K et al. Viruses accumulate in aging infection centers of a fungal forest pathogen. ISMEJ 2015;9:497-507.
+
+
+VorVi'sVkova'  J, Brabcova V, Cajthaml T et al. Seasonal dynamics of fungal communities in a temperate oak forest soil. New Phytol 2014;201:269-78.
+Wallander H, Johansson U, Sterkenburg E et al. Production of ectomycorrhizal mycelium peaks during canopy closure in Norway spruce forests. New Phytol 2010;187:1124-34.
+Wardle DA, Bardgett RD, Klironomos JN et al. Ecological link- ages between aboveground and belowground biota. Science 2004;304:1629-33.
+Waring RH, Running SW. Forest Ecosystems. Analysis at Multiple Time and Space Scales, 3rd edn. San Diego: Academic Press, 2007.
+Warmink JA, Nazir R, Corten B et al. Hitchhikers on the fungal highway: the helper effect for bacterial migration via fungal hyphae. Soil Biol Biochem 2011;43:760-5.
+Wei X, Kimmins JP. Asymbiotic nitrogen fixation in harvested and wildfire-killed lodgepole pine forests in the central inte- rior of British Columbia. For Ecol Manage 1998;109:343-53.
+Wells JM, Boddy L. Effect of temperature on wood decay and translocation of soil-derived phosphorus in mycelial cord systems. New Phytol 1995;129:289-97.
+
+Vala'sVkova'
+
+V, de Boer W, Gunnewiek, PJAK et al. Phyloge-
+
+Wymore AS, Liu CM, Hungate BA et al. The influence of time
+
+netic composition and properties of bacteria coexisting with the fungus Hypholoma fasciculare in decaying wood. ISME J 2009;3:1218-21.
+Valtera M, SV amonil P, Svoboda M et al. Effects of topography and
+forest stand dynamics on soil morphology in three  natural
+Picea abies mountain forests. Plant Soil 2015;392:57-69.
+van der Heijden MGA, Bardgett RD, van Straalen NM. The unseen majority: soil microbes as drivers of plant diversity and pro- ductivity in terrestrial ecosystems. Ecol Lett 2008;11:296-310. van der Wal A, Ottosson E, de Boer W. Neglected role of fungal community composition in explaining variation in wood de-
+cay rates. Ecology 2015;96:124-33.
+Vasiliauskas R, Menkis A, Finlay RD et al. Wood-decay  fungi     in fine living roots of conifer seedlings. New Phytol 2007;174:441-6.
+VeVtrovsky'  T,  KolarVi'k  M,  ZV ifcVa'kova'  L  et  al.  The  rpb2  gene  rep-
+resents a viable alternative molecular marker for the anal- ysis of environmental fungal communities. Mol Ecol Res 2016;16:388-401.
+Vorholt JA. Microbial life in the phyllosphere. Nat Rev Microbiol
+2012;10:828-40.
+
+and plant species on the  composition  of  the  decompos-  ing bacterial community in a stream ecosystem. Microb Ecol 2016;71:825-34.
+Xia M, Talhelm AF, Pregitzer KS. Fine roots are  the  dom- inant source of recalcitrant plant litter in sugar maple- dominated northern hardwood forests. New Phytol 2015;208: 715-26.
+Yarwood SA, Myrold DD, Hogberg MN. Termination of below- ground C allocation by trees alters soil fungal  and  bac- terial communities in a boreal forest. FEMS Microbiol Ecol 2009;70:151-62.
+Yurkov AM, Kemler M, Begerow D. Species accumulation curves and incidence-based species richness estimators to appraise the diversity of cultivable yeasts from beech forest soils. PLoS One 2011;6:e23671.
+Zaichikova MV, Berestovskaya YY, Vasil'eva LV. The role of om- brophilic dissipotrophic bacteria in wood decomposition. Biol Bull 2016;43:104-12.
+ZV ifcVa'kova'  L,  Dobia'sVova'  P,  Kola'rVova'  Z  et  al.  Enzyme  activities
+of  fungi  associated  with  Picea  abies  needles.  Fungal   Ecol
+2011;4:427-36.
+
+VorVi'sVkova'
+
+J, Baldrian P. Fungal community on decomposing
+
+ZV ifcVa'kova'  L, VeVtrovsky'  T, Howe A et al. Microbial activity in for-
+
+leaf litter undergoes rapid successional changes. ISME J
+2013;7:477-86.
+
+est soil reflects the changes in ecosystem properties between summer and winter. Environ Microbiol 2016;18:288-301.

@@ -1,0 +1,260 @@
+
+DOI: 10.1111/vco.12367
+
+
+ORIGINAL ARTICL E
+
+
+Faecal microbiota in dogs with multicentric lymphoma
+
+A. Gavazza1,2	| G. Rossi1 | G. Lubas2 | M. Cerquetella1 | Y. Minamoto3 |
+J. S. Suchodolski3
+
+1School of Biosciences and Veterinary Medicine, University of Camerino, Camerino, Italy
+2Department of Veterinary Sciences, University of Pisa, Pisa, Italy
+3Gastrointestinal Laboratory, Texas A&M University, College Station, Texas
+Correspondence
+A. Gavazza, Department of Veterinary Sciences, University of Pisa, Pisa, Italy. Email: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| INTRODUCTION 
+
+Malignant lymphoma is the most common haematopoietic malignancy in dogs, caused by clonal proliferation of lymphocytes in solid tissue with distinctive morphologic and immunophenotypic features. Canine lymphoma is the most common canine malignancy, accounting for up to 24% of all reported neoplasms. The annual incidence has been estimated between 13 and 24 cases per 100 000 dogs. Similarly to humans, the majority of canine lymphoma (60%-80%) arises from malignant B cells.1,2
+The intestinal microbiota of dogs consists of bacteria, fungi, archaea, viruses, and protozoa. Animal models play a key role in understanding the importance of gut microbiota composition in immune system development, and its relation with health and disease.3-5 Intestinal bacteria have been implicated in several types of cancer. In animal models of colorectal cancer, lower incidences in
+
+germ-free or antibiotic-treated animals point towards intestinal microbes playing a causative role.5,6 Helicobacter spp. in mice have been associated with enhanced carcinogenesis in some cancers, including gastric cancer, liver cancer, colon cancer, and mammary carcinoma.7 Similarly, dysbiosis of the colon is suspected as being involved in colonic carcinogenesis.8 Microbes influence immune cells, and increased lymphocyte proliferation can lead to a higher chance of aberrant DNA replication. This particularly occurs with some B lymphocytes which are innately vulnerable to genetic insta- bility and activation, and this may lead to neoplasia.9 Molecular methods, mostly targeting the 16S rRNA gene, are now the recog- nized standard for identification of microbiota. Such approaches have demonstrated that the canine and feline gastrointestinal (GI) tracts harbour a highly complex microbial ecosystem.10,11 However, little information is known about the microbiota composition in vari- ous canine neoplasia types.
+
+
+
+Therefore, the aim of this prospective and case-control study was to determine differences in faecal microbiota between healthy dogs and dogs with multi-centric lymphoma using 16S rRNA gene analyses.
+
+
+| MATERIALS AND METHODS 
+
+| Animals and samplings
+Fresh naturally voided faecal samples were collected from 12 dogs with lymphoma and 21 healthy dogs (Table 1) and were immediately stored at -80oC until analysis. This study was approved by the Uni- versity of Pisa Institutional Animal Experimental Use Committee (0009069/2014). Written informed consent was obtained from all owners of enrolled dogs.
+Dogs with lymphoma: All dogs were affected by malignant lym- phoma (diffuse large B-cell lymphoma), generalized lymphadenopathy anatomic form (multicentric), stage III or IV (WHO clinical staging for lymphoma) without systemic signs. Animals selected were not show- ing any additional clinical signs of significant disease, and they were in good general condition. None of the dogs showed any gastrointes- tinal signs in the past 2 months, and none received antibiotics within at least the previous 2 months before faecal sample collection. One dog received prednisone 1 week before sample collection.
+Healthy control dogs: All control dogs were apparently healthy at the time of sample collection. None of the dogs showed any GI signs in the past 2 months, and none received antibiotics within at least the previous 2 months before faecal sample collection. A complete blood count and serum biochemistry profiles were conducted both for dogs with lymphoma and for healthy control dogs.
+
+| Evaluation of faecal microbiota
+| DNA extraction
+An aliquot of 100 mg (wet weight) of each faecal sample was extracted by a bead-beating method using a MoBio Power soil DNA isolation kit (MoBio Laboratories, Carlsbad, CA, USA) following the manufacturer's instructions. The bead-beating step was performed on a homogenizer (FastPrep-24, MP Biomedicals LLC, Santa Ana, CA, USA) for 60 seconds at a speed of 4 m/s.
+
+| Illumina sequencing of 16S rRNA genes
+Sequencing data were utilized to evaluate bacterial communities in faecal samples from enrolled dogs. The V4 region of the 16S rRNA gene was amplified with primers 515F (50-GTGCCAGCMGCCGCGG- TAA-30)  and  806R  (50-GGACTACVSGGGTATC  TAAT-30)  at  the  MR
+DNA Laboratory (Shallowater, Texas) as previously described.12 The raw sequence data were screened, trimmed, filtered, denoised, and barcodes and chimera sequences were depleted from the dataset using QIIME v1.8 pipeline and USEARCH. Operational Taxonomic Units (OTUs) were assigned based on at least 97% sequence similar- ity against the Greengenes reference database. Sequences were rare- fied to an even depth of 16 630 sequences per sample to account for unequal sequencing depth across samples. Observed species richness, Chao 1, and Shannon indexes were determined using QIIME. The
+
+
+sequences were deposited in sequence read archive (SRA) under accession number SRP102663.
+
+| Quantitative PCR (qPCR)
+The qPCR assays for selected bacterial groups (total bacteria, Faecali- bacterium spp., Turicibacter spp., Streptococcus spp., Escherichia coli, Blautia spp., Fusobacterium spp., and Clostridium hiranonis) were per- formed to validate in part the sequencing results. The results were also combined and reported as a recently reported qPCR dysbiosis index.13 The qPCR cycling, the oligonucleotide sequences of primers, and respective annealing temperatures for selected bacterial groups were described previously.14,15 A commercial real-time PCR thermal cycler (CFX 96 Touch Real-Time PCR Detection System; Biorad Labo- ratories, Hercules, California) was used for all qPCR assays and all samples were run in duplicate fashion.
+
+| Statistical analysis
+| Sequencing data
+Differences in microbial communities between animal groups were determined using the phylogeny based on the weighted and unweighted UniFrac distance metrixies, and Principal Coordinate Analysis (PCoA) plots and rarefaction curves were plotted using QIIME. The analysis of similarities (ANOSIM) was performed on the UniFrac distance matrixes for statistical analysis. Linear discriminant analysis (LDA) effect size (LEfSe:  was utilized to evaluate differentially abundant bacterial taxa between the animal groups. A Mann-Whitney test was utilized to evaluate differences in relative abundances of bacterial taxa between healthy control dogs and dogs with lymphoma. The Benjamini & Hochberg's false discovery rate was utilized to report a q value. 16
+
+| qPCR data
+For all qPCR datasets, statistical analysis was performed using com- mercial available software (Prism version 6.0, Graph Pad Software Inc). Data normality was tested using the D'Agostino and Pearson normality test. The differences in the abundance of bacterial group and the dysbiosis index between animal groups were determined using a Student's t-test. The Benjamini & Hochberg's false discovery rate was used to correct for multiple comparisons and adjusted at    P < .05 (ie, q < .05) was considered to be statistically significant.16
+
+
+| RESULTS
+
+3.1 | Study population
+The characteristics of the enrolled dogs and the clinical/clinico- pathological findings of dogs with lymphoma are summarized in Table 1. All dogs were negative for faecal parasites. All dogs with lymphoma showed only generalized lymphoadenopathy and their general conditions were satisfying. These dogs showed mild alter- ations in hematobiochemical profiles and in some cases presented with hepato-splenomegaly documented clinically and by ultrasound procedure, as a typical component of this type of disease. The most
+
+
+TABLE 1 Signalment of the enrolled dogs
+
+Abbreviations: ALP, alkaline phosphatase; ALT, alanine aminotransferase; AST, aspartate aminotransferase; CPR: C-reactive protein; f, female; fs, spayed female; LDH, lactate dehydrogenase; m, male; mc, castrated male.
+
+
+
+frequent alteration was an increase in LDH levels that is common in canine lymphoma and in cancer.17 Dogs with lymphoma and control cases were fed with a variety of commercial diets. The mean (+- stan- dard deviation) age of dogs with lymphoma and control dogs was
+8.1 years +-1.4 and 6.5 years +-3.0, respectively (P = .085). Of the dogs with lymphoma, 7 were males and 5 were females. Of the con- trol dogs, 10 were males and 11 were females. There was no signifi- cant difference between the genders between the 2 groups (Fisher's exact test;  P = .720). The  mean (+-  standard deviation) body weight
+
+of dogs with lymphoma and control dogs were 24.5 kg +- 13.4 and
+24.2 kg +- 8.9, respectively (P = 0.955).
+
+| Sequencing analysis
+A total of 24 DNA samples from dogs with lymphoma (n = 12) and healthy control dogs (n = 12) were available for the sequencing analy- sis. The Illumina sequencing pipeline yielded a total of 1 032 003 quality sequences with an average of 28 666 sequences per sample
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 1 Rarefaction analysis of 16S rRNA gene for healthy and lymphoma affected dogs. Lines represent the mean and error bars represent standard deviations
+
+(range: 16 638-35 270). To account for unequal sequencing depth across samples, the subsequent analysis was performed on a ran- domly selected subset of 16 630 sequences per sample. A total of   6 phyla and 61 genera were identified.
+Alpha diversity measures revealed a significantly lower diversity in dogs with lymphoma (Figure 1 and Table 2). PCoA plots of unweighted UniFrac distances showed different microbial clustering in the 2 groups of dogs (ANOSIM R = .33, P = .001; Figure 2). LefSe detected a total of 28 differentially abundant bacterial taxa (a = .05, LDA score > 2.0, Figure 3). Univariate analysis of relative abundance of predominant bacterial taxa at phylum, class, order, family, and genus level is summarized in Table S1 (Supporting Information).
+
+| qPCR analysis of selected bacterial groups and dysbiosis index
+A total of 33 DNA samples from dogs with lymphoma (n = 12) and healthy control dogs (n = 21) were available for qPCR analysis. Signif- icantly lower abundance of Faecalibacterium spp. (q < .001), Fusobac- terium spp. (q = .032), and Turicibacter spp. (q = .043) was observed in dogs with lymphoma compared with healthy control dogs. The abundance of Streptococcus spp. was significantly higher in dogs with lymphoma compared with healthy control dogs (q = .041;Table 3). Of those 3 above bacterial taxa, Faecalibacterium spp. was also signifi- cantly lower in dogs with lymphoma in the sequencing analysis (Figure 4). The dysbiosis index was significantly higher (P < .0001) in dogs with lymphoma (Table 3 and Figure 5).
+
+TABLE 2 Alpha diversity measures
+
+
+
+Chao1	2084.67    390.86    1661.67         326.80    0.003
+Observed_species    792.08     71.88     700.58	81.59      0.004
+Shannon index         5.31         0.69       4.60	0.63        0.003
+SD, standard deviation.
+
+
+FIGURE 2 Principal coordinates analysis of unweighted UniFrac distances of 16S rRNA gene. Analysis of similarity revealed clustering between dogs with lymphoma and healthy control dogs
+(R = .33, P = .001)
+
+
+| DISCUSSION 
+
+The multivariate analysis based on 16S rRNA gene sequencing and the multivariate analysis of qPCR data (dysbiosis index) provided a global overview of faecal microbial communities and both analysis showed that the microbiota differ between healthy control dogs and dogs with lymphoma. In the sequencing data, several differentially abundant bacterial groups between dogs with lymphoma and healthy control dogs were identified. Of interest is that bacterial families that are generally believed to be associated with gut health like Rumino- coccaceae, Prevotellaceae, and Erysipelotrichaceae were decreased in dogs with lymphoma. This was also manifested on the genus level with decreases in genus Ruminococcus and Prevotella in lymphoma dogs, although interestingly one unclassified Ruminococcus was signif- icantly increased in dogs with lymphoma based on LefSe. In the sequencing data Turicibacter and Fusobacterium showed trends towards a decreased abundance in dogs with lymphoma, and these
+2 bacterial taxa were confirmed to be significantly decreased on qPCR. Faecalibacterium spp. appeared to be one of the strongest drivers of the microbiota differences between both groups. Studies have shown a lower abundance of Faecalibacterium spp. in dogs with inflammatory bowel disease (IBD) compared with healthy control dogs.18,19 This result is important because this genus is considered an important immune-modulatory bacterial group and one of their bac- terial species, Faecalibacterium prausnitzii has also been found to be consistently decreased in human inflammatory bowel disease (IBD) patients and it is considered an important bacterial taxa for maintain- ing microbial homeostasis. Interestingly, lower levels of F. prausnitzii were recently found in humans with some chronic colonic conditions as well as colorectal cancer compared with healthy subjects.20 Pres- ence of high faecal dysbiosis index in dogs with multicentric lym- phoma was of interest because none of the lymphoma dogs showed any clinical signs of GI disease. This may suggest an association between the GI microbiota and systemic neoplastic disorder, which was subclinical at the time of sample collection. The microbiota results resembled those as previously reported in intestinal conditions with mucosal infiltration and changes in villous architecture. It would
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 4 Comparison of the abundance of Faecalibacterium spp. based on qPCR analysis and Illumina sequencing analysis. Bars represent the mean log DNA (qPCR data) or mean relative abundance (sequencing data)
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 3 Linear discriminant analysis (LDA) effect size of Illumina pyrosequencing datasets based on 16S rRNA gene sequences.
+Histogram of the LDA scores computed for differentially abundant bacterial taxa between dogs with multicentric lymphoma and control
+
+be interesting to know the extent of intestinal abnormality and the identity of the mucosa adherent bacterial species, as faecal micro- biota may not reveal the mucosal colonization.21 Unfortunately, owing to the absence of GI clinical signs, histological evaluation of a GI tissue sample from the enrolled dogs was not conducted in this study. Further studies evaluating faecal microbiota and complete staging including histological evaluation of the GI tract in dogs with multicentric lymphoma are warranted. Faecal dysbiosis has been shown to be associated with significant changes in bacterial and/or host metabolism such as faecal short chain fatty acids (SCFAs) (eg, propionate, acetate, and butyrate), and the serum and urine metabo- lite profiles.22 Furthermore, propionic acid was significantly correlated with a loss in SCFAs producing bacteria (ie, Faecalibacterium spp.),
+
+similarly to what happened in our patients. SCFAs have anti- inflammatory properties, since they induce immune-regulatory T cells (Treg).22 A recent study showed that butyrate production from high- fibre diet inhibited the growth of lymphoma tumours and induced apoptosis of lymphoma tumour cells and significantly up-regulated histone 3 acetylation (H3ac) level and target genes, such as Fas, P21, P27.23
+While we observed an association between faecal microbiota and multicentric lymphoma, future studies are needed to evaluate whether these microbiota changes persist or improve with therapy, or even whether the microbiota may have an effect on chemotherapy itself.24 Furthermore, even if microbiota changes may be a conse- quence of lymphoma, it may seem prudent in the future to develop additional treatment strategies that would help in restoration of gut microbiota, given our evolving understanding of the importance of normal microbiota composition on immune homeostasis.25,26 For example, probiotic formulations containing lactic acid bacteria have been shown to reduce the incidence of chemically mediated hepato- cellular carcinoma and colon cancer in rats.25 Some studies report that administration of probiotics and prebiotics could be an important preventive factor for chemoprevention strategies.27
+There are limitations that need to be addressed. First, our cohort of dogs was living in different environments and was fed a variety of diets, and these can be confounding factors of microbial analysis. However, previous studies showed that disease is a larger driver of microbiota differences than potential confounding factors, such as
+
+
+TABLE 3 Abundances of selected bacterial groups (qPCR)
+
+
+Total bacteria	11.67	0.67	11.46	0.34	0.386	0.459
+Faecalibacterium spp.	6.42	0.88	3.89	1.26	<0.0001	<0.001
+Turicibacter spp.	6.55	1.24	5.33	1.32	0.022	0.043
+Streptococcus spp.	5.03	1.33	6.40	1.34	0.016	0.041
+Escherichia coli	6.57	1.37	7.22	1.65	0.277	0.443
+Blautia spp.	9.55	1.16	9.18	0.97	0.402	0.459
+Fusobacterium spp.	9.10	0.75	8.17	0.98	0.008	0.032
+Clostridium hiranonis	5.83	1.88	5.67	1.89	0.837	0.837
+Dysbiosis index	-3.80	2.3	1.2	3.6	<0.0001	na Abbreviations: na, not applicable; SD, standard deviation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 5 Dysbiosis index based on the combination of the individual qPCR results. Bars represent the mean value for each group
+
+diet, age, and body weight.19,21 Second, one-third of enrolled dogs in the healthy control group were Boxer dogs. Only limited information is available regarding the influence of dog breed on faecal microbiota. However, recent studies utilizing Illumina sequencing showed no dif- ferences in microbial communities (diversity and richness) based on the breed of dogs, especially when compared with the disease pheno- type.21,28,29 Finally, the small sample size in this study may limit the statistical power. Further studies with large sample size are warranted to confirm out findings in this current study. In conclusion, we showed significant differences in the faecal microbial communities of dogs presenting with multi-centric lymphoma compared  with  healthy dogs.
+
+ORCID 
+A. Gavazza	
+
+
+REFERENCES
+Dorn CR, Taylor D, Schneider R. The epidemiology of canine leukemia and lymphoma. In: Dutcher RM, ed. Comparative Leukemia Research Proceedings. 4th International Symposium in Comparative Leukemia Research. Vol 36. Bibliotheca Haematologica Basel, CH; 1969:403-415.
+Merlo DF, Rossi L, Pellegrino C, et al. Cancer incidence in pet dogs: findings of the animal tumor registry of genoa, Italy. J Vet Intern Med. 2008;22:976-984.
+Yamamoto ML, Schiestl RH. Intestinal microbiome and lymphoma development. Cancer J. 2014;20(3):190-194.
+Tlaskalova-Hogenova H, Stepankova R, Kozakova H, et al. The role of gut microbiota (commensal bacteria) and the mucosal barrier in the pathogenesis of inflammatory and autoimmune diseases and cancer: contribution of germ-free and gnotobiotic animal models of human diseases. Cell Mol Immunol. 2011;8:110-120.
+Rescigno M. The pathogenic role of intestinal flora in IBD and colon cancer. Curr Drug Targets. 2008;9:395-403.
+Grivennikov SI, Wang K, Mucida D, et al. Adenoma-linked barrier defects and microbial products drive IL-23/IL- 17-mediated tumour growth. Nature. 2012;491:254-258.
+
+
+Ward JM, Anver MR, Haines DC, Benveniste RE. Chronic active hepa- titis in mice caused by helicobacter hepaticus. Am J Pathol. 1994;145:959-968.
+Viaud S, Daillere R, Yamazaki T, et al. Why should we need the gut microbiota to respond to cancer therapies? Oncoimmunology. 2014;3(1):e27574.
+Yamamoto ML, Schiestl RH. Lymphoma caused by intestinal micro- biota. Int J Environ Res Publ Health. 2014;11:9038-9049.
+Handl S, Dowd SE, Garcia-Mazcorro JF, Steiner JM, Suchodolski JS. Massive parallel 16S rRNA gene pyrosequencing reveals highly diverse fecal bacterial and fungal communities in healthy dogs and cats. FEMS Microbiol Ecol. 2011;76:301-310.
+Suchodolski JS. Diagnosis and interpretation of intestinal dysbiosis in dogs and cats. Vet J. 2016;215:30-37.
+Bell ET, Suchodolski JS, Isaiah A, et al. Faecal microbiota of cats with insulin-treated diabetes mellitus. PLoS One. 2014;9(10):e108729.
+AlShawaqfeh MK, Wajid B, Minamoto Y, et al. A dysbiosis index to assess microbial changes in fecal samples of dogs with chronic inflam- matory enteropathy. FEMS Microbiol Ecol. 2017. [Epub ahead of print].
+Beloshapka A, Dowd SE, Suchodolski JS, Steiner JM, Duclos L, Swanson KS. Fecal microbial communities of healthy adult dogs fed raw meat-based diets with or without inulin or yeast cell wall extracts as assessed by 454 pyrosequencing. FEMS Microbiol Ecol. 2013;84(3):532-541.
+Garcia-Mazcorro JF, Suchodolski JS, Jones KR, et al. Effect of the proton pump inhibitor omeprazole on the gastrointestinal bacterial microbiota of healthy dogs. FEMS Microbiol Ecol. 2012;80:624-636.
+Benjamini Y, Hochberg Y. Controlling the false discovery rate: a prac- tical and powerful approach to multiple testing. J Roy Stat Soc Ser B (Method). 1995;57:289-300.
+Marconato L, Crispino G, Finotello R, Mazzotti S, Salerni F, Zini E. Serum lactate dehydrogenase activity in canine malignancies. Vet Comp Oncol. 2009;7(4):236-243.
+Rossi G, Pengo G, Caldin M, et al. Comparison of microbiological, his- tological, and immunomodulatory parameters in response to treat- ment with either combination therapy with prednisone and metronidazole or probiotic VSL#3 strains in dogs with idiopathic inflammatory bowel disease. PLoS One. 2014;10(9(4)):e94699.
+Suchodolski JS, Markel ME, Garcia-Mazcorro JF, et al. The fecal microbiome in dogs with acute diarrhea and idiopathic inflammatory bowel disease. PLoS One. 2012;7(12):e51907.
+Sokol H, Pigneur B, Watterlot L, et al. Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut micro- biota analysis of Crohn disease patients. Proc Natl Acad Sci. 2008, 2008;105:16731-16736.
+Vazquez-Baeza Y, Hyde ER, Suchodolski JS, Knight R. Dog and human inflammatory bowel disease rely on overlapping yet distinct dysbiosis networks. Nat Microbiol. 2016;1:16177.
+Arpaia N, Campbell C, Fan X, et al. Metabolites produced by com- mensal bacteria promote peripheral regulatory T-cell generation. Nature. 2013, 2013;504:451-455.
+Wei W, Sun W, Yu S, Yang Y, Ai L. Butyrate production from high- fiber diet protects against lymphoma tumor. Leuk Lymphoma. 2016;57(10):2401-2408.
+Rajagopala SV, Shibu Y, Derek M, et al. Gastrointestinal microbial populations can distinguish pediatric and adolescent acute lympho- blastic leukemia (ALL) at the time of disease diagnosis. BMC Genomics. 2016;17:635.
+Kahouli I, Tomaro-Duchesneau C, Prakash S. Probiotics in colorectal cancer (CRC) with emphasis on mechanisms of action and current perspectives. J Med Microbiol. 2013;62:1107-1123.
+Osterlund P, Ruotsalainen T, Korpela R, et al. Lactobacillus supplementation for diarrhoea related to chemotherapy of colo-  rectal cancer: a randomised study. Br J Cancer. 2007;97: 1028-1034.
+Bultman SJ. The microbiome and its potential as a cancer preventive intervention. Semin Oncol. 2016;43(1):97-106.
+Isaiah A, Parambeth JC, Steiner JM, Lidbury JA, Suchodolski JS. The fecal microbiome of dogs with exocrine pancreatic insufficiency. Anaerobe. 2017;45:50-58.
+
+
+BennoY NH, Uchida K, Mitsuoka T. Impact of the advances in age on the gastrointestinal microflora of beagle dogs. J Vet Med Sci. 1992;54:703-706.
+
+
+SUPPORTING INFORMATION 
+
+Additional Supporting Information may be found online in the sup- porting information tab for this article.

@@ -1,0 +1,371 @@
+GUT           MICROBES 2017, VOL. 8, NO. 5, 428-439
+
+
+RESEARCH PAPER/REPORT
+Fecal microbiota variation across the lifespan of the healthy laboratory rat
+Burkhardt Flemer,, Nadia Gaci,, Guillaume Borrel, Ian R. Sanderson, Prem P. Chaudhary, William Tottey,
+Paul W. O'Toole, and Jean-Franc, ois Brug ere	
+aSchool of Microbiology and APC Microbiome Institute, University College Cork, Ireland; bEA-4678 CIDAM, Clermont Universit,e, Universit,e d'Auvergne, Clermont-Ferrand, France; cBlizard Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, UK
+
+
+ARTICLE HISTORY
+Received 27 October 2016 Revised 23 March 2017 Accepted 18 May 2017
+KEYWORDS
+gut microbiota; human biologic model; lifespan evolution; Rat; Rattus norvegicus
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Higher animals are meta-organisms in which microbes roughly equal host cells.The mammalian gastrointesti- nal tract (GIT) is home to a large and complex micro- bial community with distinct compositions in different animal species related to their anatomic specificities and habitual diet (frugivorous, herbivorous, folivorous, car- nivorous, omnivorous).Gut microbes encode impor- tant biologic functions that affect host gut homeostasis (eg host nutrient metabolism, development and mainte- nance of the gut mucosal barrier, immunomodulation, protection against pathogens, xenobiotic and drugs metabolism).Understanding of the composition of
+
+
+the human gut microbiota and its potential influence  on health stems mainly from cohort studies. These stud- ies were facilitated by recent advances in bioinformatics, metabolomics and sequencing technologies,but also informed by studying animal models.It is therefore important to develop a better understanding of gut microbiota in the laboratory animals routinely used in pre-clinical models for human microbiota studies.
+Rats and mice are among the most frequently used laboratory animals in diverse fields of life sciences including the microbiome, because of their gross physi- ologic similarities to humans, as well as similarities regarding their GIT anatomy at the organ, tissue and
+
+
+
+CONTACT  Jean-Franc,ois Brug ere		5e CBRV, Facult,es de M,edecine et de Pharmacie de Clermont-Ferrand, 28 place Henri Dunant, F-63000 Clermont-Ferrand, France; Paul W. O'Toole			School of Microbiology and APC Microbiome Institute, University College Cork, College Road, Cork, Ireland
+Supplemental data for this article can be accessed on the .
+yContributed equally
+(c) 2017 Burkhardt Flemer, Nadia Gaci, Guillaume Borrel, Ian R. Sanderson, Prem P. Chaudhary, William Tottey, Paul W. O'Toole, and Jean-Franc, ois Brug ere. Published with license by Taylor & Francis.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+
+
+cell level.However, differences such as expanded colon and cecum capacity and distribution of particular cell types (e.g. Paneth cells absent in the cecum and proxi- mal colon) are also evident.Utilization of mice instead of rats as a laboratory model has several advantages including small animal size, relatively low housing costs and the availability of well-established transgenic mouse strains as models for various human diseases.Refine- ments of the model include Germ-Free (GF) animals and their use as recipients for microbiota transplanta- tion. This so-called "humanization" of the rodent GIT with human gut microbiotahas improved the appli- cability of mice as a model for human gut-related stud- ies. However some limitations have been identified; e.g., upon humanization, the mouse microbiota may develop as a hybrid microbiota which is neither human- nor mouse-like.In contrast, the rat (Rattus norvegicus) has been reported to better sustain human-like fecal micro- biota profiles.Among various rat lineages, the non- consanguine Sprague-Dawley rat is widely used as model of human biology in several life science arenas (e.g., nutrition, pharmacology, toxicology) but little is known about its gut microbiota especially its evolution during the lifespan of the animals. Brooks and col- leaguesreported only 2 microbial phyla in the gut microbiota of Wistar rats, with about 2 thirds of the 44 OTUs (96% sequence identity) detected being classified as Firmicutes, and the remainder as Bacteroidetes. Improved sequencing throughput has led to a deeper understanding of these gut microbes in rats (e.g., refer- ences). However, data remains sparse, and to our knowledge, the relationship between age and microbiota composition has not yet been studied in rats, in contrast to the human gut ecosystem.
+We therefore studied the fecal microbiota of a com- mon laboratory rat lineage, the Norwegian Sprague Dawley rat, in a cross-sectional study under controlled environmental and dietary conditions. We report here the fecal microbiota of healthy animals over their life- span and we compare it to the microbiota profiles of mice and humans.
+
+Results
+Rat gut microbiota composition changes significantly with aging
+We studied the fecal microbiota of rats kept under controlled environmental conditions from birth as a function of their chronological age. After weaning at
+
+3 weeks of age, rats remained on a constant diet (breeding rat diet) till week 12, when they were fed with an aging rat diet onwards (see Methods section and Table S6 for feed composition). The microbiota was sampled at weeks 3, 12, 14, 26, 52, 78 and 104. Fecal profiling revealed large microbiota composition differences between rats grouped according to their age (and ), reflected in hierarchical clustering based on the microbiota into 3 groups: Prior to wean- ing (PW), after weaning Y1 (12-week-old to 26-week- old animals) and Y2 (52-week-old to 104-week-old animals). The relative abundance of several individual bacterial taxa was differentially associated with the dif- ferent age groups ( and , the propor- tions by age at various taxonomic levels are provided in Fig. S1 and Tables S1 and S2). These taxa were derived principally from the phylum Firmicutes and phylum Bacteroidetes at both extremities of life, while Verrucomicrobia (Akkermansia) accounts for a sub- stantial proportion of the Y1 microbiota composition (). The Firmicutes: Bacteroidetes ratio (F/B) was similar for both the Y1 and Y2 clusters (respec- tively 1.73 and 1.45) but was significantly lower in PW rats (0.56, p < 0.001). The pre-weaning microbiota composition was characterized by higher abundance of taxa including Bacteroides, Lactobacillus, Blautia, Clostridium XI and Klebsiella compared with Y1 and Y2, likely influenced by suckling which stopped at week 3. The microbiota of Y1-rats was discernible from PW and Y2 mainly based on the high relative abundance of Akkermansia spp., Clostridium XIVa spp, Lachnospiraceae, Alistipes spp and Odoribacter spp, among others. Bacteria differentially associated with Y2 were classified as Barnesiella, Clostridiales, Ruminococcaceae, Ruminococcus and Clostridium IV, among others (; see also Tables S1 and S2).
+
+Dynamics of the gut microbial ecosystem
+The microbiota compositional differences were also reflected in a progressive increase of the a-diversity determined by the Shannon effective number of spe- cies, ranging from 19.20 SS 8.62 in PW to 38.53 SS
+14.70 for Y1 and 88.30 SS 22.38 for Y2 (). Not- withstanding the dramatic variations in microbiota composition over the rat life-span, many OTUs were present in young as well as old animals (). Comparing the core microbiota at different life stages (see Methods for details) highlights the dynamics of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. The composition of the fecal microbiota of rats is strongly associated with animal age. (A) Principal coordinates analysis (PCoA) of the unweighted UniFrac distance matrix and (B) hierarchical clustering separates rats into 3 groups according to age: 3 week old rats (Prior to weaning), 12 to 26 week old rats (Year 1) and 52 to 104 week old rats (Year 2). (C) Relative abundance of bacterial genera across the first 2-year lifespan of rats. Genera with an average relative abundance below 1% are grouped under "rare.genera" in the figure labeling.
+
+the gut microbial ecosystem. The youngest rats dis- played the lowest species richness (180 OTUs per ani- mal) across all analyzed life stages (). Roughly one quarter of these OTUs (46 OTUs) were fre- quently present in most rats regardless of age, repre- senting an age-independent core microbiota (labeled "Core" in  and ). Interestingly, this "Core" made up 83.7% of all reads in PW rats (). Another quarter of the total OTUs (47 OTUs), com- prising 9.7% of all reads, was only frequently present in PW (Labeled "Core PW" in and ), indi- cating an adaptation to the gut ecosystem at this par- ticular age/diet. The remainder of OTUs comprised the core microbiota of older animals as well as a set
+
+of rare taxa (combined abundance 1.3%) not com- monly present in most rats regardless of age ("Vari- able"), possibly representing transient or subject- specific microbes. The richness increased to 321 OTUs and to 492 OTUs respectively in Y1 and Y2 animals. It was accompanied by a decrease of the abundance of the "Core" falling from 83.7% of all reads to 36.3% and 9.6% (red line in ). In Y1 animals, the "Core" was complemented by 52 OTUs only frequently present and abundant at this age ("Core Y1;" 14.7% of all reads) as well as 68 OTUs which were also frequently present and abundant in the oldest animals ("Core Y1Y2;" 39.9% of all reads). In Y2 animals a set of 172 OTUs comprised 65.8% of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. The phylogenetic diversity of the rat gut microbiota increases with age. (A) Fecal bacterial a-diversity across the lifespan of rats (Shannon effective number of species). (B) Heat-map of fecal bacterial OTU abundance shows the dynamics of the microbiota across the lifespan of rats. An age independent "Core" microbiota (see Materials and Methods) is supplemented with bacteria specific to the developmental stage of the rat (i.e., "Core PW," "Core Y1" and "Core Y2") and with bacteria incorporated into most animal's fecal micro- biota as permanent members (i.e., "Core Y1Y2"). Bar graphs of Species richness (C) and relative OTU abundance (D) across the lifespan of rats and contributions of the different cores to these values. The increase in diversity is largely due to the "Variable" group of OTUs, i.e., OTUs which are only found in a subset of animals. Note the concomitant decrease in relative abundance (red line in panel C) but not presence of "Core" OTUs. The hinges of the boxes in the box-and-whisker plots represent the 25th to 75th percentile with the 50th percentile (median) drawn as the line inside the box. Whiskers extend to 1.5 times the interquartile range. All: Color coded as per legends to the right.
+
+
+all reads and was only frequently present and abun- dant in this age group ("Core Y2"). On average 41.2% of the 492 OTUs (combined abundance 6.7%) of 2- year-old animals comprised OTUs present in only a subset of animals ("Variable"). It has previously been reported that methanogens become proportionally more abundant in the gut microbiota of rats with aging. Surprisingly, methanogenic archaea were either not detected or their abundance was below 0.05%. The recovered sequences belonged to the Methanobacteriales taxa Methanobrevibacter spp and
+
+Methanosphaera spp, as well as the recently discov- ered Methanomassiliicoccales, therefore showing a similar diversity to the one encountered in humans. The low prevalence and abundance was further con- firmed by qPCR analyses (data not shown).
+
+Fecal levels of short chain fatty acids correlate with age and gut microbiota composition
+
+Fecal levels of short chain fatty acids (SCFAs) are associated with the composition of the human gut
+
+
+
+microbiota and of the diet.We thus measured fecal acetate, butyrate, propionate, caproate, heptanoate, isocaproate, isovalerate, isobutyrate and valerate lev- els and examined correlations with bacterial abun- dance. Although there is a degree of overlap, the overall profile of fecal SCFAs was significantly dif- ferent between younger and older rats especially PW compared with Y2 (). Fecal total SCFAs significantly increased with age (p < 0.001 for rats of year 2 against both PW and Y1 rats), mainly corre- sponding to an increase in levels of acetate, butyrate and propionate (; Fig. S2). Other less abun- dant SCFAs did not change in concentration and because they were present in low levels, this had no net effect on total SCFA levels (Fig. S2). Furthermore, both several individual taxa (Table S3) and the sum of the abundance of the taxa that define bacterial
+
+clusters of  significantly correlated with fecal levels of SCFAs ().
+
+Age is reflected in the predicted functional profile of the fecal microbiota
+Prediction of the biochemical function of the microbiota was performed using PICRUSt software, which infers microbiota function based on genomes of reference organisms considering the relative abundance of genes involved in 256 KEGG path- ways. The predicted functional profile of the microbiota was significantly different  between  rats of different age (Table S4). Interestingly, the collec- tive distances between the PW  samples  and  between Y1 samples on the PCoA (i.e. the areas defined by these groups) were considerably greater
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Fecal SCFA-levels in rats are associated with age and microbiota composition. (A) Principle coordinates analysis of the Spear- man-rank distance and (B) boxplots of fecal SCFA levels reveal different SCFA profiles across the lifespan of the animals. Age groups and colors as in . (C) The levels of several SCFAs were correlated with total abundance of bacterial clusters (). The title of each panel indicates which SCFA was compared with which bacterial cluster and from which age group the samples were drawn. Blue lines indicate the linear regression model and shaded areas indicate the corresponding upper and lower confidence intervals. r Spear- man's rho. p adjusted p-value (Benjamini-Hochberg). Only significant correlations shown. The hinges of the boxes in the box-and- whisker plots represent the 25th to 75th percentile with the 50th percentile (median) drawn as the line inside the box. Whiskers extend to 1.5 times the interquartile range.
+
+
+
+than Y2, indicating the acquisition of similar func- tional profiles over time (Fig. S3).
+The experimentally determined fecal SCFA levels were corroborated by commensurate abundance of genes associated with propanoate metabolism, buta- noate metabolism and fatty acid biosynthesis in the aging rat (Table S4). Moreover, the abundance of bacterial clusters 1 and 3 was significantly nega- tively and positively associated respectively with the predicted gene count for these SCFA pathways (Table S5). Also, predicted gene counts involved in methane metabolism were significantly different between PW and Y2 (P < 0.01) and between Y1 and Y2 (P < 0.001), with differences being non- significant between PW and  Y1  (P  >  0.05) (Table S4).
+Interestingly, the predicted coding capacity of pathways for biogenesis of bacterial motility pro- teins, flagellar assembly  and  bacterial  chemotaxis all gradually increased in relative abundance over time/age, indicating a general increase of microbial motility in the aging rat. Furthermore, genes
+
+encoding lipopolysaccharide biosynthesis became less abundant with aging of the rats, suggesting a   net shift from gram-negative bacteria to gram-posi- tive bacteria.
+
+The abundance profiles of human core microbiota OTUs are more similar in rats than in mice
+As rats are commonly used as a model of human biol- ogy, we were interested in comparing their fecal microbiota composition with that of humans and mice. We used data from 38 healthy elderly individu- als (median age 68, 25th percentile 66 years, 75th per- centile 70 years)and from a mouse microbiota study currently performed at the APC Microbiome Institute in Cork (14-week old mice). The sequencing library preparation method was identical for all investigated samples. However, there were differences in DNA extraction methodology and sequencing chemistry (Illumina's 2 PS 250bp paired-end sequencing for human samples versus 2 PS 300bp paired-end sequencing for rodent samples). The microbiota of the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. The fecal microbiota of 1 y old rats is more related to that of humans than it is to the microbiota of mice. (A) Unweighted Uni- Frac principal coordinate analysis. Fecal microbiota of rodents is more closely related to each other than to human fecal microbiota. Inset: Venn diagram of OTUs present inin faeces of humans, rats (only Y1) and micemice. (B) Box-plots of the relative abundance of human core bacterial OTUs (OTUs present in at least 80% of human individuals). More reads of these OTUs were found in the microbiota of up-to 1 y old animals (both PW and Y1) than in 14 week old C57Bl/6 mice. Except for comparison between "Mouse" and "Rat (Y2)," all p-values were below 0.05 (pairwise Wilcoxon test, adjusted after Benjamini-Hochberg). (C) Boxplots of the pairwise distance to human samples (weighted UniFrac). The distance was smallest for rats aged 12-26 weeks. All p-values below 0.05 (pairwise Wilcoxon test, adjusted after Benjamini-Hochberg). Age groups and colors for rats as in . The hinges of the boxes in the box-and-whisker plots represent the 25th to 75th percentile with the 50th percentile (median) drawn as the line inside the box. Whiskers extend to 1.5 times the interquartile range.
+
+
+Table 1. Relative abundance of the 3 most abundant OTUs of each core.
+
+
+
+human samples was mainly comprised of Firmicutes, Bacteroidetes, Proteobacteria, Actinobacteria and Ver- rucomicrobia (Fig. S4), as also has been reported previously.
+Collectively, the gut microbiota of mice and rats was more similar to each other than to the gut micro- biota of humans (). Nonetheless, the overall abundance of the human core microbiota taxa (i.e.,  62 OTUs from 23 bacterial genera present in at least 80% of human individuals) was higher in 1-year-old rats than in mice (). This was also reflected in the average UniFrac distances between all pairwise human microbiota sample comparisons, vs. pairwise between  human  samples  and  animal  samples   (), despite humans and rats share less OTUs than humans and mice (49 specific common OTUs  vs 74, Venn-diagram inset ). In fact, some important members of the human gut microbiota, including Clostridium cluster XI, Akkermansia and some Lachnospiraceae were found at similar relative abundance in the faeces of rats, but not  of  mice  (Fig. S5). However, it has to be noted that many indi- vidual human core-OTUs were either completely absent in rats (e.g., OTUs classified as Bifidobacte- rium, Collinsella, Blautia, Butyricicoccus, Gemmiger, Lachnospira and Lachnospiraceae, Oscillibacter, Rumi- nococcus) or displayed very low abundances in rats (e.g., OTUs classified as Anaerostipes, Bacteroides, Blautia, Coprococcus, Dorea, Faecalibacterium, Hespellia, Lachnospiraceae, Oscillibacter, Roseburia, Ruminococcus and Sporobacter).
+
+Discussion
+Rodents are among the most popular laboratory ani- mals used in the life sciences, and mouse models are frequently used to investigate the impact of the micro- biota on health and disease. The current study con- firms that pairs of rodent species have a more similar gut microbiota than either does with human micro- biota.Hampering the extrapolation of results from animal models to humans is the difference in micro- biota composition of humans and mice, largely cir- cumvented by humanization of gnotobiotic mice. However, humanized GF mice may still display a dif- ferent microbiota to the human donor and health modulating bacteria often fail to colonize the mouse gut. These transplantation difficulties seem less problematic in rats in which most high-abundance human gut microbes were engrafted from donor feces to GF rat recipients, in contrast to GF mice.Results obtained here support the hypothesis of a closer simi- larity of human and rats to their gut microbial compo- sition than that between humans and mice, which possibly accounts for the better engraftment of trans- planted human microbiota into GF rats. This is illustrated by the presence of some genera (eg Anaero- truncus, Escherichia-Shigella, Oscillibacter, Rumino- coccus) which were efficiently retained in rats after inoculation from a human donor but which were not retained by GF or AB-treated C57BL/6 mice. A recent comparison of the gut microbiota of mice and humans revealed 80 shared genera.This finding was
+
+
+
+confirmed (79 genera) by a meta-analysiswhile some genera were found specifically in humans and not in mice.Our study also indicates that most of these genera are not found in rats (Asteroleplasma, Mitsuo- kella, Megasphaera, Paraprevotella, Succinivibrio), but some were detected here like Sutterella and Phasco- larctobacterium (mainly in Y2 rats) or Faecalibacte- rium (also mentioned in mice by), and to a lesser extend Dialister (detected only once in an Y2 rat). Also, many individual human core-OTUs were either completely absent or displayed very low abundances in rats, but some genera were present either in some Y2 animals (Bifidobacterium and Gemmiger) or in all age-groups PW/Y1/Y2 (Blautia, Butyricicoccus, Oscil- libacter, Ruminococcus). In addition, some important members of the human gut microbiota (Clostridium XI, Akkermansia and some Lachnospiraceae) dis- played similar relative abundance in the feces of rats, but not of mice. Therefore, the in-house bred rats in this study naturally present a greater gut microbiota similarity to humans than to mice, varying during their lifespan.
+With respect to the age-microbiota interaction, a limitation of the current study design was its cross- sectional nature, and we acknowledge that a longitudi- nal design, serially sampling tagged individual ani- mals, would have yielded superior results. Nevertheless, our data provides evidence that colony (including the seed microbiota) was not a main con- tributor to the observed age-associated differences in microbiota composition. The source of the animals used in this study is a leading supplier of laboratory rodents in Europe and all breeding and housing was performed under optimized controlled conditions (fil- tered air, sterile diet, access restricted to dedicated technicians). Furthermore, animals were all born in the same environment (isolation chambers). So despite the fact that the animals were born on differ- ent days within a 2-year timeframe and were thus likely exposed to different maternal seed microbiotas, carefully controlling for external conditions including for the microbial environment appears to have accom- plished introducing minimal bias. Supporting this contention, if, despite the careful setup, colony indi- vidualism had exerted a major effect on the micro- biota, we would have been able to detect this effect during our analysis. However, when we analyzed data from 2 different colonies of rats during year 1 after weaning (12-week-, 14-week- and 26-week-old rats;
+
+samples from 12-week-old and 14-week-old rats came from the same colony) and from 3 different colonies during year 2 (52-,78- and 104-week-old rats), the samples from the different colonies clustered mainly by age () and not by colony. We thus conclude that we have detected a true age-effect and that possi- ble effects of colony and/or seeding of the microbiota are secondary.
+In-house breeding of Sprague Dawley rats was con- ducted under controlled dietary and environmental conditions, with no medication / antibiotics adminis- tered. The fecal microbiota profiles were determined from healthy rats ranging from their weaning to more than 700 d of life. This revealed changes across age with 3 main stages beginning at weaning with a low- diversity microbiota being progressively enriched, pre- sumably by constant exposure to environmental microorganisms. This led to an increased diversity and a concomitant gradual diminution of the core microbiota abundance, decreasing from more than 80% of all reads in PW to less  than  10%  in  Y2 (). This finding points out the importance of an initial seed microbiota that will be kept during life and which may affect the acquisition of other microbes. Diet appears to be an important factor that shapes the microbiota as observed during the transition from PW to Y1. However, the diet change at week 12 had little effect as shown by a similar profile at weeks 12, 14 and
+26. Furthermore, the fact that the Y2 microbiota com- position separates from Y1 even though the diet was unchanged indicates that other factors have to be con- sidered. This is particularly evident between 26 and 52 weeks after birth: The collective capacity of the microbiota to perform amino acid metabolism severely decreased between Y1 and Y2, as did the metabolism of cofactors and vitamins (Table S4). This was however not the case for biotin / Vit B7 in con- trast to what has been reported to occur in a model of frailty in mice.This possibly reflects the absence of detectable frailty readouts in the aged rats in this study. Anyway, factors other than diet that shape the microbiota in older rats may include general physio- logic modifications induced by aging, with Y2 corre- sponding to a new biologic stage in the life of rats. While the gut is likely exposed continuously to new microbes, some thrive only for a limited length of time, possibly fulfilling important temporary func- tional roles for gut homeostasis. However, others may become incorporated as permanent members of the
+
+
+
+microbiota when provided permissive ecological con- ditions, possibly at peculiar stage of rats' life indepen- dently of the diet. Our data also provide clues that the selection of particular microorganisms to which rats are exposed is driven by an adaptation of the gut microbiota to a more efficient energy-harvesting con- figuration to act upon accessible nutrients, illustrated by the acquisition of similar functional profiles over time. These microbial changes affect SCFA production which in turn likely affects the physiology of the rat. Importantly, among the functional microbial changes, the increase in motility genes observed in aging rats merits further attention in the context of aging related inflammation and metabolic disorders, recognizing that flagellin is a canonical TLR5 ligand,and that TLR5 has a surveillance role which when disturbed leads to obesity.
+In conclusion, the gut microbiota of healthy labora- tory rats changes throughout the lifespan. However, they maintain a core microbiota and display an increased diversity that corresponds to the acquisition of more similar functional profiles across animals. Despite the absence of some genera found in humans, or the presence of specific ones shared with mice, fecal microbiota in cluster Y1 rats was more related to that of humans than mice. This likely accounts for the higher similarity to the initial human fecal inoculum achieved in gnotobiotic rats compared with mice. Overall, considering the metabolic behavior of the gut microbiota, the dynamics of the gut microbiota in rats should be taken into account when using rats for pre- clinical models e.g., for nutritional or toxicological studies.
+
+Materials and methods
+Study design and breeding conditions of animals
+Animals (Rattus norvegicus Sprague-Dawley) were bred in Janvier Labs (Le Genest Saint Isle, France) with a certified management system for the breeding, purchase and delivery of rodents devoted to research and biomedical control. Only dedicated trained staff was handling animals in the controlled conditions of the laboratory equipped with appropriate ventilation and technical equipment. Animals were bred from birth to 12 weeks in a specific production unit and then transferred by aseptic methods to another unit. Only animals with no signs of disease at the moment of sampling (fecal pellets) were used. The health status
+
+of each animal colony was assessed by an independent laboratory using FELASA-based recommendations. Rats were randomly chosen from different cages for sampling of fecal pellets to avoid coprophagy-induced cross-contamination of samples. Rats had ad lib access to water (6-8ppm chlorinated, pH D 5) and food. Autoclaved food was composed of a complete feed for rats with 18% crude proteins (ssniff S8189- S105) from 3 weeks to 12, then replaced by a complete feed with 15% crude proteins (ssniff S8189-S085) (ssniff SpezialdiEURaten GmbH, Germany). Detailed com- position of these feeds are given in Table S6. Rats were sampled at weeks 3 after birth (before weaning or PW), at weeks 12, 14 and 26 (referred as year 1 or Y1), and at weeks 52, 78 and 104 (Year 2 or Y2). The study was cross-sectional as rats of different ages were all sampled  at  the  same  date  (C/!  2  days)  with  the exception of rats aged 12 and 14 weeks, which were randomly chosen from the same colony and which were sampled at the 2 time-points. The total number of samples/animals studied per time-point was as fol- lows: Week 3: 8; Week 12: 8; Week 14: 8; Week 26: 7;
+Week 52: 8; Week 78: 7; Week 104: 8. To compare the microbiota of rats with the microbiota of laboratory mice and elderly humans we included sequencing data from 38 elderly healthy individuals and from 10 mice (14-week-old) of an ongoing study in the APC Microbiome Institute in the analysis. The sequencing data for these samples was available and all sequences were processed together as described in "Analysis of 16S amplicon sequencing data."
+
+Extraction of nucleic acids, 16S rRNA amplicon sequencing and qPCR analyses
+DNA was extracted from 250 mg of frozen rat stool using the protocol of Yu and Morrison coupled with Qiagen DNA Stool Mini Kit (Qiagen, West Sussex, UK).DNA from 180-220 mg of mouse stool was extracted using Qiagen's QIAamp Fast DNA Stool mini kit. DNA quantifications were performed using NanoDrop ND-1000 spectrophotometer (NanoDrop Technologies, Wilmington, DE). Libraries for 16S rRNA amplicon sequencing of the V3 and V4 regions were prepared following the guidelines provided by Illumina (San Diego, USA; Part #15044223, Rev. B). In brief, 50 ng of extracted fecal DNA were subjected to a PCR with 25 cycles, followed by purification using Agencourt XP beads (Beckman Coulter, Takeley, UK).
+
+
+
+Then dual multiplexing barcodes were annealed to each amplicon and the reactions were purified again. Finally, amplicons were pooled to equimolar concen- trations and sequenced on a MiSeq using 2*300 bp chemistry (Illumina, San Diego, USA). Sequence of the primers used were TCGTCGGCAGCGTCAG ATGTGTATAAGAGACAGCCTACGGGNGGCW GCAG (V3, forward) and GTCTCGTGGGCTCGGA GATGTGTATAAGAGACAGGACTACHVGGGTA
+TCTAATCC (V4, reverse). Detection of methanogens was performed by quantitative PCR using specific pri- mers for Methanobrevibacter smithii, Methanosphaera stadtmanae and Methanomassiliicoccales. Primer sequences and annealing temperatures have been described previously for M. smithii and M. stadtma- nae.Primers for Methanomassiliicoccales were GATTCTGAGACACGAATCCAGG and CGTCTTA
+CCCAGCCCTTATTC (Ca. Methanomethylophilus alvus digestive cluster), used at an annealing tempera- ture of 580C. Reactions were performed using reac- tants (Brilliant III Ultra-Fast SYBR(r) Green QPCR, Agilent, Palo-Alto, CA, USA) and manufacturer instructions on the Mx-3005P qPCR apparatus (Agilent, Palo-Alto, CA, USA).
+
+Analysis of 16S amplicon sequencing data
+Analysis of 16S rRNA amplicon data was performed as described previously.Briefly, barcodes were reattached to the libraries, which were obtained as demultiplexed libraries per sample, adaptors were removed and paired- end sequencing reads were merged using FLASH. Merged sequences were then processed in QIIMEand usearch to obtain an OTU table. Representative sequences were classified using mothuragainst the 16S rRNA reference of RDP, version 14. Additionally, an OTU-table was obtained using QIIMEs pick_closed_re- ference_otus.py and the green genes database version 13_5 for input into PICRUSt.
+
+Short chain fatty acids analysis
+Fecal samples were weighed, diluted in 2 mL of sterile water and then centrifuged (8,000 PS g, 10 min). 85 ml of 2-ethylbutyric acid (49 mM) and 20 ml of phospho- tungstic acid (500 g.L!1) were added to the superna- tant and samples were then incubated at 40C overnight. Acetate, propionate, butyrate, isobutyrate, valerate, isovalerate, caproate, isocaproate and hepta- noate were assayed using gas chromatography using
+
+2-ethyl-butyrate as internal standard (HP 6890 series, column HP-INNOVAX 30 m PS 250 mm PS 0.25 mm, split ratio 25:1,  Agilent Technologies, Palo Alto,  CA, USA).The concentration of SCFAs was normal- ized against the initial stool weight.
+
+Statistical analysis
+Statistical analysis was performed in Rusing appro- priate methods including paired or non-paired t-test or Wilcoxon-tests and permutational multivariate analysis of variance using distance matrices (pMA- NOVA). Distance matrices were calculated using unweighted UniFrac, weighted UniFracand Spear- man-rank distance. Correction for multiple testing was performed using the method of Benjamini and Hochberg. Rat core-microbiota across different developmental stages was determined as follows. The "core" microbiota comprises all OTUs which were present in at least 80% of rats of each age group, i.e., present in 80% or more of prior-to-weaning rats, year-1 rats and year-2 rats. Similarly, the "core PW" comprises OTUs which were present in at least 80% of prior-to-weaning rats. Core Y1: OTUs present in at least 80% of 12-week-old to 26-week-old rats. Core Y2: OTUs present in at least 80% of 52-week-old to 104-week-old rats. Core PWY2 and Core Y1Y2 com- binations of above (no OTUs in group Core PWY1). Variable: OTUs not in any of above categories. In the case where OTUs qualified for 2 groups the group containing more age-groups took precedence e.g., OTUs in Core Y1Y2 would also qualify for either Core Y1 or Core Y2, but membership of Core Y1Y2 took precedence.
+
+Availability of materials and data
+Rat microbiota sequencing data has been submitted to the European Nucleotide Archive (ENA) and is publicly available under the study number PRJEB21217 ( ).
+
+Abbreviations
+F/B	Firmicutes vs Bacteroidetes ratio
+GF	germ-free
+GIT	Gastro-intestinal tract
+KEGG	Kyoto encyclopedia of genes and genomes LPS	lipopolysaccharides
+NGS	Next-generation sequencing
+OTU	operational taxonomic units
+
+PCoA	principal coordinates analysis pMANOVA permutational multivariate analysis of
+variance
+PW	before weaning
+QIIME	quantitative insights into microbial ecology
+SCFAs	short-chain fatty acids
+TLR5	Toll-like receptor 5
+Y1	year one
+Y2	year two
+
+
+Disclosure of potential conflicts of Interest
+No potential conflicts of interest were disclosed.
+
+Acknowledgments
+We thank Janvier Labs (rodent research models and associated service) for breeding animals and providing fecal samples of rats, and especially Sylvie Bouilly and Eloise Delamaire for their valuable help and collaborations. We thank Amy Hesketh for her contribution to this study.
+
+Funding
+NG received a PhD scholar grant from the French "Ministere de l'Enseignement et de la Recherche." WT received a PhD scholar grant from the Auvergne council. PPC received a post- doctoral  fellowship  from  "Universit,e  d'Auvergne."  Work  in PWOT's laboratory was supported by Science Foundation Ire- land through a Center award to the APC Microbiome Institute (SFI/12/RC/2273).
+
+ORCID
+Jean-Franc, ois  Brugere	 
+
+
+References
+Sender R, Fuchs S, Milo R. Revised Estimates for the Number of Human and Bacteria Cells in the Body. PLoS Biol 2016; 14(8):e1002533; PMID:27541692; 
+Ley RE, Hamady M, Lozupone C, Turnbaugh PJ, Ramey RR, Bircher JS, Schlegel ML, Tucker TA, Schrenzel MD, Knight R, Gordon JI. Evolution of mammals and their gut microbes. Science 2008; 320:1647-51; https://doi.org/ 
+Sommer F, BEURackhed F. The gut microbiota-masters of host development and physiology. Nat Rev Microbiol 2013; 11:227-38; PMID:23
+
+
+Rooks MG, Garrett WS. Gut microbiota, metabolites and host immunity. Nat Rev Immunol 2016; 16:341-52; 
+Franzosa EA, Hsu T, Sirota-Madi A, Shafquat A, Abu-Ali G, Morgan XC, Huttenhower C. Sequencing and beyond: integrating molecular 'omics' for microbial community profiling. Nat Rev Microbiol 2015; 13:360-72; https://doi. 
+Mondot S, Lepage P. The human gut microbiome and its dysfunctions through the meta-omics prism. Ann N Y Acad Sci 2016; 1372:9-19; PMID:26945826; 
+Kostic AD, Howitt MR, Garrett WS. Exploring host- microbiota interactions in animal models and humans. Genes Dev 2013; 27:701-18; PMID:23592793; 
+Nguyen TLA, Vieira-Silva S, Liston A, Raes J. How infor- mative is the mouse for human gut microbiota research? Dis Model Mech 2015; 8:1-16; PMID:25561744; 
+Treuting P M, Dintzis SM. Lower Gastrointestinal Tract. In: Dintzis SM, Frevert CW, Liggitt HD, Montine KS, Treuting PM, editors. Comparative Anatomy and Histol- ogy - a Mouse and Human Atlas, 1st edn. Amsterdam (Netherlands): Elsevier; 2014. Chapter 12
+Vandamme TF. Use of rodents as models of human dis- eases. J Pharm Bioallied Sci 2014; 6:2; https://doi.org/ 
+Turnbaugh PJ, Ridaura VK, Faith JJ, Rey FE, Knight R, Gor- don JI. The effect of diet on the human gut microbiome: a metagenomic analysis in humanized gnotobiotic mice. Sci Transl Med 2009; 1:6ra14-6ra14; PMID:
+Hirayama K, Itoh K. Human flora-associated (HFA) ani- mals as a model for studying the role of intestinal flora in human health and disease. Curr Issues Intest Microbiol 2005; 6:69-75
+Wos-Oxley M, Bleich A, Oxley AP, Kahl S, Janus LM, Smoczek A, Nahrstedt H, Pils MC, Taudien S, Platzer M, et al. Comparative evaluation of establishing a human gut microbial community within rodent models. Gut Microbes 2012; 3:234-49; PMID:22572831; 
+Alpert C, Sczesny S, Gruhl B, Blaut M. Long-term stability of the human gut microbiota in two different rat strains.
+Curr Issues Mol Biol 2008; 10:17-24; PMID:18
+Manichanh C, Reeder J, Gibert P, Varela E, Llopis M, Antolin M, Guigo R, Knight R, Guarner F. Reshaping the gut microbiome with bacterial transplantation and anti- biotic intake. Genome Res 2010; 20(10):1411-19;
+PMID:20736229; 
+Brooks SP, McAllister M, Sandoz M, Kalmokoff ML. Cul- ture-independent phylogenetic analysis of the faecal flora of the rat. Can J Microbiol 2003; 49:589-601;
+PMID:14663493; 
+Hamilton MK, Boudry G, Lemay DG, Raybould HE. Changes in intestinal barrier function and gut microbiota
+
+
+
+in high-fat diet-fed rats are dynamic and region depen- dent. Am J Physiol Gastrointest Liver Physiol 2015; 308:
+G840-51; https://doi.org/
+Rodr,iguez JM, Murphy K, Stanton C, Ross RP, Kober OI, Juge N, Avershina E, Rudi K, Narbad A, Jenmalm MC, et al. The composition of the gut microbiota throughout life, with an emphasis on early life. Microb Ecol Health Dis 2015; 26:26050; PMID:25651996; 
+O'Toole PW, Jeffery IB. Gut microbiota and aging. Science 2015; 350:1214-15; https://doi.org/1
+Maczulak AE, Wolin MJ, Miller TL. Increase in colonic methanogens and total anaerobes in aging rats. Appl Environ Microbiol 1989; 55:2468-73
+Gaci N, Borrel G, Tottey W, O'Toole PW, Brugere JF. Archaea and the human gut: new beginning of an old story. World J Gastroenterol 2014; 20:16062-78;
+PMID:254
+Koh A, De Vadder F, Kovatcheva-Datchary P, BEURackhed F. From dietary fiber to host physiology: short-chain fatty acids as key bacterial metabolites. Cell 2016; 165:1332-45; 
+Langille MG, Zaneveld J, Caporaso JG, McDonald D, Knights D, Reyes JA, Clemente JC, Burkepile DE, Vega Thurber RL, et al. Predictive functional profiling of microbial  communities  using  16S  rRNA   marker gene sequences. Nat Biotechnol 2013; 31:814-21;
+PMID:23975157; 
+Flemer B, Lynch DB, Brown JM, Jeffery IB, Ryan FJ, Claes- son MJ, O'Riordain M, Shanahan F, O'Toole PW. Tumour-associated and non-tumour-associated microbiota in colorectal cancer. Gut 2016; 66(4):633-43; gutjnl-2015- 309595. https://doi.org/1
+Falony G, Joossens M, Vieira-Silva S, Wang J, Darzi Y, Faust K, Kurilshikov A, Bonder MJ, Valles-Colomer M, Vandeputte D, et al. Population-level analysis of gut microbiome variation. Science 2016; 352(6285):560-4;
+PMID:27126039; 
+Silley P. Human flora associated rodents - does the data support the assumptions? Microbial Biotechnol 2009; 2:6-14; PMID:21261878; 
+Krych L, Hansen CH, Hansen AK, van den Berg FW, Nielsen DS. Quantitatively different, yet qualitatively alike: a meta-analysis of the mouse core gut microbiome with a view towards the human gut microbiome. PLoS One 2013; 8:e62578; PMID:23658749; 
+Langille MG, Meehan CJ, Koenig JE, Dhanani AS, Rose RA, Howlett SE, Beiko RG. Microbial shifts in the aging mouse gut. Microbiome 2014; 2:1; https://doi.org/ 
+Leifer CA, McConkey C, Li S, Chassaing B, Gewirtz AT, Ley RE. Linking genetic variation in human Toll-like receptor 5 genes to the gut microbiome's potential to cause inflamma- tion. Immunol Lett 2014; 162:3-9; PMID:
+
+Chassaing B, Gewirtz AT. Has provoking microbiota aggression driven the obesity epidemic? Bioessays 2016; 38:122-8; PMID:26
+Soave O, Brand CD. Coprophagy in animals: a review.
+Cornell Vet 1991; 81:357-64
+Yu Z, Morrison M. Improved extraction of PCR-quality community DNA from digesta and fecal samples. Bio- techniques 2004; 36:808-13
+Mihajlovski A, Dor,e J, Levenez F, Alric M, Brugere JF. Molecular evaluation of the human gut methanogenic archaeal microbiota reveals an age-associated increase of the diversity. Environ Microbiol Rep 2010; 2:272-  80; PMID:237660
+Mago~c T, Salzberg SL. FLASH: fast length adjustment of short reads to improve genome assemblies. Bioinformat- ics 2011; 27:2957-63; PMID:21903629; 
+Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bush- man  FD,  Costello  EK,  Fierer  N,  Pen~a  AG,  Goodrich  JK, Gordon JI, et al. QIIME allows analysis of high-throughput community sequencing data. Nat Methods 2010; 7:335-6;
+PMID:2
+Edgar RC. Search and clustering orders of magnitude faster than BLAST. Bioinformatics 2010; 26:2460-1; PMID:20709691; 
+Schloss PD, Westcott SL, Ryabin T, Hall JR, Hartmann M, Hollister EB, Lesniewski RA, Oakley BB, Parks DH, Robinson CJ, et al. Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol 2009; 75:7537-41;
+PMID:19801464; 
+DeSantis TZ, Hugenholtz P, Larsen N, Rojas M, Brodie EL, Keller K, Huber T, Dalevi D, Hu P, Andersen GL. Greengenes, a chimera-checked 16S rRNA gene database and workbench compatible with ARB. Appl Environ Microbiol 2006; 72:5069-72; PMID:16820507; 
+Ounnas F, Priv,e F, Salen P, Gaci N, Tottey W, Calani L, Bresciani L, L,opez-Guti,errez N, Hazane-Puch F, Laporte F, et al. Whole Rye Consumption Improves Blood and Liver n-3 Fatty Acid Profile and Gut Microbiota Composition in Rats. PLoS One. 2016; 11:e0148118; PMID:
+R Core Team. R: A language and environment for statis- tical computing. Vienna, Austria: R Foundation for Sta- tistical Computing. 
+Lozupone C, Knight R. UniFrac: a new phylogenetic method for comparing microbial communities. Appl Environ Microbiol 2005; 71 :8228-35: https://doi.org/ 
+Hochberg Y, Benjamini Y. More powerful procedures for multiple significance testing. Stat Med 1990; 9:811-8; PMID:2

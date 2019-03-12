@@ -1,0 +1,379 @@
+Available online at 
+ScienceDirect
+
+
+From complex gut communities to minimal microbiomes via cultivation
+Thomas Clavel22 3
+
+
+
+The mammalian gut microbiota is dominated by populations of bacteria, mostly strict anaerobes. Because these bacteria can influence the health of their host, it is important to investigate their diversity and functions, which can be done via culture- based or molecular approaches. In recent years, microbiologists have very often preferred the use of molecular techniques, as they do not limit the analysis to the fraction of communities that can be grown in the laboratory. In reality, cultivation and molecular methods are complementary, and we are now witnessing a period of unification. Obtaining strains that can be grown in vitro is currently indispensable for the description of novel diversity and eventually the improvement of taxonomic and sequence databases. Moreover, cultivation allows using host-specific minimal consortia of microbes that are helpful for detailed and standardized studies of gut microbial communities and microbe-host interactions.
+Molecular techniques are helpful because they can provide insights into strain-level diversity and the functional potential of organisms. Furthermore, genomic and metagenomic data allow inferring growth conditions for uncultured bacteria and also enable detailed genetic studies. In the present manuscript, we highlight recent work on culture-based investigation of mammalian gut bacteria and microbe-host interactions and give our opinions on challenges and perspectives in the field.
+
+
+
+Addresses
+1 Institute of Medical Microbiology, RWTH University Hospital, Pauwelsstrasse 30, 72054 Aachen, Germany
+2 ZIEL Institute for Food and Health, Core Facility Microbiome/NGS,
+Technical University of Munich, Weihenstephanerberg 3, 85354 Freising, Germany
+3 Max von Pettenkofer Institute of Hygiene and Medical Microbiology,
+Ludwig-Maximilians-University of Munich, Pettenkoferstrasse 9a, 80336 Munich, Germany
+
+Corresponding author: Clavel, Thomas ()
+
+
+
+
+Introduction
+The intestinal microbiota is a complex and dynamic ecosystem that influences mammalian physiology and the susceptibility to chronic diseases. Our gut symbionts can preclude infection by enteropathogens and partici- pate in immune system maturation and metabolic health, as reviewed in Refs. []. These examples justify the importance of studying the mammalian gut microbiota and especially its bacteria, which are dominant members of this ecosystem [].
+
+The use of molecular techniques has revolutionized the investigation of microbial ecosystems as they increased throughput of analysis and brought light to previously unexplored phylogenetic diversity []. However, due to the popularization of molecular tools, culture-based approaches have been neglected by many in recent years despite several advantages []. For instance, interpre- tation of the gigantic amount of data accumulated by high-throughput sequencing requires key isolates for precise taxonomic and functional classification. Cul- ture-based investigations of bacterial communities com- plements very well molecular studies via characterization of novel bacterial functions [ plored diversity [], and hypothesis-driven functional studies in animal models [].
+
+In the following sections, we present recent work pertain- ing to the investigation of mammalian gut microbiota by cultivation and discuss important notions in the field.
+
+What have we learnt?
+Since 2005, molecular studies of the gut microbiome have generated major hopes pertaining to its role in health and diseases. These hopes have found a great echo in the media, but the reality looks somewhat different: the metagenomics era fell short of its target to provide an unbiased and comprehensive view of gut microbial eco- systems and microbe-host interactions. The field still suffers from a lack in standardization [], and more mechanistic studies dissecting the interplay between gut bacteria and their host are needed to counteract the exponential accumulation of descriptive data on shifts   in microbiota composition associated with certain host phenotypes. Past and future development of metage- nomic tools have and will be of great value to the field, but this should go hand in hand with the use of culture- based approaches in order to shed light on causal relation- ships. It is important to further promote the isolation of gut bacteria to enrich our knowledge of prokaryotic
+
+
+
+
+
+diversity. Although there is currently no clear consensus in the field, it is safer to say that approximately half of human gut prokaryotes can be cultured, rather than a minority [
+
+Culturing efforts of the last few years have shown that it is worthwhile to isolate bacteria [ finding new taxa are substantial: approximately 1 of each 100 colonies analyzed represents a new taxon, which can lead to the discovery of dominant and important com- mensals  [].  Browne  et  al.  [
+137 bacterial species from the  human  gut,  including  67 novel taxa. They proposed that approximately half   of the bacterial diversity in human feces has the genetic potential to form spores, with consequences for host-to- host transmission of strains. The term 'culturomics', which refers to large-scale cultivation of gut bacteria on agar plates followed by high-throughput mass spectrom- etry-based identification and genome sequencing, was coined by French researchers in 2012 []. Their efforts in cultivating bacterial strains from the human gut has already brought hundreds of novel taxa to light [
+
+The projects aforementioned are unique as per their scale (number of isolates described and genomes generated), but nonetheless relied on classical anaerobic cultivation on solid media. Isolation campaigns in the 1970s were already prolific in obtaining gut bacteria, but capacities to describe and archive isolates were limited at the time []. Several innovative approaches for comprehensive and high-throughput cultivation of gut bacteria have been published in recent years []. Because exact media requirements are yet unknown for many bacteria and cross-feeding between strains is important in native com- munities, the major challenge is to efficiently separate the multitude of different taxa existing in native ecosystems while, in the best case, still allowing exchange of metab- olites, under strict anaerobic conditions. Thereafter, han- dling and identification of thousands of isolates, including slow growers, is an additional difficulty. This non-trivial logistics combined with the need for specific equipment may explain why new approaches have not yet spread widely into culture labs despite their elegance. Innova- tive co-culture techniques have also been developed []. These systems open new ways for studying mechanisms underlying the impact of bacteria-derived factors on the host, and vice versa. However, their use- fulness is dependent on the pool of cultured bacteria and cell lines available for testing interactions, and obviously, co-culture adds another layer of complexity.
+
+Future culture projects should be based on additional implementation of classical approaches, on the one hand. On the other hand, we now have the chance to integrate molecular approaches and culturing efforts even further. For instance, inferring metabolic functions and nutri- tional requirements from genome information to isolate
+
+unknown bacteria has successfully been used in the past [ binning shotgun sequences into so-called 'metagenomic species' []. Moreover, targeted sorting of strains with specific metabolic functions by single-cell, non-invasive molecular methods combined with cultivation is a prom- ising avenue to explore [).
+
+Of man and animals
+Are gut ecosystems so specific that one can confidently determine their host species of origin by looking at their community structure? How functionally different are various strains of a given bacterial species, or distinct  yet closely related species originating from different hosts?
+
+Comprehensive answers to these questions will require additional research, but it is clear that gut ecosystems have been shaped over thousands of years of co-evolution with their hosts []. Mammals and other animals such as birds are characterized by various dietary modes and by different digestive physiologies that markedly impact microbial communities in their intestine []. Readers are re-directed to other papers for more detailed informa- tion on factors that may contribute to the establishment of a host-specific gut microbiota []. We discuss only a few aspects here.
+
+The host genome and associated physiological traits such as immune responses and metabolites/substrates produc- tion (e.g., mucus, bile acids, anti-microbial peptides) are major selective factors for the gut microbiome []. From a microbial perspective, the expression of strain- specific signals (e.g., cell surface structures), which may emerge from co-evolution or selection by the host upon initial colonization, can favor persistence in specific niches in the gut of a given host []. Several studies have reported that certain taxa preferentially colonize a particular  host  species  [],  and  entire  bacterial families such as Muribaculaceae, Deferribacteraceae, or Cor- iobacteriaceae are rather unique in some gut environments [
+
+We now have tools to test the ecological distribution of bacteria via sequence-based approaches in a large-scale manner [ gut microbiome of different mammals (human, mouse, pig) is characterized by limited overlap in terms of gene diversity []. Although the gut microbiota is charac- terized by functional redundancy and it is unclear to what extent ecosystems with different phylogenetic makeups may be functionally equal [], microbiota transfer experiments have revealed host-specific traits of coloni- zation [], either due to the presence/absence of specific taxa well adapted to the recipient host or to failure in colonization by taxa from a different host [
+
+
+
+
+Figure 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transfer experiments using gut microbiota from zebrafish and mice showed that the host can shape communities entering a germfree gut []. More recently, the same group demonstrated that microbial consortia originating from the human, fish and insect gut and even from environmental samples are capable of colonizing the mouse   intestine   [ 'xenomicrobiota' were eventually out-competed by a genuine mouse gut microbiota, indicating that the murine gut is a highly selective environment for bacterial coloni- zation. These experiments emphasize the importance of understanding gut microbial ecosystems in a host-specific manner, including archiving of cultured taxa for the sake of mechanistic studies. Large-scale cultivation of gut bacteria has primarily focused on the human gut [ [ animal species, to be eventually able to study molecular mechanisms underlying microbe-host interactions and ecological principles behind host specificity in greater detail.
+
+Minimal microbiomes towards individualized mechanistic studies
+First of all, it is important to bear in mind that viruses and microorganisms other than bacteria colonize the mamma- lian gut []. However, arguments that speak in favor of studying and using bacterial communities are their dominance in the ecosystem, extensive knowledge of their diversity and functions, and availability of strains
+
+in public databases. Hence, with exceptions [], pub- lished studies have primarily focused on mixtures of bacteria, and it would actually be more accurate to talk about minimal bacteriomes. Nonetheless, microbiome is a common term in use and further development in the field will soon allow the addition of fungi, archaea, and bacteriophages to minimal consortia. Hence, it is sound to refer to minimal microbiomes.
+
+Minimal microbiomes can be useful to enhance repro- ducibility in research using animal models. For instance, microbiota profiles are known to vary markedly between animal facilities [], with important consequences on mouse phenotypes []. Original efforts towards stan- dardization of the hygiene status dates from the 1960-70s, when pioneers such as Rene' Dubos and Russel Schaedler focused on the isolation of gut bacteria from the mouse intestine [], and designed the so called Altered Schae- dler Flora (ASF) []. The ASF consists of 8 bacterial strains from the mouse intestine and is still being used as reference in the field of gnotobiology. It has provided the foundation for a number of seminal studies, in particular in the field of immunology []. However, the ASF has two major drawbacks: (i) the rationale for strain selection is outdated (the consortium is not in line with contempo- rary knowledge of mouse gut bacterial diversity); and (ii) the availability and use of the strains are restricted. Hence, it is obvious that we can nowadays do better than the ASF. Nonetheless, the experimental and logistical burden associated with the development and distribution
+
+
+
+(Figure 1 Legend) Complementary use of molecular and culture approaches. This non-exhaustive scheme highlights some key issues for future development of microbiome research based on cultivation. (1) SAMPLING: Major bias in experimental workflow occurs at early steps, and  particular attention should be paid to sampling. To enhance the original pool of diversity and be able to address host-specificity of microbiomes, different animal species should be considered as donors. Attention should be paid of whether starting material is representative in terms of heterogeneity and gut location. Treatments with known effects on the microbiota (e.g., antibiotics, specific dietary challenges) can be used  to enrich otherwise low abundant taxa in vivo prior to starting cultivation. Finally, storage and transport of samples should be optimized for the  targeted bacterial groups. For anaerobes, rapid transfer into a reduced buffered solution or medium is advised. It is also very important to pay attention to contamination during sampling. (2) ISOLATION: Obtaining single microorganisms can be done by means of: (i) Classical procedures  via plating of diluted native microbial mixtures onto agar plates. Different media can be used to increase the variety of species growing. The use    of complex substrates from natural environments (e.g., rumen fluid or fecal water) can also help supporting growth of fastidious anaerobes.
+Enrichment in broth prior to plating may be useful for recovering taxa that would not grow after direct plating; (ii) Targeted approaches relying on molecular data and techniques. For instance, functions inferred from genomes assembled from metagenomic data can be used for designing      novel culture conditions for isolation of target organisms of particular interest; (iii) Innovative techniques based for instance on extinction dilutions, microfluidic systems. In contrast to classical approaches, which are efficient in gathering novel diversity overt time from different samples,    innovative techniques can allow obtaining comprehensive libraries of isolates from individual samples. However, they may require specific   equipment and time-demanding optimization. (3) DESCRIPTION & (4) DEPOSITION: Considering that approximately 35-65% of bacterial taxa are still unknown (depending on the host species considered), researchers must strive to deliver proper taxonomic description of isolates in order to implement our knowledge of prokaryotic diversity. Description goes hand-in-hand with deposition of strains to public collections  in  order  to guarantee long-term accessibility. This part of work is still very often neglected, because it is time- consuming and not really rewarding. Current limitations include the laps of time between isolation and validation of bacterial names, and the difficulty in establishing genome-based description standards. Link to molecular approaches here is the ability to implement databases by using sequences collected form novel isolates for  improvement of omics datasets annotation. Whereas it is relatively straightforward in the case of single genes such as that of the 16S rRNA, implementation of genomic databases requires detailed, often manual and thus tedious annotation of genomes. (5) UTILIZATION: The major advantage of cultivating gut bacteria  is the possibility to use them for the sake of experimental studies in order to understand mechanisms  underlying microbe-microbe and microbe-host interactions. This can be done with model organisms (single strains having particular functions),      but also with minimal consortia of a limited number of strains. So far, the design of minimal microbiomes was based on limited  availability of   cultured strains and expert knowledge of gut microbiota structure and  functions.  Future  development  in the field  will include integration of molecular data for genome-based design of minimal consortia. Single strains and minimal microbiomes can be studied in vitro using continuous culture (for investigating community dynamics) or co-culture systems (for analyzing interactions with host cells) and in vivo using gnotobiotic    animals (maintained in confined environments to assess the impact of colonization on the host and the microbes).
+
+
+
+
+
+of a consortium with improved features has so far discour- aged researchers to perform the work. In particular, experiments demonstrating that alternative consortia pro- vide additional functions and thus better represent native ecosystems than the ASF are laborious. Other consortia have been published, such as SIHUMI [] and a con- sortium for use in pigs [], but strains originate from various host species and easy access to the strains remains an issue.
+
+Further applications of minimal microbiomes relate to targeted experiments for studying microbe-microbe and microbe-host interactions. Besides the ASF, the vast majority of mouse studies have included the use of strains originating from the human gut (see listing in Ref. []). Our recent work led to the establishment of an Oligo- Mouse-Microbiota (Oligo-MM), consisting of modular mixtures of strains originating from the mouse intestine, originally designed to study colonization resistance against Salmonella enterica serovar Typhimurium infection [ other labs to study microbiota-derived functions, such as mucus colonization and Clostridium difficile infection [ ]. In these studies, and more generally when discussing rationales behind the composition of minimal micro- biomes, a key issue is selection of the strains that make up the consortium. Past work has relied on criteria like phenotyping and phylogenetic diversity. The most important prerequisite for inclusion in minimal consortia was that selected species could be cultured in the labora- tory and eventually colonized the intestine of mice. We now have means to move from knowledge-driven, best guesses selection to data-driven consortia. Tools exist to test the occurrence of species in various gut environments in large-scale manner [ pools  of  available  strains  [ community member selection in  host-specific  manner is possible. While it would be important to supply at least one or a few defined consortia to a broad research com- munity for standardization purposes, consortia will always have to be revised and improved according to newly discovered diversity and functions  and  to  meet needs of individual projects (where target strains of interest could be added to a given reference consortium). Also, different community structures can provide similar func- tions, and future work should also include data-driven design based on the functional potential of ecosystems, for example, based on metagenomic data.
+
+There has been a renewed interest in the diversity of gut microbiota at the level of strains thanks to recent advances  in  molecular  approaches  [ important questions pertaining to the impact of strain differences and plasticity when designing minimal micro- biomes, which adds one level of complexity to the selec- tion of consortium members. As mentioned above in the section 'Of man and animals', there is evidence that the
+
+host origin of a bacterium, including several strains of the same bacterial species, has functional consequences. Nevertheless, it is unclear how quickly a bacterium evolves in the gut and adapts to optimally grow and compete in a certain environment []. In very simplified words: how long does it take for a human gut bacterium to become murine? Moreover, strains maintained in vitro can accumulate genetic rearrangements and functional changes, with potential loss of functions that may be important in native environments []. This point high- lights the importance of archiving strains in recognized bioresources to guarantee availability of standardized stocks, even though it is impossible to completely prevent bias introduced by in vitro maintenance. At least, the availability of ever more affordable genome sequencing technologies enables quality control and detailed insights into the nature of strain evolution under in vitro and in vivo conditions. One promising future line of research is to use available minimal microbiomes to assess in greater detail the stability and genetic plasticity of communities once established in gnotobiotic models.
+
+In summary, whereas improved reference minimal micro- biomes accessible to all are urgently needed, they will not be able to address any scientific question and will even- tually have to be adapted to the specific purposes of a study. Continuous discovery of novel bacteria and associ- ated functions will also nurture the flexibility of minimal microbiomes.
+
+Concluding remarks
+Renewed interest in the cultivation of gut bacteria has already led to substantial new discoveries. Efforts should be continued and extended to host species other than humans and mice and to microorganisms other than bacteria. Moreover, it is important that researchers archive strains in public collections to share knowledge and guarantee accessibility, and mining of resources should be efficient []. It is in the responsibility of everyone to implement bioresources for the benefits of the entire research community.
+
+Proper taxonomic description of new isolates is also very important to provide a common ground of known bacte- rial diversity and thus avoid confusions, but underlying strategies are an important matter of debate. Taxonomic classification of bacteria must evolve with technological advances, but the latter go faster than the adaptation of existing procedures for description and validation of new bacteria. One main question that currently animates the field is to know whether time-consuming, multifactorial, and individualized characterization of bacteria (where parameters to be measured vary depending on closest relatives of a novel isolate) is really necessary, or whether taxonomic delineation of bacteria should primarily be based on solid phylogenetic/genomic analysis, with addi- tional phenotypic and chemical properties accounting for
+
+
+
+
+
+refine diversification at the strain level within evolution- ary congruent taxa with names. Whereas the current system for description of novel cultured taxa has reached its limits [], genome-based approaches lack standards and consensus on rules to be followed for proper classifi- cation. Concerted actions to collect genomic information and establish/maintain corresponding databases are essential []. Moreover, the field urgently needs more work on the amendment of misclassified taxa [] and on innovative approaches that give the possibility to describe the myriad of not-yet-cultured but known micro- bial diversity with genomic information available []. For thelatter, consensus onstandardstofollowfordescriptionis required too, and a dedicated platform for widespread use by the community would be of great help.
+
+Work on the isolation of bacteria is a necessary foundation for experimental implementation of defined consortia for the sake of mechanistic studies. Minimal microbiomes must be modular to fulfil the needs of individual mecha- nistic studies. Nevertheless, easy access to some standard- ized consortia capable of establishing in gnotobiotic animal models is currently a shortage in the field of microbe-host interactions. In as much as collecting individual bacterial species and taxonomic description are very important, exchange of information between microbes via mobile genetic elements is a key phenomenon that adds complex- ity to the system []. We know too little about strain evolution and adaptation to colonization, and minimal microbiomes will help addressing these issues.
+
+In the field of gut microbiome research, there is a high amount of fundamental work that everybody needs but very few are willing to do, such as taxonomic classification of bacteria, setting up and maintaining high quality standards for it, detailed genetic characterization of single strains to counteract the accumulation of erroneously annotated genomes, and design and distribution of stan- dardized minimal microbiomes. The current U-turn in dogma and renaissance of culture-based  approaches  will hopefully help getting credits and funding for this indispensable type of work.
+
+Conflict of interest
+The authors have no conflicts of interest.
+
+
+
+
+
+
+
+
+
+This is one of the first papers demonstrating the usefulness of inferring functions of a single microorganism from shotgun metagenomic data for subsequent isolation of the first cultured representative of the taxon.
+
+
+
+
+
+
+
+
+
+
+Acknowledgement
+The authors received financial support from the German Research Foundation (grant no. CL481/2-1).
+
+
+.
+
+Lagkouvardos I, Overmann J, Clavel T: Cultured microbes represent a substantial fraction of the human and mouse gut microbiota. Gut Microbes (April (18)):2017:1-11  . PMID: 28418756.
+
+
+References and recommended reading
+Papers of particular interest, published within the period of review, have been highlighted as:
+
+Although many publications have been referring to a minor fraction of
+mammalian gut microbes being cultured and thereby justified the use of molecular techniques, there is still no clear consensus on the cultured fractions of gut microbial ecosystems. This publication brings light to this issue via detailed literature survey and original sequence-based data at a very large scale.
+
+of special interest
+.. of outstanding interest
+
+1.	
+
+17.
+.
+
+Browne HP, Forster SC, Anonye BO, Kumar N, Neville BA, Stares MD, Goulding D, Lawley TD: Culturing of 'unculturable' human microbiota reveals novel  taxa  and  extensive sporulation. Nature (May (26)):2016:543-546  . Epub 2016 May 4.
+
+
+
+
+
+Combining cultivation and metagenomics, the authors isolated many novel gut bacteria and showed that the capacity to form spores is widespread in gut bacterial genomes, possibly favoring vertical transmis- sion of strains.
+
+
+
+A very nice example of innovative molecular approach for the functional study of microorganisms via identification and selection of active cells. Such a technique opens new ways towards the next generation cultiva-
+
+18.
+.
+
+
+  
+
+tion of target microorganisms.
+
+
+
+Paper gathering the output of many years of intensive cultivation of human gut bacteria by the authors, presenting an impressive number   of novel taxa, many of which remain to be described.
+
+
+
+
+
+19.
+.
+
+
+   
+
+ 
+
+
+
+Using culture techniques to isolate mouse gut bacteria and sequencing data to test their relevance, the authors created a public collection of strains covering approximately a quarter of sequence diversity and containing important novel taxa. They also provided evidence for host- specific colonization of the gut.
+
+
+
+Derrien M, Belzer C, de Vos WM: Akkermansia muciniphila and its role in regulating host functions. Microb. Pathog. (May (106)):2017:171-181 . Epub 2016 Feb 11.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clavel T, Lagkouvardos I, Blaut M, Stecher B: The mouse gut microbiome revisited: from complex diversity to model ecosystems. Int. J. Med. Microbiol. (5):2016:316-327 . Epub 2016 Mar 5. Review.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+Loy A, Pfann C, Steinberger M, Hanson B, Herp S, Brugiroux S, Neto J, Boekschoten MV, Schwab S, Urich T et al.: Lifestyle and horizontal gene transfer-mediated evolution of Mucispirillum schaedleri, a core member of the murine gut microbiota. mSystems (1)2017 
+. pii: e00171-16. eCollection 2017 Jan-Feb.
+
+
+
+32.
+..
+
+  
+
+  
+
+
+
+
+
+
+..
+
+   
+
+65. 
+
+State-of-the-art gnotobiology-based experiment series using complex microbial inocula from different environments to study colonization dynamics, showing host-specific selection of taxa.
+
+66.
+.
+
+Brugiroux S, Beutler M, Pfann C, Garzetti D, Ruscheweyh HJ, Diehl M, Loetscher Y, Hussain S, Pukall R, Huson D et al.: Design of a defined mouse microbiota community to investigate
+
+50.
+..
+
+   
+
+colonization resistance mechanisms using a bottom-up approach. Nat. Microbiol. 2016, 2(November (21)):16215  .
+
+Paper presenting an innovative and user-friendly bioinformatic tool that allows large-scale analysis of 16S rRNA gene amplicon studies from all kinds of environment, allowing for instance to routinely check the eco- logical distribution of newly cultured taxa.
+
+
+
+
+  
+
+
+
+54.
+.
+
+  
+
+
+.
+
+
+  
+
+Colonization of germfree mice by human gut microbiota has been widely used to test causality of shifts in ecosystem structure and functions. This paper draws attention to important experimental considerations.
+
+
+
+ 
+
+
+
+
+
+
+
+
+The present paper reminds of the importance to study gut microbial
+diversity at the level of strains, focusing on colonization dynamics after fecal transplantation in human.
+
+
+
+
+
+
+ 
+
+Lawson PA, Rainey FA: Proposal to restrict the genus Clostridium (Prazmowski) to Clostridium butyricumClostridium butyricum and related species. Int. J. Syst. Evol. Microbiol. (December (7))2015 .

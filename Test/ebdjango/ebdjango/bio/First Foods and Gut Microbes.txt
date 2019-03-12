@@ -1,0 +1,266 @@
+
+
+ 
+
+
+
+
+
+
+
+1 , 1 , 2 and 1*
+1 National Food Institute, Technical University of Denmark, Soborg, Denmark, 2 Department of Nutrition, Exercise and Sports, University of Copenhagen, Frederiksberg, Denmark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edited by:
+Maria Carmen Collado, Consejo Superior de Investigaciones
+Cientificas (CSIC), Spain
+Reviewed by:
+M. Pilar Francino, Valencian Health Department, Spain Clara G. De Los Reyes-Gavilan, Consejo Superior de Investigaciones
+Cientificas (CSIC), Spain
+*Correspondence:
+Tine R. Licht 
+
+Specialty section:
+This article was submitted to
+Food Microbiology, a section of the journal Frontiers  in Microbiology
+Received: 05 December 2016
+Accepted: 21 February 2017
+Published: 06 March 2017
+Citation: Laursen MF, Bahl MI, Michaelsen KF and Licht TR (2017) First Foods
+and Gut Microbes. Front. Microbiol. 8:356.
+doi: 
+
+The establishment of the human gut microbiota in early life has been associated with later health and disease. During the 1st months after birth, the microbial composition in the gut is known to be affected by the mode of delivery, use of antibiotics, geographical location and type of feeding (breast/formula). Consequently, the neonatal period and early infancy has attracted much attention. However, after this first period the gut microbial composition continues to develop until the age of 3 years, and these 1st years have been designated "a window of opportunity" for microbial modulation. The beginning and end of this window is currently debated, but it likely coincides with the complementary feeding period, marking the gradual transition from milk-based infant feeding to family diet usually occurring between 6 and 24 months. Furthermore, the 'first 1000 days,' i.e., the period from conception until age 2 years, are generally recognized to be of particular importance for the healthy development of children. While dietary changes are known to affect the adult gut microbiota, there is a gap in our knowledge on how the introduction of new dietary components into the diet of infants/young children affects the gut microbiota development. This perspective paper summarizes the currently very few studies addressing the effects of complementary diet on gut microbiota, and highlights the recent finding that transition to family foods greatly impacts the development of gut microbial diversity. Further, we discuss potential impacts on child health and the need for further studies on this important topic.
+Keywords: infant gut microbiota, breast feeding, weaning, gut microbial diversity, complementary diet, transition, SKOT cohorts, family foods
+
+
+WHAT DO WE KNOW ABOUT COMPLEMENTARY FEEDING AND GUT MICROBIOTA DEVELOPMENT?
+The differential effect of breastfeeding as compared with formula feeding or mixed feeding on  the composition of the gut microbiota is well established (, ; ,  ; , ; , ). However, what happens to the gut microbiota when the first solid foods are introduced and gradually replace the milk-based diet has only scarcely been addressed. Longitudinal  studies  with  repeated  sampling  in  a  limited  number  of infants have indicated that microbial composition changes significantly around the period       of introduction to solid foods and cessation of breastfeeding/formula feeding  (, ; , ; , ; , ; , ; , ). We have previously monitored the fecal microbiota of 330 Danish children participating in the study designated 'SKOT,' at age 9, 18, and 36 months. It was evident that Lactobacillaceae, Bifidobacteriaceae, Enterococcaceae, and Enterobacteriaceae abundance decreased while Lachnospiraceae, Ruminococcaceae, and Bacteroidaceae species increased during the period
+
+
+
+from 9 to 18 months, i.e., during the period characterized by transition from milk-based feeding to family diet (    , ). This was largely in agreement with a European study including 531 infants from five different countries demonstrating that consistent compositional changes (decrease in Bifidobacteriaceae, Enterobacteriaceae, Clostridiaceae while increase in Ruminococcaceae and Lachnospiraceae species) occurred from 6 weeks of age until 4 weeks after the introduction of solid foods, irrespectively of differences in geographic location, use of antibiotics, mode of delivery (vaginal or C-section) and milk feeding practices (, ). Recently   () found increased gut microbial diversity of both exclusively  breastfed  infants  (n     4)  and  mixed-fed  infants (n 5) after introduction of solid foods.
+The general challenge in longitudinal studies is to differentiate between the effects caused by advancing age (leading to increased exposure to environmental microbes and increased maturity of the gut) and effects induced directly by dietary changes. In order to address this issue, we recently combined a comprehensive analysis of the complementary diet with 16S rRNA gene sequence analysis of the fecal microbiota in two independent Danish cohorts of infants aged 9 months, participating in the previously mentioned SKOT  study,  and  demonstrated  that  gut microbial diversity correlated significantly with the child's progression toward family foods in both cohorts (, ). A Principal Component Analysis of the complete infant dietary records at 9 months, including 23 food groups (recorded in g/day/kg body weight) was performed. The first principal component was defined as "Family Food,"  since it described  the transition from early infant foods, with high content of breastmilk, formula and porridge (low loadings), to  family foods introduced during late infancy (high loadings), with high content of meat, milk, cheese, animal fat and rye bread (type of bread commonly used in complementary feeding in Denmark) (). We found separately in both cohorts (, ), as well as for the compiled data set (n 217), that the family food parameter was strongly associated with the Shannon index, a commonly used measure of alpha diversity (e.g., within-sample complexity) of the gut microbiota (). Other measures of alpha diversity, namely microbial richness (Observed genera) and evenness (Pielou's evenness  index)  were strongly associated with the progression to family foods, indicating that both the number of different microbes (richness) and the balance between these (evenness) are affected by this progression (). These associations seem to be driven both by the cessation of breastfeeding and by the introduction  of  food  items  with  higher  fiber  and  protein  content,  such  as rye  bread,  cheese  and  meat  products,  as  evidenced  from a hierarchical clustering of correlation coefficients between dietary factors and alpha diversity metrics from the compiled data set (). Further,  progression  toward  family  foods at the of age 9 months was negatively associated with abundances of Bifidobacterium, Enterococcus, Enterobacteriaceae (Escherichia, Kluyvera) and to a lesser degree with Clostridiaceae (Clostridium sensu stricto), but positively associated with abundances of several different bacterial genera (), most of them within Lachnospiraceae (Blautia, Roseburia,
+
+Pseudobutyrivibrio, Dorea, Coprococcus, Lachnospiraceae incertae sedis) and Ruminococcaceae (Faecalibacterium and Ruminococcus), confirming the previous observations from the SKOT cohort (, ) as well as other study populations (, ; , ). Indeed, the relative abundance of species within Lachnospiraceae and Ruminococcaceae increases when dietary fibers from rye bread (arabinoxylans) or protein  from  dairy/cheese  (casein)  and meat are included in the diet (, ; , ). Thus, the introduction of these food components may provide selective advantages for specific microbes to establish  in the gut, which will increase alpha diversity. However, we also observed in our cohort studies that the duration of exclusive breastfeeding (range 0-6 months) was more determining for microbial diversity at the age of 9 months  than  the  time  of first introduction of solid foods (range 3-6 months), reflecting the dominating impact of breastfeeding (, ). To further elucidate the influence of breastfeeding in relation    to the effect of complementary diet, we performed a sub- analysis, stratifying the infants by breastfeeding status (defined as at least 1 breastfeeding per day at age 9 months), and correlating the dietary parameters with gut microbial alpha diversity (). Protein, fiber and progression toward family foods were positively correlated with the Shannon index in both subsets, indicating that these associations occurred independently of breastfeeding. Interestingly, while meat, cheese and rye bread represented the specific dietary groups most strongly correlated to diversity in the complete dataset (n 217) and in the subset of infants no longer breastfed (n  145), porridge (primarily oatmeal, the most common type of porridge used in complementary feeding in Denmark) was most strongly correlated to diversity in  the  subset  of  infants  still  breastfed at 9 months (n      72). Oatmeal is rich in dietary fibers such      as b-glucans, which can be utilized by gut microbes (    , ). Our results suggest that while infants are still breastfed, porridge is the dietary factor contributing most to gut microbial diversity, whereas when infants are no longer breastfed, consumption of cheese, meat and rye bread is more important. Formula intake was positively associated with diversity in the breastfed infant subset (), supporting the previous observations that mixed-fed infants have higher microbial diversity than exclusively breastfed infants (, ). Oppositely, formula feeding was negatively associated with diversity in the infants that were no longer breastfed, indicating that the substitution of formula with solid foods such as meat, cheese and rye bread further increase microbial diversity (). Together, these results suggest that effects on gut microbial composition and diversity during the complementary feeding period is not solely mediated by weaning/cessation of breastfeeding, but indeed affected by the introduction of new specific complementary foods with higher protein and fiber content.
+The  development  of  the  intestinal  microbiota  is  affected
+by a number of factors including geography, lifestyle and oligosaccharide content of the breastmilk. Although the microbial succession in the infant gut thus greatly  varies  among    individual    infants,    the    general    picture emerging
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 1 | (A) PCA loading plot of the 23 food groups (grams per day per kilogram body weight), with the fist principal component defined as family food, describing the transition from early infancy foods to family foods. (B) Pearson's correlation between family food and the Shannon index of alpha diversity.
+(C) Heatmap illustrating hierarchical clustering of correlation coefficients between dietary parameters and alpha diversity metrics. (D) Heatmap illustrating correlation coefficients between family food and gut microbial genera showing a p-value below 0.1. (E) Heatmap illustrating hierarchical clustering of correlation coefficients between dietary parameters and Shannon index in partially breastfed (n = 72) and weaned (n = 145) infants aged 9 months. Color key applies to panel (C-E) and
+represents correlation coefficients of Spearman's rank/Pearson's correlations. Statistical significance is indicated by # p = 0.05, *p < 0.05, **p < 0.01, ***p < 0.001.
+The figure is based on previously published data (, ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+() is that breast milk keeps the gut microbiota in a state characterized by a high relative abundance of Bifidobacterium (with lower abundance of other breast milk associated bacteria such as Veillonellaceae, Enterococcaceae, Lactobacillaceae, Enterobacteriaceae, and Streptococcaceae) accompanied by  low diversity, and that these characteristics are affected only     to a limited  degree  by  mixed  feeding  and  introduction  of  the first solid foods as long as the child is still partially  breastfed (, ; , ; , ). However, as complementary feeding progresses, the gut microbial  composition  changes  (increase  in the diverse groups of Lachnospiraceae and Ruminococcaceae species and decrease of Bifidobacterium, Enterobacteriaceae, Enterococcaceae, Lactobacillaceae, Veillonellaceae, Clostridiaceae) and total diversity increases (, ;  , ; , ), probably as a result of the increased fiber and protein content of the diet (, ). Finally, cessation of breastfeeding/formula feeding and complete transition to family food marks another important event in gut microbial development (, ;  , ; , ), characterized by an increased abundance of Bacteroidaceae, Lachnospiraceae, and Ruminococcaceae and a further reduction in Bifidobacterium as
+
+well as increased alpha diversity (, ; , ; , ).
+
+WHAT DOES IT MATTER FOR CHILD HEALTH?
+The consistently observed increase in gut microbial alpha diversity during the time period coinciding with complementary feeding (, ; , ;  , ) and recent evidence showing that this increase is driven by transition from breastfeeding to family foods ( , ), raise some key questions: Is the low diversity sustained by breastfeeding beneficial for infant health? Does the increase in microbial diversity observed during complementary feeding characterize healthy gut microbiota development?
+Many studies have linked low gut microbial diversity to diseases in adulthood as recently reviewed (,  ). Conditions associated with low gut microbiota diversity range from gastrointestinal pathologies such as Crohn's disease, ulcerative colitis, irritable bowel syndrome and colorectal cancer to metabolic disorders including obesity, type 2  diabetes,  as well as neurological conditions such as autism (,
+
+
+
+). Recent studies  reveal  that  an  important  determinant  of high microbial diversity in adult fecal samples is a long intestinal transit time (, ; , ; , ). In this context, we have recently proposed that a high microbial richness and diversity may not imply per se a healthy gut microbial ecosystem, as longer transit times are significantly associated with increased bacterial protein degradation, which results in potentially detrimental bacterial metabolites (, ). During the complementary feeding period, transition to family foods implies increased protein and fiber intake, which increases microbial diversity (, ). While the implications of this transition on intestinal transit time are not known, bowel movement frequency is generally reported not to change significantly during the weaning period (, ).
+In infants, the major determinant of a low microbial diversity is probably breast milk (, ; , ; , ), which selects efficiently for specific bacterial species capable of degrading particular oligosaccharides present in breastmilk, the so-called human milk oligosaccharides (HMOs). HMO-degrading species include B. bifidum, B. longum ssp. infantis and to a lesser degree B. breve (, ), while, noteworthy, bifidobacterial species common in the adult gut (e.g., B. adolescentis) do not share the capacity to degrade HMOs (, ). In vitro studies suggest that the infant-type bifidobacteria play an important role in the maturation of the child's immune system (, ). In line with this, breastfeeding promotes several health effects that are likely to be caused by an improved immune response, such as a reduced incidence of childhood infections (, ).  This  suggests  that  the  predomination  of infant-type bifidobacteria, implying a low bacterial diversity during breastfeeding, is beneficial for child health. In contrast, some health disorders have been linked to a reduced microbial diversity in early life. Examples include development of eczema (, ; , ; , ; , ) and asthma (, ), which have been linked to low microbial diversity in very early life (age 1 week - 4 months). Additionally, in children aged 18-24 months, low microbial diversity has been shown    to be a risk factor for development of type 1 diabetes (   , ; , ). Importantly, the low microbial diversity in these studies was not coupled to Bifidobacterium abundance and no negative effects of breastfeeding on prevalence of asthma, allergies or development of type 1 diabetes have been reported (, ). Thus, even though early life low microbial diversity seems to be associated with diseases later    in childhood, this is not likely to be caused by Bifidobacterium predominance or prolonged breastfeeding. Importantly, the microbial taxa that are absent or otherwise driving low diversity in the above-mentioned studies and their causality to diseases remain to be identified. Some studies suggest that an insufficiently developed microbial community in the gut can be "repaired," e.g.,  it  has  recently  been  demonstrated  that  an  immature  gut microbiota of stunted children aged 6 months, which is within the aforementioned window  of  opportunity,  may  at  this age be repaired by introduction of adult-like microbes
+
+such as Ruminococcus gnavus and Clostridium symbiosum, both belonging to the Lachnospiraceae (, ), a microbial family greatly increasing during introduction of family foods (, ). The normally observed development across human populations is an increasing microbial diversity with age during the first 3 years of life  (, ) and probably characterizes a healthy development. While proteins and fibers were found to increase gut microbial diversity (, ), a high-protein intake in the complementary feeding period may increase the risk of obesity later in life ( , ), and defining recommendations for fiber intake in early life is equally challenging (, ;   , ). Consequently, even though gut microbial diversity increases with protein and fiber intake during the complementary feeding period, there is no evidence to support that excessive intake of these macronutrients in early childhood is beneficial for child health.
+In summary, we want to emphasize that findings regarding the diversity of the intestinal microbiota in adults cannot be extrapolated to children, since the factors governing the co- development of the microbial ecosystem and the immune system in infanthood are completely different from the factors of importance for adult health. A low diversity of the infant gut microbiota in early life must thus be expected to characterize     a healthy gut, if caused by breastfeeding. However, later progression into a diverse gut microbiota during childhood seems to be a fundamental part of the natural succession of the gut ecosystem and characterizes healthy development. One of the main challenges remaining is to identify more accurately the best timing of breastfeeding cessation and of introduction of family foods. This timing is influenced by many other factors than the microbiota, and is likely to be determined by the level of maturation of the infant's immune system.
+
+WHAT IS NEEDED TO EXPAND OUR KNOWLEDGE ON COMPLEMENTARY DIET AND GUT MICROBES?
+Until now, only a few studies have performed dietary assessment during the complementary feeding period and compared this with  gut  microbiota  development.  To  decipher  the  effects  of specific food components on gut microbial development, detailed assessments of the complementary diet constituents are needed. If food frequency questionnaires (FFQ) are used, they should be validated before  application  to  minimize  the  risk  of over/underestimation because they are prone to recall bias. Additionally, it should be considered that FFQs are generally developed to depict long-term or habitual diets, which may not be appropriate during a period of rapid dietary changes. Twenty- four hour dietary recalls are less prone to recall bias, but do    not capture day-to-day variations in the diet. The most detailed and accurate results are obtained from food records for periods of 5-7 days since they collect actual intake information from     a specific short-term period and are not associated with recall bias (, ). Validated food records that minimize the risk of under/overestimation were used in our SKOT cohort
+
+
+
+studies, and because they were conducted during the time period of fecal sample collection, they allowed us to directly assess the impact of the complementary diet on gut microbiota composition (, ). Ideally, longitudinal studies should include several diet recordings across the complementary feeding period to capture the individual dynamics during this period of multiple dietary changes.
+To capture changes in the  gut  microbiota,  either  16S  rRNA amplicon or  shot-gun  based  community  sequencing  can provide detailed information of the entire microbial community, while shot-gun based sequencing additionally provides direct information on the functional capacity of the bacterial population. However,  while  these  methods  generate a large amount of useful data,  they  lack  enough  sensitivity  for low abundant microbial species. Therefore, complementing these techniques with quantitative PCR approaches and culture- based approaches provide better sensitivity, but are more laborious and time consuming. To minimize confounding effects on the gut microbiota in cross sectional studies, accurate standardization of the age  of  infants  at  which  the  samples  are  taken  is  highly  desirable.  Additionally,  it  is  important  to consider adjustments for other factors known  to  affect  infant gut microbiota, including antibiotic intake, C-section, childcare/daycare, geographical location, family environment and exposure to pets and siblings (,  ;  , ; , ; ,  ;  ,  ;  ,  ).  In  order  to establish causal relationships between specific components   of the complementary diet and gut microbial composition, intervention studies are required. This could be done by performing short-term intervention studies,  where  the  effect  of specifically designed differences in dietary composition can be tested. Inclusion of the above-mentioned factors in the  design of future studies will enable us to expand our knowledge on the impact of the complementary diet on the infant gut microbiota.
+
+SUMMARIZING REMARKS
+The very first nutrition most infants receive, breastmilk, keeps the microbiota in a state characterized by low diversity and Bifidobacterium domination, which is likely to be beneficial for
+
+child health. Introduction of complementary feeding and the transition to family foods increase gut microbial diversity and   is accompanied by an increase of adult-associated microbes belonging to the families Lachnospiraceae and Ruminococcaceae. This increase in diversity occurs across different human populations and is likely to characterize a normal and healthy development of the gut microbiota, since perturbation of the process has been linked to an increased risk of diseases later     in life. An important remaining challenge is to determine the optimal age for increasing intestinal microbial diversity by reduction of breastfeeding and introduction of family foods in order to optimize effects on gut microbiota, immune maturation and later health outcomes.
+
+ETHICS STATEMENT
+The present perspective uses data from previous publications based on the SKOT cohorts, in which 311 (SKOT I) and 184 (SKOT II) Danish children were followed for the first 3 years after birth, with the overall aim of investigating relationships between early diet, growth development, and later disease risks, especially obesity and metabolic syndrome. The study protocols were approved by the Committees on Biomedical Research Ethics for the Capital Region of Denmark (H-KF-2007-0003 and H-3- 2010-122).
+
+AUTHOR CONTRIBUTIONS
+ML, MB, KM, and TL conceived the idea for this perspective, and all contributed to the outline. All four authors were significantly involved in the studies resulting in the data  presented  in  . ML drafted the manuscript and the figures. All authors contributed to the writing, and approved the final manuscript.
+
+FUNDING
+The work that formed the main basis for the discussions in this perspective paper was funded by the Danish Strategic Research Council, Grant numbers 0603-00579B (ProbiComp) and 0603- 00487B (Center for Gut, Grain, and Greens).
+
+
+
+REFERENCES
+Abrahamsson, T. R., Jakobsson, H. E., Andersson, A. F., Bjorksten, B., Engstrand, L., and Jenmalm, M. C. (2012). Low diversity of the gut microbiota in infants with atopic eczema. J.  Allergy  Clin.  Immunol.  129,  434-440.  
+Abrahamsson, T. R., Jakobsson, H. E., Andersson, A. F., Bjorksten, B., Engstrand, L., and Jenmalm, M. C. (2014). Low gut microbiota diversity in early infancy precedes asthma at school age. Clin. Exp. Allergy 44, 842-850. 
+Aggett, P. J., Agostoni, C., Axelsson, I., Edwards, C. A., Goulet, O., Hernell, O., et al. (2003). Nondigestible carbohydrates in the diets of infants and young children: a commentary by the ESPGHAN Committee on Nutrition. J. Pediatr. Gastroenterol. Nutr. 36, 329-337. 
+
+Amarri, S., Benatti, F., Callegari, M. L., Shahkhalili, Y., Chauffard, F., Rochat, F., et  al.  (2006).  Changes  of  gut  microbiota  and  immune  markers  during  the complementary feeding period in healthy breast-fed infants. J. Pediatr. Gastroenterol. Nutr. 42, 488-495. 
+Arrieta, M.-C., Stiemsma, L. T., Amenyogbe, N., Brown, E. M., and Finlay, B. (2014). The intestinal microbiome in early life: health and disease. Front. Immunol. 5:427. 
+Avershina, E., Lundgard, K., Sekelja, M., Dotterud, C., Storro, O., Oien, T., et al. (2016). Transition from infant- to adult-like gut microbiota. Environ. Microbiol. 18, 2226-2236. 
+Azad, M. B., Konya, T., Maughan, H., Guttman, D. S., Field, C. J., Chari, R. S., et al. (2013a). Gut microbiota of healthy Canadian infants: profiles by mode of delivery and infant diet at 4 months. CMAJ 185, 385-394.  
+
+
+
+Azad, M. B., Konya, T., Maughan, H., Guttman, D. S., Field, C. J., Sears, M. R., et al. (2013b). Infant gut microbiota and the hygiene hypothesis of allergic disease: impact of household pets and siblings on microbiota composition   and diversity. Allergy Asthma Clin. Immunol. 9:15.  
+Backhed, F., Roswall, J., Peng, Y., Feng, Q., Jia, H., Kovatcheva-Datchary, P., et al. (2015). Dynamics and stabilization of the human gut microbiome during the first year of life. Cell Host Microbe 17, 690-703.  
+Bergstrom, A., Skov, T. H., Bahl, M. I., Roager, H. M., Christensen, L. B., Ejlerskov,
+K. T., et al. (2014). Establishment of intestinal microbiota during early life:     a longitudinal, explorative study of a large cohort of Danish infants. Appl. Environ. Microbiol. 80, 2889-2900. 
+Blanton, L. V., Charbonneau, M. R., Salih, T., Barratt, M. J., Venkatesh, S., Ilkaveya, O., et al. (2016). Gut bacteria that prevent growth impairments transmitted by microbiota from malnourished children. Science 351, aad3311-aad3311. 
+Fallani, M., Amarri, S., Uusijarvi, A., Adam, R., Khanna, S., Aguilera, M., et al. (2011). Determinants of the human infant intestinal microbiota after the introduction of first complementary foods in infant samples from five European centres. Microbiology 157, 1385-1392. 
+Fallani, M., Young, D., Scott, J., Norin, E., Amarri, S., Adam, R., et al. (2010). Intestinal microbiota of 6-week-old infants across Europe: geographic influence beyond delivery mode, breast-feeding, and antibiotics. J. Pediatr. Gastroenterol. Nutr. 51, 77-84. 
+Falony, G., Joossens, M., Vieira-Silva, S., Wang, J., Darzi, Y., Faust, K., et al. (2016). Population-level analysis of gut microbiome variation. Science 352, 560-564. 
+Favier, C. F., Vaughan, E. E., De Vos, W. M., and Akkermans, A. D. L. (2002). Molecular monitoring of succession of bacterial communities in human neonates. Appl. Environ. Microbiol. 68, 219-226.  
+Forno, E., Onderdonk, A. B., McCracken, J., Litonjua, A. A., Laskey, D., Delaney,
+M. L., et al. (2008). Diversity of the gut microbiota and eczema in early life. Clin. Mol. Allergy 6:11. 
+Giongo, A., Gano, K. A., Crabb, D. B., Mukherjee, N., Novelo, L. L., Casella, G., et al. (2010). Toward defining the autoimmune microbiome for type 1 diabetes. ISME J. 5, 82-91. 
+Hughes, S. A., Shewry, P. R., Gibson, G. R., McCleary, B. V., and Rastall, R. A. (2008). In vitro fermentation of oat and barley derived beta-glucans by human faecal microbiota. FEMS Microbiol. Ecol. 64, 482-493.  
+Ismail, I. H., Oppedisano, F., Joseph, S. J., Boyle, R. J., Licciardi, P. V., Robins- Browne, R. M., et al. (2012). Reduced gut microbial diversity in early life is associated with later development of eczema but not atopy in high-risk infants. Pediatr. Allergy Immunol. 23, 674-681. 
+Jost, T., Lacroix, C., Braegger, C., and Chassard, C. (2015). Impact of human milk bacteria and oligosaccharides on neonatal gut microbiota establishment and gut health. Nutr. Rev. 73, 426-437. 
+Koenig, J. E., Spor, A., Scalfone, N., Fricker, A. D., Stombaugh, J., Knight, R.,  et al. (2011). Succession of microbial consortia in the developing infant gut microbiome. Proc. Natl. Acad. Sci. U.S.A. 108, 4578-4585.  
+Kostic, A. D., Gevers, D., Siljander, H., Vatanen, T., Hyotylainen, T., Hamalainen, A.-M., et al. (2015). The dynamics of the human infant gut microbiome in development and in progression toward type 1 diabetes. Cell Host Microbe 17, 260-273. 
+Laursen, M. F., Andersen, L. B. B., Michaelsen, K. F., Molgaard, C., Trolle, E., Bahl,
+M. I., et al. (2016). Infant gut microbiota development is driven by transition to family foods independent of  maternal  obesity.  mSphere  1:e00069-15.  
+Laursen, M. F., Zachariassen, G., Bahl, M. I., Bergstrom, A., Host, A., Michaelsen,
+K. F., et al. (2015). Having older siblings is associated with gut microbiota development during early childhood. BMC Microbiol. 15:154. 
+Lind, M. V., Larnkjaer, A., Molgaard, C., and Michaelsen, K. F. (2017). Dietary protein intake and quality in early life. Curr. Opin. Clin. Nutr. Metab. Care 20, 71-76. 
+
+Martin, R., Makino, H., Cetinyurek Yavuz, A., Ben-Amor, K., Roelofs, M., Ishikawa, E., et al. (2016). Early-life events, including mode of delivery and type of feeding, siblings and gender, shape the developing gut microbiota. PLoS ONE 11:e0158498. 
+Mosca, A., Leclerc, M., and Hugot, J. P. (2016). Gut microbiota diversity and human diseases: should we reintroduce key predators in our ecosystem? Front. Microbiol. 7:455. 
+Penders, J., Thijs, C., Vink, C., Stelma, F. F., Snijders, B., Kummeling, I., et al. (2006). Factors influencing the composition of the intestinal microbiota in early infancy. Pediatrics 118, 511-521. 
+Roager, H. M., Hansen, L. B. S., Bahl, M. I., Frandsen, H. L., Carvalho, V., Gobel,
+J., et al. (2016). Colonic transit time is related to bacterial metabolism and mucosal turnover in the gut. Nat. Microbiol. 1:16093. 
+Roger, L. C., and McCartney, A. L. (2010). Longitudinal investigation of the faecal microbiota of healthy full-term infants using fluorescence in situ hybridization and denaturing gradient gel electrophoresis. Microbiology 156, 3317-3328. 
+Sela, D. A., and Mills, D. A. (2010). Nursing our microbiota: molecular linkages between bifidobacteria and milk oligosaccharides. Trends Microbiol. 18, 298-307. 
+Shim, J.-S., Oh, K., and Kim, H. C. (2014). Dietary assessment methods in epidemiologic studies. Epidemiol. Health 36:e2014009.  
+Thompson, A. L.,  Monteagudo-Mera,  A.,  Cadenas,  M.  B.,  Lampl,  M.  L.,  and Azcarate-Peril, M. A. (2015). Milk- and solid-feeding practices and daycare attendance are associated with differences in bacterial diversity, predominant communities, and metabolic and immune function of the infant gut microbiome. Front. Cell. Infect. Microbiol. 5:3.  
+Tunc, V. T., Camurdan, A. D., Ilhan, M. N., Sahin, F., and Beyazova, U. (2008). Factors associated with defecation patterns in 0-24-month-old children. Eur. J. Pediatr. 167, 1357-1362. 
+Underwood, M. A., German, J. B., Lebrilla, C. B., and Mills, D. A. (2014). Bifidobacterium longum subspecies infantis: champion colonizer of the infant gut. Pediatr. Res. 77, 229-235. 
+Vandeputte, D., Falony, G., Vieira-Silva, S., Tito, R.  Y.,  Joossens,  M.,  and Raes, J. (2015). Stool consistency is strongly associated with gut microbiota richness and composition, enterotypes and bacterial growth rates. Gut 65, 57-62. 
+Victora, C. G., Bahl, R., Barros, A. J. D., Franca, G. V. A., Horton, S., Krasevec, J., et al. (2016). Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect. Lancet 387, 475-490. 
+Walton, G., Lu, C., Trogh, I., Arnaut, F., and Gibson, G. (2012). A randomised, double-blind, placebo controlled cross-over study to determine the gastrointestinal effects of consumption of arabinoxylan-oligosaccharides.  Nutr. J. 11:36. 
+Wang, M., Ahrne, S., Antonsson, M., and  Molin,  G.  (2004).  T-RFLP  combined with principal component analysis and 16S rRNA gene sequencing: an effective strategy for comparison of fecal microbiota in  infants  of  different ages. J. Microbiol. Methods 59, 53-69.  
+Wang, M., Karlsson, C., Olsson, C., Adlerberth, I., Wold, A. E., Strachan, D. P., et al. (2008). Reduced diversity in the early fecal microbiota of infants with atopic eczema. J. Allergy Clin. Immunol. 121, 129-134.  
+Yassour, M., Vatanen, T., Siljander, H., Hamalainen, A.-M., Harkonen, T., Ryhanen,
+J., et al. (2016). Natural history of the infant gut microbiome and impact of antibiotic treatment on bacterial strain diversity and stability. Sci. Transl. Med. 8, ra81-ra343. 
+Yatsunenko, T., Rey, F. E., Manary, M. J., Trehan, I., Dominguez-Bello, M. G., Contreras, M., et al. (2012). Human gut microbiome viewed across age and geography. Nature 486, 222-227. 
+Zalewski, B. M., Patro, B., Veldhorst, M., Kouwenhoven, S., Escobar, P. C., Lerma,
+J. C., et al. (2015). Nutrition of infants and young children (one to three years) and its effect on later health: a systematic review of current recommendations (EarlyNutrition project). Crit. Rev. Food Sci. Nutr. 57, 489-500. 
+
+
+
+Zhu, Y., Lin, X., Zhao, F., Shi, X., Li, H., Li, Y., et al. (2015). Meat, dairy and plant proteins alter bacterial composition of rat gut bacteria. Sci. Rep. 5:15220. 
+
+Conflict of Interest Statement: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Copyright (c) 2017 Laursen, Bahl, Michaelsen and Licht. This is an open-access article distributed under the terms of the     . The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.

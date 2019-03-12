@@ -1,0 +1,247 @@
+
+Beneficial Microbes, 2018; 9(2): 175-183
+
+
+
+
+Faecal microRNAs: indicators of imbalance at the host-microbe interface?
+
+G.M. Moloney1*, M.F. Viola1*, A.E. Hoban1,2, T.G. Dinan2,3 and J.F. Cryan1,2
+1Department of Anatomy and Neuroscience, University College Cork, Western Gateway Building, Western Rd., Cork, Ireland; 2APC Microbiome Institute, University College Cork, Cork, Ireland; 3Department of Psychiatry and Neurobehavioural Science, University College Cork, Ireland; ; 
+Received: 25 January 2017 / Accepted: 8 September 2017
+(c) 2017 Wageningen Academic Publishers
+
+
+
+Abstract
+
+OPEN ACCESS
+
+RESEARCH ARTICLE
+
+
+The enteric microbiota is characterised by a balance and composition that is unique to the host. It is important to understand the mechanisms through which the host can maintain the composition of the gut microbiota. MicroRNAs (miRNA) are implicated in intercellular communication and have been isolated from bodily fluids including stool. Recent findings suggest that miRNA produced by the host's intestinal epithelial cells (IECs) participate in shaping the microbiota. To investigate whether miRNA expression was influenced by the gut microbiota we measured the expression of miRNAs expressed by intestinal epithelial cells in faeces. Specifically, we measured miRNA expression in faeces from germ-free (GF) and conventional mice and similarly in a rat model of antibiotic-mediated depletion of the gut microbiota control rats. In adult male GF and conventional mice and adult Sprague Dawley (SD) rats were treated with a combination of antibiotics for 8 weeks; total RNA was extracted from faecal pellets taken at week 0, 2, 4, 6 week 8 and the expression of let-7b-3p, miR-141-3p, miR-200a-3p and miR-1224-5p (miRNAs known to be expressed in IECs) were measured relative to U6 at each time point using qRT-PCR. In GF animals the expression of let-7b, miR-141 and miR-200a in faeces was lower compared to conventional mice. Following antibiotic-mediated depletion of gut microbiota, rats showed two divergent profiles of miRNA expression. Following two weeks of antibiotic treatment, the expression of let-7b and miR-1224 dropped significantly and remained low for the remainder of the study. The expression of miR-200a and miR-141 was significantly higher at week 2 than before antibiotic treatment commenced. Subsequently, the expression of miR-200a and miR-141 decreased at week 4 and continued to decrease at week 6. This data demonstrates that miRNAs can be used as an independent, non-invasive marker of microbial fluctuations along with gut pathology in the intestine.
+Keywords: microbiota, microRNA, enteric, stool, host
+
+
+
+Introduction
+
+The gut hosts a complex and diverse population of commensal bacteria collectively known as the gut microbiota, which has increasingly been implicated in host metabolism, immunity, nervous system function and disease (Backhed et al., 2005; Cryan and Dinan, 2012; Diaz Heijtz et al., 2011; Grenham et al., 2011). Colonisation of the human gut is post- natal and commences upon exposure to bacteria during birth. During the first year of life the microbiota has a maternal signature, however, it evolves fairly quickly and reaches adult- like complexity after 1-3 years (Grenham et al., 2011; Mackie et al., 1999; Palmer et al., 2007). Numerous factors have been shown to influence gut microbiota composition, including
+
+
+diet, disease, and host age and genetics (Claesson et al., 2011; Gulati et al., 2012; Wu and Hui, 2011). The composition of the microbiota seems to maintain a personal 'signature' which may be transiently altered by antibiotics, infection and diseases (Forsythe et al., 2010; Manichanh et al., 2010). Thus, despite a significant interpersonal and inter-special variation, the enteric microbiota seems to be characterised by a balance and composition that is unique and beneficial to the individual host, and disruption of this balance causes disease susceptibility (Diaz Heijtz et al., 2011). To this extent, it is important to characterise the biological mechanisms through which the host can maintain the composition of the gut microbiota and how this relationship is affected during pathological states.
+
+
+ISSN 1876-2883 print, ISSN 1876-2891 online, DOI 10.3920/BM2017.0013	175
+
+
+
+
+MicroRNAs (miRNAs) are small, non-coding RNAs synthesised in the nucleus and functional in the cytoplasm, where they are involved in regulating transcription (Bartel, 2004). Bacteria express non-coding RNAs, but they differ from miRNA in size (50-500 nucleotides in length) and structure, including the number of stem-loops (Viegas and Arraiano, 2008). The oral pathogen Streptococcus sanguinis was recently shown to release a number of small RNAs in micro vesicles suggested to be involved in bacteria-to bacteria communication and in addition bacteria-to-host communication (Choi et al., in press). Recently, host miRNAs have been implicated in intercellular communication and have been isolated from body fluids including stool (Ahmed et al., 2012, Mittelbrunn and Sanchez-Madrid, 2012, Weber et al., 2010). The functional role of miRNAs in host-microbe communication is only beginning to be understood. It has recently been shown that the microbiota regulates gene expression in the colon of mice (Dalmasso et al., 2011) and recent findings seem to suggest that miRNAs produced by the host's intestinal epithelial cells IECs participate in shaping the gut microbiota and affect bacterial growth (Liu et al., 2016). Detection of miRNA isolated from the faeces of rodents may offer the potential to monitor this relationship in live animals in a temporal fashion. To further investigate this possibility, we aimed to determine the effect of bacterial status on the expression of key microRNAs expressed by IEC's in GF mice and in a rat model of antibiotic-mediated depletion of the gut microbiota.
+Materials and methods
+Germ-free mice
+
+All experiments were conducted in accordance with European Directive 86/609/EEC. Approval by the Animal Experimentation Ethics Committee of University College Cork was obtained before commencement of all animal related experiments. Adult male germ-free (GF) and conventional (CON) C57/Bl6 breeding pairs were obtained from Taconic (Germantown, NY, USA) and first generation mice were used. GF mice were housed in gnotobiotic isolators under a strict 12-h light/dark cycle in cages of 4-5 animals. CON mice are similarly housed under regulated conditions (temperature 20-21 degC, 55-60% humidity), under the same 12 h light/dark cycle and housed 4-5 per cage. Autoclaved, pelleted diets were the same for both groups (Special Diet Service, Essex, UK, product code 801010). Faecal pellets were obtained at 8 weeks old. Fresh faecal pellets were collected and stored at -80 degC.
+Animals, antibiotic treatment
+
+Adult male Sprague Dawley rats (n=10/group) (Envigo, Alconbury, UK) were housed 5 per cage in standard rat cages. All animals were housed in a standard animal facility
+
+
+under a strict 12-h light/dark cycle. All experimental groups received the same autoclaved diet (Teklad Global 18% Protein Rodent diet, Product code 2018S). Approval by the Animal Experimentation Ethics Committee of University College Cork was obtained before commencement of all animal related experiments. In order to sufficiently deplete the gut microbiota rats were treated with a combination of antibiotics for 8 weeks at adulthood (10 weeks old at start of treatment). The antibiotic cocktail was administered in drinking water to avoid possible adverse effects from chronic stress induced by alternative administration methods such as oral gavage. The antibiotic cocktail consisted of ampicillin (1 g/l), vancomycin (500 mg/l), and ciprofloxacin HCL (20 mg/l), imipenem (250 mg/l) and metronidazole (1 g/l). The antibiotic cocktail was chosen based on published protocols and was made up in autoclaved water and changed every 3 days (Hoban et al., 2016). Animal weights were taken every 3 days to ensure animals were not losing excessive body weight. Along with regular weight monitoring, weekly fresh faecal pellets were collected to ensure microbiota depletion. Control animals received autoclaved water without any antibiotics which was also changed every 3 days. Fresh faecal pellets were collected once a week for 8 weeks and stored at -80 degC.
+Total RNA extraction and quantitative real-time PCR
+
+100 mg of faecal pellets from each animal were homogenised in miRVana(tm) lysis buffer using a bead beater. Total RNA (including miRNAs) was extracted using the miRVana(tm) Total RNA Isolation kit (Ambion; Thermo Fisher, Waltham, MA, USA) as per the manufacturer's instructions. Purity and quantity were assessed using the Agilent bioanalyzer and a Nano-drop spectrophotometer (Agilent, Santa Clara, CA, USA). mRNA was reverse transcribed to cDNA using the miRCURY LNA(tm) cDNA synthesis kit II and cDNA was amplified using probe specific primers (Table 1) and Exilent SYBR green (all Exiqon, Vedbaek, Denmark). Assay and spike-in controls were used for normalisation and all assays were run in triplicate and expressed relative to U6 at each time point. Melt-curve analysis was performed to ensure that only one source of amplification was present. Using the Grubbs test any outliers were removed and all data were analysed using the 2-DDCt relative quantitation method (Livak and Schmittgen, 2001) and expressed as fold change compared to control values.
+In-silico analysis of faecal miRNA target gene function
+
+Pathway analysis was carried out with DIANA-miRPath v3.021 (Vlachos et al., 2015), using predicted microRNA targets from the DIANA-microT-CDS v5.0 algorithm49 and Gene Ontology genesets derived from KEGG. The P-value threshold was set to 0.05 and MicroT threshold to 0.8, statistical correction for multiple comparisons was used.
+
+
+
+Table 1. miRNA probe details and sequence information.
+
+
+
+
+Statistics
+
+Data is presented as mean +- standard error of the mean (SEM). Unless otherwise stated, data were analysed using one-way ANOVA and subsequently the unpaired Student's t-test. The level of statistical significance was set at P<=0.05. Statistical significance was indicated as follows: * indicates P<0.05, ** indicates P<0.01 and *** indicates P<0.001. Diana- miRPath in-silico analysis statistics used Fisher's exact test and false discovery rate estimation.
+Results
+Epithelial miRNAs in the faeces of germ-free mice are significantly reduced
+
+MicroRNAs are stably expressed and secreted in the faeces of mice (Liu et al., 2016b). In an effort to identify if miRNA present in the faecal pellets of mice are affected by absence or depletion of the microbiota we performed a literature search and chose to measure the expression of four miRNAs previously shown to be expressed in the epithelial cells of mice (Lee et al., 2015). We initially chose 4 miRNAs that were previously shown to be expressed in the intestinal epithelium (Lee et al., 2015). Expression of let-7b-3p, miR-141-3p, miR-200a-3p and miR-1224-5p were measured in faeces at 8 weeks of age and were chosen based on the literature and were measured relative to U6 snRNA in conventional and germ-free mice. Mice born in a germ-free environment showed a significant reduction in expression of let-7b-3p, miR-141-3p and miR-200a-3p (Figure 1, P<0.05) compared with conventionally raised mice. The expression of miR-1224-5p was also lower in germ-free animals, however, this failed to reach statistical significance.
+Antibiotic mediated depletion of the gut microbiota influences faecal miRNA expression in diverse patterns
+
+Recognising that miRNA expression in the faeces of mice was influenced by the microbiota, we investigated if absence of bacteria from birth was required to see such reductions in miRNA expression. To this end we depleted the microbiota in rats using a cocktail of antibiotics previously described
+
+(Desbonnet et al., 2015). No weight loss was observed in control or antibiotic treated rats. We were able to detect miRNAs in the faecal pellets of rats, as others had previously shown was possible (John-Baptiste et al., 2012). We subsequently measured the expression of the same miRNAs (let-7b-3p, miR-141-3p, miR-200a-3p and miR- 1224-5p) in the faeces of rats at 8 weeks while undergoing antibiotic-mediated depletion of the gut microbiota over a 13 week period. Interestingly, miRNA expression displayed a divergent pattern in response to the antibiotic treatment. Following two weeks of antibiotic treatment, the expression of let-7b-3p and miR-1224-5p was significantly lower (Figure 2A-B, P<0.001) and remained at the same level during antibiotic treatment for four, six and eight weeks of antibiotic treatment. In contrast to this expression pattern; following two weeks of antibiotic treatment, the expression of both miR-200a-3p and miR-141-3p was significantly higher than before the treatment (Figure 2C-D, P<0.05). At week 4 though, the expression of both miRNAs had returned to baseline and maintained this level until the end of the experiment.
+Functionality of faecal miRNA target genes
+
+MiRNAs negatively regulate target mRNA expression via repression or degradation (Bartel, 2004) and to verify the functionality of the miRNAs measured in this study we performed in silico analysis on the target genes of these miRNAs. Using DIANA-miRPath (Vlachos et al., 2015) we functionally annotated the target genes relevant to let-7b- 3p, miR-141-3p, miR-200a-3p and miR-1224-5p. DIANA- miRPath assigns experimentally supported target genes of miRNAs (from DIANA-microT-CDS (Paraskevopoulou et al., 2013)) to KEGG pathways which allows a functionality of the miRNA to be inferred. This bioinformatic approach revealed a number pathways of functional relevance in our study. Specifically, a number of pathways relevant to the intestinal environment were significantly over-represented (Table 2). These included bacterial invasion of epithelial cells (let-7b-3p), pathways involved in mucin production (mmu-1224-5p) and both inflammable bowel disease (IBD) and immunoglobulin A (IgA) synthesis (miR-200a-3p). Furthermore, they provide a rational contact for future work in this area.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Host miRNA expression is altered in the faeces of germ-free mice. Total RNA is extracted from faecal pellets from germ- free and conventional mice and gene expression for (A) let-7b-3p, (B) miR-200a-3p, (C) miR-1224-5p and (D) miR-141-3p were measured by qRT-PCR relative to U6 gene expression (n=5-6 per group). The expression of miR-200a, miR-141 and let-7b was significantly lower in germ-free animals (t9=2.571, P=0.0301; t9=2.351, P=0.0432; t7=2.685, P=0.0313). The expression of miR-1224 in germ-free animals was also lower, without reaching statistical significance (t9=2.003, P=0.0853). Data is presented as mean +- standard error of the mean (SEM). * indicates P<0.05.
+
+
+
+Using metagenomic data recently published from our group (Hoban et al., 2016) we were able to correlate faecal miRNA expression in antibiotic-treated rats with relative abundance data from the faeces of the same rats at week 4 of the experiment (4 weeks after the start of antibiotic treatment) (Table 3). No correlation between the relative abundance of bacterial families was observed (data not shown), interestingly though, there was significant correlation between relative abundance of the phyla Bacteroidetes, and Firmicutes with miR-141-3p. Similarly, the phyla Actinobacteria, Bacteroidetes, Cyanobacteria, Firmicutes and Proteobacteria were significantly correlated with miR-200a-3p (Table 3). Interestingly, correlations were only observed in those miRNAs that increased significantly following the commencement of antibiotic administration.
+Discussion
+Recent studies have shown that host miRNAs exist extracellularly and may be indicative of specific disease states (Weber et al., 2010). Additionally, recent work has identified host faecal miRNAs as a normal component of
+
+
+both human and mouse faeces (Liu et al., 2016). It has only recently become clear that miRNAs may be altered in the presence of a disturbed gut microbiota (Dalmasso et al., 2011). To this end we sought to identify if the expression of host miRNAs in the faeces were altered in germ-free mice and in rats whose microbiota has been depleted by antibiotics using qRT-PCR. We chose to analyse the expression of 4 key miRNAs; miR-1224-5p, miR-141-3p, miR-200a-3p and let-7b-3p. We selected these miRNAs on the basis that they are highly expressed and abundant in mouse faecal samples (Lee et al., 2015). In addition, the miRNA selected were also among the most abundant miRNAs isolated from human faecal samples and thus of further translational interest (Liu et al., 2016). Furthermore, these miRNAs are constitutively expressed in murine IECs, the most likely source of faecal miRNAs (Lee et al., 2015).
+The interaction between the host and its resident microbiota is an intriguing one, and miRNAs are known to operate at this interface (Runtsch et al., 2014). Defining the molecular pathways involved in host-microbe crosstalk are essential for translational research and the search for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Depletion of the gut microbiota with antibiotics has divergent effects on host-miRNA secretion in faeces. Total RNA is extracted from faecal pellets from mice treated with an antibiotic cocktail and untreated mice and gene expression for (A) let- 7b-3p, (B) miR-200a-3p, (C) miR-1224-5p and (D) miR-141-3p were measured by qRT-PCR relative to U6 gene expression over an 8 week treatment period at 2 week intervals (n=7-10 per group). Data is presented as mean +- standard error of the mean (SEM).
+* indicates P<0.05, **** indicates P<0.001.
+
+
+
+alternative therapies for conditions in which changes in the microbiota are implicated. Dalmasso et al. (2011), recently demonstrated that in the colon of germ-free mice, a number of miRNAs are differentially expressed and that these miRNAs interact with epithelial cell ion transporters in a mechanism which may regulate host gene expression (Zhang et al., 2016). It is intriguing to the think that miRNAs in the faeces may represent a method of analysing host-microbe interactions in a live animal. In germ-free animals we observed significant reductions in miR-141-3p, miR-200a-3p and let-7b-3p, respectively. This data is in partial agreement with data reported by Dalmasso et al. (2011) in which the expression of a number of miRNAs different to those measured here were reduced in the germ-free colon. However, this data is at odds with recent sequencing data which found increased abundance of miRNA transcripts in GF mice. Using RNA sequencing Liu et al. (2016) found increases in global miRNA expression,
+
+
+including the miRNAs measured here albeit using a different technique. Reasons for this may be due to technical differences, this paper measured all detectable miRNAs in one sample whereby we have compared singular miRNA expression using a sensitive and quantitative method (Liu et al., 2016).
+Germ-free rodents are different from antibiotic treated rodents in many physiological aspects as we and others have shown in regards behaviour (Hoban et al., 2016), the immune system and metabolism (Sudo et al., 2004). In addition, antibiotic treatment will eliminate different bacteria at different times. This suggests that miRNAs and bacteria may interact indirectly, such that genes targeted by specific miRNAs may be translationally repressed which subsequently influences epithelial cell structure and function which effects the microbiota (Goodrich et al., 2014). Moreover, eliminating the microbiota with
+
+
+
+Table 2. Functional characterisation of faecal microRNAs.
+
+
+
+Table 3. Correlation of faecal miRNA expression with phyla relative abundance.1
+
+
+
+
+antibiotics at different developmental stages will have very distinct effects in the molecular architecture of the intestinal epithelium.
+
+The detection of miRNAs in the faeces of rodents may offer a new method for measuring signalling events between the microbiota and the host epithelium on a temporal basis in live animals. To examine this, we measured the expression of miR-1224-5p, miR-141-3p, miR-200a-3p and let-7b-3p
+
+
+
+
+in the faeces of rats before antibiotic treatment and every 2 weeks thereafter up to 8 weeks. Previous work by Liu et al. (2016) has shown in mice using RNA sequencing that almost all luminal miRNAs are increased significantly following 1 week of antibiotic treatment compared with specific pathogen free mice, albeit with a different antibiotic cocktail (ampicillin 1 mg/ml, vancomycin 500 mg/ml, neomycin 1 mg/ml, metronidazole 1 mg/ml, and streptomycin 1 mg/ ml). Similarly, in rats, we found that the expression of 2 of the miRNAs examined, miR-141-3p and miR-200a- 3p were significantly increased in faeces after 2 weeks. Subsequently though the expression of these miRNAs decreased to baseline levels at 6 weeks and remained at this level for the rest of the study. MiR-1224-5p and let- 7b-3p on the other hand displayed a rapid reduction in expression following 2 weeks of antibiotic treatment, a reduction that persisted up to 8 weeks. Our analysis of miRNA expression was conducted over an 8 week period, whereas Liu et al. (2016) measured miRNA expression at just 1 week. MiRNAs are expressed on numerous epithelial cell lineages in the intestine and these cells may be shed at different rates following antibiotic treatment and this may be reflected in the divergent pattern of miRNA secretion in faeces. MiRNA may exist in the lumen in 2 ways, firstly, exosomes released from almost all cell types and secondly 'naked'. All exosomes bare the molecular hallmarks of the cell from which they are derived. For example, miRNA derived from exosomes of epithelial origin will contain proteins, genes and miRNAs specifically associated with the epithelial cell (Schorey et al., 2015).
+Let-7b-3p belongs to the let7 family of miRNAs which all show a generic response during bacterial infection of macrophage and epithelial cells to reduce the expression (post-transcriptionally) of IL-10 production (Schulte et al., 2011). Mmu-let-7b-3p has also been shown to mediate the epithelial innate immune response via TLR signalling (Hu et al., 2009). Furthermore, let-7b is also known to target Tlr4 and regulates the activation of NF-kB and the expression of downstream genes related to immune responses in Helicobacter pylori infection (Teng et al., 2013) while also binding to the Muc1 gene in epithelial cells (Inyawilert et al., 2015). miR-141-3p is expressed in immune cells (natural killer cells, leukocytes) and both inflamed and non- inflamed epithelial cells in the small and large intestine (Lee et al., 2015). Similar to let-7b-3p, miR-141-3p is thought to target chemokines, increasing the production of Cxcl16 and Cxcl9 which drive inflammatory progression in IBD (Uza et al., 2011). miR-200a-3p belongs to the miR-18 family (of which miR-141-3p is a member also) and is expressed in epithelial cells throughout the body. Much of the biological function of this miRNA has been linked with cancer and in metastasis (Zang et al., 2016) and along with miR-141- 3p are enriched in the epithelial tissue. miR-1224-5p is expressed in the epithelial cells of both the small and large intestine where it is predicted to target the genes Aqp8 and
+
+
+Abcg2 in colitis (Lee et al., 2015). miR-1224-5p has been shown to be induced by lipopolysaccharides in vitro in a macrophage cell line (Niu et al., 2011) where it subsequently suppresses tumour necrosis factor alpha expression.
+While faeces is considered a material waste it is also an extremely useful matrix for biological discovery. Firstly, it is consistently used as a source of biomarkers of diseases, such as IBD (calprotectin) and colon cancer (faecal occult blood). Secondly, it is non-invasive and is currently the source material for all faecal microbiota transplants in humans (and rodents) and finally, detection of mRNA in stool from infants has been used to monitor gastrointestinal development and maturation (Chapkin et al., 2010). We and other groups have shown that detection of miRNA in the faeces of rodents and humans is possible and quantitative (John-Baptiste et al., 2012; Liu et al., 2016; Weber et al., 2010). Furthermore, specific cells in the intestinal crypt express a distinct repertoire of miRNAs that allow each cell type to be distinguished (Peck et al., 2017). The composition and expression levels of these miRNAs and how they relate to specific intestinal crypt cell types may indicate barrier function defects in pathological conditions. In fact, McKenna et al demonstrated using Dicer 1 (an enzyme essential for miRNA biogenesis) knock-out mice that miRNAs were essential for epithelial cell proliferation, differentiation, nutrient absorption, and that defective miRNA biogenesis was also responsible for impaired intestinal barrier function (McKenna et al., 2010). Further work is required to confirm this but we feel that given the central role miRNAs play in intestinal barrier function that this hypothesis is relevant. More evidence is required before measuring miRNAs in faeces provides adequate information in regards intestinal barrier function and integrity.
+It has been shown that faecal miRNAs are present in extracellular vesicles, and that these vesicles are shed primarily from IECs and +4 niche-derived Hopx-expressing cells, such as Goblet and Paneth cells (Liu et al., 2016). In addition, recent work has demonstrated the use of faecal miRNAs as biomarkers of colorectal cancer (John-Baptiste et al., 2012), further investigation is warranted in this area but with the caveat that faecal miRNAs may be effected by antibiotic treatment as we have shown here. Further work is needed to determine the precise source of the miRNAs within the faeces, they may be exosomal or epithelial cell in origin and we have only identified alterations in four miRNAs. Both models used in this study are extreme models in regards microbial depletion, further work should look at less severe models of microbial perturbation, specifically, it would be interesting to profile miRNAs in a monoassociated germ-free model and also, is the pattern of miRNA expression changed based on whether the bacteria is commensal or pathogenic. Furthermore, further work should characterise the temporal pattern of all miRNAs, both abundant and rare transcripts. The work presented
+
+
+
+
+here offers a potential method for screening the viability of the intestinal barrier in live animals and how it is effected in numerous pathological conditions. How the host interacts and tolerates the gut microbiota is a key tenet of research at the moment, we believe this method will contribute critical insights into this mutualism and demonstrate previously unknown cooperation between host and microbe.
+References
+
+Ahmed, F.E., Amed, N.C., Vos, P.W., Bonnerup, C., Atkins, J.N., Casey,
+M., Nuovo, G.J., Naziri, W., Wiley, J.E. and Allison, R.R., 2012. Diagnostic microRNA markers to screen for sporadic human colon cancer in blood. Cancer Genomics & Proteomics 9: 179-192.
+Backhed, F., Ley, R.E., Sonnenburg, J.L., Peterson, D.A. and Gordon, J.I., 2005. Host-bacterial mutualism in the human intestine. Science 307: 1915-1920.
+Bartel, D.P., 2004. MicroRNAs: genomics, biogenesis, mechanism, and function. Cell 116: 281-297.
+Chapkin, R.S., Zhao, C., Ivanov, I., Davidson, L.A., Goldsby, J.S.,
+Lupton, J.R., Mathai, R.A., Monaco, M.H., Rai, D., Russell, W.M., Donovan, S.M. and Dougherty, E.R., 2010. Noninvasive stool- based detection of infant gastrointestinal development using gene expression profiles from exfoliated epithelial cells. American Journal of Physiology Gastrointestinal and Liver Physiology 298: G582-589.
+Choi, J.W., Kwon, T.Y., Hong, S.H. and Lee, H.J., in press. Isolation and characterization of a microRNA-size secretable small RNA in Streptococcus sanguinis. Cell Biochemistry and Biophysics. DOI: .
+Claesson, M.J., Cusack, S., O'Sullivan, O., Greene-Diniz, R., De Weerd, H., Flannery, E., Marchesi, J.R., Falush, D., Dinan, T., Fitzgerald, G., Stanton, C., Van Sinderen, D., O'Connor, M., Harnedy, N., O'Connor, K., Henry, C., O'Mahony, D., Fitzgerald, A.P., Shanahan, F., Twomey, C., Hill, C., Ross, R.P. and O'Toole, P.W., 2011. Composition, variability, and temporal stability of the intestinal microbiota of  the elderly. Proceedings of the National Academy of Sciences of the USA 108, Suppl. 1: 4586-4591.
+Cryan, J.F. and Dinan, T.G., 2012. Mind-altering microorganisms: the impact of the gut microbiota on brain and behaviour. Nature Reviews Neuroscience 13: 701-712.
+Dalmasso, G., Nguyen, H.T., Yan, Y., Laroui, H., Charania, M.A., Ayyadurai, S., Sitaraman, S.V. and Merlin, D., 2011a. Microbiota modulate host gene  expression  via  microRNAs.  PLoS  ONE 6: e19293.
+Desbonnet, L., Clarke, G., Traplin, A., O'Sullivan, O., Crispie, F., Moloney, R.D., Cotter, P.D., Dinan, T.G. and Cryan, J.F., 2015. Gut microbiota depletion from early adolescence in mice: implications for brain and behaviour. Brain Behavior and Immunity 48: 165-173. Diaz Heijtz, R., Wang, S., Anuar, F., Qian, Y., Bjorkholm, B., Samuelsson, A., Hibberd, M.L., Forssberg, H. and Pettersson, S., 2011. Normal gut microbiota modulates brain development and behavior. Proceedings
+of the National Academy of Sciences of the USA 108: 3047-3052. Forsythe, P., Sudo, N., Dinan, T., Taylor, V.H. and Bienenstock, J., 2010.
+Mood and gut feelings. Brain Behavior and Immunity 24: 9-16.
+
+
+Goodrich, J.K., Waters, J.L., Poole, A.C., Sutter, J.L., Koren, O., Blekhman, R., Beaumont, M., Van Treuren, W., Knight, R., Bell, J.T., Spector, T.D., Clark, A.G. and Ley, R.E., 2014. Human genetics shape the gut microbiome. Cell 159: 789-799.
+Grenham, S., Clarke, G., Cryan, J. and Dinan, T., 2011. Brain-gut- microbe communication in health and disease. Frontiers in Physiology 2: 94.
+Gulati, A.S., Shanahan, M.T., Arthur, J.C., Grossniklaus, E., Von Furstenberg, R.J., Kreuk, L., Henning, S.J., Jobin, C. and Sartor, R.B., 2012. Mouse background strain profoundly influences Paneth cell function and intestinal microbial composition. PLoS ONE 7: e32403. Hoban, A.E., Moloney, R.D., Golubeva, A.V., McVey Neufeld, K.A., O'Sullivan, O., Patterson, E., Stanton, C., Dinan, T.G., Clarke, G. and Cryan, J.F., 2016. Behavioural and neurochemical consequences
+of chronic gut microbiota depletion during adulthood in the rat. Neuroscience 339: 463-477.
+Hu, G., Zhou, R., Liu, J., Gong, A.Y., Eischeid, A.N., Dittman, J.W. and Chen, X.M., 2009. MicroRNA-98 and let-7 confer cholangiocyte expression of cytokine-inducible Src homology 2-containing protein in response to microbial challenge. Journal of Immunology 183: 1617-1624.
+Inyawilert, W., Fu, T.Y., Lin, C.T. and Tang, P.C., 2015. Let-7-mediated suppression of mucin 1 expression in the mouse uterus during embryo implantation. Journal of Reproduction and Development 61: 138-144.
+John-Baptiste, A., Huang, W., Kindt, E., Wu, A., Vitsky, A., Scott, W., Gross, C., Yang, A.H., Schaiff, W.T. and Ramaiah, S.K., 2012. Evaluation of potential gastrointestinal biomarkers in a PAK4 inhibitor-treated preclinical toxicity model to address unmonitorable gastrointestinal toxicity. Toxicologic Pathology 40: 482-490.
+Lee, J., Park, E.J., Yuki, Y., Ahmad, S., Mizuguchi, K., Ishii, K.J., Shimaoka, M. and Kiyono, H., 2015. Profiles of microRNA networks in intestinal epithelial cells in a mouse model of colitis. Scientific Reports 5: 18174.
+Liu, S., Da Cunha, A.P., Rezende, R.M., Cialic, R., Wei, Z., Bry, L., Comstock, L.E., Gandhi, R. and Weiner, H.L., 2016. The host shapes the gut microbiota via fecal microRNA. Cell Host Microbe 19: 32-43. Livak, K.J. and Schmittgen, T.D., 2001. Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta
+Delta C(T)) method. Methods 25: 402-408.
+Mackie, R.I., Sghir, A. and Gaskins, H.R., 1999. Developmental microbial ecology of the neonatal gastrointestinal tract. American Journal of Clinical Nutrition 69: 1035s-1045s.
+Manichanh, C., Reeder, J., Gibert, P., Varela, E., Llopis, M., Antolin, M., Guigo, R., Knight, R. and Guarner, F., 2010. Reshaping the gut microbiome with bacterial transplantation and antibiotic intake. Genome Research 20: 1411-1419.
+McKenna, L.B., Schug, J., Vourekas, A., McKenna, J.B., Bramswig, N.C., Friedman, J.R. and Kaestner, K.H., 2010. MicroRNAs control intestinal epithelial differentiation, architecture, and barrier function. Gastroenterology 139: 1654-1664.
+Mittelbrunn, M. and Sanchez-Madrid, F., 2012. Intercellular communication: diverse structures for exchange of genetic information. Nature Reviews Molecular Cell Biology 13: 328-335.
+
+
+
+
+Niu, Y., Mo, D., Qin, L., Wang, C., Li, A., Zhao, X., Wang, X.,
+Xiao, S., Wang, Q., Xie, Y., He, Z., Cong, P. and Chen, Y., 2011. Lipopolysaccharide-induced miR-1224 negatively regulates tumour necrosis factor-a gene expression by modulating Sp1. Immunology 133: 8-20.
+Palmer, C., Bik, E.M., DiGiulio, D.B., Relman, D.A. and Brown, P.O., 2007. Development of the human infant intestinal microbiota. PLoS Biology 5: e177.
+Paraskevopoulou, M.D., Georgakilas, G., Kostoulas, N., Vlachos, I.S., Vergoulis, T., Reczko, M., Filippidis, C., Dalamagas, T. and Hatzigeorgiou, A.G., 2013. DIANA-microT web server v5.0: service integration into miRNA functional analysis workflows. Nucleic Acids Research 41: W169-173.
+Runtsch, M.C., Round, J.L. and O'Connell, R.M., 2014. MicroRNAs and the regulation of intestinal homeostasis. Frontiers in Genetics 5: 347. Schorey, J.S., Cheng, Y., Singh, P.P. and Smith, V.L., 2015. Exosomes and other extracellular vesicles in host-pathogen interactions. EMBO
+Reports 16: 24-43.
+Schulte, L.N., Eulalio, A., Mollenkopf, H.J., Reinhardt, R. and Vogel, J., 2011. Analysis of the host microRNA response to Salmonella uncovers the control of major cytokines by the let-7 family. EMBO Journal 30: 1977-1989.
+Peck, B.C.E., Shanahan, M.T., Singh, A.P. and Sethupathy, P., 2017. Gut Microbial Influences on the Mammalian Intestinal Stem Cell Niche. Stem Cells International 2017: 5604727.
+Sudo, N., Chida, Y., Aiba, Y., Sonoda, J., Oyama, N., Yu, X.N., Kubo,
+C. and Koga, Y., 2004. Postnatal microbial colonization programs the hypothalamic-pituitary-adrenal system for stress response in mice. Journal of Physiology 558: 263-275.
+
+Teng, G.-G., Wang, W.-H., Dai, Y., Wang, S.-J., Chu, Y.-X. and Li, J.,
+2013. Let-7b is involved in the inflammation and immune responses associated with Helicobacter pylori infection by targeting Toll-like receptor 4. PLoS ONE 8: e56709.
+Uza, N., Nakase, H., Yamamoto, S., Yoshino, T., Takeda, Y., Ueno, S., Inoue, S., Mikami, S., Matsuura, M., Shimaoka, T., Kume, N., Minami, M., Yonehara, S., Ikeuchi, H. and Chiba, T., 2011. SR- PSOX/CXCL16 plays a critical role in the progression of colonic inflammation. Gut 60: 1494-1505.
+Viegas, S.C. and Arraiano, C.M., 2008. Regulating the regulators: how ribonucleases dictate the rules in the control of small non-coding RNAs. RNA Biology 5: 230-243.
+Vlachos, I.S., Zagganas, K., Paraskevopoulou, M.D., Georgakilas, G., Karagkouni, D., Vergoulis, T., Dalamagas, T. and Hatzigeorgiou, A.G., 2015. DIANA-miRPath v3.0: deciphering microRNA function with experimental support. Nucleic Acids Research 43: W460-W466. Weber, J.A., Baxter, D.H., Zhang, S., Huang, D.Y., Huang, K.H., Lee, M.J., Galas, D.J. and Wang, K., 2010. The microRNA spectrum in
+12 body fluids. Clinical Chemistry 56: 1733-1741.
+Wu, S.V. and Hui, H., 2011. Treat your bug right. Frontiers in Physiology 2: 9.
+Zang, Y., Tai, Y., Wan, B. and Jia, X., 2016. miR-200a-3p promotes the proliferation of human esophageal cancer cells by post- transcriptionally regulating cytoplasmic collapsin response mediator protein-1. International Journal of Molecular Medicine 38: 1558-1564.
+Zhang, Y., Viennois, E., Zhang, M., Xiao, B., Han, M.K., Walter, L., Garg, P. and Merlin, D., 2016. PepT1 expression helps maintain intestinal homeostasis by mediating the differential expression of miRNAs along the crypt-villus axis. Scientific Reports 6: 27119.
+
+ - Wednesday, March 21, 2018 10:43:50 PM - IP Address:184.98.56.158

@@ -1,0 +1,666 @@
+
+
+
+
+Ferrosenescence: The iron age of neurodegeneration?
+Adonis Sfera,, Kelsey Bullock, Amy Price, Luzmin Inderias, Carolina Osorio
+a Patton State Hospital, Patton, CA, United States
+b Loma Linda University, Loma Linda, CA, United States
+c Oxford University, UK
+
+
+
+A R T I C L E I N F O  
+
+Keywords:
+Iron
+Cognitive impairment p53
+Transposable elements Transferrin  Ferroportin
+BACE-1
+Gluthatione perocidase Ferroptosis
+Cancer Antioxidants DNA damage
+Mitochomdria associated membranes Selenium
+Quantitative susceptibility mapping Iron regulatory protein-2 Mitochondrial DNA
+Insulin-like growth factor Frontotemporal dementia
+
+
+A B S T R A C T  
+
+Aging has been associated with iron retention in many cell types, including the neurons, promoting neurode- generation by ferroptosis. Excess intracellular iron accelerates aging by damaging the DNA and blocking  genomic repair systems, a process we define as ferrosenescence.
+Novel neuroimaging and proteomic techniques have pinpointed indicators of both iron retention and ferro- senescence, allowing for their early correction, potentially bringing prevention of neurodegenerative disorders within reach.
+In this review, we take a closer look at the early markers of iron dyshomeostasis in neurodegenerative dis- orders, focusing on preventive strategies based on nutritional and microbiome manipulations.
+
+
+
+
+Introduction
+
+Iron is an essential, but potentially lethal micronutrient and both its deficiency and excess have been linked to pathology. Indeed, iron dyshomeostasis, ranging from anemias to toxicity, are among the most common disorders of mankind (). But these conditions may represent only "the tip of the iceberg" as novel studies link this biometal to  aging  and  neurodegenerative  disorders ( ).
+Aging has been associated with iron retention in most cell types, including the neurons, contributing to lipid peroxidation and aggrega- tion of insoluble proteins in the endoplasmic reticulum (ER). Combined with cellular antioxidant failure, these changes may lead to neuronal
+
+death by ferroptosis and manifest in time as neurodegeneration.
+Intra-neuronal iron retention, promotes premature aging by indu- cing DNA damage with genomic destabilization, a hallmark of old age and cancer (). Furthermore, excess intracellular iron directly disables the p53 -mediated DNA repair by downregulating this protein (). A vicious circle is engendered, resulting in genomic disintegration as aging leads to intracellular iron retention, which in turn promotes further aging by inducing DNA damage and blocking repair, a process we define as ferrosenescence (). Aside from affecting the genome, ferrosenescence damages the epigenome via DNA hypomethylation and mobilization of transposable elements (TE) ().
+MiR-29 is upregulated in response to genomic and epigenomic
+
+
+Abbreviations: TE, transposable elements; IRP-2, iron regulatory protein-2; BACE-1, beta-secretase 1; APP, amyloid precursor protein; FPN, ferroportin; Tf, transferrin; TFR-1, transferrin receptor-1; IRE, iron-responsive elements; mtDNA, mitochondrial DNA; DNMT-3A and DNMT-3B, DNA methyltransferase 3A and 3B; SETDB1, histone-lysine N-methyltransferase; QSM, quantitative susceptibility mapping; MCI, mild cognitive impairment; GPX-4, glutathione peroxidase-4; PE, phosphatidylethanolamine; MAM, mitochondria-associated membranes; IMM, inner mitochondrial membrane; OMM, outer mitochondrial membrane; TDP-43, TAR DNA-binding protein 43; FTD, frontotemporal dementia; mTOR, mammalian target of rapamycin; Nrf2, nuclear factor erythroid 2-related factor 2; VDAC-1 and VDAC-2, anion channels 1 and 2; AEA, anandamide (arachidonoyl ethanolamide); FABP3, fatty acid binding protein 3; IGF- 1, insulin/insulin-like growth factor-1
+* Corresponding author.
+E-mail addresses: , (A. Sfera), (K. Bullock),  (C. Osorio).
+
+
+R00e4ce7i-v6e3d741/4 (c)Se2p0te1m7bEelrse2v0i1er7;BR.Ve.cAeilvlerdigihntsrerevsiseerdvefdo.rm 13 November 2017; Accepted 15 November 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Ferrosenescence as a consequence of intracellular iron retention. A vicious circle is engendered, leading to genomic disintegration as excess iron triggers DNA damage and blocks DNA repair, resulting in further aging.
+
+damage, a phenomenon observed in aging tissues and models of ac- celerated aging (). MicroRNA-29 was recently re- ported to target IREB-2, the gene encoding for iron regulatory protein-2 (IRP-2), the master regulator of brain iron (). In ad- dition, miR-29 directly targets beta-secretase 1 (BACE-1) involved in the generation of toxic amyloid species. Beta amyloid was demon- strated to destabilize ferroportin (FPN), the iron export channels, pro- moting intra-neuronal iron accumulation () (). Aside from lowering intracellular iron, miR-29 stabilizes the epigenome by counteracting the age-related DNA methylation changes, suggesting that this miR functions as a "guardian of the epigenome" ( ). Moreover, miR-29 restores DNA repair systems by indirectly
+
+activating the p53 protein. This may engender an anti-neurodegenera- tive and anti-aging p53/miR-29 axis. Enhancing this axis may represent a novel therapeutic strategy for age-related diseases ( ). This is further emphasized by mir-29 targeting histone-lysine N-methyltransferase (SETDB1), a negative regulator  of  p53  ( ).
+Novel high-resolution neuroimaging studies with quantitative sus- ceptibility mapping (QSM) suggest that dysregulated iron markers may precede the clinical symptoms of neurodegenerative disorders, bringing prevention of these conditions within reach ( ).
+Novel laboratory models and cell culture studies observed co-loca- lization of brain iron deposits with toxic beta amyloid species, linking this biometal to cognitive disorders ( ). Indeed, a body of evidence obtained over the past two decades associated both iron deficiency and excess with mild cognitive im- pairment (MCI), documenting the role of iron in aging and cognition ().
+Ferroptosis is a regulated iron-dependent cell death triggered by peroxidation of phospholipids, especially phosphatidylethanolamine (PE), in the absence of lipid repair enzyme glutathione peroxidase-4 (GPX-4). This process was demonstrated to commence in the en- doplasmic reticulum (ER) subdomains, probably the mitochondria-as- sociated membranes (MAM) and/or inner mitochondrial membrane (IMM) ( ). Ferroptosis was associated with neurodegeneration in Parkinson's disease (PD), Huntington's disease (HD), stroke and Alz- heimer's disease (AD), suggesting a pathogenetic role ( ). On the other hand, fer- roptosis can be prevented via selenium donors, lipoxygenase inhibitors, and mild iron chelators, such as compound PBT434, opening a window of opportunity for early interventions in neurodegenerative disorders ().
+Taken together, a growing body of evidence links the brain iron- burden with aging and the risk of neurodegenerative disorders, sug- gesting that early correction of iron dyshomeostasis may delay or even prevent these late-life conditions.
+
+
+Fig. 2. Dysfunctional IRP-2 may explain the age-related neuronal iron retention. Adequately processed amyloid precursor protein (APP) stabi- lizes FPN channels, facilitating iron efflux. The BACE-1-misprocessed APP causes iron retention as it fails to stabilize FPN. Dysfunctional IRP-2 may promote accumulation of neuronal iron via TFR-1 or iron  dissociation from Ft. MiR-29 may restore cellular iron homeostasis by directly targeting both BACE-1 and IRP-2.
+
+Fig. 3. The amyloidopathies-tauopathies iron connection. In order to in- teract with hepcidin, FPN must be anchored at the cell surface by APP. APP requires tau-assisted trafficking to reach the cell surface. BACE-1 cleaved APP likely does not recognize FPN, destabilizing it and preventing neuronal iron egress. In addition, iron upregulates BACE-1 and inactivates p53 promoting genomic damage. BACE-1 also triggers tau hyperpho- sphorylation (not shown in the figure), associated with PD (  ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The brain iron, a quick reminder
+
+Like most trace elements, excess free iron is toxic, therefore it must be circulated protected by transferrin (Tf), its glycoprotein transporter. The central nervous system (CNS) iron levels exceed those of most or- gans as the brain maintains iron-requiring physiological functions, in- cluding myelination and dopamine synthesis ().
+The brain iron shadows dopaminergic pathways as it is a required cofactor for tyrosine hydroxylase, the rate limiting enzyme in dopamine biosynthesis. In consequence most dopamine-related disorders, in- cluding PD, restless legs syndrome, addictions, psychosis and the ad- verse effects of antipsychotic drugs involve dysregulated iron metabo- lism ( ).
+Iron accesses the CNS in conjunction with Tf by attaching to transferrin receptor-1 (TFR-1) expressed by the endothelial cells of brain microvessels. These cells uptake the Tf-TFR-1 complex by lipid raft-dependent endocytosis and release it into the cytosol. Intracellularly, after being utilized for metabolic functions, iron can be stored in ferritin (Ft), trafficked to the mitochondria or if in excess exported into the brain interstitial fluid via FPN channels.
+Having crossed into the CNS, iron is oxidized by ceruloplasmin and delivered to the neuronal and non-neuronal cells for metabolic needs. In substantia nigra, pars compacta (SNc) dopaminergic neurons can al- ternatively store iron in neuromelanin instead of Ft which is poorly expressed by these cells ().
+The uptake of iron into neurons takes place via the divalent metal transporter-1 (DMT-1) and TFR-1 receptors, but iron can only exit the neurons via FPN channels. These proteins are therefore crucial for maintaining the intracellular iron concentration and FPN dysregulation was associated with impaired iron homeostasis and neurodegenerative disorders ().
+Physiologically, FPN is negatively regulated by the liver hormone hepcidin which may not cross the blood brain barrier (BBB), forcing the brain to synthesize its own hepcidin (). Low hepcidin levels facilitate neuronal iron efflux, while high levels are associated with iron retention (). Aging and in- flammation upregulate hepcidin, perhaps explaining the higher in- tracellular iron levels documented in geriatric population ( ). Interestingly, hepcidin upregulation was recently reported to be neuroprotective by attenuating the beta amyloid-induced inflammation (). On the other hand, some studies have reported an
+
+opposite, pro-apoptotic effect of hepcidin by triggering inflammation (). While more studies are needed to clarify this issue, it is possible that ferroptosis rather than apoptosis is the cell fate de- terminant and the pro or anti-inflammatory action of hepcidin may depend on the status of cellular anti-oxidant systems.
+At the subcellular level, iron homeostasis is regulated via iron-re- sponsive elements (IRE) expressed at either the 3'- or 5'-untranslated regions of mRNA, therefore allowing or denying transcription of iron- proteins. IRP-2, the master regulator of brain iron levels, encoded by the IREB-2 gene, was demonstrated to modulate TFR-1, FPN and Ft through their respective IREs (). IRP-2 dysregulation was asso- ciated with AD, PD, HD and stroke, emphasizing the role of iron re- tention in the pathogenesis in these disorders ( ).
+
+Iron and biological membranes
+
+FPN proteins are anchored in biological membranes via specialized subdomains defined as lipid rafts and caveolae ( ). These structures, rich in cholesterol and sphingolipids are crucial for neurotransmission as they house most known receptors as well as neurodegeneration-linked proteins (  ). Because of high lipid con- tent, rafts and the specialized ER rafts, the mitochondria-associated membranes (MAMs) are vulnerable to peroxidation, impaired neuro- transmission and neurodegeneration. In fact, raft/MAM iron-related lipid peroxidation may represent a common denominator of several neurodegenerative disorders ().
+In order to respond to hepcidin, FPN molecules must be firmly an- chored on cell membranes (). Stabilization and anchoring of FPN requires tau-related APP transport from the cytosol to the cell surface () (). Raft peroxidation and/or tau dysfunction may impair this process, destabilizing FPN with resultant iron retention ( ) ().
+In addition to APP and tau, MAMs also house the molecular actors of PD, amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD), including alpha synuclein and TAR DNA-binding protein 43 (TDP-43), placing lipid peroxidation at the epicenter of neurodegen- eration ().
+Along with raft/MAMs peroxidation, the biological membranes
+
+undergo distortion and damage, impairing neurotransmission, with potential multi-receptor failure ( ). These failures may
+
+
+Table 1
+Herbal iron chelators with potential benefit in neurodegenerative disorders.
+
+Plant-based iron chelators	References
+
+explain the clinical symptomatology overlap across several neu-	 	
+
+ropsychiatric disorders. In fact, lipid peroxidation and raft pathology have been linked to a wide variety of conditions ranging from normal aging to AD, PD, stroke, schizophrenia, anxiety, depression, autism, epilepsy and prion disease ().
+
+Neuroimaging and proteomic markers of iron dyshomeostasis
+
+Aging is an essential risk factor for neurodenerative disorders, and neuronal iron retention was demonstrated in both normal aging and late-life neurodegeneration. Novel high-resolution MRI techniques, in- cluding QSM, allow for non-invasive visualization and quantification of iron in various brain nuclei and their correlation with clinical symp- tomatology, comprising potential biomarkers ( ).
+Recent studies in neurodegeneration have focused on brain iron deposits and their relationship with the early clinical signs of AD, PD and stroke (). Other researchers have established a correlation between iron accumulation and the cognitive status at dif- ferent ages, by observing that late life cognitive abilities can be pre- dicted by the childhood brain iron levels ( ).
+Several AD neuroimaging studies focused on measuring the hippo- campal iron deposits and relating them to the mini mental status exam (MMSE) scores, suggesting a predictive value of these methods in pro- dromal AD (). Other researchers and clinicians mea- sured the hippocampal volume and the iron deposits, aiming at esti- mating the amount of tissue loss necessary for a diagnosable cognitive impairment ( ). A recent QSM study established a correlation between the sub- cortical iron deposits and cognitive impairment in vascular disease, suggesting a role for iron markers in the early diagnosis of vascular dementias ().
+Non-neuroimaging studies in laboratory models and cell cultures observed iron-related accumulation of toxic amyloid species, linking this biometal with defective proteostasis ( ). Another line of evidence associated MCI with both iron deficiency and excess, pointing to the close association between cognition and iron dyshomeostasis (). This connection was fur- ther emphasized by a recent study of cognitively unimpaired APOE-e4 carriers with high CSF Ft levels who developed memory problems within seven years, demonstrating a predictive value of this marker for pre-symptomatic AD ().
+Novel PD neuroimaging studies identified reliable iron biomarkers in the premotor phase of this condition, opening a window of oppor- tunity for prevention ( ). Along similar lines, recent PD studies associated symp- tomatology with iron dysfunction at younger age ( ). Moreover, iron chelation with the compound PBT434 was shown to reverse the toxicity of alpha synuclein, suggesting an in- dication for early PD (). Other groups linked mutated alpha synuclein with disrupted iron-dopamine transport in addictions, psychosis  and other non-PD dopamine disorders (  ).
+Taken together, novel proteomic markers and high-resolution neu- roimaging techniques have enabled researchers and clinicians to derive reliable predictors of early neurodegeneration by brain iron imaging and the quantification of iron proteins ().
+
+What is ferrosenescence?
+
+Ferrosenescence is a premature aging phenotype promoted by
+
+Curcumin	
+Kolaviron	
+Floranol	
+Procyanidins	
+Baicalein	
+Tetramethylpyrazine and Ferulic acid	
+Polyphenols	
+Catechins	
+Epigallocatechin-3-gallate.	
+Phytate	
+Epimedium	
+Astragalus	
+Radix Puerariae	
+Azadirachta indica	
+
+
+increased intracellular iron. DNA damage, genomic repair failure and methylation defects are characteristics of this phenotype ( ).
+
+DNA damage
+
+A recent study on cultured endothelial cells reported that iron may induce direct DNA damage, commencing in a matter of minutes after the intake of a single iron tablet (). This study, which measured the activation of the p53-DNA repair, demonstrated that transient raises in circulatory iron are sufficient for activating the genomic repair systems. This data points to the key role of p53 in maintaining genomic integrity, justifying the title "guardian of the genome" assigned to this protein.
+Novel studies reported a p53 iron-binding site which when occupied inactivates this protein (). An equivalent mechanism was described in mitochondria where iron-p53 inactivation stimulates the iron-sulfur cluster assembly enzyme (ISCU) to promote iron accu- mulation eventually resulting in mitochondrial DNA (mtDNA) damage (). As p53 is also the "mtDNA guardian", its in- activation may account for the disruption of these organelles docu- mented in several neurodegenerative disorders ().
+
+Genomic repair failure
+
+Many cancers thrive by mutating the p53 gene, inducing not only loss of its anti-tumor properties, but also morphing this protein into an oncogene or infectious prion (). Indeed, iron was documented to promote p53 conformational changes, leading to car- cinogenesis ().
+Other studies demonstrated cancer-associated p53 amyloidogenesis, linking this protein to AD pathology and perhaps explaining the in- creased incidence of cancers in geriatric population ( ). Another recent study con- nected p53 amyloidogenesis with neurodegeneration by demonstrating the presence of insoluble p53 amyloid aggregates in the cerebellum of older individuals with cognitive impairment (). Others reported mutated p53 protein in early AD, suggesting a marker value for this biomolecule ( ). Indeed, in addition to disabling p53, iron was demonstrated to upregulate BACE-1, possibly connecting this enzyme with the p53 amyloid ().
+MicroRNA-29 directly targets BACE-1, perhaps comprising a pro- tective mechanism for both neurodegeneration and some cancers (). Indeed, a recombinant pre- miR-29 was demonstrated to have a beneficial effect in AD (   ). Furthermore, miR-29 was shown to indirectly upregulate
+p53 by silencing two of its negative regulators, demonstrating the anti-
+
+amyloid role of this miR ().
+
+DNA hypomethylation
+
+Aside from genomic changes, ferrosenescence generates epigenomic damage by altering DNA methylation and chromatin density (    ). Global hypo- methylation was associated with cancer, aging and lipid pathology (). Indeed, lipid per- oxidation was reported to trigger cellular senescence by upregulating DNA methyltransferase 3A and 3B (DNMT-3A and DNMT-3B), inducing both global and promoter specific methylation changes ( ).
+MiR-29 was shown to directly target DNMT-3A and 3B, therefore opposing the DNA methylation changes related to aging or cancer (). Indeed, it was reported that under normal cir- cumstances miR-29 maintains the status quo of genomic methylation, by silencing the expression of DNA methyltransferase, methylase and histone methyltransferase SETDB1 ( ). These seemingly contradictory actions are believed to fine tune the methylation landscape, stabilizing the genome (). MicroRNA-29 functions neither for nor against methylation, but rather as an "anti-de novo methylation" agent. Indeed, both DNMT-3A and 3B were shown to be de novo methyltransferase which re-wire the epi- genome in favor of aging and cancer ( ). The same has been documented re- garding SETDB1 histone methyltransferase, another direct target of miR-29, which coordinates de novo methylation with DNMT-3A (  ). Aside from its epigenomic role, SETDB1 was demonstrated to directly target the p53 gene, disabling DNA repair ().
+
+Transposable elements
+
+Genomic hypomethylation was associated with the mobilization of transposons or transposable elements (TE), established hallmarks of aging and cancer (). TE are segments of DNA which possess the ability to extricate themselves out of the double helix and subsequently self-reinsert at different genomic addresses (). Age-related TE mobilization recently prompted the "transposon theory of aging" based on TE activation via DNA hypomethylation and histone decon- densation. Conversely, TE mobilization can be halted by hetero- chromatin stabilization a modality with potential use in age-related diseases ().
+TE mobilization has been associated with neurodegenerative pa- thology, including ALS, FTD, PD, spongiform encephalopathies and schizophrenia ( ).
+MicroRNA-29 may counteract TE mobilization by promoting genome stability, maintaining DNA methylation and restoring the in- tegrity of the p53-DNA repair () (). In this regard, the miR-29/p53 may comprise an anti-aging/ anti-neurodegeneration axis which could be exploited as a treatment modality (). Indeed, an amphi- philic peptide, LK-L1C/K6W/L8C, was already synthesized, aiming to enhance the expression of miR29b and promote p53 activity ( ). Furthermore, the anti-aging role of miR-29/p53 may be em- phasized by a recent preclinical study in which several aging features were reversed by p53-FOXO-4 separation, suggesting a role for this miR in maintaining the fine line between cancer and aging ( ).
+Taken together, miR-29/p53 may achieve both genomic and epi- genomic stabilization by safeguarding the stability of p53, preserving the DNA methylation, lowering intra-neuronal iron and decreasing
+iron-induced lipid peroxidation.
+
+The mam of neurodegeneration
+
+The ferrosenescence-associated genome disintegration eventually leads to neuronal demise by ferroptosis or apoptosis. The link between ferroptosis and the mitochondria-associated membranes (MAMs) has not been emphasized yet, however a recent crucial study places the initiation of this process in the ER subdomains, probably MAMs ( ). Indeed, this area was recently identified as an aging and neurodegeneration hub associated with several age-related disorders ( ) ().
+As mentioned earlier, MAMs are specialized lipid rafts, associated with the cellular "lipid factory", the ER, and as such vulnerable to lipid peroxidation and protein misfolding (). The common location of neurodegeneration-associated proteins and neu- rotransmission-linked receptors may help explain the overlap in clinical symptoms and misfolded protein markers across several neurodegen- erative disorders. For example, misfolded alpha synuclein is en- countered in several neurodegenerative disorders, including PD, AD, ALS, FTD and Lewy body dementia ( ). In addition, symp- toms including depression, anxiety, delusions or hallucinations may be encountered in the same conditions.
+Ferroptosis is a regulated cell death triggered by iron peroxidation of cell membrane PE, in the absence of the antioxidant selenoprotein GPX-4 (). It was recently demonstrated that ferrop- tosis is executed via arachidonic acid (AA) fatty acyls arachidonoyl AA and adrenoyl (AdA) derived from the enzymatic action of 15-lypox- ygenase () (). Other studies connected ferrop- tosis with the 12/15 lipoxygenase and cardiolipin (CL) oxidation in the inner mitochondrial membrane (IMM) ( ) ().
+It is noteworthy that the molecular actors of ferroptosis can also trigger apoptosis, connecting MAMs with the controlled cell death in many neurodegenerative disorders ( ). While, ferroptosis is triggered by PE oxidation only, apoptotic pathways may be activated by multiple other substrates (). In addition, preclinical studies linked GPX-4 de- ficiency and overexpressed 12/15 lipoxygenase with apoptosis and AD, suggesting a close connection between ferroptosis and apoptosis ( ) ().
+Aside from cell death and neurodegeneration, MAMs were also as- sociated with longevity. For example, the MAM residents PE and the mammalian target of rapamycin (mTOR) pathway component, mTORC2 were associated with increased lifespan () (). The interest in the TOR pathway has surged recently as a preclinical study associated the TOR blocker, rapamycin with longevity, decreased cancer rates and reversed cognitive decline ( ). Interestingly, a recent study showed that miR- 29 indirectly downregulates the mTOR pathway, leading to lifespan increase in rodents, suggesting a longevity role for this miR (  ). Moreover, a separate study em- phasized the anti-aging role of miR-29 via directly targeting the MAM tethering proteins, anion channels 1 and 2 (VDAC-1 and VDAC-2) but not VDAC-3 (). A preclinical study demonstrated that swapping VDAC-1 with VDAC-3 was associated with increased lifespan (). Furthermore, VDAC-1 and VDAC-2 dys- function were linked to neurodegeneration in AD, PD, Down syndrome and epilepsy ( ).
+Interestingly, VDACs were associated with neuronal ferroptosis, while in cancer cells, ferroptosis was linked to the cystine/glutamate antiporter (). As this system is poorly expressed in mature neurons, it is likely that
+VDACs execute ferroptosis in neuronal cells ().
+
+Fig. 4. Schematic representation of genomic and epigenomic functions of miR-29 as opposed to iron: safeguarding the stability of p53 and preser- ving DNA methylation may deactivate TE. On the other hand, iron de- stabilizes the genome and epigenome by disabling p53-DNA repair and promoting hypomethylation, generating a favorable environment for TE mobilization. It is noteworthy that miR-29 silences the expression of DNMTs and SETB1.
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. Ferroptosis and apoptosis are triggered by identical molecular ac- tors, however only PE peroxidation executes ferroptosis. It is noteworthy that AA binding to Ft activates the master antioxidant regulator Nrf2. FAB3 may transport AA to its Ft binding site. In turn, Nrf2 upregulates Ft and GPX-4. Nrf2 is also activated by DNA demethylation and inactivated by GSK beta. Lithium, a GSK beta inhibitor, indirectly upregulates Nrf2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A direct connection between MAMs and iron homeostasis was es- tablished in lower organisms through the endoplasmic reticulum-mi- tochondria encounter structure (ERMES), an MAM-mitochondria tether (). As ERMES is not expressed in mammals, VDACs may represent its equivalent in higher organisms and be involved in iron transport across the outer mitochondrial membrane (OMM).
+The link between endocannabinoid system and MAMs was not ex- plored yet, however overexpression of cannabinoid receptor-1 (CB-1) was recently associated with the ER stress, suggesting a role in neuro- degeneration (). In addition, the endocannabinoid ana- ndamide (arachidonoyl ethanolamide) (AEA) was reported metabolized by 15/lipoxygenase, probably connecting it to ferroptosis ( ). Moreover, biochemistry studies documented AEA-associated activation of AA lipoxygenase pathway, linking anandamide to cell
+
+death by ferroptosis or apoptosis (). Indeed, the negative effects of AEA on cognition and its involvement in AD, PD and schizophrenia have been established by numerous studies (  ff). In addition, it is worth men- tioning that the clinical trials of FAAH inhibitors (which increase sy- naptic AEA) were recently halted due to a series of adverse effects, possibly linked to ferroptosis ().
+Taken together, numerous studies have associated MAMs with neurodegeneration as these hubs link lipid peroxidation with the mis- folded proteins encountered in several neurodegenerative disorders.
+
+Fig. 6. Schematic representation of mitochondria-associated membranes (MAM) and its tethering to the outer mitochondrial membrane (OMM). The direct targets of miR-29 at this level are BACE-1, DNMT3A and VDACs. Phosphatidylethanolamine (PE) and cardiolipin (CL) were asso- ciated with iron peroxidation, ferroptosis initiation and neurodegenerative pathology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cellular oxidants and antioxidants
+
+Ferroptosis is the consequence of failed cellular antioxidants, espe- cially GPX-4, which requires activation by the nuclear factor erythroid 2-related factor 2 (Nrf2). Nrf2 is the master regulator of cellular anti- oxidants, controlling the transcription of multiple antioxidant genes via antioxidant response elements (AREs) (). An emerging body of research associated Nrf2 downregulation with AD and PD, suggesting that cellular antioxidants may play a key role in these dis- orders ( ). In addition, age-related DNA hypomethylation was demon- strated to activate Nrf2 via DNMTs, linking it to aging and age-related diseases () (). Indeed, Nrf2 disruption may result in ferroptosis via GPX-4 and/or Ft inactivation ( ).
+MiR-29 may be an indirect Nrf-2 modulator as it targets DNMTs and glycogen synthase kinase-3 beta (GSK-3 beta) both negative regulators of the Nrf2 gene ( ) (). In addition, a direct Nrf2-miR-29 link was reported by a recent study ().
+Multiple studies associated GSK-3 beta with AD and PD, as well as some psychiatric disorders, including bipolar disorder, depression, an- xiety, schizophrenia and drug addictions ( ). Lithium, a GSK-3 blocker was demon- strated to have beneficial effects in AD models, probably by Nrf2 up- regulation (). Indeed, preventive use of lithium was recently recommended for healthy in- dividuals, while a novel population-based study linked higher natural levels of lithium in drinking water to decreased incidence of AD (). Interestingly, an earlier study linked lower suicide incidence with the drinking water lithium (). Moreover, in animal models, lithium was de- monstrated to reduce the expression of BACE-1 and alpha synuclein, emphasizing its beneficial effect in neurodegeneration ( ).
+A major cellular antioxidant, Ft requires Nrf2-ARE activation for its iron storing function, therefore comprising a ferroptosis and
+
+
+neurodegeneration marker (). Indeed, CSF Ft level was already reported as an early AD marker (). Ft may exert its antioxidant action by binding AA, thus denying it to 12/15 lipoxygenase as a peroxidation substrate, preventing ferroptosis (   ) (). On the other hand, Ft degradation (ferritinophagy) was shown to facilitate ferroptosis by increasing Ft-iron dissociation, linking iron excess with antioxidant failure (). The fatty acid binding protein 3 (FABP3) has emerged as a novel neurode- generation marker associated with AD, Lewy body dementia and PD (). This intracellular lipid transporter probably brings AA to its Ft-binding site, thus preventing antioxidant failure, averting ferroptosis ().
+
+
+Ferrosenescence interventions
+
+MicroRNA-29 was reported beneficial in AD, stroke and in some psychiatric disorders, probably by lowering both BACE-1 and iron re- tention (). In addition, this miR was recently suggested as a PD biomarker as it mirrors disease progression (). Fur- thermore, in rodents, miR-29 was associated with increased lifespan and lowered reproductive rates ( ). However, aside from its neuroprotective role, novel studies re- veal an enteroprotective function of miR-29 as it preserves the integrity of intestinal epithelia, preventing bacterial migration into the circula- tory system (). Pathological disruption of the in- testinal epithelial lining or "leaky gut" promotes translocation of bac- teria and toxins into the bloodstream, engendering pathology, including Chron's disease and colorectal carcinoma (). Recent studies attributed NOD2 gene an enteroprotective role by regulating saprophytic intestinal flora, repressing the emergence of pathogenic microbes (). Interestingly, NOD2 was found to up- regulate miR-29, emphasizing the enteroprotective role of this miR ().
+
+Iron chelators
+
+Recent preclinical studies have reported that iron chelators such as desferrioxamine (DFO) slows the progression of cognitive decline in AD by lowering tau phosphorylation (). In this regard, in- tranasal DFO administration was also demonstrated to lower memory loss in animal models of AD ().
+Low affinity iron chelators are considered by some to be more sui- table for treating iron retention in seniors as they may not disrupt the beneficial effects of this biometal. Milder and plant-derived compounds may effectively remove excess iron without drastically altering its le- vels. PBT 434, a novel quinazolinone compound was recently described for potential indication in PD (). PBT 434 was shown to selectively lower the intracellular iron and increase FPN levels in rodents ().
+
+The selenium-iron link
+
+Human and animal studies have indicated that selenium, like miR- 29 is inversely associated with global DNA hypomethylation and DNMT activity, linking this microelement to genomic repair ( ). Moreover, in cancer patients, selenium was demon- strated to protect against DNA-damaging chemotherapeutics ( ). For example, adding selenium to the regimen was reported to augment patients' tolerability of higher chemotherapy doses ( ). In addition, a selenium metabolite, selenodiglutathione, was shown to promote p53 synthesis, increasing the efficacy of antic- ancer treatments ().
+Several studies linked selenium deficiency with increased iron le- vels, perhaps accounting for both iron induced lipid peroxidation and the loss of GPX-4 selenoprotein ( ). In AD higher iron levels were reported in early phases, while late stages were marked by low selenium, suggesting phase-specific marker role of these elements (). Fur- thermore, others have associated cellular senescence with low selenium and selenoprotein levels, further linking this micronutrient to aging ().
+A novel study explored the link between the selenium and gut mi- crobes, showing that selenium sequestration by saprophytic microbes may lower host selenium levels ( ). Interestingly, a crucial study reported that plasma selenium le- vels do not necessarily reflect the brain antioxidant status in neurode- generative disorders, demonstrating the need for novel CNS antioxidant markers ().
+The selenium compound, ebselen, was recently found beneficial for hearing loss in doses up to 800 mg a day, indicating potential dosing ranges for neurodegenerative disorders (). Another promising selenium donor is Selenoneine, a compound derived from Bluefin tuna which also lowers the iron via its heme-chelating proper- ties (). Interestingly, er- gothioneine the selenoneine sister molecule, was recently demonstrated beneficial in AD mouse models, indicating a role for these compounds in neurodegenerative disorders ().
+
+12/15 lipoxygenase inhibitors
+
+12/15 lipoxygenase, the enzyme directly associated with the oxi- dation of membrane phospholipids, is an emerging target in stroke and neurodegeneration (). The newly described compound, 99089, may mark the starting point for the development of agents targeting this enzyme (). Interestingly, both 12 lipoxygenase and GPX-4 were reported to reside in the in- testinal membranes where they influence bacterial translocation into the bloodstream ().
+The substrate of 12/15 lipoxigenase, omega-3 and omega-6 poly unsaturated fatty acids (PUFAs) have been scrutinized lately as their
+
+ratio (omega-6/omega-3) has emerged as a marker of several chronic conditions, including AD, irritable bowel syndrome (IBD), rheumatoid arthritis as well as depression and schizophrenia ( ). Omega-6 (which includes AA), was shown to promote pro-inflammatory gut microbes, such as Enterobacteriaceae, and Clostridia, while omega-3 (which includes ei- cosapentaenoic acid) was shown to reverse inflammation by promoting beneficial microbes, such as Lactobacillus and Bifidobacteria ( ).
+
+Insulin/IGF-1 axis
+
+Insulin/insulin-like growth factor-1 (IGF-1) signaling pathway was associated with longevity in simple organisms, including C. elegans and
+D. melanogaster (). Separate studies in animal models reported a twofold increase in lifespan via insulin/IGF-1 ma- nipulation (). In humans, it was reported that short-chain fatty acids (SCFAs) generated in the gut by fiber fermentation, promote IGF-1 signaling, connecting the GI tract with lifespan (). Interestingly, a novel study demon- strated that the insulin/IGF-1 axis regulates iron homeostasis via TFR-1, demonstrating once more the role of iron in aging (). In addition, iron modulates mTOR pathway via triste- traprolin expression. Tristetraprolin is a direct target of miR-29, a miR which also targets mTOR and IGF-1 in diabetes ().
+
+Can microbes be manipulated?
+
+Large microbiome studies demonstrated age-related changes in gut bacterial strains. For example, old age and disease were associated with decreased preponderance of Ruminococcaceae, Lachnospiraceae, and Bacteroidaceae families (). On the other hand, healthy old age was associated with the presence of Akkermansia, Bifido- bacterium, and Christensenellaceae (). Interestingly, gut microbes were demonstrated to promote the development of neu- rodegenerative disorders, including AD, PD and some psychiatric dis- orders, such as anxiety ( ). Moreover, gut microbial taxa and fungal strains have been linked to CNS amyloidogenesis ( ). Other strands were shown to secrete ALS-related neurotoxins, suggesting a gut connection for this neurodegenerative disorder (). Furthermore, it was hypothesized that PD, a condition associated with irritable bowel syndrome, may originate in the gut and spread secondarily to the brain ( ). Indeed, specific gut microbes, including Prevotella and Enterobacteria were associated with PD (). Other studies suggested that bacterial cytokines may induce ER protein misfolding and oxidative stress with resultant neurodegeneration (). With the same token, the gut bacterial community was demonstrated to alter host DNA methylation and gene expression via compounds such as SCFA, impacting host lifespan and healthspan (). For example, increased longevity in C. elegans was recently associated with the bacterial polysaccharide colanic acid produced by the mutant E. coli strains, suggesting that microbiome manipulations could affect lifespan ( ).
+On the other hand, unabsorbed iron reaching the colon was asso-
+ciated with the activation of virulent microbial species known for bloodstream translocation (). On the other hand, host iron deficiency can be engendered by siderophore-containing mi- crobial strains capable of iron sequestration (). For example, iron-binding Bifidobacteriaceae and Streptococcus thermo- philus can deny this biometal to the pathogenic strains, maintaining them under control ().
+Taken together recent studies suggest that microbiome
+
+manipulations may affect longevity and disease progression, possibly delaying or preventing age related diseases.
+
+Conclusions
+
+Detectable iron and iron-related proteins have emerged as early aging and neurodegenerative markers. But can prior knowledge of fu- ture neurodegeneration impact the progression and outcome of these conditions? In other words, can lifestyle changes impact the prognosis of conditions such as AD or PD?
+We argue that dietary interventions and lifestyle changes could delay aging and neurodegenerative disorders by promoting beneficial epigenetic changes. For example, alcohol consumption by elderly in- dividuals has been associated with two reversible markers of aging, iron retention and DNA hypomethylation ( ). Conversely, a diet with an adequate omega-6/omega-3 ratio was associated with DNA methylation and intact cognition in seniors ().
+
+References
+
+AK, Hedman, Zilmer, M., Sundstrom, J., Lind, L., Ingelsson, E., 2016. DNA methylation patterns associated with oxidative stress in an ageing population. BMC Med.
+Genomics 9, 72. .
+ .
+Abrusan, G., 2012. Somatic transposition in the brain has the potential to influence the biosynthesis of metabolites involved in Parkinson's disease and schizophrenia. Biol. Direct 7, 41. .
+Ackerman, D., Gems, D., 2012. Insulin/IGF-1 and hypoxia signaling act in concert to regulate iron homeostasis in caenorhabditis elegans. Ashrafi, K. (Ed.), PLoS Genet. 8 (3), e1002498. .
+Acosta-Cabronero, J., Betts, M.J., Cardenas-Blanco, A., Yang, S., Nestor, P.J., 2016. In vivo MRI mapping of brain iron deposition across the adult lifespan. J. Neurosci. 36 (2), 364-374. .
+ .
+Agbor, T.A., Demma, Z., Mrsny, R.J., Castillo, A., Boll, E.J., McCormick, B.A., 2014. The oxido-reductase enzyme glutathione peroxidase 4 (GPX4) governs Salmonella Typhimurium-induced neutrophil transepithelial migration. Cell. Microbiol. 16 (9), 1339-1353. .
+Alkasir, R., Li, J., Li, X., Jin, M., Zhu, B., 2017a. Human gut microbiota: the links with dementia development. Protein Cell 8 (2), 90-102.  .
+Alkasir, R., Li, J., Li, X., Jin, M., Zhu, B., 2017b. Human gut microbiota: the links with dementia development. Protein Cell 8 (2), 90-102.  .
+Altintas, O., Park, S., Lee, S.-J.V., 2016. The role of insulin/IGF-1 signaling in the long- evity of model invertebrates, C. elegans and D. melanogaster. BMB Rep. 49 (2), 81-92. .
+
+.
+Armstrong, M.M., Freedman, C.J., Jung, J.E., et al., 2016. A potent and selective inhibitor targeting human and murine 12/15-Lox. Med. Chem. 24 (6), 1183-1190.  .
+Auriac, A., Willemetz, A., Canonne-Hergaux, F., 2010. Lipid raft-dependent endocytosis: a new route for hepcidin-mediated regulation of ferroportin in macrophages.
+Haematologica 95 (8), 1269-1277. 
+.
+Ayton, S., Lei, P., Bush, A.I., 2015. Biometals and their therapeutic implications in Alzheimer's disease. Neurotherapeutics 12 (1), 109-120.  .
+Ayuyan, A.G., Cohen, F.S., 2006. Lipid peroxides promote large rafts: effects of excitation of probes in fluorescence microscopy and electrochemical reactions during vesicle formation. Biophys. J. 91 (6), 2172-2183. 
+.
+Baar, M.P., Brandt, R.M., Putavet, D.A., Klein, J.D., Derks, K.W., Bourgeois, B.R., et al., 2017. Targeted apoptosis of senescent cells restores tissue homeostasis in response to chemotoxicity and aging. Cell 169 (1), 132-147. 
+
+Bai, X., Tang, Y., Yu, M., Wu, L., Liu, F., Ni, J., et al., 2017. Downregulation of blood serum microRNA 29 family in patients with Parkinson's disease. Sci. Rep. 7 (1), 5411. .
+Barbosa, J.H., Santos, A.C., Tumas, V., Liu, M., Zheng, W., Haacke, E.M., Salmon, C.E., 2015. Quantifying brain iron deposition in patients with Parkinson's disease using quantitative susceptibility mapping, R2 and R2. Magn. Reson. Imaging 33 (5), 559-565. .
+Bargaje, R., Gupta, S., Sarkeshik, A., et al., 2012. Identification of novel targets for miR- 29a using miRNA proteomics. Martelli, F. (Ed.), PLoS One 7 (8), e43243. 
+
+
+.
+  .
+  
+.
+Betz, C., Stracka, D., Prescianotto-Baschong, C., Frieden, M., Demaurex, N., Hall, M.N., 2013. mTOR complex 2-Akt signaling at mitochondria-associated endoplasmic re- ticulum membranes (MAM) regulates mitochondrial physiology. Proc. Natl. Acad. Sci. U. S. A. 110 (31), 12526-12534. .
+Biagi, E., Franceschi, C., Rampelli, S., Severgnini, M., Ostan, R., Turroni, S., et al., 2016. Gut microbiota and extreme longevity. Curr. Biol. 26 (11), 1480-1485.  .
+ fl ff.
+Bougea, A., Koros, C., Stamelou, M., Simitsi, A., Papagiannakis, N., Antonelou, R., et al., 2017. Frontotemporal dementia as the presenting phenotype of p.A53T mutation carriers in the alpha-synuclein gene. Parkinsonism Relat. Disord. 35, 82-87.  .
+Brain, O., Owens, B.M., Pichulik, T., Allan, P., Khatamzas, E., Leslie, A., et al., 2013. The intracellular sensor NOD2 induces microRNA-29 expression in human dendritic cells to limit IL-23 release. Immunity 39 (3), 521-536.  .
+Brenner, S.R., 2013. Blue-green algae or cyanobacteria in the intestinal micro-flora may produce neurotoxins such as beta-N-methylamino-L-alanine (BMAA) which may be related to development of amyotrophic lateral sclerosis, Alzheimer's disease and Parkinson-Dementia-Complex in humans and Equine Motor Neuron Disease in horses. Med. Hypotheses 80 (1), 103. .
+Bridges, R.J., Natale, N.R., Patel, S.A., 2012. System xc- cystine/glutamate antiporter: an update on molecular pharmacology and roles within the CNS. Br. J. Pharmacol. 165 (1), 20-34. .
+Bu, W., Liu, R., Cheung-Lau, J.C., Dmochowski, I.J., Loll, P.J., Eckenhoff, R.G., 2012.
+Ferritin couples iron and fatty acid metabolism. FASEB J. 26 (6), 2394-2400. http:// dx.doi.org/10.1096/fj. 11-198853.
+Buizza, L., Cenini, G., Lanni, C., et al., 2012. Conformational altered p53 as an early marker of oxidative stress in Alzheimer's disease. Block, M.L. (Ed.), PLoS One 7 (1), e29789. .
+Bundo, M., Toyoshima, M., Okada, Y., Akamatsu, W., Ueda, J., Nemoto-Miyauchi, T.,
+et al., 2014. Increased l1 retrotransposition in the neuronal genome in schizophrenia. Neuron 81 (2), 306-313. .
+Calzada, E., Onguka, O., Claypool, S.M., 2016. Phosphatidylethanolamine metabolism in health and disease. Int. Rev. Cell Mol. Biol. 321, 29-88.  .
+Camkurt, M.A., Karababa, F., Erdal ME3 Bayazit, H., Kandemir, S.B., Ay, M.E., et al., 2016. Investigation of dysregulation of several MicroRNAs in peripheral blood of schizophrenia patients. Clin. Psychopharmacol. Neurosci. 14 (3), 256-260.  .
+Cao, H., Wang, L., Chen, B., et al., 2015. DNA demethylation upregulated nrf2 expression in Alzheimer's disease cellular model. Front. Aging Neurosci. 7, 244.  .
+  .
+Chen, B.-F., Chan, W.-Y., 2014. The de novo DNA methyltransferase DNMT3A in devel- opment and cancer. Epigenetics 9 (5), 669-677. 
+.
+Chen, L., Na, R., Gu, M., Richardson, A., Ran, Q., 2008. Lipid peroxidation upregulates BACE1 expression in vivo: a possible early event of amyloidogenesis in Alzheimer's disease. J. Neurochem. 107 (1), 197-207.  .
+Chen, J., Marks, E., Lai, B., et al., 2013. Iron accumulates in Huntington's disease neurons: protection by deferoxamine. Skoulakis, E.M.C. (Ed.), PLoS One 8 (10), e77023. .
+Chiasserini, D., Biscetti, L., Eusebi, P., et al., 2017. Differential role of CSF fatty acid binding protein 3, a-synuclein, and Alzheimer's disease core biomarkers in Lewy body disorders and Alzheimer's dementia. Alzheimer's Res. Therapy 9, 52.  .
+Conrad, M., Friedmann Angeli, J.P., 2015a. Glutathione peroxidase 4 (Gp) and ferrop- tosis: what's so special about it? Mol. Cell. Oncol. 2 (3), e995047.  .
+Conrad, M., Friedmann Angeli, J.P., 2015b. Glutathione peroxidase 4 (Gp) and ferrop- tosis: what's so special about it? Mol. Cell. Oncol. 2 (3), e995047.  .
+Covas, G., Marinho, H.S., Cyrne, L., Antunes, F., 2013. Activation of Nrf2 by H2O2: de novo synthesis versus nuclear translocation. Methods Enzymol. 528, 157-171.  .
+Crofton, E.J., Nenov, M.N., Zhang, Y., Scala, F., Page, S.A., McCue, D.L., 2017. Glycogen synthase kinase 3 beta alters anxiety-, depression-, and addiction-related behaviors and neuronal activity in the nucleus accumbens shell. Neuropharmacology 117, 49-60. .
+Cuesta, A., Zambrano, A., Royo, M., Pascual, A., 2009. The tumour suppressor p53 reg- ulates the expression of amyloid precursor protein (APP). Biochem. J. 418 (3), 643-650. .
+
+
+Darki, F., Nemmi, F., Moller, A., Sitnikov, R., Klingberg, T., 2016. Quantitative suscept- ibility mapping of striatum in children and adults, and its association with working memory performance. Neuroimage 136, 208-214.  .
+Davalli, P., Mitic, T., Caporali, A., Lauriola, A., D'Arca, D.R.O.S., 2016. Cell senescence, and novel molecular mechanisms in aging and age-related diseases. Oxid. Med. Cell. Longevity 2016, 3565127. .
+ .
+  .
+Del Valdes Hernandez, C.M., Ritchie, S., Glatz, A., et al., 2015. Brain iron deposits and lifespan cognitive ability. Age 37 (5), 100. 
+.
+   .
+Ding, B., Chen, K.M., Ling, H.W., Sun, F., Li, X., Wan, T., et al., 2009. Correlation of iron in the hippocampus with MMSE in patients with Alzheimer's disease. J. Magn. Reson. Imaging 29 (4), 793-798. .
+Ding, H., Yan, C.-Z., Shi, H., et al., 2011. Hepcidin is involved in iron regulation in the ischemic brain. Finkelstein, D.I. (Ed.), PLoS One 6 (9), e25324.  .
+Dixon, S.J., Lemberg, K.M., Lamprecht, M.R., et al., 2012. Ferroptosis: an iron-dependent form of non-apoptotic cell death. Cell 149 (5), 1060-1072. 
+.
+Do Van, B., Gouel, F., Jonneaux, A., Timmerman, K., Gele, P., Ferroptosis, Petrault M., 2016. a newly characterized form of cell death in Parkinson's disease that is regulated by PKC. Neurobiol. Dis. 94, 169-178. .
+Dominiak, A., Wilkaniec, A., Wroczynsk, P., Adamczyk, A., 2016. Selenium in the therapy of neurological diseases. where is it going? Curr. Neuropharmacol. 14 (3), 282-299. .
+Dong, X.-H., Gao, W.-J., Kong, W.-N., et al., 2015. Neuroprotective effect of the active components of three Chinese herbs on brain iron load in a mouse model of Alzheimer's disease. Exp. Ther. Med. 9 (4), 1319-1327.  .
+Dongiovanni, P., Fracanzani, A.L., Cairo, G., et al., 2010. Iron-dependent regulation of MDM2 influences p53 activity and hepatic carcinogenesis. Am. J. Pathol. 176 (2), 1006-1017. .
+Drefs, M., Thomas, M.N., Guba, M., et al., 2017. Modulation of glutathione hemostasis by inhibition of 12/15-lipoxygenase prevents ROS-mediated cell death after hepatic ischemia and reperfusion. Oxid. Med. Cell. Longevity 2017, 8325754.  .
+Duce, J.A., Wong, B.X., Durham, H., Devedjian, J.-C., Smith, D.P., Devos, D., 2017. Post translational changes to a-synuclein control iron and dopamine trafficking; a concept for neuron vulnerability in Parkinson's disease. Mol. Neurodegener. 12, 45.  .
+Dunys, J., Sevalle, J., Giaime, E., et al., 2009. p53-dependent control of transactivation of the Pen2 promoter by presenilins. J. Cell Sci. 122 (21), 4003-4008.  .
+Erny, D., Prinz, M., 2017. Microbiology Gut microbes augment neurodegeneration.
+Nature 544 (7650), 304-305. .
+Ersche, K.D., Acosta-Cabronero, J., Jones, P.S., et al., 2017. Disrupted iron regulation in the brain and periphery in cocaine addiction. Transl. Psychiatry 7 (2), e1040-.  .
+Fabbri, M., Garzon, R., Cimmino, A., et al., 2007. MicroRNA-29 family reverts aberrant methylation in lung cancer by targeting DNA methyltransferases 3A and 3B. Proc. Natl. Acad. Sci. U. S. A. 104 (40), 15805-15810.  .
+ff  .
+Fei, Q., Shang, K., Zhang, J., et al., 2015a. Histone methyltransferase SETDB1 regulates liver cancer cell growth through methylation of p53. Nat. Commun. 6, 8651.  .
+Fei, Q., Shang, K., Zhang, J., et al., 2015b. Histone methyltransferase SETDB1 regulates liver cancer cell growth through methylation of p53. Nat. Commun. 6, 8651.  .
+Fine, J.M., Forsberg, A.C., Stroebel, B.M., Verden, D.R., Hamsel, K.A., Raney, E.B., et al., 2015. Intranasal deferoxamine prevents memory loss in the intracerebroventricular streptozotocin rat model of Alzheimer's disease. Alzheimers Dementia 11 (Suppl. 7), P613-P614. .
+Finkelstein, D.I., Billings, J.L., Adlard, P.A., et al., 2017. The novel compound PBT434 prevents iron mediated neurodegeneration and alpha-synuclein toxicity in multiple models of Parkinson's disease. Acta Neuropathol. Commun. 5, 53.  .
+  .
+Flis, V.V., Daum, G., 2013. Lipid transport between the endoplasmic reticulum and mi- tochondria. Cold Spring Harbor Perspect. Biol. 5 (6), a013235.  .
+Forsell, P.K., Brunnstrom, A., Johannesson, M., Claesson, H.E., 2012. Metabolism of anandamide into eoxamides by 15-lipoxygenase-1 and glutathione transferases.
+
+
+Lipids 47 (8), 781-791. .
+Fraguas, M.S., Eggenschwiler, R., Hoepfner, J., Schiavinato Haddad, S.R., Oliveira, L.H.B., et al., 2017. MicroRNA-29 impairs the early phase of reprogramming process by targeting active DNA demethylation enzymes and Wnt signaling. Stem Cell Res. 19, 21-30. .
+Friedland, R.P., 2015. Mechanisms of molecular mimicry involving the microbiota in neurodegeneration. J. Alzheimers Dis. 45 (2), 349-362.  .
+Funauchi, Y., Tanikawa, C., Yi Lo, P.H., et al., 2015. Regulation of iron homeostasis by the p53-ISCU pathway. Sci. Rep. 5, 16497. .
+Garton, T., Keep, R.F., Hua, Y., Xi, G., 2016. Brain iron overload following intracranial haemorrhage. Stroke Vascular Neurol. 1 (December (4)), 172-184.  .
+Garzon, R., Liu, S., Fabbri, M., et al., 2009. MicroRNA-29b induces global DNA hypo- methylation and tumor suppressor gene reexpression in acute myeloid leukemia by targeting directly DNMT3A and 3 B and indirectly DNMT1. Blood 113 (25), 6411-6418. .
+Gebeshuber, C.A., Zatloukal, K., Martinez, J., 2009. miR-29a suppresses tristetraprolin, which is a regulator of epithelial polarity and metastasis. EMBO Rep. 10 (4), 400-405. .
+Ghosh, S., DeCoffe, D., Brown, K., et al., 2013. Fish oil attenuates omega-6 poly- unsaturated fatty acid-induced dysbiosis and infectious colitis but impairs LPS de- phosphorylation activity causing sepsis. Fuss, I.J. (Ed.), PLoS One 8 (2), e55468. .
+Ghosh, S., Salot, S., Sengupta, S., Navalkar, A., Ghosh, D., Jacob, R., et al., 2017a. p53 amyloid formation leading to its loss of function: implications in cancer pathogenesis. Cell Death Differ. 24 (October (10)), 1784-1798. 
+
+Ghosh, S., Salot, S., Sengupta, S., Navalkar, A., Ghosh, D., Jacob, R., et al., 2017b. p53 amyloid formation leading to its loss of function: implications in cancer pathogenesis. Cell Death Differ. .
+   .
+Gruber, J., Kennedy, B.K., 2017. Microbiome and longevity gut microbes send signals to host mitochondria. Cell 169 (7), 1168-1169. 
+.
+ .
+Guan, X., Xu, X., Zhang, M., 2017. Region-specific iron measured by MRI as a biomarker for Parkinson's disease. Neurosci. Bull. 33 (October (5)), 561-567.  
+  .
+Guo, C., Wang, P., Zhong, M.L., Wang, T., Huang, X.S., Li, J.Y., Wang, Z.Y., 2013.
+Deferoxamine inhibits iron induced hippocampal tau phosphorylation in the Alzheimer transgenic mouse brain. Neurochem. Int. 62 (2), 165-172.  .
+Hadziahmetovic, M., Song, Y., Ponnuru, P., et al., 2011. Age-dependent retinal iron ac- cumulation and degeneration in hepcidin knockout mice. Invest. Ophthalmol. Visual Sci. 52 (1), 109-118. .
+Hambright, W.S., Fonseca, R.S., Chen, L., Na, R., Ran, Q., 2017. Ablation of ferroptosis regulator glutathione peroxidase 4 in forebrain neurons promotes cognitive impair- ment and neurodegeneration. Redox Biol. 12, 8-17.  .
+  .
+  .
+Hare, D.J., Double, K.L., 2016. Iron and dopamine: a toxic couple. Brain 139 (Pt. 4), 1026-1035. .
+Harrison, D.E., Strong, R., Sharp, Z.D., et al., 2009. Rapamycin fed late in life extends lifespan in genetically heterogeneous mice. Nature 460 (7253), 392-395.  .
+Hill, J.M., Lukiw, W.J., 2015. Microbial-generated amyloids and Alzheimer's disease (AD). Front. Aging Neurosci. 7, 9. .
+Hogarth, P., 2015. Neurodegeneration with brain iron accumulation: diagnosis and management. J. Mov. Disord. 8 (1), 1-13. .
+Hooper, C., Meimaridou, E., Tavassoli, M., Melino, G., Lovestone, S., Killick, R., 2007. p53 is upregulated in Alzheimer's disease and induces tau phosphorylation in HEK293a cells. Neurosci. Lett. 418 (1), 34-37. 
+.
+Huang, B.-W., Ray, P.D., Iwasaki, K., Tsuji, Y., 2013. Transcriptional regulation of the human ferritin gene by coordinated regulation of Nrf2 and protein arginine me- thyltransferases PRMT1 and PRMT4. FASEB J. 27 (9), 3763-3774.  .
+Hullar, M.A.J., Fu, B.C., 2014. Diet, the gut microbiome, and epigenetics. J. (Sudbury, Mass) 20 (3), 170-175. .
+Hwang, E.J., Kim, H.G., Kim, D., Rhee, H.Y., Ryu, C.W., Liu, T., et al., 2016. Texture analyses of quantitative susceptibility maps to differentiate Alzheimer's disease from cognitive normal and mild cognitive impairment. Med. Phys. 43 (8), 4718.  .
+
+
+Imai, H., Matsuoka, M., Kumagai, T., Sakamoto, T., Koumura, T., 2017. Lipid peroxida- tion-dependent cell death regulated by GPx4 and ferroptosis. Curr. Top. Microbiol. Immunol. 403, 143-170. .
+Insel, B.J., Schaefer, C.A., McKeague, I.W., Susser, E.S., Brown, A.S., 2008. Maternal iron deficiency and the risk of schizophrenia in offspring. Arch. Gen. Psychiatry 65 (10), 1136-1144. .
+ff  fi.
+Jauregui-Lobera, I., 2014a. Iron deficiency and cognitive functions. Neuropsychiatr. Dis.
+Treat. 10, 2087-2095. .
+Jauregui-Lobera, I., 2014b. Iron deficiency and cognitive functions. Neuropsychiatr. Dis.
+Treat. 10, 2087-2095. .
+Jia, D., Jurkowska, R.Z., Zhang, X., Jeltsch, A., Cheng, X., 2007. Structure of Dnmt3a bound to Dnmt3L suggests a model for de novo DNA methylation. Nature 449 (7159), 248-251. .
+  fi .
+  .
+ .
+Jornada, L.K., Valvassori, S.S., Steckert, A.V., Moretti, M., Mina, F., Ferreira, C., et al., 2011. Lithium and valproate modulate antioxidant enzymes and prevent ouabain- induced oxidative damage in an animal model of mania. J. Psychiatr. Res. 45 (2), 162-168. .
+  .
+Joshi, Y.B., Giannopoulos, P.F., Pratico, D., 2015. The 12/15Lipoxygenase as an emerging therapeutic target for Alzheimer's disease. Trends Pharmacol. Sci. 36 (3), 181-186. .
+Jung, K.-M., Astarita, G., Yasar, S., et al., 2012. An amyloid b42-dependent deficit in anandamide mobilization is associated with cognitive dysfunction in Alzheimer's disease. Neurobiol. Aging 33 (8), 1522-1532.  .
+Kagan, V.E., Mao, G., Qu, F., et al., 2017. Oxidized arachidonic/adrenic phosphatidy- lethanolamines navigate cells to ferroptosis. Nat. Chem. Biol. 13 (1), 81-90.  .
+Kasaikina, M.V., Kravtsova, M.A., Lee, B.C., et al., 2011. Dietary selenium affects host selenoproteome expression by influencing the gut microbiota. FASEB J. 2499, 2492-2499. .
+Kerr, F., Sofola-Adesakin, O., Ivanov, D.K., et al., 2017. Direct Kea-Nrf2 disruption as a potential therapeutic target for Alzheimer's disease. Lu, B. (Ed.), PLoS Genet. 13 (3), e1006593. .
+Kessing, L.V., Gerds, T.A., Knudsen, N.N., 2017. Association of lithium in drinking water with the incidence of dementia. JAMA Psychiatry 74 (10), 1005-1010.  .
+Khairova, R., Pawar, R., Salvadore, G., et al., 2012. Effects of lithium on oxidative stress parameters in healthy subjects. Mol. Med. Rep. 5 (3), 680-682.  .
+Khanna, S., Rink, C., Ghoorkhanian, R., Gnyawali, S., Heigel, M., Wijesinghe, D.S., et al., 2013. Loss of miR-29b following acute ischemic stroke contributes to neural cell death and infarct size. J. Cereb. Blood Flow Metab. 33 (8), 1197-1206.  .
+Kil, J., Lobarinas, E., Spankovich, C., Griffiths, S.K., Antonelli, P.J., Lynch, E.D., Le Prell, C.G., 2017. Safety and efficacy of ebselen for the prevention of noise-induced hearing loss: a randomised, double-blind, placebo-controlled, phase 2 trial. Lancet 390 (10098), 969-979. .
+   .
+Kim, Y.-H., Rane, A., Lussier, S., Andersen, J.K., 2011. Lithium protects against oxidative stress-mediated cell death in alpha-synuclein over-expressing in vitro and in vivo models of Parkinson's disease. J. Neurosci. Res. 89 (10), 1666-1675.  .
+Kim, W.S., Kagedal, K., Halliday, G.M., 2014. Alpha-synuclein biology in Lewy body diseases. Alzheimer's Res. Therapy 6 (5), 73. 
+.
+Kim, S., Lee, J.H., Kang, I., Hyun, S., Yu, J., Shin, C., 2016. An amphiphilic peptide induces apoptosis through the miR29b-p53 pathway in cancer cells. Mol. Therapy Nucleic Acids 5 (7), e330-. .
+Kokubo, Y., Taniguchi, A., Hasegawa, M., Hayakawa, Y., Morimoto, S., Yoneda, M., et al., 2012. a-Synuclein pathology in the amyotrophic lateral sclerosis/parkinsonism de- mentia complex in the Kii Peninsula, Japan. J. Neuropathol. Exp. Neurol. 71 (7), 625-630. .
+ .
+Kortman, G.A., Raffatellu, M., Swinkels, D.W., Tjalsma, H., 2014. Nutritional iron turned inside out: intestinal stress from a gut microbial perspective. FEMS Microbiol. Rev. 38 (6), 1202-1234. .
+Krols, M., van Isterdael, G., Asselbergh, B., et al., 2016. Mitochondria-associated mem- branes as hubs for neurodegeneration. Acta Neuropathol. (Berl.) 131, 505-523.
+
+
+.
+ 
+.
+Kurinna, S., Schafer, M., Ostano, P., Karouzakis, E., Chiorino, G., Bloch, W., et al., 2014. A novel Nrf2-miR-29-desmocollin-2 axis regulates desmosome function in keratino- cytes. Nat. Commun. 5, 5099. .
+Kurtz, C.L., Fannin, E.E., Toth, C.L., Pearson, D.S., Vickers, K.C., Sethupathy, P., 2015. Inhibition of miR-29 has a significant lipid-lowering benefit through suppression of lipogenic programs in liver. Sci. Rep. 5,  12911.   .
+Lai, S.W., Liao, K.F., Lin, C.L., Sung, F.C., 2014. Irritable bowel syndrome correlates with increased risk of Parkinson's disease in Taiwan. Eur. J. Epidemiol. 29 (1), 57-62. .
+Lajoie, P., Nabi, I.R., 2010. Lipid rafts, caveolae, and their endocytosis. Int. Rev. Cell Mol.
+Biol. 282, 135-163. .
+Lamming, D.W., 2016. Inhibition of the mechanistic target of rapamycin (mTOR) - ra- pamycin and beyond. Cold Spring Harbor Perspect. Med. 6 (5), a025924.  .
+  .
+ff .
+Latunde-Dada, G.O., 2017. Ferroptosis role of lipid peroxidation, iron and ferritinophagy. Biochim. Biophys. Acta 1861 (8), 1893-1900. 
+.
+Legrain, Y., Touat-Hamici, Z., Chavatte, L., 2014. Interplay between selenium levels, selenoprotein expression, and replicative senescence in WI-38 human fibroblasts. J. Biol. Chem. 289 (9), 6299-6310. .
+Lehericy, S., Vaillancourt, D.E., Seppi, K., Monchi, O., Rektorova, I., Antonini, A., et al., 2017. The role of high-field magnetic resonance imaging in parkinsonian disorders: pushing the boundaries forward. Mov. Disord. 32 (4), 510-525.  .
+Lehmann, D.J., Worwood, M., Ellis, R., et al., 2006. Iron genes, iron load and risk of Alzheimer's disease. J. Med. Genet. 43 (10), e52.  .
+Lei, P., Ayton, S., Bush, A.I., Adlard, P.A., 2011. GSK-3 in neurodegenerative diseases. Int.
+J. Alzheimer's Dis. 2011, 189246. .
+Lei, P., Ayton, S., Finkelstein, D.I., Spoerri, L., Ciccotosto, G.D., Wright, D.K., et al., 2012a. Tau deficiency induces parkinsonism with dementia by impairing APP- mediated  iron  export.  Nat.  Med.  18  (2),  291-295. .
+Lei, P., Ayton, S., Finkelstein, D.I., Spoerri, L., Ciccotosto, G.D., Wright, D.K., et al., 2012b. Tau deficiency induces parkinsonism with dementia by impairing APP- mediated  iron  export.  Nat.  Med.  18  (2),  291-295. 
+.
+
+.
+   .
+Li, W., Jin, Y., Prazak, L., Hammell, M., Dubnau, J., 2012. Transposable elements in TDP- 43-mediated neurodegenerative disorders. Iijima, K.M. (Ed.), PLoS One 7 (9), e44099. .
+Li, Q., Han, X., Lan, X., et al., 2017. Inhibition of neuronal ferroptosis protects hemor- rhagic brain. JCI Insight 2 (7), e90777. .
+ .
+Liu, B., Moloney, A., Meehan, S., et al., 2011. Iron promotes the toxicity of amyloid b peptide by impeding its ordered aggregation. J. Biol. Chem. 286 (6), 4248-4256. .
+Lu, H., Liu, X., Deng, Y., Qing, H., 2013. DNA methylation, a hand behind neurodegen- erative diseases. Front. Aging Neurosci. 5, 85.  .
+Lu, D., Dopart, R., Kendall, D.A., 2016. Controlled downregulation of the cannabinoid CB1 receptor provides a promising approach for the treatment of obesity and obesity- derived type 2 diabetes. Cell Stress Chaperones 21 (1), 1-7.  .
+Maslinska, D., Laure-Kamionowska, M., Szukiewicz, D., Maslinski, S., Ksiezopolska- Orlowska, K., 2017. Commitment of protein p53 and amyloid-beta peptide (Ab) in aging of human cerebellum. Folia Neuropathol. 55 (2), 161-167.  .
+   .
+   .
+Mallet, C., Dubray, C., Duale, C., 2016. FAAH inhibitors in the limelight, but regrettably.
+Int. J. Clin. Pharmacol. Ther. 54 (7), 498-501.  .
+ 
+
+
+.
+Manz, D.H., Blanchette, N.L., Paul, B.T., Torti, F.M., Torti, S.V., 2016. Iron and cancer: recent insights. Ann. N. Y. Acad. Sci. 1368 (1), 149-161.  .
+Martin, W.R., Wieler, M., Gee, M., 2008. Midbrain iron content in early Parkinson disease: a potential biomarker of disease status. Neurology 70 (16 Pt. 2), 1411-1417.  .
+Martin, W.R., 2009. Quantitative estimation of regional brain iron with magnetic re- sonance imaging. Parkinsonism Relat. Disord. 15 (Suppl. 3), S215-S218.  .
+   .
+McCarthy, R.C., Kosman, D.J., 2015. Mechanisms and regulation of iron trafficking across the capillary endothelial cells of the blood-brain barrier. Front. Mol. Neurosci. 8, 31. .
+Mollet, I.G., Patel, D., Govani, F.S., et al., 2016. Low dose iron treatments induce a DNA damage response in human endothelial cells within minutes. Bandapalli, O.R. (Ed.), PLoS One 11 (2), e0147990. .
+More, S.V., Choi, D.-K., 2015. Promising cannabinoid-based therapies for Parkinson's disease: motor symptoms to neuroprotection. Mol. Neurodegener. 10 (17).  .
+Moreira, S., Fonseca, I., Nunes, M.J., Rosa, A., Lemos, L., Rodrigues, E., et al., 2017. Nrf2 activation by tauroursodeoxycholic acid in experimental models of Parkinson's dis- ease. Exp. Neurol. 295, 77-87. .
+Morita, S., Horii, T., Kimura, M., Ochiya, T., Tajima, S., Hatada, I., 2013. miR-29 re- presses the activities of DNA methyltransferases and DNA demethylases. Int. J. Mol. Sci. 14 (7), 14647-14658. .
+Moussaud, S., Jones, D.R., Moussaud-Lamodiere, E.L., Delenclos, M., Ross, O.A., McLean, P.J., 2014. Alpha-synuclein and tau: teammates in neurodegeneration? Mol.
+Neurodegener. 9, 43. .
+Munoz-Lopez, M., Garcia-Perez, J.L., 2010. DNA transposons: nature and applications in genomics. Curr. Genomics 11 (2), 115-128. 
+.
+Mulak, A., Bonaz, B., 2015. Brain-gut-microbiota axis in Parkinson's disease. World J. Gastroenterol.: WJG 21 (37), 10609-10620. 
+.
+Nesic, I., Guix, F.X., Vennekens, K., Michaki, V., Van Veldhoven, P.P., Feiguin, F., et al., 2012. Alterations in phosphatidylethanolamine levels affect the generation of Ab. Aging Cell 11 (1), 63-72. .
+Nolan, K., Mitchem, M.R., Jimenez-Mateos, E.M., Henshall, D.C., Concannon, C.G., Prehn, J.H., 2014. Increased expression of microRNA-29a in ALS mice: functional analysis of its inhibition. J. Mol. Neurosci. 53 (2), 231-241.  .
+Okudaira, N., Okamura, T., Tamura, M., et al., 2013. Long interspersed element-1 is differentially regulated by food-borne carcinogens via the aryl hydrocarbon receptor. Oncogene 32 (41), 4903-4912. .
+Orr, W.C., 2016. Tightening the connection between transposable element mobilization and aging. Proc. Natl. Acad. Sci. U. S. A. 113 (40), 11069-11070.  .
+Ouyang, M., Su, W., Xiao, L., et al., 2015. MiR-29b modulates intestinal epithelium homeostasis by repressing menin translation. Biochem. J. 465 (2), 315-323.  .
+Paillusson, S., Stoica, R., Gomez-Suaga, P., et al., 2016. There's something wrong with my MAM; the ER-mitochondria axis and neurodegenerative diseases. Trends Neurosci. 39 (3), 146-157. .
+Pamplona, R., 2008. Membrane phospholipids, lipoxidative damage and molecular in- tegrity: a causal role in aging and longevity. Biochim. Biophys. Acta 1777 (10), 1249-1262. .
+ 
+.
+Park, S.Y., Lee, J.H., Ha, M., Nam, J.W., Kim, V.N., 2009a. miR-29 miRNAs activate p53 by targeting p85 alpha and CDC42. Nat. Struct. Mol. Biol. 16 (1), 23-29.  .
+Park, S.Y., Lee, J.H., Ha, M., Nam, J.W., Kim, V.N., 2009b. miR-29 miRNAs activate p53 by targeting p85 alpha and CDC42. Nat. Struct. Mol. Biol. 16 (1), 23-29.  
+Park, J.-H., Zhuang, J., Li, J., Hwang, P.M., 2016. p53 as guardian of the mitochondrial genome. FEBS Lett. 590 (7), 924-934. .
+Patel, D., Witt, S.N., 2017. Ethanolamine and phosphatidylethanolamine partners in health and disease. Oxid. Med. Cell. Longevity 2017, 4829180.  .
+Patil, B.S., Subramanyam, A.A., Singh, S.L., Kamath, R.M., 2014. Low serum iron as a possible risk factor for neuroleptic malignant syndrome. Int. J. Appl. Basic Med. Res. 4 (2), 117-118. .
+Patterson, E., Wall, R., Fitzgerald, G.F., Ross, R.P., Stanton, C., 2012. Health implications of high dietary omega-6 polyunsaturated fatty acids. J. Nutr. Metab. 539426.  .
+Pawelczyk, T., Trafalska, E., Pawelczyk, A., Kotlicka-Antczak, M., 2015. Differences in omega-3 and omega-6 polyunsaturated fatty acid consumption in people at ultra-high risk of psychosis, first-episode schizophrenia, and in healthy controls. Early Interv. Psychiatry. .
+Penke, L., Valdes Hernandez, M.C., Maniega, S.M., Gow, A.J., Murray, C., Starr, J.M., Bastin, M.E., et al., 2012. Brain iron deposits are associated with general cognitive
+
+
+ability and cognitive aging. Neurobiol. Aging 33 (3), 510-517.  
+   .
+Pereira, P.A., Tomas, J.F., Queiroz, J.A., Figueiras, A.R., Sousa, F., 2016. Recombinant pre-miR-29b for Alzheimer's disease therapeutics. Sci. Rep. 6, 19946.  .
+Perez, C.A., Wei, Y., Guo, M., 2009. Iron-binding and anti-Fenton properties of baicalein and baicalin. J. Inorg. Biochem. 103 (3), 326-332.  .
+Piedrahita, D., Castro-Alvarez, J.F., Boudreau, R.L., et al., 2015. b-Secretase 1's targeting reduces hyperphosphorilated tau, implying autophagy actors in 3xTg-AD mice. Front. Cell. Neurosci. 9, 498. .
+  .
+  
+.
+Poli, M., Asperti, M., Ruzzenenti, P., Regoni, M., Arosio, P., 2014. Hepcidin antagonists for potential treatments of disorders with hepcidin excess. Front. Pharmacol. 5, 86. .
+Premasekharan, G., Nguyen, K., Contreras, J., Ramon, V., Leppert, V.J., Forman, H.J., 2011a. Iron-mediated lipid peroxidation and lipid raft disruption in low-dose silica- induced macrophage cytokine production. Free Radic. Biol. Med. 51 (6), 1184-1194. .
+Premasekharan, G., Nguyen, K., Contreras, J., Ramon, V., Leppert, V.J., Forman, H.J., 2011b. Iron-mediated lipid peroxidation and lipid raft disruption in low-dose silica- induced macrophage cytokine production. Free Radic. Biol. Med. 51 (6), 1184-1194. .
+Putiri, E.L., Robertson, K.D., 2011. Epigenetic mechanisms and genome stability. Clin.
+Epigenet. 2 (2), 299-314. .
+Raven, E.P., Lu, P.H., Tishler, T.A., Heydari, P., 2013. Bartzokis Increased iron levels and decreased tissue integrity in hippocampus of Alzheimer's disease detected in vivo with magnetic resonance imaging. J. Alzheimers Dis. 37 (1), 127-136.  .
+flff  .
+Reddy, P.H., 2013. Is the mitochondrial outermembrane protein VDAC1 therapeutic target for Alzheimer's disease? Biochim. Biophys. Acta 1832 (1), 67-75.  .
+Regan, R.F., Chen, M., Li, Z., Zhang, X., Benvenisti-Zarom, L., Chen-Roetling, J., 2008. Neurons lacking iron regulatory protein-2 are highly resistant to the toxicity of he- moglobin. Neurobiol. Dis. 31 (2), 242-249. 
+.
+Reina, S., Palermo, V., Guarnera, A., Guarino, F., Messina, A., Mazzoni, C., De Pinto, V., 2010. Swapping of the N-terminus of VDAC1 with VDAC3 restores full activity of the channel and confers anti-aging features to the cell. FEBS Lett. 584 (13), 2837-2844. .
+Richardson, D.R., 2005. More roles for selenoprotein P: local selenium storage and re- cycling protein in the brain. Biochem. J. 386 (Pt. 2), E5.  .
+Riera, C.E., Dillin, A., 2015. Can aging be 'drugged'? Nat. Med. 21 (12), 1400-1405. .
+Ripa, R., Dolfi, L., Terrigno, M., et al., 2017. MicroRNA miR-29 controls a compensatory response to limit neuronal iron accumulation during adult life and aging. BMC Biol. 15, 9. .
+  .
+
+.
+Roshan, R., Shridhar, S., Sarangdhar, M.A., et al., 2014. Brain-specific knockdown of miR- 29 results in neuronal cell death and ataxia in mice. RNA 20 (8), 1287-1297.  .
+Sassano, M.L., van Vliet, A.R., Agostinis, P., 2017. Mitochondria-associated membranes As networking platforms and regulators of cancer cell fate. Front. Oncol. 7 (174). .
+ ff .
+Scheperjans, F., Aho, V., Pereira, P.A., Koskinen, K., Paulin, L., Pekkonen, E., et al., 2015.
+Gut microbiota are related to Parkinson's disease and clinical phenotype. Mov. Disord. 30 (3), 350-358. .
+ .
+Schoeler, T., Bhattacharyya, S., 2013. The effect of cannabis use on memory function: an update. Subst. Abuse Rehabil. 4, 11-27. .
+Schweizer, U., Streckfuss, F., Pelt, P., et al., 2005. Hepatically derived selenoprotein P is a key factor for kidney but not for brain selenium supply. Biochem. J 386 (Pt. 2), 221-226. .
+Secher, T., Normand, S., Chamaillard, M., 2013. NOD2 prevents emergence of disease-
+
+
+predisposing microbiota. Gut Microbes 4 (4), 353-356.  .
+Seiler, A., Schneider, M., Forster, H., Roth, S., Wirth, E.K., Culmsee, C., et al., 2008. Glutathione peroxidase 4 senses and translates oxidative stress into 12/15-lipox- ygenase dependent- and AIF-mediated cell death. Cell Metab. 8 (3), 237-248.  .
+Shen, J., Sheng, X., Chang, Z., et al., 2014. Iron metabolism regulates p53 signaling through direct heme-p53 interaction and modulation of p53 localization, stability, and function. Cell Rep. 7 (1), 180-193. 
+.
+Shioda, N., Yabuki, Y., Kobayashi, Y., Onozato, M., Owada, Y., Fukunaga, K., 2014. FABP3 protein promotes a-synuclein oligomerization associated with 1-methyl- 1,2,3,6-tetrahydropiridine-induced neurotoxicity. J. Biol. Chem. 289 (27), 18957-18965. .
+Simons, K., Sampaio, J.L., 2011. Membrane organization and lipid rafts. Cold Spring Harbor Perspect. Biol. 3 (10), a004697.  .
+Singh, A.K., Pati, U., 2015. CHIP stabilizes amyloid precursor protein via proteasomal degradation and p53-mediated trans-repression of b-secretase. Aging Cell 14 (4), 595-604. .
+Singh, N., Haldar, S., Tripathi, A.K., et al., 2014. Brain iron homeostasis: from molecular mechanisms to clinical significance and therapeutic opportunities. Antioxid. Redox Signal. 20 (8), 1324-1363. .
+  .
+Smith, M.A., Zhu, X., Tabaton, M., et al., 2010. Increased iron and free radical generation in preclinical Alzheimer disease and mild cognitive impairment. J. Alzheimer's Dis.: JAD 19 (1), 363-372. .
+Speckmann, B., Grune, T., 2015. Epigenetic effects of selenium and their implications for health. Epigenetics 10 (3), 179-190. 
+.
+  .
+Sturm, A., Ivics, Z., Vellai, T., 2015. The mechanism of ageing: primary role of transpo- sable elements in genome disintegration. Cell. Mol. Life Sci. 72 (10), 1839-1847. .
+Sturm, 2015. The mechanism of ageing: primary role of transposable elements in genome disintegration. The mechanism of ageing: primary role of transposable elements in genome disintegration. Cell. Mol. Life Sci. 72 (10), 1839-1847.  .
+Sugawara, N., Yasui-Furukori, N., Ishii, N., Iwata, N., Terao, T., 2013. Lithium in tap water and suicide mortality in Japan. Int. J. Environ. Res. Public Health 10 (11), 6044-6048. .
+Sun, Y., Ge, X., Han, X., et al., 2017. Characterizing brain iron deposition in patients with subcortical vascular mild cognitive impairment using quantitative susceptibility mapping: a potential biomarker. Front. Aging Neurosci. 9, 81.  .
+Takeda, T., Tanabe, H., 2016. Lifespan and reproduction in brain-specific miR-29- knockdown mouse. Biochem. Biophys. Res. Commun. 471 (4), 454-458.  .
+Takeda, T., Wang, Y., Bryant, S.H., 2016. Structural insights of a PI3 K/mTOR dual in- hibitor with the morpholino-triazine scaffold. J. Comput. Aided Mol. Des. 30, 323-330. .
+Toledo, E.M., Inestrosa, N.C., 2010. Activation of Wnt signaling by lithium and rosigli- tazone reduced spatial memory impairment and neurodegeneration in brains of an APPswe/PSEN1DeltaE9 mouse model of Alzheimer's disease. Mol. Psychiatry 15 (3), 272-285. 
+Tremblay, B.L., Guenard, F., Rudkowska, I., Lemieux, S., Couture, P., Vohl, M.-C., 2017.
+Epigenetic changes in blood leukocytes following an omega-3 fatty acid supple- mentation. Clin. Epigenet. 9, 43. .
+Trotti, L.M., Bhadriraju, S., Becker, L.A., 2012. Iron for restless legs syndrome. Cochrane Database Syst. Rev. 5, CD007834.  .
+Tsurumi, A., Li, W., 2012. Global heterochromatin loss: a unifying theory of aging?
+Epigenetics 7 (7), 680-688. .
+Tumaneng, K., Schlegelmilch, K., Russell, R., et al., 2012. YAP mediates crosstalk between the Hippo and PI3K-TOR pathways by suppressing PTEN via miR-29. Nat. Cell Biol. 14 (12), 1322-1329. .
+
+.
+Ugalde, A.P., Ramsay, A.J., de la Rosa, J., et al., 2011. Aging and chronic DNA damage response activate a regulatory pathway involving miR-29 and p53. EMBO J. 30 (11), 2219-2232. .
+Urrutia, P.J., Hirsch, E.C., Gonzalez-Billault, C., Nunez, M.T., 2017. Hepcidin attenuates amyloid beta-induced inflammatory and pro-oxidant responses in astrocytes and microglia. J. Neurochem. 142 (1), 140-152. .
+Van Bergen, J.M.G., Li, X., Hua, J., et al., 2016. Colocalization of cerebral iron with amyloid beta in mild cognitive impairment. Sci. Rep. 6, 35514.  .
+.
+Van Leyen, K., Holman, T.R., Maloney, D.J., 2014a. The potential of 12/15-lipoxygenase inhibitors in stroke therapy. Future Med. Chem. 6 (17), 1853-1855. 
+
+
+.
+Van Leyen, K., Holman, T.R., Maloney, D.J., 2014b. The potential of 12/15-lipoxygenase inhibitors in stroke therapy. Future Med. Chem. 6 (17), 1853-1855.  .
+van Otterdijk, S.D., Mathers, J.C., Strathdee, G., 2013. Do age-related changes in DNA methylation play a role in the development of age-related diseases? Biochem. Soc. Trans. 41 (3), 803-807. .
+Vaz, F.N.C., Fermino, B.L., Haskel, M.V.L., Wouk, J., de Freitas, G.B.L., Fabbri, R., et al., 2017. The relationship between copper, iron, and selenium levels and alzheimer disease. Biol. Trace Elem. Res. .
+Vnukov, V.V., Gutsenko, O.I., Milutina, N.P., Kornienko, I.V., Ananyan, A.A., Danilenko, A.O., et al., 2015. Influence of SkQ1 on expression of nrf2 gene, ARE-controlled genes of antioxidant enzymes and their activity in rat blood leukocytes under oxidative stress. Biochemistry (Mosc.) 80 (12), 1598-1605.  .
+Ward, D., Kaplan, J., 2012. Ferroportin-mediated iron transport: expression and regula- tion. Biochim. Biophys. Acta 1823 (9), 1426-1433.  .
+   .
+Wieler, M., Gee, M., Martin, W.R., 2015. Longitudinal midbrain changes in early Parkinson's disease: iron content estimated from R2*/MRI. Parkinsonism Relat. Disord. 21 (3), 179-183. .
+Wong, C.M., Wei, L., Law, C.T., Ho, D.W., Tsang, F.H., Au, S.L., et al., 2016. Up-regulation of histone methyltransferase SETDB1 by multiple mechanisms in hepatocellular carcinoma promotes cancer metastasis. Hepatology 63 (2), 474-487.  .
+Wong-ekkabut, J., Xu, Z., Triampo, W., Tang, I.-M., Tieleman, D.P., Monticelli, L., 2007. Effect of lipid peroxidation on the properties of lipid bilayers: a molecular dynamics study. Biophys. J. 93 (12), 4225-4236. 
+.
+Wood, J.G., Helfand, S.L., 2013. Chromatin structure and transposable elements in or- ganismal aging. Front. Genet. 4, 274. .
+Wylie, A., Jones, A.E., D'Brot, A., et al., 2016. p53 genes function to restrain mobile elements. Genes. Dev. 30 (1), 64-77. .
+Xue, Y., Schmollinger, S., Attar, N., Campos, O.A., Vogelauer, M., Carey, M., et al., 2017.
+Endoplasmic reticulum-mitochondria junction is required for iron homeostasis. J. Biol. Chem. 292 (32), 13197-13204. .
+Yagoda, N., von Rechenberg, M., Zaganjor, E., et al., 2007. RAS-RAF-MEK-dependent oxidative cell death involving voltage-dependent anion channels. Nature 447 (7146), 864-868. .
+ .
+Yan, J., Herzog, J.W., Tsang, K., et al., 2016. Gut microbiota induce IGF-1 and promote bone formation and growth. Proc. Natl. Acad. Sci. U. S. A. 113 (47), E7554-E7563. .
+Yang, N.C., Lin, H.C., Wu, J.H., Ou, H.C., Chai, Y.C., Tseng, C.Y., et al., 2012.
+Ergothioneine protects against neuronal injury induced by b-amyloid in mice. Food Chem. Toxicol. 50 (11), 3902-3911. .
+  .
+  .
+Yoo, M.-H., Gu, X., Xu, X.-M., et al., 2010. Delineating the role of glutathione peroxidase 4 in protecting cells against lipid hydroperoxide damage and in Alzheimer's disease. Antioxid. Redox Signal. 12 (7), 819-827. .
+You, L.-H., Yan, C.-Z., Zheng, B.-J., et al., 2017. Astrocyte hepcidin is a key factor in LPS- induced neuronal apoptosis. Cell. Death. Dis. 8 (3), e2676-. 
+.
+Yu, F., Zhang, Y., Chuang, D.-M., 2012. Lithium reduces BACE1 overexpression, beta amyloid accumulation, and spatial learning deficits in mice with traumatic brain injury. J. Neurotrauma 29 (13), 2342-2351. 
+.
+Yu, H., Guo, P., Xie, X., Wang, Y., Chen, G., 2017. Ferroptosis, a new form of cell death, and its relationships with tumourous diseases. J. Cell. Mol. Med. 21 (4), 648-657. .
+. Zampieri, M., Ciccarone, F., Calabrese, R., Franceschi, C., Burkle, A., Caiafa, P., 2015.
+Reconfiguration of DNA methylation in aging. Mech. Ageing Dev. 151, 60-70.  .
+Zamroziewicz, M.K., Paul, E.J., Zwilling CE1, Barbey, A.K., 2017. Determinants of fluid intelligence in healthy aging: omega-3 polyunsaturated fatty acid status and fronto- parietal cortex structure. Nutr. Neurosci. 11, 1-10.  .
+  .
+Zhao, B., Yang, Y., Wang, X., et al., 2014. Redox-active quinones induces genome-wide DNA methylation changes by an iron-mediated and Tet-dependent mechanism.
+Nucleic Acids Res. 42 (3), 1593-1605. .

@@ -1,0 +1,467 @@
+
+
+ 
+
+
+
+
+
+
+
+1+ , 1+ , Ping Tian1 , Rihua Cong2 , Yanwen Luo1 , Yali Geng1 , Shiyu Tao1 , 1* and 1
+1 Key Laboratory of Animal Physiology and Biochemistry, Ministry of Agriculture, Nanjing Agricultural University, Nanjing, China, 2 College of Veterinary Medicine, Northwest A&F University, Xianyang, China
+
+
+
+
+Edited by:
+Diana Bahia, Universidade Federal de Minas
+Gerais, Brazil
+Reviewed by:
+Sukanya Narasimhan, Yale School of Medicine, USA
+Manuel Vilanova, Instituto de Ciencias Biomedicas Abel Salazar - Universidade do Porto,
+Portugal
+*Correspondence:
+Yingdong Ni 
++ These authors have contributed
+equally to this work.
+
+Specialty section: This article was submitted to Microbial Immunology,
+a section of the journal Frontiers  in Microbiology
+Received: 06 October 2016
+Accepted: 19 January 2017
+Published: 02 February 2017
+Citation: Hua C, Tian J, Tian P, Cong R, Luo Y, Geng Y, Tao S, Ni Y and Zhao R (2017) Feeding a High
+Concentration Diet Induces Unhealthy Alterations in the Composition and Metabolism of Ruminal
+Microbiota and Host Response in a Goat Model. Front. Microbiol. 8:138. doi: 
+
+There is limited knowledge about the impact of long-term feeding a high-concentrate (HC) diet on rumen microbiota, metabolome, and  host  cell  functions.  In  this  study, a combination of mass spectrometry-based metabolomics techniques, 454 pyrosequencing of 16S rDNA genes, and RT-PCR was applied to evaluate the changes of ruminal microbiota composition, ruminal metabolites, and related genes expression in rumen epithelial cells of lactating goats received either a 35% concentrate diet or a 65% concentrate diet for 4 or 19 weeks, respectively. Results show that feeding a HC diet reduced the microbiota diversity and led to the disorders of metabolism in the rumen. The concentrations of lactate, phosphorus, NH3-N and endotoxin Lipopolysaccharide in ruminal fluids, and plasma histamine, lactate and urine N (UN) were increased significantly in goats fed with a HC diet. A significant increase of genes expression related to volatile fatty acids transport, cell apoptosis, and inflammatory responses were also observed in goats fed with a HC diet. Correlation analysis revealed some potential relationships between bacteria abundance and metabolites concentrations. Our findings indicate that a HC diet can induce ruminal microbiota dysbiosis and metabolic disorders, thus increasing risks to host health and potential harm to the environment.
+Keywords: bacteria, gene expression/regulation, metabolism, goat, rumen
+
+
+INTRODUCTION
+A vast ensemble of ruminal microbiota including bacteria, archaea, ciliate protozoa, and anaerobic fungi provide important metabolic capabilities to digest cellulose-rich feedstuffs and to convert them into a wide range of nutrient compounds in order to sustain body maintenance     and performance. A high-fiber diet and a stable microbiota community are  necessary  for  keeping ruminants health. However, in the current feeding systems, particularly in the intensive management systems, it is a common strategy to feed large amounts of grains diet to ruminants due to the lack of quality forage and pursuing high milk yield (, ; ; ). It is well known that feeding excessive amounts of non-structural carbohydrates and highly fermentable forages to ruminants commonly result in subacute ruminal
+
+
+
+acidosis (SARA), a common metabolic disease prevalent in high- producing animals (, ). Previous evidence showed that SARA can be experimentally induced by feeding
+50 65% proportion of grain diet to ruminants (,,).
+Animals suffering from SARA are usually accompanied with ruminal microbiota dysbiosis in bacteria, protozoa, anaerobic rumen fungi, archaea, and bacteriophages (, ;  , ). Currently, utilization of next generation sequencing technology (NGS) can describe the microbiome diversity and various factors that influence bacterial dynamics in greater resolution than ever before (, ). In previous studies (, ), the alterations of ruminal microbiota were found in SARA ruminants fed with  high-concentrate  (HC) diets for a relatively short-term showing a decrease of Bacteroidetes, but an increase in Firmicutes. However, the effects of long-term feeding HC diets on the composition and structure of ruminal microbiota, metabolism and host responses are unknown. In this study, we used 454 pyrosequencing methods to investigate the changes of the structure and component of rumen microbiota in lactating dairy goats fed with a HC diet for short (4 weeks) or long (19 weeks) periods.
+As one of the "core microbiome" (, ), Firmicutes has a strong association with the biological fiber degradation (, ). Methane is mainly produced by ruminal archaea, which is responsible for methane production in the rumen (, ), and Methanobrevibacter   is the most common genus in archaea (, ). Methane is currently regarded as one of the most prevalent greenhouse gas, largely emitted from farm animal activities particularly from ruminants. Moreover, several toxic and inflammatory compounds were also found in the rumen ( , ). Lipopolysaccharide (LPS) is typically released by the Gram-negative bacteria following the bacteria dying in the rumen (, ). Histamine can alter rumen epithelial barrier and increases passive permeability (, ).
+Volatile fatty acids (VFAs) and microbial crude protein (MCP) are the principal  products  of  bacteria  fermentation  (  , ). VFAs provide 70% of energy for ruminants, whereas excessive amount of VFAs will cause a considerable drop in rumen pH, push the activation of monocarboxylate transporters (MCTs), and other transport genes in the ruminal epithelium (,  ).    ()  reported  a significant decrease of saturated fatty acid and an increase     of amine and phenylacetate  concentrations  in  ruminal  fluids of SARA animals. Rumen metabolic disorders associated with altering ruminal microbiota compositions are at high risks for developing diseases, particularly metabolic diseases including lameness, mastitis and laminitis (, ). Metabolomics can help us comprehensively understand the metabolism of microorganisms in the rumen.
+Lipopolysaccharide may activate host cells via toll-like receptor 4 (TLR4) signaling pathway and induce the production and release of pro-inflammatory cytokines (, ). Feeding a HC diet for a short-term can induce the ruminal disturbance, a local inflammatory response in the ruminal epithelium, and even the systemic inflammation (,
+
+). However, information regarding the effects of long-term feeding HC diet on ruminal bacteria composition, metabolism, and the response of the epithelial cells  has not been reported    in ruminants. In this study, we used a combination of the 454 bar-coded pyrosequencing strategy and the gas chromatograph mass spectrometer (GC-MS) technique to investigate the effects of feeding a HC diet for short- and long-term on the alterations in ruminal microbiota and their metabolites, using goats as a model. Moreover, the relationships between microbiota abundance, ruminal metabolites, and genes expression related to host cells function were also analyzed in the present study.
+
+MATERIALS AND METHODS
+Ethics
+The Institutional Animal Care and Use Committee (IACUC) of Nanjing Agricultural University approved all animal procedures. The "Guidelines on Ethical Treatment of Experimental Animals" (2006) No. 398 set by the Ministry of Science and Technology, China and the Regulation regarding the Management and Treatment of Experimental Animals" (2008) No. 45 set by the Jiangsu Provincial People's Government, was be strictly followed during the slaughter and sampling procedures.
+Animals and Experimental Procedures
+In brief, 15 healthy, mid-lactating goats (Guanzhong dairy goats) with an average initial body weight of 49.7 5.5 kg (mean SD) were housed in individual pens in a standard animal feeding house at Northwest A&F University (Shanxi, China). Prior to the experiment, all goats were allowed free access to a control diet containing a forage to concentrate ratio of 65:35 for 2 weeks. Ingredients and chemical composition of the experimental diets were shown in Supplementary Table S1. After dietary adaptation, goats were randomly assigned to two groups, goats in the control group (n 10) fed with a low concentrate (LC) diet containing 65% forage and 35% mixed concentrate for 19 weeks. High- grain long-term group (HL) five goats received  a  high-grain diet containing 65% mixed concentrate  and  35%  forage  for  19 weeks. After 13 weeks, five goats from LC control group were randomly assigned to the high-grain short-term (HS) group received the same diet  as in  HL group  for  6 weeks  including 2 weeks dietary adaptation. All goats were fed daily at 08:00 and 18:00, respectively.
+Samples Collection and Assay
+At the end of the experiment, goats were slaughtered after overnight fasting. All goats were killed with neck vein injections of xylazine [0.5 mg (kg body weight)-1; Xylosol; Ogris Pharma, Wels, Austria] and pentobarbital [50 mg (kg body weight)-1; Release; WDT, Garbsen, Germany]. Blood samples were taken using heparin-containing vacuum tubes from jugular vein. Blood was centrifuged at 1,000 g for 15 min at 4*C, extracted plasma in EP and stored at 20*C. Immediately after slaughter, the abdominal cavity was opened by midline incision, after that the rumen was carefully removed. The rumen was opened from the dorsal side and rumen fluid was collected and strained through
+
+
+
+four layers of cheesecloth and kept on ice until processing. The rumen tissue was then washed by PBS, collected and threw into liquid nitrogen immediately, then stored at 80*C until next process.
+The rumen fluid samples were briefly centrifuged at 10,000 g for 45 min at  4*C and  the  supernatant  was  aspirated  gently to prevent its mixing with the pellet and passed through a
+disposable 0.22 um LPS-free filter. The filtrate was collected   in a sterile glass tube (previously heated  at  180*C  for  4  h) and heated at 100*C for 30 min. The ruminal  LPS  was  detected by Chromogenic End-point Tachypleus Amebocyte Lysate Assay Kit (Chinese Horseshoe Crab Reagent Manufactory Co. Ltd, Xiamen, China) strictly following the manufacturer's instructions. Histamine was detected with the enzyme linked immunosorbent assay kit (Shengxing Company, Nanjing, China) and strictly following the manufacturer's instructions. The second portion of each rumen fluid sample was centrifuged at 3,000 g for 15 min at 4*C immediately after collection and the supernatant was collected to analyze VFAs concentrations. The level of MCP, UN, NH3-N, lactate, and ruminal capase-3 enzyme activity was detected with the commercial assay kits (Jiancheng Company, Nanjing, China) strictly following the manufacturer's instructions, respectively.
+
+RNA Isolation, cDNA Synthesis and Real-Time PCR
+Total RNA was extracted from rumen samples with Trizol Reagent (Takara, Dalian,  China).  Concentration  and  quality  of total RNA were monitored by NanoDrop ND-1000 Spectrophotometer (Thermo, USA). Then, total RNA was treated with RNase-Free DNase (M6101, Promega, USA) and reverse transcribed. Two microliter of diluted cDNA (1:40, vol/vol) was used for real-time PCR, which was performed in Mx3000P (Stratagene, USA). GAPDH was not affected by the experimental factors, and was chosen as  the  reference  gene. All primers used in this study were synthesized by Generay Company (Shanghai, China). The method of 2-fifiCt was used  to analyze the real-time PCR results and gene mRNA levels were expressed as the fold change relative to the mean value of control group. Primers sequences are listed in Supplementary Table S3.
+
+Metabolite Profiling of the Ruminal Fluid
+The rumen fluid was thawed at room temperature, and centrifuged at 3,000 g for 15 min at 4*C. Two hundred microliter of the supernatant was removed to 1.5 mL centrifuge tube, mixed with 10 uL dichlorobenzene alanine, then centrifuged at 13,000 g for 15 min at 4*C, the supernatant removed to 200 uL tube. Twenty milligram methoxyammonium hydrochloride dissolved into 1 mL of pyridine was added to the sample after drying in 30 uL, and vortexed until completely dissolved, placed in 37*C incubator 90 min, then added 30 uL BSTFA at 70*C oven for 1 h.
+Using Agilent7890A / 5975C GC-MS analysis  of  GC- MS platform for metabolomics sample data acquisition. Capillary column is the Agilent J&W Scientific's HP-5 ms (30 m x 0.25 mm x 0.25 um). Instrument parameters
+
+set as follows: inlet temperature of 280* C, EI ion source temperature of 230*C, quadrupole temperature 150*C, high purity helium (purity greater than 99.999%) as a carrier gas, splitless into Injection volume 1.0 uL. Temperature program: initial temperature of 80*C, maintaining the 2 min, 10*C/min speed was raised to 320*C, and maintained 6 min. Full scan mode using mass spectrometry, mass spectrometry in the range of 50-550 (m/z). Random sequence of consecutive samples analyzed, to avoid the impact due to signal fluctuations caused by the instrument.
+XCMS package of R software was used to treat LC/MS data, and then the EXCEL2007 software was used to delete the impurity peaks. Finally, two-dimension data matrix data was obtained. The matrix was created through the SIMCA-P software (Version 13.0) to analyze PCA, PLS-DA and the loading plot in the end.
+DNA Extraction and 16S rDNA Gene Amplicon Pyrosequencing
+Two-milliliter ruminal fluid was used for DNA extraction by PowerFecalQR       DNA  Isolation  Kit  (Mobio)  strictly  according  to the manufacturer's instructions. DNA samples were stored at 80*C for further processing. DNA purity was verified through agar gel electrophoresis, and was diluted to the concentration of
+1.0 ng/uL. DNA was used as template to amplify the 16S V3- V4 region using specific primers with Barcode. The efficient hi-fi PCR enzyme and the PhusionQR      High-Fidelity PCR Master Mix with GC Buffer (New England Biolabs) were added to insure the amplification efficiency and accuracy. The production of PCR was verified by electrophoresis in 1.5% agarose gel, and then recycled by gel extraction kit (qiagen). The database was made with TruSeqQR     DNA PCR-Free Sample preparation Kit, and then used HiSeq2500 PE250 to sequencing.
+Accordance to the Barcode and PCR primers sequences, raw tags were got by the FLASH (V1.2.7. Further, high quality clean tags were obtained through strict filtering processing by the Qiime (V1.7.0). The UCHIME Algorithm and gold database were used to detect chimeric sequences, removed them and acquired the effective tags. Effective tags were clustered to the Operational Taxonomic Units (OTUs) by Uparse (v7.0.1001). The most abundant sequence within each OTU was designated as the representative sequence. The RDP classifier (Version2.2) and GreenGene database were used to species annotation. PyNAST (Version 1.2) and Green Gene "Core Set" data information in the database were used for multiple sequence alignment to get the representative sequences' phylogenetic relationship. Qiime (Version 1.7.0) was used to calculate the alpha diversity and the beta diversity. The unweighted PCoA analysis was carried out by the R (Version 2.15.3) with the WGCNA, stats and ggplot2 packages. V3-V4 region can detect the bacteria and archaea (
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+
+
+
+, ; , ). We analyzed the bacteria and archaea, respectively.
+Statistical Analysis
+Data are presented as means SEM. The data were tested for normal distribution and analyzed by Student's unpaired t-test using SPSS software packages (SPSS version 19.0 for Windows; SPSS Inc., Chicago, IL, USA). Data were considered statistically significant when P < 0.05. The numbers of replicates used for statistics were noted in the figures. The correlation was made by the corrplot package of the R software.
+
+RESULTS AND DISCUSSION
+Alteration of VFAs and Abnormal Fermented Products after Feeding a HC Diet
+Feeding a HC diet to lactating goats induced abnormal fermentation in rumen. Although there were no significant alternations of VFA concentrations in ruminal fluid among LC, HS, and HL groups, most of them showed a decrease in HC fed goats compared to LC. The ratio of acetate/propionate (A/P) was also decreased in HC goats and reached a significant  decrease in HL group (P  0.04) compared to LC (), indicating   the alternation of fermentation type in rumen. Ruminal NH3-   N, UN, phosphorus, and LPS concentrations were significantly
+
+increased in HS and HL goats (P < 0.05; ). Compared to LC, ruminal lactate (LA) and MCP, as well as plasma histamine, LA, and UN concentrations also increased in animals fed with HC diet, particularly in the HL group (P < 0.05; ).
+Although VFAs concentrations in ruminal fluids were generally decreased in HC fed goats compared to LC goats, the total amount of VFA was not markedly affected by the HC diet, which was consistent with the earlier studies (, ). It was reported that a lower proportion of acetate to propionate was caused by a lower fermentation of cellulose in rumen ( , ). In this study, a significant decrease of the ratio of acetate to propionate in HL goats may indicate a lower cellulose fermentation in rumen. Moreover, increasing the proportion of butyrate in the current study was consistent with previous studies in vitro (, ; , ) and in vivo (, ; , ). Unaffected production of branched-chain VFA (isobutyrate and isovalerate) was consistent with earlier studies (, ). It is widely accepted that large amount of lactate leads to an acute ruminal acidosis, and lactate is one of major products in a rapid fermentation process (, ). Lactate can cross the rumen wall and be dissolved in blood to leading an increase of plasma lactate as observed in the HS and the HL groups.
+Absorption and utilization of nitrogen is promoted in lactating goat by feeding a HC diet. Our results demonstrated that the concentration of NH3-N was remarkably increased in the HS and HL groups compared to the LC (), which was consistent
+
+
+TABLE 1 | Concentrations of metabolites in ruminal fluid and plasma.
+
+Measure	LC	HS	HL
+
+In ruminal fluid
+Acetate (mM)	8.2352 +- 0.7522	5.8716 +- 0.9132	5.7813 +- 1.1244
+Propionate (mM)	3.5036 +- 0.2896	2.8031 +- 0.5507	2.8426 +- 0.5261
+Isobutyrate (mM)	0.3511 +- 0.0330	0.3227 +- 0.0445	0.3341 +- 0.0304
+Butyrate (mM)	2.3261 +- 0.0658	2.400 +- 0.5426	2.3593 +- 0.4137
+Isovalerate (mM)	0.4291 +- 0.0445	0.3901 +- 0.0601	0.4142 +- 0.0398
+Valerate (mM)	0.2360 +- 0.0124	0.2480 +- 0.0348	0.2702 +- 0.0473
+Total VFA (mM)	15.1951 +- 1.0374	12.1353 +- 2.0902	12.1216 +- 2.1649
+Acetate/Propionate	2.3595 +- 0.1251a	2.1647 +- 0.1444ab	2.0338 +- 0.0740b Lactate (mM)	0.6684 +- 0.1276b	0.8394 +- 0.1074ab	1.0925 +- 0.0818a
+NH3-N (mM)	9.6200 +- 1.2525b	16.9000 +- 1.5161a	19.1743 +- 1.2010a
+MCP (mg/mL)	5.1521 +- 0.0880b	5.8364 +- 0.3110ab	5.7729 +- 0.1168a
+UN (mM)			56.8734 +- 8.1717b		93.5949 +- 6.0290a			99.8101 +- 7.7480a Phosphorus (mM)				3.5474 +- 0.5678b			5.9605 +- 0.0750a				6.0517 +- 0.0948a Histamine (ng/mL)		122.3936 +- 8.7446		98.4652 +- 12.6695		112.1426 +- 9.9324 LPS (EU/mL)	95663.3081 +- 10939.1852b	130604.5340 +- 5279.7075a	127962.8463 +- 4932.3793a
+In plasma
+Histamine (ng/mL)	185.5518 +- 32.6975b	280.8482 +- 29.6947ab	309.8263 +- 27.3023a Phosphorus (mM)		0.2375 +- 0.0097		0.3099 +- 0.0846		0.2675 +- 0.0710 Lactate (mM)		6.7154 +- 0.2644b		7.7365 +- 0.3434a		7.5701 +- 0.6118ab
+UN (mM)	8.7595 +- 0.4860b	9.9114 +- 0.8405ab	10.3888 +- 0.4660a
+Urine UN(mM)	56.038 +- 5.4666	52.7089 +- 6.6299	53.7342 +- 4.3704
+Values are expressed as the means SEM. Value with different small letter superscripts mean significant difference compared to LC (P < 0.05), and with the same or no letter superscripts mean no significant difference (P > 0.05). VFA, volatile fatty acids; NH3-N, Ammonia-nitrogen; MCP, microbial crude protein; UN, urine nitrogen; LPS, lipopolysaccharide.
+
+
+
+with the previous studies (, ; , ). Increased nitrogen suggests a more intense proteolysis ( , ). We did not find significant changes of UN in urine among the control, the HS, and the HL groups, indicating that urea might be utilized in other metabolic pathways. We found that ruminal phosphate concentration was significantly increased in the HS and the HL groups, compared to the control group (). However, feeding a HC diet did not change the level of phosphate in blood. Therefore, we speculated that excessive amount of ruminal phosphate was eliminated from the body through urine or feces, which will throw a potential risk to environment through methane emission.
+It's well known that some metabolic diseases occurred in ruminants including acidotic rumenitis (, ) and laminitis (, ), have been found to directly correlate with the level of endogenous histamine. In the 's () study, histamine altered rumen epithelial barrier function by trans-epithelial electrolyte transportation and increased the passive permeability. In this study, the level of histamine in plasma was markedly increased in the HS and HL groups compared to control. High level of endogenous histamine and endogenous LPS pose a high risk to induce metabolic related diseases in lactating ruminants after digested a HC diet, as observed in the farm practice.
+Alteration of Ruminal Flora
+In total, 910,696 reads were obtained for the bacterial 16S  rRNA genes by pyrosequencing analysis. After screening these gene sequences with strict criteria, 702,001 valid sequences were obtained, accounting for 86.62% of the raw reads. The common shared numbers among three groups were shown in Venn diagram (). The HS group had the highest number of unique sequences (220 OTUs), followed by the LC group (151 OTUs) and the HL group (55 OTUs). Additionally, there were 1139 OTUs (around 56% of total OTUs) shared among three groups. At phylum level, Firmicutes was the most abundant bacteria, with an average relative abundance of 55.10% (). Bacteroidetes were the second type with an average relative abundance of 37.82% (). We observed a notable phylum-wide shift in the Cyanobacteria and Verrucomicrobia induced by the HC diet. The Cyanobacteria abundance was significantly decreased in the HS group compared to the LC group, while Verrucomicrobia was significantly decreased in the HL group compared to the HS ().
+The diversity of bacteria in rumen fluid was present by Shannon index, Chao value, and ACE index. Shannon index was markedly reduced in HS (P 0.02) and HL (P < 0.01) groups compared to LC control group (). Chao1 values were observed in the HS group (P < 0.01; ). ACE values were significantly decreased in the HS (P < 0.01) and HL (P 0.02) groups (). Taken above together, feeding a HC diet induces a dramatic decrease of the diversity of ruminal bacteria particularly in long-term feeding group.
+Previous  studies  demonstrated  that  feeding  a  HC  diet  for
+4 6 weeks altered ruminal microbiota, which commonly caused a negative impact on the bio-diverse ecosystem (,). We found that PCoA () can notably show the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+significant differences of ruminal bacterial composition among control, HS, and HL groups, which demonstrated that feeding    a diet shifted  from  35%  concentrate  to  65%  proportion  for  4 weeks changed the bacterial composition abruptly and unstably. However, after 19 weeks adaptation microbiota compositions maintained stability, but exhibited a lower richness and diversity than LC control group. The PCoA with unweighted UniFrac distances demonstrated that samples from LC group were clearly separated from HS and the HL groups. Moreover, the intragroup variation in HS goats was obviously presented by PCoA analysis indicating an unstable composition of ruminal microbiota.
+Ruminants fed with HC diets are associated with an altered rumen microbiota.  shows that at genus level, there is 10 genus markedly changed among top 50 abundance OTUs by HC diet (P < 0.10). The abundance  of Bulleidia, Paracoccus, Pseudoramibacter_Eubacterium, Atopobium, and Selenomonas were increased through  the  HC diets (). However, the level of Oscillospira, YRC22, Bacteroides, CF231, and Akkermansia were significantly decreased in the HC group ( ).  In    ()  study,  the  population of Prevotella, Papillibacter, Lysinibacillus, Thalassospira,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Succiniclasticum,  as  well  as  some  unclassified   bacteria  were decreased in the HC groups, while the abundance of Butyrivibrio, Mogibacterium, Acetitomaculum, and unclassified Anaerolineaceae were increased by the HC diet. The changes   in the percentage of bacterial are approximately 20  40%  in  () study. The alterations of the bacteria were approximately 4%. The alteration of ruminal flora caused by   the origin of animals and different management (, ). High abundance of OTUs alteration could replace other OTUs that take over the analogous functions (,  ), and geographical differences could also possibly affect the composition of bacteria.
+The abundance of Selenomonas, Atopobium, Bulleidia, Paracoccus, and Pseudoramibacter_Eubacterium were increased. Selenomonas is classified into two subspecies (subsp): subsp. lactilytica with a capacity to utilize lactate, and incapable of utilizing lactate subsp. ruminantium (, ). However, Selenomonas ruminantium is a representative nitrate and nitrite reducing ruminal bacterium (, ).  It is reported that an increase in nitrate and nitrite in ruminal contents induced the abundance increase of Selenomonas
+
+
+ruminantium (, ). The increase of lactate and "N" nutrients can contribute to the increase of Selenomonas. As a Gram-positive anaerobic bacterium, Atopobium utilizes sugars and plays an  important  role  in  developing  SARA  ( , ; , ). In this study, we found that the population of Atopobium was increased by feeding the HC diet, as reported in previous studies (, ). It is consistently found that feeding a HC diet is likely to induce SARA disorders and other related metabolic diseases in ruminants, particularly in lactating dairy cows (, ).
+We found that the level of Bacteroides, Oscillospira, Akkermansia, CF231,  and  YRC22  were  decreased  by  the  HC diet. Bacteroides is one of ureolytic bacteria in rumen ( , ) and can produce succinic acid (, ).  () reported that the reduction potential can inhibit the growth of Bacteroides. In the present study, UN was considerably increased, possibly contributing to the decrease of Bacteroides. As a Gram-positive bacterium, Oscillospira is the first described bacterium (, ) involved in the degradation of plant cell wall (, ).  () found that the abundance of Oscillospira in rumen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+was diet-dependent and reaching the maximum level after feeding fresh-forage diets. Akkermansia is involved in mucosa development, as well  as  maintenance  of  intestinal  integrity  by utilizing mucin and antimicrobial (, ). Moreover, the decrease of CF231 and YRC22 in ruminal fluids may be caused by higher level of nitrate (, ).
+It's very important to note that the abundance of methanogens has a trend to increase in the HS group compared to  LC  ().  () reported that SARA ruminants produced a higher level of methanogens than control healthy counterparts. Inconsistently, in  () study four non-lactating Holstein dairy cows fed with a HC diet for 3 weeks did not affect the methanogen density in the rumen. We found that the level of methanogens exhibited an increased tendency in the HS group. As the prevalent greenhouse gas, methane is highly produced by ruminants and has a potentially harmful effect on the environment.
+Shift of Metabolomics in Ruminal Fluid
+Gas chromatograph mass spectrometer chromatograms of the ruminal fluid metabolites were displayed in  . Numbers of visible peaks were separated by GC-MS analysis. After pairwise comparison, 31, 30, and 16 differentiated metabolites with VIP > 1 between two groups was presented in Supplementary Table S2. These metabolites altered by HC diet are involved in multiple biochemical processes in the rumen, such as gluconeogenesis. PLS-DA was used to identify the key compounds responsible for the score differences. There was an obvious separation between the score plots created by the first two components and three groups of samples cluster (). Each dot represents an observation sample, and the distance between two dots represents the similarity of the sample's metabolite composition. We can observe the LC group cluster presented in the right portion; HS and HL groups were presented in the upper and lower portion of the left, respectively.
+In order to  verify  the  differentiated  metabolites  among  LC, HS, and HL groups, a PLS-DA loading plot was created (). The variable importance in the projection (VIP) combining with the student's t-test (t-test) p values were
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+used to identify which compounds was the most significant contribution in discriminating among the ruminal compounds of groups. Those compounds that were responsible (VIP > 1) for the significant difference between LC-HS, LC-HL and HS- HL were selected. Finally, 11 compounds were commonly differentiated among three groups (), and three of them including D-glucose, D-turanose and tetrasiloxane were significantly decreased, whereas eight metabolites including benzeneacetic acid, glutamine, hexadecanoic acid, L-tyrosine, malic acid, octadecanoic acid, oleic acid, and silanol were increased by feeding the HC diet. Silanol and tetrasiloxane may be derived from the forage, because they do not exist in any metabolic pathways. In this study, the relative density of phenylacetate acid in rumen was higher in the HS and the HL groups, which was consistent with the previous findings (
+
+
+TABLE 2 | Candidate ruminal compounds that significantly different among three groups.
+
+Item	LC vs. HS	LC vs. HL
+
+VIP, variable importance in the projection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, ). In rumen, phenylacetate was synthesized by activity of ruminal microbiota by degrading plant constituents ( , ). It has been reported that phenylacetate acid could be beneficial to the rumen bacteria (, ). Our findings reveal a correlated response for phenylacetate and the proportion of some ruminal bacteria, strongly positive correlated
+
+with Oscillospira and Akkermansia, but negatively correlated with Paracoccus. The above results indicate that these microbes may be affected by phenylacetate, or collaboratively synthesize phenylacetate.
+Feeding a HC diet to dairy goats dramatically reduced the level of D-glucose and D-turanose, which are both utilized by microbes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in rumen (, ). After absorption, propionate is utilized for synthesis glucose in liver. More utilization and less synthesis finally led to a decrease of D-glucose. D-Turanose can be metabolized by the bacteria as well, such as Elusimicrobium minutum (, ) and Bacillus (, ). Two amino acids, glutamine and L-tyrosine were identified in ruminal fluids. The greater concentration of glutamine in the HL group suggested more proteins degraded after feeding a HC diet. Both glutamine and L-tyrosine exhibited strong correlations with microbes including Bulleidia, Oscillospira, YRC22, CF231, and Akkermansia. It's reasonable to speculate that these microbes may play an important role in producing or utilizing these two amino acids. In the current study, the amount of malic acid in the rumen was dramatically increased in the HS and HL groups compared to the control group, and a greater concentration of oleic acid and octadecanoic acid was also found in HC-fed goats. Malic acid can promote the utilization of lactate by Selenomonas ruminantium and then can  prevent  the  decrease  of  ruminal  pH  (  , ). Moreover, malic acid can increase the production
+
+of propionate (, ) and butyrate (, ), and regulate the activity of some types of ruminal bacteria (, ). The increase of octadecanoic acid comes from the hydrogenation of oleic acid, and the abundance of Bulleidia, Oscillospira, CF231 and Paracoccus is strongly correlated with the level of hexadecanoic acid and oleic acid.
+Changes of Functional Genes Expression in Host Cells
+In the present study, the results showed that the  functional  genes expressions in host  epithelial  tissues  changed  greatly  by feeding a HC diet.  The  expression  of  VFAs  transport  genes including sodium/hydrogen exchanger 2 (SLC9A2), sodium/hydrogen exchanger 3 (SLC9A3), and sodium-potassium adenosine triphosphatase (Na/K ATPase) in ruminal epithelium was significantly increased by feeding HC  diet  (). It's well known that intracellular pH is regulated in a certain physiological range, which is very important within cell homeostasis (, ). () has reported that epidermal growth  factor  receptor  (EGFR)  can promote SLC9A2 expression. Consistently, we also found   a significant increase of EGFR mRNA expression in ruminal epithelial tissues in HC-fed goats (). Monocarboxylate transporter 1 (MCT1) and 4 (MCT4) are involved in the transmembrane transport (, ; , ). Taken together, the altered genes expression in the epithelial tissues indicate the changes of physiological functions including immunity, substrates transportation, as well as the homeostasis of the cross-talk between ruminal microbiota and the host proceeding the HC diet to lactating dairy goats.
+Caspase-8 and the downstream  effector  caspase-3  ( , ), as well as B-cell lymphoma (Bcl-2) family  (, ) were involved in the apoptotic process. In the present study, caspase-8 and BCL-2 associated X (BAX) mRNA expression were significantly increased in the HS and the HL groups compared to LC group (). Caspase-3 mRNA and enzyme activity () were not significantly changed in the HL group, however, we found a strong positive correlation of caspase-3 and -8 with ruminal LPS levels. As an antioxidant enzyme, catalase (CAT) gene expression in epithelial tissues was significantly increased in the HS goats (), and showed a strong positive correlation with ruminal LPS level (). Inflammation is a major host defense reaction. The cytokines play a key role in the initiation, maintenance, and termination   of the inflammatory reaction. Tumor necrosis factor-a (TNF-a), interleukin-1b (IL-1b), interleukin-6 (IL-6) and 8 (IL-8) are pro- inflammatory, while interleukin-10 (IL-10) is anti-inflammatory (, ). The expression of  IL-8  mRNA was markedly decreased, whereas the expression of IL-10 and glucocorticoid (GR) gene was dramatically increased in the host epithelial tissues after feeding a HC diet (). It's well known that LPS stimulates the expression of pro-inflammatory cytokines via TLR4 signal pathway (, ). However, most of cytokines expression were not altered in the HL group, which probably indicates the high tolerance of the host to ruminal endotoxin gradually, and eventually attenuate LPS responses (, ).
+
+
+
+Correlation between Ruminal LPS, Genes Expression and Microbiome
+A correlation analysis of the 100 most abundant OTUs and genes expression with ruminal LPS levels is shown in . LPS is a structural component of the cell wall of Gram-negative bacteria, recognized by TLR-4, and activates the immune response ( , ). The increase of LPS always accompanies the reduction of Gram-negative bacteria (, ). In this study, there are nine OTUs among the 100 most abundant OTUs, which is substantially correlated with LPS level (p < 0.05). All of these nine OTUs are Gram-negative bacteria. Moreover, our results showed that the level of ruminal LPS also depicted a strong correlation with epithelial apoptosis, proliferation, inflammation, and anti-oxidative stress in the host rumen tissues (r > 0.6, p < 0.05).
+Correlation between Ruminal Microbiome and Metabolome
+Correlation analysis within or between the bacteria and metabolite was conducted to investigate the potential co- occurrences as displayed with a correlation matrix (). In this context, 66 correlations (34.73%) were strong positively or negatively correlated (|r| 0.6, p < 0.05). There were 31 correlations strong positively or negatively correlated (|r| 0.6, p < 0.05) between OTUs and metabolite. Hexadecanoic acid and Bulleidia had the strongest positive correlation (r   0.84, p < 0.01), and the strongest negative correlation were found between L-tyrosine and Oscillospira (r 0.879, p < 0.01) in the bacteria and metabolite.
+
+CONCLUSION
+Feeding a HC diet to lactating ruminants induces abnormal fermentation, metabolic perturbations, and microbiota dysbiosis with reduced bacterial richness and diversity. The microbiota dysbiosis in the HS group is more severe than that in the HL
+
+group presented by PCoA analysis. Microbiota dysbiosis and the abnormal products, particularly LPS and histamine, in rumen   or circulating system induced by a HC diet is largely associated with functional genes expression in ruminal epithelial tissues. Therefore, the homeostasis of ruminal microbial ecosystem is a vital point for keeping host cells physiological functions, animal welfare, and even the healthy environment.
+
+AUTHOR CONTRIBUTIONS
+Performed experiments: CH, YG, JT, PT, ST, YL, and RC. Analyzed data: CH, JT, and ST. Conceived and designed experiments: YG, YN, RZ, RC, PT, and JT. Wrote the paper: CH and JT.
+
+FUNDING
+This work was supported by the National Nature Science Foundation of China (project no. 31272470) and National Basic Research Program of China (project no. 2011CB100802) and the Program for New Century Excellent Talents in University (NCET-13-0862) and a project funded by the Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD).
+
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be  found  online at:  
+FIGURE S1 | The shift in the percentage of bacteria taxa in rumen bacteria community (P < 0.10).
+
+FIGURE S2 | Total ion chromatograms of ruminal fluid GC-MS corresponding with LC, HS, and HL groups.
+
+
+
+REFERENCES
+Ametaj, B., Koenig, K., Dunn, S., Yang, W., Zebeli, Q., and Beauchemin, K. (2009). Backgrounding and finishing diets are associated with inflammatory responses in feedlot steers. J. Anim. Sci. 87, 1314-1320. 
+Ariko, T., Kass, M., Henno, M., Fievez, V., Kart, O., Kaart, T., et al. (2015). The effect of replacing barley with glycerol in the diet of dairy cows on rumen parameters and milk fatty acid profile. Anim. Feed Sci. Technol. 209, 69-78. 
+Asanuma, N., Iwamoto, M., Kawato, M., and Hino, T. (2002). Numbers of nitrate- reducing bacteria in the rumen as estimated by competitive polymerase chain reaction. Anim. Sci. J. 73, 199-205. 
+Asanuma, N., Yokoyama, S., and Hino, T. (2015). Effects of nitrate addition to a diet on fermentation and microbial populations in the rumen of goats, with special reference to Selenomonas ruminantium having the ability to reduce nitrate and nitrite. Anim. Sci. J. 86, 378-384. 
+Bal, M. A., Coors, J. G., and Shaver, R. D. (1997). Impact of the maturity of corn for use as silage in the diets of dairy cows on intake, digestion, and milk production. J. Dairy Sci. 80, 2497-2503. 
+Berg, J., Brandt, K. K., Al-Soud, W. A., Holm, P. E., Hansen, L. H., Sorensen,
+S. J., et al. (2012). Selection for Cu-tolerant bacterial communities with altered
+
+composition, but unaltered richness, via long-term Cu exposure. Appl. Environ. Microbiol. 78, 7438-7446. 
+Boerman, J. P., Potts, S. B., VandeHaar, M. J., Allen, M. S., and Lock, A. L. (2015). Milk production responses to a change in dietary starch concentration vary by production level in dairy cattle. J. Dairy Sci. 98, 4698-4706.  
+Bunthof, C. J., Bloemen, K., Breeuwer, P., Rombouts, F. M., and Abee, T. (2001). Flow cytometric assessment of viability of lactic acid bacteria. Appl. Environ. Microbiol. 67, 2326-2335. 
+Castillo, C., Benedito, J., Mendez, J., Pereira, V., Lopez-Alonso, M., Miranda, M., et al. (2004). Organic acids as a substitute for monensin in diets for beef cattle. Anim. Feed Sci. Technol. 115, 101-116. 
+Chatton, E., and Perard, C. (1913). Schizophytes du caecum du cobaye. I.
+Oscillospira guilliermondi n.g., n.sp. C. R. Sceances Soc. Biol. 74, 1159-1162.
+Chesson, A., Provan, G. J., Russell, W.  R.,  Scobbie,  L.,  Richardson,  A.  J.,  and Stewart, C. (1999). Hydroxycinnamic acids in the digestive tract of livestock and humans. J. Sci. Food Agric. 79, 373-378. doi: 10.1002/(SICI)1097- 0010(19990301)79:3<373::AID-JSFA257>3.0.CO;2-6
+Connor, E., Li, R., Baldwin, R., and Li, C. (2010). Gene expression in the digestive tissues of ruminants and their relationships with feeding and digestive processes. Animal 4, 993-1007. 
+
+
+
+Counillon, L., and Pouyssegur, J. (2000). The expanding family of eucaryotic Na+/H+ exchangers. J. Biol. Chem. 275, 1-4. 
+Davies, D., Theodorou, M., and Newbold, J. (2007). Biotransformation and fermentation - exploiting the rumen and silo. IGER Innov. 11, 37-41.
+DeFrain, J. M., Hippen, A. R., Kalscheur, K. F., and Jardon, P. W. (2004). Feeding glycerol to transition dairy cows: effects on blood metabolites and lactation performance. J. Dairy Sci. 87, 4195-4206. 
+
+Evans, J. D., and Martin, S. A. (2000). Effects of thymol on ruminal microorganisms. Curr. Microbiol. 41, 336-340.  Everard, A., Belzer, C., Geurts, L., Ouwerkerk, J. P., Druart, C., Bindels, L. B., et al.
+(2013). Cross-talk between Akkermansia muciniphila and intestinal epithelium controls diet-induced obesity. Proc. Natl. Acad. Sci. U.S.A. 110, 9066-9071. 
+Gabel, G., Aschenbach, J. R., and Muller, F. (2002). Transfer of energy substrates across the ruminal epithelium: implications and limitations. Anim. Health Res. Rev. 3, 15-30. 
+Geissinger, O., Herlemann, D. P., Morschel, E., Maier, U. G., and Brune, A. (2009). The ultramicrobacterium "Elusimicrobium minutum" gen. nov., sp. nov., the first cultivated representative of the termite group 1 phylum. Appl. Environ. Microbiol. 75, 2831-2840. 
+Groot, J. (1998). Correlation between electrophysiological phenomena and transport of macromolecules in intestinal epithelium. Vet. Q. 20, 45-49.  
+Gruys, E., Toussaint, M. J., Niewold, T. A., and Koopmans, S. J. (2005). Acute phase reaction and acute phase proteins. J. Zhejiang Univ. Sci. B 6, 1045-1056. 
+Harmsen, H. J., Wildeboer-Veloo, A. C., Grijpstra, J., Knol, J., Degener, J. E., and Welling, G. W. (2000). Development of 16S rRNA-based probes for the Coriobacterium group and the atopobium cluster and their application for enumeration of Coriobacteriaceaein human feces from volunteers of different age groups. Appl. Environ. Microbiol. 66, 4523-4527.  
+Hook, S. E., Steele, M. A., Northwood, K. S., Wright, A.-D. G., and McBride,
+B. W. (2011). Impact of high-concentrate feeding and low ruminal pH on methanogens and protozoa in the rumen of dairy cows. Microb. Ecol. 62, 94-105. 
+Hristov, A. N., Callaway, T. R., Lee, C., and Dowd, S. E. (2012). Rumen bacterial, archaeal, and fungal diversity of dairy cows in response to ingestion of lauric or myristic acid. J. Anim. Sci. 90, 4449-4457. 
+Jami, E., Israel, A., Kotser, A., and Mizrahi, I. (2013). Exploring the bovine rumen bacterial community from birth to adulthood. ISME J. 7, 1069-1079.  
+Johnson, K. A., and Johnson, D. E. (1995). Methane emissions from cattle. J. Anim.
+Sci. 73, 2483-2492. 
+Khafipour, E., Li, S., Plaizier, J. C., and Krause, D. O. (2009). Rumen microbiome composition determined using two nutritional models of subacute ruminal acidosis. Appl. Environ. Microbiol. 75, 7115-7124. 
+Khampa, S., Wanapat, M., Wachirapakorn, C., Nontaso, N., Wattiaux, M., and Rowlison, P. (2006). Effect of levels of sodium DL-malate supplementation  on ruminal fermentation efficiency of concentrates containing high levels of cassava chip in dairy steers. Asian Australas. J. Anim. Sci. 19:368.  
+Kiela, P. R., Hines, E. R., Collins, J. F., and Ghishan, F. K. (2001). Regulation of the rat NHE3 gene promoter by sodium butyrate. Am. J. Physiol. Gastrointest. Liver Physiol. 281, G947-G956.
+Kirat, D., Masuoka, J., Hayashi, H., Iwano, H., Yokota, H., Taniyama, H., et al. (2006). Monocarboxylate transporter 1 (MCT1) plays a direct role in short- chain fatty acids absorption in caprine rumen. J. Physiol. 576, 635-647.  
+Klevenhusen, F., Hollmann, M., Podstatzky-Lichtenstein, L., Krametter- Frotscher, R., Aschenbach, J. R., and Zebeli, Q. (2013). Feeding barley grain-rich diets altered electrophysiological properties and permeability of the ruminal wall in a goat model. J. Dairy Sci. 96, 2293-2302. 
+Koike, S., Handa, Y., Goto, H., Sakai, K., Miyagawa, E., Matsui, H., et al. (2010). Molecular monitoring and isolation of previously uncultured bacterial strains from the sheep rumen. Appl. Environ. Microbiol. 76, 1887-1894.  
+
+Kristensen, S. (1974). Ruminal bioshynthesis of aromatic amino acids from arylacetic acids, glucose, shikimic acid and phenol. Br. J. Nutr. 31, 357-365. 
+Li, F., Yang, X. J., Cao, Y. C., Li, S. X., Yao, J. H., Li, Z. J., et al. (2014). Effects
+of dietary effective fiber to rumen degradable starch ratios on the risk of sub- acute ruminal acidosis and rumen content fatty acids composition in dairy goat. Anim. Feed Sci. Technol. 189, 54-62. 
+Liu, Q., Wang, C., Yang, W., Dong, Q., Dong, K., Huang, Y., et al. (2009). Effects of malic acid on rumen fermentation, urinary excretion of purine derivatives and feed digestibility in steers. Animal 3, 32-39. 
+Lu, Y. C., Yeh, W. C., and Ohashi, P. S. (2008). LPS/TLR4 signal transduction pathway. Cytokine 42, 145-151. 
+Mackie, R. I., Aminov, R. I., Hu, W., Klieve, A. V., Ouwerkerk, D., Sundset, M. A., et al. (2003). Ecology of uncultivated Oscillospira species in the rumen of cattle, sheep, and reindeer as assessed by microscopy and molecular approaches. Appl. Environ. Microbiol. 69, 6808-6815. 
+Mao, S., Zhang, R., Wang, D., and Zhu, W. (2013). Impact of subacute ruminal acidosis (SARA) adaptation on rumen microbiota in dairy cattle using pyrosequencing. Anaerobe 24, 12-19. 
+Mao, S. Y., Huo, W. J., and Zhu, W. Y. (2016). Microbiome-metabolome analysis reveals unhealthy alterations in the composition and metabolism of ruminal microbiota with increasing dietary grain in a goat model. Environ. Microbiol. 18, 525-541. 
+Martel, C. A., Titgemeyer, E., Mamedova, L., and Bradford, B. (2011). Dietary molasses increases ruminal pH and enhances ruminal biohydrogenation during milk fat depression. J. Dairy Sci. 94, 3995-4004. 
+Michelsen, C. F., Pedas, P., Glaring, M. A., Schjoerring, J. K., and Stougaard, P. (2014). Bacterial diversity in Greenlandic soils as affected by potato cropping and inorganic versus organic fertilization. Polar Biol. 37, 61-71.  
+Mikelis, C. M., Simaan, M., Ando, K., Fukuhara, S., Sakurai, A., Amornphimoltham, P., et al. (2015). RhoA and ROCK mediate histamine- induced vascular leakage and anaphylactic  shock.  Nat.  Commun.  6:6725. 
+Nagaraja, T. G., and Titgemeyer, E. C. (2007). Ruminal acidosis in beef cattle: the current microbiological and nutritional outlook. J. Dairy Sci. 90(Suppl. 1), E17-E38. 
+Nagata, S. (1997). Apoptosis by death factor. Cell 88, 355-365.  
+Nilsson, S. A. (1963). Clinical, morphological, and experimental studies of laminitis in cattle. Acta Vet. Scand. 4(Suppl. 1):304.
+Oba, M., Mewis, J., and Zhining, Z. (2015). Effects of ruminal doses of sucrose, lactose, and corn starch on ruminal fermentation and expression of genes in ruminal epithelial cells. J. Dairy Sci. 98, 586-594. 
+Petri, R., Schwaiger, T., Penner, G., Beauchemin, K., Forster, R., McKinnon, J., et al. (2013). Changes in the rumen epimural bacterial diversity of beef cattle as affected by diet and induced ruminal acidosis. Appl. Environ. Microbiol. 79, 3744-3755. 
+Pitta, D. W., Kumar, S., Vecchiarelli, B., Shirley, D. J., Bittinger, K., Baker, L. D., et al. (2014). Temporal dynamics in the ruminal microbiome of dairy cows during the transition period. J. Anim. Sci. 92, 4014-4022.  
+Poulsen, M., Schwab, C., Jensen, B. B., Engberg, R. M., Spang, A., Canibe, N., et al. (2013). Methylotrophic methanogenic Thermoplasmata implicated in reduced methane emissions from bovine rumen. Nat. Commun. 4:1428.  
+Ribeiro, C., Karnati, S., and Eastridge, M. (2005). Biohydrogenation of fatty acids and digestibility of fresh alfalfa or alfalfa hay plus sucrose in continuous culture. J. Dairy Sci. 88, 4007-4017. 
+Russell, J. B., O'Connor, J. D., Fox, D. G., Van Soest, P. J., and Sniffen, C. J. (1992). A net carbohydrate and protein system for evaluating cattle diets: I. Ruminal fermentation. J. Anim. Sci. 70, 3551-3561.
+Saleem, F., Ametaj, B., Bouatra, S., Mandal, R., Zebeli, Q., Dunn, S., et al. (2012). A metabolomics approach to uncover the effects of grain diets on rumen health in dairy cows. J. Dairy Sci. 95, 6606-6623.  
+Seo, J., Park, T., Kwon, I., Piao, M., Lee, C., and Ha, J. K. (2013). Characterization of cellulolytic and xylanolytic enzymes of Bacillus licheniformis JK7 isolated from
+
+
+
+the rumen of a native Korean goat. Asian Australas. J. Anim. Sci. . 26, 50-58. 
+Slyter, L., Oltjen, R., Kern, D., and Weaver, J. (1968). Microbial species including ureolytic bacteria from the rumen of cattle fed purified diets. J. Nutr. 94, 185-192.
+Soriano, F. D., Polan, C. E., and Miller, C. N. (2000). Milk production and composition, rumen fermentation parameters, and grazing behavior of dairy cows supplemented with different forms and amounts of corn grain. J. Dairy Sci. 83, 1520-1529. 
+Strater, J., Wellisch, I., Riedl, S., Walczak, H., Koretz, K., Tandara, A., et al. (1997). CD95 (APO-1/Fas)-mediated apoptosis in colon epithelial cells: a possible role in ulcerative colitis. Gastroenterology 113, 160-167.  
+Sun, X., Wang, Y., Chen, B., and Zhao, X. (2015). Partially replacing cornstarch in a high-concentrate diet with sucrose inhibited the ruminal trans-10 biohydrogenation pathway in vitro by changing populations of specific bacteria. J. Anim. Sci. Biotechnol. 6:57. 
+Tao, S., Duanmu, Y., Dong, H., Ni, Y., Chen, J., Shen, X., et al. (2014a). High concentrate diet induced mucosal injuries by enhancing epithelial apoptosis and inflammatory response in the hindgut of goats. PLoS ONE 9:e111596.  
+Tao, S., Duanmu, Y., Dong, H., Tian, J., Ni, Y., and Zhao, R. (2014b). A high- concentrate diet induced colonic epithelial barrier disruption is associated with the activating of cell apoptosis in lactating goats. BMC Vet. Res. 10:235.  
+Taxis, T. M., Wolff, S., Gregg, S. J., Minton, N. O., Zhang, C., Dai, J., et al. (2015). The players may change but the game remains: network analyses of ruminal microbiomes suggest taxonomic differences mask functional similarity. Nucleic Acids Res. 43, 9600-9612. 
+Underwood, W. (1992). Rumen lactic acidosis: 1. Epidemiology and pathophysiology. Comp. Contin. Educ. Pract. Vet. 14, 1127-1133.
+Vallimont, J., Bargo, F., Cassidy, T., Luchini, N., Broderick, G., and Varga, G. (2004). Effects of replacing dietary starch with sucrose on ruminal fermentation
+
+and nitrogen metabolism in continuous culture. J. Dairy Sci. 87, 4221-4229. 
+Wojdasiewicz, P., Poniatowski, L.  A.,  and  Szukiewicz,  D.  (2014).  The  role  of  inflammatory  and  anti-inflammatory   cytokines   in   the   pathogenesis  of osteoarthritis. Mediat.  Inflamm.  2014:561459.    
+Yanagita, K., Manome, A., Meng, X.-Y., Hanada, S., Kanagawa, T., Tsuchida, T., et al. (2003). Flow cytometric sorting, phylogenetic analysis and in situ detection of Oscillospira guillermondii, a large, morphologically conspicuous but uncultured ruminal bacterium. Int. J. Syst. Evol. Microbiol. 53, 1609-1614. 
+Zebeli, Q., and Metzler-Zebeli, B. U. (2012). Interplay between rumen digestive disorders and diet-induced inflammation in dairy cattle. Res. Vet. Sci. 93, 1099-1108. 
+Zhao, L., Meng, Q., Ren, L., Liu, W., Zhang, X.,  Huo,  Y.,  et  al.  (2015).  Effects of nitrate addition on rumen fermentation, bacterial biodiversity and abundance. Asian Australas. J. Anim. Sci. 28, 1433-1441.  
+Zhou, Z., Yu, Z., and Meng, Q. (2012). Effects of nitrate on methane production, fermentation, and microbial populations in in vitro ruminal cultures. Bioresour. Technol. 103, 173-179. 
+
+Conflict of Interest Statement: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Copyright (c) 2017 Hua, Tian,  Tian,  Cong, Luo, Geng, Tao,  Ni  and Zhao. This    is an open-access article distributed under the terms of the   . The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.

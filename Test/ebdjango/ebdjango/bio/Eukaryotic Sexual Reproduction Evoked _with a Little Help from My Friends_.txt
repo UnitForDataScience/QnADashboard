@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+  .
+ .
+ .
+
+ .
+   .
+ .
+
+
+  .
+   .
+
+
+
+
+
+
+Eukaryotic Sexual Reproduction
+Evoked ''with a Little Help from My Friends''
+James Umen,Ursula Goodenough,and Joseph Heitman
+1Donald Danforth Plant Science Center, 975 North Warson Road, St. Louis, MO 63132, USA
+2Department of Biology, Washington University, St. Louis, MO 63130, USA
+3Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, NC 27710, USA
+*Correspondence:  
+
+Bacteria and eukaryotes interact in many ways--from the microbiome that educates the mamma- lian immune system and enhances nutrition to relationships that are commensal, symbiotic, or parasitic. Now in an unexpected twist, King and colleagues have expanded the repertoire of pro- karyotic influence over eukaryotic physiology to include mating.
+
+
+
+While sexual reproduction is nearly uni- versal across  the  eukaryotic  tree  of life, when, where, and how a given spe- cies engages in sex is often mysterious, particularly for unicellular species that encompass a wide swath of eukaryotic phylogenetic diversity. Genomic analysis has suggested sexual cycles for myriad eukaryotic organisms, and population studies increasingly  provide  evidence for recombination in nature, and yet  there is a dearth of studies where cells are observed in flagrante under defined laboratory conditions. A multitude of fac- tors can influence sexual reproduction of fungi and algae, including pheromones, light/darkness, moisture, nutrient levels, temperature, and  carbon  dioxide.  In this issue of Cell, Woznica et al. expand this repertoire and report that a bacte- rium releases a factor that markedly stimulates eukaryotic sexual repro- duction, illustrating an example of a microbial ''aphrodisiac'' that operates across kingdoms () ().
+
+
+Choanoflagellates are fascinating eu- karyotic aquatic microorganisms that serve as invaluable pre-metazoan models for illuminating key aspects of animal evolution, including the transition to multicellularity. Several years ago the genome was sequenced for the choano- flagellate Salpingoaca rosetta ( ), and a sexual cycle was sub- sequently discovered--although it proved difficult to induce with high efficiency (). King and col- leagues now report that a marine bacte- rium produces an activity that dramati- cally stimulates sexual reproduction of
+S. rosetta, a discovery that elucidates a mode of bacterium-eukaryote communi- cation ().
+The study began with the observation that co-culture with the marine bacterium Vibrio fischeri elicits swarming of
+S. rosetta; from this, the authors infer that the bacteria might be stimulating mating (). Indeed, they report that swarming is followed by pairwise  cell fusion and then nuclear fusion to pro-
+
+
+duce diploids. Some of the diploids then undergo meiosis to generate genetically recombinant progeny, the signature outcome of a full-fledged sexual liaison. Remarkably, the purified aphrodisiac activity is not a small molecule nor a hor- mone, but an ~90 kd protein, chondroiti- nase. This enzyme's glycosaminoglycan (GAG) lyase activity is shown to be essen- tial for inducing S. rosetta to mate, a protein evocatively named EroS for extra- cellular regulator of sex. The next step--a search  for  predicted  EroS  substrates in
+S. rosetta--led to the identification of chondroitin among the polysaccharides produced by S. rosetta, as well as genes encoding predicted enzymes of chon- droitin biosynthesis in its genome. Finally, it is observed that V. fischeri induces
+S. rosetta mating at bacterial cell concen- trations that are similar to those found in natural ocean environments. Beyond the inherent fascination of these findings, they will facilitate the genetic analysis of
+S. rosetta and will permit studies on cell biological aspects of the choanoflagellate
+
+
+Cell 170, September 7, 2017 a 2017 Elsevier Inc. 1059
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Transkingdom Interactions Stimulate a Eukaryotic Sexual Cycle
+The bacterium V. fischeri secretes an aphrodisiac, EroS, which stimulates swarming and sexual reproduction of the choanoflagellate eukaryotic microbe
+S. rosetta. Nuclei in the haploid phase (denoted as 1N) prior to mating are colored solid blue and green. The two haploid cells fuse, resulting in a diploid cell (denoted as 2N) after nuclear fusion. Meiosis and recombination then produces haploid progeny carrying a genetic mixture of the parental haploids (denoted as blue and green). (We thank Shelby Priest for her efforts in generating this illustration).
+
+
+
+sexual cycle. Curiously, the stimulatory effects of EroS on mating are not observed in other choanoflagellate spe- cies, suggesting that this mode of communication is evolvable.
+As with all impactful discoveries, many additional questions arise. What is the nature of the swarming behavior induced by EroS? Is it a motility behavior change, increased adhesion between cells, or both? How are the mating partners estab- lished from an initially clonal population, and if this occurs via some type of epige- netic switch, how is it triggered so rapidly? Or, are the two sexes or mating types already cryptically present in popu- lations of non-mating cells and unmasked by treatment with EroS? Are choanofla- gellates strictly dependent on bacteria  for efficient sexual reproduction, or can they produce their own type of sex inducer, perhaps in response to different conditions? Do candidate chondroitin lyase genes encoded by S. rosetta feature in an endogenous sex-inducing pathway? Does mating in response to the chondroi- tinase-excreting bacteria benefit the choanoflagellate, and if so, how? Might the diploid phase of S. rosetta be resistant to the degradative effects of chondroiti- nases, making sex a bacterial resistance mechanism? Reciprocally, do the bacte- ria benefit from inducing S. rosetta sexu- ality? Perhaps V. fischeri survival is favored by reduced capture rates when
+S.  rosetta,  a  ravenous  bacterial phago-
+
+
+phore, is engaged in mating or is in its diploid phase. Finally, what is the physio- logical target of EroS, and how does deglycosylation trigger swarming and mating?
+Notably, the bacterium that stimulates choanoflagellate sexual reproduction  has quite literally illuminated other important  discoveries.  Early  studies  on
+V. fischeri bioluminescence contributed to the discovery of quorum sensing (), the process by which bacteria communicate with each other via secreted signals. Moreover,
+V. fischeri engages in a symbiotic rela- tionship with the Hawaiian bobtail squid, Euprymana scolopes, in which the bacte- rium resides within the light organs of the animal host (). The squid is thereby enabled to produce light as camouflage to eliminate its seabed shadow and elude predators, while the bacterium is sequestered in a compart- ment sheltered from the vicissitudes of the sea.
+Transkingdom interactions involving eukaryotes have intriguing precedents. For instance, bacteria and fungi are co- resident with many tissues of animals, including the skin, the oropharynx, and the gastrointestinal tract, and can form mixed transkingdom species biofilms (). Peptido- glycan shed by bacteria can be sensed by the human fungal pathogen Candida albicans, promoting its transition from
+
+
+cellular yeast to  invasive  hyphae  (  ). In an example of mutualism, the proliferation of a marine diatom,
+P. multiseries, is stimulated by bacteri- ally produced factors present in its envi- ronment; reciprocally, these bacteria feed off of organo-sulfur compounds secreted by the diatom (). Whether bacteria might stimulate sexual cycles of fungi, algae, or other eukaryotic microbes is  not  yet  known. A plethora of genome sequencing pro- jects document conservation of the ''meiotic toolkit'' in  eukaryotes  that  have yet to be observed  undergoing  sex (). Perhaps in some cases the key missing ingredients are their native bac- terial co-habitants--in which case they may display sexual behavior in the labo- ratory when co-cultured with other mi- croorganisms, provisioned with ''a little help from my friends.''
+
+
+REFERENCES
+
+
+.
+   .
+ .
+
+
+1060 Cell 170, September 7, 2017
+
+
+
+
+
+
+
+
+
+
+ .
+  .
+.
+
+ .
+
+  .
+
+  .
+
+ .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cell 170, September 7, 2017 1061

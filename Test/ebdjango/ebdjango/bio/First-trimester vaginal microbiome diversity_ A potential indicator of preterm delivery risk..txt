@@ -1,0 +1,269 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Received: 29 June 2017
+
+OPEN
+
+First-trimester vaginal microbiome diversity: A potential indicator of preterm delivery risk
+Mohammed Monzoorul Haque, Mitali Merchant, Pinna Nishal Kumar, Anirban Dutta &
+
+Accepted: 10 November 2017 Published: xx xx xxxx
+
+Sharmila S. Mande
+
+Preterm birth is a leading cause of global neonate mortality. Hospitalization costs associated with preterm deliveries present a huge economic burden. Existing physical/biochemical markers for predicting preterm birth risk are mostly suited for application at mid/late pregnancy stages, thereby leaving very short time (between diagnosis and delivery) for adopting appropriate intervention strategies. Recent studies indicating correlations between pre/full-term delivery and the composition of vaginal microbiota in pregnant women have opened new diagnostic possibilities. In this study, we performed a thorough meta-analysis of vaginal microbiome datasets to evaluate the utility of popular diversity and inequality measures for predicting, at an early stage, the risk of preterm delivery. Results indicate significant differences (in diversity measures) between 'first-trimester' vaginal microbiomes obtained from women with term and preterm outcomes, indicating the potential diagnostic utility
+of these measures. In this context, we introduce a novel diversity metric that has significantly better diagnostic ability as compared to established diversity measures. The metric enables 'early' and highly accurate prediction of preterm delivery outcomes, and can potentially be deployed in clinical settings for preterm birth risk-assessment. Our findings have potentially far reaching implications in the fight against neonatal deaths due to preterm birth.
+
+
+Technological advances in medical diagnostics and therapeutics in the last decade have greatly reduced the bur- den of several life-threatening diseases affecting young children. The Millennium Development Goals (MDG) report released by UN in 2015 indicates significant reduction in the incidence rates of malaria, tuberculosis, measles, and AIDS in the last 15 years. However, amidst these encouraging signs of improvement, the report highlights that a majority of deaths in children (under 5) occur within the first 28 days of life (i.e. the neonatal period). Complications arising due to preterm births are indicated as the single largest contributor to neonatal deaths,. Surprisingly, in comparison to the decrease in incidence rates of other diseases across the globe, the rate of preterm births has remained more or less constant, irrespective of a country's economic status. For instance, in 2014, the rate of preterm births in US stood at 9.6%, which is quite comparable to the rate (~12%) tracked in countries from the developing world (Brazil, India, and Nigeria). Overall, these trends highlight the urgent need for greater international attention on developing improved methods for diagnosis, prevention, and management of preterm births.
+The entire cascade of patho-physiologic events that cause a preterm delivery (PTD) is not completely under- stood till date. Genetic predisposition, maternal risk factors (e.g., age, smoking, alcohol intake, reproductive his- tory), urinary tract infections, intrauterine infections, etc., are typically associated with increased PTD risk. Given the variety of predisposing factors that contribute to an increased PTD risk,, there exist intervention approaches that can potentially promote a healthy full-term gestation outcome,. However, the success of these intervention approaches is dependent on identification of high-risk subjects as early as possible during pregnancy. Given this context, diagnostic markers (physical and/or biochemical) that can accurately indicate, at an early stage of preg- nancy, the possibility of progression towards a preterm delivery outcome assume a lot of significance,. Figure  provides an overview of approaches (and few commercial in vitro diagnostic offerings) used for determining PTD risk. Given below is a summary of various methods depicted in Fig. .
+Briefly, general factors considered for 'risk scoring' include ethnicity, socio-economic status, periodontal health, blood pressure, weight, diabetes, smoking, alcohol consumption, inter-pregnancy duration, etc.,-.
+
+Bio-Sciences R&D Division, TCS Research, Tata Consultancy Services Ltd., Pune, 411013, India. Correspondence and
+requests for materials should be addressed to S.S.M. (email: )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. An overview of approaches (and few commercial IVDs i.e. in vitro diagnostic offerings) that are used for determining preterm delivery risk.
+
+The clinical predictive values of the stated factors are however quite limited. Pathologic manifestations such as bacterial vaginosis or urinary tract infections during pregnancy, unless properly addressed, are also known to adversely impact pregnancy outcome in most cases-. Several studies have also investigated associations between 'physical markers' (e.g. cervical length, uterine artery pulsatility index, etc.) and the eventual pregnancy outcome (term or preterm),. Most studies indicate cervical length shortening in the second trimester of preg- nancy to be associated with higher risk of spontaneous preterm birth,-. More than its utility in indicating an impending preterm birth outcome, cervical length appears to have a good negative predictive value. CerviLenz is a commercially available device that finds utility in measurement of cervical length.
+A few biochemical markers identified from cervico-vaginal secretions, amniotic fluid, urine, saliva, serum, and plasma also find utility in assessment of premature delivery risk (Fig. ). These include inflammation markers like cervical IL-6, serum C-reactive protein (CRP), and other proteins like fetal fibronectin, b-hCG, placental a-microblobulin etc.,-. Amongst these, fetal fibronectin (Ffn) has been reported to be the most effective marker, having more than 60% sensitivity in predicting spontaneous preterm births, based on sampling done during ~22-24 weeks of gestation,. Inflammation markers like IL-6, tested at a similar time-period during pregnancy, can also predict an impending preterm delivery, albeit with lesser sensitivity,. On the other hand, hormonal markers like b-hCG have been reported to predict spontaneous preterm birth outcomes with high sen- sitivity, but are applicable only during late stages of pregnancy (~34 weeks of gestation),. Some recently devel- oped in vitro diagnostic tests rely on comprehensive proteomic and metabolomic analyses of biological samples (blood, amniotic fluid, etc.) and combine multiple risk predictors in order to increase sensitivity of prediction. For example, while a test offered by SERA prognostics provides risk assessment based on the detected levels of two blood proteins (viz. SHBG & IBP4),, another test offered by Metabolon relies on a metabolomic analysis of the amniotic fluid. It is likely that high costs and limited accuracy (~60-80%) of the methods depicted in Fig.  deter gynaecologists and public health organisations from recommending routine (wide-spread) clinical usage. The false positive prediction rates of depicted methods also remain high,. Even a single false prediction will needlessly subject a pregnant woman to unnecessary mental turmoil, whilst also incurring personal/state-funded diagnostic and monitoring costs.
+In a significant shift from physical and/or biochemical diagnostic markers, a few recent studies have indicated the potential of employing characteristics of vaginal microbial communities (in pregnant women) as a diagnostic marker for predicting pre/full term outcomes,-. Observations indicate that taxonomic profiles derived from vaginal microbiomes of preterm subjects tend to cluster as a somewhat distinct group (typically referred to as CST viz., community state type). The consistent presence of species belonging to known bacterial pathogens such as Gardenerella, Atopobium, Ureaplasma, etc., (with certain abundance) in samples grouping into a preterm delivery associated CST, has fuelled a lot of research focus in this direction. Reports from these efforts also indicate subtle differences in alpha-diversity metrics (particularly with respect to species diversity and evenness measures) between taxonomic profiles obtained from vaginal microbiome samples taken from preterm and full-term subjects,.
+In this study, we performed a systematic analysis of taxonomic diversity profiles corresponding to 1621 pub- licly available vaginal microbiomes (sampled from 303 pregnant women) pooled from four recent studies,,,. Table provides details of the four studies. The aim was to understand and investigate temporal differences, if any, between the community structures of vaginal microbiomes sampled from pregnant women during various stages of their pregnancy. Further, suitable experiments were designed for evaluating and comparing the effi- ciency of various diversity measures in differentiating between vaginal microbiomes sampled from pregnant women with reported "term" or "preterm" delivery outcomes. The overall objective of this study was to obtain a possible answer for the following question. Are there potential (temporal) signatures in the microbial community structure of vaginal samples (in pregnant women) that can indicate predisposition to preterm birth?
+
+
+
+Table 1. Details of microbiome studies considered in the present analysis. Only those microbiome samples were considered that had at least 500 taxonomically assigned sequences and were collected from pregnant women within 40 weeks of gestation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Shannon diversity trends across the 15 temporally overlapping groups for the evaluated 'term' and 'preterm' samples. Results indicate that women with preterm delivery outcomes tend to have lesser diversity in their vaginal microbiome during their first 15-20 weeks of pregnancy as compared to women with term delivery outcomes.
+
+
+Results and Discussion
+Changes in vaginal microbiome diversity across various stages of pregnancy were first evaluated using Shannon diversity,as a metric. In order to obtain a clear picture of microbial community transition at various time points in pregnancy, and to minimize the effects of outliers, taxonomic profiles corresponding to 1621 samples pooled from 4 studies (Table ) were divided into 15 overlapping week-wise groups. Shannon diversity values of each of the samples were computed using their respective taxonomic abundance profiles. Figure depicts the Shannon diversity trends across the 15 temporally overlapping groups for the evaluated 'term' and 'preterm' samples. Results indicate that women with preterm delivery outcomes tend to have lesser diversity in their vaginal microbiome during their first 15-20 weeks of pregnancy as compared to women with term delivery outcomes. After approximately 20 weeks of pregnancy, the vaginal microbiome diversity in case of both term and preterm outcomes appear to converge and remain more or less stable in the remaining weeks of pregnancy.
+The observed temporal differences (with respect to Shannon diversity) between microbial communities in vaginal samples taken from subjects with term or preterm delivery outcomes indicate the possibility of employ- ing a suitable diversity metric that can effectively capture the microbial community structure (in early weeks of pregnancy) and can therefore be potentially employed as a screening/diagnostic marker for predicting preterm delivery risk. Given this context, the following experiments were performed with the objective of evaluating and comparing the capability of various existing diversity measures (including Shannon diversity) in predicting pregnancy delivery outcomes (term or preterm) from a taxonomic profile corresponding to a sampled vaginal microbiome.
+All available microbiomes were segregated into 33 week-wise groups. Group 'WeekN' comprised of all vaginal microbiomes that were sampled at any time-point on or before the Nth week of pregnancy (N ranging between 8-40). Microbiomes in each group were labelled into classes 'Term' or 'PTD', denoting (reported) 'full-term' or 'preterm' delivery outcome respectively. Besides Shannon diversity, other widely used/reported alpha diversity indices, viz., Chao1 and Simpson, denoting species richness and evenness respectively-, were computed for taxonomic profiles corresponding to microbiomes in all groups. Given that vaginal microbiomes have an over- whelming predominance of microbial species belonging to Lactobacillus, with other taxa playing the minority role (as the 'tail'), microbial abundance distribution (upon ordering) resembles a highly skewed Lorenz curve (analogous to inequitable distribution of wealth in human populations). Keeping this in mind, statistical meas- ures of inequality, viz., Gini, Atkinson, Theil, Decile ratios, and Ricci-Schutz indices were also computed for individual taxonomic profiles of all vaginal microbiomes-. For each group, the diagnostic value (ability)
+
+
+of individual indices to differentiate between term and PTD outcomes was estimated in terms of Mathews Correlation Coefficient (MCC), a measure that captures both specificity and sensitivity (details in methods sec- tion), at a threshold value that best separates the compared classes. 'Extent of Segregation' (ES), an additional feature (Supplementary Figure 1) that quantifies the differentiating capability of a metric was also computed in order to evaluate metrics achieving a perfect MCC value of 1 (i.e. complete separation between case and con- trol samples). In addition to the mentioned diversity and inequality metrics, we also computed 'Taxonomic Composition Skew' (TCS), a novel metric, for all samples. Supplementary Information provides a brief back- ground that places TCS metric in the context of other existing diversity and inequality metrics, and the method- ology adopted for computing TCS (along with a worked-out example).
+Results depicted in Table indicate that all evaluated diversity and inequality measures obtain positive MCC values. This clearly indicates significant differences (in taxonomic diversity) between vaginal microbiome samples obtained from women with term or PTD outcomes. Interestingly, these differences are observed to be more pro- nounced in (approximately) the first trimester of pregnancy (<15 gestation weeks). With increasing gestational age, the MCC values for various indices progressively decrease, but still remain above a value of 0.25. Although this indicates that diversity and inequality measures (in the late second and third trimesters of pregnancy) exhibit contrasting trends between term and PTD cases at a population level, their utility in subject-specific risk assess- ment appears to be limited. Amongst the compared indices, TCS is observed to outperform others, with the dif- ference appearing more prominent until 15-20 weeks of gestation (Table ). A statistical comparison (employing Wilcoxon signed rank test) indicates that MCC values obtained using TCS (until 20th week of pregnancy) are sig- nificantly higher (Benjamini-Hochberg corrected p-values < 0.008) than that obtained using other diversity and inequality measures. Furthermore, TCS is observed to obtain perfect MCC values of 1 (until Week-10), thereby indicating that a vaginal microbiome sample (obtained from a subject at any time point in pregnancy on or before the 10th gestation week) can be employed for accurately diagnosing/predicting the risk of a preterm delivery out- come while avoiding false alarms. Even when samples obtained on or before 20th gestation week were considered, TCS could provide an MCC value of 0.823, indicating sufficiently high sensitivity and specificity of prediction. A comparison of 'Extent of Segregation' (ES) values obtained for various metrics also indicates that ES provided by TCS is significantly higher (Wilcoxon signed rank test, Benjamini-Hochberg corrected p-values< 0.005) than that obtained with other metrics. Higher ES values indicate increased confidence with respect to the differentiat- ing capability of the metric.
+Results obtained using microbiome datasets cumulated from all 4 studies indicate existence of differences
+in vaginal microbial community structures (during the first 15-20 weeks of pregnancy) in pregnant subjects with term and preterm delivery outcomes. However, with increasing gestation age, these (diversity) differences are observed to become less pronounced. In order to assess whether these differences in term and preterm vag- inal microbial communities (in the "early" stages of pregnancy) remain consistent between individual studies and across datasets sampled from women with diverse ethnicities, suitable internal and external cross-validation experiments were designed and performed in the following manner.
+Internal cross-validation experiments were performed using vaginal microbiome taxonomic profiles corre- sponding to two sets of samples belonging to study 1, which was the largest amongst the four studies in terms of number of samples (Table ). The two sets comprised of samples that were obtained during the first 15 weeks (set 1) and the first 20 weeks (set 2) of pregnancy, respectively. In each set, two-thirds of samples were ran- domly selected and used as a 'training corpus' for determining an optimal threshold value of TCS metric that would provide maximal separation (quantified in terms of MCC) between the microbiome samples correspond- ing to preterm (case) delivery and term (control) delivery outcomes. The efficiency of the determined "thresh- old" value (in predicting pregnancy outcome) was subsequently evaluated using the corresponding 'test corpus', which comprised of data pertaining to the remaining one-third of the microbiome samples. In each set, the above cross validation procedure was iterated 1000 times. During each of these iterations, the ability of the determined "threshold" TCS value to differentiate between microbiome samples (of respective test corpus) corresponding to cases (preterm) and controls (term) was evaluated in terms of six parameters, namely, accuracy, sensitivity, spec- ificity, positive predictive value (PPV), negative predictive value (NPV), and Matthews's correlation coefficient (MCC). For the purpose of comparison, all other diversity and inequality metrics were also subjected to the same internal cross-validation exercise.
+Results, in terms of six evaluation parameters (mentioned above), obtained across 1000 iterations of testing
+are summarized in Tables and . Mean values of the evaluation parameters (along with respective standard deviations) generated from set 1, as well as, set 2 are depicted in Tables and , respectively. Results in these tables are observed to concur with earlier observations depicted in Table . Diversity of microbial communities indeed appears to be a good indicator of pregnancy outcome. Amongst the compared metrics, TCS is observed to have better prediction efficiency and a good balance between specificity and sensitivity of prediction (which is also reflected in the MCC values). A statistical comparison of evaluation parameter values obtained (across 1000 iterations) using TCS metric with those obtained using other metrics for both subsets of (testing corpus) samples are further provided in Tables and respectively. As evident from the data shown in these tables, in majority of cases, TCS obtains significantly higher values of accuracy, sensitivity, specificity, PPV, NPV, and MCC, thereby clearly indicating its potential utility in accurately diagnosing/predicting the risk of the preterm delivery from vaginal microbiome samples in the early stages (i.e. first 15-20 weeks) of pregnancy.
+To further evaluate the robustness of diversity metrics (with respect to their differentiating capability between term and preterm pregnancy outcomes) across studies/ethnicities, the following external validation experiment was performed. Mean thresholds of various metrics (including TCS) obtained during the internal cross-validation experiments (performed using data from Study 1) were employed to check their applicability with microbiome data collected from the other three studies, viz. Studies 2, 3, and 4 (considering them as external validation data). In the current scenario, external validation data should ideally comprise of vaginal microbiome samples taken
+
+
+
+Table 2. Capability of various diversity indices and inequality measures in differentiating between vaginal microbiome samples corresponding to term and preterm delivery outcomes. *At each gestation week, the best attained MCC value is indicated in bold face font. A higher MCC value indicates that the metric is able to
+better differentiate between microbiome samples corresponding to term and preterm delivery outcomes. In cases where a threshold diversity/inequality value could completely differentiate/segregate between samples corresponding to term and preterm delivery outcomes (i.e. MCC =+1), the extent of segregation (ES) is indicated in brackets. A higher ES value indicates relatively better separation between the two groups of samples (term and preterm).
+
+
+from pregnant women from a different geography or ethnicity. Although, studies 2 and 3 comprise of samples obtained from American women (similar to that of Study 1), data from these studies have differences with respect to racial distribution of the subject cohort, experimental protocols, and the 16 S variable regions sequenced,. In an absolute contrast, the external validation data also comprises data from Study 4, wherein samples were obtained from Chinese subjects. Results of external validation are provided in Tables and . Similar to the internal cross-validation experiments, external validation was also performed for two subsets of samples using data cumulated till 15 weeks and 20 weeks, respectively. Results, with respect to all six evaluation parameters (viz. accuracy, sensitivity, specificity, PPV, NPV, and MCC), clearly indicate and lend support to the hypothesis regard- ing distinct differences between vaginal microbial community structure (in early stages of pregnancy) between women with term and preterm delivery outcomes. More so, this hypothesis appears to hold true irrespective of the ethnicity/geography. Results also confirm the relatively better efficiency of TCS metric (compared to other diversity metrics) in capturing the community level differences prevalent in vaginal microbiomes (in the first 15-20 weeks of pregnancy).
+
+
+
+Table 3. Results of internal cross-validation experiments providing a comparison of the efficiency of the various evaluated diversity and inequality metrics in predicting a preterm delivery outcome. These experiments were performed using vaginal microbiome samples obtained before 15 weeks of gestation. Mean (and standard deviation) values of the six evaluation parameters obtained across 1000 iterations of cross-validation are provided. Benjamini-Hochberg corrected p-values indicating the relatively better efficiency of the TCS metric as compared to other metrics (Wilcoxon paired rank sum test) are also indicated in italics.
+
+
+Table 4. Results of internal cross-validation experiments providing a comparison of the efficiency of the various evaluated diversity and inequality metrics in predicting a preterm delivery outcome. These experiments were performed using vaginal microbiome samples obtained before 20 weeks of gestation. Mean (and standard deviation) values of the six evaluation parameters obtained across 1000 iterations of cross-validation are provided. Benjamini-Hochberg corrected p-values indicating the relatively better efficiency of the TCS metric as compared to other metrics (Wilcoxon paired rank sum test) are also indicated in italics.
+
+
+It is pertinent to mention here that the number of microbiome samples corresponding to preterm delivery out- come that could be collated for this study were limited. Availability of data from other ethnicities and geogra- phies (besides US and China) would be essential for a more robust statistical validation of the above findings. It is expected that more data will become available in the coming years as interest in this field grows, allowing for a more comprehensive and statistically revealing meta-analysis. Furthermore, the concept of microbiome based diagnostics is still in its infancy, and translating the findings of this study to a clinical setting will have its own set of challenges.
+
+
+
+Table 5. Results of external validation experiments providing a comparison of the efficiency of the various evaluated diversity and inequality metrics in predicting a preterm delivery outcome. These experiments were performed using vaginal microbiome samples obtained before 15 weeks of gestation (from studies 2, 3, and 4).
+
+
+
+Table 6. Results of external validation experiments providing a comparison of the efficiency of the various evaluated diversity and inequality metrics in predicting a preterm delivery outcome. These experiments were performed using vaginal microbiome samples obtained before 20 weeks of gestation (from studies 2, 3, and 4).
+
+
+Conclusion
+The capability to 'accurately' predict a preterm delivery outcome, right in the first trimester of pregnancy, enables the following. Primarily, early prediction allows application/administration of available physical and/or pharma- cological interventions (either prophylactic or therapeutic) to the concerned subject, with an aim of reducing/ completely obviating the impending risk. Moreover, it helps in initiating monitoring/surveillance of the con- cerned subject and suitably enhancing levels of antenatal care. On a different note, early and (more importantly) 'accurate' prediction also finds application in identifying/recruiting a cohort of high-risk subjects willing to par- ticipate in clinical trials of novel intervention techniques that reduce the risk of preterm delivery outcomes and associated complications.
+In summary, this work explores and validates the utility of vaginal microbiome diversity in enabling 'early' prediction of preterm delivery outcomes. This work also introduces a novel diversity metric (TCS) that can accu- rately predict a preterm delivery outcome, as early as in the first trimester of pregnancy. Validation results indi- cate the potential utility of employing TCS metric in a clinical diagnostic setting (for accurate preterm birth risk assessment). We anticipate that the presented findings have far reaching implications in the fight against neonate mortality resulting due to preterm births.
+Methods
+OTU level taxonomic profiles (Greengenes OTUs version 13.5, clustered at 97% identity) corresponding to vag- inal microbiome samples from four studies,,,were obtained. Alpha diversity (Shannon, Simpson, Chao1) and inequality measures (Gini-coefficient, Ricci-Schutz, Atkinson, Theil, and Decile ratio) corresponding to the taxonomic profiles were calculated using R packages vegan (v2.0-10) and ineq (v0.2-13), respectively. In addi- tion, the skew in abundances of different microbial groups in the taxonomic profiles was computed using the novel metric - TCS (details in Supplementary information). Evaluation parameters, viz. MCC, AUC, specificity, sensitivity, accuracy, PPV and NPV were calculated using R packages - ROCR, cross val v.1.0.3, and pROC. Matthews Correlation Coefficient (MCC), a measure that captures both specificity and sensitivity of prediction/ classification using a selected threshold value of the index under consideration, was computed using the equation below.
+MCC = 	TP x TN - FP x FN	
+(TP + FP)(TP + FN)(TN + FP)(TN + FN)	(1)
+Wherein, TP, TN, FP, and FN represent the number of true-positive predictions, true-negative predictions, false-positive predictions, and false-negative predictions, respectively. A perfect MCC value of +1 indicates com- plete separation between the microbiome samples corresponding to the preterm delivery and the term delivery. Other evaluation parameters were calculated from the generated confusion matrices using the following formulae (equations -):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Example depicting calculation of extent of segregation (ES), indicating how ES captures the discriminating ability of a metric used for binary classification of microbiome samples. A higher ES value indicates a better separation between the two groups of samples.
+
+
+
+Accuracy = (TP + TN)/(TP + TN + FP + FN)	(2)
+
+Sensitivity = TP/(TP + FN)	(3)
+
+Specificity = TN/(TN + FP)	(4)
+
+PPV = TP/(TP + FP)	(5)
+
+NPV = TN/(TN + FN)	(6)
+The extent of segregation (ES), an additional feature that quantifies the differentiating capability of various metrics evaluated in the present study was computed using the following equation.
+
+
+Extent of Segregation (ES) =
+
+Wherein,
+
+min[d(max DTD, minDPTD), d (max DPTD, minDTD)] max[d(max DTD, minDPTD), d (max DPTD, minDTD)]
+
+
+x 100
+
+
+(7)
+
+DTD- set of values calculated for a given diversity/inequality metric for all samples corresponding to term delivery outcomes.
+DPTD- set of values calculated for a given diversity/inequality metric for all samples corresponding to preterm delivery outcomes.
+d (max DTD, min DPTD) - absolute difference between the maximum value of the set DTD and the minimum value of the set DPTD.
+d (max DPTD, min DTD) - absolute difference between the maximum value of the set DPTD and the minimum value of the set DTD.
+A higher ES value indicates a better separation between the two groups of microbiome samples. Figure dia- grammatically depicts an example of calculation of extent of segregation (ES), and indicates how ES captures the discriminating ability of an ecological-diversity or an economic-inequality metric.
+References
+Liu, L. et al. Global, regional, and national causes of child mortality in 2000-13, with projections to inform post-2015 priorities: an updated systematic analysis. The Lancet 385, 430-440 (2015).
+United Nations Millennium Development Goals. Available at: (Accessed: 22nd August 2017).
+Blencowe, H. et al. Born Too Soon: The global epidemiology of 15 million preterm births. Reprod. Health 10, S2 (2013).
+Blencowe, H. et al. National, regional, and worldwide estimates of preterm birth rates in the year 2010 with time trends since 1990 for selected countries: a systematic analysis and implications. Lancet Lond. Engl. 379, 2162-2172 (2012).
+Premature birth report card | March of Dimes. Available at:  (Accessed: 22nd August 2017).
+Romero, R., Dey, S. K. & Fisher, S. J. Preterm labor: One syndrome, many causes. Science 345, 760-765 (2014).
+Goldenberg, R. L., Culhane, J. F., Iams, J. D. & Romero, R. Epidemiology and causes of preterm birth. Lancet Lond. Engl. 371, 75-84 (2008).
+
+
+Newnham, J. P. et al. Strategies to Prevent Preterm Birth. Front. Immunol. 5 (2014).
+Honest, H. et al. Screening to prevent spontaneous preterm birth: systematic reviews of accuracy and effectiveness literature with economic modelling. Health Technol. Assess. Winch. Engl. 13, 1-627 (2009).
+Chan, R. L. Biochemical Markers of Spontaneous Preterm Birth in Asymptomatic Women. BioMed Research International, (2014).
+Georgiou, H. M., Di Quinzio, M. K. W., Permezel, M. & Brennecke, S. P. Predicting Preterm Labour: Current Status and Future Prospects. Disease Markers, (2015).
+Kock, K., Kock, F., Klein, K., Bancher-Todesca, D. & Helmer, H. Diabetes mellitus and the risk of preterm birth with regard to the risk of spontaneous preterm birth. J. Matern.-Fetal Neonatal Med. 23, 1004-1008 (2010).
+Albertsen, K., Andersen, A.-M. N., Olsen, J. & Gronbaek, M. Alcohol Consumption during Pregnancy and the Risk of Preterm Delivery. Am. J. Epidemiol. 159, 155-161 (2004).
+Saini, R., Saini, S. & Saini, S. R. Periodontitis: A risk for delivery of premature labor and low-birth-weight infants. J. Nat. Sci. Biol. Med. 1, 40-42 (2010).
+Nelson, D. B. et al. Early Pregnancy Changes in Bacterial Vaginosis-Associated Bacteria and Preterm Delivery. Paediatr. Perinat. Epidemiol. 28, 88-96 (2014).
+Krauss-Silva, L. et al. Basic vaginal pH, bacterial vaginosis and aerobic vaginitis: prevalence in early pregnancy and risk of spontaneous preterm delivery, a prospective study in a low socioeconomic and multiethnic South American population. BMC Pregnancy Childbirth 14, 107 (2014).
+Durga, K. P., Aruna, G. & Sugeetha, G. N. Study of association of bacterial vaginosis in preterm labor and fetal outcome. (2015).
+Haahr, T. et al. Treatment of bacterial vaginosis in pregnancy in order to reduce the risk of spontaneous preterm delivery - a clinical recommendation. Acta Obstet. Gynecol. Scand. 95, 850-860 (2016).
+Lim, K. et al. Ultrasonographic Cervical Length Assessment in Predicting Preterm Birth in Singleton Pregnancies. J. Obstet. Gynaecol. Can. 33, 486-499 (2011).
+Yu, C. K. H. et al. Prediction of pre-eclampsia by uterine artery Doppler imaging: relationship to gestational age at delivery and small-for-gestational age. Ultrasound Obstet. Gynecol. Off. J. Int. Soc. Ultrasound Obstet. Gynecol. 31, 310-313 (2008).
+Mancuso, M. S. & Owen, J. Prevention of preterm birth based on a short cervix: cerclage. Semin. Perinatol. 33, 325-333 (2009).
+Crane, J. M. G. & Hutchens, D. Follow-up cervical length in asymptomatic high-risk women and the risk of spontaneous preterm birth. J. Perinatol. 31, 318-323 (2011).
+Kindinger, L. M. et al. The interaction between vaginal microbiota, cervical length, and vaginal progesterone treatment for preterm birth risk. Microbiome 5 (2017).
+Ferrari, F. et al. 484: Cervilenz and ultrasound evaluation of cervimetry: a comparative study. Am. J. Obstet. Gynecol. 208, S209 (2013).
+Bullen, B. L. et al. C-Reactive Protein and Preterm Delivery. Reprod. Sci. 20, 715-722 (2013).
+Najat Nakishbandy, B. M. & Barawi, S. A. M. Level of C - reactive protein as an indicator for prognosis of premature uterine contractions. J. Prenat. Med. 8, 25-30 (2014).
+Honest, H., Bachmann, L. M., Gupta, J. K., Kleijnen, J. & Khan, K. S. Accuracy of cervicovaginal fetal fibronectin test in predicting risk of spontaneous preterm birth: systematic review. BMJ 325, 301 (2002).
+Ramsey, P. S. & Andrews, W. W. Biochemical predictors of preterm labor: fetal fibronectin and salivary estriol. Clin. Perinatol. 30, 701-733 (2003).
+Abdelazim, I. A. & Makhlouf, H. H. Placental alpha microglobulin-1 (AmniSure( ) test) for detection of premature rupture of fetal membranes. Arch. Gynecol. Obstet. 285, 985-989 (2012).
+Nikolova, T., Bayev, O., Nikolova, N. & Di Renzo, G. C. Evaluation of a novel placental alpha microglobulin-1 (PAMG-1) test to predict spontaneous preterm delivery. J. Perinat. Med. 42, 473-477 (2014).
+Taylor, B. D. et al. Inflammation biomarkers in vaginal fluid and preterm delivery. Hum. Reprod. Oxf. Engl. 28, 942-952 (2013).
+Tigga, M. P. & Malik, S. Comparative analysis of four biomarkers in diagnosing premature rupture of membranes and their correlation with onset of labour. Int. J. Reprod. Contracept. Obstet. Gynecol. 4, 1070-1075 (2017).
+Garshasbi, A., Ghazanfari, T. & Faghih Zadeh, S. Beta-human chorionic gonadotropin in cervicovaginal secretions and preterm delivery. Int. J. Gynaecol. Obstet. Off. 86, 358-364 (2004).
+Sera Prognostics Presents Results From Validation Study of PreTRM Test. GenomeWeb Available at: (Accessed: 22nd August 2017).
+Saade, G. R. et al. Development and validation of a spontaneous preterm delivery predictor in asymptomatic women. Am. J. Obstet. Gynecol. 214, 633.e1-633.e24 (2016).
+Menon, R. et al. Amniotic Fluid Metabolomic Analysis in Spontaneous Preterm Birth. Reprod. Sci. 21, 791-803 (2014).
+Romero, R. et al. The vaginal microbiota of pregnant women who subsequently have spontaneous preterm labor and delivery and those with a normal delivery at term. Microbiome 2, 18 (2014).
+DiGiulio, D. B. et al. Temporal and spatial variation of the human microbiota during pregnancy. Proc. Natl. Acad. Sci. USA 112, 11060-11065 (2015).
+Nelson, D. B., Shin, H., Wu, J. & Dominguez-Bello, M. G. The Gestational Vaginal Microbiome and Spontaneous Preterm Birth among Nulliparous African American Women. Am. J. Perinatol. 33, 887-893 (2016).
+Hyman, R. W. et al. Diversity of the vaginal microbiome correlates with preterm birth. Reprod. Sci. Thousand Oaks Calif 21, 32-40 (2014).
+Petricevic, L. et al. Characterisation of the vaginal Lactobacillus microbiota associated with preterm delivery. Sci. Rep. 4 (2014).
+Aagaard, K. et al. A Metagenomic Approach to Characterization of the Vaginal Microbiome Signature in Pregnancy. PLOS ONE 7, e36466 (2012).
+Walther-Antonio, M. R. S. et al. Pregnancy's Stronghold on the Vaginal Microbiome. PLOS ONE 9, e98514 (2014).
+Romero, R. et al. The composition and stability of the vaginal microbiota of normal pregnant women is different from that of non- pregnant women. Microbiome 2, 4 (2014).
+vaginal microbiota of pregnant women (ID 297012) - BioProject - NCBI. Available at: httww.nc bioproject/?term=PRJEB10913. (Accessed: 22nd August 2017).
+Stout, M. J. et al. Early pregnancy vaginal microbiome trends and preterm birth. Am. J. Obstet. Gynecol. 217, 356.e1-18 (2017).
+Hill, T. C. J., Walsh, K. A., Harris, J. A. & Moffett, B. F. Using ecological diversity measures with bacterial communities. FEMS Microbiol. Ecol. 43, 1-11 (2003).
+Morris, E. K. et al. Choosing and using diversity indices: insights for ecological applications from the German Biodiversity Exploratories. Ecol. Evol. 4, 3514-3524 (2014).
+DeJong, T. M. A Comparison of Three Diversity Indices Based on Their Components of Richness and Evenness. Oikos 26, 222-227 (1975).
+Allison, P. D. Measures of Inequality. Am. Sociol. Rev. 43, 865-880 (1978).
+Maio, F. G. D. Income inequality measures. J. Epidemiol. Community Health 61, 849-852 (2007).
+Gini coefficient - Oxford Reference. Available at:  (Accessed: 22nd August 2017).
+
+
+Kalmijn, W. Gini Coefficient. In Encyclopedia of Quality of Life and Well-Being Research (ed. Michalos, A. C.) 2559-2561, (Springer Netherlands, 2014).
+Gold, R., Kawachi, I., Kennedy, B. P., Lynch, J. W. & Connell, F. A. Ecological analysis of teen birth rates: association with community income and income inequality. Matern. Child Health J. 5, 161-167 (2001).
+Ellison, G. T. H. Letting the Gini out of the bottle? Challenges facing the relative income hypothesis. Soc. Sci. Med. 1982 54, 561-576 (2002).
+Matthews, B. W. Comparison of the predicted and observed secondary structure of T4 phage lysozyme. Biochim. Biophys. Acta 405, 442-451 (1975).
+Kane, S. C., Costa, F. da S. & Brennecke, S. First trimester biomarkers in the prediction of later pregnancy complications. BioMed Res. Int. 2014, 807196 (2014).
+Acknowledgements
+The authors of this study declare that they are employees of Tata Consultancy Services Limited - a commercial company. The company has provided support for this study in the form of salaries to authors, but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Author Contributions
+M.M. and P.N.K. performed the computational analysis with assistance from M.M.H. and A.D.; M.M.H., M.M., P.N.K., A.D. and S.S.M. interpreted the results and drafted the final manuscript.
+Additional Information
+Supplementary information accompanies this paper at .
+Competing Interests: The authors declare that they have no competing interests.
+Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre- ative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons license and your intended use is not per- mitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit .
+(c) The Author(s) 2017

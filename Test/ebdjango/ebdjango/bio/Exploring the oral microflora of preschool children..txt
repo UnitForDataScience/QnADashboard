@@ -1,0 +1,263 @@
+
+
+
+
+Exploring the oral microflora of preschool childrenSS
+
+
+
+
+
+
+
+
+
+
+
+
+The oral cavity is one of the most important and complicated habitats in our body and supports diverse microbial commu- nities. In this study, we aimed to determine the bacterial diver- sity and composition of various oral micro-niches. Samples were collected from supragingival plaque, saliva, and tongue coating from 10 preschool children (30 samples total). 16S rRNA gene pyrosequencing dataset generated 314,639 clean reads with an average of 10,488 +- 2,787 reads per sample. The phyla Firmicutes, Proteobacteria, Actinobacteria, Bacteroi- detes, and Fusobacteria were predominant, accounting for more than 90% of the total sequences. We found the highest a diversity, microbial richness, and evenness in plaque, com- pared with saliva and tongue coating. Plaque was also dis- tinguished from saliva and tongue coating by phylogenetic distances (weighted UniFrac). Taxa with different relative abundances were further identified, confirming the existence of microbial differences across the three niches. Core micro- biomes were defined of each niche; however, only a small pro- portion of operational taxonomic units (8.07%) were shared by the three niches. Coaggregation between Actinomyces spp. and Streptococcus spp. and other correlations among perio- dontal pathogens, such as Prevotella, Fusobacteria, Capno- cytophaga, and Tannerella, were shown by a co-occurrence network. In summary, our study provides a framework of oral microbial communities in the population of preschool chil- dren as a baseline for further studies of oral diseases related to microbes.
+Keywords: 16S rRNA gene sequencing, PICRUSt, microbiome, supragingival plaque, saliva, tongue coating
+
+
+
+*For correspondence. (B. Xu) E-mail: Drxubaohua@126.com; Tel.: +86- 010-84205268; Fax: +86-10-84205268 / (T. Xu) E-mail:  cn; Tel.: +86-010-82195269, Fax: +86-10-82195269
+SSSupplemental material for this article may be found at 
+Copyright (c) 2017, The Microbiological Society of Korea
+
+Introduction
+
+The human body is composed of many niches that serve as unique and complex habitats for microbes to survive or thrive. Surprisingly, the number of microbes are estimated to equal human cells, and play important roles in human health (Sen- der et al., 2016). Two large-scale projects, namely, the Human Microbiome Project (HMP) and Metagenomics of the Human Intestinal Tract (MetaHIT), have been initiated to explore microbial communities and their relationships with their hu- man hosts (Qin et al., 2010; Human Microbiome Project, 2012a). These projects have opened a promising field of mi- crobiology for the sake of our ultimate goals: etiological inter- pretation, prevention, and treatment of diseases (Turnbaugh et al., 2007; Group et al., 2009; Qin et al., 2010; Gevers et al., 2012; Human Microbiome Project, 2012b).
+The oral cavity is home to over 600 bacterial species with im- portant implications for oral health and disease (Dewhirst et al., 2010). However, approximately 35% species still remain uncultivated (Chen et al., 2010). New methods are needed to access and identify this vast microbial diversity. In the recent ten years, the utilization of next-generation sequencing (NGS) has opened a new era in microbial ecology. High throughput sequencing of the 16S ribosomal RNA (rRNA) gene as an NGS method allows for an overview of the communities as a whole, overcoming the limited views that culture-based te- chniques offer and has been successfully used in many fields (Human Microbiome Project, 2012b; Yang et al., 2012; Abu- sleme et al., 2013; Xu et al., 2015). Also, a method called "PICRUSt" (Phylogenetic Investigation of Communities by Reconstruction of Unobserved States) provides the functional predictions of the community based on 16S rRNA gene se- quencing data (Langille et al., 2013).
+There are many studies concerning the oral microbiomes of healthy children. Crielaard et al. (2011) studied the saliva microbiomes of 3-18-year-old children, revealing that ma- turation of the microbiome is driven by biological changes with age. Xin et al. (2013) reported the dental plaque diver- sity of healthy Chinese Han children aged 6-8 and supported the existence of a "core microbiome". Xu et al. (2015) ex- plored the significantly different microbial communities of different niches, and the results were consistent with the results of the HMP (Human Microbiome Project, 2012b). Meanwhile, oral health also depends on the interplay within the oral microbial community. The impact of the microbial community on shifting the balance from health to disease cannot be understood without a comprehensive view of a healthy community (Keijser et al., 2008). In this study, we fo- cused on the supragingival plaque, saliva, and tongue coating of children (4-5 years old), in an attempt to estimate the de- tailed microbial composition, species diversity, interplay and functional prediction among three niches.
+
+
+
+Materials and Methods
+Ethical approval
+This project was approved by the Ethics Committee at Peking University School and Hospital of Stomatology (PKUSSIRB- 2012062). Informed consent was obtained from all individual participants' guardians included in the study.
+Enrollment criteria and sample collection
+Ten children aged 4-5 years from Yayuncun No. 2 Kinder- garten were recruited. They did not have colds or any sys- temic diseases, or take antibiotics within 3 months prior to the study. For each subject, supragingival plaque, stimulated saliva, and tongue coating samples were collected in the mor- ning before tooth brushing. Altogether, 30 samples were col- lected. Supragingival plaque was collected from every enamel surface of each tooth and pooled in a 1.5-ml Eppendorf tube containing 1 ml TE (50 mM Tris-HCl and 1 mM EDTA; pH 7.6). A total of 1 ml of stimulated saliva was collected in an empty 5-ml sterile Eppendorf tube. A sterile toothbrush was used to gently scrape the tongue dorsum from the vallate- papilla area to the front tongue border. The toothbrush was then swirled in a 50-ml centrifuge tube containing 10 ml TE. All samples were immediately frozen at -20degC and stored at
+-80degC until DNA extraction.
+DNA extraction, PCR amplification, and pyrosequencing
+DNA was extracted from each sample using the TIANamp Bacteria DNA Kit (Tiangen Biotech), following the manufac- turer's instructions. DNA purity was evaluated using a Nano- Drop 8000 Spectrophotometer (Thermo Fisher Scientific). DNA samples were stored at -20degC until use.
+Polymerase chain reaction (PCR) amplicon libraries of the 16S rRNA gene V1-V3 hypervariable regions were generated for each sample using the universal primers 27F (5'-AGAG TTTGATCCTGGCTCAG-3') and 534R (5'-TTACCGCGGC
+TGCTGGCAC-3'). PCR was performed as described in the manual for the GS FLX Amplicon DNA library preparation method (Roche). Cycling conditions were as follows: an in- itial denaturation at 94degC for 3 min, 30 cycles of denatura- tion at 94degC for 30 sec, annealing at 57degC for 45 sec, exten- sion at 72degC for 1 min, and a final extension at 72degC for 2 min. No amplification products were observed in the PCR negative controls. The 16S rRNA gene PCR amplicons were sequenced on a 454 GS FLX Titanium system (454 Life Sci- ences).
+Bioinformatic analysis
+The raw data for 30 samples were analyzed using the QIIME pipeline (version 1.8.0) (Caporaso et al., 2010). Sequences were trimmed when the average quality score over a 50 bp sliding window dropped below 30. Sequences with more than one barcode mismatch or two primer mismatches were dis- carded. To retain only high quality reads for downstream an- alysis, we eliminated reads that were less than 200 bp in length after quality trimming (Xu et al., 2015). Trimmed reads were grouped into operational taxonomic units (OTUs) at a 97% similarity cutoff level under the de novo OTU picking strategy.
+
+Rarefaction curves, a and b diversity were generated using QIIME scripts.
+Bacterial functions were predicted using the PICRUSt algo- rithm (Langille et al., 2013). Three steps, namely, "normalize by copy number", "predict metagenome", and "categorize by function", were taken following the PICRUSt tutorial (http:// picrust.github.io/picrust/).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Comparison of a diversity and b indices of three oral niches. (A)-(D) Sequences (5000) were randomly subsampled to obtain an equal number of sequences from each dataset. Shannon (diversity), Observed Species (richness), ACE (richness), and Equitability (evenness) are shown in the box plots. The dot represents the outliers. **P < 0.01, ***P < 0.001.
+(E) Phylogenetic distances between samples were calculated via weighted UniFrac distance matrix. Each square, triangle and circle in the scatter plot represents each sample from the oral cavity. The percentage of var- iation is indicated on the axes. Plaque samples has significantly different weighted UniFrac distance based on ANOSIM, Adonis and MRPP (P = 0.001, Supplementary data Table S4). P, supragingival plaque; S, saliva; T, tongue coating.
+
+
+
+Statistical analysis
+The Friedman test with post hoc comparisons was used to compare a diversity, differential taxa, as well as functional predictions based on KEGG categories of PICRUSt outputs. Additionally, the Benjamini-Hochberg procedure was used to control the false discovery rate in differential taxa calcu- lation. ANOSIM, Adonis, and MRPP were used to compare b diversity (Xu et al., 2015). Spearman's rank correlation coefficients were calculated between OTUs that could be as- signed to genera or species. Each OTU abundance was calcu- lated using the mean abundance of the 30 samples. Network was generated and analyzed using the Cytoscape software (ver. 3.2.1). All statistical tests were performed using R soft- ware (ver. 3.2.0); a p-value < 0.05 was considered to be stat-
+
+istically significant.
+Sequences from this study were submitted to the Sequence Read Archive (Accession No. SRX1498923, http://www.ncbi. nlm.nih.gov/sra/).
+
+Results
+Overview of the dataset
+Supragingival plaque, saliva, and tongue coating samples were collected from 10 preschool children (Supplementary data Table S1). To understand the composition and struc- ture of the microbial communities, we carried out 16S rRNA gene pyrosequencing on each sample. After processing, we
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Taxa with different relative abundances among plaque, saliva, and tongue coating samples at the phylum (A) and genus levels (B)-(G). Bars repre- sent the mean relative abundance (+- SD). P, supragingival plaque; S, saliva; T, tongue coating. *P < 0.05, **P < 0.01, ***P < 0.001.
+
+
+Fig. 3. Heatmap of bacterial gene func- tional predictions using the PICRUSt algorithm. Each row refers to a KEGG level-3 pathway, and each column is a sample: P, supragingival plaque; S, sal- iva; T, tongue coating. The color bar on the right top represents the abundance. Unsupervised clustering was performed on different samples, and plaque sam- ples were well clustered.
+
+
+
+
+
+
+
+obtained 314,639 clean reads with an average of 10,488 +- 2,787 reads per sample (Supplementary data Table S2). Not all of the rarefaction curves plateaued at the current sequen- cing depth (Supplementary data Fig. S1). The sequences col- lected in this study provide an overview of the oral micro- biota. Across the three oral niches, 1,794 OTUs were assigned at a 97% similarity cutoff. A total of 14 phyla, 22 classes, 40 orders, 70 families, and 109 genera were identified; the pre- dominant taxa are shown in Supplementary data Fig. S2.
+Supragingival plaque had the highest a diversity and a dif- ferent microbial structure than saliva and tongue coating
+A comparison of a diversity across each niche (plaque, saliva, and tongue coating) using the Shannon index revealed sig- nificant differences (P < 0.001, Fig. 1A, Supplementary data Table S3). The plaque samples had the significantly highest richness (Observed Species and ACE, P < 0.01), while the tongue coating samples had the significantly lowest richness (Fig. 1B and C, P < 0.01). Furthermore, we found that plaque had significantly higher evenness (Equitability) than both saliva and tongue coating (Fig. 1D, P < 0.01).
+To explore whether microbial compositional structure varied among the three oral niches, weighted UniFrac distances were calculated. Plaque had significant phylogenetic differences compared with both saliva and tongue coating (Supplemen- tary data Table S4). A PCoA plot demonstrated this result as well (Fig. 1E).
+Differential taxa and metabolic pathways
+A total of 14 phyla were observed in this study. Five phyla - Firmicutes, Proteobacteria, Actinobacteria, Bacteroidetes, and Fusobacteria - were predominant in all niches, accounting for more than 90% of the total sequences (Supplementary data Fig. S2). Although the composition of phyla in each niche was similar, the relative abundance varied (Fig. 2A). The plaque samples harbored a higher proportion of Actinobacteria, while Firmicutes were the most abundant in saliva and tongue coa- ting. It is worth mentioning that the relative abundances of Firmicutes and Fusobacteria were significantly different across the three niches. Similarly, genera with different abundances were identified and belonged to six phyla (Fig. 2B-G). The abundances of Corynebacterium, Atopobium, Capnocytophaga, Streptococcus, Selenomonas, Granulicatella, and Lautropia were significantly different across the three niches. Paludi-
+
+bacter and Staphylococcus were unique in plaque and saliva samples, respectively (Fig. 2C and D).
+We also predicted metagenomic functions based on 16S rRNA gene using the PICRUSt algorithm (Langille et al., 2013). OTUs were picked and their functions were predicted from the Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways. Of all the 328 third-level KEGG pathways tested, 11 pathways differed in abundance across supragingival pla- que, saliva and tongue coating (Fig. 3, Friedman test follow- ing Benjamini-Hochberg correction, P < 0.05). Only "Staphy- lococcus aureus infection" and "Ion channels" were enriched in saliva; the remaining 9 pathways were enriched in supra- gingival plaque compared to saliva and tongue coating. To assess the accuracy of PICRUSt, the Nearest Sequenced Taxon Index (NSTI) was calculated. The NSTI score of our data was 0.07 +- 0.04 s.d., indicating a well prediction by PICRUSt (Langille et al., 2013).
+Core microbiomes were relatively niche-independent
+Despite the inter- and intrapersonal variabilities observed across niches, overlaps of microbiota still existed. The core
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4. Core microbiomes of supragingival plaque, saliva, and tongue co- ating. The Venn diagram shows the shared and unique operational taxo- nomic units (OTUs) of each oral bacterial community. The core micro- biome in this study was defined as OTUs that were detected in at least 80% of the samples from each oral niche. A total of 161 OTUs were found, but only a small proportion of OTUs (13) were shared by all three niches. P, supragingival plaque; S, saliva; T, tongue coating.
+
+
+Fig. 5. Co-occurrence networks of OTUs in supra- gingival plaque, saliva, and tongue coating samples. OTUs that could be assigned to genera or species and whose relative abundances were > 0.001 were retained. Spearman's correlation coefficients (SCC) were calculated between these OTUs. Each node rep- resents one OTU, and the size of the node reflects the average relative abundance. The edge between two nodes represents significant correlations (|SCC|
+>= 0.8, P < 0.05); blue and red edges indicate posi- tive and negative correlations, respectively.
+
+
+
+
+
+
+
+
+
+
+
+microbiome was defined as the OTUs present in at least 80% of subjects in each oral niche and 161 OTUs were re- tained (Fig. 4, Supplementary data Table S5). Analysis of the core microbiome revealed only a small proportion of over- lap (8.07%, 13 OTUs). The 13 shared OTUs belonged to the genera Streptococcus, Veillonella, Granulicatella, Porphyro- monas, Prevotella, and Fusobacterium. Xu et al. (2015) sug- gested that the core oral microbiome is better defined based on oral niches. The core saliva microbiome had the greatest number of OTUs (106), compared with plaque (86) and tongue coating (60).
+A co-occurrence network of plaque, saliva, and tongue coating
+A total of 1190 OTUs were assigned to the genus or species level. OTUs with an average relative abundance < 0.001 were filtered. Correlation networks of co-occurring micro- organisms permit a visual summary of a great deal of infor- mation. By calculation and then visualization of Spearman's correlations between these OTUs across plaque, saliva, and tongue coating, we identified a co-occurrence network of 25 OTUs with 47 positive correlations (indicating symbiotic relationships between species) and four negative correla- tions (indicating oppositional relationships or colonization resistance between species) (Fig. 5) (Zhang et al., 2014). Pre- votella sp. (OTU852) had the most linkages. Each Actino- myces species (orange node) was correlated with one Strep- tococcus species (green node) or more.
+
+Discussion
+
+In China, with the improvement of living standards, oral health is receiving more and more attention. From the mo- ment a baby passes through the birth canal and takes its first breath, microbes begin to reside in its mouth (Viorica Chetrus, 2013). The oral cavity harbors over 600 bacterial species that play important roles in homeostasis (Dewhirst et al., 2010; Belda-Ferre et al., 2012; Xu et al., 2015; Xiao et al., 2016). An understanding of the normal oral flora pro-
+
+vides the possibility for an explanation of the etiology of oral diseases related to microorganisms. The predominant phyla of our dataset are generally in agreement with previous stu- dies (Supplementary data Fig. S2) (Ling et al., 2010; Crielaard et al., 2011; Xu et al., 2015). The bacterial abundances and distribution structures of plaque were different from those of saliva and tongue coating, which probably lie in the gra- dients and variations in physico-chemical features at diffe- rent sites, such as moisture, oxygen concentration and pH (Simon-Soro et al., 2013).
+Bacteria in biofilms on tooth surfaces, what we call "dental plaque" today, were first detected under the microscopes of Antony van Leeuwenhoek in the 17th century (He and Shi, 2009). Plaque development is a complex process and begins on the tooth surface immediately after cleaning. With the formation of a salivary pellicle, initial colonizers start to at- tach to the pellicle. Initial colonizers consist mainly of gram- positive cocci and rods, and some gram-negative cocci and rods, including Corynebacterium, Streptococcus, Actinomyces, Neisseria, and Veillonella, which predominate the microbes in the plaque (Supplementary data Fig. S2) (Marsh, 2004). Plaque samples in this study were at this stage, because the subjects brushed their teeth three times a day and the time in between was not sufficient for plaque to become mature. Plaque at this stage was able to withstand swallowing, che- wing, and saliva flow. The highest microbial diversity, rich- ness, and evenness were identified in plaque samples com- pared with saliva and tongue coating (Fig. 1), suggesting that dental surfaces provide a more ideal place for bacteria and biofilms to grow and reproduce. This finding is consistent with the result of the HMP (Human Microbiome Project, 2012b).
+The oral cavity is almost constantly flushed with saliva.
+Saliva is thought to have a significant impact on the colo- nization of microorganisms (Avila et al., 2009). The flow- ing property makes the salivary microbiome more dynamic than those of plaque and tongue coating. Fabian et al. hy- pothesized that microorganisms attached to the teeth and tongue are continuously shed into the salivary fluid, and bacteria residing in the periodontal pockets are constantly
+
+
+
+washed into saliva by the gingival crevicular fluid, making saliva a reservoir of oral microbiota and a fingerprint of the entire oral microbiome (Fabian et al., 2008). However, Simon- Soro et al. believed that saliva could not represent the whole oral microbiome (Simon-Soro et al., 2013). We found that the richness of the salivary microbiome is less than that of supragingival plaque (Fig. 1); this could be explained by the antimicrobial property of saliva (Tenovuo, 2002).
+Consistent with the study of Simon-Soro et al., tongue co- ating had a similar microbial structure to that of stimulated saliva (Fig. 1) (Simon-Soro et al., 2013). Most of the core tongue coating microbes were from the genera Streptococcus, Veillonella, Prevotella, Actinomyces, and Porphyromonas, which are facultative or obligate anaerobes (Fig. 4 and Sup- plementary data Table S5). The tongue dorsum is a relati- vely large surface area with a papillary structure that pro- vides an anaerobic microenvironment, retaining consider- able habitats for these bacteria to live in (Donaldson et al., 2005)
+Different species live together as communities and species within these communities perform interrelations with others. The co-occurrence network presented in this study provides novel insight into the microbial associations across plaque, saliva, and tongue coating. Actinomyces are among the pre- dominant bacteria in the oral microflora. The Embden-Mey- erhof-Parnas (EMP) pathway, in which glucose is degraded into pyruvate, and, under anaerobic conditions, further de- graded into lactate, formate, and acetate, is shared by Acti- nomyces (Takahashi and Yamada, 1999). Lactate and for- mate could be utilized as substrates by Campylobacter for energy production (Shaw et al., 2012). This was reflected by the positive correlation between Actinomyces and Campy- lobacter in the co-occurrence network (orange and purple nodes in Fig. 5). Meanwhile, Streptococcus spp. as another predominant species, were reported to have coaggregation properties with Actinomyces spp. (Kolenbrander et al., 2002) and were also identified with positive correlations (green and orange nodes in Fig. 5). Capnocytophaga spp. are commensal species as opportunistic pathogens, depending on the im- mune status of the patient. These bacteria isolated from the oral cavity are responsible for periodontal infections. In the co-occurrence network, other periodontal pathogens, namely, Prevotella sp., Fusobacterium, and Tannerella sp. together with Capnocytophaga ochracea and Capnocytophaga sp., cor- related tightly (blue, pink, red, and yellow nodes in Fig. 5). This complex may become pathogenic when immunological functions are suppressed. Further experiments are needed to verify this hypothesis.
+Microbial diversity changes in supragingival plaque, saliva,
+and tongue coating are thought to be associated with oral diseases. For example, a trend of decreased microbial diver- sity was found in the supragingival plaque samples of chil- dren with early childhood caries (Xu et al., 2014). Caries saliva microbiomes were significantly more variable in community structure than healthy ones (Yang et al., 2012). Tongue coat- ing microbiomes with oral malodor were more conserved than healthy tongue coating (Yang et al., 2013). Aside from microbial diversity, disease-associated bacteria were also identified in the studies mentioned above. However, these conclusions need to be confirmed by other experiments, and
+
+attempts should be made to find "marker microbiota" of cer- tain diseases. Because the samples in this study were all col- lected non-invasively, it has good prospects to be applicable for predicting or diagnosing disease in clinical practices.
+In summary, this study provides a comprehensive micro- bial analysis of three oral micro-niches in a population of preschool children and the essential groundwork for future studies on how the oral microbiome associates with health and disease. Although functional profiles were predicted, further studies on genetic and metabolic differences of oral niches via metagenomics are still needed to verify these findings.
+
+Acknowledgements
+
+This work was supported by grants from the National Na- tural Science Foundation of China (81300880), Academic Collaboration Fund (T.X.), and International S & T Coo- peration Program of China (2014DFA31520).
+
+References
+
+Abusleme, L., Dupuy, A.K., Dutzan, N., Silva, N., Burleson, J.A., Strausbaugh, L.D., Gamonal, J., and Diaz, P.I. 2013. The sub- gingival microbiome in health and periodontitis and its rela- tionship with community biomass and inflammation. ISME J. 7, 1016-1025.
+Avila, M., Ojcius, D.M., and Yilmaz, O. 2009. The oral microbiota: living with a permanent guest. DNA Cell Biol. 28, 405-411.
+Belda-Ferre, P., Alcaraz, L.D., Cabrera-Rubio, R., Romero, H., Si- mon-Soro, A., Pignatelli, M., and Mira, A. 2012. The oral meta- genome in health and disease. ISME J. 6, 46-56.
+Caporaso, J.G., Kuczynski, J., Stombaugh, J., Bittinger, K., Bushman, F.D., Costello, E.K., Fierer, N., Pena, A.G., Goodrich, J.K., Gor- don, J.I., et al. 2010. QIIME allows analysis of high-throughput community sequencing data. Nat. Methods 7, 335-336.
+Chen, T., Yu, W.H., Izard, J., Baranova, O.V., Lakshmanan, A., and Dewhirst, F.E. 2010. The Human oral microbiome database: a web accessible resource for investigating oral microbe taxonomic and genomic information. Database 7, baq013.
+Crielaard, W., Zaura, E., Schuller, A.A., Huse, S.M., Montijn, R.C., and Keijser, B.J.F. 2011. Exploring the oral microbiota of children at various developmental stages of their dentition in the relation to their oral health. BMC Med. Genomics 4, 1-13.
+Dewhirst, F.E., Chen, T., Izard, J., Paster, B.J., Tanner, A.C., Yu, W.H., Lakshmanan, A., and Wade, W.G. 2010. The human oral microbiome. J. Bacteriol. 192, 5002-5017.
+Donaldson, A.C., McKenzie, D., Riggio, M.P., Hodge, P.J., Rolph, H., Flanagan, A., and Bagg, J. 2005. Microbiological culture ana- lysis of the tongue anaerobic microflora in subjects with and without halitosis. Oral Dis. 11 Suppl. 1, 61-63.
+Fabian, T.K., Fejerdy, P., and Csermely, P. 2008. Salivary genomics, transcriptomics and proteomics: the emerging concept of the oral ecosystem and their use in the early diagnosis of cancer and other diseases. Curr. Genomics 9, 11-21.
+Gevers, D., Knight, R., Petrosino, J.F., Huang, K., McGuire, A.L., Birren, B.W., Nelson, K.E., White, O., Methe, B.A., and Hutten- hower, C. 2012. The human microbiome project: a community resource for the healthy human microbiome. PLoS Biol. 10, e1001377.
+Group, N.H.W., Peterson, J., Garges, S., Giovanni, M., McInnes, P., Wang, L., Schloss, J.A., Bonazzi, V., McEwen, J.E., Wetterstrand,
+
+
+
+K.A., et al. 2009. The NIH human microbiome project. Genome Res. 19, 2317-2323.
+He, X.S. and Shi, W.Y. 2009. Oral microbiology: past, present and future. IJOS 1, 47-58.
+Human Microbiome Project, C. 2012a. A framework for human microbiome research. Nature 486, 215-221.
+Human Microbiome Project, C. 2012b. Structure, function and di- versity of the healthy human microbiome. Nature 486, 207- 214.
+Keijser, B.J.F., Zaura, E., Huse, S.M., Van Der Vossen, J.M.B.M., Schuren, F.H.J., Montijn, R.C., Ten Cate, J.M., and Crielaard,
+W. 2008. Pyrosequencing analysis of the oral microflora of healthy adults. J. Dent. Res. 87, 1016-1020.
+Kolenbrander, P.E., Andersen, R.N., Blehert, D.S., Egland, P.G., Foster, J.S., and Palmer, R.J., 2002. Communication among oral bacteria. Microbiol. Mol. Biol. Rev. 66, 486-505.
+Langille, M.G., Zaneveld, J., Caporaso, J.G., McDonald, D., Knights, D., Reyes, J.A., Clemente, J.C., Burkepile, D.E., Vega Thurber, R.L., Knight, R., et al. 2013. Predictive functional profiling of microbial communities using 16S rRNA marker gene sequences. Nat. Biotechnol. 31, 814-821.
+Ling, Z.X., Kong, J.M., Jia, P., Wei, C.C., Wang, Y.Z., Pan, Z.W.,
+Huang, W.J., Li, L.J., Chen, H., and Xiang, C. 2010. Analysis of oral microbiota in children with dental caries by PCR-DGGE and barcoded pyrosequencing. Microb. Ecol. 60, 677-690.
+Marsh, P.D. 2004. Dental plaque as a microbial biofilm. Caries Res.
+38, 204-211.
+Qin, J.J., Li, R.Q., Raes, J., Arumugam, M., Burgdorf, K.S., Mani- chanh, C., Nielsen, T., Pons, N., Levenez, F., Yamada, T., et al. 2010. A human gut microbial gene catalogue established by meta- genomic sequencing. Nature 464, 59-65.
+Sender, R., Fuchs, S., and Milo, R. 2016. Are we really vastly out- numbered? Revisiting the ratio of bacterial to host cells in humans. Cell 164, 337-340.
+Shaw, F.L., Mulholland, F., Le Gall, G., Porcelli, I., Hart, D.J., Pear- son, B.M., and Van Vliet, A.H. 2012. Selenium-dependent bio- genesis of formate dehydrogenase in Campylobacter jejuni is controlled by the fdhTU accessory genes. J. Bacteriol. 194, 3814- 3823.
+
+Simon-Soro, A., Tomas, I., Cabrera-Rubio, R., Catalan, M.D., Nyvad, B., and Mira, A. 2013. Microbial geography of the oral cavity. J. Dent. Res. 92, 616-621.
+Takahashi, N. and Yamada, T. 1999. Glucose and lactate metabo- lism by Actinomyces naeslundii. Crit. Rev. Oral Biol. Med. 10, 487-503.
+Tenovuo, J. 2002. Antimicrobial agents in saliva-protection for the whole body. J. Dent. Res. 81, 807-809.
+Turnbaugh, P.J., Ley, R.E., Hamady, M., Fraser-Liggett, C.M., Knight, R., and Gordon, J.I. 2007. The human microbiome project. Nature 449, 804-810.
+Viorica Chetrus, I.R.I. 2013. Dental plaque - classification, forma- tion, and identification. IJMD 3, 139-143.
+Xiao, C., Ran, S., Huang, Z., and Liang, J. 2016. Bacterial diversity and community structure of supragingival plaques in adults with dental health or caries revealed by 16S pyrosequencing. Front. Microbiol. 7, 1145.
+Xin, B.C., Luo, A.H., Qin, J., Paster, B.J., Xu, Y.L., Li, Y.L., and Yang,
+D.Q. 2013. Microbial diversity in the oral cavity of healthy chi- nese han children. Oral Dis. 19, 401-405.
+Xu, H., Hao, W., Zhou, Q., Wang, W., Xia, Z., Liu, C., Chen, X., Qin, M., and Chen, F. 2014. Plaque bacterial microbiome diversity in children younger than 30 months with or without caries prior to eruption of second primary molars. PLoS One 9, e89269.
+Xu, X., He, J.Z., Xue, J., Wang, Y., Li, K., Zhang, K.K., Guo, Q., Liu,
+X.H., Zhou, Y., Cheng, L., et al. 2015. Oral cavity contains dis- tinct niches with dynamic microbial communities. Environ. Mic- robiol. 17, 699-710.
+Yang, F., Huang, S., He, T., Catrenich, C., Teng, F., Bo, C., Chen, J., Liu, J., Li, J., Song, Y., et al. 2013. Microbial basis of oral malodor development in humans. J. Dent. Res. 92, 1106-1112.
+Yang, F., Zeng, X., Ning, K., Liu, K.L., Lo, C.C., Wang, W., Chen, J., Wang, D., Huang, R., Chang, X., et al. 2012. Saliva microbiomes distinguish caries-active from healthy human populations. ISME J. 6, 1-10.
+Zhang, Z., Geng, J., Tang, X., Fan, H., Xu, J., Wen, X., Ma, Z.S., and Shi, P. 2014. Spatial heterogeneity and co-occurrence patterns of human mucosal-associated intestinal microbiota. ISME J. 8, 881-893.

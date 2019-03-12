@@ -1,0 +1,384 @@
+e
+
+
+
+
+Fate of antibiotic resistance genes and their associations with bacterial community in livestock breeding wastewater and its receiving river water
+Shuyu Jia , Xu-Xiang Zhang , , Yu Miao , Yanting Zhao , Lin Ye , Bing Li , Tong Zhang 
+a State Key Laboratory of Pollution Control and Resource Reuse, School of the Environment, Nanjing University, Nanjing, 210023, China
+b Environmental Biotechnology Lab, Department of Civil Engineering, The University of Hong Kong, Hong Kong Special Administrative Region
+
+
+
+a r t i c l e i n f o  
+
+Article history:
+Received 18 March 2017 Received in revised form 16 July 2017
+Accepted 23 July 2017
+Available online 24 July 2017
+
+Keywords:
+Antibiotic resistance genes Bacterial community
+Fecal wastewater discharge Receiving-river water
+High-throughput sequencing
+
+
+a b s t r a c t  
+
+Large amounts of antibiotics are currently used in livestock breeding, which is the main driving factor contributing to the occurrence, spread and proliferation of antibiotic resistant bacteria (ARB) and anti- biotic resistance genes (ARGs) in the environment. In this study, high-throughput sequencing based metagenomic approaches were employed to characterize the tempo-spacial changes of antibiotic resistome, bacterial community and their correlations in pig farming wastewater and its receiving river. A total of 194 ARG subtypes within 14 ARG types were detectable in all the samples, and their total relative abundance increased in the river water after receiving wastewater discharge, while decreased in the downstream river water. Network analysis showed that 25.26% ARGs within the same type or among the different types showed higher incidences of non-random co-occurrence. The wastewater discharge evidently increased bacterial diversity and induced bacterial community shift in the receiving river  water. The genera of Treponema, Prevotella, Pseudomonas, Bacteroides, Oscillibacter and Acholeplasma dominated in the wastewater samples and almost disappeared in the receiving river water, but bacterial pathogens Clostridium difficile and Arcobacter butzleri still occurred in the receiving water. Correlation analysis and host analysis consistently showed that the changes in the abundances of several key genera like Prevotella and Treponema were significantly and positively correlated with the antibiotic resistome alteration. Variation partitioning analysis indicated that bacterial community played a more important role in the resistome alteration than mobile genetic elements. This study may help to understand the correlations among antibiotic resistome, microbiota and environmental conditions in the wastewater- receiving river water.
+
+(c) 2017 Elsevier Ltd. All rights reserved.
+
+
+
+
+
+Introduction
+
+The intensive use of antibiotics for veterinary and agricultural proposes, coupled with medical treatment has caused severe antibiotic pollution, and subsequently promoted the introduction, dissemination and accumulation of antibiotic resistant bacteria (ARB) and resistance genes (ARGs) in the aquatic environments (). It has been reported that the total usage of antibiotics was about 162, 000 tons in China in 2013, more than half of which were applied in livestock breeding
+
+
+* Corresponding author. State Key Laboratory of Pollution Control and Resource Reuse, School of the Environment, Nanjing University, 163 Xianlin Road, Nanjing, 210023, China. Tel./fax: th86 25 89680368.
+E-mail address: (X.-X. Zhang).
+
+for growth improvement and disease control (). Veterinary antibiotics are poorly absorbed in animal guts, and even up to 90% of some antibiotics consumed by animals are excreted unchanged or as active metabolites in urine and feces ( ). Besides domestic sewage and hospital wastewater, animal farming wastewater have become one of the main sources of an- tibiotics and ARGs in surface water () and ground water (). Discharge of the wastewater might cause potential health risks to the local residents, since it has been reported that high diversity of ARGs () and a considerable amount of pathogenic bacteria ( ) can be released through wastewater effluents to the receiving water bodies. Longtime exposure to low-level an- tibiotics imposes negative impacts on the bionts living in aquatic ecosystems (), and microbial community may
+
+
+
+0043-1354/(c) 2017 Elsevier Ltd. All rights reserved.
+
+
+
+also structurally and functionally shift greatly in response to the environmental changes ().
+Current studies have focused on the fates of antibiotics, ARGs and pathogens in wastewater treatment plants and the receiving rivers (), but correlations among the co- occurring ARGs and between the ARGs and bacterial community were seldom reported. It is known that bacterial community shift contributed greatly to the antibiotic resistome alteration in soil () and drinking water (). Moreover, horizontal gene transfer (HGT) via mobile genetic elements (MGEs) was also proven to be closely relevant with ARGs in wastewater treatment plants () and natural environments (). However, the roles of HGT and microbial com- munity shift in the resistome alteration in the wastewater- receiving rivers remain unknown.
+Currently, molecular methods including polymerase chain re- action (PCR) and real time quantitative PCR (qPCR) have been widely used to qualitatively and quantitatively investigate the occurrence, distribution and fate of ARGs in water environments (), but they are usually limited by the number of validated primers for target ARGs, which makes it difficult for re- searchers to comprehensively profile microbial antibiotic resis- tance in the environment. High-throughput sequencing (HTS) based metagenomic analysis provides powerful tools for solving the above technical problems due to its capability of broad- spectrum scanning and accurate quantification, which has been successfully applied in exploring the ARGs in different environ- mental compartments, such as river sediments ( ), activated sludge () and drinking water ( ).
+In this study, HTS-based metagenomic approaches were applied to comprehensively investigate the distribution patterns of antibi- otics, bacterial community and ARGs in pig farming wastewater and its receiving river water. We then characterized the correlations among the different ARGs and between the bacterial community and antibiotic resistome in the wastewater and receiving-river water, and finally revealed the roles of bacterial community shift and HGT in shaping antibiotic resistome in the river water. This may extend our knowledge regarding complicated correlations among the ambient conditions, microbiota and resistome in the environ- ments with strong anthropogenic disturbance.
+
+Materials and methods
+
+Sample collection and DNA extraction
+
+A pig farm with an annual farming scale of 400 pigs, which located at Changzhou City of Jiangsu Province, China, was selected in this study. After a primary sedimentation, the swine wastewater was directly discharged through a gutter into the Hongqi River, which is a branch of the Yongan River, and ultimately runs into Taihu Lake through the Taige River (Fig. S1). Wastewater or river water (10 L each) was successively sampled from outlet of the sedimentation tank (S1 and S2), upstream of Hongqi River without fecal wastewater discharge (S0), and the receiving river water along the river flow (S3-S6) (Fig. S1). The river water was collected from 10 to 20 cm below surface in the middle of the rivers, and then stored in pre-cleaned amber glass bottles. The sampling was con- ducted three times separately in May, August and November 2013. Chemical analyses and DNA extraction were performed within 24 h
+after transportation to laboratory on ice. The river water samples were filtered through 0.45 mm micropore membranes with a filter funnel and vacuum system to capture bacteria, and then the membrane filters were washed by 10 mL of sterile distilled water to obtain the suspension. Both the suspension and swine wastewater
+
+samples were centrifuged at 12,000 g for 20 min at 4 oC, and the obtained pellets were used for DNA extraction using the FastDNA SPIN Kit for Soil (MP Biomedicals, CA, USA) according to manu- facturer's instructions. DNA quality was visually verified by elec- trophoresis in 1% agarose gel, and concentration and purity of the extracted DNA were checked using NanoDrop microspectropho-
+tometer (ND-2000, Thermo Fisher Scientific, Waltham, MA, USA). The DNA samples were stored at -80 oC for further analysis.
+Chemical analyses
+
+Total phosphorus (TP), total nitrogen (TN) and chemical oxygen demand (COD) of the wastewater and river water were analyzed following the standard methods (). Simultaneously, twenty-one classes of antibiotics, including seven beta-lactams, three sulfonamides, three quinolones, three tetracyclines, two macrolide-lincosamide-streptogramins (M-L-S), one glycopeptide, one trimethoprim and one chloramphenicol (listed in Text S1) in the samples collected in November were analyzed by using ultra performance liquid chromatography with tandem mass spec- trometry following . Details of sample pretreatment and detection procedures were described in Text S1. All the chemical parameters were measured in triplicate for each sample.
+
+HTS, metagenome assembly and bioinformatics analysis
+
+To comprehensively analyze the diversity and abundance of ARGs, all the DNA samples were sent to Jiangsu Zhongyijinda Analytical & Testing Co., Ltd (Jiangsu, China) for shotgun meta- genome sequencing using Illumina Hiseq 2500 (Illuminna Inc., San Diego, CA, USA). The sequencing strategy of Index 101 PE (Paired End sequencing, 101-bp reads and 8-bp index sequence) was applied in this study, and the generated raw sequences containing three or more unknown nucleotides ('N') or contaminated by adapters (>15 bp overlap) were removed for each sample (FASTQ format) using the quality control pipeline recommended by sequencing institution. The remaining Illumina sequences were submitted to the Galaxy () for online quality control including quality formats converting and removal of low quality sequences following . All the meta- genomic data have been deposited in the publicly available data- base of MG-RAST () under the accession numbers listed in Table S1.
+In addition, the trimmed metagenome reads were assembled to
+contigs by CLC Genomics Workbench (Version 9.0.1) with a Kmer of 63 and a minimum length of 300 bp following . Reads were mapped to contigs with a minimum similarity of 95% over 95% of the read length using CLC Genomics Workbench. All contigs were subjected to predict open reading frames (ORFs) using metagenome version of Prodigal (). The basic as- sembly information was summarized in Table S2.
+To determine the diversity and abundance of environmental ARGs and MGEs, BLAST tool was applied to annotate sequencing reads and predicted ORFs against offline databases of ARGs and MGEs (including integrons, plasmids and insertion sequences (ISs)) using our previously established methods ( ). The identity of best BLAST hit of a read and a predicted ORF was determined according to and  , respectively. For taxonomic classification of contigs, all predicted protein sequences of ORFs on each contig that contained one or more identified antibiotic resistance ORFs were classified against RefSeq protein database (version 79) using BLASTP with an e-value  cutoff  of  10-5,  and  the  taxonomic  assignments  were  an- notated by MEGAN (Version 6, MEtaGenome ANalyzer) ( ). Finally, genus-level classification was achieved in
+
+
+
+this study according to the criteria that equal or greater than half of ORFs within one contig were assigned to the same kingdom/ phylum/class/order/family/genus ().
+
+
+Pyrosequencing of 16S rRNA gene and bioinformatics analysis
+
+In order to investigate bacterial community composition and structure, the hypervariable V1-V3 region (526 bp) of the bacterial 16S rRNA gene from each sample was amplified using the following primers: forward 50-AGAGTTTGATCCTGGCTCAG-30 and reverse 50- TTACCGCGGCTGCTGGCAC-3'. To distinguish corresponding reads
+generated in a single pyrosequencing run from the data pool, a 10- nucleotide barcode was inserted between adapter and forward primer during amplification. The PCR amplification reaction system and condition were determined according to . PCR amplicon libraries were mixed with three replicates of each sample to minimize the impact of potential early-round PCR errors. After purification by the QIAquick PCR purification kit (Qiagen, Hilden, Germany), appropriate amounts of purified amplicon products of each sample were sent to the Shanghai Majorbio Bio-pharm Biotechnology Co., Ltd. (Shanghai, China) to conduct 16S rRNA gene pyrosequencing on the Roche 454 FLX Titanium platform (Roche 454 Life Sciences, Beanford, CT, USA). The obtained raw sequencing data have been deposited in NCBI Sequence Read Archive () under accession number SRA591585.
+All the generated raw pyrosequencing sequences were pro- cessed and analyzed using both Ribosomal Database Project (RDP, ) and Mothur () following (details shown in Text S2). Addition- ally, richness and diversity indices and phylogenetic classification of each sample were calculated as described in Text S2. In addition, potential pathogenic bacteria were identified by aligning the normalized pyrosequencing sequences against the offline database of pathogenic bacteria () using BLAST tool. The identity of best BLAST hit of a putative pathogenic bacterial species was determined according to .
+
+Statistical analysis
+
+The relative abundance of one type or subtype of ARG was defined by using the unit of "ppm", namely one hit of the ARG in one million sequencing reads, which was determined as the portion of the hits of one type or subtype of ARG in the total metagenome reads, and its percentage was calculated as the proportion of the annotated reads of one type or subtype of ARG in the total hits of all ARGs (). ARGs profiles (ARG subtypes) and bacterial community (genus level) of each sample were grouped by cluster analysis using PAST (PAleontological Statistics) software (University of Oslo, Norway) and by principal coordinate analysis (PCoA) using R software (version 3.2.3). Mantel test and canonical correspon- dence analysis (CCA) were performed to determine the potential links among bacterial community structure, MGEs and ARGs dis- tribution, and the associations between chemical parameters and bacterial community. Variation partitioning analysis (VPA) was further conducted to determine relative contribution of bacterial community shift and MGEs changes to the resistome alteration. Mantel test, CCA and VPA were conducted according to our previ- ous study (). In addition, for the ARG co-occurrence profiling, a correlation matrix was constructed by calculating all possible pairwise Pearson's correlation coefficients (r) between any two ARG subtypes to visualize the network graphs through Gephi (details shown in Text S3) following .
+
+Results
+
+Diversity and abundance of ARGs in the wastewater and its receiving river water
+
+HTS-based metagenomic analysis revealed that a total of 194 ARG subtypes within 14 ARG types (tetracycline, aminoglycoside, sulfonamide, multidrug, M-L-S, bacitracin, beta-lactam, chloram- phenicol, quinolone, trimethoprim, fosmidomycin, polymyxin, vancomycin and others) were detectable in all the tested samples (). ARG diversity showed highly temporal and spatial varia- tions in the swine wastewater and its receiving river water (Figs. S2 and S3). PCoA of the resistome patterns revealed that the samples were generally grouped into 2 clusters: cluster 1 mainly including wastewater samples and seriously polluted receiving river water samples, and cluster 2 mainly including upstream unpolluted samples and slightly polluted downstream river samples (Fig. S4). Wastewater discharge evidently elevated the total abundance of ARGs in the receiving water, which then showed decreasing treads along the river flow, but the decreasing rate seemed higher in August than in May and November (Fig. S5A). Among all the types of the detectable ARGs, tetracycline and aminoglycoside resistance genes dominated in the wastewater and the severely contaminated downstream river water (Fig. S5A), occupying 69.55e80.73% of the total abundance (Fig. S5B). Tetracycline resistance genes tet(X), tet(M),  tet(W),  tet(Q)  and  tet(O)  and  aminoglycoside  resistance
+genes  ant(60)-Ia,  aac(60)-Ie,  aph(30)-IIIa  and  ant(300)-Ia  had  higher
+abundances in the wastewater, their relative abundances obviously increased in the receiving river water caused by the wastewater discharge (). In addition, the relative abundance of MGEs including integrons, plasmids and ISs varied greatly among the wastewater and river water samples (Fig. S6).
+
+
+Co-occurrence of ARGs in the wastewater and its receiving river water
+
+Network analysis of the co-occurring ARGs consisted  of  50  nodes (ARG subtypes) and 393 edges with clustering coefficient of 0.74, and the connections showed  strongly  and  significantly  posi- tive correlations (p  0.01 and r  0.8) (). In this study, the  observed co-occurring incidence (O%) and random co-occurring incidence (R%) were  calculated  based  on  frequencies  or  number  of nodes of two items, and the  non-random  co-occurrence  pattern was identified if O% was greater than R% according to  . For the  ARG  subtypes  within  the  same  type,  beta-lactam  (4 subtypes), M-L-S (5 subtypes), aminoglycoside (8 subtypes), multidrug (5  subtypes),  trimethoprim  (4  subtypes)  and  quinolone  (2 subtypes) had higher incidences of co-occurrence (8.40%) than random correlation (4.99%) (Table S3). Especially, beta-lactam, M-L- S and aminoglycoside resistance genes showed high possibility of non-random co-occurrence (O% 1.02%, 1.53% and 4.07%, respec- tively) than that of random positive correlation (R% 0.49%, 0.82%  and 2.29%, respectively). Moreover, higher non-random co-occur- rence  incidences were also observed for the ARG  subtypes among  the different ARG types (Table S3). For instance, the M-L-S resis- tance genes were non-randomly correlated with the subtypes of beta-lactam (O% 3.31%, R%  0.65%), aminoglycoside (O%  5.34%, R% 1.63%) and tetracycline (O% 7.89%, R% 3.06%). Similar co- occurrence patterns were also observed between aminoglycoside resistance genes and the ARGs encoding trimethoprim (O% 1/4 5.34%, R% 1/4 1.31%), beta-lactam (O% 1/4 5.34%, R% 1/4 1.31%), chloramphen- icol (O% 1/4 4.07%, R% 1/4 1.31%), sulfonamide (O% 1/4 1.78%, R% 1/4 0.65%) and tetracycline (O% 1/4 12.47%, R% 1/4 4.90%).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Occurrence and fates of different subtypes of ARGs in the wastewater and its receiving river water. The relative abundance of ARGs was determined by high-throughput sequencing and metagenomic analysis. M-L-S: macrolide-lincosamide-streptogramin. ND: not detected.
+
+
+Bacterial community shift in the wastewater and its receiving river water
+
+OTUs, Chao 1 and Shannon index calculation showed that the wastewater discharge evidently increased the bacterial diversity in its receiving river water, which then showed a decreasing trend along the river flow (Table S4). Phylogenetic classification showed that the samples of the wastewater and river water had different bacterial community structure at both genus () and phylum (Fig. S7) levels. PCoA also demonstrated that the wastewater and river water showed obvious diverse bacterial community at genus level (Fig. S8), which was further confirmed by UPGMA clustering analysis based on Bray-Curtis distance (Fig. S9). In general, bacterial community in wastewater samples was dominated by Firmicutes and Bacteroidetes, and the percentage of Firmicutes continually decreased along the river flow, and finally almost disappeared in Yongan River (S5) and Taige River (S6) in different seasons (Fig. S7). However, Proteobacteria had the highest percentage across all the contaminated river water samples, accounting for 49.85e77.84% of the total reads in May, 22.69e47.78% in August and 70.07e80.74% in November. At genus level, Treponema, Prevotella, Pseudomonas, Bacteroides, Oscillibacter and Acholeplasma, always dominated in the wastewater samples, while they almost disappeared in the river water samples ().
+Alignment against the pathogen database indicated that a total
+of 19 different potential human pathogenic species (with the per- centage of over 0.1% in any sample) were present in the wastewater and river water samples (Fig. S10). Among the detectable patho- gens, Clostridium difficile, Arcobacter butzleri, Clostridium botulinum, Clostridium  perfringens  and  Enterococcus  faecium  dominated in
+
+wastewater samples, while Clostridium botulinum, Clostridium per- fringens and Enterococcus faecium attenuated quickly in the downstream river water. Clostridium difficile and Arcobacter butzleri had relatively high abundance in the downstream river water samples, but were undetectable in the upstream unpolluted water (Fig. S10).
+
+Roles of environmental factors changes in the bacterial community shift and resistome alteration
+
+Chemical analyses showed that the concentrations of TP, TN and COD in the wastewater were higher than those in the river water (Fig. S11). Among the 21 antibiotics tested, 11 ones were detectable in the wastewater or river water, including sulfonamides (sulfa- methoxazole, sulfadiazine and sulfamethazine), tetracyclines (tetracycline, oxytetracycline and chlortetracycline), M-L-S (roxi- thromycin and erythromycin-H2O), beta-lactams (cephalexin and ofloxacin) and trimethoprim (Fig. S12). The wastewater discharge increased the total concentration of the detectable antibiotics in the receiving river water, which then decreased along the river flow (Fig. S12). Mantal test based on Bray-Curtis distance revealed pos- itive correlation between the bacterial community and water quality parameters (TP, TN and COD) (r2 0.56, p < 0.01). In addition, CCA indicated that TP, TN and COD played important roles in the bacterial community shift in the wastewater and river water (p < 0.05 each, Fig. S13). Pearson correlation analysis further indi- cated that the percentage of each of Prevotella, Oscillibacter and Parabacteroides was significantly correlated with TP, TN and COD levels (r2 > 0.50, p < 0.05, Table S5). Similarly, ARGs showed significantly quantitative correlations with each of TP, TN and COD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Network analysis of co-occurring ARGs in the wastewater and its receiving river water based on correlation analysis. A connection stands for a strong (Pearson's correlation coefficient r 2 0.8) and significant (p  0.01) correlation. The different color of the nodes represents different types of the ARGs and the size of the nodes is proportional to the number of connections. Edge weight is calculated according to the correlation coefficient. M-L-S: macrolide-lincosamide-streptogramin. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+
+(r2 > 0.79, p < 0.05, Table S6). Additionally, the total abundance of ARGs was positively correlated (p < 0.05) with the total concen- tration of the detectable antibiotics, as well as separately with the concentration of each class of the antibiotics (Table S6).
+
+Correlations among bacterial community, MGEs and ARGs
+
+In general, about 25% of contigs carrying ARGs in all the samples could be taxonomically annotated at the genus level, and it could reveal the main hosts of the detectable ARGs in this study. Almost 50% of the tetracycline resistance genes were located in Clostridium in wastewater samples (), and the percentage of Clostridium dramatically decreased in the downstream river water (). Tetracycline resistance genes were also found to be mainly carried
+
+by Bacteroides in both the wastewater and river water (). In addition, Oscillibacter and Treponema, the major hosts of M-L-S resistance genes in the wastewater, also had decreasing abundance along the river flow (). Prevotella, the major host of beta- lactam resistance genes in the wastewater (), almost dis- appeared in the river water ().
+Moreover, the relative abundance of ARGs was significantly correlated with the relative abundance of the MGEs of plasmids, integrons and ISs (r2 > 0.53, p < 0.05 each). In addition, Mantel test based on Bray Curtis distance showed that the ARGs alteration was significantly correlated with MGEs change (r2 0.59, p < 0.01) and bacterial community shift (r2 0.62, p < 0.01). CCA showed that Treponema, Prevotella, Oscillibacter, Acholeplasma, Comamonas, Tri- chococcus, integrons and ISs played important roles in shaping the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3. Percentage of each taxonomic genus (>1% in any sample) in the wastewater and its receiving river water. The percentage of each bacterial genus was calculated by quantifying the number of the reads assigned to one genus vs. the total number of pyrosequencing reads.
+
+
+ARG profiles in the wastewater, while Methylotenera and plasmids contributed most to the resistome alteration of  the  river  water  (A). VPA further indicated that bacterial community shift contributed more (56.25%) to the resistome alteration than MGEs change (6.10%), and their joint effects (33.30%) (B).
+
+Discussion
+
+This study showed that swine wastewater contained a broad range of antibiotics covering different families, and the results agreed with previous studies indicating that tetracyclines and sulfonomides were the main antibiotics in swine manure and wastewater (). The reason may be that tetracyclines and sulfonamides are commonly used as growth promoter and disease preventer in animal farming (). A variety of ARGs were also present in the wastewater, among which tetra- cyclines, sulfonamides, aminoglycoside and M-L-S had relatively higher abundances. In this study, tetracycline resistance genes have gained much attention due to their high abundance and diversity, and they have been proven prevailing in  fecal  wastewater  ( ) with a broad host range of both gram-negative and gram-positive bacteria ().
+
+The wastewater discharge evidently elevated the ARG diversity and abundance in the receiving water. It has been reported that discharge of swine wastewater () and sewage () contributes to the increase of ARG di- versity and category in the receiving water bodies.  revealed that ARG abundance increased in river water with wastewater input. Especially, the wastewater discharge was found to increase the abundance of most of the tetracycline resistance genes in the river water. Similarly, showed that wastewater discharge contributed to the increase of concentrations of tet(M), tet(O) and tet(W) in the receiving river. The total abun- dance of the ARGs showed decreasing tread along the river flow, but the decreasing rate seemed higher in August than in May and November. Naturally occurred decomposition, sediment adsorption and dilution during the river water flow are considered as key geochemical processes mainly contributing to the decrease of the antibiotics concentrations and ARG abundance along the river flow (). ARGs may have higher decay rates in the river in summer, since DNA from animal feces persist for relatively shorter time under the conditions of higher temperature and stronger light exposure in rivers (). Another reason may be that some ARB accommodating to high-nutrient
+
+
+Table 1
+The information of contigs' hosts at the genus level and the carrying ARG types.
+
+
+
+environment of wastewater cannot survive when entering into the oligotrophic environment ().
+Interestingly, network analysis based on the co-occurrence patterns between ARG subtypes revealed the incidences of non- random co-occurrence of ARGs within the same types or among different types in the wastewater and river water. This study showed that co-occurrence was evident for the ARGs within the same type (including aminoglycoside and beta-lactam), which is supported by revealing the positive selection on ARGs posed by antibiotics in manure-polluted aquatic environ- ment. Usually, the co-occurrence of the ARG subtypes in different types shared the same resistance mechanism (), which is true for the co-occurrence of tet(W), ermF, ermB and sulI related to cellular protection mechanism observed in this study. In addi- tion, the observed strong correlations among different ARG types of different resistance mechanisms may highlight the genetic linkage. MGEs, such as integrons, plasmids and transposons, could partially contribute to the co-resistance or multidrug resistance (
+
+). Plasmids often carry the ARGs encoding resistance to tetra- cycline (tet(X)), M-L-S (ermF) and chloramphenicol (catII), and transposons harbor the ARGs encoding resistance to tetracycline (tet(Q)) and M-L-S (ermB) in Bacteroides sp. (). revealed the co-occurrence of tet(M), mef(A) and ermB embedded in a conjugative transposon commonly harbored by Clostridium isolates. In addition,  have also indicated the presence of tet(Q) and ermF in a transposon of Pre- votella. This study revealed that the wastewater discharge induced great shift of bacterial community composition and diversity and obvious changes of dominant bacterial groups. Firmicutes was the dominant phylum in the wastewater, which agreed with a previous report regarding swine wastewater anaerobic lagoons ( ). Similar to this study,  have indicated that Proteobacteria, Bacteroidetes and Actinobacteria are ubiqui- tous and abundant in river water. CCA, Pearson correlation analysis and host analysis consistently showed that several key genera like Prevotella and Treponema were significantly and positively
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4. Canonical correspondence analysis (CCA) of quantitative correlation between the genera and MGEs in all the samples (A) and variation partitioning analysis (VPA) differ- entiating effects of bacterial community and mobile genetic elements (MGEs) on the resistome alteration (B). Arrows represent the positive effects of bacterial community and MGEs on the ARGs alteration (p < 0.01).
+
+
+correlated with antibiotic resistome in the wastewater and river water, demonstrating that they might play important roles in disseminating various ARGs in wastewater samples. Recently, both phenotypic and genotypic profiling of Prevotella have indicated that the bacteria can carry multiple antibiotic resistance genes confer- ring resistance to beta-lactam, tetracycline and M-L-S ( ). Moreover,  showed that Treponema usually carries M-L-S resistance genes.
+The wastewater discharge contributed to the occurrence, spread and persistence of various potential bacterial pathogens in the receiving water. Although most of the pathogens were found to have lower abundance or nearly disappear in the downstream river water, Arcobacter butzleri and Clostridium difficile still had relatively high abundance. It is known that Arcobacter butzleri with a high genetic diversity and capability of resistance to several antibiotics has high prevalence and abundance in slaughterhouse environ- ments and wastewater treatment plants ( ). Clostridium difficile is widely distributed in soil, ani- mal feces and surface water and presents high-level multi-resis- tance to tetracycline, erythromycin, moxifloxacin and clindamycin, which is considered as an important cause of health care-related infections ().   have also indicated that the multidrug-resistant human pathogen Clostridium difficile usually carries various ARGs including tet(M), ermB and fusA. Similarly, this study revealed that the occurrence of tet(M) and ermB in the wastewater and the down- stream river with relative high abundance, which may result from the prevalence of Clostridium difficile in the river water.
+Bacterial community shift and MGEs alteration were found to
+greatly affect the ARG profiles in the wastewater and river water. It is known that environmental variables, such as chlorination ( ), heavy metals () and temperature ( ), can affect distribution of functional genes by altering bacterial community. In this study, TP, TN, COD and antibiotics were considered as the crucial environmental factors driving the bacte- rial community shift, which may further contribute antibiotic resistome alteration, since each of the parameters showed positive correlation with antibiotic resistance prevalence in the wastewater
+
+and receiving river water.  have confirmed that organic matter input can drive microbial community shift in the river. The antibiotics residues were present in the drinking water, which may impact the microbial community and subse- quently contribute to ARG dissemination and resistance promotion (). Additionally, positive correlation between ARGs and MGEs was observed in this study. Antibiotics, nutrient sub- stances and heavy metals in wastewater can obviously accelerate ARG replication on MGEs in microbial population and facilitate their horizontal transfer among bacterial cells by plasmids or integrons ( ). However, it is known that HGT via MGEs easily occur in niches with high biomass, like sediments () and composting activated sludge (), but it can be neglected in drinking water and urban wastewater with low biomass (), which may account for the more important role of bacterial community shift than HGT in driving the resistome alteration.
+
+Conclusions
+
+Swine wastewater discharge can alter antibiotic resistome and induce bacterial community shift in the receiving river water. ARGs within the same type and among different types show non-random co-occurrence patterns in the wastewater and river water.
+Swine wastewater discharge can result in the occurrence of bacterial pathogens Clostridium difficile and Arcobacter butzleri in the receiving water.
+High levels of nutrients and antibiotics in wastewater drive bacterial community shift in the wastewater-receiving river water, which is mainly responsible for the resistome alteration.
+
+Acknowledgments
+
+This study was financially supported by the National Natural Science Foundation of China (51290282), Fundamental Research Funds for the Central Universities, Program B for Outstanding PhD
+
+
+
+Candidate of Nanjing University and Postgraduates Research & Practice Innovation Program of Jiangsu Province (KYZZ16_0056). We also thank the High Performance Computing Center (HPCC) of Nanjing University for the help of computation.
+
+Appendix A. Supplementary data
+
+Supplementary data related to this article can be found at  .
+
+References
+
+    e.
+    e.
+  e.
+fi  ee.
+  e.
+  .
+   e.
+  e.
+ e.
+e,,  e,
+ e.
+  e.
+   e.
+  
+e.
+I_gv  OEUR   .
+     e.
+  e.
+
+ fi e.
+
+  e.
+  e.
+
+   e.
+
+
+ e.
+
+e.
+  e.
+  e.
+  e.
+ oEURoEUR   .
+ e.
+fi   e.
+  e.
+ e.
+   .
+  e.
+  e.
+   e.
+   .
+    e.
+a'o,
+a, fi e.
+  e.
+a
+o,o,a   e.
+   e.
+   e.
+  .
+  e.
+   e.
+
+ e.
+  .
+
+ 
+
+
+
+e.
+  e.
+ fi .
+     .
+   e.
+
+
+ e.
+   e.
+   e.
+  .
+ e.

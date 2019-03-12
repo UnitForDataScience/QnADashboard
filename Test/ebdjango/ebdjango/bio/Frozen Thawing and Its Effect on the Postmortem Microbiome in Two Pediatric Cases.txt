@@ -1,0 +1,285 @@
+
+
+
+
+CASE REPORT PATHOLOGY/BIOLOGY
+
+
+J Forensic Sci, September 2017, Vol. 62, No. 5
+doi: 10.1111/1556-4029.13419
+Available online at: onlinelibrary.wiley.com
+
+
+Jennifer L. Pechal,1 Ph.D.; Carl J. Schmidt,2 M.D., M.P.H.; Heather R. Jordan,3 Ph.D.; and
+M. Eric Benbow,4 Ph.D.
+
+Frozen: Thawing and Its Effect on the Postmortem Microbiome in Two Pediatric Cases*,+
+
+
+ABSTRACT: Previous postmortem microbiome studies have focused on characterizing taxa turnover during an undisturbed decomposition process. How coexisting conditions (e.g., frozen, buried, burned) affect the human microbiome at the time of discovery is less well understood. Microbiome data were collected from two pediatric cases at the Wayne County Medical Examiner in Michigan. The bodies were found frozen, hidden in a freezer for an extended time. Microbial communities were sampled from six external anatomic locations at three time points during the thawing process, prior to autopsy. The 16S rRNA V4 gene amplicon region was sequenced using high-throughput sequencing (Illumina MiSeq). Microbial diversity increased, and there was a distinct shift in microbial community structure and abundance throughout the thawing process. Overall, these data demonstrate that the postmortem human microbiome changes during the thawing process, and have important foren- sic implications when bodies have been substantially altered, modified, and concealed after death.
+
+KEYWORDS: forensic science, forensic pathology, postmortem microbiome, pediatrics, frozen, concealment
+
+
+A method to accurately estimate the postmortem interval  (PMI) is sought after in forensic sciences. Documentation of the circumstances at the time of death (e.g., eyewitness reports or admissions of a crime) is currently the most accurate way to establish a PMI. In cases where this information is unavailable, forensic scientists must use available decomposition metrics associated with the body (e.g., physiochemical changes--livid- ity) or other biological indicators (e.g., entomology, botany) to inform the PMI estimate. Sometimes bodies are concealed (e.g., after a homicide) in a variety of ways, such as clandestine burial, concrete interment, or placement in a freezer. Concealment increases the amount of time a body goes undetected and alters the environment of the decomposition process; the effects of concealment on decomposition can potentially skew or artifactu- ally elongate the PMI estimate (1). The PMI in circumstances in
+
+
+1Department of Entomology, Michigan State University, 243 Natural Science Building, East Lansing, MI.
+2Wayne County Medical Examiner's Office and Department of Pathology, University of Michigan, 1300 E. Warren Avenue, Detroit, MI.
+3Department of Biological Sciences, Mississippi State University, 295 Lee
+Blvd., Mississippi State University, MS.
+4Department of Entomology; Department of Osteopathic Medical Special- ties; and Ecology, Evolutionary Biology and Behavior, Michigan State University, 243 Natural Science Building, East Lansing, MI.
+*The opinions, findings, and conclusions or recommendations expressed in this publication are those of the authors and do not necessarily reflect those  of the Department of Justice.
++Financial support was provided by Grant 2014-DN-BX-K008, awarded  by the National Institute of Justice, Office of Justice Programs, U.S. Depart- ment of Justice.
+Received 2 Sept. 2016; and in revised form 15 Nov. 2016; accepted 1
+Dec. 2016.
+
+which a body is discovered after long-term concealment, or otherwise altered, is one of the many challenges to the forensic pathologist performing the autopsy.
+A rapidly advancing field in forensics is the proposed use of the postmortem microbiome as an additional biological indicator of time and/or circumstances of death (2-4). While several stud- ies have documented shifts in microbial community structure (taxon composition and abundance) from various locations and organs of a body during the decomposition process (5-9), much less is understood of how its previous condition (e.g., frozen, buried, burned) affects the microbiome at the time of discovery. No study to date has characterized the microbial community changes as a frozen body thaws before autopsy. The  present study reports two unusual pediatric cases in which the bodies were found substantially altered due to long-term freezing and concealment, one for 22 months and the other for 31 months. Given the dearth of postmortem microbiome studies conducted during routine death investigation, these data provide the first insights into the complexities associated with using microbiome information in one of a wide variety of death circumstances.
+
+Methods
+Case Reports
+The bodies of a 9-year-old male and a  13-year-old  female (half siblings) were discovered hidden in a chest freezer in a res- idential location in the spring of 2015; both children were homi- cide victims whose injuries consisted mainly of multiple blunt force trauma inflicted by their 36-year-old mother. After arrival  to the Wayne County Medical Examiner (MI), still in the chest
+
+
+
+(c) 2017 American Academy of Forensic Sciences
+
+1399
+
+
+
+freezer, the bodies were removed from it and individually placed on a clean sheet on separate gurneys. The bodies were placed on either side of a ceiling air-conditioning vent in the autopsy suite separated  by  30-40  cm  and  allowed   to   completely   thaw  (c. 48 h) prior to autopsy. During the thawing  process,  each body was covered with a clean sheet damped with water ad libi- tum to prevent rapid drying, especially of the extremities (mum- mification). A routine autopsy with documentation of  injuries was conducted in each case after thawing was complete. In both cases, the brain was fixed for 3 weeks before cutting, and rou- tine histologic samples were taken, as well as for the other major organs.
+
+Microbial Sample Collections
+Microbial samples were aseptically collected using DNA-Free (sterile) cotton-tipped swabs at three time points during the thawing process: when completely frozen and immediately after extraction from the freezer, partially thawed (c. 24 h postdiscov- ery), and when fully thawed (c. 48 h postdiscovery) for autopsy. The microbial communities were sampled from six external ana- tomic locations at each time period during the thawing: the external auditory canal, eyes, nares, mouth, umbilicus, and rec- tum. Samples were stored at -20degC until further processing.
+
+16S rRNA Gene Amplicon DNA Extraction, Sequencing, and Analysis
+DNA extractions were performed on individual swabs using PureLink(r) Genomic DNA Mini Kits (Thermo Fisher Scientific, Waltham, MA, USA) according to the manufacturer's protocol with the following addition: 15 mg/mL of lysozyme was added during the lysis step for reaction. The Quant-iT dsDNA  HS  assay kit and a Qubit 2.0 (Thermo Fisher Scientific, Waltham, MA, USA) were used for DNA quantification. All DNA prod- ucts were stored at 20degC. Illumina MiSeq 16S library construc- tion (2 9 250 bp, paired-end reads), and sequencing was performed at the Michigan State University Genomics Core Facility using a modified version of the protocol adapted for the Illumina MiSeq (10). The V4 region of the 16S rRNA gene was amplified with region-specific primers (11-13). The sequence output was demultiplexed and converted to FASTQ files with BCL2FASTQ Conversion Software v1.8.4 (Illumina). Raw fastq files were assembled, quality-filtered, and analyzed using the default settings in QIIME version 1.8.0 (14). After quality con- trol, the remaining high-quality sequences were binned into oper- ational taxonomic units (OTUs) at a 97% sequence similarity cutoff using UCLUST (15). The resulting assembled sequence reads were classified into OTUs on the basis of sequence simi- larity. The highest quality sequences from each OTU cluster  were taxonomically assigned using the RDP classifier (16) and identified using BLAST against reference sequences from the May 2013 Greengenes 97% reference dataset  (17-19). The representative sequences of all OTUs were then aligned to the Greengenes reference alignment using PyNAST (12). Singleton OTUs and any remaining low abundance OTU's making up <0.0005% of reads in the total dataset were removed, as recommended for Illumina-generated data (20). Not all samples, however, returned the same number  of sequences, and samples were rarefied to 1000 sequences for subsequent analyses to remove the effect of sample size bias on community composition; there were no microbial libraries con- taining fewer than 1000 sequences. To examine the mean,
+
+standard deviation, and coefficient of variation of microbial com- munities, estimates of a-diversity (observed richness and Faith's phylogenetic distance) and 1-Simpson index (D) diversity were calculated based on metrics determined in QIIME (21). For data visualization of microbial community structure, genus-level taxo- nomic data were imported into Krona (22). Additionally, heat maps were constructed using the pheatmap package (v 1.0.2;  in R
+(23) to visually inspect the temporal variation throughout the thaw process. All sequencing data files were made available to the European Nucleotide Archive database as part of study num- ber PRJEB15129 under accession numbers ERS1291061 through ERS1291096 
+
+Results
+The 9-year-old male was wrapped in a polychromatic bed comforter; his estimated frozen interval was c. 31 months. He  was 145 cm long and weighed 37.7 kg; body mass index (BMI) was 18. The 13-year-old female was loosely wrapped in a black plastic bag and yellow plastic band with a black cloth wrapped around the neck; her estimated frozen interval was c. 22 months. She was 160 cm long and weighed 46.3 kg; BMI was also 18. Both suffered extensive blunt force, mainly to the head, and both had prominent swelling of the brain; this was the cause of death. The 9-year-old male also had thermal burns, mainly on the abdo- men, buttocks, and genitalia. The height difference between the siblings was only c. 10%, and there was an 8.6 kg difference in their weights. Hence, their body habitus was very similar, was clearly malnourished, and thawed sufficiently to do an autopsy within the same time interval. There was remarkably good histo- logic preservation of the brain, heart, lungs, pancreas, and liver; the kidneys had moderate tubular autolysis. The most significant finding was freezing artifacts in all the tissues (Fig. 1); the out- line of ice crystals in tissue due to expansion of water during the initial freezing process.
+A  total  of 1,261,944 (35,054	24,900: range 1 417-77,254)
+16S rRNA amplicon sequences were detected and characterized prior to normalizing the database (singletons removed, relative abundance <0.0005% removal, and rarefication to equal coverage of 1000 reads; Table S1). During the thawing process, there was an observed increase in OTU richness and diversity as the bodies thawed (Fig. 2). Specifically, a 26.4% increase of observed taxa was detected as the bodies thawed from frozen (76.4 51.0) to partially thawed (87.9  58.9)  to  thawed  (103.8  47.8).  The  mean ( SD) Simpson diversity index demonstrated the greatest overall increase of 32.3% from frozen to thaw: 0.519 0.294 (frozen) to 0.564 0.330 (partially thawed) to 0.768 0.173 (thawed). Faith's phylogenetic diversity metric increased by 19.9% as thaw occurred: 6.76 3.68 (frozen) to 7.27  4.34  (partially thawed) to 8.44 3.84 (thawed). The most prevalent increase in microbial diversity during the thawing process was documented in the nares, eyes, and rectum; buccal samples had the highest overall mean observed taxa, Simpson diversity (1-D), and Faith's phylogenetic diversity among the different anatomic microbial communities (Fig. 2). The microbial communities of the ears, eyes, nares, and buccal cavity all increased in observed OTUs from the frozen to the thawed status and the umbilicus plateaued in richness after the first 24 h of thaw (partial), while the rectum was the only sample area to have a decrease over this time period. Further, the coefficient of variation for all metrics (among body sites) decreased as bodies thawed (Table S2), suggesting lower variability in the microbiomes among body sites with thaw.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 1--Evidence of freezing artifacts in the brain (A, B) and heart (C, D) tissues. Freezing caused clear spaces form chains of pseudobubbles in the brain, while it also caused cleavage of tissue planes in heart. [Color figure can be viewed at wileyonlinelibrary.com].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 2--Diversity metric estimates of the postmortem microbiomes as the bodies thawed over a c. 48-h period. (A) Mean ( SEM) observed species (OTU) richness estimate, mean ( SEM) Simpson diversity estimate, and the mean ( SEM) Faith's phylogenetic diversity estimate per sample at each collection time.
+(B) The mean ( SEM) diversity metric estimates, as previously discussed for panel A, were also calculated for each  sampling area on the  bodies as the  thaw-  ing process occurred: ears (ER), nares (N), buccal (B), eyes (EY), rectum (R), and umbilicus (U).
+
+
+
+There were also changes in microbial community composition throughout the thawing process (Fig. 3). Actinobacteria, Fusobacteria, and Gammaproteobacteria increased by 68.2, 49.3, and 49.5%, respectively, as the bodies thawed, while Firmicutes deceased by 18.3% and Bacteriodetes remained constant during the thawing process. At the familial taxonomic level, there were six families with discernable trends of increasing relative abun- dance as the bodies transitioned from frozen to thaw: Corynebacteriaceae (79.7%), Fusobacteriaceae (46.8%), Pas-
+teurellaceae (73.2%), Pseudomonadaceae (54.5%), and Tissierel- laceae (59.7%). Two other predominate families, however, demonstrated a decrease in relative abundance over the thawing period: Prevotellaceae (38.2%) and Staphylococcaceae (33.7%).
+Patterns of microbial taxon turnover during the thawing pro- cess were also documented. A heat map (Fig. 4) illustrated the genera-level OTUs turnover and showed unique profiles of taxon frequencies across the thawing process. Specifically, the relative abundance of Corynebacterium, Haemophilus, Fusobacterium, and Streptococcus increased by 79.7%, 75.0%, 46.8%, and 31.0%, respectively, from frozen to thawed, while the relative abundance of Staphylococcus decreased 33.3% from frozen to
+
+thawed. Lactobacillus became nearly undetectable at the partially thawed and thawed sampling times (98.3% decrease). The microbiomes of each sampling area were also represented by unique profiles of genera during the thawing process (Fig. S1). Forty-seven OTUs of several phyla matched an identifiable bacterial species (Actinobacteria = 6 species; Bacteroidetes = 9 species; Firmicutes = 20 species; Proteobacteria = 9 species; Spirochetes = 2 species; Verrucomicrobia = 1 species; Table S4), including some pathogenic genera that were detected at tempo- rally distinct times during the thawing process for each body.  The buccal cavity had the highest species occurrence throughout the thawing process; on average there were 12 species in the buccal cavity, while the ears and nares had an average of seven species, the rectum with six species, and the eyes and umbilicus represented by five species.
+
+Discussion
+These data demonstrate that the postmortem human micro- biome changes during the thawing of frozen individuals, in this case placed in a chest freezer and concealed for multiple years.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 3--Krona plot visualizing the taxonomic hierarchies of the 16S rRNA gene amplicon analysis performed with QIIME throughout the thawing process.  The inner ring represents the different phyla associated with the bodies, and as the plot progresses outwards, there is an increasing taxonomic resolution for  each ring (i.e., class, order, family, and genus, respectively). Sequences have been filtered to remove Archaea and only those OTUs with a relative abundance
+>0.1% are reported. [Color figure can be viewed at wileyonlinelibrary.com].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 4--Heat map of the genus-level OTUs. Dendrogram linkages and distance of the OTUs are not phylogenetic, but are based upon the mean read num-  bers of the OTUs within each samples. Scale shown in upper right corner of the figure represent colors in heat map associated with the relative abundance in percentage by z-score of microbes (cluster of variables in y-axis) within each thawing period  (x-axis). For  full legend of  genera see  Table S3. [Color figure  can be viewed at wileyonlinelibrary.com].
+
+
+The study also provides unique microbiome data that may be useful for estimating long-term postmortem intervals that result from concealing a body in ways that slow or limit decomposi- tion and subsequent microbial activity. We acknowledge that the low sample size (n = 2 bodies) prevents robust statistical analy- ses, but there are not many cases like this; thus, we  have  reported descriptive characteristics in the microbial communities as the bodies thawed. The thawing  time  of the bodies  was  c.  48 h after discovery. Due to the body composition and malnour- ishment, with similar BMIs, they thawed and proceeded to decompose at approximately the same rate. Both the cases suf- fered multiple blunt trauma, especially to the head, and both had swelling of the brain as the mechanism of death. In spite of the difference in the dates in which the bodies were frozen, both  were remarkably similar grossly and microscopically, and were  in good condition, including good histologic preservation. This means that they were frozen not long after death occurred.
+
+Because freezing essentially halted all postmortem changes, there is no alternative to knowing the dates in which the incident occurred to know when the bodies were frozen.
+There are several technical aspects to these case studies that may have some influence on the composition of the micro- biomes throughout thawing, such as the microbial  composition  of the home where the freezer was found and the environment where autopsies were performed. Yet, given these real-world cir- cumstances the greatest amount of care and effort were taken to reduce potential cross-contamination during the thawing period. A clean sheet was placed on the gurney before each body was placed on it, and a second clean sheet was used to cover the  body, only dampening it sufficiently to prevent desiccation of tissues, especially the extremities of these very thin individuals.  If the bodies had remained within a closed body bag, to thaw    the condensation would be significant, accumulating water  within the bag that would have created other sites for bacterial
+
+
+
+growth and affecting the composition of the bacterial communi- ties therein. Freezing itself and the generation of  ice  crystals may also have had an effect; ice crystals were present in all the tissues seen microscopically. Ice crystal can puncture cell mem- branes and form tissue clefts through which bacterial transmigra- tion may occur easily, especially from the bowel. Since the extremities have a smaller mass than the trunk, and thawed fas- ter, it is likely the temperature differential between the two affected the growth and composition of bacterial communities. Secondly, the bodies were not placed directly under flowing air, since this would have rapidly mummified the extremities and head; they were adjacent to a source of flowing air to ensure continuous airflow around the bodies. The sheets that covered  the bodies also allowed some control of evaporation without pro- moting condensation.
+The overall trend was for the microbial richness and diversity to increase as the bodies thawed. This results from an increased temperature (   20degC in a chest freezer to ambient temperature)   as the bodies were allowed to thaw before the autopsy. Micro- bial activity and growth for most human-associated commensal and pathogenic microbial species cease below freezing (0degC) (24,25). Thus, the observed increase in richness and diversity as thawing occurred initially resulted from the proliferation of exist- ing microbial communities on the body once they surpassed their lower growth temperature threshold. These trends in increased microbial richness and diversity were typically documented across the individual sampling areas on the body. The buccal cavity samples overall had the greatest richness and diversity among all body areas, which could result from an increased antemortem microbiota. Individuals with periodontal disease(s) have increased and differential abundance of microbial taxa pre- sent than nondiseased individuals (26,27). Only one sample area, the rectum, had a decreasing trend in microbial richness and diversity metrics, but this does not mean that the  concentration  of bacteria also decreased; rather, it probably means that some bacterial populations are prevailing over others since the bacte- rial content of tissue increases with the rise in body temperature as decomposition progresses. Since the rectum also more closely reflects bowel bacterial communities, this may also be a function of nutritional status at the time of death. Further, the decreasing coefficient of variation for all metrics suggests the microbial communities in both bodies were becoming more stable over time, even though more taxa were detected as a result of the warming to room temperature for autopsy.
+There were strong temporal shifts in microbial community structure as the bodies progressed from frozen to thawed. Since these microbial community changes were detected from each anatomic sampling area, it implies that multiple areas of a body should be sampled in future cases. However, there was variabil- ity in the specific taxa that changed during the thaw process for each anatomic area, which probably resulted from the existing antemortem communities and the variability of individual taxon life history traits (e.g., growth rate). Members of the Proteobac- teria almost doubled in relative abundance after 48 h of thaw, while the other major phyla (e.g., Firmicutes) decreased in rela- tive abundance by one-fifth during the same  thawing  period. This shift in microbial taxa has been previously reported in a study characterizing skin microbiome changes during the winter of donated human bodies decomposing within a controlled research environment (e.g., anthropological facility) (28). The similarity of these results may occur from similar treatment of  the bodies prior to sampling, specifically that the bodies were frozen for substantial periods of time. Further, of the several
+
+potential bacterial pathogens detected during the thawing pro- cess there were differential times during the thaw process in which the species were identified. For example, Haemophilus influenzae and H. parainfluenzae were detected in the male dur- ing the frozen and partial sampling periods while H. parain- fluenzae was only detected during thawing for the female, while the opportunistic pathogens Prevotella melaninogenica and Rothia dentocariosa that are commonly located in the oral cav- ity (29-32) were detected across all sampling periods for both bodies. These results indicate that the time in which sampling occurs affects the microbial community taxa and abundance and would change further had the sampling continued for a longer interval. Some species never appeared at all, such as Escheri- chia coli in the male, and rarely in the female; the converse happened with some of the Bacteroides taxa. The latter are common bowel inhabitants (33). Whether the process of freez- ing inhibited the growth of any or all species, or they were not present in usual concentrations because of nutritional status, or some combination of the two will have to be determined in the future.
+
+Conclusion
+The results presented here contribute a unique dataset to the study of the postmortem human microbiome. Specifically, part- nering with a medical examiner allowed the opportunity to char- acterize microbial communities associated with two unusual deaths that involved long-term concealment via freezing, with substantial altering of the microbiome profiles and changes in their communities during the thawing process. Since the bodies were completely frozen at the time of discovery, data also repre- sent new microbiome profiles for two frozen bodies with esti- mated postmortem intervals that ranged from 22-31 months. These data highlight the inherent variability in circumstances of death where the collected microbiome evidence may be complex in terms of analyses and interpretation, because microbial com- munities likely change when the cadaver has been moved or preserved for concealment. How physical changes, such as freezing, affect the microbiome are also not well defined in the existing literature. Additional data collected during death investi- gation are needed to fully understand the variability in  the  human postmortem microbiome and its potential utility in foren- sic science.
+
+Acknowledgments
+We would like to thank M. Brewer for her assistance in DNA extractions and quantification of the samples.
+
+References
+Sorg MH, Haglund WD. Forensic taphonomy: The postmortem fate of human remains. Boca Raton, FL: CRC Press, 1996.
+Benbow ME, Tomberlin JK, Tarone AM, editors. Carrion ecology, evo- lution and their applications. Boca Raton, FL: CRC Press, 2015.
+Pechal JL, Crippen TL, Benbow ME, Tarone AM, Dowd S, Tomberlin JK. The potential use of bacterial community succession in forensics as described by high throughput metagenomic sequencing. Int J Legal Med 2014;128(1):193-205.
+Metcalf JL, Wegener Parfrey L, Gonzalez A, Lauber CL, Knights D, Ackermann G, et al. A microbial clock provides an accurate estimate of the postmortem interval in a mouse model system.  eLife  2013;2:  e01104.
+Metcalf JL, Xu ZZ, Weiss S, Lax S, Van Treuren W, Hyde ER, et al. Microbial community assembly and metabolic function during mam- malian corpse decomposition. Science 2016;351(6269):158-62.
+
+
+Hauther KA, Cobaugh KL, Jantz LM, Sparer TE, DeBruyn JM. Estimat- ing time since death from postmortem human gut microbial communities. J Forensic Sci 2015;60(5):1234-40.
+Javan GT, Finley SJ, Can I, Wilkinson JE, Hanson JD, Tarone AM. Human thanatomicrobiome succession and time since death. Sci Rep 2016;6:29598.
+Hyde ER, Haarmann DP, Lynne AM, Bucheli SR, Petrosino JF. The liv- ing dead: bacterial community structure of a cadaver at  the onset  and  end of the bloat stage of decomposition. PLoS ONE 2013;8(10):e77733.
+Hyde ER, Haarmann DP, Petrosino JF, Lynne AM, Bucheli SR. Initial insights into bacterial succession during human decomposition. Int J Legal Med 2015;129(3):661-71.
+Caporaso JG, Bittinger K, Bushman FD, DeSantis TZ, Andersen GL, Knight R. Pynast: a flexible tool for aligning sequences to a template alignment. Bioinformatics 2010;26(2):266-7.
+Claesson MJ, Wang Q, O'Sullivan O, Greene-Diniz R, Cole JR,  Ross  RP, et al. Comparison of two next-generation  sequencing technologies for resolving highly complex microbiota composition using tandem vari- able 16s rRNA gene regions. Nucleic Acids Res 2010;38:e200.
+Caporaso JG, Lauber CL, Walters WA, Berg-Lyons D, Lozupone CA, Turnbaugh PJ, et al. Global patterns of 16s rRNA diversity at a depth of millions of sequences per sample. Proc Natl Acad Sci USA 2011;108 (Suppl. 1):4516-22.
+Caporaso JG, Lauber CL, Walters WA, Berg-Lyons D, Huntley J, Fierer N, et al. Ultra-high-throughput microbial community analysis on the Illu- mina Hiseq and Miseq platforms. ISME J 2012;6:1621-4.
+Caporaso JG, Knight R, Kelley ST. Host-associated and free-living  phage communities differ profoundly in phylogenetic composition. PLoS ONE 2011;6(2):e16900.
+Edgar RC. Search and clustering orders of magnitude faster than blast. Bioinformatics 2010;26(19):2460-1.
+Wang Q, Garrity G, Tiedje J, Cole J. NaEURive bayesian classifier for rapid assignment of rrna sequences into the new bacterial taxonomy. Appl Environ Microbiol 2007;73(16):5261-7.
+DeSantis TZ, Hugenholtz P, Larsen N, Rojas M, Brodie EL, Keller K,    et al. Greengenes, a chimera-checked 16s rRNA gene database and workbench compatible with ARB. Appl Environ Microbiol 2006;72 (7):5069-72.
+McDonald D, Price M, Goodrich J, Nawrocki E, DeSantis T, Probst A,   et al. An improved greengenes taxonomy with explicit ranks for ecologi- cal and evolutionary analyses of bacteria and archaea. ISME J 2012;6 (3):610-8.
+Werner J, Koren O, Hugenholtz P, DeSantis T, Walters W, Caporaso J,   et al. Impact of training sets on classification of high-throughput bacterial 16s rRNA gene surveys. ISME J 2012;6:94-103.
+Bokulich NA, Subramanian S, Faith JJ, Gevers D, Gordon JI, Knight R,  et al. Quality-filtering vastly improves diversity estimates from Illumina amplicon sequencing. Nat Methods 2013;10(1):57-9.
+Caporaso J, Kuczynski J, Stombaugh J, Bittinger K, Bushman F, Cost- ello E, et al. QIIME allows analysis of high-throughput community sequencing data. Nat Methods 2010;7(5):335-6.
+Ondov BD, Bergman NH, Phillippy AM. Interactive metagenomic visu- alization in a web browser. BMC Bioinformatics 2011;12(1):1.
+R Development Core Team. R: a language and environment for statistical computing, 2010; 
+Garrity GM, Boone DR, Castenholz RW. Bergey's manual of systematic bacteriology, Vol. 1, 2nd edn. New York, NY: Springer, 2001.
+
+
+Vos P, Garrity G, Jones D, Krieg NR, Ludwig W, Rainey FA, et al. Ber- gey's manual of systematic bacteriology. Vol. 3: The Firmicutes, 2nd  edn. New York, NY: Springer, 2009.
+Colombo APV, Boches SK, Cotton SL, Goodson JM, Kent R, Haffajee AD, et al. Comparisons of subgingival microbial profiles of refractory periodontitis, severe periodontitis, and periodontal health using the  human oral microbe identification microarray. J Periodontol 2009;80 (9):1421-32.
+Shaddox L, Huang H, Lin T, Hou W, Harrison P, Aukhil I, et al. Micro- biological  characterization  in  children  with  aggressive  periodontitis.   J Dent Res 2012;91(10):927-33.
+Metcalf JL, Carter DO, Knight R. Microbiome studies of carrion decom- position. In: Benbow ME, Tomberlin JK, Tarone AM, editors. Carrion ecology, evolution, and their applications. Boca Raton, FL: CRC Press, 2015;421-32.
+Haraszthy VI, Zambon JJ, Sreenivasan PK, Zambon MM, Gerber  D, Rego R, et al. Identification of oral bacterial species associated with hali- tosis. J Am Dent Assoc 2007;138(8):1113-20.
+Tanner A, Stillman N. Oral and dental infections with anaerobic bacteria: clinical features, predominant pathogens, and treatment. Clin Infect Dis 1993;16(Suppl. 4):S304-9.
+Aas JA, Paster BJ, Stokes LN, Olsen I, Dewhirst FE. Defining the nor- mal bacterial flora of the oral cavity. J Clin Microbiol 2005;43 (11):5721-32.
+Khan ST, Ahamed M, Musarrat J, Al-Khedhairy AA. Anti-biofilm and antibacterial activities of zinc oxide nanoparticles against the oral oppor- tunistic pathogens Rothia dentocariosa and Rothia mucilaginosa. Eur J Oral Sci 2014;122(6):397-403.
+Rath HC, Herfarth HH, Ikeda JS, Grenther WB, Hamm TE Jr, Balish E,  et al. Normal luminal bacteria, especially bacteroides species, mediate chronic colitis, gastritis, and arthritis in HLA-B27/human beta2 microglobulin transgenic rats. J Clin Invest 1996;98(4):945-53.
+
+Additional information and reprint requests: Jennifer L. Pechal, Ph.D.
+Department of Entomology Michigan State University 243 Natural Science Building East Lansing, MI 48824
+E-mail: 
+
+Supporting Information
+Additional Supporting Information may be found in the online version of this article:
+Fig. S1 Heatmap of the genus level OTUs for each sampling area (ears, nares, buccal, eyes, umbilicus, rectum).
+Table S1. Summary of sequencing data based for each indi- vidual body as it was thawed for autopsy.
+Table S2. Summary of the coefficient of variation for the diversity metrics as bodies thawed.
+Table S3. Legend of genera level OTU taxonomy.
+Table S4. Occurrence list of species detected during the thaw- ing process for each individual body.

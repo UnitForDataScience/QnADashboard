@@ -1,0 +1,243 @@
+
+
+Article
+Flavanol-Rich Cocoa Powder Interacts with Lactobacillus rhamnossus LGG to Alter the Antibody Response to Infection with the Parasitic Nematode Ascaris suum
+Saebyeol Jang 1, Sukla Lakshman 1, Ethiopia Beshah 1, Yue Xie 2, Aleksey Molokin 1, Bryan T. Vinyard 3, Joseph F. Urban Jr. 1, Cindy D. Davis 4 and Gloria I. Solano-Aguilar 1,*
+USDA, ARS, Beltsville Human Nutrition Research Center, Diet, Genomics, and Immunology Laboratory, Beltsville, MD 20705, USA; (S.J.); (S.L.);(E.B.); (A.M.);
+(J.F.U.)
+Department of Parasitology, College of Veterinary Medicine, Sichuan Agricultural University, Chengdu 611130, China; 
+USDA, ARS, Biometrical Consulting Services, Beltsville, MD 20705, USA; 
+Office of Dietary Supplements, NIH, Bethesda, MD 20892, USA; 
+*	Correspondence: Gloria.SolanoAguilar@ars.usda.gov; Tel.: +1-301-504-8068 Received: 28 July 2017; Accepted: 8 October 2017; Published: 12 October 2017
+Abstract: Consumption of the probiotic bacteria Lactobacillus rhamnosus LGG and flavanol-rich cocoa have purported immune modulating effects. This study compared the host response to infection with Ascaris suum in three-month-old pigs fed a standard growth diet supplemented with a vehicle control: LGG, cocoa powder (CP) or LGG + CP. Pigs were inoculated with infective A. suum eggs during Week 5 of dietary treatment and euthanized 17 days later. Lactobacillus abundance was increased in pigs fed LGG or LGG + CP. Specific anti-A. suum IgG2 antibodies were decreased (p < 0.05) in LGG + CP-fed pigs compared to pigs fed CP alone. Pigs fed LGG had significantly reduced expression (p < 0.05) of Eosinophil peroxidase (EPX), Interleukin 13 (IL-13), Eotaxin 3 (CCL26), Toll-like receptor 2 (TLR2), TLR4, and TLR9 and Interleukin-1Beta (IL1B) in the tracheal-bronchial lymph node (TBLN) independent of CP treatment.   These results suggested that feeding LGG significantly reduced    the localized prototypical Th2-related markers of infection with A. suum in the TBLN. Although feeding CP does not appear to affect the A. suum-induced Th2-associated cytokine response, feeding LGG + CP reduced anti-A. suum antibodies and delayed intestinal expulsion of parasitic larvae from the intestine.
+
+Keywords: LGG; cocoa flavanols; porcine model; gut microbiota; type-2 immune response; toll-like receptors
+
+
+
+Introduction
+Cocoa products are popular foods rich in flavanols such as catechin and epicathechin monomers, and procyanidin oligomers []. Health effects associated with cocoa flavanol consumption depend on their bioavailability and their chemical structure []. Monomeric flavanols absorbed in the small intestine can be rapidly detected in plasma and body tissues of animals and humans [,]. In contrast, flavanol polymers and trimers, and large pro-anthocyanidins appear to be less well absorbed and the beneficial effects depend on intestinal microbial metabolism in the lower bowel []. Consumption  of cocoa supplemented diets has been shown to influence host inflammation as well as the adaptive immune response, both systemically and in localized tissues. The evidence in humans seems to depend
+
+Nutrients 2017, 9, 1113; doi:	
+
+
+
+on the inflammatory status of the host [] with modification of biomarkers associated with improved clinical outcome []. Cocoa-supplemented diets also reduced the synthesis of Th2 associated antibodies in two allergy models induced in rats [].  The varied health benefits associated with consumption  of cocoa products in both animal and human models are likely related to differences in dose and composition of cocoa products [,,]. We previously demonstrated that consumption of flavanol-rich cocoa powder (CP) modulated colonic microbial metabolites in tissues, increased the abundance of the endogenous Lactobacillus and Bifidobacterium species in the intestine, and reduced pro-inflammatory cytokine and Toll-like receptor (TLR) gene expression in intestinal tissues and mesenteric lymph nodes (MLN) of healthy pigs, suggesting that consumption of CP can support intestinal health [].
+Infectious disease models have been routinely used to test the health benefits of diet. We studied the infection of pigs with the common intestinal parasite Ascaris suum (A. suum) because it is a zoonotic organism and related to A. lumbricoides, the most prevalent species of worm parasite in humans worldwide []. Pigs inoculated with A. suum express a classical Th2-associated cytokine response characterized by eosinophilia and increased IL-4, IL-5 and IL-13 gene expression in the liver,  lungs and intestines transiently exposed to migrating larvae prior to natural expulsion from  the intestine around Days 17-21 after inoculation []. There is a characteristic immediate-type hypersensitivity reaction in the lungs and draining lymph nodes of pigs, similar to human asthmatic airway hyper-sensitivity [], that has been studied for therapeutic treatment alternatives []. In our model, the demonstrated prebiotic effect of CP on endogenous pig Lactobacillus species [] was also tested on exogenous Lactobacillus rhamnosus (LGG) that was fed to pigs infected with A. suum. Probiotic supplementation with Lactobacillus rhamnosus HN001 had previously been shown to decrease the severity of lung responses to Ascaris allergens in sensitized pigs []. The objective was to determine if feeding CP with and without LGG would modulate the response to parasitic A. suum larvae migrating through the lung and small intestine. This study specifically examined the systemic and local response to A suum in young pigs fed a corn-, alfalfa-, and soy-based diet supplemented with either CP, LGG, LGG + CP or a vehicle-equivalent maltodextrin-fiber control for 4.5 weeks before inoculation with infective A. suum eggs.
+Materials and Methods
+
+Dietary Supplements
+Lactobacillus rhamnosus LGG and a high flavanol-rich CP powder (Acticoa) were kindly provided by Christian Hansen (Hoersholm, Denmark) and Barry-Callebaut (Lebbeke, Belgium), respectively. Detection of major phenolic compounds in CP was determined by 4-dimethyl aminocinnamaldehyde (DMAC) colorimetric method [] using a B-type proanthocyanidin dimer as equivalent of milligram proanthocyanidins (PACs) and by individual flavanol analysis with ultra-high performance liquid chromatography with high resolution mass spectrometry (UHPLC-HRMS) Orbitrap MS system (Thermo Fisher Scientific, San Jose, CA, USA) using catechin/epicatechin, procyanidin B1 and procyanidin C1 as standards for flavanol monomers, dimers and trimers, respectively. Flavanol tetramers and pentamers were measured using catechin (Sigma Aldrich,  St.   Louis,  MO, USA)     as a reference standard with relative response factors as previously described [,].   Insoluble    and soluble fiber AOAC (Association of Official Agricultural Chemistry) analysis was done by Covance Laboratories (Madison, WI, USA). LGG viability was assessed by culture in MRS-Agar plates (Anaerobe Systems, Morgan Hill, CA, USA).
+Animals and Diets
+All animal experiments and procedures were conducted in accordance with guidelines established and approved by the Beltsville Area Animal Care and Use Committee under Protocol No. 13-028 approved on 8 November 2013. Thirty-two 3-month-old male pigs from >12 litters were obtained from Oakhill Genetics Farms (Ewing, IL, USA). Pigs were acclimated for 3 weeks at the USDA facility after
+
+
+
+arrival, fed a basal corn-, alfalfa-, and soy-based diet prepared on site (Table S1) twice per day, and water ad libitum. Pigs with an average weight of 14.6 +- 1.6 kg (mean +- SD) were randomized by weight into four groups of eight animals, each in a 2 x 2 design, housed indoors individually on concrete floors equipped with heat lamps and airflow to maintain a comfortable temperature (24 *C), twelve-hour light/dark cycle and access to water at all times. Pigs were fed a grower diet supplemented daily with:
+(1) a vehicle/placebo (maltodextrin) containing 1.24 g/day of dextrin and 6.42 g/day of cellulose to match total soluble and insoluble fiber contributed by CP and 1 g of maltodextrin; (2) 1 x 1010 cfu LGG in maltodextrin; (3) 26 g of flavanol-rich CP; or (4) LGG + CP for 7 weeks. Lyophilized LGG or the equivalent amount of maltodextrin alone was mixed with 5 mL of phosphate buffered saline (PBS) until dissolved and delivered orally using individual disposable syringes. Cocoa powder (dose of 26 g) or dextrin and cellulose (equivalent to the amount of fiber in the CP) was dissolved in 30 mL of water and the suspension was applied to the dry feed that provided 2702 kcal/day (Table S1).  After 4.5 weeks on the diets, pigs were orally inoculated with infective A. suum eggs (1 x 104) and then continued on the diet treatment until the end of Week 7. The acquisition and preparation of infective A. suum eggs, oral inoculation, management of pigs, and recovery of fourth-stage larvae (L4) from the intestines were as previously described []. All pigs were sacrificed by IV injection with Euthasol (50 mg sodium pentobarbital/kg of body weight) (Virbac Animal Health, Inc., Fort Worth, TX, USA) 17 days after inoculation with A. suum eggs.
+Blood Collection and Processing
+Blood samples were collected from all 32 pigs at baseline (Week 0) and Week 7. Serum samples were sent to Antech Diagnostics Laboratory (Morrisville, NC, USA) to run a basic serum chemistry panel including alkaline phosphatase (ALP), alanine aminotransferase (ALT), aspartate aminotransferase (AST), total bilirubin, lactate dehydrogenase (LDH), gamma glutamyltransferase (GGT) and total protein. Serum aliquots and supernatant derived from ileal contents collected at necropsy (Week 7) were saved for detecting IgM, IgG, IgG1 and IgG2 isotype antibodies against
+A. suum 3rd to 4th stage larvae (L3/L4) extract by ELISA. Briefly, ELISA plates (Immunolon, Nunc) were coated with 100 uL of 5 ug/mL of A. suum L3/L4 extract [] in coating buffer (Sodium Carbonate buffer, pH 9.5). After an overnight incubation at 4 *C, plates were washed six times (0.05% Tween 20 in 1X-PBS) and blocked with 0.05% Tween 20, 0.5% BSA in PBS for 30 min. Plates were washed and used for testing 100 uL of serum diluted at 1:10, 1:100, 1:1000 and 1:3000 (0.05% Tween 20 in PBS). Test samples were run in duplicates and incubated for 2 h at room temperature. After six washes, 100 uL of HRP-conjugated porcine anti-IgM, IgG, IgG1 or IgG2 (Serotec, Raleigh, NC, USA) were added at a 1:10,000 dilution and incubated for one hour. After a final wash, 100 uL of TMB-One substrate solution (Promega, Madison, WI, USA) was added. Relative anti-Ascaris L3/L4 specific antibody was determined after reading plates with an optical density (OD) at 450 nm after 20 min. The reaction was stopped by addition of 1 M HCl solution.
+Tissue and Intestinal Sample Processing
+Fecal samples were collected before the start of the study (Week 0) and at necropsy (Week 7). All other samples including supernatant from the ileal contents, serum, tracheal/bronchial lymph nodes (TBLN), mesenteric lymph nodes (MLN), jejunum (mid-section of the small intestine) and alveolar macrophage (AM) isolated from the bronchial/alveolar lavage fluid were collected at the end of Week 7. All samples were initially frozen in liquid nitrogen and then kept at -80 *C until further analysis.
+Lactobacillus Rhamnosus Abundance
+Fecal samples were collected before the start of the study (Week 0), at Week 4.5 prior to inoculation with A. suum eggs and at Week 7 (end of the study). The abundance of Lactobacillus rhamnosus was measured by real time PCR using specific probes []. DNA from feces was isolated using the
+
+
+
+QIAamp DNA stool kit according to the manufacturer's instructions (Qiagen, Valencia, CA, USA). DNA concentration was determined by NanoDrop (Thermo Fisher Scientific, Wilmington, DE, USA). Briefly, 40 ng of fecal DNA per sample was used as a template for real time PCR amplification using primers and probes that differentially amplify variable regions within the 16S ribosomal DNA specific for L rhamnosus. The Ct value generated for LGG was compared to Ct values from a standard curve constructed using a series of dilutions of purified target gene fragments to determine the target gene copy numbers. The values were expressed as log10 target gene copy number per gram (cpg) of sample. A fixed amount of a synthetically designed plasmid pUC57-Kan containing a 219 bp snake venom fragment was mixed into samples and used as a positive control for efficiency of DNA extraction. All molecular assays were performed in duplicate using the 7500-ABI PRISM (Perkin Elmer, Foster City, CA, USA). Mean copy numbers of bacterial species in feces were calculated and compared among treatment groups.
+Isolation of Alveolar Macrophage
+Alveolar macrophages (AM) were isolated from pigs at necropsy by bronchial/alveolar lavage []. Briefly, both lobes of a lung were gravity filled with 500 mL of PBS, followed by massaging for 30 s, and draining of the cell suspension into 50 mL polypropylene tubes. The cells were centrifuged at 2500 rpm for 5 min, washed in PBS and re-suspended in macrophage culture medium (RPMI 1640, 2% porcine serum, 1% non-essential amino acids, 1% sodium pyruvate, 10 mM HEPES, 100 U/mL penicillin, 100 ug/mL streptomycin, 1.5 g/L sodium bicarbonate) and seeded at a density of 5 x 106  cells per well of six-well tissue culture plates and incubated for 24 h. The cell culture supernatants were replaced with fresh macrophage culture medium and treated with either vehicle (DMEM media) or 10 ng/mL LPS for 24 h. The cells were lysed with 1 mL of TRIzol reagent (Invitrogen, Life Technologies, Carlsbad, CA, USA), and frozen for subsequent RNA isolation and analysis of gene expression.
+RNA Extraction, cDNA Synthesis, and Real-Time PCR Analysis (RT-PCR)
+Frozen (-80 *C) 1 mm3 tissue sections of TBLN, MLN, and jejunum were rapidly homogenized in Trizol (Invitrogen, Grand Island, NY, USA). The RNA extraction and cDNA synthesis were performed as previously described []. The sequence of probes and primers and running conditions of RT-PCR were obtained from the Porcine Translational Research Database []. The RT-PCR was performed using 15 ng/well of cDNA in 15 uL on an ABI 7900 sequence detector system (Applied Biosystems, Foster City, CA, USA). Data for gene expression were normalized to the housekeeping gene RPL32, expressed as [?]Ct, and a fold change was compared to the control group of pigs which was designated as 1-fold change. The fold change was calculated from the mean difference of the control group.
+Statistical Analysis
+The effects of LGG, CP, and their interaction were determined by fitting generalized linear mixed-effects models (GLMMs), using SAS/STAT PROC GLIMMIX. Bacterial abundance and parasite counts were modeled using a negative binomial distribution with log link function. The anti-Ascaris antibody response was modeled using a normal distribution and identity link function. For gene expression data, [?]CT and [?][?]CT values were calculated by including another factor, with target gene and baseline gene levels, in the normally-distributed Analysis of Variance ANOVA models and specifying contrasts []. Correlation between target and baseline genes and stimulant or no stimulant measured on the same pig was modeled selecting among: heterogeneous or homogeneous and compound symmetric or independence covariance structures using the Akaike Information Criteria Corrected (AICC) []. A stimulant factor was added to the ANOVA model for AM, with levels LPS or Media only. Fold change of each Diet x Treatment and each Stimulant x Diet x Treatment, relative to baseline (i.e., control and no LGG or stimulant), was calculated as 2-[?][?]CT. Significance of each pair wise comparison was determined using the Sidak comparison wise error rate (CER) to maintain a maximum, a = 0.05, experiment-wise error rate (MEER) for all pair-wise comparisons
+
+
+
+among experimental condition, Diet x Treatment or Stimulant x Diet x Treatment, means or fold changes. Significance of fold change differences for each pair, i and k, of experimental conditions were determined using contrasts to test H0: [?][?]CTi - [?][?]CTk = 0. The Pearson correlation coefficient was calculated between A. suum larvae counts in intestinal lumen and the IgG, IgM, IgG1 and IgG2 OD values. Analysis were carried out using SAS PROC CORR and coefficients are reported when p < 0.1.
+Results
+
+Cocoa Powder (CP) Flavanols
+Analysis of the CP fed to pigs showed that the major components were flavanols, theobromine, caffeine, and caffeoyl aspartic acid. The total flavanol concentration was 137.19 mg/g of CP with total flavanols expressed as B-type proanthocyanidin dimer equivalent containing 15.70 mg/g of flavanols up to five polymers as determined by UHPLC HRMS (Table ).
+
+Table 1. Chemical composition of Acticoa cocoa powder.
+
+a PAC result from 4-dimethylaminocinnamaldehyde(DMAC) colorimetric method is expressed as B-type proanthocyanidin, dimer equivalent of milligram PACs content per gram of cocoa powder. b Cocoa powder methanol extract was injected into UHPLC-Orbitrap MS system. Catechin/Epicatechin, procyaidin B1 and procyanidin C1 used as standards for monomers, dimmers and trimers, respectively. Tetramers and pentamers were measured according to previously published procedures using (-) cathechin (Sigma Aldrich, St. Louis, MO, USA) as reference standard with relative response factors.
+
+Clinical Signs
+There were no clinical signs of disease in any of the pigs. Body weight (BW) increased in pigs fed LGG + CP, 30.7 +- 0.6 Kgs BW (mean +- SE) compared to 28.6 +- 0.8 Kgs BW in control pigs, with no other differences among treatment groups after seven weeks of dietary intervention (p < 0.05). Serum profiling of liver enzymes alkaline phosphatase (ALP), alanine transaminase (ALT), aspartate transaminase (AST), total bilirubin, glutamyl transferase (GGT) and total protein were within the physiological range for all four treatment groups. Lactate dehydrogenase (LDH) was elevated in pigs supplemented with LGG + CP (661.75 +- 35.23 U/L) at Week 7 relative to their baseline level (508 +- 38.89 U/L) (p < 0.05), but still within the normal physiological range (380-634 U/L) (Table S2). The mean average recovery of A. suum L4 in pigs fed CP was 4163 +- 908 (mean +- SE), LGG + CP was 6388 +- 1393, placebo control was 4072 +- 888, and LGG was 2700 +- 589. Pairwise mean comparisons indicated a significant increase (p = 0.01) in A. suum L4 in pigs treated with LGG + CP compared to pigs fed LGG (Figure ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Ascaris suum fourth-stage larvae (L4) from intestinal luminal contents 17 days post-inoculation. Data represent mean larvae counts +- SEM (n = 8 per treatment). Different letters denote differences among treatments after ANOVA (p < 0.05).
+
+Abundance of Lactobacillus Rhamnosus in Feces
+The abundance of Lactobacillus rhamnosus significantly increased in fecal samples from pigs fed LGG compared to the control pigs at Weeks 4 and 7 (p < 0.05), and in pigs fed LGG + CP at Week 7. LGG abundance appeared not to be affected by feeding CP or by infection with A. suum (Figure ).
+
+
+
+
+
+control cocoa LGG
+cocoa + LGG
+
+
+
+
+
+
+Figure 2. Bacterial LGG abundance in feces of pigs fed different diets. Lactobacillus rhamnosus abundance was measured by real time PCR and converted to copy number per gram of feces (cpg). Values shown are means +- SEM (n = 8 per treatment). Different letters denote differences among treatments after ANOVA (p < 0.05).
+
+Type 2 Immune Response-Related Gene Expression in the Draining Lymph Nodes
+Parasitic A. suum larvae typically show peak migration through the lungs of pigs at seven days after inoculation and begin to appear in the small intestine three days later []. Previous studies have shown a prototypical increase in Th2-associated type-2 cytokine gene expression for EPX, CCL26, and IL-13 in TBLN [,]. In this study, pigs fed LGG and infected with A. suum had a reduced expression of EPX, CCL26 and IL-13 (p < 0.05) with no change in gene expression of these three genes when pigs were fed LGG + CP or CP alone. No changes in type-2-cytokine gene expression were observed in MLN draining the small intestine (Figure ) (data showing [?]Ct values and their standard errors along with fold changes are shown in Table S3) or in jejunum tissue (data not shown).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Gene expression related to a type-2 immune response in Tracheobronchial lymph nodes (TBLNs) and Mesenteric Lymph nodes (MLNs). Gene expression in TBLNs and MLNs were measured by RT-PCR (n = 8/group): (A) EPX (Eosinophil peroxidase); (B) IL-13 (interleukin 13); and (C) CCL26 (C-C motif ligand 26). Bars represent a mean fold change. The control group was designated as one-fold change. Labeled means without a common superscript letter differ (p < 0.05).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Toll-like receptor gene expression in TBLNs and MLNs. Toll-like receptor (TLR) 2 (A); TLR4 (B); TLR9 (C); and IL-1b (D) gene expression in TBLNs and MLNs were measured by RT-PCR (n = 8/group). Bars represent a mean fold change. The control group was designated as one-fold change. Labeled means without a common superscript letter differ (p < 0.05).
+
+
+
+Toll-Like Receptor Gene Expression in the Draining Lymph Nodes
+Pigs fed the control diet had levels of TLR2, TLR4, TLR9 and IL1B gene expression in TBLN that were significantly (p < 0.05) greater than in pigs fed LGG (Figure ). In MLN, a significant increase in TLR4 gene expression was observed in pigs fed LGG + CP compared to control pigs (Table S3).
+LPS-Induced Alveolar Macrophage (AM) Gene Expression In Vitro
+Isolated AM stimulated with LPS in vitro showed a significant increase in TNFa gene expression with no significant difference among treatment groups. No differences in TLR2, TLR4 and TLR9 gene expression were observed (data not shown).
+Antibody Response to Ascaris suum
+The serum IgG2 antibody response to A. suum larval antigens was reduced in pigs fed LGG + CP compared to those fed CP alone (p = 0.03) (Figure ). No other differences in anti-Ascaris specific IgM, IgG or IgG1 isotype were detected in the serum or ileal content supernatants (data not shown); however, there was a significant inverse correlation between serum IgG1 (r = -0.39, p = 0.02) anti-Ascaris antibody and A. suum L4 counts, with a negative but non-significant correlation for serum IgG2 and ileal IgG (r = -0.33, p = 0.06) antibody responses and A. suum L4 counts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5. Anti-Ascaris IgG2 antibody response. The anti-Ascaris IgG2 antibody response was measured using A. suum proteins extracted from isolated third and fourth stage larvae and serum obtained 10 days post-inoculation with infective A. suum eggs. Bound serum antibody at a 1/1000 dilution was detected using biotinylated anti-pig IgG2 followed by streptavidin-HRP complex. Values shown are means +- SEM (n = 8 per treatment). Labeled means without a common letter differ, p < 0.05.
+Discussion
+This study provides evidence for an immune modulating effect of daily feeding of Lactobacillus rhamnossus
+LGG on the localized type-2 immediate-type hypersensitivity response in the lungs of pigs infected with
+A. suum. Ascaris suum is a common and ubiquitous parasitic roundworm that induces a strong type-2-polarized immune response in pigs with significant increases in IL-4, IL-5, IL-13 and other genes in the small intestine, liver, lung and draining MLN and TBLN []. The type-2 response is associated with protection against parasitic larvae migrating through the tissues and expulsion from the small intestine between 17 and 21 days after inoculation []. Our results showed that pigs fed LGG and infected with A. suum had reduced levels of IL-13, a key cytokine regulating allergic responses to parasitic infection, eotaxin 3 (CCL26), one of the three related chemokines that specifically activates CCR3 receptor in eosinophils, and eosinophil peroxidase (EPX), suggesting an inhibition of eosinophil recruitment and function in TBLN draining the lungs of A. suum infected pigs. Lactobacillus rhamnossus modulation of type-2 allergic responses has also been reported in a mouse ovalbumin
+
+
+
+(OVA)-induced allergy model where it suppressed inflammatory cell infiltration in the airways and BAL fluid after challenge with OVA, and reduced IL4, IL5 and IL-13 gene expression in the lungs and spleen [,]. In our model, dietary treatment affected type 2 gene expression in the TBLN, but not the MLN draining the small intestine of A. suum-infected pigs. This may be due to the accumulating numbers and growth of L4 in the small intestine provoking a stronger immune response not sensitive to the bioactive components of the diets tested. In future studies, evaluating diet effects on advanced larval stages or adult A. suum after longer periods of feeding may prove more relevant to the biology and epidemiology of this infection in pigs and, by extension, humans.
+The role of antibody in protective immunity against A. suum in pigs is unresolved,  as there is   a weak association between antibody levels and development of worms several weeks after initial infection [], and acquired resistance is associated with induction of IgG1 and IgM rather than IgG2 antibodies []. In our study, the number of A. suum L4 were inversely correlated with the serum IgG1 (r = -0.39, p = 0.02), serum IgG2 (r = -0.33, p = 0.06), and ileal fluid IgG (r = -0.33, p = 0.06) antibody response to A. suum larvae products suggesting some type of humoral immune protection []. A comparison of A. suum L4 detected in the small intestine indicated that pigs fed LGG + CP had more L4 than pigs fed the other diets with a significant difference when compared to LGG fed pigs. Pigs fed LGG + CP also had a significantly lower level of circulating IgG2 antibodies to Ascaris-derived antigens when compared to pigs fed CP (p < 0.05), suggesting that a weaker antibody response in pigs fed LGG + CP enhanced L4 survival. A negative relationship between levels of anti-Ascaris IgG1 antibodies and migrating larvae in the lungs of infected pigs correlated with acquired resistance []. Future studies on diet-induced protective responses against A. suum would target adult worm infection and memory to re-infection.
+Our results do not indicate any independent dietary effect of CP or LGG on anti-Ascaris antibody production as none of the immunoglobulin isotypes evaluated were changed by diet. Diets with cocoa polyphenols, however, have shown a dose-dependent reduction in OVA specific antibody levels in OVA-sensitized rats [] or in anti-allergen IgE synthesis in rats fed a conventional cocoa product with high fiber and methylxanthines []. Reduced levels of specific serum antibody to Ascaris antigens was observed only in pigs fed LGG + CP, suggesting that the synergism of LGG probiotic and bioactive cocoa-derived products may also alter allergic type antibodies []. This speculation would be supported when appropriate reagents to detect pig IgE have been developed. The composition of cocoa-flavanols and dose of active ingredients may explain differences in immune modulating effects in different animal models [,]. The dose fed in our study was selected to be comparable to that fed to humans [] where cocoa derived metabolites were reportedly absorbed and distributed to tissues []. In addition, factors such as the allergen route for sensitization (i.e., intraperitoneal vs. oral) also have been shown to induce differential responses [].
+Feeding LGG to pigs for four weeks increased the abundance of Lactobacillus species independent of feeding CP and this increase was not affected by parasitic infection. It also modulated localized type-2 gene expression in response to infection with A. suum and the levels of pro-inflammatory genes TLR2, -4, and -9 and IL1B without any additional effect of feeding CP. Although feeding CP does not appear to affect the A. suum-induced type-2 cytokine response, it does synergize with LGG to improve body weight after a seven-week dietary intervention and reduce the anti-A. suum specific IgG2 response, which may delay the intestinal expulsion of parasitic larvae. Taken together, our data showed that feeding LGG alone reduce expression of genes associated with the type-2 immune response and inflammation in the lymph nodes draining the lungs with a lower yield of intestinal parasitic L4 compared to pigs fed LGG +CP. However, feeding LGG + CP can reduce IgG2 antibody levels, expression of some genes linked to parasite-induced inflammation and improve growth. The impact of these features would require a longer interaction with the infection to confirm the health benefits of feeding these diets.
+
+
+
+Supplementary Materials: The following are available online at , Table S1: Pig Diet; Table S2; Biochemical serum markers at Week 7; Table S3-[?]Ct values and their standard errors along with fold changes.
+Acknowledgments: This study was supported by USDA Project Number 8040-51530-056-00 and Inter agency agreement 8040-51530-056-13 with ODS at NIH. We thank Christian Hansen and Barry-Callebaut for providing LGG and Acticoa, respectively.
+Author Contributions: Saebyeol Jang, Cindy D. Davis, and Gloria I. Solano-Aguilar conceived and designed the experiments; Saebyeol Jang, Sukla Lakshman, Ethiopia Beshah, Aleksey Molokin, Joseph F. Urban Jr., Yue Xie, and Gloria I. Solano-Aguilar performed the experiments; Saebyeol Jang, Bryan T. Vinyard, Gloria I. Solano-Aguilar, and Bryan T. Vinyard contributed analysis tools; and Gloria I. Solano-Aguilar, Cindy D. Davis, Saebyeol Jang and Joseph F. Urban Jr. wrote the paper. All authors read and approved the final manuscript.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+Cifuentes-Gomez, T.; Rodriguez-Mateos, A.; Gonzalez-Salvador, I.; Alanon, M.E.; Spencer, J.P. Factors affecting the absorption, metabolism, and excretion of cocoa flavanols in humans. J. Agric. Food Chem. 2015, 63, 7615-7623. [] []
+Goya, L.; Martin, M.A.; Sarria, B.; Ramos, S.; Mateos, R.; Bravo, L. Effect of cocoa and its flavonoids on biomarkers of inflammation: Studies of cell culture, animals and humans. Nutrients 2016, 8, 212. [] []
+Urpi-Sarda, M.; Monagas, M.; Khan, N.; Lamuela-Raventos, R.M.; Santos-Buelga, C.; Sacanella, E.; Castell, M.; Permanyer, J.; Andres-Lacueva, C. Epicatechin, procyanidins, and phenolic microbial metabolites after cocoa intake in humans and rats. Anal. Bioanal. Chem. 2009, 394, 1545-1556. [] []
+Jang, S.; Sun, J.; Chen, P.; Lakshman, S.; Molokin, A.; Harnly, J.M.; Vinyard, B.T.; Urban, J.F., Jr.; Davis, C.D.; Solano-Aguilar, G. Flavanol-enriched cocoa powder alters the intestinal microbiota, tissue and fluid metabolite profiles, and intestinal gene expression in pigs. J. Nutr. 2016, 146, 673-680. [] []
+Monagas, M.; Urpi-Sarda, M.; Sanchez-Patan, F.; Llorach, R.; Garrido, I.; Gomez-Cordoves, C.; Andres-Lacueva, C.; Bartolome, B. Insights into the metabolism and microbial biotransformation of dietary flavan-3-ols and the bioactivity of their metabolites. Food Funct. 2010, 1, 233-253. [] []
+Ellinger, S.; Stehle, P. Impact of cocoa consumption on inflammation processes-a critical review of randomized controlled trials. Nutrients 2016, 8, 321. [] []
+Magrone, T.; Russo, M.A.; Jirillo, E. Cocoa and dark chocolate polyphenols: From biology to clinical applications. Front. Immunol. 2017, 8, 677. [] []
+Camps-Bossacoma, M.; Massot-Cladera, M.; Abril-Gil, M.; Franch, A.; Perez-Cano, F.J.; Castell, M. Cocoa diet and antibody immune response in preclinical studies. Front. Nutr. 2017, 4, 28. [] []
+Leles, D.; Gardner, S.L.; Reinhard, K.; Iniguez, A.; Araujo, A. Are ascaris lumbricoides and ascaris suum a single species? Parasit Vectors 2012, 5, 42. [] []
+Dawson, H.D.; Beshah, E.; Nishi, S.; Solano-Aguilar, G.; Morimoto, M.; Zhao, A.; Madden, K.B.;  Ledbetter, T.K.; Dubey, J.P.;  Shea-Donohue, T.;  et al.  Localized multigene expression patterns support  an evolving th1/th2-like paradigm in response to infections with toxoplasma gondii and ascaris suum. Infect. Immun. 2005, 73, 1116-1128. [] []
+Sylvin, H.; Weitzberg, E.; Alving, K. Endothelin-induced vascular and bronchial effects in pig airways: Role  in acute allergic responses. J. Appl. Physiol. (1985) 2002, 93, 1608-1615. [] []
+Sylvin, H.; Dahlback, M.; Van Der Ploeg, I.; Alving, K. The tryptase inhibitor apc-366 reduces the acute airway response to allergen in pigs sensitized to ascaris suum. Clin. Exp. Allergy 2002, 32, 967-971. [] []
+Thomas, D.J.; Husmann, R.J.; Villamar, M.; Winship, T.R.; Buck, R.H.; Zuckermann, F.A. Lactobacillus rhamnosus hn001 attenuates allergy development in a pig model. PLoS ONE 2011, 6, e16577. [] []
+Prior, R.L.; Fan, E.; Ji, H.; Howell, A.; Nio, C.; Payne, M.J.; Reed, J. Multi-laboratory validation of a standard method for quantifying proanthocyanidins in cranberry powders. J. Sci. Food Agric. 2010, 90, 1473-1478. [] []
+
+
+
+Lin, L.Z.; Harnly, J.M. Quantitation of flavanols, proanthocyanidins, isoflavones, flavanones, dihydrochalcones, stilbenes, benzoic acid derivatives using ultraviolet absorbance after identification by liquid chromatography-mass spectrometry. J. Agric. Food Chem. 2012, 60, 5832-5840. [] []
+Urban, J.F., Jr.; Romanowski, R.D. Ascaris suum: Protective immunity in pigs immunized with products from eggs and larvae. Exp. Parasitol. 1985, 60, 245-254. []
+Solano-Aguilar, G.; Molokin, A.; Botelho, C.; Fiorino, A.M.; Vinyard, B.; Li, R.; Chen, C.; Urban, J., Jr.; Dawson, H.; Andreyeva, I.; et al. Transcriptomic profile of whole blood cells from elderly subjects fed probiotic bacteria lactobacillus rhamnosus gg atcc 53103 (lgg) in a phase i open label study. PLoS ONE 2016, 11, e0147426. [] []
+Rogers, C.S.; Abraham, W.M.; Brogden, K.A.; Engelhardt, J.F.; Fisher, J.T.; McCray, P.B., Jr.; McLennan, G.; Meyerholz, D.K.; Namati, E.; Ostedgaard, L.S.; et al. The porcine lung as a potential model for cystic fibrosis. Am. J. Physiol. Lung Cell. Mol. Physiol. 2008, 295, L240-L263. [] []
+Dawson, H.; Solano-Aguilar, G.; Beal, M.; Beshah, E.; Vangimalla, V.; Jones, E.; Botero, S.; Urban, J.F., Jr. Localized th1-, th2-, t regulatory cell-, and inflammation-associated hepatic and pulmonary immune  responses in ascaris suum-infected swine are increased by retinoic acid. Infect. Immun. 2009, 77, 2576-2587. [] []
+Dawson, H.D.; Chen, C.; Gaynor, B.; Shao, J.; Urban, J.F., Jr. The porcine translational research database: A manually curated, genomics and proteomics-based research resource. BMC Gen. 2017, 18, 643. [] []
+Khan-Malek, R.; Wang, Y. Statistical analysis of quantitative rt-pcr results. Methods Mol. Biol. 2011, 691, 227-241. []
+Hurvich, C.M.; Tsai, C.L. Model selection for extended quasi-likelihood models in small samples. Biometrics
+1995, 51, 1077-1084. [] []
+Murrell, K.D.; Eriksen, L.; Nansen, P.; Slotved, H.C.; Rasmussen, T. Ascaris suum: A revision of its early migratory path and implications for human ascariasis. J. Parasitol. 1997, 83, 255-260. [] []
+Nawaz, M.; Ma, C.; Basra, M.A.; Wang, J.; Xu, J. Amelioration of ovalbumin induced allergic symptoms in balb/c mice by potentially probiotic strains of lactobacilli. Benef. Microbes 2015, 6, 669-678. [] []
+Kringel, H.; Thamsborg, S.M.; Petersen, H.H.; Goring, H.H.; Skallerup, P.; Nejsum, P. Serum antibody responses in pigs trickle-infected with ascaris and trichuris: Heritabilities and associations with parasitological findings. Vet. Parasitol. 2015, 211, 306-311. [] []
+Frontera, E.; Carron, A.; Serrano, F.J.; Roepstorff, A.; Reina, D.; Navarrete, I. Specific systemic igg1, igg2 and igm responses in pigs immunized with infective eggs or selected antigens of ascaris suum. Parasitology 2003, 127, 291-298. [] []
+Saliganti, V.; Kapila, R.; Sharma, R.; Kapila, S. Feeding probiotic Lactobacillus rhamnosus (MTCC 5897) fermented milk to suckling mothers alleviates ovalbumin-induced allergic sensitisation in mice offspring. Br. J. Nutr. 2015, 114, 1168-1179. []
+Perez-Berezo, T.; Ramiro-Puig, E.; Perez-Cano, F.J.; Castellote, C.; Permanyer, J.; Franch, A.; Castell, M. Influence of a cocoa-enriched diet on specific immune response in ovalbumin-sensitized rats.  Mol.  Nutr.    Food Res. 2009, 53, 389-397. [] []
+Abril-Gil, M.; Massot-Cladera, M.; Perez-Cano, F.J.; Castellote, C.; Franch, A.; Castell, M. A diet enriched with cocoa prevents ige synthesis in a rat allergy model. Pharmacol. Res. 2012, 65, 603-608. [] []
+Noval Rivas, M.; Burton, O.T.; Wise, P.; Zhang, Y.Q.; Hobson, S.A.; Garcia Lloret, M.; Chehoud, C.; Kuczynski, J.; DeSantis, T.; Warrington, J.;  et  al. A  microbiota  signature  associated  with  experimental food allergy promotes allergic sensitization and anaphylaxis. J. Allergy Clin. Immunol. 2013, 131, 201-212. [] []
+Tzounis, X.; Rodriguez-Mateos, A.; Vulevic, J.; Gibson, G.R.; Kwik-Uribe, C.; Spencer, J.P. Prebiotic evaluation of cocoa-derived flavanols in healthy humans by using a randomized, controlled, double-blind, crossover intervention study. Am. J. Clin. Nutr. 2011, 93, 62-72. [] []
+(c) 2017 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ().

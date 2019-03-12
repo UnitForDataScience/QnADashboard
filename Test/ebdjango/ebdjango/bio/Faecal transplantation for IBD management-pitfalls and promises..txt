@@ -1,0 +1,291 @@
+
+British Medical Bulletin, 2017, 124:181-190
+doi: 10.1093/bmb/ldx040 Advance Access Publication Date: 13 November 2017
+
+
+
+Invited Review
+Faecal transplantation for IBD management-- pitfalls and promises
+M. N. Quraishi+, T. Critchlow+, N. Bhala+, N. Sharma++, and T. Iqbal+,*
++Department of Gastroenterology, Queen Elizabeth Hospital Birmingham, Mindelsohn Way, Birmingham B15 2TH, UK, and ++Department of Gastroenterology, Heart of England NHS Foundation Trust, Bordesley Green East, Birmingham B9 5SS, UK
+*Correspondence address. Department of Gastroenterology, Queen Elizabeth Hospital Birmingham, Mindelsohn Way, Birmingham B15 2TH, UK. E-mail: 
+Editorial Decision 3 October 2017; Accepted 3 November 2017
+
+Abstract
+Background: Faecal microbiota transplantation (FMT) as a potential treat- ment for inflammatory bowel disease (IBD) is an area of active current research, having been stimulated by the remarkable efficacy of FMT in treatment of Clostridium difficile-associated colitis.
+Sources of data: This review is based on data from numerous case series on FMT in IBD since 1989 and results of four RCTs in ulcerative colitis (UC); three fully published.
+Areas of agreement: Early signals of short to medium-term efficacy of FMT for UC are promising
+Areas of controversy: Methodology, underlying mechanisms and questions regarding safety of FMT remain controversial.
+Growing points: Many trials of FMT in adults and children are currently recruiting.
+Areas timely for developing research: Future trials of FMT will likely revisit Crohn's disease and patients undergoing pouch surgery. Advances in microbial culture complementing genetic sequencing and investigations into the virome and mycobiome in IBD will be of great future interest.
+Key words: IBD, faecal microbiota transplantation, microbiome
+
+
+
+
+(c) The Author 2017. Published by Oxford University Press. All rights reserved. For permissions, please e-mail: 
+
+182	M.N. Quraishi et al., 2017, Vol. 124
+
+
+Introduction
+Inflammatory bowel disease (IBD) largely comprises Crohn's disease and ulcerative colitis.This chronic affliction of the bowel usually runs a relapsing, remitting course and tends to occur in the second or third decade of life affecting people of working and reproductive age. IBD is therefore associated with considerable health economic and societal cost. Crohn's disease (CD) is characterized by patchy, full thickness inflammation and can occur anywhere in the bowel, most typically affecting the terminal ileum and right side of the colon. In ulcerative col- itis (UC), on the other hand, the inflammation is  confined to the mucosa, always starts in the rectum and affects a variable proportion of the colon. Both CD and UC are associated with a considerable life- time risk of surgery and increased risk of colorectal cancer. The prevalence of IBD is greatest in the  'developed' world affecting 1 million people in USA,
+2.5 million in Europe and the prevalence is increas-
+ing.There is considerable evidence that IBD, once thought to be rare in the developing world, is being encountered with much greater frequency, recent studies from China, India and the Middle East reporting prevalence of between 2.0 and 6.0 per 100 000 individuals.
+
+
+The gut microbiota in health
+The micro-organisms that inhabit the colon are known collectively as the colonic microbiota. Recently, the advent of novel culture-independent high-throughput DNA sequencing techniques to characterize the gut microbiota coupled with advances in bio-informatics has revolutionized our understanding of this co- habiting community. The human gastro-intestinal tract is home to about 1000 different species of bacteria along with viruses and yeasts. The genetic material represented by these organisms (the gut microbiome) is about 100-fold greater than the gen- etic material found in human cells in the body.The gut microbiome is considered to be an ancient paral- lel non-human organ which survives in symbiosis with the host and is highly metabolically active and involved in processes such as short-chain fatty acid
+
+metabolism, prevention of invasion by pathogens, normal education of the adaptive immune system with regard to self-tolerance and preservation of the gut epithelial barrier.
+The colonic microbiota is largely composed of members of two predominant phyla, gram positive Firmicutes (about 35%) and gram negative Bacteroides (about 60%). The remaining microbiota are representa- tives of gram negative Proteobacteria, with some Actinobacteria and Eucharyotes.
+An individual's microbiota at birth is derived from their mother during the process of parturition and varies depending on the method of delivery. The microbiota develops through childhood with the introduction of food, becoming stable at about the age of 10.Microbial diversity then diminishes in old age. The microbiome is highly susceptible and adapts to environmental influences such as diet, smoking, antibiotic use, stress and lifestyle. It is  hypothesized that the gut microbiota co-evolved with the polysaccharide-rich diet of individuals in the developing world allowing them to maximize energy intake from indigestible dietary components, such as plant polysaccharides, by producing high levels of SCFAs to supply the host with additional energy.On the contrary the Western diet, associated with high sugar and calorie-dense content results in a microbial simplification which risks depriving our microbiome of potentially useful gene reservoirs. Because of this diversity and great variation in diver- sity between individuals we are not currently able to define what constitutes a normal healthy microbiota. It should also be mentioned that, given the anaerobic growth requirement of most of the microbiota, organisms are rapidly lost in the process of collection and this, despite great advances made by sequencing techniques, is a limiting factor in our understanding. Various groups are actively involved in improving faecal culture techniques and combining this technol- ogy with genetic sequencing to good effect.
+
+The gut microbiota in IBD
+It has long been thought that the gut microbiota is likely to be key to the pathogenesis of IBD. Early investigators considered Crohn's disease to be variant
+
+Faecal transplantation for IBD management, 2017, Vol. 124	183
+
+
+of Johne's disease, which is caused by Mycobacterium paratuberculosis and affects cattle.Indeed 30 years ago Mycobacterium avium paratuberculosis was isolated from the intestine of patients with Crohn's disease and this was considered by many to be pathogenic. More recent careful review of the evi- dence suggests that it is simply a bystander and does not fulfil Koch's classical postulates.Patients with CD have been shown to respond well to anti- biotics such as ciprofloxacin and rifaximin. Additionally UC often starts after an episode of infective gastroenteritis and it has been previously shown that infection with Campylobacter and non-typhoid Salmonella increases the risk of devel- oping IBD.Using germ-free animal models pre- disposed to IBD it has been repeatedly shown that in the absence of gut microbiota, IBD does not develop.,, Furthermore, diverting the faecal stream in human patients with severe colonic Crohn's disease has long been known to have a healing effect, with restoration of bowel continuity resulting in recurrent inflammation.The accepted position and much repeated mantra is 'no microbiota no IBD'.
+Recent genome wide association searches have
+uncovered over 150 potential genes associated with IBD. Many of these encode proteins involved with microbiota sensing of the epithelium, barrier func- tion and regulation of both innate immunity (pro- tection against pathogen invasion) and adaptive immunity (educated tolerance to host pathogens). The accepted current paradigm to explain the pathogenesis of IBD entails abnormal sensing of the microbiota by the epithelium in genetically suscep- tible individuals resulting in activation of both innate and adaptive immune pathways which causes dam- age to the epithelial barrier.
+Much information has been garnered concerning the gut microbiome in IBD since the first publica- tion outlining microbiome dysbiosis in IBD as part of the NIH Metahit metagenomics project in 2010.In this it was shown that patients with IBD generally have lower bacterial diversity compared to healthy individuals and that the microbiota in  patients with CD and UC segregated from that of healthy individuals. The situation in which the
+
+
+'normal' microbiome becomes imbalanced with an over-representation of pathogenic bacteria and under-representation of species considered to be 'healthy' is termed 'dysbiosis'.There has been an accumulation of information concerning dysbiosis in patients with IBD in recent years. In an import- ant inception cohort study (precluding the effects of powerful immune-suppressant drugs) Gevers et al. showed that an axis defined by an increased abun- dance in bacteria including Enterobacteriaceae, Pasteurellacaea, Veillonellaceae and Fusobacteriaceae, and decreased abundance in Erysipelotrichales, Bacteroidales and Clostridiales, correlates strongly with Crohns disease status.In general it has been shown that patients with IBD show lower bacterial diversity compared to healthy individuals, a reduction in families of organisms belonging to the Firmicutes phylum at the expense of an increase in Proteobacteria. Some studies have shown also increases in Bacteroides but this in an inconsistent finding. Certain species have been shown to be important. In CD there is consist- ently found to be increased representation of adherent invasive Escherichia coli. The mucolytic bacterium Ruminococcus gnavus is seen in mucosa from patients with colonic CD and UC.Faecalibacterium prausnit- zii which belongs to the Firmicutes phylum and is a short-chain fatty acid producing bacterium, has consist- ently been shown to be under-represented in both CD and UC.,Furthermore low proportions of F. praus- nitzii were consistently associated with an increased risk of postoperative recurrence of ileal CD. Roseburia hominis, another SCFA producer, is reduced in UC and, interestingly, under-representation of this species in the colon  pre-colectomy  has been  shown to be pre-
+dictive  of  the  development  of  pouchitis  in  patients
+undergoing ileal-pouch anal anastomosis (IPAA).
+
+Faecal microbiota transplantation
+Faecal microbiota transplantation (FMT) is the artifi- cial replacement of a 'dysbiotic' microbiota with one from a healthy individual. Our developing knowledge concerning dysbiosis in patients with IBD begs the question regarding manipulation of the  microbiome as a treatment for IBD. FMT is far from being a 'novel therapy', having been used since fourth century
+
+184	M.N. Quraishi et al., 2017, Vol. 124
+
+
+with two Chinese physicians Ge Hong and Li Shizen first describing use of fresh or fermented faecal pro- ducts, called 'yellow soup', to treat severe diarrhoea, fever, pain and constipation. In the modern era FMT for the treatment of patients with pseudomem- branous colitis then thought to be due to over-growth of Micrococcus Pyogenes (Staphylococcus) was first reported in 1958.In hindsight it seems likely that these patients were in fact colonized by an over- growth of toxigenic Clostridium difficile as is com- monly seen in patients (usually elderly and frail) who have been treated with broad spectrum antibiotics. In these individuals there is a profound reduction in colonic bacterial diversity associated with a bloom in toxin-producing C. difficile. This causes debilitating colitis known as C. difficile-associated infection (CDI) and about a third of patients will develop recurrent or persistent disease refractory to commonly used first- line antibiotics. Since the first report of the use of FMT to treat CDI in 1983 it has been used sporadic- ally with good effect. The first randomized controlled trial for FMT in this setting was reported in 2013 and since then a plethora of systematic reviews and an increasing number of clinical trials have consistently
+demonstrated the remarkable effectiveness of FMT in
+curing antibiotic refractory CDI-with one or two doses of FMT effecting dramatic cure of this condi- tion in about 90% patients.
+Encouraged by this success investigators have taken on FMT with enthusiasm in the context of  IBD. So far there have been several small case series in UC and Crohns disease and three published RCTs in UC evaluating the efficacy of FMT in achieving disease remission and response. To date there are no controlled studies on FMT in Crohns disease.
+
+Uncontrolled case series of FMT in IBD
+Most of the evidence of FMT in IBD comes from studies in UC. Interest was sparked in 1989 when Justin Bennet and Mark Brinkman first reported sustained remission when Dr Bennet treated his own refractory UC with enema delivered stool from a disease free donor.  This,  coupled  with the encouraging signals seen using both antibiotics
+
+and probiotics in conjunction with 5ASA compounds in maintaining remission in UC, has led investigators to focus on UC as a target for FMT therapy. In 2012 Angelberger et al. reported their results of FMT used to treat five immunotherapy-refractory UC on a 'com- passionate' basis.All but one of these patients had failed treatment with TNFa monoclonal antibodies and therefore had disease at the very severe end of the spectrum. Although only one responded following 3 days' treatment using FMT by a combined naso- jejunal plus enema-delivered approach, this patient's microbiota uniquely demonstrated a consistent  shift to resemble that of the donor. A paediatric study with 10 patients aged between 7 and 21 evaluated the efficacy of freshly prepared faecal enemas for 5 days in treating mild to moderate UC. In this small study the investigators found that after  FMT,  seven of the nine subjects showed clinical response within 1 week, six of the nine subjects maintained clinical response at 1 month with a significant reduction in the paediatric UC activity index. Another case series however failed to show any improvement in six patients with chronic  active UC   nonresponsive   to   standard   medical therapy
+treated  with single  colonoscopic  administration of
+FMT.Overall from these case series it appears that there is some improvement in about a third of patients and no striking safety signals.
+The initial experience in treating Crohn's disease was not so encouraging. In the study conducted by Vermeire et al., 14 refractory patients (8 with ulcerative colitis and 6 with Crohn's disease) under- went faecal microbiota transplantation through a naso-jejunal or rectal route. Although no improve- ment was seen in the Crohns disease, two out of  eight ulcerative colitis patients achieved to endo- scopic and long-term (>2 years) remission. None  of the four patients with medically refractive CD enrolled into the study demonstrated any significant clinical improvement.A more recent Chinese case series with 30 patients (using a non-endoscopic scor- ing system) showed more encouraging results with a rate of clinical improvement and remission at the first month of 86.7% (26/30) and 76.7% (23/30), respectively.There are, however, theoretical safety concerns using FMT in CD which is characterized
+
+Faecal transplantation for IBD management, 2017, Vol. 124	185
+
+
+by patchy deep ulceration which can occur through- out the gastro-intestinal tract. In this condition the theoretical risk of bacterial translocation  across  the gut is greater than in ulcerative colitis in which inflammation is confined to the colonic epithelium.
+Another aspect of IBD in which dysbiosis is likely to be key is the development of inflammation after ileo-pouch anal anastomosis. Approximately 30% patients who have pouches formed after sub- total colectomy for UC will develop pouchitis in a year. Studies involving the treatment of patients with pouchitis with FMT have given mixed results.-
+
+Randomized controlled trials in UC
+To date three randomized controlled trials of FMT for the treatment of UC have been published (summarized in Table ). Moayyedi et al. from Hamilton Canada reported the results of a double blinded randomized placebo controlled trial using FMT in the form of an enema administered weekly over 7 weeks to patients with active UC.They did not use bowel lavage prior to treatment and con- comitant immune-suppressants (including monoclo- nal antibodies to TNFa) were permitted if the patients were on stable doses. Six healthy volunteers underwent screening for health and transmissible pathogens before donating stool. Patients were matched with individual donors and the primary endpoint was set as clinical remission at 7 weeks with an expectation of remission in 50% in the active treatment arm. This was clearly an ambitious target and the trial was halted prematurely as it became clear at interim analysis that this endpoint was not going to be achieved. However, after 70 patients had successfully completed therapy the investigators reported clinical remission in 9 out of 38 (24%) patients in the active arm compared to 2 out of 37 (5%) in the placebo group. Eight of the 9 in remission after FMT remained in remission at a year. Of note one donor (donor B) had a dispropor- tionate effect in terms of successful outcome achiev- ing remission in 40% patients treated. Patients who were in remission had an increase in microbial diversity and there were no differences in serious adverse events between the FMT and placebo
+
+
+treated groups. Interestingly, it was observed that patients earlier in the course of their disease (i.e. diagnosed within a year of treatment) were more likely to respond.
+Rossen et al. from Amsterdam took a very differ- ent approach in their clinical trial, which was reported in the same issue of Gastroenterology as the Canadian study. They undertook a double blinded RCT using the naso-jejunal route to deliver FMT to patients with mild to moderately  active UC. Patients underwent bowel lavage prior to two treatments at baseline and after 4 weeks. They recruited healthy volunteers and partners as stool donors, used fresh rather than frozen samples and, in contradistinction to the Moayeddi study, did not allow patients to be on TNFa treatment. Interestingly, they chose to use patient's own stool as placebo. In all but six cases recipients were matched to single donors. As with the Canadian group they chose an ambitious primary outcome expecting 70% composite clinical remission and endoscopic improvement at 12 weeks. Again, as with the Canadian study, this study was halted before recruitment had been completed as per protocol due to evidence of futility. At 8 weeks they found remission in 6 of 23 (26%) donor-FMT treated
+vs.  8 of 25 (32%)  autologous  FMT  treated patients.
+Adverse events were mild, patients experiencing bor- borygmi and two patients in the active treatment arm vomiting after administration of FMT. There were no differences in serious adverse events between the two groups although there was one case of CMV infection and, alarmingly, one patient in the active treatment arm was shown to subsequently have severe small bowel Crohn's disease. Microbiota diversity increased in both groups of responders, again with a shift toward donor microbiota in those who responded. This, along with the 32% remission seen in the patients treated with their own stool suggests that autologous FMT delivered to the  jejunum  may  not be entirely without biological activity.
+In the most recent 3-centre study from  Australia
+the investigators took the view that, unlike for the treatment of CDI, efficacy in the treatment of UC is likely to require an intensive treatment course. They used multiple donors (3-7 per treatment) in their intensive dosing placebo controlled RCT again
+
+186	M.N. Quraishi et al., 2017, Vol. 124
+
+Table 1 Summary of study characteristics and outcome from RCTs of FMT for UC published to date
+
+
+intervention group (n)
+Disease Severity for
+
+
+
+Mayo score >=4	SCCAI >=4 and Mayo endoscopic
+
+
+
+Mayo score of 4-10 with Mayo
+
+Inclusion
+
+Permitted
+concomitant therapies
+
+Mayo endoscopic score >=1
+
+Anti-TNF, mesalazine, immunosuppressant (stable dose for 12 weeks)
+Corticosteroids (stable dose for 4 weeks)
+
+score of >=1
+
+Thiopurines, mesalazine, corticosteroids (<=10 mg/d) (stable doses for 8 weeks)
+
+endoscopic score >=1 and Physicians global score of <=2
+Oral 5-aminosalicylates, thiopurines, methotrexate, (stable doses 4 weeks)
+Corticosteroids <=20 mg/d (stable for 2 weeks but tapered  during study over 8 weeks)
+
+Excluded therapies Probiotics or antibiotics
+within last 30 days
+
+Anti-TNF or methotrexate within 8 weeks
+
+Anti-TNF, calcineurin inhibitors within 12 weeks
+
+Cyclosporine within 4 weeks	Rectal steroids and
+a5-aminosalicylate within 2 weeks
+
+
+
+Donors	6 anonymous healthy adult volunteers, 1 partner
+
+Probiotics or antibiotics within 6 weeks
+13 anonymous healthy adult volunteers, 1 partner, 1
+friend; 6 recipients had 2 different donors
+
+Probiotics and antibiotics within 4 weeks
+Blended stool from 3 to 7 donors. Patients received all infusions from same batch
+
+Patient preparation   No bowel lavage	Bowel lavage with 2 l macrogol
+solution, 2 l clear fluids
+
+Bowel lavage before colonoscopy
+
+FMT preparation	50 ml supernatant (50 g stool
+in 300 ml water). Administered fresh or stored at -20degC
+
+500 ml faecal suspension.
+Administered fresh within 5 h of donation
+
+150 ml (37.5 g blended stool in isotonic saline). Stored at -80degC, then home freezers at -20degC
+
+Placebo
+preparation
+
+Water	Autologous faecal suspension	Isotonic saline, colourant, odorant
+
+FMT delivery	Retention enema, in left
+lateral position for 20 min
+
+Nasoduodenal tube	1 colonoscopy (terminal ileum or caecum) followed by enemas
+
+FMT frequency	Weekly enemas for 6 weeks	2 times, at Weeks 0 and 3	Enemas 5 times a week for 8 weeks Follow-up	7 weeks	12 weeks	8 weeks
+
+Composite primary endpoint
+
+Remission: Mayo score <3, Mayo endoscopic score 0
+
+Remission: SCCAI <=2, Mayo endoscopic score reduction of
+>=1 point
+
+Remission: steroid-free: total Mayo score <=2 with Mayo endoscopic score <=1 and reduction of >=1 point
+
+Achievement of primary endpoint: FMT vs. placebo ITT
+
+9/38 (24%) vs. 2/37 (5%)	7/23 (30.4%) vs. 5/25 (20%)	11/41 (27%) vs. 3/40 (8%)
+
+
+
+P = 0.03	P = 0.51	P = 0.021
+
+
+SCCAI, simple clinical colitis activity index; TNF, tumour necrosis factor; ITT, intention to treat analysis.
+
+Faecal transplantation for IBD management, 2017, Vol. 124	187
+
+
+in patients with mild-moderate ulcerative colitis. As in the previous studies, patients on stable dose immune-suppressants were permitted to enter the study but not those on current TNFa antagonists. Patients on steroids at entry had to undergo a man- datory taper over 8 weeks. Healthy volunteers were screened and, after donation, blended stool was kept frozen prior to use. The protocol mandated colonoscopic delivery at baseline followed by 5 weekly enemas for 8 weeks. The primary endpoint chosen was a composite of steroid-free remission or response at Week 8. Those patients who had been treated with placebo were allowed to cross over to open label treatment with 5 weekly enemas for 8 weeks at this point. This trial did achieve its pri- mary endpoint with 11 out of 41 (27%) patients in the active treatment arm compared to 3 out of 40 (8%) achieving steroid-free remission at Week 8   (P = 0.021). It should be noted that endoscopic remission did not differ between the groups. Of the
+37  placebo  treated  patients  who  underwent open
+label FMT 17 (40%) achieved clinical remission after 8 weeks and of the patients in remission from the active arm and cross over treatment groups, two-thirds were still in clinical remission at 1 year follow-up. In this study there was no concerning safety signal, with six adverse events relating to dis- ease exacerbation. It should be noted, however, that one patient in the active treatment arm needed a  colectomy due to disease flare, raising the potential of disease exacerbation by FMT. Again an increase in microbiota diversity was seen in all treated patients.
+Another recent study from Australia presented at this year's European Crohns and Colitis Organisation conference took a novel approach to FMT prepar- ation in their RCT of FMT in UC.They conducted  a short duration, low intensity pooled faecal micro- biota transplantation in patients with mild-moderately active ulcerative colitis with donor and autologous stool prepared in entirely anaerobic conditions. In remarkable results published as an abstract they showed that 12/38 (32%) achieved steroid-free remis- sion in the active arm compared to 3/35 (9%) who received autologous FMT (P = 0.02) in the intention to treat (ITT) analysis. Similarly clinical response and
+
+
+clinical remission rates were 55% vs. 20% (P < 0.01) and 50% vs. 17% (P < 0.01), respectively. Whether this improvement in disease activity, that rivals results from biologic trials in UC, is due to viability of donor bacteria in anaerobically prepared conditions will hopefully be elucidated in the study's full publication.
+
+Future directions
+The uncontrolled case series and data from the three published RCTs of FMT in treatment of UC undoubtedly show promise. However, many ques- tions remain unanswered. The first two published trials suffered from early over-optimism setting pri- mary endpoints based on the remarkable success of FMT in curing CDI and also from the highly encouraging data from reported case series. Despite the fact that both failed to achieve their primary  endpoint the approximately 20-30% clinical remis- sion seen in the treated patients would not disgrace early trials of novel biological agents. The most recent Australian study did achieve the primary endpoint and there was evidence of lasting efficacy.
+Of course this area of translational research is in its infancy and many questions remain unanswered in terms of donor selection, process, medium to long-term efficacy and safety.
+The Canadian study brought up the tantalizing prospect of the 'super donor' with one of the six  donors used contributing disproportionately to suc- cessful outcome. This suggests that careful examin- ation of the composition of FMT with respect to  recipient outcome and microbiota is likely to be highly fruitful and it is very probable that donor  lifestyle and diet are going to be key. In the most successful trial reported to date investigators took a multi-donor approach to preparation of FMT both for pragmatic reasons with respect to their intensive treatment regimen and also to maximize diversity. The obvious drawback of this approach is the impossibility of relating donor stool make up to outcome in treated patients. Questions also remain about route of treatment (foregut, hindgut or a combination) and the benefit of fresh vs. frozen stool. Both fresh and encapsulated treatments work very well in CDI; it is not clear if the same is going
+
+188	M.N. Quraishi et al., 2017, Vol. 124
+
+
+to be true of IBD in which it seems to be imperative to achieve maximal diversity after treatment., The role of pre-treatment with gut lavage, concomi- tant treatment with immune-suppressants and intensity of treatment regimen all remain to be determined. Furthermore there is no controlled trial data in Crohn's disease or pouchitis at the time of writing.
+Given current methodological constraints there is no certainty as to what constitutes 'normality' with regard to the colonic microbiome and 16sRNA- based sequencing techniques allow assessment at the level of families, not species and certainly not at the strain level. Furthermore DNA-based sequencing technologies alone may yield incomplete data with regard to the microbiome as a result of the rapid demise of gut microflora in aerobic conditions. Indeed, in a recent study combining careful culture with high-throughput sequencing Browne et al. were able to demonstrate previously unknown species in stool samples from healthy volunteers. Of course the gut microbiota comprises fungi and viruses as well as bacteria. We are at the beginning of our understanding of the role of fungi in the bowel.In a recent study of intensive FMT from an adult donor to three children with UC, the investigators were able to show efficient transfer of viral particles to the children although none of the transferred viruses was from viral groups which infect human cells.
+Short  term  safety  data  regarding  FMT  in  the
+treatment of IBD has not revealed any serious con- cerns although the number of patients treated in controlled trials (204) is small and the length of follow-up (1 year) short. Nevertheless it is clear that FMT in the context of UC can make things worse as well as better. The apparent novel occurrence of small bowel Crohn's disease in a patient previously thought to have UC following FMT from a healthy donor in the study from Amsterdam is concerning. Given the undoubted promise but great uncer- tainty in this field, in 2014 the FDA announced that an Investigational New Drug (IND) application was going to be necessary for the use of FMT in non- CDI trials. Similarly, following a ruling from the European Medicines Agency in 2015, all trials using FMT in the UK will in future need to be undertaken
+
+using FMT produced in an Medicines and Health Regulatory Agency (MHRA) licenced facility. This will allow investigators to develop detailed data- bases of donors and recipients which will, in future, allow both careful analysis of the mechanistics of treatment and safety.
+In summary, this novel ecological area of man- agement of chronic inflammatory disease is both exciting and potentially very fruitful. At present there are 51 trials of FMT in IBD listed in  . In the future further research combining evolv- ing genetic sequencing and microbiota culture techni- ques hold the promise of targeted restoration of healthy microbiota to treat IBD and the prospect of personalized treatment for this debilitating disease.
+
+
+Conflict of interest statement
+The authors have no potential conflicts of interest.
+
+
+References
+Abraham C, Cho JH. Inflammatory bowel disease. N Engl J Med 2009;361:2066-78.
+Kaplan GG. The global burden of IBD: from 2015 to 2025. Nat Rev Gastroenterol Hepatol 2015;12:720-7.
+Ng SC. Epidemiology of inflammatory bowel disease: focus on Asia. Best Pract Res Clin Gastroenterol 2014; 28:363-72.
+Marchesi JR, Adams DH, Fava F, et al. The gut micro- biota and host health: a new clinical frontier. Gut 2016; 65:330-9.
+Nuriel-Ohayon M, Neuman H, Koren O. Microbial changes during pregnancy, birth, and infancy. Front Microbiol 2016;7:1031.
+De Filippo C, Cavalieri D, Di Paola M, et al. Impact of diet in shaping gut microbiota revealed by a compara- tive study in children from Europe and rural Africa. Proc Natl Acad Sci U S A 2010;107:14691-6.
+Browne HP, Forster SC, Anonye BO, et al. Culturing of 'unculturable' human microbiota reveals novel taxa and extensive sporulation. Nature 2016;533:543-6.
+Naser SA, Sagramsingh SR, Naser AS, Thanigachalam
+S. Mycobacterium avium subspecies paratuberculosis causes Crohn's disease in some inflammatory bowel dis- ease patients. World J Gastroenterol 2014;20:7403-15.
+Eckburg PB, Relman DA. The role of microbes in Crohn's disease. Clin Infect Dis 2007;44:256-62.
+
+Faecal transplantation for IBD management, 2017, Vol. 124	189
+
+
+Su JW, Ma JJ, Zhang HJ. Use of antibiotics in patients with Crohn's disease: a systematic review and meta- analysis. J Dig Dis 2015;16:58-66.
+Gradel KO, Nielsen HL, Schonheyder HC, et al. Increased short- and long-term risk of inflammatory bowel disease after salmonella or campylobacter gastro- enteritis. Gastroenterology 2009;137:495-501.
+Schaubeck M, Clavel T, Calasan J, et al. Dysbiotic gut microbiota causes transmissible Crohn's disease-like ile- itis independent of failure in antimicrobial defence. Gut 2016;65:225-37.
+Sellon RK, Tonkonogy S, Schultz M, et al. Resident enteric bacteria are necessary for development of spontaneous colitis and immune system activation in interleukin-10-deficient mice. Infect Immun 1998;66: 5224-31.
+Rutgeerts P, Goboes K, Peeters M, et al. Effect of faecal stream diversion on recurrence of Crohn's disease in the neoterminal ileum. Lancet 1991;338:771-4.
+Khor B, Gardet A, Xavier RJ. Genetics and pathogen- esis of inflammatory bowel disease. Nature 2011;474: 307-17.
+de Souza HS, Fiocchi C. Immunopathogenesis of IBD: current state of the art. Nat Rev Gastroenterol Hepatol 2016;13:13-27.
+NIH HMP Working Group. Peterson J, Garges S, Giovanni M, et al. The NIH human microbiome pro- ject. Genome Res 2009;19:2317-23.
+Gevers D, Kugathasan S, Denson LA, et al. The treat- ment-naive microbiome in new-onset Crohn's disease. Cell Host Microbe 2014;15:382-92.
+Darfeuille-Michaud A, Neut C, Barnich N, et al. Presence of adherent Escherichia coli strains in ileal mucosa of patients with Crohn's disease. Gastroenterology 1998;115:1405-13.
+Png CW, Linden SK, Gilshenan KS, et al. Mucolytic bacteria with increased prevalence in IBD mucosa aug- ment in vitro utilization of mucin by other bacteria. Am  J Gastroenterol 2010;105:2420-8.
+Quevrain E, Maubert MA, Michon C, et al. Identification of an anti-inflammatory protein from Faecalibacterium prausnitzii, a commensal bacterium deficient in Crohn's disease. Gut 2016;65:415-25.
+Sokol H, Pigneur B, Watterlot L, et al. Faecalibacterium prausnitzii is an anti-inflammatory commensal bacter- ium identified by gut microbiota analysis of Crohn dis- ease patients. Proc Natl Acad Sci U S A 2008;105: 16731-6.
+Li K-Y, Wang JL, Wei JP, et al. Fecal microbiota in pouchitis and ulcerative colitis. World J Gastroenterol 2016;22:8929-39.
+
+
+Zhang F, Luo W, Shi Y, et al. Should we standardize the 1,700-year-old fecal microbiota transplantation? Am J Gastroenterol 2012;107:1755. Author reply p.1755-6.
+Eiseman B, Silen W, Bascom GS, Kauvar AJ. Fecal ene- ma as an adjunct in the treatment of pseudomembran- ous enterocolitis. Surgery 1958;44:854-9.
+van Nood E, Vrieze A, Nieuwdorp M, et al. Duodenal infusion of donor feces for recurrent Clostridium diffi- cile. New Engl J Med 2013;368:407-15.
+Cammarota G, Ianiro G, Gasbarrini A. Fecal micro- biota transplantation for the treatment of Clostridium difficile infection: a systematic review. J Clin Gastroenterol 2014;48:693-702.
+Cammarota G, Masucci L, Ianiro G, et al. Randomised clinical trial: faecal microbiota transplantation by col- onoscopy vs. vancomycin for the treatment of recurrent Clostridium difficile infection. Aliment Pharmacol Ther 2015;41:835-43.
+Li YT, Cai HF, Wang ZH, et al. Systematic review with meta-analysis: long-term outcomes of faecal microbiota transplantation for Clostridium difficile infection. Aliment Pharmacol Ther 2016;43:445-57.
+Youngster I, Russell GH, Pindar C, et al. Oral, capsu- lized, frozen fecal microbiota transplantation for relapsing Clostridium difficile infection. JAMA 2014;312:1772-8.
+Youngster I, Sauk J, Pindar C, et al. Fecal microbiota transplant for relapsing Clostridium difficile infection using a frozen inoculum from unrelated donors: a ran- domized, open-label, controlled pilot study. Clin Infect Dis 2014;58:1515-22.
+Bennet JD, Brinkman M. Treatment of ulcerative colitis by implantation of normal colonic flora. Lancet 1989;1: 164.
+Angelberger S, Reinisch W, Makristathis A, et al. Temporal bacterial community dynamics vary among ulcerative colitis patients after fecal microbiota trans- plantation. Am J Gastroenterol 2013;108:1620-30.
+Kunde S, Pham A, Bonczyk S, et al. Safety, tolerability, and clinical response after fecal transplantation in chil- dren and young adults with ulcerative colitis. J Pediatr Gastroenterol Nutr 2013;56:597-601.
+Kump PK, Grochenig HP, Lackner S, et al. Alteration   of intestinal dysbiosis by fecal microbiota transplant- ation does not induce remission  in  patients  with chronic active ulcerative colitis. Inflamm Bowel Dis 2013;19:2155-65.
+Colman RJ, Rubin DT. Faecal microbiota transplant- ation  fo  IBD;  a  systematic  review  and  metanalysis.  J Crohns Colitis 2014;8:1569-81.
+Vermeire S, Joossens M, Verbeke K, et al. Donor species richness determines faecal microbiota transplantation
+
+190	M.N. Quraishi et al., 2017, Vol. 124
+
+
+success in inflammatory bowel disease. J Crohn's Colitis
+2016;10:387-94.
+Cui B, Feng Q, Wang H, et al. Fecal microbiota trans- plantation through mid-gut for refractory Crohn's dis- ease:  safety,   feasibility,   and   efficacy   trial   results.  J Gastroenterol Hepatol 2015;30:51-8.
+Landy J, Omar Al-Hassi H, Ronde E, et al. A prospect- ive controlled pilot study of faecal microbiota trans- plantation for chronic refractory pouchitis. J Crohn's Colitis 2013;7:S247-8.
+Stallmach A, Lange K, Buening J, et al. Fecal microbiota transfer in patients with chronic antibiotic refractory pouchitis. Am J Gastroenterol 2016;111:441-3.
+Fang S, Kraft CS, Dhere T, et al. Successful treatment of chronic Pouchitis utilizing fecal microbiota transplantation (FMT): a case report. Int J Colorectal Dis 2016;31:1093-4.
+Moayyedi P, Surette MG, Kim PT, et al. Fecal micro- biota transplantation induces remission in patients with active ulcerative colitis in a randomized controlled trial. Gastroenterology 2015;149:102-9.e6.
+Rossen NG, Fuentes S, van der Spek MJ, et al. Findings from a randomized controlled trial of fecal transplant- ation for patients with ulcerative colitis. Gastroenterology 2015;149:110-8.e4.
+
+Paramsothy S, Kamm MA, Kaakoush NO, et al. Multidonor intensive faecal microbiota transplantation for active ulcerative colitis: a randomised placebo- controlled trial. Lancet 2017;389:1218-28.
+Costello S, Waters O, Bryant R, et al. Short duration, low intensity pooled faecal microbiota transplantation induces remission in patients with mild to moderately active ulcerative colitis; a randomised controlled trial. ECCO meeting 2017 OP036
+Lee CH, Steiner T, Petrof EO, et al. Frozen vs fresh fecal microbiota transplantation and clinical resolution of diarrhea in patients with recurrent Clostridium difficile infection: a randomized clinical trial. JAMA 2016;315: 142-9.
+Quraishi MN, Widlak M, Bhala N, et al. Systematic review with meta-analysis: the efficacy of faecal micro- biota transplantation for the treatment of recurrent and refractory Clostridium difficile infection. Aliment Pharmacol Ther 2017;46:479-93.
+Sokol H, Leducq V, Aschard H, et al. Fungal micro- biota dysbiosis in IBD. Gut 2017;66:1039-48.
+Chehoud C, Dryga A, Hwang Y, et al. Transfer of viral communities between human individuals during fecal microbiota transplantation. mBio 2016;7:e00322.

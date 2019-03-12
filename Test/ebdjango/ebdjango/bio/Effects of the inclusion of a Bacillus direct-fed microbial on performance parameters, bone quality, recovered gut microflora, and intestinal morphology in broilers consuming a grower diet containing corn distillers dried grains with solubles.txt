@@ -1,0 +1,291 @@
+Effects of the inclusion of a Bacillus direct-fed microbial on performance parameters, bone quality, recovered gut microflora, and intestinal morphology in broilers consuming a grower diet containing corn distillers dried grains with solubles
+
+D. Latorre,, X. Hernandez-Velasco,J. L. Vicente,R. Wolfenden,B. M. Hargis,and G. Tellez
+*Department of Poultry Science, University of Arkansas, Fayetteville 72701; +Department of Veterinary Medicine, National Autonomous University of Mexico, Mexico city 04510; and ++Pacific Vet Group-USA, Inc.
+2135 Creek View Drive, Fayetteville, AR 72704
+
+
+ABSTRACT Distillers dried grains with solubles (DDGS) have increasingly been used in poultry diets as a consequence of rising grain costs. Some, but not all, sources of DDGS have a variable compositional value, and a high inclusion of this by-product could be considered a risk factor for presentation of enteric dis- eases. Presently, 2 experiments were conducted using a starter corn-soybean diet (zero to 7 d) and a corn- DDGS-soybean grower diet (8 to 28 d) with or without inclusion of a Bacillus-direct-fed microbial (DFM). In both experiments, day-of-hatch chicks were randomly assigned to 2 different groups: control group without DFM or Bacillus-DFM group, containing 106 spores/g of feed. In each experiment, 8 pens of 20 chicks (n = 160/group) were used. Performance parameters of BW, BW gain (BWG), feed intake (FI), and feed conver- sion (FCR) were evaluated in each growth phase. Ad- ditionally, in experiment 2, intestinal samples were col- lected to determine duodenal and ileal morphology (n = 8/group), as well as the microbiota population of total lactic acid bacteria (TLAB), total Gram-negative bac-
+
+teria (TGNB), and total anaerobic bacteria (TAB) on d 28 (n = 16/group). Furthermore, both tibias were eval- uated for bone strength and bone composition (n = 16/group). In both experiments BW, BWG, and FCR were improved by the DFM when compared to the con- trol group (P < 0.05). In experiment 2, chickens sup- plemented with the DFM had less TGNB in the foregut intestinal segment and higher TLAB counts in both foregut and hindgut sections (P < 0.05). In addition significant increases in tibia breaking strength and bone mineralization were observed in the DFM group when compared with the control. In the case of intestinal mor- phology, DFM dietary inclusion increased villus height (VH), villus width, villus area, muscular thickness, and the VH to crypt depth ratio (VH:CD) in both duode- num and ileum sections. Results of the present study suggest that consumption of a selected Bacillus-DFM producing a variable set of enzymes could contribute to enhanced performance, intestinal microbial balance, and bone quality in broiler chickens consuming a grower diet that contains corn-DDGS.
+
+Key words: Bacillus-DFM, DDGS, enzymes, microbiota, bone quality
+
+
+
+
+
+INTRODUCTION
+Distillers dried grains with solubles (DDGS) are by-products obtained during production of biofuels as renewable energy sources. During starch fermentation
+
+QC  The  Author  2017.  Published  by  Oxford  University  Press  on  be- half of Poultry Science Association. This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License y nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium,  provided  the  original  work  is  properly cited. For commercial re-use, please contact  .
+Received October 6, 2016.
+Accepted March 17, 2017.
+1Corresponding author: 
+
+
+2017 Poultry Science 96:2728-2735 
+
+from cereal grains, ethanol and CO2 are produced; meanwhile, the remaining nutrients are concentrated in the DDGS fraction (Singh et al., ). Corn is the main cereal used in ethanol production in the Unite States; however, other grains such as wheat, barley, and sorghum are utilized in different regions of the world for the same purpose (Donohue and Cunningham, ). The growth of ethanol production has resulted in in- creased quantities of DDGS available to feed producers, therefore making this by-product an attractive alterna- tive feed ingredient during elevated corn cost periods (Stein, ). DDGS do provide a rich source of protein, minerals, xanthophylls, and other nutrients in poultry diets; nevertheless, nutritional content should be con- sidered before feed formulation (Wang  et al., ).
+
+2728
+
+BACILLUS AND DISTILLER'S  DRIED  GRAINS WITH SOLUBLES	2729
+
+According to S'wiatkiewicz and Koreleski (), high- quality DDGS can be included in starter diets for broilers  and  turkeys  in  a  5  to  8%  without  causing  a detrimental effect on performance. In the case of grower-finisher diets for broilers and turkeys or feed formulation of laying hens, a 12 to 15% dietary inclu- sion level can be incorporated, partially replacing in a cost-effective way, soybean meal, corn, and other feed ingredients. However, the principal limitation on use of different DDGS sources obtained from multiple ethanol plants or cereal grains as a feed component has been the high nutritional composition variability and bioavail- ability of nutrients, observed especially for lysine, me- thionine, minerals, and energy (Spiehs et al., ; Fastinger et al., ). Furthermore, Behnke () re- ported that inclusion of 5 to 7% DDGS could have a negative impact on pellet quality, increasing the per- centage of fines per feed batch. Additionally, Barekatain et al. () observed under a necrotic enteritis disease challenge that incorporating 20% of sorghum DDGS may lead to more severe intestinal lesions that could   be related to an accelerated proliferation of Clostrid- ium perfringens; however, more studies are required to support these results involving utilization of corn as the cereal source of DDGS. The majority of the reported compositional profiles of corn DDGS (100% dry mat- ter basis) have focused mainly on common constituents, such as crude protein (28.7 to 32.9%), crude fiber (5.4  to 10.4%), crude fat (8.8 to 12.4%), ash (3.0 to 9.8%),
+phosphorus  (0.42  to  0.99%),  lysine  (0.61  to  1.06%),
+methionine (0.54 to 0.76%), and tryptophan (0.18 to 0.28%) (US Grains Council, ). Nevertheless, non- starch polysaccharides (NSP) make up 25 to 30% of the DDGS, with the 2 major components of the NSP being arabinoxylans and cellulose (Kim et al., ; Jaworski et al., ). Therefore, targeting the indi- gestible components specific to DDGS with the correct blend of supplemental exogenous enzymes and utiliza- tion of new modified dry-grind processes to optimize starch fermentation can allow a more efficient utiliza- tion of this co-product, as well as increase its percent- age of inclusion in livestock diets, resulting in greater economic returns (Singh et al., ; Min et al., ). The use of spores from selected Bacillus strains as direct-fed microbials (DFM), have been shown to pre- vent gastrointestinal disorders and impart numerous nutritional benefits, including the production of extra- cellular enzymes, such as amylase (Ibrahim et al., ), protease (Olajuyigbe and Ajele, ), lipase (Shah and Bhatt, ), cellulase (Hendricks et al., ), xy- lanase (Monisha et al., ), and phytase (Choi et al., ). In this regard, exogenous enzymes produced by Bacillus spp. may help to degrade complex antinutri- tional factors in poultry diets and improve nutrient ab- sorption. Nonetheless, it is important to mention that not all Bacillus bacteria synthesize the same type of enzymes, therefore requiring selection and characteriza- tion of adequate isolates according to target substrates
+
+in the diet (Latorre et al., ). Previous studies published by our laboratory suggest that the dietary inclusion of a previously selected Bacillus-DFM based on in-vitro enzyme production profiles could contribute to enhance bone strength, reduce digesta viscosity, and improve both intestinal microbial balance and perfor- mance parameters in poultry consuming diets that con- tained a considerable percentage of alternative cereal grains rich in soluble NSP in comparison to corn (La- torre et al., ,  ).  Therefore,  the  objectives of the present study were to evaluate the inclusion of    a previously selected Bacillus-DFM on growth perfor- mance, bone quality, intestinal microflora, and intesti- nal epithelial morphology of broiler chickens consuming a grower diet containing corn DDGS.
+
+MATERIALS AND METHODS
+Animal Source and Experimental Diets
+In the present study, 2  independent  experiments  were conducted. For  all  experiments  day-of-hatch  male broiler chicks were obtained from Cobb-Vantress (Siloam Springs, AR). In both experiments, chicks were neck-tagged and randomly located to one of 16 floor pens (300 cm   150 cm) with new pine shavings as  litter in an environmentally controlled room. Tempera- ture was maintained at 34*C for the first 5 d and was then gradually reduced until a temperature of 23*C was achieved at 21 d of age. In both trials, a mash starter corn-soybean based diet (zero to 7 d) and a mash grower diet containing 8% DDGS (8 to 28 d) were offered ac- cording to the phase of production. Prior to formulating the experimental diets, it was determined that DDGS contained: moisture 13.1%, crude protein 29.2%, crude fat 11.0%, crude fiber 8.5%, calcium 0.14%, and phos- phorus 0.72%. The experimental diets were formulated to approximate the nutritional requirements of broiler chickens as recommended by the NRC (), and ad- justed to breeder's recommendations (Cobb-Vantress Inc., ). No antibiotics or coccidiostats were added to the feed (Table  ).  The  chemical  composition  of the experimental diets was determined by AOAC inter- national () methods for moisture (930.15), crude protein (984.13), crude fat (920.39), calcium (968.08), and phosphorus (965.17). All animal handling proce- dures were in compliance with the Institutional Animal Care and Use Committee at the University of Arkansas, Fayetteville.
+
+Experimental Design
+In order to show that similar results can be achieved independently, two experiments were conducted in the present study in broiler chickens that were raised dur- ing the starter and grower production phases. In both trials, broilers chicks were randomly assigned to either a control group or a DFM candidate group fed a diet
+
+2730	LATORRE ET AL.
+
+Table 1. Ingredient composition and nutrient content of a corn- soybean starter diet and a corn-DDGS-soybean grower diet used in all experiments on as-is basis.
+Item	Starter diet	Grower diet Ingredients (%)
+Corn	57.34	56.68
+Soybean meal	34.66	27.05
+DDGS	-	8.00
+Poultry fat	3.45	4.09
+Dicalcium phosphate	1.86	1.59
+Calcium carbonate1	0.99	1.03
+Salt	0.38	0.34
+DL-Methionine	0.33	0.26
+L-Lysine HCl	0.31	0.32
+
+Details about measurement procedures are described below.
+
+Selection and Identification of Bacillus spp.
+Previous research conducted in our laboratory fo- cused on isolation of several Bacillus spp. from environ- mental and poultry sources (Shivaramaiah et al., ; Wolfenden et al., ; Menconi et al., ). Three Bacillus strains were selected as superior producers of cellulase and xylanase based on a qualitative enzyme activity evaluation (Latorre et al., ). Identifica-
+
+Threonine
+2
+
+0.16	0.12
+
+tion and characterization of the different isolates were
+
+Vitamin premix	0.20	0.20
+
+Mineral premix3	0.10	0.10
+Choline chloride 60%	0.20	0.20
+Antioxidant4	0.02	0.02
+Calculated analysis
+Metabolizable  energy (kcal/ kg)	3,035	3,108
+1Inclusion of 106 spores/g of feed mixed with calcium carbonate.
+2Vitamin premix supplied the following per kg: vitamin A, 20,000 IU; vitamin D3, 6,000 IU; vitamin E, 75 IU; vitamin K3, 6.0 mg; thiamine,
+3.0 mg; riboflavin, 8.0 mg; pantothenic acid, 18 mg; niacin, 60 mg; pyri- doxine, 5 mg; folic acid, 2 mg; biotin, 0.2 mg; cyanocobalamin, 16 mg; and ascorbic acid, 200 mg (Nutra Blend LLC, Neosho, MO).
+3Mineral premix supplied the following per kg: manganese, 120 mg; zinc, 100 mg; iron, 120 mg; copper, 10 to 15 mg; iodine, 0.7 mg; selenium,
+0.4 mg; and cobalt, 0.2 mg (Nutra Blend LLC, Neosho, MO).
+4Ethoxyquin.
+
+
+supplemented with 106 spores/gram of feed of a Bacillus-DFM previously selected based on in vitro en- zyme activity (Latorre et al., ). Each treatment was comprised of 8 pens of 20 chicks (n = 160/group), and for evaluation of growth performance, each repli- cate was used as the experimental unit. Every wk, all broilers were individually weighed and BW, BW gain (BWG), and feed intake (FI) data per pen were ob- tained to calculate the feed conversion ratio (FCR) for starter, grower, and the overall experimental periods. Additionally in experiment 2 at 28 d of age, 2 broil- ers per replicate (n = 16/group) were humanely killed by CO2 asphyxiation to collect intestinal samples for determination of the recovered microbiota population of total lactic acid bacteria (TLAB), as well as total Gram-negative bacteria (TGNB) and total anaerobic bacteria (TAB). Additionally, intestinal sections of the duodenum and ileum were obtained to evaluate mor- phological parameters (n = 8/group). In the case of evaluation of bone quality parameters, both tibias from 2 birds per replicate were collected (n = 16/group).
+
+carried out using an API 50 CHB test kit (bioMerieux,
+Marcy l'Etoile, France), and individual plates of each strain also were sent for 16S rRNA sequence analysis to a specialized laboratory (Midi labs, Newark, DE). One of the 3 Bacillus strains was identified as B. subtilis, and the other 2 isolates were identified as B. amyloliq- uefaciens. Then, the selected Bacillus spp. strains were sporulated and mixed during the DFM preparation pro- cess before dietary inclusion.
+
+Direct-fed Microbials (DFM) Preparation
+In an effort to grow high numbers of viable spores, a modified version of a solid state (SS) fermentation medium developed by Zhao et al. () was used in the present study. Briefly, to prepare the SS fermentation medium, ammonia broth was added to a mixture of 70% rice straw and 30% wheat bran at the rate of 40% by weight. Then, the SS fermentation medium was added to 250 mL Erlenmeyer flasks and sterilized by autoclav- ing for 30 min at 121*C. Each of the 3 selected Bacillus strains candidates was grown, individually, overnight at 37*C in test tubes containing 10 mL of tryptic soy broth (TSB, Becton Dickinson, Sparks, MD). After in- cubation, 2 mL of each candidate culture were added separately to the previously prepared SS fermentation medium flasks. The inoculated flasks were incubated for 24 h at 37*C to promote growth of the Bacillus spp. candidates, and incubated for another 72 h at 30*C to trigger the initiation of the sporulation process. Fol- lowing this, the inoculated SS fermentation medium was removed from the Erlenmeyer flasks, placed onto Petri dishes, and dried at 60*C for 18 hours. Then, the SS fermentation medium was aseptically ground into a fine powder that contained stable Bacillus spores ( 1011 spores/g). Spores from each isolate (1:1:1) were combined to produce the Bacillus-DFM candidate final product containing	3	1011 spores/g. The Bacillus- DFM candidate was included into each experimental diet to reach a final concentration of 106 spores/g using a rotary mixer for 15 minutes. Samples of feed contain- ing the DFM candidate were subjected to 100*C for 10 min to eliminate vegetative cells and validate the amount of spores per g of feed after inclusion and mix- ing steps. Following heat-treatment, 10-fold dilutions of
+
+BACILLUS AND DISTILLER'S  DRIED  GRAINS WITH SOLUBLES	2731
+
+the same feed samples were plated on tryptic soy agar plates (TSA, Becton Dickinson, Sparks, MD), letting spores germinate to vegetative cells after incubation at 37*C for 24 h, hence representing the number of spores present per g of feed.
+
+Enumeration of Recovered Intestinal Microflora
+For determination of total recovered bacteria, in- testinal sections from the duodenum to Meckel's di- verticulum (foregut) and from Meckel's diverticulum to ceca (hindgut) were aseptically collected, separated into sterile bags, and homogenized. Samples were weighed and 1:4 wt/vol dilutions were made with sterile 0.9% saline. Later, 10-fold dilutions of each sample from each group were made in a sterile 96-well Bacti flat-bottom plate and then plated on different culture media for enu- meration of TLAB on Man Rogosa Sharpe agar (Difco Laboratories, Detroit, MI,); TGNB on MacConkey agar (VWR, Suwanee, GA), and TAB on TSA containing sodium thioglycollate (Becton Dickinson, Sparks, MD). All plates were incubated at 37 *C for 18 h and bacterial counts were expressed in colony forming units (Log10 cfu/g of tissue).
+
+Bone Parameters
+Bone parameters were measured according to the methods described by Zhang and Coon (). Tib- ias from each chicken were cleaned of attached tissues. Bones from the left leg were subjected to conventional bone assays as described below and tibias from the right leg were used to determine breaking strength. The bones from the left tibia were dried at 100*C for 24 h and weighed. Then the samples were ashed in a muf- fle furnace (Isotemp muffle furnace, Fisher Scientific, Pittsburgh, PA) at 600*C for 24 h in crucibles, cooled in a desiccator, and weighed. From the left tibia, total calcium content was obtained by inductively coupled plasma (968.08; AOAC International, ) and total phosphorus content was determined by colorimetry us- ing the molybdo-vanadate method (967.17; AOAC In- ternational, ). In the case of the right tibia samples, the tibial diaphysis from individual birds was cleaned of adherent tissues, the periosteum was removed, and the biomechanical strength of each bone was measured using an Instron 4502 (Norwood, MA) material testing machine with a 590 kg load cell. The bones were held in identical positions and the mid-diaphyseal diameter of the tibial mid-shaft, which was also the site of impact, was measured using a dial caliper. The maximum load at failure was determined in the tibial mid-section be- tween epiphyses, using a 3-point flexural bend fixture with a total distance of 30 mm between the 2 lower sup- porting ends. The load, defined as force in kilograms per square millimeter of cross-sectional area (kg/mm2), represents bone strength. The rate of loading was kept
+
+constant at 20 mm/min collecting 10 data points per second. The data were automatically calculated using Instron's Series IX Software (Norwood, MA).
+
+Intestinal Morphometric Analysis
+Intestinal sections were standardized: for duodenum, a 0.5 cm section was collected from the middle of the descending duodenum; and for ileum, a 0.5 cm section was collected from the mid-ileum at the Meckel's diver- ticulum. Duodenal and ileal sections were fixed in 10% neutral buffered formalin and embedded in paraffin, sectioned (5-mm thick), set on a glass slide, and stained with hematoxylin and eosin (H&E), then examined by light microscopy. Photomicrographs of random selected fields of each intestinal sample were acquired using a microscope equipped with a Leica DFC450C camera and Leica V 3.8.0. software (Leica Application Suit) and used for morphometric analysis. ImageJ 1.47v software (Rasband, ) was used to make the measure- ments in the morphometric analysis of the different in- testinal sections. For villus length of the duodenum and ileum, an average of 10 villi per bird were measured, with a total of 8 broilers per group. Villus height (VH) was measured from the tip of the villus to the top of the lamina propria. Crypt depth (CD) was measured from the base of the invagination between the villus upwards the region of transition between the crypt and villus (Aptekmann et al., ). Data from VH and CD were used to obtain the VH to CD ratio (VH:CD). More- over, villus width (VW) was measured at the base area of each villi, and the villus surface area was calculated using the formula (2p)(VW/2)(VH), where VW = vil- lus width, and VH = villus height (Sakamoto et al., ).
+
+Statistical Analysis
+In all experiments, data were subjected to one-way ANOVA as a completely randomized design using the GLM procedure of SAS (SAS Institute, ). In both experiments, for the evaluation of growth performance (BW, BWG, FI, and FCR) each of the 8 replicates of 20 chickens was considered as the experimental unit, whereas data on bone quality (n = 16/group), intestinal microbiota (n = 16/group), and intestinal morphology (n = 8/group) were based on randomly selected broilers from all replicates of each group. Data are expressed as mean SE and a P-value less than 0.05 was set as the standard for significance.
+
+RESULTS
+The results of the evaluation of performance param- eters (BW, BWG, FI, and FCR) in broiler chickens consuming a corn-DDGS-soybean grower diet with or without dietary inclusion of a Bacillus-DFM candidate of experiment 1 are summarized in Table . In this
+
+2732	LATORRE ET AL.
+
+Table 2. Evaluation of body weight, body weight gain, feed in- take, and feed conversion ratio in broiler chickens consuming a corn-DDGS-soybean grower diet with or without dietary inclu- sion of a Bacillus-direct-fed microbial (DFM) (Experiment 1).1
+Item	Control	Bacillus-DFM Body weight (g)
+d 0	47.2      0.5a	47.5      0.2a
+d 7	150.6      3.2a	148.8      1.2a
+d 28	1437.0      14.4b	1484.0 14.5a
+Body weight gain (g)
+d  0 to 7	103.4      2.9a	101.3 1.1a
+d 8 to 28	1286.4      13.3b	1335.3      14.1a
+d 0 to 28	1389.8      14.3b	1436.6      14.6a
+Feed intake (g)
+d  0 to 7	177.0      6.4a	175.1 7.3a
+d 8 to 28	2081.8      19.8a	2052.3      20.8a
+d 0 to 28	2212.6      19.9a	2182.6      19.6a
+Feed conversion ratio
+d 0 to 7	1.17 +- 0.02a	1.18  +- 0.04a
+d 8 to 28	1.62 +- 0.01a	1.53  +- 0.02b
+d 0 to 28	1.54 +- 0.01a	1.47  +- 0.01b
+1Data are expressed as mean	SE.
+a,bMeans in each row with different superscripts are significantly dif- ferent (P < 0.05).
+
+
+experiment, during the starter phase (zero to 7 d), broil- ers consuming the diet supplemented with the DFM showed similar values in all the growth performance variables that were evaluated in comparison to the con- trol group. On the other hand, during the grower phase (8 to 28 d) when 8% of DDGS was included in the diet, supplementation with the Bacillus-DFM improved BWG in 48 g and FCR in 9 points when compared to the control group (P < 0.05) (Table ). Similarly, in ex- periment 2, inclusion of the Bacillus-DFM showed sim- ilar growth performance values in comparison to the control group during the starter phase (zero to 7 d); however, in the grower phase (8 to 2 8d) a significant increase in BWG of 34 g and 7 points more efficient FCR were observed in the group consuming the diet supplemented with the Bacillus-DFM compared to the control. Additionally in experiment 2, FI was reduced (P < 0.05) 41 g in the DFM group compared to the control (Table ). At the end, in both trials, addition  of the DFM improved performance parameters during the overall experimental period (zero to 28 d), show- ing consistency of results between experiments (Tables and ).
+Table shows the results of the determination of total
+bacterial counts recovered from the foregut and hindgut intestinal segments in 28-day-old broiler chickens from experiment 2. Chickens that received the Bacillus-DFM had reduced counts of TGNB and increased numbers of TLAB in the foregut intestinal section (P < 0.05); however, similar values were obtained for TAB between experimental groups. In the case of the hindgut section, supplementation with the DFM significantly increased the count of TLAB and reduced the TAB numbers com- pared to the microflora of the unsupplemented group; nevertheless, no difference was observed in TGNB be- tween experimental treatments.
+
+Table 3. Evaluation of body weight, body weight gain, feed in- take, and feed conversion ratio in broiler chickens consuming a corn-DDGS-soybean grower diet with or without dietary inclu- sion of a Bacillus-direct-fed microbial (DFM) (Experiment 2).1
+Item	Control	Bacillus-DFM Body weight (g)
+d 0	39.7      0.2a	39.9      0.3a
+d 7	115.3      1.7a	116.2      1.5a
+d 28	1409.0       7.9b	1444.0 12.6a
+Body weight gain (g)
+d  0 to 7	75.6      1.8a	76.3 1.6a
+d 8 to 28	1294.1      8.7b	1328.6      12.1a
+d 0 to 28	1369.7      7.9b	1404.8      12.6a
+Feed intake (g)
+d  0 to 7	130.8      3.2a	130.5 2.3a
+d 8 to 28	1879.0      10.2a	1838.0      13.3b
+d 0 to 28	2010.0      9.7a	1966.6      13.6b
+Feed conversion ratio
+d 0 to 7	1.13 +- 0.01a	1.12  +- 0.02a
+d 8 to 28	1.45 +- 0.03a	1.38  +- 0.01b
+d 0 to 28	1.43 +- 0.02a	1.36  +- 0.01b
+1Data are expressed as mean	SE.
+a,bMeans in each row with different superscripts are significantly dif- ferent (P < 0.05).
+
+Results of the assessment of bone strength and bone composition in broiler chickens fed with a corn-DDGS- soybean grower diet with or without dietary inclusion of a Bacillus-DFM candidate in experiment 2 are sum- marized in Table . Bone strength and composition were measured in 28-day-old broilers, showing that sup- plementation with the Bacillus-DFM significantly im- proved tibial load at break and tibial breaking strength, as well as calcium and phosphorus content (P < 0.05) compared to chickens receiving a control grower diet. However, tibia diameter values were similar between supplemented and unsupplemented groups.
+Table  shows the results of the intestinal morpho- metric analysis of duodenal and ileal sections of broiler chickens at 28 d of age from experiment 2. Significant increases in VH, VW, villus area, muscular thickness, and VH:CD ratio were shown in chickens that received the DFM in the duodenum and ileum when compared with chickens from the control group. Additionally, con- sumption of the DFM reduced CD in both evaluated intestinal sections in comparison to broilers fed the con- trol grower diet (P < 0.05).
+
+DISCUSSION
+Distillers dried grains with solubles are by-products that can be obtained from different cereal grains during biofuel production (S'wiatkiewicz and Koreleski, ). As ethanol production has expanded in recent years, the availability of DDGS as a feedstuff for poultry di- ets has increased (Wang et al., ). Nonetheless, to choose the correct percentage of inclusion of DDGS, it is important to know the actual nutritional composition profile of this raw material, due to commonly high nu-
+tritional variability among sources (Loar II et al., ). Although DDGS usually have a good nutritional value and can be included at high levels in other livestock
+
+BACILLUS AND DISTILLER'S  DRIED  GRAINS WITH SOLUBLES	2733
+Table  4. Determination of total bacterial counts in the foregut and hindgut intestinal segments in broiler chickens consuming      a corn-DDGS-soybean grower diet with or without dietary inclusion of a Bacillus-direct-fed microbial (DFM) (Experiment  2).1,2
+
+
+
+
+3.75 +- 0.17b	6.11 +- 0.19a	5.67 +- 0.49a	5.89 +- 0.49a	7.37 +- 0.04a
+1Data are expressed as  Log10 cfu/g mean	SE.
+2Bacteria enumeration evaluated from 28-day-old broilers, n = 16/group.
+3Forgut: from duodenum to Meckel's diverticulum, hindgut: from Meckel's diverticulum to ceca.
+4TGNB = Total Gram-negative bacteria recovered, TLAB = Total lactic acid bacteria recovered, TAB = Total anaerobic bacteria recovered
+from different intestinal sections in each experimental group.
+a,bMeans in each column with different superscripts are significantly different (P < 0.05).
+
+Table 5. Assessment of bone strength and bone composition in broiler chickens fed with a corn-DDGS-soybean grower  diet with or without dietary inclusion of a Bacillus-direct-fed microbial (DFM) (Experiment 2).1,2
+
+
+
+Bacillus-DFM        42.88 +- 2.75a	7.14 +- 0.31a	5.99 +- 0.01a	39.26 +- 0.24a
+1Data are expressed as mean	SE.
+2Bone measurements evaluated from 28-day-old broilers, n = 16/group.
+a,bMeans in each column with different superscripts are significantly different (P < 0.05).
+
+
+
+Table 6. Morphometric analysis of duodenum and ileal tissue in chickens at 28 d of age (Experiment 2).1,2
+Tissue	Control	Bacillus-DFM Duodenum
+Villus height (mm)	337.20	3.07b	457.24	4.66a Villus width (mm)		40.07	0.44b		44.43	0.22a
+Crypt depth (mm)	64.07	1.14a	55.23	0.44b
+Area (mm2)3	42.38	0.52b	63.95	0.85a
+Muscular thickness (mm)	46.79	0.82b	60.42	0.40a VH:CD4		5.34	0.06b		8.32	0.11a
+Ileum
+Villus height (mm)	140.88 +- 3.06b	166.90 +- 3.81a Villus width mm		33.91 +- 0.82b		39.62  +- 0.62a
+Crypt depth (mm)	46.88 +- 1.64a	38.59  +- 1.00b
+Area (mm2)3	15.32 +- 0.59b	21.15  +- 0.73a
+Muscular thickness (mm)	34.86 +- 0.44b	43.16 +- 0.64a VH:CD4		3.02 +- 0.03b		4.55  +- 0.13a
+1Data are expressed as mean	SE.
+2Morphometric analysis evaluated from 28-day-old broilers, n = 8/group.
+32p	(villus width/2)	villus height (Sakamoto et al., ).
+4VH:CD = Villus height to crypt depth ratio.
+a,bMeans in each row with different superscripts are significantly dif- ferent (P < 0.05).
+
+rations such as swine, 10% has traditionally been the recommended feeding limit for broiler  chickens  dur- ing the grower period (Stein, ). This upper feed-  ing limit is linked to the high  level  of  indigestible  fiber components present in either wheat or corn  DDGS (Barekatain et al., ). Compared with pro- tein sources such as soybean meal, the nutritional value of DDGS is lower, due to its inferior protein quality, partly caused by the excessive pretreatment  and  dry- ing conditions during the ethanol production process, and high level of non-starch polysaccharides (NSP) (~30%) (Martinez-Amezcua et al., ). Diets high
+
+in NSP reduce effective energy and nutrient  utiliza-  tion in poultry and other monogastric animals due to     a lack of the endogenous enzymes needed to break  down the complex cell wall polysaccharides that encap- sulate other nutrients (Bedford et al.,  ;  Bedford and Classen, ; Bedford and Schulze, ). Hence, exogenous enzymes have  been used as feed additives   in poultry diets to diminish this antinutritional cage effect (Choct, ; Slominski, ). For instance, NSP-hydrolyzing enzymes may increase the accessibil- ity of phytase to phytin, increasing phosphorus avail- ability and absorption (Zijlstra et al., ). For in- stance, it has been well documented that inclusion of xylanase in diets containing feed ingredients with a high content of NSP significantly improves intestinal vis- cosity, accelerates feed passage time through the gas- trointestinal tract, and enhances digestibility of dietary protein and fat sources  resulting  in  an  improvement  in growth performance (Choct et al., ; Langhout    et al., ). One of the principal sources of the ex- ogenous enzymes used by biotechnology and animal feed additive companies are bacteria from the genus Bacillus (Monisha et al., ; Shah and Bhatt, ; Ibrahim et al., ). Bacillus are Gram-positive, rod- shaped, facultative anaerobe bacteria with a remarkable life cycle including generation of endospores in nutri- tionally limited environments (Cutting, ). Bacillus spp. spores' ability to resist rough environmental con- ditions, surviving high temperature during feed pelleti- zation, as well as tolerating extreme pH, dehydration, high pressures, caustic chemicals, and long storage peri- ods have made them suitable for commercialization and distribution as direct-fed microbials (Cartman et al., ). Furthermore, it has been shown that Bacillus
+
+2734	LATORRE ET AL.
+
+spores can persist and change their distribution accord- ing to the variable biochemical conditions of the gas- trointestinal tract (GIT)of broiler chickens; therefore, supporting the hypothesis of a possible full life cycle development in the GIT, suggesting that these bacte- ria could be considered part of the metabolically active host microbiota (Latorre et al., ). Previously, our laboratory has screened and identified different Bacil- lus spp. isolates as DFM candidates for production    of different exogenous enzymes, such as cellulase, amy- lase, lipase, xylanase, and phytase. Moreover, we have demonstrated in vitro that the inclusion of cereal grains (wheat, rye, barley,  and oats) with a higher  content  of soluble NSP in comparison to corn increased di- gesta viscosity and C. perfringens growth. Neverthe- less, the dietary inclusion of the selected Bacillus-DFM candidate in non-corn-based diets significantly reduced both viscosity and C. perfringens proliferation when compared to control non-supplemented diets, support- ing the results of the in vitro enzyme selection profile of the Bacillus isolates conforming the DFM (La- torre et al., ). Additionally, during in vivo trials, chickens and/or turkeys fed a rye-based diet without DFM supplementation showed an increase in bacterial translocation and digesta viscosity, accompanied by re- duced bone mineralization; however, these adverse ef- fects were ameliorated by the inclusion of the previ- ously selected Bacillus-DFM candidate (Latorre et al., , a). In the present study, supplementation with the Bacillus-DFM in a grower diet containing 8% DDGS improved performance parameters, bone quality, intestinal microflora balance, and intestinal morphol- ogy, therefore supporting our previous results. Chick- ens that received the DFM in the grower-DDGS diet improved performance, bone quality parameters, and the surface area of absorption in both duodenal and ileal intestinal sections, and this could be related to a more efficient utilization of the diet due to the pro- duction of exogenous enzymes by the DFM. Moreover, a significant reduction in VH:CD ratio in the control group may be attributed to a higher presence of insolu- ble fiber in the intestinal digesta from the DDGS when compared to DFM supplemented group, therefore in- creasing cellular turnover as suggested by Barekatain et al. (). It was also interesting to observe that broilers receiving the Bacillus-DFM had a higher count of lactic acid bacteria in the foregut and hindgut in- testinal sections. Perhaps the improvement in VH and VW was due to an elevated production of short chain fatty acids by lactic acid bacteria in the intestinal lu- men (Scheppach, ; Hosoi et al., ). On the other hand, production of antimicrobial and antioxidant com- pounds by the Bacillus-DFM together with a reduction of substrates available in the intestinal lumen could di- minish the bacterial population of Gram-negatives and anaerobic bacteria (Wolfenden et al., ), therefore decreasing the level of intestinal inflammation and en- hancing epithelial integrity, nutrient absorption, and bone strength and composition. In summary, the re-
+
+sults of this study suggest that the dietary inclusion of a previously selected Bacillus-DFM based on in-vitro en- zyme production profiles could contribute to enhance performance and bone quality, and improve both in- testinal microbial balance as well as epithelial morphol- ogy in broiler chickens consuming diets that contained a considerable percentage of DDGS. Further studies to evaluate metabolomics and microbiome analysis as well as other gut inflammation biomarkers in chickens fed with this selected Bacillus-DFM in different poultry di- ets are currently being evaluated.
+
+ACKNOWLEDGMENTS
+The authors gratefully acknowledge the excellent technical assistance of Scott Zornes (Poultry Pro- duction and Product Safety Research Unit, USDA, Agricultural Research Service, Poultry Science Center, University of Arkansas, Fayetteville).
+
+REFERENCES
+AOAC International. 2000. Animal feeds. Pages 1-54 in Official Methods of Analysis of AOAC International. Horwaitz, W. ed. AOAC International, Gaithersburg, MD, USA.
+Aptekmann, K. P., S. M. Baraldi Artoni, M. A. Stefanini, and
+A. Orsi. 2001. Morphometric analysis of the intestine of domestic quails (Coturnix coturnix japonica) treated with dif- ferent levels of dietary calcium. Anat. Histol. Embryol. 30: 277-280.
+Barekatain, M., C. Antipatis, N.  Rodgers,  S.  Walkden-Brown,  P.  Iji, and M. Choct. 2013. Evaluation of high dietary inclusion of distillers dried grains with solubles and supplementation of pro- tease and xylanase in the diets of broiler chickens under necrotic enteritis challenge. Poult. Sci. 92:1579-1594.
+Bedford, M. R., H. L. Classen, and G. Campbell. 1991. The effect of pelleting, salt, and pentosanase on the viscosity of intestinal con- tents and the performance of broilers fed rye. Poult. Sci. 70:1571- 1577.
+Bedford, M. R., and H. L. Classen. 1993. An in vitro assay for pre- diction of broiler intestinal viscosity and growth when fed rye- based diets in the presence of exogenous enzymes. Poult. Sci. 72: 137-143.
+Bedford, M. R., and H. Schulze. 1998. Exogenous enzymes for pigs and poultry. Nut. Res. Rev. 11:91-114.
+Behnke, K. C. 2007. Feed manufacturing considerations for using DDGS in poultry and livestock diets. Proc. Mid-Atlantic Nutri- tion Conference, MD, USA, College Park.
+Cartman, S. T., R. M. La Ragione, and M. J. Woodward. 2007. Bac- terial spore formers as probiotics for poultry. Food. Sci. Technol. Bull. 4:21-30.
+Choct, M., R. J. Hughes, R. P. Trimble, K. Angkanaporn, and G. Annison. 1995. Non-starch polysaccharide-degrading enzymes in- crease the performance of broiler chickens fed wheat of low ap- parent metabolizable energy. J. Nutr. 125:485-492.
+Choct, M. 2006. Enzymes for the feed industry: Past, present and future. World Poult. Sci. J. 62:5-16.
+Choi, Y. M., H. J. Suh, and J. M. Kim. 2001. Purification and prop- erties of extracellular phytase from Bacillus spp. KHU-10. J. Pro- tein. Chem. 20:287-292.
+Cobb-Vantress Inc. 2015. Broiler performance and nutrition supple- ment. Accessed Sep. 2016.   .
+Cutting, S. M. 2011. Bacillus probiotics. Food Microbiol. 28:214-220. Donohue, M., and D. L. Cunningham. 2009. Effects of grain and oil seed prices on the costs of US poultry production. J. App. Poult.
+Res. 18:325-337.
+
+BACILLUS AND DISTILLER'S  DRIED  GRAINS WITH SOLUBLES	2735
+
+
+Fastinger, N. D., J. D. Latshaw, and D.  C.  Mahan.  2006.  Amino acid availability and true metabolizable energy content of corn distillers dried grains with solubles in adult cecectomized roosters. Poult. Sci. 85:1212-1216.
+Hendricks, C. W., J. D. Doyle, and B. Hugley. 1995. A new solid medium for enumerating cellulose-utilizing bacteria in soil. Appl. Environ. Microbiol. 61:2016-2019.
+Hosoi, T., A. Ametani, K. Kiuchi, and S. Kaminogawa. 2000. Im- proved growth and viability of lactobacilli in the presence of Bacillus subtilis (natto), catalase, or subtilisin. Can.  J.  Micro- biol. 46:892-897.
+Ibrahim, S. E., H. B. El Amin, E. N. Hassan, and A. M. E. Sulieman. 2012. Amylase production on solid state fermentation by Bacillus spp. Food Public Health. 2:30-35.
+Jaworski, N. W., H. N. Laerke, K. E. Bach Knudsen,  and  H.  H. Stein. 2015. Carbohydrate composition and in  vitro digestibility  of dry matter and nonstarch polysaccharides in corn, sorghum,  and wheat and coproducts from these grains. J. Anim. Sci. 93: 1103-1113.
+Kim, Y., N. S. Mosier, R. Hendrickson, T. Ezeji, H. Blaschek, B. Dien, M. Cotta, B. Dale, and M. R. Ladisch. 2008. Composition  of corn dry-grind ethanol by-products: DDGS, wet cake, and thin stillage. Bioresour. Technol. 99:5165-5176.
+Langhout, D., J. Schutte, C. Geerse, A. Kies, J. De jong, and
+Verstegen. 1997. Effects on chick performance  and  nutri-  ent digestibility of an endo-xylanase added to a wheat-and rye-based diet in relation to fat source. Br. Poult. Sci. 38:  557-563.
+Latorre, J. D., X. Hernandez-Velasco, G. Kallapura, A. Menconi,
+R.  Pumford,  M.  J.  Morgan,  S.  L.  Layton,  L.  R. Bielke,
+B.  M.  Hargis,  and  G.  T'ellez.  2014a.  Evaluation  of  germina- tion, distribution, and persistence of Bacillus subtilis spores through the gastrointestinal tract of chickens. Poult. Sci. 93: 1793-1800.
+Latorre, J. D., X. Hernandez-Velasco, M. H. Kogut, J. L. Vicente, R. Wolfenden, A. Wolfenden, B. M. Hargis, V. A. Kuttappan, and
+G. Tellez. 2014b. Role of a Bacillus subtilis direct-fed microbial on digesta viscosity, bacterial translocation, and bone mineralization in turkey poults fed with a rye-based diet. Front. Vet. Sci. 1:26.
+Latorre, J. D., X. Hernandez-Velasco, L. R. Bielke, J. L. Vicente, R. Wolfenden, A. Menconi, B. Hargis, and G. Tellez. 2015a. Evalu- ation of a Bacillus direct-fed microbial candidate on digesta vis- cosity, bacterial translocation, microbiota composition and bone mineralisation in broiler chickens fed on a rye-based diet. Br. Poult. Sci. 56:723-732.
+Latorre, J. D., X. Hernandez-Velasco, V. A. Kuttappan, R. E. Wolfenden, J. L. Vicente, A. D. Wolfenden, L. R. Bielke, O. F. Prado-Rebolledo, E. Morales, B. M. Hargis, and G. Tellez. 2015b. Selection of Bacillus spp. for cellulase and xylanase production as direct-fed microbials to reduce digesta viscosity and Clostridium perfringens proliferation using an in vitro digestive model in dif- ferent poultry diets. Front.Vet. Sci. 2:25.
+Loar, R.E., II, J. S. Moritz, J. R. Donaldson, and A. Corzo. 2010. Effect of feeding distillers dried grains with solubles to broilers from 0 to 28 days posthatch on broiler performance, feed manu- facturing efficiency, and selected intestinal characteristics. Poult. Sci. 89:2242-2250.
+Martinez-Amezcua, C., C. M. Parsons, V. Singh, R. Srinivasan, and
+G. S. Murthy. 2007. Nutritional characteristics of distillers dried grains with solubles as affected by the amounts of grain versus solubles and different processing techniques. Poult. Sci. 86:2624- 2630.
+Menconi, A., M. J. Morgan, N. R. Pumford, B. M. Hargis, and G. Tellez. 2013. Physiological properties and Salmonella growth in- hibition of probiotic Bacillus strains isolated from environmental and poultry sources. Int. J. Bacteriol. 2013:1-8.
+Min, Y., F. Liu, A. Karimi, C. Coto, C. Lu, F. Yan, and P. Waldroup. 2011. Effect of Rovabio Max AP on performance, energy and nitrogen digestibility of diets high in distillers dried grains with solubles (DDGS) in broilers. Int. J. Poult. Sci. 10:796-803.
+
+
+Monisha, R., M. V. Uma, and V. Krishna Murthy. 2009. Partial pu- rification and characterization of Bacillus pumilus xylanase from soil source. KATSU 5:137-148.
+NRC. 1994. Nutrient Requirements of Poultry. 9th rev. ed. Natl.
+Acad. Press, Washington, DC.
+Olajuyigbe, F.M., and J. O. Ajele. 2005. Production dynamics of extracellular protease from Bacillus species. Afr. J. Biotechnol. 4:776-779.
+Rasband, W. S. 1997-2012. ImageJ user guide. U.S. National In- stitutes of Health, Bethesda, MD, USA. Accessed Sep. 2016. .
+Sakamoto, K., H. Hirose, A. Onizuka, M. Hayashi, N. Futamura, Y. Kawamura, and T. Ezaki. 2000. Quantitative study of changes in intestinal morphology and mucus gel on total parenteral nutrition in rats. J. Surg. Res. 94:99-106.
+SAS Institute. 2002. SAS User Guide. Version 9.1. SAS  Institute Inc., Cary, NC.
+Scheppach, W. 1994. Effects of short chain fatty acids on gut mor- phology and function. Gut. 35 (1 Suppl): S35-S38.
+Shah, K. R., and S. A. Bhatt. 2011. Purification and characterization of lipase from Bacillus subtilis Pa2. J. Biochem. Tech. 3:292-295. Shivaramaiah, S., N. Pumford, M. Morgan, R. Wolfenden, A. Wolfenden, A. Torres-Rodriguez, B. Hargis, and G. Tellez.
+2011. Evaluation  of  Bacillus  species  as  potential  candidates  for direct-fed microbials in commercial poultry. Poult. Sci. 90:1574-1580.
+Singh, V., D. B. Johnston, K. Naidu, K. D. Rausch, R. L. Belyea, and M. Tumbleson. 2005. Comparison of modified dry-grind corn processes for fermentation characteristics and DDGS composi- tion. Cereal. Chem. 82:187-190.
+Slominski, B. A. 2011. Recent advances in research on enzymes for poultry diets. Poult. Sci. 90:2013-2033.
+Spiehs, M. J., M. H. Whitney, and G. C. Shurson. 2002. Nutrient database for distiller's dried grains with solubles produced from new ethanol plants in Minnesota and South Dakota. J. Anim. Sci. 80:2639-2645.
+Stein, H. H. 2007. Distillers dried grains with solubles (DDGS) in diets fed to swine. Swine Focus 1:1-8.
+S'wiatkiewicz,  S.,  and J.  Koreleski. 2008.  The  use of  distillers  dried grains with solubles (DDGS) in poultry nutrition. World  Poult. Sci. J. 64:257-266.
+US Grains Council. 2012. A guide to distiller's dried grains with solubles (DDGS). Accessed sep. 2016.  .
+Wang, Z., S. Cerrate, C. Coto, F. Yan, and P. W. Waldroup. 2007a. Utilization of distillers dried grains with solubles (DDGS) in broiler diets using a standardized nutrient matrix. Int. J. Poult. Sci. 6:470-477.
+Wang, Z., S. Cerrate, C. Coto, F. Yan, and P.  W.  Waldroup. 2007b. Use of constant or increasing levels of distillers dried grains with solubles (DDGS) in broiler diets. Int. J. Poult. Sci. 6:501-507.
+Wolfenden, R., N. Pumford, M. Morgan, S. Shivaramaiah, A. Wolfenden, G. Tellez, and B. Hargis. 2010. Evaluation of a screen- ing and selection method for Bacillus isolates for use as effective direct-fed microbials in commercial poultry. Int. J. Poult. Sci. 9:317-323.
+Wolfenden, R., N. Pumford, M. Morgan, S. Shivaramaiah, A. Wolfenden, C. Pixley, J. Green, G. Tellez, and B. Hargis. 2011. Evaluation of selected direct-fed microbial candidates on live per- formance and Salmonella reduction in commercial turkey brood- ing houses. Poult. Sci. 90:2627-2631.
+Zhang, B., and C. N. Coon. 1997. The relationship of various tibia bone measurements in hens. Poult. Sci. 76:1698-1701.
+Zhao, S., L. Deng, N. Hu, B. Zhao, and Y. Liang 2008. Cost-effective production of Bacillus licheniformis using simple netting bag  solid bioreactor. World J. Microbiol. Biotechnol. 24:2859-2863.
+Zijlstra, R., A. Owusu-Asiedu, and P. Simmins. 2010. Future of NSP- degrading enzymes to improve nutrient utilization of co-products and gut health in pigs. Livest. Sci. 134:255-257.

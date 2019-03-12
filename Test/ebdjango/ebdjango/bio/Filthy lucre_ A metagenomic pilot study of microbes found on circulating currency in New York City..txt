@@ -1,0 +1,390 @@
+
+
+
+
+
+RESEARCH ARTICLE
+Filthy lucre: A metagenomic pilot study of microbes found on circulating currency in New York City
+Julia M. Maritz1, Steven A. Sullivan1, Robert J. Prill2, Emre Aksoy1$?, Paul Scheid1, Jane
+M. Carlton1*
+1 Center for Genomics and Systems Biology, Department of Biology, New York University, New York, United States of America, 2 Accelerated Discovery Lab, IBM Almaden Research Center, San Jose, California, United States of America
+
+$? Current address: Department of Entomology, University of California, Riverside, California, United States of America
+* 
+
+
+ 		Abstract
+
+
+OPEN ACCESS
+Citation: Maritz JM, Sullivan SA, Prill RJ, Aksoy E, Scheid P, Carlton JM (2017) Filthy lucre: A metagenomic pilot study of microbes found on circulating currency in New York City. PLoS ONE 12(4): e0175527.  
+Editor: Jonathan H. Badger, National Cancer Institute, UNITED STATES
+Received: March 6, 2017
+
+Accepted: March 27, 2017
+
+Published: April 6, 2017
+
+Copyright: (c) 2017 Maritz et al. This is an open access article distributed under the terms of the , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Data Availability Statement: The metagenomic sequence datasets, including raw NGS reads and assembled metagenomes, associated with this paper are archived at NCBI Sequence Read Archive (SRA) under the BioProject accession PRJNA371480.
+Funding: JMM is supported by the MacCracken Program in the Graduate School of Arts and Science at New York University. This study was funded by a New York University Grand Challenge project "Microbes, Sewage, Health and Disease:
+
+Background
+Paper currency by its very nature is frequently transferred from one person to another and represents an important medium for human contact with--and potential exchange of-- microbes. In this pilot study, we swabbed circulating $1 bills obtained from a New York City bank in February (Winter) and June (Summer) 2013 and used shotgun metagenomic sequencing to profile the communities found on their surface. Using basic culture conditions, we also tested whether viable microbes could be recovered from bills.
+
+Results
+Shotgun metagenomics identified eukaryotes as the most abundant sequences on money, followed by bacteria, viruses and archaea. Eukaryotic assemblages were dominated by human, other metazoan and fungal taxa. The currency investigated harbored a diverse microbial population that was dominated by human skin and oral commensals, including Propionibacterium acnes, Staphylococcus epidermidis and Micrococcus luteus. Other taxa detected not associated with humans included Lactococcus lactis and Streptococcus ther- mophilus, microbes typically associated with dairy production and fermentation. Culturing results indicated that viable microbes can be isolated from paper currency.
+
+Conclusions
+We conducted the first metagenomic characterization of the surface of paper money in the United States, establishing a baseline for microbes found on $1 bills circulating in New York City. Our results suggest that money amalgamates DNA from sources inhabiting the human microbiome, food, and other environmental inputs, some of which can be recovered as via- ble organisms. These monetary communities may be maintained through contact with human skin, and DNA obtained from money may provide a record of human behavior and
+
+
+
+Mapping the New York City Metagenome" to JMC. IBM Almaden Research provided support in the form of salaries and computational resources for author RJP, but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript. The specific roles of these authors are articulated in the 'author contributions' section.
+Competing interests: RJP is an employee of IBM Almaden Research Center. This does not alter the authors' adherence to PLOS ONE policies on sharing data and materials.
+
+health. Understanding these microbial profiles is especially relevant to public health as money could potentially mediate interpersonal transfer of microbes.
+
+
+
+
+
+Introduction
+Metagenomics has revolutionized the analysis of complex microbial communities by enabling the identification of unculturable microbes in environmental samples [, ]. Shotgun metage- nomic studies of soil [], sea [], and a variety of human body sites [] have provided insights into the diversity, life cycles, and function of many microbial communities, and their involve- ment in the health and well-being of humans, wildlife, and the environment. People encounter microbes on virtually every surface they touch and this daily contact has the potential to influ- ence their well-being, yet we know very little about the microbial reservoir of urban surfaces or how they influence human health. Characterizing the microbial composition of surfaces is an important first step to understand the interactions between humans and microorganisms, but also serves as a means to monitor and potentially control the spread of diseases.
+Recent research into the microbial aspect of human interaction with our surroundings has profoundly changed our understanding of how we impact environmental microbial communi- ties. Each of us has a specific microbial "fingerprint" that is transmissible through exhalation or physical contact, potentially transferring millions of microbial cells per event []. Microbial communities within homes [] and offices [] are highly similar to those of their occupants, and surfaces frequently contacted by human hands such as keyboards [], cell phones [], ATM buttons [], and subway holds [] have microbial communities largely composed of skin taxa. Surface type, frequency of use, the identity of the interacting individuals, and bioge- ography also influence surface microbial communities [-].
+Paper money offers an attractive window into human-driven microbial community diver- sity due to the high frequency of manual currency exchange in commerce, food service, the sex trade, and travel--activities that are likely to strongly influence the types of organisms present. The hygienic status of banknotes has been a topic of speculation since the late 1800s []. In vitro culture studies have established that paper currency can harbor high levels of microbes, some of which are clinically significant, such as the causative agents of pneumonia and enteric diseases [-], and various antibiotic resistant strains []. Laboratory simulations also pro- vide evidence that many microorganisms can survive on office paper [], coins [] and banknotes of various materials [, ]. These studies, though limited, have established that microbial contamination of paper currency is widespread, and that money represents an important human-microbe interface.
+We designed a series of pilot experiments to answer several questions regarding the diver- sity of microbial communities on circulating paper currency in New York City. In the United States, $1 bills have the highest volume [], and the shortest average life span (5.8 years com- pared to 7.9 years for $20 bills and 15 years for the $100 bills []) of all circulating currency. As such, $1 bills can be considered a highly trafficked surface that experiences frequent human contact, and were chosen for this study on this basis. Using shotgun metagenomic sequencing, we characterized and compared the diversity found on $1 bills obtained from a bank in the heart of Manhattan, and tested whether viable microbes could be cultured from them in vitro. To our knowledge, this is the first direct exploration of the microbial composition of circulat- ing paper money in the United States using high-throughput Illumina sequencing and metage- nomic analysis techniques.
+
+
+Results
+We used a three-part approach to create a metagenomic profile of circulating paper currency (illustrated in ). In part one, we investigated whether microbial DNA was detectable on the surface of $1 bills and compared bioinformatic workflows for metagenomic analysis to determine which was optimal. In part two, we collected $1 bills from the same bank six months later to compare the monetary microbial communities over time. Finally, we determined whether viable microbes could be cultured in vitro from $1 bills and how those communities compared to the communities recovered using only sequence-based characterization methods.
+
+Metagenomic analysis of the monetary microbiome
+We collected and swabbed twenty $1 bills from a bank in Manhattan in February 2013. DNA from these bills was pooled into one sample for library preparation and subjected to shotgun metagenomic sequencing, resulting in 544,298,464 reads. We analyzed the metagenomic data from this sample using two different methods: (1) direct annotation of unassembled reads and
+de novo metagenomic assembly of reads using the Kalamazoo Metagenome Assembly Pipe- line [] (see, below).
+Both methods detected a diverse monetary microbiome including prokaryotes, eukaryotes, archaea, and viruses. Human sequences were the most abundant, representing about half of the high-quality reads in each method (). Of the non-human reads nearly three quarters (73.9%) of the unassembled ones had no match in GenBank; bacterial reads were next most abundant (16.8%), followed by non-human eukaryotes (7.1%), viruses, and archaea
+(both < 1%) (). In the assembled data, eukaryotes represented the largest nonhuman category (41.2%), followed by unclassified reads (32%), bacteria (29%), viruses, and archaea (both again <1%) (). The assembled data identified far fewer bacterial taxa at the species level (2,115 unique species with at least one hit) than the unassembled data (7,580 unique spe- cies with at least one hit); however, the difference shrinks (385 vs. 512) after abundance filter- ing to 2: 0.005% (~81% of total bacterial reads in each method), with 270 species (43.1%) overlapping (). As the de novo metagenomic assembly approach provides longer sequences for more robust classification, and read abundance in the contigs can be used to properly weight proportions, our subsequent analyses focused on results obtained with this method.
+
+Eukaryotic sequences dominate paper currency
+To sample monetary microbiome diversity over time, we collected an additional set of twenty
+$1 bills from the same bank in June 2013. DNA from these bills was pooled into one sample for library preparation and subjected to shotgun metagenomic sequencing, generating 476,898,204 reads. Both the February and June 2013 read sets (referred to henceforth as Winter and Summer) contain matches to prokaryotes, eukaryotes, archaea, and viruses. In both sets the number of archaeal and viral sequences detected was low (< 1%), and were not analyzed further. Human sequences were the most abundant in the Winter data (56.4%), but were much less abundant in the Summer data (39%) (). At both time points eukaryotes repre- sent the largest portion of non-human reads, albeit much smaller in Winter (41.2%) than Sum- mer (67.4%; ). Metazoan BLAST matches were the dominant group in Summer, with top hits to Equus caballus (horse, 49%), followed by Sus scrofa (wild boar, 6%), and Canus lupis (grey wolf, 2%). Although these are the top-ranking BLAST hits, Sus scrofa and Canus lupis are likely artifacts of Genbank and represent the presence of other eukaryotic genomes that are more prevalent in an urban environment (e.g. dogs and domestic pigs). Equus caballus was also the most abundant taxon in Winter (3.5%) followed two fungal species Aspergillus niger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flowchart describing the experimental plan and workflow for sample collection, sequencing and metagenomic data analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comparison of organisms identified in the Winter 2013 data by direct annotation of unassembled reads and de novo metagenomic assembly analysis methods. (A) Proportion of human matches identified by Bowtie2 (unassembled reads) and megaBLAST-LCA (assembled reads). (B) Proportional distribution of non-human megaBLAST-LCA results. Low quality matches are defined as those filtered out prior to LCA analysis (see ). High quality BLAST matches are broken down by taxonomic category and only categories with proportions >1% are included. (C) Number of bacterial identified in each dataset after abundance filtering to 2: 0.005%.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Differences in the abundance of organisms identified on $1 bills collected in Winter vs. Summer 2013. (A) Proportion of human matches identified by megaBLAST-LCA for each time point. (B) Proportional distribution of non-human megaBLAST-LCA results. Low quality matches are defined as those filtered out prior to LCA analysis (see ). High quality BLAST matches are broken down by taxonomic category and only categories with proportions >1% are included.
+
+
+
+(1%) and Wallemia sebi (1%), both of which are commonly found in indoor environments, and associated with contaminated food [-]. For bacterial reads the opposite was true, with Winter bills yielding a higher proportion than Summer ().
+
+Money microbial communities are largely derived from human skin and oral commensals
+A total of 397 bacterial species representing more than 20 bacterial phyla were identified across aggregate samples, though nearly all sequences (at least 97% of each bacterial dataset) belonged to just three phyla, the Actinobacteria, Firmicutes, and Proteobacteria, taxa that are representa- tive of human skin communities and have previously been shown to dominate other urban surfaces, including the subways of Boston [] and New York [], and ATM keypads in New York []. As expected based on the distribution of the BLAST results (), many more bacterial taxa were present in Winter (385 species total) than in Summer (149 species total), with 137 found in both.
+Similar bacteria dominated the two time points, including eleven of the most abundant bac- terial species (). The most abundant bacterial species in both datasets was Propionibacter- ium acnes, one of the most common among the skin microbial community; however, it was much more abundant in Summer (83%) than in Winter (51%). Other human-associated taxa among the most abundant species at both time points include a common skin bacterium, Staphylococcus epidermis; several oral taxa such as Micrococcus luteus, Streptococcus oralis and Rothia (R. mucilaginosa, dentocariosa) []; gut and oral commensal Veillonella parvula []; vaginally associated Corynebacterium aurimucosum []; and Acinetobacter baumannii, an opportunistic human pathogen []. Highly abundant taxa in both time points not directly associated with humans include Lactococcus lactis and Streptococcus thermophilus, microbes typically associated with dairy production and fermentation []. The majority of the other abundant bacteria at both time points are common skin and oral flora. Exceptions to this include Gardnerella vaginalis, found only in the most abundant taxa of Winter (), and Xanthomonas campestris, a bacterial plant pathogen that is also used to produce xanthan gum, found only in Summer [] ().
+
+Viable microbes were isolated from money
+Microbial DNA found on paper currency is indicative but not sufficient evidence of live bacte- ria. To determine whether viable microbes could be isolated from money, we collected two additional sets of 20 $1 bills in September and October of 2013 (referred to henceforth as Cul- ture 1 and Culture 2), swabbed the bills, plated the swab eluent on agar plates under sterile conditions, and incubated them at 37@C. Colonies appeared on all plates after 24 hours, and DNA was extracted and pooled into one sample per set of 20 bills after three days. We charac- terized the colonies by DNA sequencing and annotation, using the same quality control and assembly analysis methods described above (). After abundance filtering we identified 102 bacterial species in Culture 1 and 212 species in Culture 2, far less than the Winter sequence-based characterization (385 species). The Summer sequence-based characterization identified more bacterial species (149) than Culture 1 but less than Culture 2, likely due to the significantly lower proportion of bacterial reads observed in the Summer dataset (). Of the 549 unique bacterial species identified in this study only 18 were observed in all four data- sets, and only one, Micrococcus luteus, had a relative abundance above 1% (mean 2.3%) in all four experiments (, ). Other taxa common to all four experiments include human-associated Staphylococcus (mean 3.95%), along with taxa not associated with humans, including soil taxon Kocuria rhizophila (mean 0.60%) ().
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relative abundance at the phylum and species level of bacterial taxa identified in the Winter and Summer 2013 datasets. Relative abundance of the top 15 bacterial taxa at the species level for (A) Winter and (B) Summer. The color of each species corresponds to its respective phylum. Those species marked with a ** indicate species present in the most abundant of both time points.
+
+
+We compared our monetary microbiome results to those of four previous culture-based studies from 1975-2009, which used morphological techniques to identify bacterial species. These studies sampled money of various denominations and composition, from the USA [, ], Nepal [] and Egypt [], and identified 20 different bacterial taxa, some of which are known to cause human infections (). Eighteen of the 20 bacteria taxa cultured in these studies were also found in our study, representing between 11-72% of the total bacterial reads for each time point. The majority of these taxa were identified at low levels in our dataset, par- ticularly in our cultures where less than ten would have survived the abundance filtering step, but this could be due to the differences in culturing techniques, composition, and age of the bills used, or the use of sequence versus. morphological identification [, ].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Number and overlap of bacterial species identified on money by the sequence-based experiments (Winter and Summer) vs. bacterial species cultured then sequenced from LB media (Culture 1 and Culture 2). Shaded area indicates species that were identified in all four experiments.
+
+
+Discussion
+Our work is the first metagenomic characterization of microbial diversity present on paper money circulating in New York City, the financial capital of the world. Our data indicate that paper money--the site of a potential "monetary microbiome"--harbors DNA from all four primary branches of the tree of life, and harbors living bacteria. As a whole, these results con- firm and deepen several previous studies suggesting that money harbors a diverse and viable microbial population.
+The majority of the sequences identified in our study were eukaryotic. We expected to detect high levels of human DNA on currency; however, we found much less than might be expected, particularly in the Summer bills. However, these bills also had a much higher pro- portion of non-human eukaryotic DNA, with high incidences of E. caballus (horse), S. scrofa (wild boar), and C. lupis (grey wolf). Although these are the top-ranking matches for these reads it is highly unlikely that wild boars and wolves are present in New York City. More likely, these are false positives generated by best-hit analysis and represent the presence of other mammalian species that are more prevalent in urban environments. This DNA may be left on bills through skin-mediated contact or environmental exposure during activities such as visit- ing parks, paying for meals or having pets at home. The higher occurrence of these species on money in Summer could reflect a seasonal increase in these activities, many of which take place outdoors during warmer months, while bills collected in Winter show higher levels of common indoor fungi.
+Although the majority of sequences identified were eukaryotic, our $1 bill microbiome also included more than twenty bacterial phyla across aggregate samples, with the majority of sequences representing Actinobacteria, Firmicutes, and Proteobacteria, phyla that dominate
+
+
+ Comparison of bacteria identified in this study (proportional abundance of each species) to those cultured in four previous studies pub- lished during 1975-2009.
+
+Bold numbers indicate a proportional abundance 2: 0.005%; bold taxa have 2: 0.005% in all four datasets.
+*Used to represent nonpathogenic Cornynebacteria.
+
+
+
+the microbiomes of human skin [] and oral cavities []. In agreement with previous studies, the most abundant taxon was P. acnes, which is commonly found on sebaceous (oily) areas of the skin, such as the face [, ]. The prevalence of human-associated taxa on paper money is unsurprising, as many previous studies have shown that the microbial communities of com- mon surfaces closely resemble those of the human body parts that contact them [, , ].
+We also observed high abundances of oral- and food-associated bacterial taxa on bills at both time points, further suggesting that actions performed before and during handling, such as face-touching, eating, or finger-licking prior to counting may influence community composition.
+As no DNA was detected on new bills that we procured, or on the Winter and Summer bills re-swabbed six months later, paper money most likely acquires these communities during human-mediated exchange of bills. While our study design does not allow us to pinpoint the exact source of these communities, several studies have shown associations between human activities and the community compositions of skin and surfaces [-] and previous analysis of other NYC surfaces also detected "molecular echoes" [] of human activities, particularly from recent meals, on both surfaces in the urban transit system [] and on ATM keypads [], suggesting that residual DNA/microbes may persist on a person's hands and be trans- ferred to surfaces upon use.
+One goal of studying the microbiomics of highly trafficked surfaces such as money is to establish a baseline through which variability can be tracked and used for public health infor- mation. The bulk of bacteria found on the surface of money in this study were not associated
+
+
+with any human disease and the profiles were similar over time. However, we detected some taxa with potential implications for human health. Most were present at very low abundance, except G. vaginalis, which is associated with disruption of the vaginal flora/vaginosis, and A. baumannii, an opportunistic pathogen with a high incidence of multidrug resistant strains []. These taxa were more abundant in the Winter bills than the Summer ones, which could reflect biogeographic and/or seasonal patterns in the health of the individuals who handled the bills, highlighting the potential use of money as a fomite to map public health trends.
+Detection of microbial genetic material via sequencing is not sufficient to demonstrate via- ble microbes, so we undertook a basic culturing experiment and determined that viable microbes can be recovered from paper currency. Our sequence-based experiments generally identified a greater diversity of bacterial species than the culture-based experiments, probably because DNA sequencing techniques can detect organisms that cannot be cultured; the culture results only represent those bacteria capable of growing on LB-agar plates at 37@C, and the dif- ferent environmental conditions at the time of each collection could influence the type and amount of microbes present on the bills.
+The present study aimed solely to characterize the microbial diversity found on $1 bills, and we had no way of assessing "transitory" vs. "resident" taxa aside from the obvious metazoan species. Although we detected DNA signatures similar to bacteria with pathogenic potential, this does not provide any definitive information regarding their pathogenicity, and sequence- based data by itself does not indicate that these reads were from live pathogens. Previous meta- genomic studies have also identified organisms with pathogenic potential on some urban sur- faces [, , ]; however outright virulence factors were rare, indicating that the pathogenic potential of these organisms is very low.
+Furthermore, our detection of viable microbes on paper currency does not establish their source, nor does it affirm that they can be stably transferred from one individual to another. Preliminary studies have demonstrated the potential of money to facilitate the transmission of microbes and act as a disease vector, particularly in the presence of food [, ]. However, in- depth complementary laboratory investigations are required are to determine if the microbes found on money are deposited through human contact, whether they are metabolically active or dormant, their survival time, whether they can be stably transferred from money to individ- uals, and the potential for infection.
+Our study provides only a glimpse of the NYC monetary microbiome, in terms of sample size and number of time points, and greater diversity is likely present. Establishing a "typical" microbial profile for money will require further large-scale studies with greater longitudinal depth, covering multiple locations, sources (including stores, food vendors, hospitals, etc.) and denominations of bills. Nonetheless the present dataset helps to characterize the "urban micro- biome" of a major city, and in doing so provides a jumping off point for future hypothesis test- ing, hinting at potential large-scale trends that may influence the distribution and persistence of microbes on paper currency and money as a potential human-microbe interface. The nature of these communities and their potential transmission during hand-to-hand exchange will be important areas of future research, as microbes that can be transmitted between people via money could have considerable health implications and their identification has the potential to inform public health and policy.
+
+Materials and methods
+Sample collection, processing and sequencing
+Twenty $1 notes were collected from a bank in Greenwich Village, New York City in February 2013, representing the winter sample, and brought back to NYU for processing. A sterile
+
+
+ESwab (Copan Diagnostics), moistened in molecular biology grade water (Fischer Scientific), was used to swab the front and back of two individual bills, and repeated until all bills were swabbed (10 swabs total). DNA was extracted from each swab with the PowerSoil DNA Isola- tion kit (MOBIO, catalog #12888) with the following modifications: (1) moist swabs were cut approximately 0.25 inches from the tip end and placed directly into the supplied bead tube; and (2) residual liquid from the swab tip was extracted post bead-vortexing using filter-less spin-columns (Qiagen). DNA from the ten swabs was concentrated post-extraction using a SpeedVac (Savant) and subsequently pooled for optimal biomass recovery. The same process was repeated again in June 2013 on an additional 20 $1 bills, representing the summer sample. This resulted in two samples, winter and summer, each representing DNA from 20 $1 bills.
+Two additional groups of twenty $1 notes were collected from the same bank in September 2013 (Culture 1) and October 2013 (Culture 2) and swabbed as described above. Swabs from each collection were deposited together into Falcon tubes containing 5 ml of LB (Luria Broth). After vigorous mixing, 1 ml of LB was spread onto five different LB agar plates per collection, and the plates incubated at 37@C for 72 hours under aerobic conditions. Colony growth was monitored every 24 hours, and after 72 hours colonies from each plate were scrapped from the media surface and used for DNA was extraction. One DNA extraction was performed per plate and DNA from each set of 20 bills was pooled into one sample as described above. This resulted in four samples total, each representing DNA from 20 $1 bills, two from swabbed bills (winter and summer collections), and two from cultured bills (fall collections).
+Several controls were included to ensure a contaminant-free environment. First, all swab- bing and culturing of all bills was performed under Bio Safety Level 2 conditions in a laminar flow hood, with swabs of the hood and ambient air included as negative controls. No measur- able quantities of DNA were extracted from unused moist swabs, swabs of the laminar flow hood surface or swabs exposed to ambient air where extraction occurred, and no colonies were observed on control plates cultured from these swabs, indicating that the harvested genetic material in our study was not attributable to the working area, laboratory equipment or ambient air. In addition, swabbed bills from February 2013, and June 2013, which had been stored in an airtight container, were re-swabbed, and twenty new $1 bills that had yet to be cir- culated through New York City were also collected and swabbed. DNA was not recovered from re-swabbed or fresh bills, and these samples were discarded from further sequencing and analysis.
+Metagenomic libraries were constructed from pooled DNA using the Illumina Library Preparation kit (Kapa Biosystems) following the manufacturer's instructions with a modifica- tion to increase the frequency of ligated fragments. Adapters (Bio Scientific) were ligated for 75 min at 20@C then subjected to a cycling gradient (10-30@C every 30 sec) []. Purified libraries were size selected in the range 200-900bp using a Pippin Prep (Sage Science) and sequenced on the Illumina HiSeq2000 platform with 2x100 bp paired-end chemistry. The win- ter and summer libraries were sequenced on individual HiSeq lanes, while the two libraries from cultured bills were pooled and sequenced on one lane of a HiSeq Rapid Run.
+
+Metagenomic data analysis
+Direct annotation of unassembled reads. Raw sequence data were: (1) demultiplexed using CASAVA (Illumina), (2) trimmed of adapter sequences, and filtered of reads with uncalled bases and reads < 90 nucleotides in length using Flexbar []. Host DNA, or human reads presumably from individuals that handled the money, were identified by aligning against the human genome (GenBank build hg19) with Bowtie2 [] and removed from the analysis. Duplicate reads were identified based on 100% sequence similarity and removed.
+
+
+De novo metagenomic assembly method. Assembly based analysis of metagenomic reads was undertaken following the Kalamazoo Metagenome Assembly Pipeline, version 0.8.5 as described in [, ], with a few modifications. Briefly, demultiplexed data were trimmed of adapters using Trimmomatic [] and quality filtered to a minimum Phred score of 30 using the Fastx Toolkit. Quality filtered reads were digitally normalized [] using the default param- eters (K = 20, coverage = 20 and K = 20, coverage = 5) and assembled using MEGAHIT, ver- sion 0.1.2 using the default parameters []. See for summary statistics of each metagenomic assembly. Read abundance values for this assembled dataset were calculated by mapping all quality filtered reads back to the final contigs using the default parameters in Bow- tie and the make-coverage.py script in the Kalamazoo Metagenome Assembly Pipeline.
+
+Taxonomic binning analysis using Megablast-LCA
+The final sets of unassembled reads and assembled contigs were searched against the NCBI nucleotide (NT) database using the Megablast algorithm [] and default parameters (E-value of 10). Hits were required to have a minimum length of 65 bp (of a 100 bp read), a minimum bitscore of 60, and to have a bitscore within ten percent of the highest bitscore for the read.
+Identifiers for high quality hits (GI numbers) were mapped to NCBI Taxonomy identifiers. To resolve the ambiguity arising from multiple hits to different taxa, each read was assigned to the lowest common ancestor (LCA) node in the NCBI Taxonomy tree that encompassed the set of hits for the read. For example, hits to multiple species of the same genus are assigned to the common genus by the LCA algorithm established by MEGAN []. Relative abundance esti- mates were calculated for different categories as proportions of input data for the unassembled reads, and the contig read abundance values calculated above were used to properly weight abundance estimates for the assembled dataset. For robust analysis only species with a relative abundance of 2: 0.005% were used for taxonomic profiling.
+Supporting information
+S1 Table. Proportion of abundance filtered reads for the bacterial species observed in all four experiments conducted in this study.
+(XLSX)
+S2 Table. Per-sample summary statistics of the metagenomic assembly.
+(XLSX)
+
+
+Acknowledgments
+We thank the personnel of the Genomics Core facility at NYU's Center for Genomics and Sys- tems Biology for their sequencing services, and Drs. Patrick Eichenberger, Elodie Ghedin and Martin Blaser for excellent advice during data analysis.
+
+Author Contributions Conceptualization: JMC. Data curation: JMM SAS.
+Formal analysis: JMM SAS RJP. Funding acquisition: JMC. Investigation: JMM EA.
+
+
+Methodology: JMM EA PS. Resources: RJP PS JMC. Software: SAS RJP. Supervision: JMC. Visualization: JMM.
+Writing - original draft: JMM.
+Writing - review & editing: JMM SAS JMC.
+
+
+
+References
+Pace NR. A molecular view of microbial diversity and the biosphere. Science. 1997; 276(5313):734-40. Epub 1997/05/02. PMID: 
+Delong E. Microbiology: reconstructing the wild types. Nature. 2004; 428(6978):25-6. PMID:
+Fierer N, Leff JW, Adams BJ, Nielsen UN, Bates ST, Lauber CL, et al. Cross-biome metagenomic anal- yses of soil microbial communities and their functional attributes. Proceedings of the National Academy of Sciences of the United States of America. 2012; 109(52):21390-5. Epub 2012/12/14. PMID:
+Venter JC, Remington K, Heidelberg JF, Halpern AL, Rusch D, Eisen JA, et al. Environmental genome shotgun sequencing of the Sargasso Sea. Science. 2004; 304(5667):66-74. Epub 2004/04/07. PMID:
+Consortium HMP. Structure, function and diversity of the healthy human microbiome. Nature. 2012; 486(7402):207-14. Epub 2012/06/16. PMID:
+Dawson P, Han I, Cox M, Black C, Simmons L. Residence time and food contact time effects on transfer of Salmonella Typhimurium from tile, wood and carpet: testing the five-second rule. Journal of applied microbiology. 2007; 102(4):945-53. Epub 2007/03/27. PMID:
+Dunn RR, Fierer N, Henley JB, Leff JW, Menninger HL. Home Life: Factors Structuring the Bacterial Diversity Found within and between Homes. PloS one. 2013; 8(5):e64133. Epub 2013/05/30. PMID:
+Hewitt KM, Gerba CP, Maxwell SL, Kelley ST. Office space bacterial abundance and diversity in three metropolitan areas. PloS one. 2012; 7(5):e37849. Epub 2012/06/06. PMID:
+Fierer N, Lauber CL, Zhou N, McDonald D, Costello EK, Knight R. Forensic identification using skin bac- terial communities. Proceedings of the National Academy of Sciences of the United States of America. 2010; 107(14):6477-81. PMID:
+Meadow JF, Altrichter AE, Green JL. Mobile phones carry the personal microbiome of their owners. PeerJ. 2014; 2:e447.PMID:
+Bik HM, Maritz JM, Luong A, Shin H, Dominguez-Bello MG, Carlton JM. Microbial Community Patterns Associated with Automated Teller Machine Keypads in New York City. mSphere. 2016; 1(6).
+Hsu T, Joice R, Vallarino J, Abu-Ali G, Hartmann EM, Shafquat A, et al. Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment. mSystems. 2016; 1(3).
+Flores GE, Bates ST, Caporaso JG, Lauber CL, Leff JW, Knight R, et al. Diversity, distribution and sources of bacteria in residential kitchens. Environmental microbiology. 2013; 15(2):588-96. Epub 2012/11/23.PMID:
+Flores GE, Bates ST, Knights D, Lauber CL, Stombaugh J, Knight R, et al. Microbial biogeography of public restroom surfaces. PloS one. 2011; 6(11):e28132. Epub 2011/12/02. PMID:
+Lax S, Hampton-Marcell JT, Gibbons SM, Colares GB, Smith D, Eisen JA, et al. Forensic analysis of the microbiome of phones and shoes. Microbiome. 2015; 3:21. Epub 2015/05/15. PMID:
+
+
+Lax S, Smith DP, Hampton-Marcell J, Owens SM, Handley KM, Scott NM, et al. Longitudinal analysis of microbial interaction between humans and the indoor environment. Science. 2014; 345(6200):1048- 52.PMID:
+Schaarschmidt J. Upon the occurrence of bacteria and minute algae on the surface of paper money. Nature. 1884; 30:360.
+Abrams BL, Waterman NG. Dirty money. JAMA: the journal of the American Medical Association. 1972; 219(9):1202-3. Epub 1972/02/28. PMID:
+Gedik H, Voss TA, Voss A. Money and transmission of bacteria. Antimicrobial resistance and infection control. 2013; 2(1):22. Epub 2013/08/30.PMID:
+Vriesekoop F, Russell C, Alvarez-Mayorga B, Aidoo K, Yuan Q, Scannell A, et al. Dirty money: an inves- tigation into the hygiene status of some of the world's currencies as obtained from food outlets. Food- borne pathogens and disease. 2010; 7(12):1497-502. Epub 2010/08/14.PMID:
+Tolba O, Loughrey A, Goldsmith CE, Millar BC, Rooney PJ, Moore JE. Survival of epidemic strains of nosocomial- and community-acquired methicillin-resistant Staphylococcus aureus on coins. American journal of infection control. 2007; 35(5):342-6. Epub 2007/06/20.PMID:
+Hubner NO, Hubner C, Kramer A, Assadian O. Survival of bacterial pathogens on paper and bacterial retrieval from paper to hands: preliminary results. The American journal of nursing. 2011; 111(12):30-4; quiz 5-6. Epub 2011/11/16.PMID:
+Jiang X, Doyle MP. Fate of Escherichia coli O157:H7 and Salmonella enteritidis on currency. Journal of Food Protection. 1999; 62(7):805-7. PMID:
+Vriesekoop F, Chen J, Oldaker J, Besnard F, Smith R, Leversha W, et al. Dirty Money: A Matter of Bac- terial Survival, Adherence, and Toxicity. Microorganisms. 2016; 4(4).
+Reserve UF. Coin and Currency Services 2015 [cited 2015 June 1st]..
+Reserve UF. How long is the lifespan of U.S paper money 2015 [cited 2015 June 1st]..
+Howe AC, Jansson JK, Malfatti SA, Tringe SG, Tiedje JM, Brown CT. Tackling soil diversity with the assembly of large, complex metagenomes. Proceedings of the National Academy of Sciences of the United States of America. 2014; 111(13):4904-9. Epub 2014/03/19.PMID:
+Desroches TC, McMullin DR, Miller JD. Extrolites of Wallemia sebi, a very common fungus in the built environment. Indoor air. 2014; 24(5):533-42.PMID:
+Fischer G, Dott W. Relevance of airborne fungi and their secondary metabolites for environmental, occupational and indoor hygiene. Arch Microbiol. 2003; 179(2):75-82. PMID:
+Hayden N, Maude R, Proctor F. Studies on the biology of black mould (Aspergillus niger) on temperate and tropical onions. 1. A comparison of sources of the disease in temperate and tropical field crops. Plant pathology. 1994; 43(3):562-9.
+Afshinnekoo E, Meydan C, Chowdhury S, Jaroudi D, Boyer C, Bernstein N, et al. Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics. Cell Syst. 2015; 1(1):97-e3.PMID:
+Consortium HMP. A framework for human microbiome research. Nature. 2012; 486(7402):215-21. Epub 2012/06/16.PMID:
+Segata N, Haake SK, Mannon P, Lemon KP, Waldron L, Gevers D, et al. Composition of the adult digestive tract bacterial microbiome based on seven mouth surfaces, tonsils, throat and stool samples. Genome biology. 2012; 13(6):R42.PMID:
+Bernard K. The genus corynebacterium and other medically relevant coryneform-like bacteria. Journal of clinical microbiology. 2012; 50(10):3152-8.PMID:
+Howard A, O'Donoghue M, Feeney A, Sleator RD. Acinetobacter baumannii: an emerging opportunistic pathogen. Virulence. 2012; 3(3):243-50.PMID:
+Leroy F, De Vuyst L. Lactic acid bacteria as functional starter cultures for the food fermentation industry. Trends in Food Science & Technology. 2004; 15(2):67-78..
+Palaniraj A, Jayaraman V. Production, recovery and applications of xanthan gum by Xanthomonas campestris. Journal of Food Engineering. 2011; 106(1):1-12..
+
+
+Pope TW, Ender PT, Woelk WK, Koroscil MA, Koroscil TM. Bacterial contamination of paper currency. Southern medical journal. 2002; 95(12):1408-10. Epub 2003/02/25. PMID:
+Lamichhane J, Adhikary S, Gautam P, Maharjan R, Dhakal B. Risk of handling paper currency in circu- lation chances of potential bacterial transmittance. Nepal Journal of Science and Technology. 2009; 10:161-6.
+El-Dars FM, Hassan WM. A preliminary bacterial study of Egyptian paper money. International journal of environmental health research. 2005; 15(3):235-9. Epub 2005/09/02.PMID:
+Kong HH, Segre JA. Skin microbiome: looking back to move forward. The Journal of investigative der- matology. 2012; 132(3 Pt 2):933-9. Epub 2011/12/23.PMID:
+Rintala H, Pitkaranta M, Toivola M, Paulin L, Nevalainen A. Diversity and seasonal dynamics of bacte- rial community in indoor environment. BMC microbiology. 2008; 8:56. Epub 2008/04/10.PMID:
+Grice EA, Segre JA. The skin microbiome. Nature reviews Microbiology. 2011; 9(4):244-53. Epub 2011/03/17.PMID:
+Dewhirst FE, Chen T, Izard J, Paster BJ, Tanner AC, Yu WH, et al. The human oral microbiome. Journal of bacteriology. 2010; 192(19):5002-17. Epub 2010/07/27.PMID:
+Grice EA, Kong HH, Conlan S, Deming CB, Davis J, Young AC, et al. Topographical and temporal diver- sity of the human skin microbiome. Science. 2009; 324(5931):1190-2. Epub 2009/05/30.PMID:
+Grice EA, Kong HH, Renaud G, Young AC, Bouffard GG, Blakesley RW, et al. A diversity profile of the human skin microbiota. Genome research. 2008; 18(7):1043-50. Epub 2008/05/27.PMID:
+Lee L, Tin S, Kelley ST. Culture-independent analysis of bacterial diversity in a child-care facility. BMC microbiology. 2007; 7:27. Epub 2007/04/07.PMID:
+McManus CJ, Kelley ST. Molecular survey of aeroplane bacterial contamination. Journal of applied microbiology. 2005; 99(3):502-8. Epub 2005/08/20. PMID:
+Fierer N, Hamady M, Lauber CL, Knight R. The influence of sex, handedness, and washing on the diver- sity of hand surface bacteria. Proceedings of the National Academy of Sciences of the United States of America. 2008; 105(46):17994-9. Epub 2008/11/14.PMID:
+Mathieu A, Delmont TO, Vogel TM, Robe P, Nalin R, Simonet P. Life on human surfaces: skin metage- nomics. PloS one. 2013; 8(6):e65288. Epub 2013/06/19.  PMID:
+Medrano-Felix A, Martinez C, Castro-del Campo N, Leon-Felix J, Peraza-Garay F, Gerba CP, et al. Impact of prescribed cleaning and disinfectant use on microbial contamination in the home. Journal of applied microbiology. 2011; 110(2):463-71. Epub 2010/12/15. PMID:
+Ojima M, Toshima Y, Koya E, Ara K, Kawai S, Ueda N. Bacterial contamination of Japanese house- holds and related concern about sanitation. International journal of environmental health research. 2002; 12(1):41-52. Epub 2002/04/24. PMID:
+Rosenthal M, Goldberg D, Aiello A, Larson E, Foxman B. Skin microbiota: microbial community struc- ture and its potential association with health and disease. Infection, genetics and evolution: journal of molecular epidemiology and evolutionary genetics in infectious diseases. 2011; 11(5):839-48. Epub 2011/04/06.PMID:
+Gibbons SM, Schwartz T, Fouquier J, Mitchell M, Sangwan N, Gilbert JA, et al. Ecological succession and viability of human-associated microbiota on restroom surfaces. Applied and environmental microbi- ology. 2015; 81(2):765-73. Epub 2014/11/16.PMID:
+Angelakis E, Azhar EI, Bibi F, Yasir M, Al-Ghamdi AK, Ashshi AM, et al. Paper money and coins as potential vectors of transmissible disease. Future microbiology. 2014; 9(2):249-61. Epub 2014/02/28.PMID:
+Michaels B. Handling money and serving reads-to-eat food. Food Service Technology. 2002; 2:1-3.
+Lund AH, Duch M, Pedersen FS. Increased cloning efficiency by temperature-cycle ligation. Nucleic acids research. 1996; 24(4):800-1. PMID:
+
+
+Dodt M, Roehr JT, Ahmed R, Dieterich C. FLEXBAR--Flexible Barcode and Adapter Processing for Next-Generation Sequencing Platforms. Biology. 2012; 1(3):895-905.PMID:
+Langmead B, Salzberg SL. Fast gapped-read alignment with Bowtie 2. Nat Methods. 2012; 9(4):357-9. Epub 2012/03/06.PMID:
+Zhang Q, Pell J, Canino-Koning R, Howe AC, Brown CT. These are not the k-mers you are looking for: efficient online k-mer counting using a probabilistic data structure. PloS one. 2014; 9(7):e101271. Epub 2014/07/26.PMID:
+Bolger AM, Lohse M, Usadel B. Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinfor- matics. 2014; 30(15):2114-20. Epub 2014/04/04.PMID:
+Brown CT, Howe AC, Zhang Q, Pyrkoz AB, Brom TH. A reference-free algorithm for computational nor- malization of shotgun sequencing data. arXiv. 2012;1203.4802.
+Li D, Liu CM, Luo R, Sadakane K, Lam TW. MEGAHIT: an ultra-fast single-node solution for large and complex metagenomics assembly via succinct de Bruijn graph. Bioinformatics. 2015; 31(10):1674-6. Epub 2015/01/23.PMID:
+Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, Bealer K, et al. BLAST+: architecture and applications. BMC bioinformatics. 2009; 10:421. Epub 2009/12/17.PMID:
+Huson DH, Auch AF, Qi J, Schuster SC. MEGAN analysis of metagenomic data. Genome research. 2007; 17(3):377-86. Epub 2007/01/27.PMID:

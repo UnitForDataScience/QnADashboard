@@ -1,0 +1,478 @@
+
+
+
+Journal of Applied Microbiology ISSN 1364-5072
+
+REVIEW ARTICLE
+Fish intestinal microbiome: diversity and symbiosis unravelled by metagenomics
+A.M. Tarnecki1	, F.A. Burgos2, C.L. Ray3 and C.R. Arias2
+Mote Marine Laboratory, Sarasota, FL, USA
+School of Fisheries, Aquaculture and Aquatic Sciences, Auburn University, Auburn, AL, USA
+United States Department of Agriculture, Agricultural Research Service, Harry K. Dupree Stuttgart National Aquaculture Research Center, Stuttgart, AR, USA
+
+
+
+
+
+Keywords
+diversity, fish (live), intestinal microbiology, metagenomics, symbiosis.
+
+Correspondence
+Andrea M. Tarnecki, Mote Marine Laboratory, 1600 Ken Thompson Parkway, Sarasota, FL 34236, USA.
+E-mail: 
+
+2016/2275: received 21 October 2016,
+revised 11 January 2017 and accepted 2
+February 2017 doi:10.1111/jam.13415
+
+Summary
+The gut microbiome of vertebrates plays an integral role in host health by stimulating development of the immune system, aiding in nutrient acquisition and outcompeting opportunistic pathogens. Development of next-generation sequencing technologies allows researchers to survey complex communities of microorganisms within the microbiome at great depth with minimal costs, resulting in a surge of studies investigating bacterial diversity of fishes. Many    of these studies have focused on the microbial structure of economically significant aquaculture species with the goal of manipulating the microbes to increase feed efficiency and decrease disease susceptibility. The unravelling of intricate host-microbe symbioses and identification of core microbiome functions is essential to our ability to use the benefits of a healthy microbiome   to our advantage in fish culture, as well as gain deeper understanding  of  bacterial roles in vertebrate health. This review aims to summarize the available knowledge on fish gastrointestinal communities obtained from metagenomics, including biases from sample processing, factors influencing assemblage structure, intestinal microbiology of important aquaculture species and description of the teleostean core microbiome.
+
+
+
+
+
+Introduction
+Nowadays, it is well accepted that the community of microbes occupying the gastrointestinal (GI) tract of ver- tebrates (gut microbiome) plays a critical role in host development, physiology and health (Mueller et al. 2012; Llewellyn et al. 2014). Most of our knowledge on micro- biome structure and function derives from studies on mammals which comprise <10% of total vertebrate diver- sity (Sullam et al. 2012). Despite encompassing nearly  half of vertebrate species (Nelson 2006), few studies have examined the gut microbiome of fishes (Llewellyn et al. 2014; Ringo et al. 2016). The first attempts  to  explore fish intestinal microbiology used culture-based methods that vastly underestimate the diversity of these communi- ties, as <10% of bacteria can be isolated and cultured under laboratory conditions (Amann et al. 1995). More recently, in line with other efforts aimed at exploring
+
+microbial diversity in different ecosystems, molecular- based culture-independent methods have been applied to the study of microbial communities that colonize the GI tract of fishes.
+There are three main strategies to characterize micro- bial communities using culture-independent methods. Fluorescence in situ hybridization (FISH) uses fluores- cent-label probes to directly observe microbes, with mini- mal processing, using fluorescence or  confocal microscopy (Amann et al. 1995). The probes target speci- fic regions of the ribosomal RNA (rRNA). This method provides a 3D view of the community and allows obser- vation of the intricate spatial relationships between microbes. Although not conducive for high-throughput sample processing, FISH has been used to track specific probiotics in the gut of fish (Del'Duca et al. 2013).
+DNA fingerprinting methods have been extensively  used to compare bacterial diversity of communities
+
+
+
+colonizing the GI tract of fish. These methods include terminal restriction fragment length polymorphism (Fjell- heim et al. 2012; Green et al. 2013), denaturing gradient gel electrophoresis (DGGE) (Le Nguyen et al. 2008; Zhou et al. 2009) and (automated) ribosomal intergenic spacer analysis (RISA) (Larsen et al. 2014b). These techniques are based on targeted PCR amplification of variable regions within the ribosomal operons that are unique to bacterial species or strains. Overall, these techniques are fairly quick to perform, relatively inexpensive and allow for medium to high-throughput  analysis.  However,  results obtained with these methods are more qualitative than quantitative and, for the most part, inform on the complexity of the communities but not on the specific operational taxonomic units (OTUs) that constitute each community (DGGE allows for further analysis to identify specific OTUs, but this approach is cumbersome and has   a low throughput).
+A more comprehensive culture-independent  approach  to obtain a full inventory of the diversity present in a sample is to sequence the pool of bacterial 16S rRNA genes. Bacterial taxonomy heavily relies on 16S rRNA gene sequencing which has become an accurate method  for routine bacterial identification (typically, a conserva- tive cut-off point of 97% sequence similarity or higher is used to ascribe an unknown isolate to a known species) (Rosello-Mora 2005). Early efforts involved the genera- tion of 16S clone libraries followed by sequencing of indi- vidual clones using Sanger sequencing (Clements et al. 2007; Kim et al. 2007; Wu et al. 2010b). Although very accurate in terms of sequence quality, sequencing hun- dreds of individual clones is expensive and time-consum- ing, limiting the applicability of this method. In 2008, sequencing centres started to transition from Sanger-  based sequencing to new (or next-generation) DNA tech- nologies (NGS) and the cost per megabase of DNA sequence plummeted (Wetterstrand 2016). These cost- effective technologies soon triggered an explosion of stud- ies aimed at characterizing, with a level of detail hard to imagine only a few years ago, the microbial communities present in a myriad of environments including the GI tract of fishes. This review aims at providing an overview on the knowledge generated on the fish gut microbiome using NGS technology. Studies that have investigated the gut bacterial communities of fishes are described in Table 1.
+
+
+Laboratory procedures
+Numerous reviews address NGS sequencing technologies, including sample preparation, sequencing chemistry and pros and cons (Metzker 2010; Mardis 2013; Chiu and Miller 2016). In this review, sample preparation protocols are briefly discussed as they affect results and data
+
+interpretation. During design of a microbiome study, decisions regarding sample type (gut contents vs intestinal mucus), sample storage, DNA extraction method and sequencing protocols must be made, each of which may bias results. However, few studies have investigated these effects in fishes, specifically using NGS, despite the poten- tial for these biases to differ based on environmental community analysed (Tremblay et al. 2015). This section will include insight from  other  methods  and  organisms to describe potential biases related to sample processing.
+
+Sample type
+The first choice in fish gut microbiome investigations is whether to analyse digesta (gut content) or intestinal mucus (emptied intestinal tract). It is generally accepted that rinsed intestinal tissue or mucus is used to characterize adherent (autochthonous) bacteria, whereas digesta is used to characterize non-adherent (allochthonous) communities (Ringo et al. 2016). Microbiome differences between these sample types (Wu et al. 2012; Li et al. 2015; Gajardo et al. 2016) are detectable despite variations in sample processing (Carda-Di,eguez  et al.  2014;  Larsen  et al.  2014b)  which impact these communities independently. Larsen et al. (2014b) demonstrated that the influence of storage condi- tions and DNA extraction method was greater in digesta than in intestinal tissue samples.  Similarly, Carda-Di,eguez et al. (2014) determined that digesta samples were more sensitive to sampling procedures and environmental condi- tions than were intestinal samples. Thus, variation in sam- ple processing may be more impactful when investigating non-adherent bacteria than when comparing adherent microbiomes. Due to the still limited number of articles on the topic, determining sample size (i.e. number of individu- als analysed) for future studies is hard to predict. Statistical analysis using human microbiome data showed that power is a function of number of sequence reads and sample size; the more reads generated, the fewer individual replicates are needed to achieve significant levels (La Rosa et al. 2012). For most fish species, specific replicate numbers should still be determined empirically.
+
+
+Sample storage
+Often, field sampling prevents immediate processing of samples and sometimes even storage at -80degC, which are generally recognized as ideal storage conditions prior to DNA extraction and analysis. Choice of storage tempera- ture can significantly impact gut microbiome results.  Using RISA, Larsen et al. (2014b) demonstrated that freezing  samples  at  -20degC  for  15 days  distorted  the  bac- terial community fingerprint by decreasing apparent diversity (band number). Storage in RNAlater(r) buffer
+
+
+Table 1 Studies investigating the fish gastrointestinal microbiome using next-generation sequencing
+
+Species group	Platform   Microbiome	Environment	Notable findings	Source
+
+
+Bass, Bluegill, Catfish	PS	Non-adherent   FW; Wild	Communities differ by species, perhaps
+due to host selection or diet
+Bass, Bluegill, Gar	IMS	Non-adherent   FW; Wild	Gut microbiota differ significantly between
+sampling date (season) and species Bream, Carps, Culter, Perch	IMS	Non-adherent   FW; Wild	Gut microbiota influenced by trophic level
+Gut microbiota related to metabolism
+
+Larsen et al. (2014a) Ray (2016)
+Liu et al. (2016)
+
+Bream, Carps, Catfish, Goldfish, Perch, Snakehead
+
+IMS	Both	FW; Wild; Captive	Microbiota differ based on developmental
+stage and trophic category
+Gut physiological changes elicit large influence on gut microbiota structure
+
+Yan et al. (2016)
+
+Carp	PS	Non-adherent   FW; Wild	Communities differ by fish species, gut segment, location and sampling time
+Carps, Drum, Goldfish	IHS	Non-adherent   FW; Wild; Captive	Captive and wild fish harbour different
+microbiota
+Environmental and host influences apparent in predicted microbial function
+Carps	PS	Each	FW; Captive	Communities differ by species, sample type, trophic group and different from those of water
+Carp	PS	Both	FW; Captive	Gut microbiota is correlated with growth rate
+Carp	PS	Non-adherent  FW; Captive	Many taxa related to digestion of food, production of vitamins and nitrogen cycling
+Carp	PS	Non-adherent  FW; Captive	High individual variation with differences from environment (feed, water, sediment)
+Carp	PS	Each	FW; Captive	Mucosa and digesta harbour unique microbiomes that differ from environmental communities
+Carp	IHS	Adherent	FW; Wild; Captive	Gut microbiota influenced by amount of food in the gut, diet and environment
+Carp	IMS	Each	FW; Wild	Communities share similarities with live food, water and sediment
+
+Ye et al. (2016)
+
+Eichmiller et al.
+(2016)
+
+
+
+Li et al. (2015)
+
+Li et al. (2013) Van Kessel et al.
+(2011)
+
+Wu et al. (2013)
+
+
+
+Wu et al. (2012)
+
+Ni et al. (2014) Kashinskaya et al.
+(2015)
+
+Catfish	PS	Non-adherent  FW; Captive	Diet influences community structure	Di Maiuta et al.
+(2013)
+
+Cichlids	IMS	Both	FW; Wild; Captive	Communities are species- and ecology-
+specific, but only in earlier-diverging species
+Cichlids	PS	Both	FW; Wild; Captive	Captive microbiota differed from wild
+individuals, but much of the core microbiota remained
+Cod	PS	Both	SW; Captive	Assembly deterministic, differs by age and from water, with little influence of diet
+
+Franchini et al.
+(2014)
+
+Baldo et al. (2015)
+
+
+
+Bakke et al. (2015)
+
+Cod	PS	Non-adherent   SW; Wild	High variability between individuals	Star et al. (2013)
+
+Grouper	IMS	Non-adherent SW; Wild; Captive Microbiota and functions distinct between environments with higher diversity in wild fish
+Groupers, Scad	IMS	Non-adherent SW; Wild; Captive Differ between environments, microbiota
+cluster primarily by location Pathogens more common in or near cages
+Grudgeon	IMS	Both	FW; Captive	Microbiota were distinct between
+diseased and healthy fish
+
+Hennersdorf et al.
+(2016b)
+
+Hennersdorf et al.
+(2016a)
+
+
+
+Li et al. (2016)
+
+
+(Continued)
+
+
+(Continued)
+
+
+
+
+
+Species group	Platform   Microbiome	Environment	Notable findings	Source
+
+
+Trout	IHS	Adherent	FW; Captive	Diet and pathogen challenge significantly influences gut microbiota compositionEffect of bacterial challenge on microbiota impacted by diet
+Trout	IHS	Adherent	FW; Captive	Microbiota is influenced by ontogeny and diet
+
+Ingerslev et al.
+(2014a)
+
+
+
+Ingerslev et al.
+(2014b)
+
+Various (13 bony fish, three sharks)
+
+PS	Both	SW; Wild; Captive High individual variation, species-
+specificity; diet, age and environmental influences
+
+Givens et al. (2015)
+
+Zebrafish	IHS	Both	FW; Captive	No influence of sex but microbiota
+different from that of water, tank surfaces and food
+Shifts with age occurred with and without changes in diet and environmental conditions
+Zebrafish	IMS	Adherent	FW; Captive	Triclosan significantly impacted microbiota
+structure altered microbial interactions
+
+Stephens et al.
+(2015)
+
+
+
+
+
+Gaulke et al. (2016)
+
+Zebrafish	PS	Both	FW; Captive	Microbiota shifts with age and diet	Rurangwa et al.
+(2015)
+
+Zebrafish	IMS	Both	FW; Captive	Microbiota influences anxiety-related
+behaviour and stress response Zebrafish	IT	Both	FW; Captive	Probiotic influenced behaviour, brain-
+derived gene expression and microbiota structure
+Zebrafish	IHS	Both	FW; Captive	Microbiota shifts with age and was
+different from water, influenced by diet Some taxa are better evolved to live in the gut than the surrounding environment
+Zebrafish	PS	Variable	FW; Captive	Influenced by environment but with a
+large core microbiota
+Microbiota selected by host physiology, immunity, gut histology and salinity
+
+Davis et al. (2016) Borrelli (2015)
+
+Wong et al. (2015)
+
+
+
+
+
+Roeselers et al.
+(2011)
+
+
+Platforms: PS, pyrosequencing; IMS, Illumina MiSeq; HIS, Illumina HiSeq; I (NS), Illumina instrument not specified; IT, Ion TorrentTM  PGM. Microbiome: Both, adherent and non-adherent were combined for analysis; each, adherent and non-adherent were analysed separately; NS, not specified.
+FW, freshwater; SW, seawater.
+
+
+maintained banding patterns similar to those obtained  from fresh samples, but only when used with a particular commercial DNA extraction kit. The use with another kit decreased performance (replicate similarity, diversity) in some cases, suggesting the impacts of storage conditions may be exacerbated by further downstream processing. Carda-Di,eguez  et al.  (2014)  described  a  significant  effect of  freezing  at  -80degC  on  fish  gut  microbiome  structure, in that dominant bacterial genera were shifted when compared to fresh samples. As a result, it is important to note storage conditions during between-study compar- isons on the fish gut microbiome, particularly when studying larval fish, as the effects of storage on micro- biome structure are enhanced in communities with lower diversity (Hill et al. 2016).
+
+DNA extraction
+DNA extraction protocols significantly impact results of studies on GI microbiomes (Kennedy et al. 2014; Walker et al. 2015). Bead beating influences DNA extraction, particularly as it pertains to Gram-positive bacteria (Walker et al. 2015) although its lysis efficiency  appears to be bacterial species-specific (Sergeant et al. 2012). MacKenzie et al. (2015) reported that only methods that included heat during cell lysis detected Fusobacteria in human digesta samples. This may prove vital for accurate description of the fish gut microbiome, as Fusobacteria make up a large proportion of these communities in freshwater fishes (Di Maiuta et al. 2013; Geraylou et al. 2013b; Larsen et al. 2014a; Li et al. 2015). Commercial
+
+
+
+extraction kits optimized for inhibitor removal perform better with fish digesta and intestinal mucus samples,  likely due to the presence of PCR  inhibitors  in the  fish  GI tract (Larsen et al. 2014b). Despite these influences, baises due to extraction technique are often overshad- owed by inter-individual variation (Wu et al. 2010a; MacKenzie et al. 2015).
+
+PCR conditions
+There are nine regions identified as variable within the bacterial 16S rRNA gene (Yarza et al. 2014), and the V4 region, spanning from positions 751 to 1050 of the 16S rRNA of Escherichia coli, is most commonly sequenced in studies on fishes. However, other regions may be investi- gated, resulting in bias due to primer choice. Mismatches between 'universal' bacterial primers and particular taxo- nomic groups can decrease the detection of those taxa compared to those with fewer mismatches (Walker et al. 2015). Within the 454 pyrosequencing platform, Engel- brektson et al. (2010) detected greater OTU  richness  using V1-2 primers as compared to  those  targeting  the V8 region due to higher sequence variability in the V1-2 region. This variability also resulted in lower detected species evenness, as fewer sequences met the 97% identity threshold used to identify OTUs. Furthermore, sequences
+<400 bp resulted in increased species richness estimates and inconsistent detection of minor community members between replicates. Even different primers designed to amplify the same region can impact bacterial community structure (Hongoh et al. 2003; Walker et al. 2015).
+PCR can result in other potential biases resulting from varying initial template concentration, annealing tempera- ture and number of cycles. At higher DNA  concentra- tions or more PCR cycles, PCR products are more likely  to reanneal, resulting in reduced amplification of these products. These effects are most apparent in detecting abundances of dominant bacterial taxa (Hongoh et al. 2003). As a result, although the use of more PCR cycles may lead to increased diversity, it is likely less representa- tive of the true structure of the community. Similarly, decreasing the annealing temperature may detect greater diversity due to decreased stringency allowing for more nucleotide mismatches (Hongoh et al. 2003).
+
+
+Sequencing platform
+Studies using the same primers with multiple sequencing platforms suggest that there is a bias based on technology used; however, these biases are overshadowed by those demonstrated with the use of different primers. Tremblay et al. (2015) demonstrated that many of the differences between pyrosequencing and Illumina MiSeq results were
+
+seen in poorly classified lineages and noted that these variations may have  been artefacts of  classification. Wu  et al. (2010a) investigated the differences in faecal com- munities using two different pyrosequencing platforms,
+454 GS FLX and 454 Titanium, the primary difference being resulting read lengths of 260 and 450 nucleotides, respectively. Few differences were identified, and those detected may have been due to slight variations in the primers used for the two  instruments.  Fouhy  et  al. (2016) compared sequences obtained from a mock com- munity  using  Ion  TorrentTM  PGM  and  Illumina  MiSeq. The PGM platform detected a higher proportion of com- munity members than MiSeq when using V4-5 primers, but produced a profile most similar  to  that  expected  from the mock community using V1-2 primers. Interest- ingly, the differences between platforms were also depen- dent on primer selection, with V4-5 results being less variable between platforms than other primer combina- tions. Thus, despite the potential for biases resulting from choice of sequencing platform, those associated with pri- mer choice seem to be more influential.
+The methods associated with fish gut microbiome studies can greatly influence their results. Many NGS technologies require PCR for target amplification prior to sequencing, and the biases associated with this  step  should be considered and standardized in fish micro- biome research to allow for accurate comparison studies. However, further technological advancements, such as single molecule real-time sequencing (Pacific BioSciences of California, Inc., Menlo Park, CA, USA)  that  do not rely on PCR amplification may alleviate some of these concerns.
+
+The core gut microbiome of fishes
+One of the main reasons for studying the gut  micro-  biome of fishes is the idea that those communities can be modified to improve host health. A prerequisite to this approach is the characterization  of  the  gut  microbiome of the species of interest. Many factors contribute to the composition of the gut microbiome in vertebrates includ- ing host genetics, environment and  nutrition  among others. Discovering a core microbiome, that is, members  of the microbial community present in all individuals of     a species, has been a primary goal for many researchers interested in understanding gut microbial communities (Turnbaugh et al. 2007). However, defining a core micro- biome has proven to be an elusive task in many species, including humans, as ecological relationships within each community are complex and several parameters need to   be taken into consideration such as composition, phy- logeny, persistence and connectivity (Shade and Handels- man 2012). The first study to investigate the presence of
+
+
+
+a core gut microbiome in teleosts was conducted by Roe- selers et al. (2011). In that study, the authors  compared  the gut microbiome of wild and domesticated zebrafish and, although they found significant differences among those populations, all fish shared 21 OTUs that were con- sidered the core community. In a more recent study, the core gut microbiome of invasive carp species was com- pared between laboratory-reared and wild fish (Eichmiller et al. 2016). The authors only identified five  shared  OTUs, but they comprised up to 40% of the total OTU abundance in the samples, thus suggesting a key role for those members. While some studies point towards the environment as the primary driver for population struc- ture assembly (Eichmiller et al. 2016), others point towards nutrition or trophic level as  the  main  modifier for microbiome species composition (Liu et al. 2016). A meta-analysis on 25 16S rDNA libraries from previously published studies indicated that host trophic level, habitat and possibly host phylogeny are determinant factors for  the core gut microbiome of fishes (Sullam et al. 2012).  Not surprisingly, the study statistically demonstrated how culture-based approaches distort the  actual  composition  of gut microbial communities. An interesting result from the study was the effect that salinity has over the gut microbiome structure. While some authors have sug- gested that host phylogeny was the determinant factor in shaping those microbial communities (Roeselers et al. 2011), Sullam et al. (2012) noted that fish-associated microbiomes were more similar between  freshwater  fishes, regardless of phylogeny, than to those of fishes inhabiting marine environments. Anecdotal evidence obtained by our group agrees with the latter statement, as we have observed a dominance of Aeromonas sp. in the  gut of freshwater fishes, whereas Vibrio sp. tend to domi- nate the gut of marine fish species. It is likely that the phylogenetic  origin of the bacteria is not as relevant as  the role they play in the gut.
+Overall, the fish gut microbiome seems to be domi- nated by the phylum Proteobacteria, followed by Fusobacteria and Firmicutes and in a lesser percentage Bacteroidetes, Actinobacteria and Verrucomicrobia (see Llewellyn et al. (2014) for a summary of main phyla identified in recent studies). Proteobacteria, Fusobacteria and Firmicutes reportedly dominate  the gut microbiome  of most fish species studied to date including marine (Hennersdorf et al. 2016a) and freshwater species (Larsen et al. 2014a; Eichmiller et al. 2016; Liu et al. 2016), and they can represent up to 90% of the communities.  All these phyla are found in both  allochthonous  (transient) and autochthonous (adherent) microbial communities.
+One of the most interesting species found in the gut of fishes, primarily in freshwater species, is Cetobacterium somerae of the phylum Fusobacteria. This species was first
+
+described from children  with  late-set  autism  (Finegold  et al. 2003), and since then has been identified in a vari- ety of freshwater fishes representing as much as 94% of total OTUs (Larsen et al. 2014a; Etyemez and Balcazar 2015; Lyons et al. 2015; Gaulke et al. 2016). This species is known to produce high amounts of vitamin  B12 and  can  inhibit  the  growth  of  potential  pathogens  (Sugita  et al. 1996). Unfortunately, C. somerae is a microaerophi- lic, fastidious bacterium that is hard to culture under lab- oratory conditions but warrants further investigations on  its function in the fish gut.
+The theory of a core gut microbiome has primarily been explored in humans and mammalian models (Tap et al. 2009; Turnbaugh and Gordon 2009), but many authors believe that the same concept applies to bony fish. It is likely that finding the common core microbiome of fishes will be harder than in mammals, due to the large phyloge- netic diversity of teleosts including those of aquaculture importance. To date, it is unclear whether a core micro- biome exists in all fish species or, if it does, at which phylo- genetic level. A core microbiome must be present within the fish species across environments and some studies have pointed out that environment exerts a stronger effect on  the core communities than host genetics (Wilson et al. 2008). However, several studies suggest a core microbiome exists at least at the fish species level (Roeselers et al. 2011; Hennersdorf et al. 2016a). Exploring the hypothesis that the gut microbiome is shaped by evolutionary forces dic- tated by host genetics and gut physiology, as well as by its bacterial symbionts, is definitely worth exploring. If this hypothesis is correct and a core microbiome exists, we will be one step closer to making informed decisions on how to manipulate the bacterial communities in order to promote host health and well-being in fishes.
+
+
+Gut microbiome of economically significant species
+Aquaculture is one of the largest and fastest growing industries worldwide. The increasing trend to develop large-scale production systems has led to intensive marine and freshwater aquaculture practices  that  are vulnerable to severe disease outbreaks. Traditional disease control methods include the use of vaccines and antibiotics to prevent and control diseases. In recent years, public pres- sure against the use of antibiotics in farm animals shifted the focus from 'killing pathogens' to 'promoting benefi- cial microbes'. As a result, many studies on the effects of prebiotics and probiotics on farm-reared fish and their associated microbiomes have been published in the last decade. Recently, the use of NGS has made possible the thorough description and characterization of the gut microbiomes of main aquaculture species and the
+
+
+
+changes those communities exhibit when prebiotics, probiotics or other feed additives  are  incorporated  into the diet. Nevertheless, we are still in the early stages of understanding the complex interactions between the gut microbiome and its host and how the bacterial commu- nities can be most effectively manipulated to improve fish health  and  aquaculture  production   (Montalban-Arques et al. 2015).
+Not surprisingly, as the top aquaculture fish group worldwide in terms of both value and tonnes produced (FAO 2016), carps have been the subject of numerous studies describing the fish GI microbiome. In general, the gut microbiome of carps is dominated by Proteobacteria, Firmicutes and Fusobacteria (Wu et al. 2013; Ni et al. 2014; Eichmiller et al. 2016; Liu et al. 2016; Yan et al. 2016), but their abundances often differ. Some species (Asian carp, common carp, grass carp, Prussian  carp)  have higher abundances of Bacteroidetes (Li et al. 2013, 2015; Ye et al. 2014; Kashinskaya et al. 2015) and Cyanobacteria (Wu et al. 2012; Ye et al. 2016) which is typically considered transient as ingested with food (Givens et al. 2015). The genus Cetobacterium has been recognized as a common member of the microbiome of grass, Asian, bighead, common and Crucian carps (Van Kessel et al. 2011; Ye et al. 2014; Li et al. 2015; Eichmiller et al. 2016; Yan et al. 2016) and may be  considered  a core genus among carps. In grass carp, the genera Ceto- bacterium and Aeromonas are present in large abundances throughout much of development, whereas many others such as Pseudomonas (1-4 days post-hatch, dph), Bacil- lariophyta (5-30 dph) and Bacteroides (juveniles) vary sig- nificantly by age (Yan et al. 2016). Aeromonas was also detected in relatively high abundances in Crucian and  grass carp (Li et al. 2015). Other shared taxa include Clostridium (Wu et al. 2012; Ni et al. 2014; Li et al.  2015), Veillonella,  Rothia,  and  Methylocystaceae  (Wu  et al. 2012, 2013). From these studies, it is clear  that  carps are a diverse group of fishes that harbour complex communities of bacteria; yet, there are many members of the gut microbiome that are shared across species despite studies being conducted in different environments.
+Another major aquaculture species, Atlantic salmon (Salmo salar), has also been the subject of numerous sequencing studies. Proteobacteria and Firmicutes largely dominate the gut microbiome of this species, whether the fish are reared in freshwater or saltwater (Zarkasi et al. 2014, 2016; Gajardo et al. 2016; Schmidt et al. 2016; Dehler et al. 2017). Total OTUs range from the 100s in intestinal mucosa (Gajardo et al. 2016) to over 500 in digesta (Gajardo et al. 2016; Dehler et al. 2017). Dehler   et al. (2017) described the gut microbiome of juvenile salmon in freshwater environments to be dominated by Ruminococcaceae, Mycoplasmataceae, and Pseudomonas
+
+sp., which were core members of the microbiome across captive and wild environments. Other studies have inves- tigated the composition of the gut bacterial communities  in  adult  (post-smolt)  salmon   in   freshwater   (Schmidt et al. 2016) and saltwater  (Zarkasi  et al.  2014;  Gajardo et al. 2016) where the fish seem to harbour different communities. Freshwater salmon harboured a gut micro- biome significantly different from that of the surrounding water, tank biofilms and gill of the fish, and were domi- nated by  Aeromonadales  and  Lactobacillales  (Schmidt  et al. 2016). Dominant genera within the Lactobacillales differed by diet but included Streptococcus and Lactobacil- lus. Both Gajardo et al. (2016) and Zarkasi et al. (2014) identified Leuconostoc and Weissella as dominant mem- bers of marine adult salmon during colder temperatures (approximately 10-12degC), whereas that  community shifted to one dominated by Vibrionaceae (Vibrio, Ali- ivibrio and Photobacterium) when waters were warmer (14-17degC; Zarkasi et al. 2014). Thus, gut communities in Atlantic salmon are dynamic and change according to season and fish growth phase, but shared taxa in different rearing environments (captive pens vs captive recirculat- ing aquaculture systems) suggest host selection may also influence these assemblages.
+Another salmonid of great economic interest, rainbow trout (Oncorhynchus mykiss), shares a number of commu- nity members with marine Atlantic salmon, despite being  a freshwater species. For example, Proteobacteria and Fir- micutes are the dominant phyla in rainbow trout. Inter- estingly, Weissella is identified as a major member of the gut microbiome (Desai et al. 2012; Ingerslev et al. 2014a, b), as were Streptococcus, Leuconostoc (Ingerslev et al. 2014a,b) and Lactobacillus (Ingerslev et al. 2014b). Simi- lar to studies that identified these genera in Atlantic sal- mon, studies reported Streptococcus, Leuconostoc and Lactobacillus in rainbow trout in colder temperatures (10-13degC). Desai et al. (2012) performed their studies at 15degC and identified a more varied community from Atlantic salmon. These similarities suggest salmonids (rainbow trout, Atlantic salmon) share dominant mem-  bers of the Firmicutes as a core microbiome, despite dif- ferences in environment (freshwater vs marine) and diet, providing further support for a host-related selection that may be tied to phylogeny (Sullam et al. 2012).
+The dominant phyla in the gut microbiome of Nile tilapia (Oreochromis niloticus) are generally Proteobacteria and Fusobacteria although the relative abundances  of  these phyla vary between studies (Kohl et al. 2014; Giatsis et al. 2015; Ran et al. 2016; Zhang et al. 2016). However, Standen et al. (2015) examined the allochthonous micro- biome of Nile tilapia and identified Firmicutes as the pri- mary phylum, and Zhang et al.  (2016)  identified  the  most frequent phyla to be Actinobacteria, Bacteroidetes
+
+
+
+and Proteobacteria in tilapia reared in saline water, sug- gesting these proportions are different depending on rear- ing conditions. Between-study comparisons suggest that aspects of study design largely influence lower level taxa as there are few similarities in dominant microbiome members among studies. For example, Ran et al. (2015) identified Plesiomonas as  the  dominant  OTU;  Standen  et al. (2015) identified Enterococcus, Bacillus and Strepto- phyta as common members of the microbiome; and Giat- sis et al. (2015) characterized members of the families Isophaeraceae, Peptostreptococcaceae and Bradyrhizobi- aceace, the genera Arthrobacter and Rhodococcus, and the species Mycobacterium llatzerense as dominating these communities. These differences may be due to the herbiv- orous/omnivorous nature of this species, as these trophic positions generally harbour greater diversity than those of carnivores (Larsen et al. 2014a; Givens et al. 2015; Yan   et al. 2016).
+
+
+Factors influencing fish gut microbiome structure
+Bacteria are everywhere, present across all habitats that other organisms call home, but the establishment of the communities formed by these ubiquitous, unicellular organisms is far from random (Sullam et al. 2012; Bakke et al. 2015; Yan et al. 2016). Studies indicate that the microbiomes of fishes, including that of the gut, are lar- gely influenced by the environment surrounding the host and diet, but overall, the gut microbiome is distinct from that of the external environment (Wu et al. 2012, 2013; Zhang et al. 2016; Dehler et al. 2017), suggesting an influence of genetic factors as well.
+
+Environmental factors
+Environmental factors such as salinity, season and geo- graphic location can heavily influence the composition of free-living and symbiotic bacterial communities (Sullam  et al. 2012; Ye et al. 2014; Zarkasi et al. 2014; Ray 2016; Zhang et al. 2016).
+Variations in salinity result in substantial differences in the composition of taxa in free-living microbial communi- ties (Schmidt et al. 2015). Similarly, studies have reported significant differences in the gut microbiome of freshwater and marine fishes (Roeselers et al. 2011; Zhang et al. 2016). However, understanding the influence of variables such as salinity in the wild is hampered by covariation of other environmental parameters and host taxonomy (Sul- lam et al. 2012; Schmidt et al. 2015). Fishes live in dynamic environments where conditions such as tempera- ture, hydrostatic pressure and salinity are highly variable (Zhang et al. 2016). The intestine, a major osmoregulatory organ in fishes, adapts to osmolality in seawater and is
+
+involved in gene expression for salinity acclimation (Wong et al. 2014; Zhang et al. 2016), but how these processes impact the gut microbiome is still poorly understood. Sul- lam et al. (2012) showed that the majority of fish gut communities clustered with free-living and non-fish- associated microbial assemblages inhabiting similar salin- ities as their fish host (freshwater vs marine). However,   an exception to the rule were marine herbivorous fishes that harboured gut communities more closely resembling those found  in  the  gut  of  mammalian  species.  Zhang  et al. (2016) also identified differences in the GI micro- biome of Nile tilapia acclimated to freshwater and water   at 24 psu (practical salinity units), with those reared in freshwater harbouring greater abundances of Actinobac- teria vs seawater-reared fish which harboured more Fusobacteria. These findings indicate that the bacterial communities of the gut of fishes must be adapted to tolerate the same conditions as the host organism.
+Seasonal parameters also influence the gut microbiome structure in fishes. Ray (2016) identified a shift in the micro- biome of bluegill (Lepomis macrochirus) where Clostridium dominated in the late summer and fall, but co-dominated with Cetobacterium in spring. Differences due to season were also apparent in largemouth bass (Micropterus salmoides) and spotted gar (Lepisosteus oculatus). However, seasonal changes were greater on the skin microbiome, suggesting that the gut is able to harbour a relatively stable community composition despite seasonal influences. Zarkasi et al. (2014) also reported seasonal impacts on the gut micro- biome of Atlantic salmon (S. salar). Specifically, in winter, communities were dominated by Gram-positive fermenta- tive bacteria (i.e. Lactococcus, Weissella, Leuconostoc), whereas in summer, Gram-negative Vibrionaceae became the most abundant members of the community. Interest- ingly, come the next winter, lactic acid bacteria did not repopulate, suggesting that colonization is not only affected by seasonal factors (temperature), but also influenced by aspects of fish physiology and diet (Zarkasi et al. 2014).
+Factors related to geographical location can also alter  the GI microbiome composition  in  fishes.  Microbiomes of gizzard shad (Dorosoma cepedianum) collected from Illinois, Louisiana, Indiana and Missouri clustered  together from each location but did not cluster by sam- pling month (season) (Ye et al. 2014). Interestingly, silver carp (Hypophthalmichthys molitrix) were the opposite, clustering by season but not by location, indicating that factors may influence fish microbiomes in different ways. However, the authors state that these differences may reflect dietary behaviours unique to each fish  species.  This observation was also put forth by  Smith  et al.  (2015) who observed significant differences between geo- graphic locations in the bacterial communities of three- spine stickleback (Gasterosteus aculeatus) but were able to
+
+
+
+relate those differences to prey microbiomes. These stud- ies further emphasize the difficulties in exploring these influences in wild populations.
+
+Dietary factors
+Changes in the environment such as fluctuations in oxy- gen concentration, temperature and salinity can lead to periods of starvation for fishes in the wild. Physiological changes in the host that occur during starvation force its associated gut microbiome to adapt to the new condi- tions, but few studies have characterized the changes in  the fish gut microbiome in response to starvation.  A  recent analysis of the gut microbiome of cultured Asian seabass (Lates calcarifer) under starvation revealed bacte- rial communities shift, resulting in greater abundances of Bacteroidetes and fewer Betaproteobacteria in starved fish (Xia et al. 2014). Bacteroidetes, which are often dominant in the gut, produce digestive enzymes (Crawford et al. 2009), and some genera (i.e. Bacteroides) aid in digestion of polysaccharides (Xia et al. 2014). Therefore, during periods of starvation, members of the Bacteroidetes are capable of harvesting additional energy from food, pro- viding them with a competitive advantage over other  phyla and allowing for their proliferation. Likewise, Nile tilapia (O. niloticus) exhibited changes in the microbial communities of two gut regions: the colon and the cae- cum, under starvation (Kohl et al. 2014). Microbial phy- logenetic diversity increased as a result of fasting in the colon, whereas this diversity decreased in the caecum. Shifts due to reduced nutrition may  negatively  impact  fish health as members of the microbiome compete with opportunistic pathogens.
+Diet is recognized as a primary factor influencing diversity and community structure of fish gut micro- biomes. The majority of studies relating diet and micro- biome composition alter diet treatments in culture or controlled settings (Desai et al. 2012; Ingerslev et al. 2014a,b; Estruch et al. 2015; Schmidt et al. 2016), as con- cern over the use of fishmeal forces aquaculturists to test new, plant protein-based formulations. As microbial communities play an important role in nutrient acquisi- tion and provide a protective barrier against  opportunis- tic pathogens (Llewellyn et al. 2014), gut microbiome manipulation is often tested as a mechanism to increase feed efficiency, growth and disease resistance of fish in aquaculture (Dimitroglou et al. 2011). Research support- ing dietary influences on the fish gut microbiome is vast and has recently been reviewed elsewhere (see Llewellyn et al. 2014; Ringo et al. 2016).
+Although diet seems to clearly impact GI microbiome composition, studies on larvae have identified shifts in bacterial community structure that do not coincide with
+
+dietary shifts, but instead with changes in larval gut phys- iology (Stephens et al. 2015). These studies provide evi- dence for another set of influential parameters on microbiome structure that include host-related genetic factors.
+
+Evolutionary factors
+Bacteria constituting the gut microbiome play a critical role in metabolic processes and are thus key components  of host evolution and fitness (Llewellyn et al. 2014; Syl- vain et al. 2016). In a world dominated by microorgan- isms, metazoans have had to evolve and form tactical associations with their unicellular neighbours in order to inhabit a wide array of niches and habitats (Rawls et al. 2006). The essential partnership between organisms and their microbes suggests the host and its associated micro- biome is best described as a single meta-organism or holobiont (Guerrero et al. 2013).
+Genetic diversity of hosts, both within and among populations, is likely to impact bacterial community structure. Schmidt et al. (2015) hypothesized that fish habitat regions harbour functionally redundant bacterial taxa, and the environmental parameters associated with these habitats, including salinity, alter host physiology in   a way that forms a habitat filter which allows only  a  subset of those functionally redundant  taxa  to  colonize the host. These bacteria then compete with  one another  for the niche. Other  studies  investigating  migratory  fishes provide evidence for this hypothesis. Smith et al. (2015) found that population level differences in the composition of the gut microbiome of wild-caught three-spine sticklebacks (G. aculeatus), despite being influenced by habitat type, may be more related  to  internal sorting and selective pressures exerted  by  the  host genotype than to environmentally linked coloniza- tion processes. Similarly, Llewellyn et al. (2016) deter- mined that the gut microbiome structure of Atlantic  salmon (S. salar) was influenced by life cycle stage and not by geography. Despite migration between freshwater and marine habitats, adult salmon returning to rivers maintained many of the bacterial taxa associated with marine adults, and members of the Mycoplasmataceae were present throughout life stages. Similarly, the pres- ence of a core gut microbiome between laboratory- and cage-reared Atlantic salmon (S. salar) suggests selection  of specific microorganisms resulting from host physiol- ogy (Dehler et al. 2017). Additional evidence for genet- ics-based selection of  the  microbiome  is  demonstrated  in culture environments, as gut bacterial communities of different fish species fed similar diets exhibit species-spe- cificity, despite being reared in  the  same  environment  (Li et al. 2014, 2015). Genetic differences between fish
+
+
+
+species and individuals can lead  to  alterations  in  immune function, metabolism and behaviour (Li et al. 2015), all of which likely influence the structure of the  fish gut microbiome. These studies indicate that the composition, diversity and structure of fish microbiomes are not simply a reflection of the environment and ecol- ogy, but are a result of pressure exerted by evolutionary relationships.
+Traditionally, studies concerning the fish gut micro- biome focus on cultured fish species, particularly related  to the promotion of growth characteristics, non-patho- genic bacteria and disease control (Uchii et al. 2006). Although a symbiotic relationship exists involving the  host metabolism and bacterial communities of the gut, much is still unknown about host-microbiome interac- tions at a functional level, especially for wild fish popula- tions. A majority of research concerning host-  microbiome interactions and assembly processes derive from laboratory-based studies, often using model species that have been domesticated in laboratory settings for generations (Roeselers et al. 2011). However, the interac- tions of the gut microbiome with the host organism are complex, and these domestic studies may not adequately represent these relationships in the wild; therefore, better understanding of the natural bacterial communities of healthy individuals and how they interact with the host  and other environmental factors is of critical importance (Sullam et al. 2012; Eichmiller et al. 2016).
+
+
+Conclusion and future directions
+Gut microbiomes of fishes are complex, dynamic com- munities influenced by a wide variety of environmental, physiological and genetic factors. Although fish species generally harbour unique microbiomes, the exact rela- tionship of these differences to phylogeny is not yet understood. Furthermore, a large number of shared taxa persist across fish species, but it is not known whether it   is physical characteristics of the taxon itself or biological functions performed by specific members that lead to this preservation. The key to unravelling the mysteries of the microbiome lies in deciphering host-microbe interac- tions. It is important to characterize the bacterial com- munities present in fish and understand what factors influence that composition, but until we understand how those microbes influence digestion, immune function, behaviour and overall fish health, we will be unable to   use them to their full potential in aquaculture. It is important for future studies to delve deeper into func- tional aspects of the microbiome in order to advance our knowledge on fish health and microbial manipulation for disease prevention in culture systems.
+
+Conflict of Interest
+The authors have no conflict of interest to declare.
+
+
+References
+
+Amann, R.I., Ludwig, W. and Schleifer, K.H. (1995) Phylogenetic identification and in situ detection of individual microbial cells without cultivation. Microbiol Rev 59, 143-169.
+Bakke, I., Coward, E., Andersen, T. and Vastein, O. (2015) Selection in the host structures the microbiota associated with developing cod larvae (Gadus morhua). Environ Microbiol 17, 3914-3924.
+Baldo, L., Riera, J.L., Tooming-Klunderud, A., Alb'a, M.M. and Salzburger, W. (2015) Gut microbiota dynamics during dietary shift in Eastern African cichlid fishes. PLoS ONE 10, e0127462.
+Bel'Kova, N.L., Denikina, N.N. and Dzyuba, E.V. (2015) Study of the microbiome of the intestine of the Comephorus dybowski Korotneff, 1904. Biol Bull 42, 463-469.
+Bolnick, D.I., Snowberg, L.K., Caporaso, J.G., Lauber, C., Knight, R. and Stutz, W.E. (2014a) Major histocompatibility complex class IIb polymorphism influences gut microbiota composition and diversity. Mol Ecol 23, 4831-4845.
+Bolnick, D.I., Snowberg, L.K., Hirsch, P.E., Lauber, C.L., Knight, R., Caporaso, J.G. and SvanbEURack, R. (2014b) Individuals' diet diversity  influences  gut  microbial diversity in two freshwater fish (threespine stickleback and Eurasian perch). Ecol Lett 17, 979-987.
+Borrelli, L. (2015) The microbiota-gut brain axis. A study in zebrafish (Danio rerio). Dissertation, Universit'a degli Studi di Napoli Federico II, Italy.
+Carda-Di,eguez, M., Mira, A. and Fouz, B. (2014) Pyrosequencing survey of intestinal microbiome diversity in cultured sea bass (Dicentrarchus labrax) fed functional diets. FEMS Microbiol Ecol 87, 451-459.
+Carlson, J.M., Hyde, E.R., Petrosino, J.F., Manage, A.B.W. and Primm, T.P. (2015) The host effects of Gambusia affinis with an antibiotic-disrupted microbiome. CBP: C. Toxicol Pharmacol 178, 163-168.
+Chiu, C. and Miller, S. (2016) Next-generation sequencing. In Molecular Microbiology: Diagnostic Principles and Practice, 3rd edn ed. Persing, D.H., Tenover, F.C., Hayden, R.T., Ieven, G., Miller, M.B. and Nolte, F.S. pp. 68-79.
+Washington DC: ASM Press.
+Clements, K.D., Pasch, I.B.Y., Moran, D. and Turner, S.J. (2007) Clostridia dominate 16S rRNA gene libraries prepared from the hindgut of temperate marine herbivorous fishes. Mar Biol 150, 1431-1440.
+Crawford, P.A., Crowley, J.R., Sambandam, N., Muegge, B.D., Costello, E.K., Hamady, M., Knight, R. and Gordon, J.I. (2009) Regulation of myocardial ketone body metabolism
+
+
+
+by the gut microbiota during nutrient deprivation. Proc Natl Acad Sci U S A 106, 11276-11281.
+Davis, D.J., Bryda, E.C., Gillespie, C.H. and Ericsson, A.C. (2016) Microbial modulation of behavior and stress responses in zebrafish larvae. Behav Brain Res 311, 219-227.
+Dehler, C.E., Secombes, C.J. and Martin, S.A.M. (2017) Environmental and physiological factors shape the gut microbiome of Atlantic salmon parr (Salmo salar L.). Aquaculture 467, 149-157.
+Del'Duca, A., Cesar, D.E., Diniz, C.G. and Abreu, P.C. (2013) Evaluation of the presence and efficiency of potential probiotic bacteria in the gut of tilapia (Oreochromis niloticus) using the fluorescent in situ hybridization technique. Aquaculture 388-391, 115-121.
+Desai, A.R., Links, M.G., Collins, S.A., Mansfield, G.S., Drew, M.D., Van Kessel, A.G. and Hill, J.E. (2012) Effects of plant-based diets on the distal gut microbiome of rainbow trout (Oncorhynchus mykiss). Aquaculture 350-353, 134-142.
+Di Maiuta, N.D., Schwarzentruber, P., Schenker, M. and Schoelkopf, J. (2013) Microbial population dynamics in the faeces of wood-eating loricariid catfishes. Lett Appl Microbiol 56, 401-407.
+Dimitroglou, A., Merrifield, D.L., Carnevali, O., Picchietti, S., Avella, M., Daniels, C., GuEURroy, D. and Davies, S.J. (2011) Microbial manipulations to improve fish health and production - a Mediterranean perspective. Fish Shellfish Immunol 30, 1-16.
+Eichmiller, J.J., Hamilton, M.J., Staley, C., Sadowsky, M.J. and Sorensen, P.W. (2016) Environment shapes the fecal microbiome of invasive carp species. Microbiome 4, 44.
+Engelbrektson, A., Kunin, V., Wrighton, K.C., Zvenigorodsky, N., Chen, F., Ochman, H. and Hugenholtz, P. (2010) Experimental factors affecting PCR-based estimates of microbial species richness and evenness. ISME J 4, 642-647.
+Estruch, G., Collado, M., Pen~aranda, D., Tom,as Vidal, A., Jover Cerd,a, M., P,erez Mart,inez, G. and Martinez-Llorens,
+S. (2015) Impact of fishmeal replacement in diets for gilthead sea bream (Sparus aurata) on the gastrointestinal microbiome determined by pyrosequencing the 16S rRNA gene. PLoS ONE 10, e0136389.
+Etyemez, M. and Balc,azar, J.L. (2015) Bacterial community structure in the intestinal ecosystem of rainbow trout (Oncorhynchus mykiss) as revealed by pyrosequencing- based analysis of 16S rRNA genes. Res Vet Sci 100, 8-11.
+Fan, L., Chen, J., Meng, S., Song, C., Qiu, L., Hu, G. and Xu,
+P. (2017) Characterization of microbial communities in intensive GIFT tilapia (Oreochromis niloticus) pond systems during the peak period of breeding. Aquaculture Res. 48, 459-472.
+FAO (Food and Agricultural Organization) (2016) World aquaculture production by species groups.  In  FAO Yearbook, Fishery and Aquaculture Statistics 2014. pp. 52-53. Rome: FAO of the United Nations.
+
+Finegold, S.M., Vaisanen, M.-L., Molitoris, D.R., Tomzynski, T.J., Song, Y.L., Liu, C., Collins, M.D. and Lawson, P.A. (2003) Cetobacterium somerae sp. nov. from human feces and emended description of the genus Cetobacterium. Syst Appl Microbiol 26, 177-181.
+Fjellheim, A.J., Playfoot, K.J., Skjermo, J. and Vadstein, O. (2012) Inter-individual variation in the dominant intestinal microbiome of reared Atlantic cod (Gadus morhua L.) larvae. Aquaculture Res 43, 1499-1508.
+Fouhy, F., Clooney, A.G., Stanton, C., Claesson, M.J. and Cotter, P.D. (2016) 16S rRNA gene sequencing of mock microbial populations - impact of DNA extraction method, primer choice and sequencing platform. BMC Microbiol 16, 123.
+Franchini, P., Fruciano, C., Frickey, T., Jones, J.C. and Meyer,
+(2014) The gut microbial community of Midas cichlid fish in repeatedly evolved limnetic-benthic species pairs. PLoS ONE 9, e95027.
+Gajardo, K., Rodiles, A., Kortner, T.M., Krogdahl, A., Bakke, A.M., Merrifield, D.L. and Sorum, H. (2016) A high- resolution map of the gut microbiota in Atlantic salmon (Salmo salar): a basis for comparative gut microbial research. Sci Rep 6, 30893.
+Gaulke, C.A., Barton, C.L., Proffitt, S., Tanguay, R.T. and Sharpton, T.J. (2016) Triclosan exposure is associated with rapid restructuring of the microbiome in adult  zebrafish. PLoS ONE 11, e0154632.
+Geraylou, Z., Souffreau, C., Rurangwa, E., De Meester, L., Courtin, M., Delcour, J.A., Buyse, J. and Ollevier, F. (2013a) Effects of dietary arabinoxylan-oligosaccharides (AXOS) and endogenous probiotics on the growth performance, non-specific immunity and  gut  microbiota of juvenile Siberian sturgeon (Acipenser baerii). Fish Shellfish Immunol 35, 766-775.
+Geraylou, Z., Souffreau, C., Rurangwa, E., Maes, G.E., Spanier, K.I., Courtin, C.M., Delcour, J.A., Buyse, J. et al. (2013b) Prebiotic effects of arabinoxylan oligosaccharides  on juvenile Siberian sturgeon (Acipenser baerii) with emphasis on the modulation of the gut microbiome using 454 pyrosequencing. FEMS Microbiol Ecol 86, 357-371.
+Giatsis, C., Sipkema, D., Smidt, H., Verreth, J. and Verdegem,
+M. (2014) The colonization dynamics of the gut microbiota in tilapia larvae. PLoS ONE 9, e103641.
+Giatsis, C., Sipkema, D., Smidt, H., Heilig, H., Benvenuti, G., Verreth, J. and Verdegem, M. (2015) The impact of rearing environment on the development of gut microbiome in tilapia larvae. Sci Rep 5, 18206.
+Givens, C.E., Ransom, B., Bano, N. and Hollibaugh,  J.T. (2015) Comparison of the gut microbiomes of  12  bony fish and 3 shark species. Mar Ecol Prog Ser 518, 209-223.
+Green, T.J., Smullen, R. and Barnes, A.C. (2013) Dietary soybean protein concentrate-induced intestinal disorder in marine farmed Atlantic salmon, Salmo salar is associated with alterations in gut microbiota. Vet Microbiol 166, 286-292.
+
+
+
+Guerrero, R., Margulis, L. and Berlanga, M. (2013) Symbiogenesis: the holobiont as a unit of evolution. Int Microbiol 16, 133-143.
+Hennersdorf, P., Kleinertz, S., Theisen, S., Abdul-Aziz, M., Mrotzek, G., Palm, H.W. and Saluz, H.P. (2016a) Microbial diversity and parasitic load in tropical fish of different environmental conditions. PLoS ONE 11, e0151594.
+Hennersdorf, P., Mrotzek, G., Abdul-Aziz, M.A. and Saluz,
+H.P. (2016b) Metagenomic analysis between free-living and cultured Epinephelus fuscoguttatus under different environmental conditions in Indonesian waters. Mar Poll Bull 110, 726-734.
+Hill, C.J., Brown, J.R.M., Lynch, D.B., Jeffery, I.B., Ryan, C.A., Ross, R.P., Stanton, C. and O'Toole, P.W. (2016) Effect of room temperature transport vials on DNA quality and phylogenetic composition of faecal microbiota of elderly adults and infants. Microbiome 4, 19.
+Hongoh, Y., Yuzawa, H., Ohkuma, M. and Kudo, T. (2003) Evaluation of primers and PCR conditions for the analysis of 16S rRNA genes from a natural environment. FEMS Microbiol Lett 221, 299-304.
+Ingerslev, H.C., Strube, M., Jorgensen, L.v., Dalsgaard,  I., Boye, M. and Madsen, L. (2014a) Diet type dictates the   gut microbiota and the immune response against Yersinia ruckeri in rainbow trout (Oncorhynchus mykiss). Fish Shellfish Immunol 40, 624-633.
+Ingerslev, H.C., Jorgensen, L.v., Strube, M., Larsen, N., Dalsgaard, I., Boye, M. and Madsen, L. (2014b) The development of the gut microbiota in rainbow trout (Oncorhynchus mykiss) is affected by first feeding and diet type. Aquaculture 424-425, 24-34.
+Kashinskaya, E.N., Belkova, N.L., Izvekova, G.I., Simonov, E.P., Andree, K.B., Glupov, V.V., Baturina, O.A., Kabilov,
+M.R. et al. (2015) A comparative study on microbiota from the intestine of Prussian carp (Carassius gibelio) and their aquatic environmental compartments, using different molecular methods. J Appl Microbiol 119, 948-961.
+Kennedy, N.A., Walker, A.W., Berry, S.H., Duncon, S.H., Farquarson, F.M., Louis, P., Thomson, J.M., UK IBD Genetics Consortium, Satsangi, J., Flint, H.J., Parkhill, J., Lees, C.W. and Hold, G.L. (2014). The impact of different DNA extraction kits and laboratories upon the  assessment  of human gut microbiota composition by 16S rRNA gene sequencing. PLoS ONE 9, e88982.
+Kim, D.H., Brunt, J. and Austin, B. (2007) Microbial diversity  of intestinal contents and mucus in rainbow trout (Oncorhynchus mykiss). J Appl Microbiol 102, 1654-1664.
+Kohl, K.D., Amaya, J., Passement, C.A., Dearing, M.D. and McCue, M.D. (2014) Unique and shared responses of the  gut microbiota to prolonged fasting: a comparative study across five classes of vertebrate hosts. FEMS Microbiol Ecol 90, 883-894.
+Kormas, K.A., Meziti, A., Mente, E. and Frentzos, A. (2014) Dietary differences are reflected on the gut prokaryotic
+
+community structure of wild and commercially reared sea bream (Sparus aurata). MicrobiologyOpen 3, 718-728.
+La Rosa, P.S., Brooks, J.P., Deych, E., Boone, E.L., Edwards, D.J., Wang, Q., Sodergren, E., Weinstock, G. et al. (2012) Hypothesis testing and power calculations for taxonomic- based human microbiota data. PLoS ONE 7, e52078.
+Larsen, A.M., Mohammed, H.H. and Arias, C.R. (2014a) Characterization of the gut microbiota of three commercially valuable warmwater fish species. J Appl Microbiol 116, 1396-1404.
+Larsen, A.M., Mohammed, H.H. and Arias, C.R. (2014b) Comparison of DNA extraction protocols for the analysis of gut microbiota in fishes. FEMS Microbiol Lett 362, fnu031.
+Li, X., Yan, Q., Xie, S., Hu, W., Yu, Y. and Hu, Z. (2013) Gut
+microbiota contributes to the growth of fast-growing transgenic common carp (Cyprinus carpio L.). PLoS ONE 8, e64577.
+Li, X.M., Zhu, Y.J., Yan, Q.Y., Ringo, E. and Yang, D.G. (2014) Do the intestinal microbiotas differ between paddlefish (Polyodon spathala) and bighead carp (Aristichthys nobilis) reared in the same pond? J Appl Microbiol 117, 1245-1252.
+Li, T., Long, M., Gatesoupe, F.-J., Zhang, Q., Li, A. and Gong,
+X. (2015) Comparative analysis of the intestinal bacterial communities in different species of carp by pyrosequencing. Microb Ecol 69, 25-36.
+Li, T., Long, M., Ji, C., Shen, Z., Gatesoupe, F.-J., Zhang, X., Zhang, Q., Zhang, L. et al. (2016) Alterations of the gut microbiota of largemouth bronze grudgeon (Coreius guichenoti) suffering from furunculosis. Sci Rep 6, 30606.
+Liu, H., Guo, X., Gooneratne, R., Lai, R., Zeng, C., Zhan, F. and Wang, W. (2016) The gut  microbiota  and degradation enzyme activity of wild freshwater fishes influenced by their trophic levels. Sci Rep 6, 24340.
+Llewellyn, M.S., Boutin, S., Hoseinifar, S.H. and Derome, N. (2014) Teleost microbiotas: the state of the art in their characterization, manipulation, and importance in aquaculture and fisheries. Front Microbiol 5, 207.
+Llewellyn, M.S., McGinnity, P., Dionne, M., Letourneau, J., Thonier, F., Carvalho, G.R., Creer, S. and Derome, N. (2016) The biogeography of the atlantic salmon (Salmo salar) gut microbiota. ISME J 10, 1280-1284.
+Lyons, P.O., Turnbull, J.F., Dawson, K.A. and Crumlish, M. (2015) Exploring the microbial diversity of the distal intestinal lumen and mucosa of farmed rainbow trout Oncorhynchus mykiss (Walbaum) using next generation sequencing (NGS). Aquaculture Res 48, 77-91.
+Lyons, P.P., Turnbull, J.F., Dawson, K.A. and Crumlish, M. (2016) Effects of low-level dietary microalgae supplementation on the distal intestinal microbiota of farmed rainbow trout Oncorhynchus mykiss (Walbaum). Aquaculture Res. .
+MacKenzie, B.W., Waite, D.W. and Taylor, M.W. (2015) Evaluating variation in human gut microbiota profiles due
+
+
+
+to DNA extraction method and inter-subject differences.
+Front Microbiol 6, 130.
+Mardis, E.R. (2013) Next-generation sequencing platforms.
+Annu Rev Anal Chem 6, 287-303.
+Metzker, M.L. (2010) Sequencing technologies - the next generation. Nature Rev Genet 11, 31-46.
+Miyake, S., Ngugi, D.K. and Stingl, U. (2015) Diet strongly influences the gut microbiota of surgeonfishes. Mol Ecol 24, 656-672.
+Montalban-Arques, A., De Schryver, P., Bossier, P., Gorkiewicz, G., Mulero, V., Gatlin, D.M. and Galindo- Villegas, J. (2015) Selective manipulation of the gut microbiota improves immune status in vertebrates. Front Immunol 6, 512.
+Mueller, K., Ash, C., Pennisi, E. and Smith, O. (2012) The gut microbiota. Science 336, 1245.
+Narrowe, A.B., Albuthi-Lantz, M., Smith, E.P., Bower, K.J., Roane, T.M., Vajda, A.M. and Miller, C.S. (2015) Perturbation and restorationof thefathead minnowgutmicrobiotaafter low- level triclosanexposure. Microbiome 3, 6.
+Nelson, J.S. (2006) Fishes of the World, 4th edn. Hoboken, NJ: John Wiley & Sons, Inc.
+Le Nguyen, D.D., Ngoc, H.H., Dijoux, D., Loiseau, G. and Montet, D. (2008) Determination of fish origin by using 16S rDNA fingerprinting of bacterial communities by PCR-DGGE: an application on Pangasius fish from Viet Nam. Food Control 19, 454-460.
+Ni, J., Yan, Q., Yu, Y. and Zhang, T. (2014) Fish gut microecosystem: a model for detecting spatial pattern of microorganisms. Chin J Oceanol Limnol 32, 54-57.
+Ran, C., Huang, L., Liu, Z., Xu, L., Yang, Y., Tacon, P., Auclair, E. and Zhou, Z. (2015) A comparison of the beneficial effects of live and heat-inactivated baker's yeast on Nile tilapia: suggestions on the  role  and  function  of the secretory metabolites released from the yeast. PLoS ONE 10, e0145448.
+Ran, C., Hu, J., Liu, W., Liu, Z., He, S., Dan, B.C.T., Diem,
+N.N., Ooi, E.L. et al. (2016) Thymol and carvacrol affect hybrid tilapia through the combination of direct stimulation and an intestinal microbiota-mediated effect: insights from a germ-free zebrafish model. J Nutr 146, 1132-1140.
+Rawls, J.F., Mahowald, M.A., Ley, R.E. and Gordan, J.I. (2006) Reciprocal gut microbiota transplants from zebrafish and mice to germ-free recipients reveal host habitat selection. Cell 127, 423-433.
+Ray, C.L. (2016) Characterization of the gut and skin microbiotas of wild-caught fishes from Lake Guntersville, Alabama. Master Thesis, Auburn University, Auburn, AL, USA.
+Ringo, E., Zhou, Z., Vecino, J.L.G., Wadsworth, S., Romero, J., Kroghdal, 0A., Olsen, R.E., Dimitoglou, A. et al. (2016)
+Effect of dietary components on the gut microbiota of aquatic animals: the never-ending story? Aquaculture Nutr 22, 219-282.
+
+Roeselers, G., Mittge, E.K., Stephens, W.Z., Parichy, D.M., Cavanaugh, C.M., Guillemin, K. and Rawls, J.F. (2011) Evidence for a core gut microbiota in the zebrafish. ISME    J 5, 1595-1608.
+Rosello-Mora, R. (2005) Updating prokaryotic taxonomy.
+J Bacteriol 187, 6225-6257.
+Rurangwa, E., Sipkema, D., Kals, J., ter Veld, M., Forlenza, M., Bacanu, G.M., Smidt, H. and  Palstra, A.P.  (2015) Impact   of a novel protein meal on the gastrointestinal  microbiota and the host transcriptome of larval zebrafish Danio rerio. Front Physiol 6, 133.
+Schmidt, V.T., Smith, K.F., Melvin, D.W. and Amaral-Zettler,
+L.A. (2015) Community assembly of euryhaline fish microbiota during salinity acclimation. Mol Ecol 24, 2537- 2550.
+Schmidt, V., Amaral-Zettler, L., Davidson, J., Summerfelt, S. and Good, C. (2016) Influence of fishmeal-free diets on microbial communities in Atlantic Salmon (Salmo salar) recirculation aquaculture systems. Appl Environ Microbiol 82, 4470-4481.
+Sergeant, M.J., Constantinidou, C., Cogan, T., Penn, C.W. and Pallen, M.J. (2012) High-throughput sequencing of 16S rRNA gene amplicons: effects of extraction procedure, primer length, and annealing temperature. PLoS ONE 7, e38094.
+Shade, A. and Handelsman, J. (2012) Beyond the Venn diagram: the hunt for the core microbiota. Environ Microbiol 14, 4-12.
+Smith, C.C.R., Snowberg, L.K., Caporaso, J.G., Knight, R. and Bolnick, D.I. (2015) Dietary input of microbes and host genetic variation shape among-population differences in stickleback gut microbiota. ISME J 9, 2515-2526.
+Standen, B.T., Rodiles, A., Peggs, D.L., Davies, S.J., Santos,
+G.A. and Merrifield, D.L. (2015) Modulation of  the intestinal microbiota and morphology  of  tilapia, Oreochromis niloticus, following the application of a multi- species probiotic. Appl Microbiol Biotechnol 99, 8403-8417.
+Star, B., Haverkamp, T., Jentoft, S. and Jakobsen, K. (2013) Next generation sequencing shows high variation of the intestinal microbial species composition in Atlantic cod caught at a single location. BMC Microbiol 13, 248.
+Stephens, W.Z., Burns, A., Stagaman, K., Wong, S., Rawls, J., Guillemin, K. and Bohannan, B. (2015) The composition of the zebrafish intestinal microbial community varies across development. ISME J 10, 644-654.
+Sugita, H., Shibuya, K., Shimooka, H. and Deguchi, Y. (1996) Antibacterial abilities of intestinal bacteria in freshwater cultured fish. Aquaculture 145, 195-203.
+Sullam, K.E., Essinger, S.D., Lozupone, C.A., O'Connor, M.P., Rosen, G.L., Knight, R., Kilham, S.S. and Russell, J.A. (2012) Environmental  and  ecological  factors  that  shape the gut bacterial communities of fish: a meta-analysis. Mol Ecol 21, 3363-3378.
+Sylvain, F.E,., Cheaib, B., Llewellyn, M., Correia, T.G.,
+Fagundes, D.B., Val, A.L. and Derome, N. (2016) pH drop
+
+
+
+impacts differentially skin and gut microbiota of the Amazonian fish tambaqui (Colossoma macropomum). Sci Rep 6, 32032.
+Tap, J., Mondot, S., Levenez, F., Pelletier, E., Caron, C., Furet, J.-P., Ugarte, E., Mun~oz-Tamayo, R. et  al. (2009) Towards the human intestinal microbiota phylogenetic core.
+Environ Microbiol 11, 2574-2584.
+Tremblay, J., Singh, K., Fern, A., Kirton, E.S., He, S., Woyke, T., Lee, J., Chen, F. et al. (2015) Primer and platform effects on 16S rRNA tag sequencing. Front Microbiol 6, 771.
+Turnbaugh, P.J. and Gordon, J.I. (2009) The core microbiota, energy balance and obesity. J Physiol 587, 4153-4158.
+Turnbaugh, P.J., Ley, R.E., Hamady, M., Fraser-Liggett, C.M., Knight, R. and Gordon, J.I. (2007) The human microbiota project. Nature 449, 804-810.
+Uchii, K., Matsui, K., Yonekura, R., Tani, K., Kenzaka, T., Nasu, M. and Kawabata, Z. (2006) Genetic and physiological characterization of the intestinal bacterial microbiota of bluegill (Lepomis macrochirus) with three different feeding habits. Microb Ecol 51, 277-284.
+Van Kessel, M.A.H.J., Dutilh, B.E., Neveling, K., Kwint, M.P.,
+Veltman, J.A., Flik, G., Jetten, M.S.M., Klaren, P.H.M.
+et al. (2011) Pyrosequencing of 16S rRNA gene amplicons to study the  microbiota  in  the  gastrointestinal  tract  of carp (Cyprinus carpio L.). AMB Express 1, 41.
+Walker, A.W., Martin, J.C., Scott, P., Parkhill, J., Flint, H.J. and Scott, K.P. (2015) 16S rRNA gene-based profiling of the human infant gut microbiota is strongly influenced by sample processing and PCR primer choice. Microbiome 3, 26.
+Wang, J., Tao, Q., Wang, Z., Mai, K., Xu, W., Zhang, Y. and  Ai, Q. (2016) Effects of fish meal replacement by soybean meal with supplementation of functional compound additives on intestinal morphology and microbiota of Japanese seabass (Lateolabrax japonicus). Aquaculture Res. doi:10.1
+Wetterstrand, K.A. (2016) DNA sequencing  costs:  data  from the NHGRI genome sequencing program (GSP). Available at: . Accessed 27 Sept 2016
+Wilson, B., Danilowicz, B.S. and Meijer, W.G. (2008) The diversity of bacterial communities associated with Atlantic cod Gadus morhua. Microb Ecol 55, 425-434.
+Wong, S., Waldrop, T., Summerfelt, S., Davidson, J., Barrows, F., Kenney, B.B., Welch, T., Wiens, G.D. et al. (2013) Aquacultured rainbow trout (Onchorhynchus mykiss) possess a large core intestinal  microbiota  that is resistant  to variation in diet and rearing density. Appl Environ Microbiol 79, 4974-4984.
+Wong, M.K., Ozaki, H., Suzuki, Y., Iwasaki, W. and Takei, Y. (2014) Discovery of osmotic sensitive transcription factors in fish intestine via a transcriptomic approach. BMC Genom 15, 1134.
+Wong, S., Stephens, W.Z., Burns, A.R., Stagaman, K., David, L.A., Bohannan, B.J.M., Guillemin, K. and Rawls, J.F. (2015)
+
+Ontogenetic differences in dietary fat influence microbiota assembly in the zebrafish gut. mBio 6, e00687-15.
+Wu, G.D., Lewis, J.D., Hoffman, C., Chen, Y.-Y., Knight, R., Bittinger, K., Hwang, J., Chen, J. et al. (2010a) Sampling and pyrosequencing methods for characterizing bacterial communities in the human gut using 16S sequence tags. BMC Microbiol 10, 206.
+Wu, S.-G., Gao, T.H., Zheng, Y.Z., Wang, W.W., Cheng, Y.Y.
+and Wang, G.T. (2010b) Microbial diversity of intestinal contents and mucus in yellow catfish (Pelteobagrus fulvidraco). Aquaculture 303, 1-7.
+Wu, S., Wang, G., Angert, E.R., Wang, W., Li, W. and Zou, H. (2012) Composition, diversity, and origin of the bacterial community of grass carp intestine. PLoS ONE 7, e30440.
+Wu, S.-G., Tian, J.-Y., Gatesoupe,  F.-J.,  Li,  W.-X., Zou, H.,
+Yang, B.-J. and Wang, G.-T. (2013) Intestinal microbiota of gibel carp (Carassius auratus gibelio) and its origin as revealed by 454 pyrosequencing. World J Microbiol Biotechnol 29, 1585-1595.
+Xia, J.H., Lin, G., Fu, G.H., Wan, Z.Y., Lee, M., Wang, L., Liu,
+X.J. and Yue, G.H. (2014) The intestinal microbiota of fish under starvation. BMC Genom 15, 266.
+Yan, Q., Li, J., Yu, Y., Wang, J., He, Z., Van Nostrand, J.D., Kempher, M.L., Wu, L. et al. (2016) Environmental filtering decreases with fish development for the assembly of gut microbiota. Environ Microbiol 18, 4739-4754.
+Yarza, P., Yilmaz, P., Pruesse, E., GloEURckner, F.O., Ludwig, W., Schleifer, K.-H., Whitman, W.B., Euz,eby, J., Amann, R. et al. (2014) Uniting the classification of cultured and uncultured bacteria and archaea using 16S rRNA gene sequences. Nature Rev Microbiol 12, 635-645.
+Ye, L., Amberg, J., Chapman, D., Gaikowski, M. and Liu, W.T. (2016) Fish gut microbiota  analysis  differentiates physiology and behavior of invasive Asian carp and indigenous American fish. ISME J 8, 541-551.
+Zarkasi, K.Z., Abell, G.C.J., Taylor, R.S., Neuman, C., Hatje, E., Tamplin, M.L., Katouli, M. and Bowman, J.P. (2014) Pyrosequencing-based characterization of gastrointestinal bacteria of Atlantic salmon (Salmo salar L.) within a commercial mariculture system. J Appl Microbiol 117, 18-27.
+Zarkasi, K.Z., Taylor, R.S., Abell, G.C.J., Tamplin, M.L., Glencross, B.D. and Bowman, J.P. (2016) Atlantic salmon (Salmo salar L.) gastrointestinal microbial community dynamics in relation to digesta properties and diet. Microb Ecol 71, 589-603.
+Zhang, M., Sun, Y., Liu, Y., Qiao, F., Chen, L., Liu, W., Du,
+Z. and Li, E. (2016) Response of gut microbiota to salinity change in two euryhaline aquatic animals with reverse salinity preference. Aquaculture 454, 72-80.
+Zhou, Z.K., Shi, P., He, S., Liu, Y., Huang, G.H., Yao, B. and Ringo, E. (2009) Identification of adherent microbiota in the stomach and intestine of emperor  red  snapper (Lutjanus sebae Cuvier) using 16S rRNA-DGGE. Aquaculture Res 40, 1213-1218.

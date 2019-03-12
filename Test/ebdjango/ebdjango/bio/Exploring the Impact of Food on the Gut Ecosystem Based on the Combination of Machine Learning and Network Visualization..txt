@@ -1,0 +1,248 @@
+
+
+Article
+Exploring the Impact of Food on the Gut Ecosystem Based on the Combination of Machine Learning and Network Visualization
+Hideaki Shima 1, Shizuka Masuda 1, Yasuhiro Date 2,3  , Amiu Shino 2, Yuuri Tsuboi 2,
+Mizuho Kajikawa 1, Yoshihiro Inoue 4, Taisei Kanamoto 1 and Jun Kikuchi 2,3,5,* 
+The Laboratory of Microbiology, Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan; (H.S.); (S.M.); (M.K.);(T.K.)
+RIKEN Center for Sustainable Resource Science, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama,
+Kanagawa 230-0045, Japan; (Y.D.); (A.S.); (Y.T.)
+Graduate School of Medical Life Science, Yokohama City University, 1-7-29 Suehiro-cho, Tsurumi-ku,
+Yokohama, Kanagawa 230-0045, Japan
+Laboratory of Pharmaceutical Sciences and Education, Showa Pharmaceutical University, Machida, Tokyo 194-8543, Japan; 
+Graduate School of Bioagricultural Sciences, Nagoya University, 1 Furo-cho, Chikusa-ku, Nagoya,
+Aichi 464-0810, Japan
+*	Correspondence: jun.kikuchi@riken.jp; Tel.: +81-45-503-9439
+Received: 30 September 2017; Accepted: 15 November 2017; Published: 1 December 2017
+
+Abstract: Prebiotics and probiotics strongly impact the gut ecosystem by changing the composition and/or metabolism of the microbiota to improve the health of the host. However, the composition of the microbiota constantly changes due to the intake of daily diet. This shift in the microbiota composition has a considerable impact; however, non-pre/probiotic foods that have a low impact are ignored because of the lack of a highly sensitive evaluation method. We performed comprehensive acquisition of data using existing measurements (nuclear magnetic resonance, next-generation DNA sequencing, and inductively coupled plasma-optical emission spectroscopy) and analyses based on a combination of machine learning and network visualization, which extracted important factors by the Random Forest approach, and applied these factors to a network module. We used two pteridophytes, Pteridium aquilinum and Matteuccia struthiopteris, for the representative daily diet. This novel analytical method could detect the impact of a small but significant shift associated with Matteuccia struthiopteris but not Pteridium aquilinum intake, using the functional network module. In this study, we proposed a novel method that is useful to explore a new valuable food to improve the health of the host as pre/probiotics.
+
+Keywords: gut ecosystem; food intake; metabolic response; machine learning; network analysis
+
+
+
+Introduction
+The gastrointestinal tract has a wide variety of functions, mainly in food digestion and nutrient absorption as well as in the development of systemic immunity, regulation of behavior, and targeting of drug delivery [-]. Gastrointestinal functions are directly and/or indirectly augmented by the gut microbiota [-]. However, dysbiosis can occur, which involves the disruption of proper microbial function; a typical case of this results from consuming an unbalanced diet, resulting in undesirable conditions in the host, such as inflammatory bowel disease and obesity [-]. Therefore, it is important to obtain a detailed understanding of the interaction between the gastrointestinal tract and intestinal microbiota.
+
+Nutrients 2017, 9, 1307; doi:	
+
+
+
+The intestinal microbiota consists of many bacterial species, whose composition and metabolic function responds to the daily diet; probiotics and prebiotics positively impact the health of an individual [,]. Additionally, specific bacteria play a role in digesting specific molecules and providing metabolites to the host in cooperation with other bacteria, which are regulated by diet [-]. Any component of the daily diet and additional food have the potential of developing a pre/probiotic effect, thus emphasizing the need of a precise evaluation method to determine the impact of food on the intestinal microbiota; this information can be utilized to regulate the intestinal microbiota by controlling the daily diet (pre/probiotics), meal frequency, and time of food intake [-].
+Many researchers have attempted to clarify effect of microbiota to host responses using mice, because the results obtained from such studies could be applied to humans [,]. Although many researchers have attempted to determine the factors that impact the intestinal microbiota, including antibiotics, pre/probiotics, and food intake, the data obtained from the microbiota analysis are affected by daily diet, stress, environment, and individual characteristics, including gene-based factors [,,-]. To overcome these problems, intestinal microbiota and host responses were measured by multiple methods, including next-generation DNA sequencing (NGS), nuclear magnetic resonance (NMR), mass spectrometry (MS), and biochemical analyses [,-]. However, the data subjected to a multivariate analysis, including principal component analysis (PCA), correlation analysis, factor analysis, clustering analysis, and network analysis [,,,], remain potential options for further improvement of data mining.
+In this research, we selected Pteridium aquilinum and Matteuccia struthiopteris as the representative components of the daily diet. P. aquilinum is consumed in Japan, Korea, and China, while M. struthiopteris is widely consumed in the Northern hemisphere; both plants are pteridophytes, which may have varied nutrient compositions from those of land plants and seaweed. This suggests that pteridophytes have a comparatively simple nutrient profile compared with higher plants, thus enabling easy evaluation [].    In addition, P. aquilinum and M. struthiopteris may be beneficial prebiotics in daily diet because of their easy availability (Figure S1) []. We chose Random Forest, which is a machine learning tool, superior to classification by decision tree, to identify important factors associated with the impact of food, such as age and geography, on intestinal microbiota composition and applied these important factors to the network community of heterogeneous measurement data (Figure ) [-]. This combination of machine learning and network visualization methods works well in identifying significant factors that are difficult to detect by other analytical approaches. A flow chart of the analysis protocol is presented  in supplementary Figure S2, which indicates the novel part of this study.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Schematic illustration of the novel method for exploring the impact of food, as proposed  in this study. Mice were fed additional food and samples were collected (urine, feces). The samples were measured by multiple methods (e.g., NGS for the microbiome, NMR for the metabolome).  These multiple data were analyzed by machine learning and important factors of response to food intake were determined. Furthermore, we calculated the network of normalized multiple  data. Finally, combined functional network and important factors revealed masked impacts of food intake.
+
+
+
+Materials and Methods
+
+Animals
+Male C57BL/6NCrl mice (3 weeks old) were obtained from Oriental Yeast (Tokyo, Japan) and habituated to the conditions in the animal facility before the start of the experiment (at 8 weeks old). All animal experiments were carried out in accordance with the Guidelines for the Laboratory Animal Facility of Showa Pharmaceutical University (ethic code number: P-2015-10).
+Food Preparation
+P.  aquilinum  and  M. struthiopteris,  used  in this  study,  were  developed  in Yamagata Prefecture.
+P. aquilinum was boiled in 3% NaHCO3 water and then soaked for at least 3 h in the same solution. Soaked  P.  aquilinum  was rinsed  thrice  in sterile  water  and soaked  in new sterile  water  for over 3 h.
+M. struthiopteris was boiled in 2% NaCl solution for 1 min and then soaked in cool water. These materials were then freeze-dried and crushed.
+Animal Experiment and Sample Collection
+We fixed the food-intake period (2 weeks) and the pre/post-food-intake periods. Cellulose (Wako), dried P. aquilinum, and M. struthiopteris were re-suspended (50 mg/mL) in 0.9% NaCl solution. Next, 400 uL of these solutions were orally administered to mice three times every other day in a week. Biological samples (feces, urine) were collected on the same day of food intake. A total of 216 fecal and 183 urinary samples were collected from mice (n = 4 for each group) throughout the experimental period for metabolic and microbial analyses. These samples were stored at -80 *C until sample preparation for analysis.
+NMR Measurements
+For the characterization of the components of P. aquilinum and M. struthiopteris, freeze-dried powder was suspended in 1 mL of KPi/D2O solvent with 1 mmol/L sodium 2, 2-dimethyl-2-silapentane-5-sulfonate (DSS) and heated at 65 *C for 15 min with shaking (1400 rpm).  After centrifugation,  the supernatants   of water- and methanol-soluble components were collected for NMR measurements.  For the extraction  of macromolecular components, 100 mg of the powder was rinsed with hexafluoroacetone (HFA) and ultrapure water, with a subsequent milling step, in accordance with a slightly modified version of the protocol in a previous study []. The milled samples were dissolved in 600 uL of DMSO-d6/pyridine-d5 (4:1) and the supernatant was used for NMR measurements. The collected urine and feces were prepared for NMR measurements,  in accordance with the protocol used in a previous study [].  All samples  were measured by AVANCE II 700 MHz Bruker BioSpin (Bruker, Rheinstetten, Germany), metabolite annotations were performed using 1H-13C heteronuclear single quantum coherence (HSQC), HSQC-total correlation spectroscopy (TOCSY), double-quantum single-quantum (DQ-SQ), and two-dimensional (2D) 1H-1H J-resolved NMR spectroscopy. In the HSQC NMR measurements, the Bruker standard pulse program "hsqcetgpsisp2.2" was used with the following parameters: number of data points, 1024 (F2)  and 256 (F1); number of scans, 128; spectral widths, 9803.922 (F2) and 24,649.248 (F1) Hz; and D1, 1 s. In the HSQC-TOCSY NMR measurements, the Bruker standard pulse program "hsqcdietgpsisp.2" was used with the following parameters: number of data points, 2048 (F2) and 256 (F1); number of scans,  128; and spectral widths, 9803.922 (F2) and 28,170.570 (F1) Hz. In the DQ-SQ NMR measurements, the Bruker standard pulse program "dqseagp90" was used with the following parameters: number of data points, 16,384 (F2) and 512 (F1); number of scans, 64; spectral widths, 9803.0922 (F2) and 14,003.065 (F1) Hz; and D1, 1 s. In the 2D J-resolved NMR measurements, the Bruker standard pulse program "jresgpprqf" was used with the following parameters: number of data points, 16,384 (F2) and 32 (F1); number of scans, 8; spectral widths, 12,500 (F2) and 50 (F1) Hz; and D1, 2 s. In addition, metabolic profiling for feces and urine was also performed using 2D J-resolved NMR with skyline projection []. The detected peaks in NMR spectra were annotated using SpinAssign ()
+
+
+
+and SpinCouple () programs, as well as the Human Metabolome Database () [-].
+Inductively Coupled Plasma-Optical Emission Spectroscopy (ICP-OES) Measurement
+A sufficient amount of each of 138 urinary samples was diluted approximately 100 times and measured by ICP-OES (SPECTRO BLUE FMX26 EOP; SPECTRO, Tokyo, Japan). As the operating parameters, main argon pressure, plasma power, plasma gas flow, auxiliary gas flow, nebulizer gas flow, and pump speed were set to 6.5 bar, 1400 W, 12 L/min, 1 L/min, 1 L/min, and 30 rpm, respectively.
+Fecal Microbiome Analysis
+Fecal microbes were disrupted using 5 mm stainless beads and a medicine spoonful of 0.3 mm zirconia beads in 200 uL of SDS-TE buffer (10 mmol/L Tris-HCl, 1 mmol/L EDTA, 2% SDS) using a vortex mixer for a total of 60 s. Disrupted feces were subjected to three freeze-thaw cycles and then centrifuged (10,000x g, 4 *C, 5 min), after which 100 uL of the supernatant was transferred to a new tube. DNA was extracted by phenol:chloroform:isoamyl alcohol (25:24:1) from the supernatant. Extracted DNA was dissolved in TE buffer and stored at -80 *C until microbiome analysis. The region encoding 16S rRNA was amplified using PCR with a TaKaRa Ex Taq HS kit (TaKaRa Bio, Shiga, Japan) and a primer set (Table S1) []. DNA was amplified by the following program: preheating at 94 *C for 4 min; 25 cycles of denaturation at 94 *C for 30 s, annealing at 55 *C for 30 s, and extension at 72 *C for 2 min; and a final terminal extension at 72 *C for 10 min. The 16S rRNA gene amplicon was purified using AMPure XP (Beckman Coulter, Brea, CA, USA) with the manufacturer's protocol. The purified double-stranded DNA concentration was determined by Picogreen (Thermo Fisher Scientific, Waltham, MA, USA) and sequencing of prepared library was performed using a MiSeq sequencer (Illumina Inc., San Diego, CA, USA) following the manufacturer's instructions. Obtained DNA sequence data were analyzed by QIIME () and detected bacteria are listed in Table S2 []. These bacterial data were handled as percentages in the following analysis. The sequences that passed the QIIME of 16S rRNA OTU had a mean of 5619.26, and SD of 1653.89.
+Data Analysis
+Peaks of one-dimensional skyline projection (1H-NMR) data were picked up by rNMR on the "R" platform [,]. The peak-picking data and other microbial and elemental data were normalized by unit variance. PCA, Random Forest, and network analyses were performed using the packages "muma," "randomForest," and "igraph" on the R platform, respectively [-]. These packages were used with their default settings. Calculated network data were depicted by Cytoscape () []. The top 30 important factors were extracted from the mean decrease in accuracy of the Random Forest analysis. These factors were applied to calculate the community. The important factors of the included community were statistically analyzed. Statistical significance was determined using the Holm method, in which the false discovery rate was intermediate between Benjamini-Hochberg method and Bonferroni method [,].
+Data Deposition
+DNA sequences of the study have been deposited in DDBJ ().
+The accession number was DRA006349.
+
+Results and Discussion
+
+Sample Measurement and Multivariate Analysis
+NMR measurements of the components of P. aquilinum and M. struthiopteris revealed that the plants contained some sugar groups and organic acids, chlorogenic acid, shikimate, and quinate (Figure S3a,b), the metabolites of which are derived from the shikimate pathway []. In particular, chlorogenic acid was
+
+
+
+reported to reduce blood pressure, indicating that the plants have the possibility of improving health []. Additionally, the plants have almost the same high-molecular-weight components, except for olefin and starch (Figure S4a,b). Next, the contents of urine and feces from throughout the experimental period were annotated and used to create a PCA score plot, which is widely used to obtain an overview of multivariate data for easy visualization (Table S3, Figures S5 and S6, Figure a-c). Although the PCA score of feces from cellulose-treated mice moved slightly in the PC2 negative direction from the pre to post period (Figure a), the PCA scores of P. aquilinum and M. struthiopteris transitioned from the PC1 negative to the positive side (Figure b,c). This suggested that P. aquilinum and M. struthiopteris intake had a greater impact than cellulose intake, which may have arisen from the plants' sugar groups and organic acids. However, we were unable to determine the exact causal factor from the PCA score loading, as there was substantial noise. In addition, we measured intestinal microbiota by MiSeq and analyzed the data using PCA. The results of the microbiome data from all groups were not clearly separated among the groups (Figure d-f). Furthermore, we estimated the Firmicutes/Bacteroidetes ratio, which are major phyla in the gut and indicators of host life-style [], to be almost the same (mean = 1.13, SD = 0.42, for the whole experimental period). These results suggest that additional food intake of six times every other day for two weeks could not make a major difference to gut microbiota composition. The urinary profiles based on NMR and elements by ICP-OES indicated a complex dispersion on the PCA score plot (Figure S7a-f). These results appear to demonstrate that PCA was unsuitable for exploring the impact of food in this case.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Principal component analysis of fecal metabolites and the microbiome. Red, blue, and green spheres represent single data points from pretreatment, during treatment, and posttreatment, respectively. Upper panels indicate the results of fecal NMR measurement analyzed by PCA. The data for the experimentally treated mouse groups (a-c) were from the administration of cellulose, Pteridium aquilinum, and Matteuccia struthiopteris, respectively; (d-f) show PCA score plots of the MiSeq data for each group; (d-f) show the results for the microbiota of mice treated with cellulose, P. aquilinum, and
+M. struthiopteris, respectively. The data analysis was performed using the package "muma" in R [].
+
+Selection of Important Variables by Determining the Food Impact
+Although the impact of additional food intake was detected using fecal metabolite PCA, others indicated complex dispersion. It was suggested that the same composition microbiota shifted to another state of metabolism or that treated mice responses of food intake were masked by other factors, such as mouse-specific characteristics and stress []. We managed to mine the data on the impact of food by machine learning using Random Forest, which was applied to all datasets and was used to create a multi-dimensional plot, indicating that each group had a specific factor that separated
+
+
+
+it from the others (Figure a, Figures S8a and S9a); we then selected the factors important for this separation, with careful cross-validation, to avoid over-training, using the Random Forest package (Figure b, Figures S8b and S9b). Random Forest revealed differences that were undetectable on PCA. The representative factors were clustered in the functional network module of the following network analysis (Figure c, Figures S8c and S9c). In addition, urinary ICP-OES data could not be separated using Random Forest analysis. These results indicate that urinary elements were not affected by food intake in this case.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. The results of Random Forest for fecal metabolites.  Multi-dimensional score (MDS) plots
+and important factors separating the groups (b) upper panel indicates all important factors and lower panel indicates the top 30 most important factors with annotation. In (a), red, blue, green, and purple circles represent single data points from the pre-treatment period for all groups, and the cellulose-, Pteridium aquilinum-, and Matteuccia struthiopteris-treated groups, respectively. (c) Shows a boxplot of representative important factors that can be applied on the network module. The upper panel and lower panel depict the results for 3'-CMP.2 and 3'-AMP.5, respectively. Blue, green, and purple boxes represent cellulose-, P. aquilinum-, and M. struthiopteris-treated groups, respectively.
+*** p < 0.001 calculated by the Holm method.
+
+Application of Important Factors to Network Modules for Separation
+We were able to detect important variables from the multivariate data by Random Forest and then attempted to find important variables in the network modules  concerning  the  impact  of  additional food intake. We calculated the Spearman rank correlation coefficient with the combined dataset of the group treated with both Pteridium aquilinum and Matteuccia struthiopteris (metabolites of urine and feces and microbiome), performed analyses based on the correlation coefficients, using the R [] package "igraph", and then described the network community, using Cytoscape (Figure , Figures S10 and S11). The purine/pyrimidine network of M. struthiopteris indicated that the impact of M. struthiopteris intake affected the microbiota, metabolites, and host metabolism. Dietary purine/pyrimidine was important to avoid an allergic state and to develop gastrointestinal systems [,]. The bacterium that was an important factor in the M. struthiopteris-treated group, from the genus-associated purine/pyrimidine metabolism community, was Prevotella, which is a gram-negative bacterium, reported to be associated with fiber []. In addition, the genus Akkermansia, which is known to affect metabolism and reduce obesity and inflammation [,], responded to M. struthiopteris intake. Another community, including glucose signal-associated bacterium, was described (Figures S10b and S11c); however, important bacterium and
+
+
+
+important glucose signals were indirectly connected. Furthermore, the community  did not associate  with urinary metabolites. The results suggested that the impact of M. struthiopteris intake affects the purine/pyrimidine network more than glucose network. The important community and its associated bacterium Akkermansia were reported to be useful for health, so the impact of M. struthiopteris intake may involve a prebiotic-like effect of shifting nucleotide availability. Our method, involving a combination of machine learning and network visualization, detected a less significant food impact, which may help in the identification of prebiotics and probiotics that could be useful in the daily diet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Purine/pyrimidine network with important bacteria and urinary metabolites of Matteuccia struthiopteris-treated mice based on the combined data set. The depicted network is based on calculations using the igraph package with Cytoscape. Blue, red, and light-yellow diamonds represent bacteria, fecal metabolites, and urinary metabolites, respectively (Tables S2 and S3). Black-line-circled diamonds represent factors selected by Random Forest as factors important for separating the groups.
+
+Conclusions
+In this paper, we selected two pteridophytes, which may have led to varied nutrient compositions between land plants and seaweed, as targets to study the impact of food on the gut ecosystem in mice. These pteridophytes may be beneficial prebiotics in the daily diet because of their easy availability. We proposed a novel methodology for exploring the impact of food on the gut ecosystem based on a combination of machine learning and network visualization. We obtained total of 490 variables by multiple measurements from non-invasive, time-course sampled urine and feces, and finally detected two important network modules, based on 30 selected variables of importance, based on Random Forest calculations. This novel analytical method could detect the impact of a small, but significant, shift associated with Matteuccia struthiopteris intake, using the functional purine/pyrimidine network module.
+Supplementary  Materials:  The  following  are  available  online  at  . Figure S1: Tree diagram of plant components based on data  set  obtained  by NMR  measurement,  Figure  S2:  Flow chart of the analysis procedure in this study, Figure S3: 1H-13C HSQC NMR spectra of Pteridium aquilinum and Matteuccia struthiopteris extracted by KPi/D2O solvent, Figure S4: 1H-13C HSQC NMR spectra of Pteridium aquilinum and Matteuccia struthiopteris components extracted by DMSO-d6/pyridine-d5 (4:1) solvent, Figure S5: Annotation of metabolites in urine NMR spectra, Figure S6: Annotation of metabolites in fecal NMR spectra, Figure S7: Principal component analysis of urinary metabolites and ions, Figure S8: The results of Random Forest for the fecal microbiome, Figure S9: The results of Random Forest for urinary metabolites, Figure S10: Network community correlation coefficients for Matteuccia struthiopteris-treated mice based on the combined data set, Figure S11: Network community correlation coefficients for Pteridium aquilinum-treated mice based on the combined data set, Table S1: Information on primers used for performing microbiome analysis, Table S2: List of sequential numbers for bacterial detection by MiSeq analysis, Table S3: List of annotated metabolites and unknown signals from NMR measurements.
+
+
+
+Acknowledgments: This research was supported by a Sasakawa Scientific Research Grant from The Japan Science Society.
+Author Contributions: H.S., Y.I. and J.K. conceived the experiments; H.S., S.M., Y.D. and J.K. designed the experiments; H.S., Y.D., M.K. and T.K. modified the experiments; H.S., S.M., A.S., Y.T. and Y.I. performed the experiments; H.S., S.M., Y.D., A.S., Y.T. and J.K. analyzed the data and created the Figures. H.S., Y.D. and J.K. wrote the paper.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+Furusawa, Y.; Obata, Y.; Fukuda, S.; Endo, T.A.; Nakato, G.; Takahashi, D.; Nakanishi, Y.; Uetake, C.; Kato, K.; Kato, T.; et al. Commensal microbe-derived butyrate induces the differentiation of colonic regulatory T cells. Nature 2013, 504, 446-450. [] []
+Sudo, N.; Chida, Y.; Aiba, Y.; Sonoda, J.; Oyama, N.; Yu, X.N.; Kubo, C.; Koga, Y. Postnatal microbial colonization programs the hypothalamic-pituitary-adrenal system for stress response in mice. J. Physiol. 2004, 558, 263-275. [] []
+Shima, H.; Watanabe, T.; Fukuda, S.; Fukuoka, S.I.; Ohara, O.; Ohno, H. A novel mucosal vaccine targeting Peyer's patch M cells induces protective antigen-specific IgA responses. Int. Immunol. 2014, 26, 619-625. [] []
+Ivanov, I.I.; Atarashi, K.; Manel, N.; Brodie, E.L.; Shima, T.; Karaoz, U.; Wei, D.; Goldfarb, K.C.; Santee, C.A.; Lynch, S.V.; et al. Induction of intestinal Th17 cells by segmented filamentous bacteria. Cell 2009, 139, 485-498. [] []
+Fukuda, S.; Toh, H.; Hase, K.; Oshima, K.; Nakanishi, Y.; Yoshimura, K.; Tobe, T.; Clarke, J.M.; Topping, D.L.; Suzuki, T.; et al. Bifidobacteria can protect from enteropathogenic infection through production of acetate. Nature 2011, 469, 543-547. [] []
+Atarashi, K.; Tanoue, T.; Ando, M.; Kamada, N.; Nagano, Y.; Narushima, S.; Suda, W.; Imaoka,  A.;  Setoyama, H.; Nagamori, T.; et al. Th17 Cell Induction by Adhesion of Microbes to Intestinal Epithelial Cells. Cell 2015, 163, 367-380. [] []
+Wei, X.; Yang, Z.; Rey, F.E.; Ridaura, V.K.; Davidson, N.O.; Gordon, J.I.; Semenkovich, C.F. Fatty acid synthase modulates intestinal barrier function through palmitoylation of mucin 2. Cell Host Microbe 2012, 11, 140-152. [] []
+Elson, C.O.; Cong, Y.; McCracken, V.J.; Dimmitt, R.A.; Lorenz, R.G.; Weaver, C.T. Experimental models of inflammatory bowel disease reveal innate, adaptive, and regulatory mechanisms of host dialogue with the microbiota. Immunol. Rev. 2005, 206, 260-276. [] []
+Ridaura, V.K.; Faith, J.J.; Rey, F.E.; Cheng, J.; Duncan, A.E.; Kau, A.L.; Griffin, N.W.; Lombard, V.; Henrissat, B.; Bain, J.R.; et al. Gut microbiota from twins discordant for obesity modulate metabolism in mice. Science 2013, 341, 1241214. [] []
+Lin, H.; An, Y.P.; Hao, F.H.; Wang, Y.L.; Tang, H.R. Correlations of fecal metabonomic and microbiomic changes induced by high-fat diet in the pre-obesity state. Sci. Rep. 2016, 6, 21618. []
+Jandhyala, S.M.; Talukdar, R.; Subramanyam, C.; Vuyyuru, H.; Sasikala, M.; Nageshwar Reddy, D. Role of the normal gut microbiota. World J. Gastroenterol. 2015, 21, 8787-8803. [] []
+Arumugam, M.; Raes, J.; Pelletier, E.; Le Paslier, D.; Yamada, T.; Mende, D.R.; Fernandes, G.R.; Tap, J.; Bruls, T.; Batto, J.M.; et al. Enterotypes of the human gut microbiome. Nature 2011, 473, 174-180. [] []
+Hehemann, J.H.; Correc, G.; Barbeyron, T.; Helbert, W.; Czjzek, M.; Michel, G. Transfer of carbohydrate-active enzymes from marine bacteria to Japanese gut microbiota. Nature 2010, 464, 908-912. [] []
+Sugahara, H.; Odamaki, T.; Fukuda, S.; Kato, T.; Xiao, J.Z.; Abe, F.; Kikuchi, J.; Ohno, H. Probiotic Bifidobacterium longum alters gut luminal metabolism through modification of the gut microbial community. Sci. Rep. 2015, 5, 13548. [] []
+Wu, G.D.; Chen, J.; Hoffmann, C.; Bittinger, K.; Chen, Y.Y.; Keilbaugh, S.A.; Bewtra, M.; Knights, D.; Walters, W.A.; Knight, R.; et al. Linking long-term dietary patterns with gut microbial enterotypes. Science 2011, 334, 105-108. [] []
+
+
+
+Hatori, M.; Panda, S. Response of peripheral rhythms to the timing of food intake. Methods Enzymol. 2015,
+552, 145-161. []
+Mattson, M.P.; Allison, D.B.; Fontana, L.; Harvie, M.; Longo, V.D.; Malaisse, W.J.; Mosley, M.; Notterpek, L.; Ravussin, E.; Scheer, F.A.; et al. Meal frequency and timing in health and disease. Proc. Natl. Acad. Sci. USA 2014, 111, 16647-16653. [] []
+Zarrinpar, A.; Chaix, A.; Yooseph, S.; Panda, S. Diet and feeding pattern affect the diurnal dynamics of the gut microbiome. Cell Metab. 2014, 20, 1006-1017. [] []
+Chaix, A.; Zarrinpar, A.; Miu, P.; Panda, S. Time-restricted feeding is a preventative and therapeutic  intervention against diverse nutritional challenges. Cell Metab. 2014, 20, 991-1005. [] []
+Gill, S.; Panda, S. A smartphone app reveals erratic diurnal eating patterns in humans that can be modulated for health benefits. Cell Metab. 2015, 22, 789-798. [] []
+Jernberg, C.; Lofmark, S.; Edlund, C.; Jansson, J.K. Long-term impacts of antibiotic exposure on the human intestinal microbiota. Microbiology 2010, 156, 3216-3223. [] []
+Rea, K.; Dinan, T.G.; Cryan, J.F. The microbiome: A key regulator of stress and neuroinflammation.
+Neurobiol. Stress 2016, 4, 23-33. [] []
+Fanaro, S.; Chierici, R.; Guerrini, P.; Vigi, V. Intestinal microflora in early infancy: Composition and development. Acta Paediatr. Suppl. 2003, 92, 48-55. []
+Aw, W.; Fukuda, S. Toward the comprehensive understanding of the gut ecosystem via metabolomics-based integrated omics approach. In Seminars in Immunopathology; Springer: Berlin, Germany, 2015.
+Kaplan, C.W.; Astaire, J.C.; Sanders, M.E.; Reddy, B.S.; Kitts, C.L. 16S ribosomal DNA terminal restriction fragment pattern analysis of bacterial communities in feces of rats fed Lactobacillus acidophilus NCFM. Appl. Environ. Microbiol. 2001, 67, 1935-1939. [] []
+Wu, J.F.; Yang, L.; Li, S.F.; Huang, P.; Liu, Y.; Wang, Y.L.; Tang, H.R. Metabolomics insights into the modulatory effects of long-term low calorie intake in mice. J. Proteome Res. 2016, 15, 2299-2308. [] []
+Tian, Y.; Xu, T.P.; Huang, J.; Zhang, L.M.; Xu, S.; Xiong, B.; Wang, Y.L.; Tang, H.R. Tissue metabonomic phenotyping for diagnosis and prognosis of human colorectal cancer. Sci. Rep. 2016, 6, 20790. [] []
+Markley, J.L.; Bruschweiler, R.; Edison, A.S.; Eghbalnia, H.R.; Powers, R.; Raftery, D.; Wishart, D.S. The future of NMR-based metabolomics. Curr. Opin. Biotechnol. 2017, 43, 34-40. [] []
+Worley, B.; Powers, R. MVAPACK: A complete data handling package for NMR metabolomics. ACS Chem. Biol.
+2014, 9, 1138-1144. [] []
+Kim, Y.J.; Huh, I.; Kim, J.Y.; Park, S.; Ryu, S.H.; Kim, K.B.; Kim, S.; Park, T.; Kwon, O. Integration of traditional and metabolomics biomarkers identifies prognostic metabolites for predicting responsiveness to nutritional intervention against oxidative stress and inflammation. Nutrients 2017, 9, 233. [] []
+Itouga, M.; Hayatsu, M.; Sato, M.; Tsuboi, Y.; Komatsu-Kato, Y.; Toyooka, K.; Suzuki, S.; Nakatsuka, S.; Kawakami, S.; Kikuchi, J.; et al. Characterization of the moss Funaria hygrometrica protonema cells as a lead (Pb) adsorbent. PLoS ONE 2017, in press.
+Breiman, L. Random forests. Mach. Learn. 2001, 45, 5-32. [CrossRef]
+Shiokawa, Y.; Misawa, T.; Date, Y.; Kikuchi, J. Application of market basket analysis for the visualization of transaction data based on human lifestyle and spectroscopic measurements. Anal. Chem. 2016, 88, 2714-2719. [] []
+Yatsunenko, T.; Rey, F.E.; Manary, M.J.; Trehan, I.; Dominguez-Bello, M.G.; Contreras, M.; Magris, M.; Hidalgo, G.; Baldassano, R.N.; Anokhin, A.P.; et al. Human gut microbiome viewed across age and geography. Nature 2012, 486, 222-227. [] []
+Date, Y.; Sakata, K.; Kikuchi, J. Chemical profiling of complex biochemical mixtures from various seaweeds.
+Polym. J. 2012, 44, 888-894. []
+Date, Y.; Nakanishi, Y.; Fukuda, S.; Nuijima, Y.; Kato, T.; Umehara, M.; Ohno, H.; Kikuchi, J. In vitro evaluation method for screening of candidate prebiotic foods. Food Chem. 2014, 152, 251-260. [] []
+Mekuchi, M.; Sakata, K.; Yamaguchi, T.; Koiso, M.; Kikuchi, J. Trans-omics approaches used to characterise fish nutritional biorhythms in leopard coral grouper (Plectropomus leopardus). Sci. Rep. 2017, 7, 9372. [] []
+
+
+
+Chikayama, E.; Sekiyama, Y.; Okamoto, M.; Nakanishi, Y.; Tsuboi, Y.; Akiyama, K.; Saito, K.; Shinozaki, K.; Kikuchi, J. Statistical indices for simultaneous large-scale metabolite detections for a single NMR spectrum. Anal. Chem. 2010, 82, 1653-1658. [] []
+Kikuchi, J.; Tsuboi, Y.; Komatsu, K.; Gomi, M.; Chikayama, E.; Date, Y. SpinCouple: Development of a Web Tool for Analyzing Metabolite Mixtures via Two-Dimensional J-Resolved NMR Database. Anal. Chem. 2016, 88, 659-665. [] []
+Wishart, D.S.; Jewison, T.; Guo, A.C.; Wilson, M.; Knox, C.; Liu, Y.; Djoumbou, Y.; Mandal, R.; Aziat, F.; Dong, E. HMDB 3.0--The human metabolome database in 2013. Nucleic Acids Res. 2012, 41, D801-D807. [] []
+Caporaso, J.G.; Lauber, C.L.; Walters, W.A.; Berg-Lyons, D.; Huntley, J.; Fierer, N.; Owens, S.M.; Betley, J.; Fraser, L.; Bauer, M. Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms. ISME J. 2012, 6, 1621-1624. [] []
+Caporaso, J.G.; Kuczynski, J.; Stombaugh, J.; Bittinger, K.; Bushman, F.D.; Costello, E.K.; Fierer, N.; Pena, A.G.; Goodrich, J.K.; Gordon, J.I. QIIME allows analysis of high-throughput community sequencing data. Nat. Methods 2010, 7, 335-336. [] []
+Lewis, I.A.; Schommer, S.C.; Markley, J.L. rNMR: Open source software for identifying and quantifying metabolites in NMR spectra. Magn. Reson. Chem. 2009, 47, S123-S126. [] []
+R Core Team. R Language Definition; R Foundation for Statistical Computing: Vienna, Austria, 2000.
+Gaude, E.; Chignola, F.; Spiliotopoulos, D.; Spitaleri, A.; Ghitti, M.; Garcia-Manteiga, J.M.; Mari, S.; Musco, G. muma, An R package for metabolomics univariate and multivariate statistical analysis. Curr. Metabol.  2013,  1, 180-189. []
+Csardi, G.; Nepusz, T. The igraph software package for complex network research. Int. J. Complex Syst. 2006,
+1695, 1-9.
+Liaw, A.; Wiener, M. Classification and regression by random Forest. R News 2002, 2, 18-22.
+Shannon, P.; Markiel, A.; Ozier, O.; Baliga, N.S.; Wang, J.T.; Ramage, D.; Amin, N.; Schwikowski, B.; Ideker, T. Cytoscape: A software environment for integrated models of biomolecular interaction networks. Genome Res. 2003, 13, 2498-2504. [] []
+Holm, S. A simple sequentially rejective multiple test procedure. Scand. J. Stat. 1979, 6, 65-70.
+Benjamini, Y.; Hochberg, Y. Controlling the false discovery rate: A practical and powerful approach to multiple testing. J. R. Stat. Soc. Ser. B (Methodol.) 1995, 57, 289-300.
+Draths, K.; Knop, D.R.; Frost, J. Shikimic acid and quinic acid: Replacing isolation from plant sources with recombinant microbial biocatalysis. J. ACS 1999, 121, 1603-1604. []
+Onakpoya, I.; Spencer, E.; Thompson, M.; Heneghan, C. The effect of chlorogenic acid on blood pressure: A systematic review and meta-analysis of randomized clinical trials. J. Hum. Hypertens. 2015, 29, 77-81. [] []
+Sudo, N.; Aiba, Y.; Oyama, N.; Yu, X.N.; Matsunaga, M.; Koga, Y.; Kubo, C. Dietary nucleic acid and intestinal microbiota synergistically promote a shift in the Th1/Th2 balance toward Th1-skewed immunity. Int. Arch. Allergy Immunol. 2004, 135, 132-135. [] []
+Carver, J. Dietary nucleotides: Effects on the immune and gastrointestinal systems. Acta Paediatr. Suppl. 1999,
+88, 83-88. [] []
+Everard, A.; Belzer, C.; Geurts, L.; Ouwerkerk, J.P.; Druart, C.; Bindels, L.B.; Guiot, Y.; Derrien, M.; Muccioli, G.G.; Delzenne, N.M.; et al. Cross-talk between Akkermansia muciniphila and intestinal epithelium controls diet-induced obesity. Proc. Natl. Acad. Sci. USA 2013, 110, 9066-9071. [] []
+Caesar, R.; Tremaroli, V.; Kovatcheva-Datchary, P.; Cani, P.D.; Backhed, F. Crosstalk between gut microbiota and dietary lipids aggravates WAT inflammation through TLR signaling. Cell Metabol. 2015, 22, 658-668. [] []
+(c) 2017 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ().

@@ -1,0 +1,904 @@
+
+
+
+Review
+From Belly to Brain: Targeting the Ghrelin Receptor in Appetite and Food Intake Regulation
+Ken Howick 1,2,3, Brendan T. Griffin 2,3, John F. Cryan 1,3,4 and Harriet Schellekens 1,3,4,*
+Department of Anatomy and Neuroscience, University College Cork, Cork, Ireland; (K.H.); (J.F.C.)
+School of Pharmacy, University College Cork, Cork, Ireland; 
+Food for Health Ireland, University College Cork, Cork, Ireland
+Alimentary Pharmabiotic Centre (APC) Microbiome Institute, University College Cork, Cork, Ireland
+* Correspondence: h.schellekens@ucc.ie; Tel.: +353-21-420-5429
+Academic Editor: Suzanne L. Dickson
+Received: 19 December 2016; Accepted: 19 January 2017; Published: 27 January 2017
+
+Abstract: Ghrelin is the only known peripherally-derived orexigenic hormone, increasing appetite and subsequent food intake. The ghrelinergic system has therefore received considerable attention as a therapeutic target to reduce appetite in obesity as well as to stimulate food intake in conditions of anorexia, malnutrition and cachexia. As the therapeutic potential of targeting this hormone becomes clearer, it is apparent that its pleiotropic actions span both the central nervous system and peripheral organs. Despite a wealth of research, a therapeutic compound specifically targeting the ghrelin system for appetite modulation remains elusive although some promising effects on metabolic function are emerging. This is due to many factors, ranging from the complexity of the ghrelin receptor (Growth Hormone Secretagogue Receptor, GHSR-1a) internalisation and heterodimerization, to biased ligand interactions and compensatory neuroendocrine outputs. Not least is the ubiquitous expression of the GHSR-1a, which makes it impossible to modulate centrally-mediated appetite regulation without encroaching on the various peripheral functions attributable to ghrelin. It is becoming clear that ghrelin's central signalling is critical for its effects on appetite, body weight regulation and incentive salience of food. Improving the ability of ghrelin ligands to penetrate the blood brain barrier would enhance central delivery to GHSR-1a expressing brain regions, particularly within the mesolimbic reward circuitry.
+
+Keywords: ghrelin; desacyl-ghrelin; appetite; GHSR-1a; obesity; cachexia; food reward; mesolimbic reward circuitry; blood brain barrier
+
+
+
+Introduction
+Food intake is one of the most deceptively complex of all mammalian behaviours, being regulated by a variety of homeostatic and external factors [].  One of the key hormones regulating food  intake is ghrelin, a 28 amino acid (aa) peptide synthesized and secreted by gastric oxyntic cells []. Blood levels of this hormone exhibit circadian fluctuation which are aligned with mealtimes, spiking pre-prandially followed by rapid post-prandial reductions []. These have positioned ghrelin as a key regulator of meal initiation, stimulating a cascade of events to prepare the body for an impending meal. All of the above has led to the designation of ghrelin as the "hunger hormone" [], although recent findings provide evidence for compensatory mechanisms in ghrelin knockouts []. To date however, it remains the only known peripheral hormone with orexigenic effects via a centrally mediated mechanism [-]. The genes and cellular mechanisms involved in the synthesis, cleavage and octanoylation of ghrelin have been extensively described [-]. Briefly, the addition of an acyl functional group to the serine-3 of ghrelin is essential for its binding to and activity on its receptor,
+
+Int. J. Mol. Sci. 2017, 18, 273; doi:10.3390/ijms18020273	
+
+
+
+the growth hormone secretagogue receptor (GHSR-1a) []. The neuronal pathways underlying ghrelin's appetite-stimulating effects centre around activation of the GHSR-1a, which is abundantly expressed in the hypothalamus [,]. The arcuate nucleus is the main hypothalamic locus for ghrelin's orexigenic effect. GHSR-1a-mediated activation of arcuate nucleus neuropeptide Y/agouti-related peptide neurons serves to stimulate orexigenic activity through Y1 receptors, while concomitantly inhibiting satiating pro-opiomelanocortin neurons []. Furthermore, ghrelin contributes to the regulation of body weight by potently stimulating growth hormone (GH) secretion from the pituitary, increasing adiposity and reducing energy expenditure [,]. Goldstein and Brown showed that ghrelin-stimulated GH secretion is critical to protecting the body from starvation-induced hypoglycaemia []. Ghrelin has also been shown to be involved in reward processes, mood, memory and learning, and stress response [-], while peripheral functions span gastric motility, glucose homeostasis, immune function, cardiac output and bone formation [-].
+Ghrelin and Appetite-Related Disorders
+In appetite and food intake, ghrelin's role can be subdivided into two distinct, yet overlapping areas of homeostatic and non-homeostatic feeding [-]. The term "non-homeostatic" encompasses both motivation and incentive salience applied to food rewards, but also the inherent palatability or "hedonic" aspect of eating in itself. The ghrelin system not only acts as a barometer for energy balance [,], but also contributes to the drive for eating beyond metabolic demand and the consumption of palatable foods [,]. Therefore, ghrelin and the GHSR-1a receptor, have been extensively investigated as potential therapeutic targets to tackle metabolic, eating- and appetite-related disorders by virtue of the unique position which the ghrelinergic system occupies at the interface of homeostatic and hedonic feeding.
+Homeostatic Feeding
+The ghrelinergic system has received considerable focus as a target in maladaptive changes to homeostatic energy balance [,,]. This is achieved through manipulating a number of physiological mechanisms resulting in a net anabolic effect in the body [,]. The normal ageing process yields a number of physiological changes which lead to a reduction in appetite and appropriate nutritional intake [,]. Declining ghrelin levels contribute to this reduction in food intake and lean body mass []. Furthermore, ageing population demographics translate to a greater incidence of chronic conditions such as cardiovascular disease, respiratory disease and cancer []. Chronic diseases compound a weakening ghrelin axis by increasing systemic inflammation and cytokine output []. Cytokine-mediated activation of anorexigenic neuron populations in the hypothalamus causes   a cascade of metabolic changes resulting in loss of lean and fat mass, and the development of cachexia [,,]. Thus, a metabolic backdrop is created which antagonises ghrelin's somatotrophic effect [-]. Age-related malnutrition and under-eating following chronic diseases results in prolonged hospital stays, decreased independence and poorer response to treatment,  leading to a greater burden on global health infrastructures and poorer clinical outcomes [,,].
+Non-Homeostatic Feeding
+Further to its role as a key mediator of the energy balance "set point", ghrelin is also implicated in incentive salience and motivation to eat, and consequently has become a therapeutic target for development of therapies for overeating and obesity [,]. The need for anti-obesity therapeutics is highlighted by the global increase in incidence of obesity in recent years. In 2014, more than 1.9 billion adults (39% globally) were overweight [] and obesity continues to rise to epidemic proportions.  In Western society particularly, consumption of readily available high-fat and high-sugar meals, together with increasingly sedentary lifestyles, has led to a rise in the "metabolic syndrome". This is a condition associated with weight gain, hyperglycaemia, insulin resistance, hypercholesterolaemia and a general inflammatory phenotype [,]. In addition to homeostasis, neuronal pathways also
+
+
+
+exist which promote the consumption of palatable, calorie-dense foods beyond the metabolic demands of the organism []. This is thought to be an evolutional mechanism that promotes over-eating of calorie-dense foods in preparation for times of food deprivation. Needless to say, this is redundant in the western world where there is an abundance of food. The mesolimbic dopaminergic pathway in the brain is known to be a key mediator in this primitive drive [-]. Overconsumption of palatable foods is thought to be triggered by hyperactivity of the reward system [,]. Furthermore, the late Bart Hoebel and colleagues in Princeton proved that sugar in itself can share many of the properties of addictive substances [,]. In fact, palatable foods are now known to share the same reward pathways as non-psychostimulant drugs of abuse []. It should be noted that although the concept of food addiction has gained significant ground, it has many heuristic limitations [,].
+Increases in circulating levels of endogenous ghrelin, following periods of food restriction, signal an increase in appetite and hunger and are correlated with a general increase in both "liking" and "wanting" of food [,]. Interestingly, the elevated endogenous ghrelin levels have been associated with an increased dopamine output in the brain [], while functional magnetic resonance imaging in human subjects has shown that ghrelin administration enhances the activation of the central reward circuitry in response to images of pleasurable foods [,]. Subsequently, ghrelin's role in increasing the incentive valuation of food at the level of the mesolimbic circuitry has come to the fore in recent reviews [,].
+Stress, Impulsivity and Cognition
+Dopaminergic activity in the mesolimbic reward circuitry not only increases perceived rewarding value of food, but also results in increased impulsive action []. Impulsivity can be defined by characteristic motor disinhibition and impaired decision-making, and a strong correlation exists between impulsiveness and food reward behaviour [-]. Furthermore, a relationship between increased ghrelin levels and impulsive behaviour has recently been elucidated []. Therefore, dysregulation of  ghrelin-dopamine  signalling  is  thought  to  contribute  to  the  development  of  an addictive-like relationship with food. Additionally, numerous groups have published on the ghrelin system linking stress, mood and food reward. Food intake and choice of food are closely linked with how we deal with stress [-]. This is becoming increasingly pertinent in modern society due to the combination of readily available high-calorie foods, and the exposure to chronic stressors [,]. Ghrelin is known to play a role in stress-induced food intake and the phenomenon of "comfort eating" [,,]. A combination of low impulse control and increased incentive to eat palatable foods synergistically contribute to the development of obesity [].
+Current Status and Implications
+Consequences of over- and under-eating constitute ever-expanding health problems that remain unanswered in modern society, despite education, public health campaigns and pharmacotherapy [,]. Thus, there is an impetus to understand the physiological mechanisms underlying central appetite regulation and food intake in order to design novel treatment strategies for eating disorders. However, despite almost 20 years since it is discovery by Kojima and colleagues, no specific ghrelin targeting anti-obesity drug or cachexia therapeutics are on the market for clinical use []. The literature on ghrelin illustrates a plethora of information, yet we are still faced with a paucity of success. As knowledge on ghrelin increased, the role of the hormone shifted from the key protagonist in feeding initiation to be considered as part of a spectrum of diverse physiological processes. The peripheral and central distribution of the GHSR-1a and the heterogenous nature of GHSR-1a signalling result in pleiotropic actions of ghrelin, many of which are still being investigated.
+In this review we discuss the distribution and heterogenous signalling of the GHSR-1a, and its relevance to ghrelin's action. Furthermore, we review the pharmacokinetics and pharmacodynamics of both native ghrelin and synthetic ghrelin ligands used clinically to date, and propose that augmenting their blood brain barrier (BBB) penetrability would better target the GHSR-1a at the level of feeding and
+
+
+
+reward centres in the brain, thus increasing specificity for appetite-modulation and limiting off-target peripheral tissue effects.
+Growth Hormone Secretagogue Receptor (GHSR-1a) Receptor--Biodistribution and Signalling
+
+Pleiotropic Pharmacodynamics
+The target for ghrelin and ghrelin ligands is the GHSR-1a receptor, a 7 transmembrane G-protein coupled receptor (GPCR). The GHSR-1a receptor is expressed both in the central nervous system (CNS) and peripherally in the body,  and binding of acyl-ghrelin leads to receptor activation [].   The distribution of the GHSR-1a receptor is of paramount importance as it is the executor of ghrelin's function. Indeed, it is the peripheral (exclusive to non-CNS tissue) and central (exclusive to the CNS) distribution of the GHSR-1a which is responsible for the plethora of physiological effects which ghrelin exerts (Figure ). The GHSR-1a is densely expressed in the hypothalamic nuclei which sends neuronal projections to other appetite regulating centres [,]. Peripherally, GHSR-1a is located on vagal afferents, pancreatic cells, spleen, cardiac muscle, bone, adipose, thyroid, adrenal glands and on immune cells [,]. Therefore, given the ubiquitous expression of the receptor, any instance of exogenous ghrelin or ghrelin ligand administration leads to a combination of downstream effects. Neither exogenous ghrelin nor ghrelinergic compounds can effectively target centrally-controlled food intake, without affecting a multitude of other central and peripheral outputs [,]. The non-specific tissue effects of peripheral ghrelin administration may be further complicating an intricate metabolic balance and need to be considered.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. This combines the documented methods of ghrelin's action after its release from the stomach, or exogenous administration. Ghrelin travels via the circulation to activate the growth hormone secretagogue receptor (GHSR-1a) in the arcuate nucleus and the nucleus tractus solitarius (NTS) after circumventing the blood-brain barrier (BBB), denoted by the red arrow. Peripheral signals are conveyed to the central nervous system (CNS) via vagal afferents also. Activation of the GHSR-1a leads to a multitude of centrally and/or peripherally mediated effects.
+
+
+
+Central GHSR-1a Signalling
+Food intake,  adiposity and energy homeostasis are centrally controlled functions of ghrelin  and the GHSR-1a which have been extensively described in the literature [,,]. Chronic central administration of ghrelin induces adiposity in rodents by reducing the utilization of fat as an energy substrate []. Further work confirmed this central action, with expression of mRNA for fat-sparing enzymes fatty-acid synthase, acetyl-CoA carboxylase a, stearoyl-CoA desaturase-1, and lipoprotein lipase all being increased with chronic intracerebroventricular infusion of ghrelin. In addition, mRNA expression for carnitine palmitoyltransferase-1a, involved in fat utilisation is decreased while lipid mobilization is reduced following ghrelin treatment, as shown by an increase in respiratory exchange ratio in vivo [,]. Furthermore, ghrelin stimulates lipid deposition in human visceral adipose tissue in a dose-dependent manner []. Acute ghrelin administration consistently stimulates food intake across species [,,,-]. In recent years however, research has proven that ghrelin may not be the critical regulator of food intake it was once heralded to be.
+Studies in knockout mice have confirmed the ghrelin peptide is not a key mediator of food intake or growth []. In contrast with predictions, ghrelin knockout mice are neither undersized nor hypophagic; their behavioural phenotype for food intake and physical attributes are indistinguishable from wild-type littermates [,]. Ghrelin-null rodents also display normal responses to starvation and diet-induced obesity []. Furthermore, ablation of ghrelin in adulthood failed to elicit effects on food intake, body weight, or resistance to diet-induced obesity []. Interestingly, both germline ghrelin-deficient and ghrelin cell-ablated mice display a profound hypoglycaemia following prolonged calorie restriction. Overall however, the phenotype in ghrelin-knockouts is suggestive of a non-critical role for ghrelin in food intake and growth.
+Despite the apparent compensatory mechanisms that exist in the absence of ghrelin, exogenous ghrelin or ghrelin ligands have the potential to significantly modulate appetite, most likely via central GHSR-1a signalling. Recently it was shown through neuronal-specific ablation of the GHSR-1a that receptor signalling within the CNS is a crucial regulator of energy metabolism. This is important to consider in the context of the high constitutive activity of the GHSR-1a, which does not require ghrelin in order to become activated [,]. Zigman and colleagues, amongst others, have demonstrated that GHSR-1a-null mice are resistant to diet-induced obesity [-]. Neuronal GHSR-1a is also essential for ghrelin-induced meal initiation and maintenance of body weight in conditions of caloric deficit []. Central GHSR-1a signalling therefore seems to be critical for not only acute initiation of food intake, but also is a key mediator of body weight. Supporting this, a genetic mutation in GHSR-1a that allows ghrelin binding but prevents activation of the receptor, leads to the condition of familial short stature [].
+Consistent with the notion of a multifunctional role for ghrelin, the GHS-R1a receptor is also expressed in several non-hypothalamic brain areas. In-situ binding studies have demonstrated the existence of the GHSR-1a in the midbrain dopamine system, particularly the main mesolimbic reward circuitry structures; the  ventral  tegmental  area  (VTA)  and  its  primary  projection  site, the nucleus accumbens [,,]. The VTA projects GHSR-1a-expressing dopaminergic neurons which terminate in the nucleus accumbens (NAcc), a hotspot for dopamine release which is critically associated with promoting incentive value of drugs of abuse and natural rewards, including food []. Further projections from the VTA to the medial prefrontal cortex, an important part of the reward system which also encodes the genes for the GHSR-1a, are described as part of this pathway [-]. Consequently, the GHSR-1a located in the midbrain dopaminergic pathway may be a driver for the decision to eat palatable, calorie-dense foods, irrespective of metabolic need.
+GHSR-1a receptor is also expressed in areas associated with memory, emotional arousal and cue-potentiated feeding [,,]. For example, GHSR-1a in the hippocampus is known to play a role in synaptic plasticity, increasing hippocampal spine density and enhancing long-term potentiation, an important phenomenon in learning and memory consolidation []. Activation of hippocampal GHSR-1a in vivo increased performance and retention of memory-dependent
+
+
+
+tasks [,]. Furthermore, the GHSR-1a is densely expressed in several sub-nuclei of the amygdala and is associated with amelioration of anxiety-like behaviours in food scarcity []. Altogether,  the above is supportive of a broader, non-homeostatic function for GHSR-1a signalling in higher brain functions dependent on metabolic status, for example, heightened salience and increased memory consolidation in times of hunger to remember where food can be obtained []. Critically, although ghrelin peptide mRNA is not found in the brain, it's expression is noted peripherally, suggesting multiple potential autocrine or paracrine roles of the hormone [,,]. Indeed, direct actions of ghrelin in the periphery have been reported in several organ systems.
+Peripheral GHSR-1a Signalling
+The GHSR-1a is responsible for several peripheral mechanisms modulated by ghrelin including, but not limited to, cardiac contractility, bone formation and reproductive function. Firstly, GHSR-1a is expressed on rodent and human immune cells, including monocytes and T cells [,]. Ghrelin and ghrelin agonists have shown a protective effect under acute endotoxaemia, enhancing the effectiveness of immune response through tissue infiltration in vivo [,], leading to decreased mortality. Ghrelin is also known to directly reduce the expression of inflammatory cytokines []. Secondly, protective effects have also been attributed to ghrelin in rodent cardiomyocytes [,]. The cardioprotective mechanisms underlying this have been described in detail elsewhere []. The ghrelin agonist, hexarelin, was shown to increase cardiac output in rodents and humans [,]. Thirdly, ghrelin and the GHSR-1a receptor are expressed in rat and human testis [,,] and in females both have been documented to be expressed in ovary, hilus cells (leydig cells) and corpora lutea, all of which are hormone secreting cells which play roles in the female reproductive cycle []. Ghrelin plays a crucial role in the regulation of the hypothalamic-pituitary-gonadal axis mainly through reducing secretion of hypothalamic gonadotropin-releasing hormone and stimulating local luteinizing hormone and follicle stimulating hormone secretion.
+Complementary Signalling: Gastrointestinal Motility, Glucose Homeostasis and Visceral Pain
+All of the above have discussed distinct centrally-mediated and non-central autocrine or paracrine functions of GHSR-1a. In certain instances, central and peripheral ghrelinergic signalling appear to be complementary, as is the case for regulation of gastrointestinal motility, glucose homeostasis and visceral pain. The role of ghrelin and the GHSR-1a in the regulation of gastrointestinal tract motility has already been reviewed []. The GHSR-1a receptor is located in the mucosa and myenteric plexus of rodent and human gastrointestinal tract, reinforcing the local neural role for ghrelin in gut motility [-]. In vitro, this notion was supported by contractility studies showing that ghrelin directly activates both cholinergic [,,] and tachykinergic excitatory neurons in fundus and antrum. In vivo, peripheral administration of ghrelin accelerates gastric emptying in a dose-dependent manner [-]. In humans, ghrelin infusion stimulates gastric emptying in healthy participants and ameliorates symptoms of gastroparesis [].   However,  central administration also displays    a pronounced effect on gastrointestinal tract motility [,]. Vagotomy or chemical deactivation of the vagus were shown to abolish the observed effects of peripherally administered ghrelin [,]. Ghrelin's effects in respect of gastrointestinal motility thus seem to be vago-vagal in origin--meaning that it results from reciprocal vagal communication between the gut and the dorsal vagal complex   of the brain. Similar to food intake and adiposity above, gastric emptying is unaffected in ghrelin knockout rodents, suggesting the existence of compensatory mechanisms []. Critically, it has been suggested that local mechanisms become operational under abnormal conditions such as vagal denervation or pharmacological stimulation []. Supporting this, it was shown that downregulation of GHSR-1a in the small intestine delays transit in vagotomised mice []. Overall, evidence suggests that ghrelin acts from the periphery in a remote fashion to modulate gastrointestinal function from the CNS via the vagus nerve, however the gastrointestinal distribution of the GHSR-1a paves the way for local activity which may be heightened by pharmacological stimulation []. The motilin receptor
+
+
+
+has also been characterized in the human gastrointestinal tract [] and displays close structural homology and a functional compensatory role with the GHSR-1a in gastrointestinal motility [].
+Interacting central and peripheral GHSR-1a signalling is evident in the physiology of glucose homeostasis.   Many peripheral hormones act in a central manner to regulate energy metabolism   and glucose balance, including glucagon, glucagon-like peptide 1 and insulin [-]. However, the GHSR-1a is expressed in pancreatic a and b cells [,-], and peripheral ghrelin acts directly on the receptor in pancreatic islets to modulate the release of insulin [,,]. In humans, Broglio and colleagues found that acute administration of acyl-ghrelin in the fasted state significantly reduced plasma insulin while promoting hyperglycaemia, however, a continuous infusion stimulated insulin secretion secondary to elevated glucose levels [,]. Supporting this, several studies have consistently shown that ghrelin administration promotes hyperglycaemia []. Central administration of ghrelin also regulates plasma insulin in rodents [-]. Somewhat confusingly, it seems that central GHSR-1a signalling exerts an insulinotropic effect, versus the inhibition of glucose-stimulated insulin secretion by peripheral GHSR-1a activation [,], meaning that the receptor may play distinct roles in glucose homeostasis depending on the site of action. Furthermore, administration of acyl-ghrelin into the portal, but not the femoral vein inhibited glucose-stimulated insulin secretion. Hepatic vagotomy attenuated this inhibition suggesting indirect central control over insulin secretion via neural signalling [,]. Critically, fasting decreases insulin levels in both wild type and ghrelin knockouts, as well as producing comparable responses to both hypo-caloric and hyper-caloric situations. Hence, compensatory pathways seem to exist for glucose homeostasis, however GHSR-1a knockout leads to reduced glucose levels under calorie- deprivation [,]. Later work from the same group used GHSR-1a-null mice to show reduced adiposity and insulin resistance []. A body of evidence thus exists to support the indirect central control of GHSR-1a signalling over glucose homeostasis. Furthermore, it seems that metabolic status is a key determinant of the regulatory action of central ghrelin on peripheral glucose homeostasis []. A recent review summarized the complex interrelationship that exists between ghrelin, insulin and glucose []. The ability of insulin and glucose levels to appreciably impact on appetite [] means that indiscriminate targeting of the GHSR-1a without due consideration of the effects on peripheral glucose and insulin metabolism may ultimately decrease efficacy of appetite modulation therapy [,].
+Ghrelin and the GHSR-1a has also been the subject of investigation in the modulation of      pain transmission [].   Originally,  ghrelin's role in pain sensitivity was thought to be through      a combination of central and peripheral GHSR-1a signalling [,]. Chronic peripheral ghrelin administration has been shown to attenuate neuropathic pain in rats []. Ghrelin  treatment resulted in elevated levels of anti-inflammatory cytokines in vivo in a rodent model of inflammatory pain []. It has also been shown that central and peripheral ghrelin administration prevents the pain response response caused by intraplantar insult []. Furthermore, mRNA for GHSR-1a is found in pain-processing centres including the sensory motor cortex and the dorsal horn of the spinal cord [,-]. Current opinion seems to agree that ghrelin's analgesic effect is conveyed mainly through central mechanisms, via interactions with the opioid system [,,,]. Therefore, ghrelin and the GHSR-1a may have communicating peripheral and central pathways in the modulation of pain sensitivity.
+Heterogenous Action--GHSR-1a as a Promiscuous Target
+Further to the distribution of GHSR-1a and the consideration of central and peripheral effects, the receptor is known to display heterogenous signalling cascades, downregulation/internalization and heterodimerization--all of which are akin to other GPCR's and constitute important considerations for appetite modulation therapy []. Downstream effects of the GHSR-1a via coupling to different G-proteins have been reviewed in detail elsewhere []. Importantly, it is worth emphasising that the GHSR-1a displays heterogenous functions dependant on the location of the receptor expression in the body. For example, in neurons of the arcuate nucleus, ghrelin acting on the GHSR-1a
+
+
+
+induces orexigenic neuropeptide Y release through N-type voltage-gated Ca2b channels via cyclic adenosine monophosphate (cAMP) increases in the cell []. In pituitary cells responsible for effecting somatotrophin release, GHSR-1a mainly acts via Gaq coupled G-protein to trigger calcium release from intracellular stores []. These signalling pathways are both excitatory--interestingly, in the periphery, ghrelin binding to GHSR-1a in pancreatic b cells leads to an inhibition of cAMP and hyperpolarization of the cell [].
+The GHSR-1a not only exhibits site- and ligand-dependant signalling; it demonstrates an ability to "cross-talk" with other neuroendocrine GPCRs []. The receptor has been shown to pair or dimerize with other receptors, leading to either attenuation or augmentation of signalling. GHSR-1a: melanocortin-3 receptor protomers have been described; melanocortin-3 receptor is an important downstream signalling receptor in the homeostatic control of food intake []. Rediger and colleagues showed that the signalling modalities of one GPCR was dependent on the conformational activity of the other. In essence, ghrelin-induced GHSR-1a activation is attenuated by interaction with the melanocortin-3 receptor []. We previously demonstrated the existence of GHSR-1a: Serotonin 2C dimers in vitro, hypothesizing novel pharmacological targets for drug treatment based on the involvement of serotonin 2C receptor in satiety signalling [,-]. Furthermore, GHSR-1a: Dopamine D2 receptor co-expressed on neurons leads to attenuated dopaminergic response upon administration of a GHSR-1a antagonist in vivo []. Critically, it is the allosteric interaction of the GPCR protomer which results in the observed cross-talk, rather than the net effect of independent neuroendocrine signalling []. More recently, it was shown that hippocampal-dependent synaptic plasticity is modulated by GHSR-1a: Dopamine D1 heterodimerization []. Moreover, an inactiveisoform of GHSR-1a receptor, the GHS-R1b, is worthy of mention here though it is not a major focus of review. GHSR-1b is a truncated, 5-transmembrane receptor []. The GHSR-1b receptor exhibits widespread tissue distribution and exhibits an ability to co-localize with the GHSR-1a receptor causing a subsequent attenuation of activity through an increased internalization of the active receptor. This is potentially significant in the backdrop of ghrelin signalling as the GHSR-1a exhibits high constitutive signalling in the absence of its native ligand [,,].
+As well as heterogenous signalling and neuroendocrine cross-talk, the expression of the GHSR-1a on the cell membrane is critical to it being a successful therapeutic target. However, GPCRs are known to downregulate via receptor internalization or endocytosis causing a subsequent attenuation of effect []. Unsurprisingly, the GHSR-1a receptor has been shown to downregulate in response to various stimuli, including ghrelin- and ghrelin-ligand mediated activation [-]. After binding of ghrelin to GHSR-1a, the complex is internalised in clathrin-coated pits, from which the receptor needs to be recycled back to the surface of the cell []. In vitro growth hormone release is rapidly desensitized after exposure to a ghrelin agonist, MK-0677, and in vivo response in beagles was reduced to 25% after 4 days of daily administration []. In line with this, growth hormone release declines rapidly upon repeated ghrelin administration in humans []. There is a dearth of information in the literature to suggest an ability of ghrelin to sustain elevated food intake in animals or humans upon long-term administration, and it is feasible that downregulation would contribute to a decline in orexigenic effects over time. One study showed no overall effect on food intake in rats after chronic administration of acyl-ghrelin []. A limited number of clinical studies have failed to show an appreciable difference in food intake with chronic administration of ghrelin [] or the synthetic agonist growth hormone releasing peptide-2 []. However, in acute situations consistently pronounced orexigenic effects  are reported in both animals and humans [,,,]. Conversely, GHSR-1a has been shown to upregulate, in the hypothalamus at least, during fasting []. Hence, GHSR-1a expression levels, and subsequent effect of receptor modulation, are heavily dependent on the metabolic state. To further confirm this, it has been noted that leptin-deficient Zucker rats, characterized by profound hyperphagia, display a heightened expression of the GHSR-1a and a corresponding increased sensitivity to ghrelin and ghrelin agonists [].
+
+
+
+In summary, the above described heterogeneity of the GHSR-1a in terms of distribution, downstream signalling, tachyphylaxis and neuroendocrine communication paints a complex picture. This complexity has hindered development of an effective GHSR-1a targeting therapy for appetite modulation. It seems that the effect of GHSR-1a modulation hinges on the metabolic backdrop in which the therapy is delivered, hence the indiscriminate targeting of the GHSR-1a with non-specific systemic delivery of varying ligands may be one of the reasons for a lack of efficacy to date. The widespread nature of the receptor in the body leads to GHSR-1a activation in off-target sites, potentially leading to local effects which can ultimately inhibit the intended benefit.
+Ghrelin and Ghrelin Ligands:  Pharmacokinetic Perspectives
+On the whole, central action seems to be critical for GHSR-1a-mediated appetite modulation and energy balance. Understanding the pathway by which peripheral ghrelin acts centrally, after either endogenous release or exogenous administration, is critical to achieving therapeutic exploitation. As mentioned earlier, the question of whether ghrelin peptide is expressed in the brain is controversial and the subject of debate. Ghrelin immuno-reactive cells have been reported in the hypothalamus in some studies [,], while the existence of ghrelin-producing cells was reported in the arcuate nucleus of the hypothalamus []. Recent evidence seems to refute these claims and now it is thought ghrelin is only present in these areas due to access of circulating ghrelin from the periphery [,,]. The main pathways by which ghrelin is thought to exert its orexigenic effect after it is released from the stomach have been extensively reviewed [].
+Blood Brain Barrier Penetration
+The orexigenic effects of ghrelin have immediate onset, with food intake increasing 10 min after systemic administration [,]. It follows therefore that ghrelin must have ready access into the brain. In fact, ghrelin can directly cross the blood brain barrier (BBB) at areas which are not highly protected, and subsequently convey its effect via neural projections from the site of entry to various feeding centres [,]. This is supported by the suggested "leaky" nature of the BBB surrounding the circumventricular organs of the brain [-]. The fenestrated endothelia surrounding the hypothalamus are supplied by capillaries which confer a rich blood supply, allowing the hypothalamus to sample the contents of the systemic circulation []. This affords many central nervous system (CNS) active peptides, including ghrelin, access to the CNS while still retaining effective and selective barrier function for the brain [,]. Furthermore, the blood--cerebrospinal fluid (CSF) barrier which exists at the choroid plexus also has been shown to allow ghrelin access to the arcuate nucleus. This is composed of a differentiated layer of cells that surround a core of capillaries in some brain ventricles and produce CSF,  and/or the hypothalamic tanycytes,  a specialized layer of bipolar ependymal  cells that line the floor of the third ventricle and bridge the CSF and the capillaries of the median eminence [,]. Other circumventricular organs such as the area postrema, a part of the dorsal vagal complex, affords ghrelin diffusive access to the abundance of GHSR-1a's in the nucleus tractus solitarius and dorsovagal nucleus. The nucleus tractus solitarius (NTS) is a relay hub for appetite regulation with a complex network of efferent and afferent connections. The NTS converts humoral responses into neuronal communication [].
+Vagus Nerve Signalling
+The NTS is also important to the other described route by which peripheral ghrelin accesses central GHSR-1a; remote modulation from the gut signalling through the vagus nerve and the brainstem [,]. Indeed, several gastrointestinal hormones such as cholecystokinin (CCK), peptide YY, and glucagon-like peptide 1 (GLP-1), transmit orexigenic and satiating signals to the brain, at least in part, via vagal afferents [-]. Feeding-related information can travel directly to the dorsal vagal complex and NTS, where signals are converted from humoral to neural format and further relayed to higher brain levels. Indeed, it is known that gut derived peptides such as the satiating
+
+
+
+CCK exert their central action via vagal afferents from the gastrointestinal tract []. Early studies using c-Fos expression as a marker of neuronal activation showed that peripheral administration of  a ghrelin mimetic increased Fos protein in the NTS []. The NTS provides a direct noradrenergic projection to the hypothalamus which is believed to be important for neural regulation of energy balance and food intake []. Date and colleagues demonstrate that peripheral ghrelin signalling reaches the NTS by either blood or neural mechanisms and relays noradrenergic stimuli to the hypothalamus to increase feeding [,,]. Transections above the level of the NTS, or specific ablation of dopamine b-hydroxylase (the noradrenaline synthesizing enzyme), abolished peripheral ghrelin-induced feeding []. Moreover, it has been reported that the orexigenic action of ghrelin is attenuated in humans who underwent gastric surgery involving complete or partial vagotomies []. Vagotomy also abolishes the orexigenic activity of ghrelin in rats []. Another preclinical study however, reports that ghrelin's orexigenic effect remains intact after a subdiaphragmatic vagal deafferentiation. The authors argue that a bilateral vagotomy, as described in Date's work, would indiscriminately remove both afferent and efferent vagal innervation, thereby severing a multitude of other physiological processes, including satiating signals []. It is thus stated that subdiaphragmatic vagal deafferentiation is a more representative model for ablating the vagal afferent connection as it is less invasive to other vagally-mediated physiological parameters such as heart rate and respiration. However, the dose of ghrelin used in this study was substantially higher than that used in the original work by Date therefore results cannot be directly compared. Critically, it points to the fact that vagal signalling is not essential to relay ascending orexigenic messages,  likely due to the fact that the  area postrema can facilitate diffusive access of ghrelin from the bloodstream to the NTS, enabling ascending signalling even without vagal innervation of the NTS. This is supported by the fact that intravenous ghrelin administration stimulates growth hormone secretion in vagotomised patients []. Taken together, all of the above information strongly suggests an interlinked role between blood and neural pathways for conveying ghrelin's signal from the periphery to the CNS.
+
+Ghrelin Human Studies
+Normal serum ghrelin levels vary in man and reach 0.2-0.4 pmol/mL in hunger states [,], with active ghrelin levels peaking at of 0.01-0.035 pmol/mL [-]. Intravenous infusions of 1-40 pmol/kg/min active ghrelin have been used clinically to increase appetite acutely in cachectic states [,,,,]. From a pharmacological perspective doses in this range are supraphysiological and have resulted in several hundred-fold changes in both active and total plasma ghrelin (Table ). Lippl and colleagues administered doses of ghrelin more representative of the levels experienced endogenously, resulting in active ghrelin increasing to 0.057 pmol/mL (2.4-fold increase from baseline) []. This elevation failed to show an orexigenic effect in participants []. Critically, endogenous active ghrelin reaches similar levels after overnight fasting (0.1-0.35 pmol/mL) [,,], predictably stimulating food intake and increasing incentive salience of food [,]. However, higher levels of plasma active ghrelin (>1.6 pmol/mL) have been required to produce an appetite-stimulating effect in clinical studies []. This may be indicative of the fact that many studies administer ghrelin in fasted states, therefore necessitating a higher dose in order to overcome elevated basal ghrelin levels. Indeed, Lippl and colleagues was the only study which administered ghrelin in the fed state to patients, and therefore had low basal levels of ghrelin (Table ). It also may be a reflection that many studies fail to account for desacyl-ghrelin. This was originally thought to be a pharmacologically inactive breakdown product of active ghrelin but recent evidence has shown this is not the case [].
+
+Int. J. Mol. Sci. 2017, 18, 273	11 of 39
+
+
+Table 1. Pharmacokinetic data available from clinical studies involving ghrelin.
+
+
+Status	Dose of Infusion (Duration)	Fed Status	Form Assayed	Mean Serum Ghrelin
+
+Average Fold Increase
+
+Time Post-Dose (min)
+
+
+Reference
+
+Acylated	5 pmol/kg/min (180 min)	Overnight
+
+Total	1.32	Not reported	180 (Tmax)	[]
+
+
+300 pmol/kg (Bolus)
+1500 pmol/kg (Bolus)
+
+
+Overnight fasted
+
+
+Total and active
+
+
+Total: 1.06
+Acylated: 0.447
+Total: 6.598
+Acylated: 3.454
+
+
+4.58
+18.7
+28.6
+145.1
+
+
+15 (Tmax)
+15 (Tmax)
+
+
+
+[]
+
+Acylated	3000 pmol/kg (Bolus)	Overnight
+
+
+Total	44.5	61	1	[]
+
+
+
+
+
+
+
+
+fasted
+
+inactive
+
+Desacylated: 0.350	17
+
+fasted
+
+inactive
+
+Desacylated: 4.955
+
+233
+
+Desacylated
+
+Desacylated:
+
+fasted
+
+inactive
+
+Desacylated: 4.644
+
+272
+
+5 pmol/kg/min (75 min)
+
+fasted
+
+1.598
+
+3.6
+
+45 (Tmax)
+
+7.5 pmol/kg/min (120 min) 15 pmol/kg/min (120 min)
+
+Overnight fasted
+
+0.300
+0.494
+
+2	120 (Tmax)
+3	120 (Tmax)
+
+[]
+
+Acylated	3600 pmol/kg (Subcutaneous)	Overnight
+
+Total and active
+
+Total: 0.988
+Acylated: 0.355
+
+5.15
+10.23
+
+15 (Tmax)
+30 (Tmax)
+
+[]
+
+300 pmol/kg (Subcutaneous)
+Acylated	1500 pmol/kg
+3000 pmol/kg
+
+
+Overnight fasted
+
+~0.350
+~0.900
+~1.400
+
+2
+8	30 (Tmax)	[]
+12
+
+
+Acyl and Desacyl-Ghrelin--Implications for Therapeutic Approaches
+Both acylated and desacyl-ated forms of the hormone ghrelin are detected in the peripheral circulation []. Despite this, many studies assessing ghrelin levels in blood fail to specify the acylation status of the hormone []. In fact, only some preclinical studies have distinguished between the effects of acyl- and desacyl-ghrelin [-]. Furthermore, it is critical for accurate measurement of acyl- ghrelin that blood samples are appropriately stabilized in order to prevent desacyl-ation [,]. The binding of acyl-ghrelin and subsequent activation of GHSR-1a is well established [,]. Similarly, the lack of desacyl-ghrelin binding to GHSR-1a is described []. Desacyl-ghrelin does not compete with acyl-ghrelin for GHSR-1a binding at physiological concentrations [], however, it has been shown to activate the receptor at supraphysiological concentrations [,]. Desacyl-ghrelin is the most abundant form in the circulation and is purported to be the active ligand for additional, as yet unknown, GHSR subtypes [,,].
+Peripheral acyl-ghrelin administration markedly increases circulating GH, prolactin, adrenocorticotrophic hormone, and cortisol levels []. This is accompanied by a decrease in insulin and a concomitant increase in plasma glucose. Interestingly, although desacyl-ghrelin administration had no such effects in isolation,  when administered in combination with acyl-ghrelin it was able    to negate the observed effects on plasma insulin and glucose []. Indeed, it has been suggested that desacyl-ghrelin should be considered as a hormone distinct from acyl-ghrelin given its ability  to elicit effects on certain peripheral actions such as cardiovasculature, cell proliferation and certain aspects of adiposity []. Overnight intravenous desacyl-ghrelin infusion was found to improve glucose metabolism and, conversely to acyl-ghrelin, display a glucose-lowering effect []. Moreover, combined administration of acyl- and desacyl-ghrelin strongly improved insulin sensitivity compared to acyl-ghrelin administration alone []. Therefore, desacyl-ghrelin can be metabolically active in an opposing manner to acyl-ghrelin to improve glycemic control. Furthermore, in vivo work has shown that desacyl-ghrelin alone does not alter food intake, but in keeping with the observed metabolic effects, attenuates acyl-ghrelin -induced food intake and arcuate nucleus neuronal activation [,,]. It has also been suggested that desacyl-ghrelin acts independently of acyl-ghrelin via the hypothalamus to decrease food intake and gastric motility [], and central desacyl-ghrelin administration was reported to increase food intake via activation of orexin neurons in the lateral hypothalamus []. It has been further demonstrated that intracerebroventricular and intravenous injections of desacyl-ghrelin disrupted fasted motor activity in the stomach []. For further information the reader is directed towards a comprehensive review by Soares and colleagues which summarise effects of both isoforms on the various systems and organs [].
+The pharmacokinetic parameters of infused acyl-ghrelin, desacyl-ghrelin, or a combination thereof in healthy subjects have been reported. The plasma half-life of acyl-ghrelin was 9-11 min after an intravenous infusion, whereas the half-life of total ghrelin (acyl-ghrelin + desacyl-ghrelin) was 35 min, indicating that desacyl-ghrelin has a slower clearance than acyl-ghrelin []. Similar estimates of half-lives have been reported elsewhere [,]. It is estimated that the ratio of des-acylated: acylated form of ghrelin in the plasma exceeds 9:1 [-]. However, during an infusion of acyl-ghrelin, the ratio of desacylated:acylated is 2:1. Interestingly, it was also shown  that acyl-ghrelin infusion is responsible for an absolute increase in circulating plasma levels of desacyl-ghrelin []. This indicates that upon entry to the circulation, acyl-ghrelin is de-acylated, hence leading to an increase in desacyl-ghrelin which potentially counters the effects of acyl-ghrelin. Interestingly, in Prader-Willi syndrome, patients with an elevated ratio of acyl- to desacyl-ghrelin show pronounced hyperphagia and weight gain compared to those patients who display a normal acyl:desacyl ratio []. Therefore, acyl-ghrelin and desacyl-ghrelin not only exhibit different clearance rates from the circulation, but acyl-ghrelin is de-acylated in plasma. It is estimated that acyl-ghrelin accounts for only half of the increase in total ghrelin levels after dosing of acyl-ghrelin []. In this respect, active de-acylating enzymes have been identified in the circulation []. The ratio of desacyl-ghrelin:acyl-ghrelin can also change pending the metabolic state ie hunger can increase
+
+circulating acyl-ghrelin [,]. Given the proposed opposing effects of acyl- and desacyl-ghrelin, and the variable information in the literature vis-a-vis pharmacokinetic disposition, due consideration is warranted in the interpretation of trials to date.
+Synthetic Ghrelin Ligands
+It would appear therefore that the short half-life of acyl-ghrelin, the ubiquitous expression of GHSR-1a and the often overlooked presence of a functional antagonist in desacyl-ghrelin, leads to an unpredictable relationship between the pharmacokinetics and pharmacodynamics of ghrelin. Numerous synthetic ghrelin ligands have been developed over the years, all of which are more stable and exhibit a longer duration of action than native acyl-ghrelin [,]. From a pharmacokinetic perspective, increased half-life of synthetic compounds will lead to increased penetration into tissues and activation of the GHSR-1a for prolonged periods due to greater stability. In addition, synthetic derivatives are not converted to desacyl-ghrelin and avoid any potential counter effects. This therefore should lead to more predictable relationships of pharmacokinetics with pharmacodynamic effect.
+Pharmacokinetic data is sparse for synthetic ligands, with many trials solely reporting on pharmacodynamic outcomes (Table ). This is largely due to the focus of the field of research on ghrelin shifting over time. The first clinical studies mainly focus on ghrelin and ghrelin ligands as growth hormone (GH) secretagogues, thus solely measuring GH response and failing to measure serum ghrelin [,]. Indeed, it must be borne in mind that ghrelin had yet to be discovered for certain studies [-]. Originally, compounds such as Growth Hormone Releasing Peptide 6 (GHRP-6) and GHRP-2 were developed as somatotrophin secretagogues with the aim of treating GH deficiency syndromes such as pituitary dwarfism [,,-]. At the time of ghrelin's discovery, focus shifted towards the possibility of exploiting these compounds for disorders of appetite [,,,]. With the increased appreciation of the role of ghrelin, research shifted to investigate its effects on the mesolimbic reward circuitry [,-]. More recently, ghrelin agonists have been explored as gastrointestinal prokinetics to treat idiopathic and diabetic gastroparesis, as well as post-operative ileus [,,]. Preclinical studies are thus difficult to directly compare due to variable approaches to dosing and vastly different experimental setups and outcome.
+Nevertheless, the physiological mechanisms of appetite stimulation, body weight and other parameters for synthetic ligands (Table ) are mediated through interaction with the GHSR-1a, and thus are broadly similar to ghrelin itself. Unfortunately, given the sparsity of comprehensive pharmacokinetic studies, many of parameters in Table were taken from preclinical study data. No GHSR-1a antagonists or inverse agonists have been used clinically and there is a paucity of pharmacokinetic data available, hence they were not included in the scope for Table , however the reader is directed to a recent review for further information on these compounds []. Additionally, it is unwise to utilise pharmacodynamic outcomes as a surrogate measurement to compare ligand efficacy, due to heterogenous receptor-ligand interaction as discussed above []. For example, GH output is poorly correlated with orexigenic effect or body weight gain in vivo--stimulation of GH without affecting food intake has been demonstrated []. The agonist ulimorelin fails to elicit any GH release after both central and peripheral administration []. Anamorelin displays three times the potency of endogenous ghrelin in activating the ghrelin receptor in vitro []. However, it is noted this greater potency does not translate to greater in vivo levels of GH response []. Even minimal structural modifications of GH releasing peptide analogs affect the behavioural (food intake) but not GH-releasing properties of the analog []. Paradoxically, there have even been a number of reported GHSR-1a antagonists which display orexigenic effects. Although the antagonist BIM-28163 blocks ghrelin-induced GHSR-1a activation, and prevents GH secretion in vivo as a result, the compound elicits increases in food intake and body weight. However, this is thought to be potentially due to action at a receptor other than the GHSR-1a [,]. Furthermore, GSK1614343 also increased food intake and body weight in vivo, but knockout of the GHSR-1a abolished this effect, confirming that the antagonist was working via this receptor []. Antagonists with agonistic properties in vivo may be
+
+explained by biased agonism []. Vodnik and colleagues review several ligands which display biased agonism []. Individual drug-receptor interactions therefore determine distinct pharmacodynamic outcomes [,]. Different ligands can activate signalling cascades which may be more desirable and have the potential to be exploited for the development of more selective therapeutics [].  This has led to examination of ligands, including inverse agonists, with selective effects for certain outputs. For example agonists for treating osteoporosis through GH secretion may have the adverse effect of increasing body weight []. Antagonists for GHSR-1a may be developed with the ability to decrease centrally-mediated food intake and adiposity, without inhibiting GH secretion. The potential of utilising biased agonism to achieve improved therapeutic efficacy warrants further investigation.
+
+Table 2. Ghrelin agonists used clinically. The half-life, oral bioavailability and centrally-mediated effects have been summarised. To date, no GHSR-1a antagonists have reached clinical trials.
+
+
+Class of Compound
+
+Oral Bioavailability (Species)
+
+Centrally Regulated Parameters Reported
+
+
+Growth Hormone Releasing Peptide 6 (GHRP-6)
+
+
+Synthetic peptide
+
+
+0.3% (Human)
+[]
+
+Food intake [],
+Body weight [],
+Gastric emptying [],
+Growth hormone []
+
+Hexarelin	Synthetic
+
+<0.3% (Human) [	1.15 h []	Food intake [],
+
+
+Pralmorelin (GHRP-2)	Synthetic
+
+
+Not reported, but has been dosed orally []
+
+
+0.52 h []
+
+
+Food intake [],
+Growth hormone []
+
+Alexamorelin	Synthetic
+
+
+Not reported	Not reported	Growth hormone []
+
+
+Ipamorelin	Synthetic
+
+
+1%-6% (Rat, Dog)
+[]
+
+
+Growth hormone [],
+2 h []	Body weight [],
+Gastointestinal motility []
+
+Capromorelin	Small
+
+Relamorelin	Synthetic
+
+Growth hormone [],
+65% [] (Rat) []	2.4 h []	Body weight [],
+Gastric emptying []
+Growth hormone [],
+Not reported	19.4 h []	Food intake, Body weight [-],
+Gastric emptying []
+
+Macimorelin	Small
+
+Tabimorelin	Synthetic
+
+Anamorelin	Small
+
+Not reported, but has been dosed orally []
+30%-35% (Rat)
+[]
+Not reported, but has
+
+3.8 h []		Growth hormone [] Growth hormone [-]
+Body weight []
+
+Growth hormone [],
+
+molecule
+
+been dosed orally [-]
+
+7 h []
+
+Food intake [-]
+
+Ibutamoren (MK-0677)	Small
+
+
+>60% (Dog)
+[]
+
+Growth hormone [],
+6 h []		Body weight [], Fat free mass []
+
+Ulimorelin	Synthetic
+
+Growth hormone (no effect), Food 24% (Rat) []	1.6 h [-]	intake, Gastrointestinal motility
+[-]
+
+Enhancing efficacy through BBB penetration.
+
+BBB penetration per se does not seem to be a key criterion for effecting changes to the centrally- mediated processes of appetite stimulation, growth hormone output or adipogenesis. This is probably due to a hijacking of the endogenous mechanisms of transport for ghrelin across the      BBB and is in line with the literature on mechanism of CNS access of ghrelin discussed in the earlier parts of this review [,]. Despite its non-centrally penetrant action, anamorelin is in phase 3 trials for the treatment of cancer-anorexia-cachexia syndrome [,]. The compound elicits an orexigenic effect pointing to a central mechanism much in line with ghrelin's homeostatic action, with a lack of traditional CNS penetration. This is also the case for other non-centrally penetrant compounds [,]. Given the expression of the GHSR-1a in less accessible brain areas,
+
+particularly in relation to incentive salience, there is an impetus to investigate BBB penetrability of ghrelin ligands further.
+Preclinical work has already shown the potential benefits of BBB penetrant ghrelin agonists in other therapeutic areas. Activation of GHSR-1a in the spinal cord activates colonic motility. In the rat, severing the spinal cord at a thoracic level prevented defecation induced by the centrally penetrant agonist CP464709 []. Critically, this stimulation of colorectal activity was evident after peripheral administration of the ghrelin agonist, indicating a direct action on GHSR-1a in lumbosacral defecation centres. Furthermore, the lack of effect of peripheral ghrelin on the colon in vivo demonstrates the importance of BBB penetration []. GSK 894281 is an orally bioavailable BBB-penetrant ghrelin agonist which causes a prompt and dose-related output of faecal pellets after administration []. HM01 is another such agonist in preclinical trials as a colokinetic; again, its prokinetic action is attributed to its ability to cross the BBB and act on GHSR-1a's present in the nerves of the lumbar section of the spinal cord [-].
+Centrally penetrant GHSR-1a antagonists reduced body weight in diet-induced obese (DIO) mice when administered for 10 days, while also improving glucose tolerance [,]. Conversely, a non CNS-penetrating antagonist demonstrated comparatively mild effects on body weight, while retaining an effect on the peripherally regulated glucose tolerance. It has been postulated that the efficacy of these compounds on food intake and body weight appears to be correlated with their ability to antagonize central vs. peripheral GHSR-1a's in different animal models []; YIL 870 and YIL 781 are quinazolinone-derived GHSR-1a antagonists which differ mainly in their ability to traverse the BBB. YIL 870 produces greater anorexigenic and weight reducing effects in diet-induced obese mice vs. the non-penetrant YIL 781, while both yielded a comparative improvement in glucose tolerance which has a peripheral element to its regulation []. Robust evidence thus shows that for antagonists to be effective in regulating body weight they need to cross the BBB. Pharmacological evaluation in obesity-induced rats revealed that a BBB penetrant inverse agonist for the GHSR-1a effectively reduced weight gain []. Ad libitum food intake was also reduced in mice treated with a BBB-penetrant inverse agonist (AZ-GHS-38) while a lack of efficacy was obtained in mice treated with a non- BBB-penetrant inverse agonist []. Therefore, a crucial determinant of the anti-obesogenic potential of GHSR-1a inverse agonists and antagonists is their ability to traverse the BBB.
+The effect of ghrelin antagonists on the mesolimbic dopaminergic pathway has been investigated in the context of addictive-like behaviour. JMV 2959 is a centrally active GHSR-1a antagonist found to effectively reduce rewarding properties of addictive substances [-]. Systemic administration of JMV attenuated ghrelin-induced motivation to work for sugar pellet reward [] in an operant conditioning paradigm. It was found that cocaine and amphetamine-induced place preference and extracellular accumbal dopamine were attenuated by administration of JMV 2959. This demonstrates a role for the GHSR-1a in the pathogenesis of addiction, while also suggesting the importance of ligand access to less accessible brain areas. These findings also generalise to opioid-induced dopamine release [,]. Notably, Jerlhag and colleagues have also concluded that BBB penetrant GHSR-1a antagonists may have potential in alcohol use disorders [].
+Hunger Is the Best Sauce--Targeting the Mesolimbic Reward Circuitry
+The old adage that "hunger is the best sauce" may provide a potential novel approach for appetite modulation therapies--food becomes more appealing the hungrier we are []. This is an evolutionally-procured mechanism for survival in order to promote food intake beyond the immediate metabolic demand, to compensate for times of food scarcity []. The unravelling role of ghrelin and the expression of GHSR-1a in a number of brain areas associated with reward, meant that it became implicated in food-reward directed behaviour [,,]. Consequently, the GHSR-1a may be a driver in the decision to eat palatable, calorie-dense foods, often beyond metabolic need. The role which ghrelin is purported to play at the interface between homeostatic and hedonic food intake regulation has been reviewed [,,]. We have previously summarised recent experiments
+
+examining ghrelin's effect on rewarding food intake and preference []. It is now generally accepted that food intake is the result of an integrated multi-process neuro-circuit, involving the cortex and critically, the mesolimbic dopaminergic system--therefore, targeting GHSR-1a in the midbrain reward system, with BBB-penetrant ligands, may hold novel therapeutic potential.
+One of the key areas expressing the GHSR-1a in this  respect  is  the  ventral  tegmental  are  (VTA). The importance of dopaminergic VTA outputs in feeding has been well established [-]. Central ghrelin administration recruits dopaminergic neurons in the VTA and  results  in  an  elevated dopaminergic tone in the nucleus accumbens (NAcc) of mice, while more targeted intra-VTA administration robustly increases the intake of both standard chow [,] and palatable food [,]. Incidentally, ghrelin administration into the medial prefrontal cortex also induces palatable-reward seeking behaviour in rats []. Microdialysis and electrophysiological studies in rodents have shown that peripheral ghrelin enhances dopaminergic neuronal firing, synapse formation and dopamine turnover in the NAcc. In animals, peripheral ghrelin treatment has increased locomotor activity and motivation to work for food, while also shifting food preference towards calorie dense and palatable foods [,,,,,]. Kawahara and colleagues showed that hunger in the absence of food creates an aversive neurocircuit in the reward pathway--dopamine outflow in the NAcc shell increased when food was present after injection, however decreased when no food was present []. Intraperitoneal administration of ghrelin decreases the firing of dopaminergic neurons in the VTA   in food-deprived Wistar rats []. Therefore, peripheral ghrelin induced bimodal effects on the mesolimbic dopamine system depending on the food-consumptive status []. For further detailed discussion of the preclinical studies in this area the reader is guided towards recent reviews [,].
+There is thus ample evidence to suggest that peripheral ghrelin is able to exert an effect on    less accessible brain regions associated with reward and motivation, such as the VTA (Figure ).  The mechanism by which peripheral ghrelin achieves access to other subcortical brain areas which are spatially separated from the circumventricular organs has been debated. It is now widely believed that ghrelin itself is not synthesized in the brain [,,]. Jerlhag and colleagues  have shown that ghrelin is able to access the VTA [], while ghrelin has also been demonstrated  to access the hippocampus []. Since these however, tracer studies using radio-labelled ghrelin have only been able to show that peripheral ghrelin reaches the arcuate nucleus at the level of the median eminence [], and to a lesser extent the area postrema []. An evolutionally developed pathway has been argued to allow for selective transport of ghrelin across the BBB [,]. In vitro, human ghrelin exhibits saturable transport mechanics in the blood-to-brain as well as brain-to-blood directions in a rat cerebral microvessel endothelial model []. An in vivo mouse model reported findings consistent with this []. Indeed, many other endogenous substrates have inherited carrier mediated transport systems, such as glucose and insulin [,]. Furthermore,  there is evidence to show that access of ghrelin to the brain via diffusion can increase or decrease depending on the physiological/metabolic backdrop or state of hunger []. Thus serum factors and physiological state are important determinants in the extent of the saturable ghrelin transport []. Therefore, it seems that central access of ghrelin may increase in calorie-deprived states.
+The most likely mechanism of action of ghrelin in less accessible brain areas however, is through activation of neuronal populations via the permeable zones of the arcuate nucleus and the area postrema. From here, ghrelin acts to stimulate neuronal projections to other appetite centers not adjacent to the median eminence, such as the lateral hypothalamus [,]. The lateral hypothalamus (LH) is a key relay station for neuronal input to the VTA [], and electrical stimulation of the LH induces voracious feeding even in well-fed animals []. It receives multiple excitatory and inhibitory inputs from both cortical and subcortical structures, however of particular note is input from the adjacent arcuate nucleus []. Differentially stimulating the neurons projecting from the arcuate nucleus to the LH proves that homeostatic energy demands are met by arcuate nucleus, but the LH is responsible for driving reward-motivated feeding []. VTA dopaminergic neurons are modulated by the selectively expressed orexin neuropeptides in the LH []. Thus, the LH and orexins play
+
+an important role in food and drug reward behaviours [,]. Importantly, elevated peripheral ghrelin levels are known to communicate with the VTA to increase the rewarding value of food in an orexin-dependent manner [,]. Therefore, in periods of hunger ghrelin is able to access the arcuate nucleus to stimulate homeostatic feeding, while the LH is concomitantly activated, aided by its close proximity and connections with the arcuate nucleus. The associated hedonic output is distinct from, yet intertwined with homeostatic feeding due to its arcuate nucleus-dependant stimulation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Direct and indirect access of ghrelin to the mesolimbic circuitry; the routes by which ghrelin and ghrelin ligands can traverse the blood-brain barrier (BBB). Direct activation of the mesolimbic circuitry can be attained by a centrally penetrant ghrelin agonist or by ghrelin which freely diffuses across the BBB. Indirect activation of mesolimbic circuitry is attained via the homeostatic mechanism through the "leaky" BBB capillaries at the median eminence and the area postrema. Ghrelin signalling initiating in the arcuate nucleus increases the rewarding value of food via orexin projections (red arrow) to the ventral tegmental area (VTA) from the lateral hypothalamus (LH). The nucleus tractus solitarius (NTS) displays connections with the hypothalamus, as well as the parabrachial nucleus (PBN), the laterodorsal tegmental area (LDTg) and pedunculopontine tegmental area (PPTtg), all of which have confirmed roles in either reward signalling (LDTg and PPTtg, blue arrow) or gustatory processes (PBN). Central penetration of ghrelin compounds may act directly on GHSR-1a expressed in these regions to modulate incentive salience of food (purple arrow).
+
+Another brain area of note for appetite regulation is the parabrachial nucleus, which is located in the hindbrain near the NTS [-]. Like the arcuate nucleus, the NTS is spatially located near a permeable or "leaky" area of the BBB and sends glutamatergic signals to the parabrachial nucleus (PBN). Recent work has confirmed this region also receives GABAergic input from hypothalamic agouti-related peptide neurons []. The PBN is an important site for processing of gustatory sensory information, with lesions of this area leading to disruption of hedonic feeding and taste-reactivity
+
+patterns [,-]. The PBN projects to several areas, notably the lateral hypothalamus and paraventricular hypothalamus, and ventral tegmental area [-]. Afferent signals to the paraventricular nucleus of the hypothalamus exist which may be involved in tuning the behavioural response to rewarding food []. Interestingly, the parabrachial nucleus itself expresses GHSR-1a and unsurprisingly this hedonic "hotspot" is therefore responsive to ghrelin treatment []. Consequently, it is postulated that in periods of hunger plasma ghrelin conveys NTS-dependent signalling to the PBN to exert an effect on feeding and reward behaviour [,].
+Other areas such as the laterodorsal tegmental area and pedunculopontine tegmental neurons express GHSR-1a and elicit excitatory input to the VTA [,]. The pedunculopontine nucleus is implicated in the motivational effects of drugs and food []. Interestingly, in vitro work has demonstrated an excitatory effect of ghrelin on pedunculopontine neurons, suggesting a role in food reward [,]. The laterodorsal tegmental area increases dopamine output in the nucleus accumbens via the VTA, thereby confirming a GHSR-1a dependant role in reward [,].
+Homeostatic "Gating" of the Reward System
+Two decades of research on the effects of exogenous ghrelin has clearly demonstrated the function of GHSR-1a mediated signalling at the level of both homeostatic and non-homeostatic food intake.  For homeostatic food intake it is clear that ghrelin has ready access to sites involved   in feeding initiation through permeable brain capillaries and tanycytes [], as well as vagal nerve communication [,,,]. Hedonic and motivational aspects of food intake have also been investigated mechanistically through site-specific administration [,,]. The ability of ghrelin to communicate to less accessible GHSR-1a expressing brain areas such as the VTA, lateral hypothalamus and parabrachial nucleus suggests an indirect neural mechanism []. This is indicative of modulation or "gating" of the motivated response for food by systemic signals of energy homeostasis [].
+The midbrain reward system is thus heavily dependent on homeostatic appetite regulation in the arcuate nucleus and NTS, which constitute key "gatekeeping" structures to check the reward system under normal circumstances []. Perello and colleagues confirmed that neural connections between the arcuate nucleus and the VTA were responsible for peripheral ghrelin's rewarding effect []. As we have seen however, preclinical and clinical studies have tended to use supra-physiological doses of ghrelin which may artificially increase delivery across the BBB by saturable transport processes [] and diffusion from the circumventricular organs []. Elevated endogenous levels of ghrelin are able to elicit the same effects on hedonic aspects of food intake as high exogenous doses. This is due to the synergism of many systemic signals in energy-deprived states. The administration of high doses of a pleiotropic hormone may thus be leading to confounding compensatory mechanisms, particularly in relation to glucose homeostasis [,,]. Directly targeting the GHSR-1a expressed in the reward circuitry through enhanced BBB penetration may hold therapeutic potential. One could hypothesise that a centrally-penetrant ghrelin agonist may affect mesolimbic dopamine levels and incentive valuation of food more directly than non-penetrating ghrelin agonists, or even ghrelin itself, through direct action on the GHSR-1a expressed on the lateral hypothalamus, parabrachial nuclei and the VTA. To the best of our knowledge this question has yet to be addressed experimentally.
+Conclusions and Future Directions
+Food intake and incentive valuation of food are centrally-mediated processes. Ghrelin or ghrelin ligands can access the brain from the periphery by circumventing the BBB at permeable locations adjacent to homeostatic appetite centres, and indirectly influence reward centres through neural connections stemming from these areas [,]. The importance of GHSR-1a signalling in the mesolimbic dopaminergic pathway as a barometer for the incentive salience of food has been well described. However, the action of GHSR-1a signalling on reward areas is closely intertwined with homeostasis, and is regulated in this respect [,]. The peripheral metabolic confounders in systemic ghrelin therapy, particularly relating to glucose homeostasis, may be contributing to the lack
+
+of successful preclinical moieties translating to clinical practice []. BBB-penetrant ghrelin agonists should bypass the homeostatic "gating" at the level of the arcuate nucleus and NTS. This means that they would act directly on GHSR-1a in less accessible brain areas associated with motivation and incentive valuation of food, such as the LH and VTA. Since the decision to eat is consciously made based on perceived palatability, centrally penetrating ghrelin agonists or indeed antagonists, could prove successful in manipulating top-down regulation of food intake.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+Abbreviations
+GHSR-1a	Growth Hormone Secretagogue Receptor-Type 1a BBB	Blood Brain Barrier
+GPCR	G-Protein Coupled Receptor CNS	Central Nervous System
+CSF	Cerebrospinal Fluid
+NTS	Nucleus Tractus Solitarius
+CCK	Cholecystokinin
+GH	Growth Hormone
+GHRP	Growth Hormone Releasing Peptide DIO	Diet Induced Obesity
+VTA	Ventral Tegmental Area
+NAcc	Nucleus Accumbens
+LH	Lateral Hypothalamus
+PBN	Parabrachial Nucleus
+
+References
+Schwartz, M.W.; Woods, S.C.; Porte, D.; Seeley, R.J.; Baskin, D.G. Central nervous system control of food intake. Nature 2000, 404, 661-671. []
+Kojima, M.; Hosoda, H.; Date, Y.; Nakazato, M.; Matsuo, H.; Kangawa, K. Ghrelin is a growth-hormone- releasing acylated peptide from stomach. Nature 1999, 402, 656-660. [] []
+Cummings, D.E.; Purnell, J.Q.; Frayo, R.S.; Schmidova, K.; Wisse, B.E.; Weigle, D.S. A preprandial rise in plasma ghrelin levels suggests a role in meal initiation in humans. Diabetes 2001, 50, 1714-1719. [] []
+McFarlane, M.R.; Brown, M.S.; Goldstein, J.L.; Zhao, T.J. Induced ablation of ghrelin cells in adult mice does not decrease food intake, body weight, or response to high-fat diet. Cell Metab. 2014, 20, 54-60. [] []
+Nakazato, M.; Murakami, N.; Date, Y.; Kojima, M.; Matsuo, H.; Kangawa, K.; Matsukura, S. A role for ghrelin in the central regulation of feeding. Nature 2001, 409, 194-198. [] []
+Mason, B.L.; Wang, Q.; Zigman, J.M. The central nervous system sites mediating the orexigenic actions of ghrelin. Annu. Rev. Physiol. 2014, 76, 519-533. [] []
+Muller, T.D.; Nogueiras, R.; Andermann, M.L.; Andrews, Z.B.; Anker, S.D.; Argente, J.; Batterham, R.L.; Benoit, S.C.; Bowers, C.Y.; Broglio, F.; et al. Ghrelin. Mol. Metab. 2015, 4, 437-460. [] []
+Seim, I.; Collet, C.; Herington, A.C.; Chopin, L.K. Revised genomic structure of the human ghrelin gene and identification of novel exons, alternative splice variants and natural antisense transcripts. BMC Genom. 2007, 8, 298. [] []
+Asakawa, A.; Inui, A.; Fujimiya, M.; Sakamaki, R.; Shinfuku, N.; Ueta, Y.; Meguid, M.M.; Kasuga, M. Stomach regulates energy balance via acylated ghrelin and desacyl ghrelin. Gut 2005, 54, 18-24. [] []
+Tschop, M.; Smiley, D.L.; Heiman, M.L. Ghrelin induces adiposity in rodents. Nature 2000, 407, 908-913. [] []
+Yang, J.; Brown, M.S.; Liang, G.; Grishin, N.V.; Goldstein, J.L. Identification of the acyltransferase that octanoylates ghrelin, an appetite-stimulating peptide hormone. Cell 2008, 132, 387-396. [] []
+
+Zigman, J.M.; Jones, J.E.; Lee, C.E.; Saper, C.B.; Elmquist, J.K. Expression of ghrelin receptor mRNA in the rat and the mouse brain. J. Comp. Neurol. 2006, 494, 528-548. [] []
+Gnanapavan, S.; Kola, B.; Bustin, S.A.; Morris, D.G.; McGee, P.; Fairclough, P.; Bhattacharya, S.; Carpenter, R.; Grossman, A.B.; Korbonits, M. The tissue distribution of the mRNA of ghrelin and subtypes of its receptor, GHS-R, in humans. J. Clin. Endocrinol. Metab. 2002, 87, 2988-2991. [] []
+Cowley, M.A.; Smith, R.G.; Diano, S.; Tschop, M.; Pronchuk, N.; Grove, K.L.; Strasburger, C.J.; Bidlingmaier, M.; Esterman, M.; Heiman, M.L.; et al. The distribution and mechanism of action of ghrelin in the CNS demonstrates a novel hypothalamic circuit regulating energy homeostasis. Neuron 2003, 37, 649-661. []
+Takaya, K.; Ariyasu, H.; Kanamoto, N.; Iwakura, H.; Yoshimoto, A.; Harada, M.; Mori, K.; Komatsu, Y.; Usui, T.; Shimatsu, A.; et al. Ghrelin strongly stimulates growth hormone release in humans. J. Clin. Endocrinol. Metab. 2000, 85, 4908-4911. [] []
+Goldstein, J.L.; Zhao, T.-J.; Li, R.; Sherbet, D.; Liang, G.; Brown, M. Surviving starvation: Essential role of the ghrelin-growth hormone axis. Cold Spring Harb. Symp. Quant. Biol. 2011, 76, 121-127. [] []
+Abizaid, A.; Liu, Z.W.; Andrews, Z.B.; Shanabrough, M.; Borok, E.; Elsworth, J.D.; Roth, R.H.; Sleeman, M.W.; Picciotto, M.R.; Tschop, M.H.; et al. Ghrelin modulates the activity and synaptic input organization of midbrain dopamine neurons while promoting appetite. J. Clin. Investig. 2006, 116, 3229-3239. [] []
+Chuang, J.-C.; Perello, M.; Sakata, I.; Osborne-Lawrence, S.; Savitt, J.M.; Lutter, M.; Zigman, J.M. Ghrelin mediates stress-induced food-reward behavior in mice. J. Clin. Investig. 2011, 121, 2684-2692. [] []
+Carlini, V.P.; Monzon, M.E.; Varas, M.M.; Cragnolini, A.B.; Schioth, H.B.; Scimonelli, T.N.; de Barioglio, S.R. Ghrelin increases anxiety-like behavior and memory retention in rats. Biochem. Biophys. Res. Commun. 2002, 299, 739-743. []
+Dixit, V.D.; Schaffer, E.M.; Pyle, R.S.; Collins, G.D.; Sakthivel, S.K.; Palaniappan, R.; Lillard, J.W., Jr.; Taub, D.D. Ghrelin inhibits leptin- and activation-induced proinflammatory cytokine expression by human monocytes  and t cells. J. Clin. Investig. 2004, 114, 57-66. [] []
+Sato, T.; Fukue, Y.; Teranishi, H.; Yoshida, Y.; Kojima, M. Molecular forms of hypothalamic ghrelin and its regulation by fasting and 2-deoxy-d-glucose administration. Endocrinology 2005, 146, 2510-2516. [] []
+Chen, J.; Liu, X.; Shu, Q.; Li, S.; Luo, F. Ghrelin attenuates lipopolysaccharide-induced acute lung injury through NO pathway. Med. Sci. Monit. Int. Med. J. Exp. Clin. Res. 2008, 14, Br141-Br146.
+Li, G.; Li, J.; Zhou, Q.; Song, X.; Liang, H.; Huang, L. Growth hormone releasing peptide-2,  a ghrelin agonist, attenuates lipopolysaccharide-induced acute lung injury in rats. Tohoku J. Exp. Med. 2010, 222, 7-13. [] []
+Baldanzi, G.; Filigheddu, N.; Cutrupi, S.; Catapano, F.; Bonissoni, S.; Fubini, A.; Malan, D.; Baj, G.; Granata, R.; Broglio, F.; et al. Ghrelin and des-acyl ghrelin inhibit cell death in cardiomyocytes and endothelial cells through ERK1/2 and PI 3-kinase/AKT. J. Cell Biol. 2002, 159, 1029-1037. [] []
+Muccioli, G.; Lorenzi, T.; Lorenzi, M.; Ghe, C.; Arnoletti, E.; Raso, G.M.; Castellucci, M.; Gualillo, O.; Meli, R. Beyond the metabolic role of ghrelin: A new player in the regulation of reproductive function. Peptides 2011, 32, 2514-2521. [] []
+Schellekens, H.; Dinan, T.G.; Cryan, J.F. Chapter thirteen--Ghrelin at the interface of obesity and reward.
+Vitam. Horm. 2013, 91, 285-323. []
+Jerlhag, E.; Egecioglu, E.; Dickson, S.L.; Andersson, M.; Svensson, L.; Engel, J.A. Ghrelin stimulates locomotor activity and accumbal dopamine-overflow via central cholinergic systems in mice: Implications for its involvement in brain reward. Addict. Biol. 2006, 11, 45-54. [] []
+Egecioglu, E.; Skibicka, K.P.; Hansson, C.; Alvarez-Crespo, M.; Friberg, P.A.; Jerlhag, E.; Engel, J.A.; Dickson, S.L. Hedonic and incentive signals for body weight control. Rev. Endocr. Metab. Disord. 2011, 12, 141-151. [] []
+Dickson, S.L.; Egecioglu, E.; Landgren, S.; Skibicka, K.P.; Engel, J.A.; Jerlhag, E. The role of the central ghrelin system in reward from food and chemical drugs. Mol. Cell. Endocrinol. 2011, 340, 80-87. [] []
+Berthoud, H.R. Homeostatic and non-homeostatic pathways involved in the control of food intake and energy balance. Obesity 2006, 14, 197S-200S. [] []
+
+Cummings, D.E. Ghrelin and the short- and long-term regulation of appetite and body weight. Physiol. Behav.
+2006, 89, 71-84. [] []
+Argiles, J.M.; Lopez-Soriano, F.J.; Busquets, S. Novel approaches to the treatment of cachexia. Drug Discov. Today 2008, 13, 73-78. [] []
+De Vriese, C.; Perret, J.; Delporte, C. Focus on the short- and long-term effects of ghrelin on energy homeostasis. Nutrition 2010, 26, 579-584. [] []
+Malafarina, V.; Uriz-Otano, F.; Gil-Guerrero, L.; Iniesta, R. The anorexia of ageing: Physiopathology, prevalence, associated comorbidity and mortality. A systematic review. Maturitas 2013, 74, 293-302. [] []
+Chapman, I.M. Endocrinology of anorexia of ageing. Best Pract. Res. Clin. Endocrinol. Metab. 2004, 18, 437-452. [] []
+World Health Organization (WHO). World Health Organisation Global Health and Ageing; World Health Organization: Geneva, Switzerland, 2011.
+DeBoer, M.D. Emergence of ghrelin as a treatment for cachexia syndromes. Nutrition 2008, 24, 806-814. [] []
+DeBoer, M.D. Ghrelin and cachexia: Will treatment with GHSR-1a agonists make a difference for patients suffering from chronic wasting syndromes? Mol. Cell. Endocrinol. 2011, 340, 97-105. [] []
+Nass, R.; Gaylinn, B.D.; Thorner, M.O. The ghrelin axis in disease: Potential therapeutic indications. Mol. Cell. Endocrinol. 2011, 340, 106-110. [] []
+Hickson, M. Malnutrition and ageing. Postgrad. Med. J. 2006, 82, 2-8. [] []
+Wren, A.M.; Small, C.J.; Abbott, C.R.; Dhillo, W.S.; Seal, L.J.; Cohen, M.A.; Batterham, R.L.; Taheri, S.; Stanley, S.A.; Ghatei, M.A.; et al. Ghrelin causes hyperphagia and obesity in rats. Diabetes 2001, 50, 2540-2547. [] []
+Horvath, T.L.; Castaneda, T.; Tang-Christensen, M.; Pagotto, U.; Tschop, M.H. Ghrelin as a potential anti-obesity target. Curr. Pharm. Des. 2003, 9, 1383-1395. [] []
+World Health Organisation (WHO). 2016. Available online: (accessed on 15 June 2016).
+Isomaa, B.; Almgren, P.; Tuomi, T.; Forsen, B.; Lahti, K.; Nissen, M.; Taskinen, M.R.; Groop, L. Cardiovascular morbidity and mortality associated with the metabolic syndrome. Diabetes Care 2001, 24, 683-689. [] []
+Martin, K.A.; Mani, M.V.; Mani, A. New targets to treat obesity and the metabolic syndrome. Eur. J. Pharmacol.
+2015, 763, 64-74. [] []
+Kenny, P.J. Reward mechanisms in obesity: New insights and future directions. Neuron 2011, 69, 664-679. [] []
+Volkow, N.D.; Wang, G.J.; Fowler, J.S.; Tomasi, D.; Baler, R. Food and drug reward: Overlapping circuits in human obesity and addiction. Curr. Top. Behav. Neurosci. 2012, 11, 1-24. []
+Spanagel, R.; Weiss, F. The dopamine hypothesis of reward: Past and current status. Trends Neurosci. 1999,
+22, 521-527. []
+Pierce, R.C.; Kumaresan, V. The mesolimbic dopamine system: The final common pathway for the reinforcing effect of drugs of abuse? Neurosci. Biobehav. Rev. 2006, 30, 215-238. [] []
+Stoeckel, L.E.; Weller, R.E.; Cook, E.W., 3rd; Twieg, D.B.; Knowlton, R.C.; Cox, J.E. Widespread reward-system activation in obese women in response to pictures of high-calorie foods. NeuroImage 2008, 41, 636-647. [] []
+Stice, E.; Yokum, S.; Blum, K.; Bohon, C. Weight gain is associated with reduced striatal response to palatable food. J. Neurosci. 2010, 30, 13105-13109. [] []
+Konturek, S.J.; Konturek, J.W.; Pawlik, T.; Brzozowski, T. Brain-gut axis and its role in the control of food intake. J. Physiol. Pharmacol. 2004, 55, 137-154. []
+Avena, N.M.; Rada, P.; Hoebel, B.G. Evidence for sugar addiction: Behavioral and neurochemical effects of intermittent, excessive sugar intake. Neurosci. Biobehav. Rev. 2008, 32, 20-39. [] []
+Tanda, G.; di Chiara, G. A dopamine-u1 opioid link in the rat ventral tegmentum shared by palatable  food (fonzies) and non-psychostimulant drugs of abuse. Eur. J. Neurosci. 1998, 10, 1179-1187. [] []
+
+Volkow, N.D.; Wang, G.J.; Tomasi, D.; Baler, R.D. The addictive dimensionality of obesity. Biol. Psychiatry
+2013, 73, 811-818. [] []
+Hebebrand, J.; Albayrak, O.; Adan, R.; Antel, J.; Dieguez, C.; de Jong, J.; Leng, G.; Menzies, J.; Mercer, J.G.; Murphy, M.; et al. "Eating addiction", rather than "food addiction", better captures addictive-like eating behavior. Neurosci. Biobehav. Rev. 2014, 47, 295-306. [] []
+Perello, M.; Dickson, S.L. Ghrelin signalling on food reward: A salient link between the gut and the mesolimbic system. J. Neuroendocrinol. 2015, 27, 424-434. [] []
+Druce, M.R.; Wren, A.M.; Park, A.J.; Milton, J.E.; Patterson, M.; Frost, G.; Ghatei, M.A.; Small, C.; Bloom, S.R. Ghrelin increases food intake in obese as well as lean subjects. Int. J. Obes. 2005, 29, 1130-1136. [] []
+Kawahara, Y.; Kaneko, F.; Yamada, M.; Kishikawa, Y.; Kawahara, H.; Nishi, A. Food reward-sensitive interaction of ghrelin and opioid receptor pathways in mesolimbic dopamine system. Neuropharmacology 2013, 67, 395-402. [] []
+Goldstone, A.P.; Prechtl, C.G.; Scholtz, S.; Miras, A.D.; Chhina, N.; Durighel, G.; Deliran, S.S.; Beckmann, C.; Ghatei, M.A.; Ashby, D.R.;  et al.  Ghrelin mimics fasting to enhance human hedonic,  orbitofrontal cortex, and hippocampal responses to food. Am. J. Clin. Nutr. 2014, 99, 1319-1330. [] []
+Malik, S.; McGlone, F.; Bedrossian, D.; Dagher, A. Ghrelin modulates brain activity in areas that control appetitive behavior. Cell Metab. 2008, 7, 400-409. [] []
+Andrews, Z.B. The extra-hypothalamic actions of ghrelin on neuronal function. Trends Neurosci. 2011, 34, 31-40. [] []
+Pattij, T.; Janssen, M.C.; Vanderschuren, L.J.; Schoffelmeer, A.N.; van Gaalen, M.M. Involvement of dopamine D1 and D2 receptors in the nucleus accumbens core and shell in inhibitory response control. Psychopharmacology 2007, 191, 587-598. [] []
+Dawe, S.; Loxton, N.J. The role of impulsivity in the development of substance use and eating disorders.
+Neurosci. Biobehav. Rev. 2004, 28, 343-351. [] []
+Velazquez-Sanchez, C.; Ferragud, A.; Moore, C.F.; Everitt, B.J.; Sabino, V.; Cottone, P. High trait impulsivity predicts food addiction-like behavior in the rat. Neuropsychopharmacology 2014, 39, 2463-2472. [] []
+Schag, K.; Schonleber, J.; Teufel, M.; Zipfel, S.; Giel, K.E. Food-related impulsivity in obesity and binge eating disorder--A systematic review. Obes. Rev. 2013, 14, 477-495. [] []
+Anderberg, R.H.; Hansson, C.; Fenander, M.; Richard, J.E.; Dickson, S.L.; Nissbrandt, H.; Bergquist, F.; Skibicka, K.P. The stomach-derived hormone ghrelin increases impulsive behavior. Neuropsychopharmacology 2016, 41, 1199-1209. [] []
+Gibson, E.L. Emotional influences on food choice: Sensory, physiological and psychological pathways.
+Physiol. Behav. 2006, 89, 53-61. [] []
+Oliver, G.; Wardle, J. Perceived effects of stress on food choice. Physiol. Behav. 1999, 66, 511-515. []
+Dallman, M.F. Stress-induced obesity and the emotional nervous system. Trends Endocrinol. Metab. TEM
+2010, 21, 159-165. [] []
+Swinburn, B.A.; Sacks, G.; Hall, K.D.; McPherson, K.; Finegood, D.T.; Moodie, M.L.; Gortmaker, S.L. The global obesity pandemic: Shaped by global drivers and local environments. Lancet 2011, 378, 804-814. []
+Marti, A.; Moreno-Aliaga, M.J.; Hebebrand, J.; Martinez, J.A. Genes, lifestyles and obesity. Int. J. Obes. Relat. Metab. Disord. 2004, 28, S29-S36. [] []
+Schellekens, H.; Finger, B.C.; Dinan, T.G.; Cryan, J.F. Ghrelin signalling and obesity: At the interface of stress, mood and food reward. Pharmacol. Ther. 2012, 135, 316-326. [] []
+Perello, M.; Sakata, I.; Birnbaum, S.; Chuang, J.-C.; Osborne-Lawrence, S.; Rovinsky, S.A.; Woloszyn, J.; Yanagisawa, M.; Lutter, M.; Zigman, J.M. Ghrelin increases the rewarding value of high-fat diet in an orexin-dependent manner. Biol. Psychiatry 2010, 67, 880-886. [] []
+Carr, K.A.; Daniel, T.O.; Lin, H.; Epstein, L.H. Reinforcement pathology and obesity. Curr. Drug Abuse Rev.
+2011, 4, 190-196. [] []
+Von Haehling, S.; Anker, S.D. Prevalence, incidence and clinical impact of cachexia: Facts and numbers--Update 2014. J. Cachexia Sarcopenia Muscle 2014, 5, 261-263. [] []
+
+Schellekens, H.; Dinan, T.G.; Cryan, J.F. Lean mean fat reducing "ghrelin" machine: Hypothalamic ghrelin and ghrelin receptors as therapeutic targets in obesity. Neuropharmacology 2010, 58, 2-16. [] []
+Andrews, Z.B. Central mechanisms involved in the orexigenic actions of ghrelin. Peptides 2011, 32, 2248-2255. [] []
+Stengel, A.; Goebel, M.; Wang, L.; Tache, Y. Ghrelin, des-acyl ghrelin and nesfatin-1 in gastric X/A-like cells: Role as regulators of food intake and body weight. Peptides 2010, 31, 357-369. [] []
+Theander-Carrillo, C.; Wiedmer, P.; Cettour-Rose, P.; Nogueiras, R.; Perez-Tilve, D.; Pfluger, P.; Castaneda, T.R.; Muzzin, P.; Schurmann, A.; Szanto, I.; et al. Ghrelin action in the brain controls adipocyte metabolism. J. Clin. Investig. 2006, 116, 1983-1993. [] []
+Davies, J.S.; Kotokorpi, P.; Eccles, S.R.; Barnes, S.K.; Tokarczuk, P.F.; Allen, S.K.; Whitworth, H.S.; Guschina, I.A.; Evans, B.A.; Mode, A.; et al. Ghrelin induces abdominal obesity via GHS-R-dependent lipid retention. Mol. Endocrinol. 2009, 23, 914-924. [] []
+Rodriguez, A.; Gomez-Ambrosi, J.; Catalan, V.; Gil, M.J.; Becerril, S.; Sainz, N.; Silva, C.; Salvador, J.; Colina, I.; Fruhbeck, G. Acylated and desacyl ghrelin stimulate lipid accumulation in human visceral adipocytes. Int. J. Obes. 2009, 33, 541-552. [] []
+Wren, A.M.; Small, C.J.; Ward, H.L.; Murphy, K.G.; Dakin, C.L.; Taheri, S.; Kennedy, A.R.; Roberts, G.H.; Morgan, D.G.; Ghatei, M.A.; et al. The novel hypothalamic peptide ghrelin stimulates food intake and growth hormone secretion. Endocrinology 2000, 141, 4325-4328. [] []
+Chen, H.Y.; Trumbauer, M.E.; Chen, A.S.; Weingarth, D.T.; Adams, J.R.; Frazier, E.G.; Shen, Z.; Marsh, D.J.; Feighner, S.D.; Guan, X.-M.; et al. Orexigenic action of peripheral ghrelin is mediated by neuropeptide y and agouti-related protein. Endocrinology 2004, 145, 2607-2612. [] []
+Nagaya, N.; Uematsu, M.; Kojima, M.; Ikeda, Y.; Yoshihara, F.; Shimizu, W.; Hosoda, H.; Hirota, Y.; Ishida, H.; Mori, H.; et al. Chronic administration of ghrelin improves left ventricular dysfunction and attenuates development of cardiac cachexia in rats with heart failure. Circulation 2001, 104, 1430-1435. [] []
+Mericq, V.; Cassorla, F.; Bowers, C.Y.; Avila, A.; Gonen, B.; Merriam, G.R. Changes in appetite and body weight in response to long-term oral administration of the ghrelin agonist GHRP-2 in growth hormone deficient children. J. Pediatr. Endocrinol. Metab. JPEM 2003, 16, 981-985. [] []
+Schmid, D.A.; Held, K.; Ising, M.; Uhr, M.; Weikel, J.C.; Steiger, A. Ghrelin stimulates appetite, imagination of food, GH, ACTH, and cortisol, but does not affect leptin in normal controls. Neuropsychopharmacology 2005, 30, 1187-1192. [] []
+Wynne, K.; Giannitsopoulou, K.; Small, C.J.; Patterson, M.; Frost, G.; Ghatei, M.A.; Brown, E.A.; Bloom, S.R.; Choi, P. Subcutaneous ghrelin enhances acute food intake in malnourished patients who receive maintenance peritoneal dialysis: A randomized, placebo-controlled trial. J. Am. Soc. Nephrol. JASN 2005, 16, 2111-2118. [] []
+Sun, Y.; Ahmed, S.; Smith, R.G. Deletion of ghrelin impairs neither growth nor appetite. Mol. Cell. Biol. 2003,
+23, 7973-7981. [] []
+Petersen, P.S.; Woldbye, D.P.; Madsen, A.N.; Egerod, K.L.; Jin, C.; Lang, M.; Rasmussen, M.; Beck-Sickinger, A.G.; Holst, B. In vivo characterization of high basal signaling from the ghrelin receptor. Endocrinology 2009, 150, 4920-4930. [] []
+Holst, B.; Schwartz, T.W. Constitutive ghrelin receptor activity as a signaling set-point in appetite regulation.
+Trends Pharmacol. Sci. 2004, 25, 113-117. [] []
+Zigman, J.M.; Nakano, Y.; Coppari, R.; Balthasar, N.; Marcus, J.N.; Lee, C.E.; Jones, J.E.; Deysher, A.E.; Waxman, A.R.; White, R.D.; et al. Mice lacking ghrelin receptors resist the development of diet-induced obesity. J. Clin. Investig. 2005, 115, 3564-3572. [] []
+Ma, X.; Lin, L.; Qin, G.; Lu, X.; Fiorotto, M.; Dixit, V.D.; Sun, Y. Ablations of ghrelin and ghrelin receptor exhibit differential metabolic phenotypes and thermogenic capacity during aging. PLoS ONE 2011, 6, e16391. [] []
+Lin, L.; Lee, J.H.; Bongmba, O.Y.; Ma, X.; Zhu, X.; Sheikh-Hamad, D.; Sun, Y. The suppression of ghrelin signaling mitigates age-associated thermogenic impairment. Aging 2014, 6, 1019-1032. [] []
+Lee, J.H.; Lin, L.; Xu, P.; Saito, K.; Wei, Q.; Meadows, A.G.;  Bongmba, O.Y.N.;  Pradhan, G.;  Zheng, H.;  Xu, Y.; et al. Neuronal deletion of ghrelin receptor almost completely prevents diet-induced obesity. Diabetes 2016, 65, 2169-2178. [] []
+
+Pantel, J.; Legendre, M.; Cabrol, S.; Hilal, L.; Hajaji, Y.; Morisset, S.; Nivot, S.; Vie-Luton, M.-P.; Grouselle, D.; de Kerdanet, M. Loss of constitutive activity of the growth hormone secretagogue receptor in familial short stature. J. Clin. Investig. 2006, 116, 760-768. [] []
+Landgren, S.; Simms, J.A.; Thelle, D.S.; Strandhagen, E.; Bartlett, S.E.; Engel, J.A.; Jerlhag, E. The ghrelin signalling system is involved in the consumption of sweets. PLoS ONE 2011, 6, e18170. [] []
+Liu, S.; Borgland, S.L. Regulation of the mesolimbic dopamine circuit by feeding peptides. Neuroscience 2015,
+289, 19-42. [] []
+Swanson, L.W. The projections of the ventral tegmental area and adjacent regions: A combined fluorescent retrograde tracer and immunofluorescence study in the rat. Brain Res. Bull. 1982, 9, 321-353. []
+Tzschentke, T.M. The medial prefrontal cortex as a part of the brain reward system. Amino Acids 2000, 19, 211-219. [] []
+Landgren, S.; Engel, J.A.; Hyytia, P.; Zetterberg, H.; Blennow, K.; Jerlhag, E. Expression of the gene encoding the ghrelin receptor in rats selected for differential alcohol preference. Behav. Brain Res. 2011, 221, 182-188. [] []
+Diano, S.; Farr, S.A.; Benoit, S.C.; McNay, E.C.; da Silva, I.; Horvath, B.; Gaskin, F.S.; Nonaka, N.; Jaeger, L.B.; Banks,  W.A.;  et  al. Ghrelin  controls  hippocampal  spine  synapse  density  and  memory  performance.   Nat. Neurosci. 2006, 9, 381-388. [] []
+Kern, A.; Mavrikaki, M.; Ullrich, C.; Albarran-Zeckler, R.; Brantley, A.F.; Smith, R.G. Hippocampal dopamine/DRD1 signaling dependent on the ghrelin receptor. Cell 2015, 163, 1176-1190. [] []
+Alvarez-Crespo, M.; Skibicka, K.P.; Farkas, I.; Molnar, C.S.; Egecioglu, E.; Hrabovszky, E.; Liposits, Z.; Dickson, S.L. The amygdala as a neurobiological target for ghrelin in rats: Neuroanatomical, electrophysiological and behavioral evidence. PLoS ONE 2012, 7, e46321. [] []
+Sakata, I.; Nakano, Y.; Osborne-Lawrence, S.; Rovinsky, S.A.; Lee, C.E.; Perello, M.; Anderson, J.G.;  Coppari, R.; Xiao, G.; Lowell, B.B.; et al. Characterization of a novel ghrelin cell reporter mouse. Regul. Pept. 2009, 155, 91-98. [] []
+Furness, J.; Hunne, B.; Matsuda, N.; Yin, L.; Russo, D.; Kato, I.; Fujimiya, M.; Patterson, M.; McLeod, J.; Andrews, Z. Investigation of the presence of ghrelin in the central nervous system of the rat and mouse. Neuroscience 2011, 193, 1-9. [] []
+Lear, P.V.; Iglesias, M.J.; Feijoo-Bandin, S.; Rodriguez-Penas, D.; Mosquera-Leal, A.; Garcia-Rua, V.; Gualillo, O.; Ghe, C.; Arnoletti, E.; Muccioli, G.; et al. Des-acyl ghrelin has specific binding sites and different metabolic effects from ghrelin in cardiomyocytes. Endocrinology 2010, 151, 3286-3298. [] []
+Pang, J.J.; Xu, R.K.; Xu, X.B.; Cao, J.M.; Ni, C.; Zhu, W.L.; Asotra, K.; Chen, M.C.; Chen, C. Hexarelin protects rat cardiomyocytes from angiotensin II-induced apoptosis in vitro. Am. J. Physiol. Heart Circ. Physiol. 2004, 286, H1063-H1069. [] []
+Bisi, G.; Podio, V.; Valetto, M.R.; Broglio, F.; Bertuccio, G.; Del Rio, G.; Arvat, E.; Boghen, M.F.; Deghenghi, R.; Muccioli, G.; et al. Acute cardiovascular and hormonal effects of GH and hexarelin, a synthetic GH-releasing peptide, in humans. J. Endocrinol. Investig. 1999, 22, 266-272. [] []
+Barreiro, M.L.; Gaytan, F.; Caminos, J.E.; Pinilla, L.; Casanueva, F.F.; Aguilar, E.; Dieguez, C.; Tena-Sempere, M. Cellular location and hormonal regulation of ghrelin expression in rat testis. Biol. Reprod. 2002, 67, 1768-1776. [] []
+Gaytan, F.; Barreiro, M.L.; Caminos, J.E.; Chopin, L.K.; Herington, A.C.; Morales, C.; Pinilla, L.; Paniagua, R.; Nistal, M.; Casanueva, F.F.; et al. Expression of ghrelin and its functional receptor, the type 1a growth hormone secretagogue receptor, in normal human testis and testicular tumors. J. Clin. Endocrinol. Metab. 2004, 89, 400-409. [] []
+De Smet, B.; Mitselos, A.; Depoortere, I. Motilin and ghrelin as prokinetic drug targets. Pharmacol. Ther. 2009,
+123, 207-223. [] []
+Date, Y.; Murakami, N.; Toshinai, K.; Matsukura, S.; Niijima, A.; Matsuo, H.; Kangawa, K.;  Nakazato, M. The role of the gastric afferent vagal nerve in ghrelin-induced feeding and growth hormone secretion in rats. Gastroenterology 2002, 123, 1120-1128. [] []
+
+Dass, N.B.; Munonyara, M.; Bassil, A.K.; Hervieu, G.J.; Osbourne, S.; Corcoran, S.; Morgan, M.; Sanger, G.J. Growth hormone secretagogue receptors in rat and human gastrointestinal tract and the effects of ghrelin. Neuroscience 2003, 120, 443-453. []
+Takeshita, E.; Matsuura, B.; Dong, M.; Miller, L.J.; Matsui, H.; Onji, M. Molecular characterization and distribution of motilin family receptors in the human gastrointestinal tract. J. Gastroenterol. 2006, 41, 223-230. [] []
+Fukuda, H.; Mizuta, Y.; Isomoto, H.; Takeshima, F.; Ohnita, K.; Ohba, K.; Omagari, K.;  Taniyama, K.; Kohno, S. Ghrelin enhances gastric motility through direct stimulation of intrinsic neural pathways and capsaicin-sensitive afferent neurones in rats. Scand. J. Gastroenterol. 2004, 39, 1209-1214. [] []
+Depoortere, I.; De Winter, B.; Thijs, T.; De Man, J.; Pelckmans, P.; Peeters, T. Comparison of the gastroprokinetic effects of ghrelin,  GHRP-6 and motilin in rats in vivo and in vitro. Eur.  J. Pharmacol.  2005, 515, 160-168. [] []
+Trudel, L.; Tomasetto, C.; Rio, M.C.; Bouin, M.; Plourde, V.; Eberling, P.; Poitras, P. Ghrelin/motilin-related peptide is a potent prokinetic to reverse gastric postoperative ileus in rat. Am. J. Physiol. Gastrointest. Liver Physiol. 2002, 282, G948-G952. [] []
+Kitazawa, T.; De Smet, B.; Verbeke, K.; Depoortere, I.; Peeters, T.L. Gastric motor effects of peptide and non-peptide ghrelin agonists in mice in vivo and in vitro. Gut 2005, 54, 1078-1084. [] []
+Dornonville de la Cour, C.; Lindqvist, A.; Egecioglu, E.; Tung, Y.C.; Surve, V.; Ohlsson, C.; Jansson, J.O.; Erlanson-Albertsson, C.; Dickson, S.L.; Hakanson, R. Ghrelin treatment reverses the reduction in weight gain and body fat in gastrectomised mice. Gut 2005, 54, 907-913. [] []
+Levin, F.; Edholm, T.; Schmidt, P.T.; Gryback, P.; Jacobsson, H.; Degerblad, M.; Hoybye, C.; Holst, J.J.; Rehfeld, J.F.; Hellstrom, P.M.; et al. Ghrelin stimulates gastric emptying and hunger in normal-weight humans. J. Clin. Endocrinol. Metab. 2006, 91, 3296-3302. [] []
+Fujino, K.; Inui, A.; Asakawa, A.; Kihara, N.; Fujimura, M.; Fujimiya, M. Ghrelin induces fasted motor activity of the gastrointestinal tract in conscious fed rats. J. Physiol. 2003, 550, 227-240. [] []
+Asakawa, A.; Inui, A.; Kaga, O.; Yuzuriha, H.; Nagata, T.; Ueno, N.; Makino, S.; Fujimiya, M.; Niijima, A.; Fujino, M.A.; et al. Ghrelin is an appetite-stimulatory signal from stomach with structural resemblance to motilin. Gastroenterology 2001, 120, 337-345. [] []
+Masuda, Y.; Tanaka, T.; Inomata, N.; Ohnuma, N.; Tanaka, S.; Itoh, Z.; Hosoda, H.; Kojima, M.; Kangawa, K. Ghrelin stimulates gastric acid secretion and motility in rats. Biochem. Biophys. Res. Commun. 2000, 276, 905-908. [] []
+Yang, C.G.; Qiu, W.C.; Wang, Z.G.; Yu, S.; Yan, J.; Zheng, Q. Down-regulation of ghrelin receptors in the small intestine delays small intestinal transit in vagotomized rats. Mol. Med. Rep. 2011, 4, 1061-1065. []
+Feighner, S.D.; Tan, C.P.; McKee, K.K.; Palyha, O.C.; Hreniuk, D.L.; Pong, S.S.; Austin, C.P.; Figueroa, D.; MacNeil, D.; Cascieri, M.A.; et al. Receptor for motilin identified in the human gastrointestinal system. Science 1999, 284, 2184-2188. [] []
+Nunoi, H.; Matsuura, B.; Utsunomiya, S.; Ueda, T.; Miyake, T.; Furukawa, S.; Kumagi, T.; Ikeda, Y.; Abe, M.; Hiasa, Y.; et al. A relationship between motilin and growth hormone secretagogue receptors. Regul. Pept. 2012, 176, 28-35. [] []
+Mighiu, P.I.; Yue, J.T.Y.; Filippi, B.M.; Abraham, M.A.; Chari, M.; Lam, C.K.L.; Yang, C.S.; Christian, N.R.; Charron, M.J.; Lam, T.K.T. Hypothalamic glucagon signaling inhibits hepatic glucose production. Nat. Med. 2013, 19, 766-772. [] []
+Morton, G.J.; Schwartz, M.W. Leptin and the central nervous system control of glucose metabolism.
+Physiol. Rev. 2011, 91, 389-411. [] []
+Obici, S.; Zhang, B.B.; Karkanias, G.; Rossetti, L. Hypothalamic insulin signaling is required for inhibition of glucose production. Nat. Med. 2002, 8, 1376-1382. [] []
+Sandoval, D.A.; Bagnol, D.; Woods, S.C.; D'Alessio, D.A.; Seeley, R.J. Arcuate glucagon-like peptide 1 receptors regulate glucose homeostasis but not food intake. Diabetes 2008, 57, 2046-2054. [] []
+Dezaki, K.; Hosoda, H.; Kakei, M.; Hashiguchi, S.; Watanabe, M.; Kangawa, K.; Yada, T. Endogenous ghrelin in pancreatic islets restricts insulin release by attenuating Ca2+ signaling in b-cells: Implication in the glycemic control in rodents. Diabetes 2004, 53, 3142-3151. [] []
+
+Kageyama, H.; Funahashi, H.; Hirayama, M.; Takenoya, F.; Kita, T.; Kato, S.; Sakurai, J.; Lee, E.Y.; Inoue, S.; Date, Y.; et al. Morphological analysis of ghrelin and its receptor distribution in the rat pancreas. Regul. Pept. 2005, 126, 67-71. [] []
+Date, Y.; Nakazato, M.; Hashiguchi, S.; Dezaki, K.; Mondal, M.S.; Hosoda, H.; Kojima, M.; Kangawa, K.; Arima, T.; Matsuo, H.; et al. Ghrelin is present in pancreatic a-cells of humans and rats and stimulates insulin secretion. Diabetes 2002, 51, 124-129. [] []
+Tong, J.; Prigeon, R.L.; Davis, H.W.; Bidlingmaier, M.; Kahn, S.E.; Cummings, D.E.; Tschop, M.H.; D'Alessio, D. Ghrelin suppresses glucose-stimulated insulin secretion and deteriorates glucose tolerance in healthy humans. Diabetes 2010, 59, 2145-2151. [] []
+Reimer, M.K.; Pacini, G.; Ahren, B. Dose-dependent inhibition by ghrelin of insulin secretion in the mouse.
+Endocrinology 2003, 144, 916-921. [] []
+Broglio, F.; Arvat, E.; Benso, A.; Gottero, C.; Muccioli, G.; Papotti, M.; van der Lely, A.J.; Deghenghi, R.; Ghigo, E. Ghrelin, a natural GH secretagogue produced by the stomach, induces hyperglycemia and reduces insulin secretion in humans. J. Clin. Endocrinol. Metab. 2001, 86, 5083-5086. [] []
+Broglio, F.; Prodam, F.; Riganti, F.; Gottero,  C.;  Destefanis,  S.;  Granata,  R.;  Muccioli,  G.;  Abribat,  T.;  van der Lely, A.J.; Ghigo, E. The continuous infusion of acylated ghrelin enhances growth hormone secretion and worsens glucose metabolism in humans. J. Endocrinol. Investig. 2008, 31, 788-794. [] []
+Garin, M.C.; Burns, C.M.; Kaul, S.; Cappola, A.R. Clinical review: The human experience with ghrelin administration. J. Clin. Endocrinol. Metab. 2013, 98, 1826-1837. [] []
+Nesic, D.M.; Stevanovic, D.M.; Ille, T.; Petricevic, S.; Masirevic-Draskovic, G.; Starcevic, V.P. Centrally applied ghrelin affects feeding dynamics in male rats. J. Physiol. Pharmacol. 2008, 59, 489-500. []
+Kim, M.S.; Namkoong, C.; Kim, H.S.; Jang, P.G.; Kim Pak, Y.M.; Katakami, H.; Park, J.Y.;  Lee, K.U. Chronic central administration of ghrelin reverses the effects of leptin. Int. J. Obes. Relat. Metab. Disord. 2004, 28, 1264-1271. [] []
+Heppner, K.M.; Piechowski, C.L.; Muller, A.; Ottaway, N.; Sisley, S.; Smiley, D.L.; Habegger, K.M.; Pfluger, P.T.; Dimarchi, R.; Biebermann, H.; et al. Both acyl and des-acyl ghrelin regulate adiposity and glucose metabolism via central nervous system ghrelin receptors. Diabetes 2014, 63, 122-131. [] []
+Stark, R.; Reichenbach, A.; Lockie, S.H.; Pracht, C.; Wu, Q.; Tups, A.; Andrews, Z.B. Acyl ghrelin acts in the brain to control liver function and peripheral glucose homeostasis in male mice. Endocrinology 2015, 156, 858-868. [] []
+Meyer, C. Final answer: Ghrelin can suppress insulin secretion in humans, but is it clinically relevant?
+Diabetes 2010, 59, 2726-2728.  []  []
+Cui, C.; Ohnuma, H.; Daimon, M.; Susa, S.; Yamaguchi, H.; Kameda, W.; Jimbu, Y.; Oizumi, T.; Kato, T. Ghrelin infused into the portal vein inhibits glucose-stimulated insulin secretion in Wistar rats. Peptides 2008, 29, 1241-1246. [] []
+Sun, Y.; Butte, N.F.; Garcia, J.M.; Smith, R.G. Characterization of adult ghrelin and ghrelin receptor knockout mice under positive and negative energy balance. Endocrinology 2008, 149, 843-850. [] []
+Lin, L.; Saha, P.K.; Ma, X.; Henshaw, I.O.; Shao, L.; Chang, B.H.; Buras, E.D.; Tong, Q.; Chan, L.; McGuinness, O.P.; et al. Ablation of ghrelin receptor reduces adiposity and improves insulin sensitivity during aging by regulating fat metabolism in white and brown adipose tissues. Aging Cell 2011, 10, 996-1010. [] []
+Chabot, F.; Caron, A.; Laplante, M.; St-Pierre, D.H. Interrelationships between ghrelin, insulin and glucose homeostasis: Physiological relevance. World J. Diabetes 2014, 5, 328-341. [] []
+Woods, S.C.; Lutz, T.A.; Geary, N.; Langhans, W. Pancreatic signals controlling food intake; insulin, glucagon and amylin. Philos. Trans. R. Soc. B Biol. Sci. 2006, 361, 1219-1235. [] []
+Lavin, J.H.; Wittert, G.; Sun, W.M.; Horowitz, M.; Morley, J.E.; Read, N.W. Appetite regulation by carbohydrate: Role of blood glucose and gastrointestinal hormones. Am. J. Physiol. 1996, 271, E209-E214. []
+Flint, A.; Gregersen, N.T.; Gluud, L.L.; Moller, B.K.; Raben, A.; Tetens, I.; Verdich, C.; Astrup, A. Associations between postprandial insulin and blood glucose responses, appetite sensations and energy intake in normal weight and overweight individuals: A meta-analysis of test meal studies. Br. J. Nutr. 2007, 98, 17-25. [] []
+
+Ferrini, F.; Salio, C.; Lossi, L.; Merighi, A. Ghrelin in central neurons. Curr. Neuropharmacol. 2009, 7, 37-49. [] []
+Guneli, E.; Kazikdas, K.C.; Kolatan, E. Ghrelin may attenuate proinflammatory cytokine-mediated neuropathic pain. Med. Hypotheses 2007, 69, 356-360. [] []
+Vergnano, A.M.; Ferrini, F.; Salio, C.; Lossi, L.; Baratta, M.; Merighi, A. The gastrointestinal hormone ghrelin modulates inhibitory neurotransmission in deep laminae of mouse spinal cord dorsal horn. Endocrinology 2008, 149, 2306-2312. [] []
+Guneli, E.; Onal, A.; Ates, M.; Bagriyanik, H.A.; Resmi, H.; Orhan, C.E.; Kolatan, H.E.; Gumustekin, M. Effects of repeated administered ghrelin on chronic constriction injury of the sciatic nerve in rats. Neurosci. Lett. 2010, 479, 226-230. [] []
+Azizzadeh, F.; Mahmoodi, J.; Sadigh-Eteghad, S.; Farajdokht, F.; Mohaddes, G. Ghrelin exerts analgesic effects through modulation of IL-10 and TGF-b levels in a rat model of inflammatory pain. Iran. Biomed. J. 2017, 21, 114-119. [] []
+Sibilia, V.; Lattuada, N.; Rapetti, D.; Pagani, F.; Vincenza, D.; Bulgarelli, I.; Locatelli, V.; Guidobono, F.;  Netti, C. Ghrelin inhibits inflammatory pain in rats: Involvement of the opioid system. Neuropharmacology 2006, 51, 497-505. [] []
+Guan, X.-M.; Yu, H.; Palyha, O.C.; McKee, K.K.; Feighner, S.D.; Sirinathsinghji, D.J.S.; Smith, R.G.; van der Ploeg, L.H.T.; Howard, A.D. Distribution of mRNA encoding the growth hormone secretagogue receptor in brain and peripheral tissues. Mol. Brain Res. 1997, 48, 23-29. []
+Hou, Z.; Miao, Y.; Gao, L.; Pan, H.; Zhu, S. Ghrelin-containing neuron in cerebral cortex and hypothalamus linked with the DVC of brainstem in rat. Regul. Pept. 2006, 134, 126-131. [] []
+Zhou, C.H.; Li, X.; Zhu, Y.Z.; Huang, H.; Li, J.; Liu, L.; Hu, Q.; Ma, T.F.; Shao, Y.; Wu, Y.Q. Ghrelin alleviates neuropathic pain through GHSR-1a-mediated suppression of the p38 MAPK/NF-KappaB pathway in a rat chronic constriction injury model. Reg. Anesth. Pain Med. 2014, 39, 137-148. [] []
+Sibilia, V.; Pagani, F.; Mrak, E.; Dieci, E.; Tulipano, G.; Ferrucci, F. Pharmacological characterization of the ghrelin receptor mediating its inhibitory action on inflammatory pain in rats. Amino Acids 2012, 43, 1751-1759. [] []
+Wei, J.; Zhi, X.; Wang, X.L.; Zeng, P.; Zou, T.; Yang, B.; Wang, J.L. In vivo characterization of the effects of ghrelin on the modulation of acute pain at the supraspinal level in mice. Peptides 2013, 43, 76-82. [] []
+Luttrell, L. Reviews in molecular biology and biotechnology: Transmembrane signaling by g protein-coupled receptors. Mol. Biotechnol. 2008, 39, 239-264. [] []
+Kohno, D.; Gao, H.Z.; Muroya, S.; Kikuyama, S.; Yada, T. Ghrelin directly interacts with neuropeptide-Y-containing neurons in the rat arcuate nucleus: Ca2+ signaling via protein kinase A and N-type channel-dependent mechanisms and cross-talk with leptin and orexin. Diabetes 2003, 52, 948-956.
+[] []
+Malagon, M.M.; Luque, R.M.; Ruiz-Guerrero, E.; Rodriguez-Pacheco, F.; Garcia-Navarro, S.; Casanueva, F.F.; Gracia-Navarro, F.; Castano, J.P. Intracellular signaling mechanisms mediating ghrelin-stimulated growth hormone release in somatotropes. Endocrinology 2003, 144, 5372-5380. [] []
+Dezaki, K.; Kakei, M.; Yada, T. Ghrelin uses Galphai2 and activates voltage-dependent K+ channels to
+attenuate glucose-induced Ca2+ signaling and insulin release in islet b-cells: Novel signal transduction of ghrelin. Diabetes 2007, 56, 2319-2327. [] []
+Schellekens, H.; van Oeffelen, W.E.; Dinan, T.G.; Cryan, J.F. Promiscuous dimerization of the growth hormone secretagogue receptor (GHS-R1a) attenuates ghrelin-mediated signaling. J. Biol. Chem. 2013, 288, 181-191. [] []
+Irani, B.G.; Xiang, Z.; Yarandi, H.N.; Holder, J.R.; Moore, M.C.; Bauzo, R.M.; Proneth, B.; Shaw, A.M.; Millard, W.J.; Chambers, J.B.; et al. Implication of the melanocortin-3 receptor in the regulation of food intake. Eur. J. Pharmacol. 2011, 660, 80-87. [] []
+Rediger, A.; Piechowski, C.L.; Yi, C.X.; Tarnow, P.; Strotmann, R.; Gruters, A.; Krude, H.; Schoneberg, T.; Tschop, M.H.; Kleinau, G.; et al. Mutually opposite signal modulation by hypothalamic heterodimerization of ghrelin and melanocortin-3 receptors. J. Biol. Chem. 2011, 286, 39623-39631. [] []
+Garfield, A.S.; Heisler, L.K. Pharmacological targeting of the serotonergic system for the treatment of obesity.
+J. Physiol. 2009, 587, 49-60. [] []
+
+Dutton, A.C.; Barnes, N.M. Anti-obesity pharmacotherapy: Future perspectives utilising 5-HT2C receptor agonists. Drug Discov. Today Ther. Strateg. 2006, 3, 577-583. []
+Miller, K.J. Serotonin 5-HT2C receptor agonists: Potential for the treatment of obesity. Mol. Int. 2005, 5, 282-291. [] []
+Kern, A.; Albarran-Zeckler, R.; Walsh, H.E.; Smith, R.G. Apo-ghrelin receptor forms heteromers with DRD2 in hypothalamic neurons and is essential for anorexigenic effects of DRD2 agonism. Neuron 2012, 73, 317-332. [] []
+Chow, K.B.; Sun, J.; Chu, K.M.; Tai Cheung, W.; Cheng, C.H.; Wise, H. The truncated ghrelin receptor polypeptide (GHS-R1b) is localized in the endoplasmic reticulum where it forms heterodimers with ghrelin receptors (GHS-R1a) to attenuate their cell surface expression. Mol. Cell. Endocrinol. 2012, 348, 247-254. [] []
+Mear, Y.; Enjalbert, A.; Thirion, S. GHS-R1a constitutive activity and its physiological relevance.
+Front. Neurosci. 2013, 7, 87. [] []
+Tsao, P.; von Zastrow, M. Downregulation of G protein-coupled receptors. Curr. Opin. Neurobiol. 2000, 10, 365-369. []
+Kaji, H.; Kishimoto, M.; Kirimura, T.; Iguchi, G.; Murata, M.; Yoshioka, S.; Iida, K.; Okimura, Y.; Yoshimoto, Y.; Chihara, K. Hormonal regulation  of  the  human  ghrelin  receptor  gene  transcription. Biochem. Biophys. Res. Commun. 2001, 284, 660-666. [] []
+Orkin, R.D.; New, D.I.; Norman, D.; Chew, S.L.; Clark, A.J.; Grossman, A.B.; Korbonits, M. Rapid desensitisation of the GH secretagogue (ghrelin) receptor to hexarelin in vitro. J. Endocrinol. Investig. 2003, 26, 743-747. [] []
+Camina, J.P.; Carreira, M.C.; El Messari, S.; Llorens-Cortes, C.; Smith, R.G.; Casanueva, F.F. Desensitization and endocytosis mechanisms of ghrelin-activated growth hormone secretagogue receptor 1a. Endocrinology 2004, 145, 930-940. [] []
+Guyda, H.J. Human growth hormone: Research and clinical practice. Edited by Roy G Smith and Michael O Thorner. Q. Rev. Biol. 2002, 77, 110-111. []
+Gardiner, J.; Bloom, S. Ghrelin gets its GOAT. Cell Metab. 2008, 7, 193-194. [] []
+Lundholm, K.; Gunnebo, L.; Korner, U.; Iresjo, B.M.; Engstrom, C.; Hyltander, A.; Smedh, U.; Bosaeus, I. Effects by daily long term provision of ghrelin to unselected weight-losing cancer patients: A randomized double-blind study. Cancer 2010, 116, 2044-2052. [] []
+Neary, N.M.; Druce, M.R.; Small, C.J.; Bloom, S.R. Acylated ghrelin stimulates food intake in the fed and fasted states but desacylated ghrelin has no effect. Gut 2006, 55, 135. []
+Wren, A.M.; Seal, L.J.; Cohen, M.A.; Brynes, A.E.; Frost, G.S.; Murphy, K.G.; Dhillo, W.S.; Ghatei, M.A.; Bloom, S.R. Ghrelin enhances appetite and increases food intake in humans. J. Clin. Endocrinol. Metab. 2001, 86, 5992. [] []
+Hewson, A.K.; Tung, L.Y.; Connell, D.W.; Tookman, L.; Dickson, S.L. The rat arcuate nucleus integrates peripheral signals provided by leptin, insulin, and a ghrelin mimetic. Diabetes 2002, 51, 3412-3419. [] []
+Lu, S.; Guan, J.L.; Wang, Q.P.; Uehara, K.; Yamada, S.; Goto, N.; Date, Y.; Nakazato, M.; Kojima, M.; Kangawa, K.; et al. Immunocytochemical observation of ghrelin-containing neurons in the rat arcuate nucleus. Neurosci. Lett. 2002, 321, 157-160. []
+Kageyama, H.; Kitamura, Y.; Hosono, T.; Kintaka, Y.; Seki, M.; Takenoya, F.; Hori, Y.; Nonaka, N.; Arata, S.; Shioda, S. Visualization of ghrelin-producing neurons in the hypothalamic arcuate nucleus using ghrelin-EGFP transgenic mice. Regul. Pept. 2008, 145, 116-121. [] []
+Cabral, A.; de Francesco, P.N.; Perello, M. Brain circuits mediating the orexigenic action of peripheral ghrelin: Narrow gates for a vast kingdom. Front. Endocrinol. 2015, 6, 44. [] []
+Inui, A. Ghrelin: An orexigenic and somatotrophic signal from the stomach. Nat. Rev. Neurosci. 2001, 2, 551-560. [] []
+Banks, W.A. Extent and direction of ghrelin transport across the blood-brain barrier is determined by its unique primary structure. J. Pharmacol. Exp. Ther. 2002, 302, 822-827. [] []
+Takayama, K.; Johno, Y.; Hayashi, K.; Yakabi, K.; Tanaka, T.; Ro, S. Expression of c-Fos protein in the brain after intravenous injection of ghrelin in rats. Neurosci. Lett. 2007, 417, 292-296. [] []
+
+Wang, L.; Saint-Pierre, D.H.; Tache, Y. Peripheral ghrelin selectively increases Fos expression in neuropeptide Y--Synthesizing neurons in mouse hypothalamic arcuate nucleus. Neurosci. Lett. 2002, 325, 47-51. []
+Ciofi, P.; Garret, M.; Lapirot, O.; Lafon, P.; Loyens, A.; Prevot, V.; Levine, J.E. Brain-endocrine interactions: A microvascular route in the mediobasal hypothalamus. Endocrinology 2009, 150, 5509-5519. [] []
+Cabral, A.; Valdivia, S.; Fernandez, G.; Reynaldo, M.; Perello, M. Divergent neuronal circuitries underlying acute orexigenic effects of peripheral or central ghrelin: Critical role of brain accessibility. J. Neuroendocrinol. 2014, 26, 542-554. [] []
+Redzic, Z.B.; Preston, J.E.; Duncan, J.A.; Chodobski, A.; Szmydynger--Chodobska, J. The choroid plexus--Cerebrospinal fluid system: From development to aging. Curr. Top. Dev. Biol. 2005, 71, 1-52. []
+Bolborea, M.; Dale, N. Hypothalamic tanycytes: Potential roles in the control of feeding and energy balance.
+Trends Neurosci. 2013, 36, 91-100. [] []
+Grill, H.J.; Hayes, M.R. Hindbrain neurons as an essential hub in the neuroanatomically distributed control of energy balance. Cell Metab. 2012, 16, 296-309. [] []
+Smith, G.; Jerome, C.; Cushin, B.; Eterno, R.; Simansky, K. Abdominal vagotomy blocks the satiety effect of cholecystokinin in the rat. Science 1981, 213, 1036-1037. [] []
+Koda, S.; Date, Y.; Murakami, N.; Shimbara, T.; Hanada, T.; Toshinai, K.; Niijima, A.; Furuya, M.; Inomata, N.; Osuye, K. The role of the vagal nerve in peripheral pyy3-36-induced feeding reduction in rats. Endocrinology 2005, 146, 2369-2375. [] []
+Abbott, C.; Small, C.; Sajedi, A.; Smith, K.; Parkinson, J.; Broadhead, L.; Ghatei, M.; Bloom, S. The importance of acclimatisation and habituation to experimental conditions when investigating the anorectic effects of gastrointestinal hormones in the rat. Int. J. Obes. 2006, 30, 288-292. [] []
+Rogers, R.C.; Hermann, G.E. Mechanisms of action of CCK to activate central vagal afferent terminals.
+Peptides 2008, 29, 1716-1725. [] []
+Bailey, A.R.; Smith, R.G.; Leng, G. The nonpeptide growth hormone secretagogue, MK-0677, activates hypothalamic arcuate nucleus neurons in vivo. J. Neuroendocrinol. 1998, 10, 111-118. [] []
+Smith, R.G.; Sun, Y.; Jiang, H.; Albarran-Zeckler, R.; Timchenko, N. Ghrelin receptor (GHS-R1a) agonists show potential as interventive agents during aging. Ann. N. Y. Acad. Sci. 2007, 1119, 147-164. [] []
+Date, Y. Ghrelin and the vagus nerve. Methods Enzymol. 2012, 514, 261-269. []
+Date, Y.; Shimbara, T.; Koda, S.; Toshinai, K.; Ida, T.; Murakami, N.; Miyazato, M.; Kokame, K.; Ishizuka, Y.; Ishida, Y.; et al. Peripheral ghrelin transmits orexigenic signals through the noradrenergic pathway from the hindbrain to the hypothalamus. Cell Metab. 2006, 4, 323-331. [] []
+Le Roux, C.W.; Neary, N.M.; Halsey, T.J.; Small, C.J.; Martinez-Isla, A.M.; Ghatei, M.A.; Theodorou, N.A.; Bloom, S.R. Ghrelin does not stimulate food intake in patients with surgical procedures involving vagotomy.
+J. Clin. Endocrinol. Metab. 2005, 90, 4521-4524. [] []
+Arnold, M.; Mura, A.; Langhans, W.; Geary, N. Gut vagal afferents are not necessary for the eating-stimulatory effect of intraperitoneally injected ghrelin in the rat. J. Neurosci. 2006, 26, 11052-11060. [] []
+Takeno, R.; Okimura, Y.; Iguchi, G.; Kishimoto, M.; Kudo, T.; Takahashi, K.; Takahashi, Y.; Kaji, H.; Ohno, M.; Ikuta, H.; et al. Intravenous administration of ghrelin stimulates growth hormone secretion in vagotomized patients as well as normal subjects. Eur. J. Endocrinol. 2004, 151, 447-450. [] []
+Akamizu, T.; Takaya, K.; Irako, T.; Hosoda, H.; Teramukai, S.; Matsuyama, A.; Tada, H.; Miura, K.; Shimizu, A.; Fukushima, M.; et al. Pharmacokinetics, safety, and endocrine and appetite effects of ghrelin administration in young healthy subjects. Eur. J. Endocrinol. 2004, 150, 447-455. [] []
+Akamizu, T.; Iwakura, H.; Ariyasu, H.; Hosoda, H.; Murayama, T.; Yokode, M.; Teramukai, S.; Seno, H.; Chiba, T.; Noma, S. Repeated administration of ghrelin to patients with functional dyspepsia: Its effects on food intake and appetite. Eur. J. Endocrinol. 2008, 158, 491-498. [] []
+Ashby, D.R.; Ford, H.E.; Wynne, K.J.; Wren, A.M.; Murphy, K.G.; Busbridge, M.; Brown, E.A.; Taube, D.H.; Ghatei, M.A.; Tam, F.W.K.; et al. Sustained appetite improvement in malnourished dialysis patients by daily ghrelin treatment. Kidney Int. 2009, 76, 199-206. [] []
+
+Paulo, R.C.; Brundage, R.; Cosma, M.; Mielke, K.L.; Bowers, C.Y.; Veldhuis, J.D. Estrogen elevates the peak overnight production rate of acylated ghrelin. J. Clin. Endocrinol. Metab. 2008, 93, 4440-4447. [] []
+Veldhuis, J.D.; Reynolds, G.A.; Iranmanesh, A.; Bowers, C.Y. Twenty-four hour continuous ghrelin infusion augments physiologically pulsatile, nycthemeral, and entropic (feedback-regulated) modes of growth  hormone secretion. J. Clin. Endocrinol. Metab. 2008, 93, 3597-3603. [] []
+Rigamonti, A.; Pincelli, A.; Corra, B.; Viarengo, R.; Bonomo, S.; Galimberti, D.; Scacchi, M.; Scarpini, E.; Cavagnini, F.; Muller, E. Plasma ghrelin concentrations in elderly subjects: Comparison with anorexic and obese patients. J. Endocrinol. 2002, 175, R1-R5. [] []
+Strasser, F.; Lutz, T.A.; Maeder, M.T.; Thuerlimann, B.; Bueche, D.; Tschop, M.; Kaufmann, K.; Holst, B.; Brandle, M.; von Moos, R.; et al. Safety, tolerability and pharmacokinetics of intravenous ghrelin for cancer-related anorexia/cachexia: A randomised, placebo-controlled,  double-blind,  double-crossover  study. Br. J. Cancer 2008, 98, 300-308. [] []
+Lippl, F.; Erdmann, J.; Steiger, A.; Lichter, N.; Czogalla-Peter, C.; Bidlingmaier, M.; Tholl, S.; Schusdziarra, V. Low-dose ghrelin infusion--Evidence against a hormonal role in food intake. Regul. Pept. 2012, 174, 26-31. [] []
+Tong, J.; Dave, N.; Mugundu, G.M.; Davis, H.W.; Gaylinn, B.D.; Thorner, M.O.; Tschop, M.H.; D'Alessio, D.; Desai, P.B. The pharmacokinetics of acyl, des-acyl, and total ghrelin in healthy human subjects. Eur. J. Endocrinol. 2013, 168, 821-828. [] []
+Delhanty, P.J.; Neggers, S.J.; van der Lely,  A.J. Should we consider des-acyl ghrelin as a separate hormone and if so, what does it do? Front. Horm. Res. 2014, 42, 163-174. []
+Vestergaard, E.T.; Hansen, T.K.; Gormsen, L.C.; Jakobsen, P.; Moller, N.; Christiansen, J.S.; Jorgensen, J.O. Constant intravenous ghrelin infusion in healthy young men: Clinical pharmacokinetics  and  metabolic  effects. Am. J. Physiol. Endocrinol. Metab. 2007, 292, E1829-E1836. [] []
+Nagaya, N.; Kojima, M.; Uematsu, M.; Yamagishi, M.; Hosoda, H.; Oya, H.; Hayashi, Y.; Kangawa, K. Hemodynamic and hormonal effects of human ghrelin in healthy volunteers. Am. J. Physiol. Regul. Integr. Comp. Physiol. 2001, 280, R1483-R1487. []
+Lucidi, P.; Murdolo, G.; Di Loreto, C.; Parlanti, N.; de Cicco, A.; Fatone, C.; Taglioni, C.; Fanelli, C.; Broglio, F.; Ghigo, E.; et al. Metabolic and endocrine effects of physiological increments in plasma ghrelin concentrations. Nutr. Metab. Cardiovasc. Dis. 2005, 15, 410-417. [] []
+Druce, M.R.; Neary, N.M.; Small, C.J.; Milton, J.; Monteiro, M.; Patterson, M.; Ghatei, M.A.; Bloom, S.R. Subcutaneous administration of ghrelin stimulates energy  intake  in  healthy  lean  human  volunteers.  Int. J. Obes. 2006, 30, 293-296. [] []
+Enomoto, M.; Nagaya, N.; Uematsu, M.; Okumura, H.; Nakagawa, E.; Ono, F.; Hosoda, H.; Oya, H.; Kojima, M.; Kanmatsuse, K.; et al. Cardiovascular and hormonal effects of subcutaneous administration of ghrelin, a novel growth hormone-releasing peptide, in healthy humans. Clin. Sci. 2003, 105, 431-435. [] []
+Delhanty, P.J.; Neggers, S.J.; van der Lely, A.J. Mechanisms in endocrinology: Ghrelin: The differences between acyl-and des-acyl ghrelin. Eur. J. Endocrinol. 2012, 167, 601-608. [] []
+Stark, R.; Santos, V.V.; Geenen, B.; Cabral, A.; Dinan, T.; Bayliss, J.A.; Lockie, S.H.; Reichenbach, A.; Lemus, M.B.; Perello, M.; et al. Des-Acyl ghrelin and ghrelin o-acyltransferase regulate hypothalamic- pituitary-adrenal axis activation and anxiety in response to acute stress. Endocrinology 2016, 157, 3946-3957. [] []
+Bayliss, J.A.; Andrews, Z.B. Ghrelin is neuroprotective in Parkinson's disease: Molecular mechanisms of metabolic neuroprotection. Ther. Adv. Endocrinol. Metab. 2013, 4, 25-36. [] []
+Bayliss, J.A.; Lemus, M.; Santos, V.V.; Deo, M.; Elsworth, J.D.; Andrews, Z.B. Acylated but not des-acyl ghrelin is neuroprotective in an MPTP mouse model of Parkinson's disease. J. Neurochem. 2016, 137, 460-471. [] []
+Andrews, Z.B.; Erion, D.; Beiler, R.; Liu, Z.W.; Abizaid, A.; Zigman, J.; Elsworth, J.D.; Savitt, J.M.; DiMarchi, R.; Tschoep, M.; et al. Ghrelin promotes and protects nigrostriatal dopamine function via a UCP2-dependent mitochondrial mechanism. J. Neurosci. 2009, 29, 14057-14065. [] []
+
+Liu, J.; Prudom, C.E.; Nass, R.; Pezzoli, S.S.; Oliveri, M.C.; Johnson, M.L.; Veldhuis, P.; Gordon, D.A.; Howard, A.D.; Witcher,  D.R.;  et al.  Novel ghrelin assays provide evidence for independent regulation  of ghrelin acylation and secretion in healthy young men. J. Clin. Endocrinol. Metab. 2008, 93, 1980-1987. [] []
+Bednarek, M.A.; Feighner, S.D.; Pong, S.S.; McKee, K.K.; Hreniuk, D.L.; Silva, M.V.; Warren, V.A.; Howard, A.D.; van der Ploeg, L.H.; Heck, J.V. Structure-function studies on the new growth  hormone-releasing peptide, ghrelin: Minimal sequence of ghrelin necessary for activation of growth hormone secretagogue receptor 1a. J. Med. Chem. 2000, 43, 4370-4376. [] []
+Veldhuis, J.D.; Bowers, C.Y. Integrating GHS into the ghrelin system. Int. J. Pept. 2010, 2010, 879503. [] []
+Gauna, C.; van de Zande, B.; van Kerkwijk, A.; Themmen, A.P.; van der Lely, A.-J.; Delhanty, P.J. Unacylated ghrelin is not a functional antagonist but a full agonist of the type 1a growth hormone secretagogue receptor (GHS-R). Mol. Cell. Endocrinol. 2007, 274, 30-34. [] []
+Broglio, F.; Gottero, C.; Prodam, F.; Gauna, C.; Muccioli, G.; Papotti, M.; Abribat, T.; van der Lely, A.J.; Ghigo, E. Non-acylated ghrelin counteracts the metabolic but not the neuroendocrine response to acylated ghrelin in humans. J. Clin. Endocrinol. Metab. 2004, 89, 3062-3065. [] []
+Benso, A.; St-Pierre, D.H.; Prodam, F.; Gramaglia, E.; Granata, R.; van der Lely, A.J.; Ghigo, E.; Broglio, F. Metabolic effects of overnight continuous infusion of unacylated ghrelin in humans. Eur. J. Endocrinol. 2012, 166, 911-916. [] []
+Gauna, C.; Meyler, F.M.; Janssen, J.A.; Delhanty, P.J.; Abribat, T.; van Koetsveld, P.; Hofland, L.J.; Broglio, F.; Ghigo, E.; van der Lely, A.J. Administration of acylated ghrelin reduces insulin sensitivity, whereas the combination of acylated plus unacylated ghrelin strongly improves insulin sensitivity. J. Clin. Endocrinol. Metab. 2004, 89, 5035-5042. [] []
+Inhoff, T.; Monnikes, H.; Noetzel, S.; Stengel, A.; Goebel, M.; Dinh, Q.T.; Riedl, A.; Bannert, N.; Wisser, A.S.; Wiedenmann, B.; et al. Desacyl ghrelin inhibits the orexigenic effect of peripherally injected ghrelin in rats. Peptides 2008, 29, 2159-2168. [] []
+Kumar, R.; Salehi, A.; Rehfeld, J.F.; Hoglund, P.; Lindstrom, E.; Hakanson, R. Proghrelin peptides: Desacyl ghrelin is a powerful inhibitor of acylated ghrelin, likely to impair physiological effects of acyl ghrelin but not of obestatin a study of pancreatic polypeptide secretion from mouse islets. Regul. Pept. 2010, 164, 65-70. [] []
+Toshinai, K.; Yamaguchi, H.; Sun, Y.; Smith, R.G.; Yamanaka, A.; Sakurai, T.; Date, Y.; Mondal, M.S.; Shimbara, T.; Kawagoe, T.; et al. Des-acyl ghrelin induces food intake by a mechanism independent of the growth hormone secretagogue receptor. Endocrinology 2006, 147, 2306-2314. [] []
+Chen, C.Y.; Inui, A.; Asakawa, A.; Fujino, K.; Kato, I.; Chen, C.C.; Ueno, N.; Fujimiya, M. Des-acyl ghrelin acts by crf type 2 receptors to disrupt fasted stomach motility in conscious rats. Gastroenterology 2005, 129, 8-25. [] []
+Soares, J.-B.; Leite-Moreira, A.F. Ghrelin, des-acyl ghrelin and obestatin: Three pieces of the same puzzle.
+Peptides 2008, 29, 1255-1270. [] []
+Bang, A.S.; Soule, S.G.; Yandle, T.G.; Richards, A.M.; Pemberton, C.J. Characterisation of proghrelin peptides in mammalian tissue and plasma. J. Endocrinol. 2007, 192, 313-323. [] []
+Hosoda, H.; Kojima, M.; Mizushima, T.; Shimizu, S.; Kangawa, K. Structural divergence of human ghrelin. Identification of multiple ghrelin-derived molecules produced by post-translational processing. J. Biol. Chem. 2003, 278, 64-70. [] []
+Takagi, K.; Legrand, R.; Asakawa, A.; Amitani, H.; Francois, M.; Tennoune, N.; Coeffier, M.; Claeyssens, S.; Do Rego, J.-C.; Dechelotte, P. Anti-ghrelin immunoglobulins modulate ghrelin stability and its orexigenic effect in obese mice and humans. Nat. Commun. 2013, 4, 2685. [] []
+Kuppens, R.J.; Diene, G.; Bakker, N.E.; Molinas, C.; Faye, S.; Nicolino, M.; Bernoux, D.; Delhanty, P.J.; van der Lely, A.J.; Allas, S.; et al. Elevated ratio of acylated to unacylated ghrelin in children and young adults with prader-willi syndrome. Endocrine 2015, 50, 633-642. [] []
+Satou, M.; Nishi, Y.; Yoh, J.; Hattori, Y.; Sugimoto, H. Identification and characterization of acyl-protein thioesterase 1/lysophospholipase I as a ghrelin deacylation/lysophospholipid hydrolyzing enzyme in fetal bovine serum and conditioned medium. Endocrinology 2010, 151, 4765-4775. [] []
+
+Kirchner, H.; Gutierrez, J.A.; Solenberg, P.J.; Pfluger, P.T.; Czyzyk, T.A.; Willency, J.A.; Schurmann, A.; Joost, H.G.; Jandacek, R.J.; Hale, J.E.; et al. GOAT links dietary lipids with the endocrine control of energy balance. Nat. Med. 2009, 15, 741-745. [] []
+Moulin, A.; Brunel, L.; Verdie, P.; Gavara, L.; Martinez, J.; Fehrentz, J.A. Ghrelin receptor ligands: Design and synthesis of pseudopeptides and peptidomimetics. Curr. Chem. Biol. 2013, 7, 254-270. []
+Vodnik, M.; Strukelj, B.; Lunder, M. Ghrelin receptor ligands reaching clinical trials: From peptides to peptidomimetics; from agonists to antagonists. Horm. Metab. Res. 2016, 48, 1-15. [] []
+Broglio, F.; Benso, A.; Castiglioni, C.; Gottero, C.; Prodam, F.; Destefanis, S.; Gauna, C.; Lely, A.J.; Deghenghi, R.;  Bo, M.;  et al.   The endocrine response to ghrelin as a function of gender in humans in   young and elderly subjects. J. Clin. Endocrinol. Metab. 2003, 88, 1537-1542. [] []
+Arvat, E.; Maccario, M.; Vito, L.D.; Broglio, F.; Benso, A.; Gottero, C.; Papotti, M.; Muccioli, G.; Dieguez, C.; Casanueva,  F.F.;  et  al. Endocrine  activities  of  ghrelin,  a  natural  growth  hormone  secretagogue  (GHS), in humans: Comparison and interactions with hexarelin, a nonnatural peptidyl GHS, and GH-releasing hormone. J. Clin. Endocrinol. Metab. 2001, 86, 1169-1174. [] []
+Deghenghi, R.; Cananzi, M.M.; Torsello, A.; Battisti, C.; Muller, E.E.; Locatelli, V. GH-releasing activity of hexarelin, a new growth hormone releasing peptide, in infant and adult rats. Life Sci. 1994, 54, 1321-1328. []
+Ghigo, E.; Arvat, E.; Gianotti, L.; Grottoli, S.; Rizzi, G.; Ceda, G.P.; Boghen, M.F.; Deghenghi, R.; Camanni, F. Short-term administration of intranasal or oral hexarelin, a synthetic hexapeptide, does not desensitize the growth hormone responsiveness in human aging. Eur. J. Endocrinol. 1996, 135, 407-412. [] []
+Hansen, B.S.; Raun, K.; Nielsen, K.K.; Johansen, P.B.; Hansen, T.K.; Peschke, B.; Lau, J.; Andersen, P.H.; Ankersen, M. Pharmacological characterisation of a new oral gh secretagogue, NN703. Eur. J. Endocrinol. 1999, 141, 180-189. [] []
+Patchett, A.A.; Nargund, R.P.; Tata, J.R.; Chen, M.H.; Barakat, K.J.; Johnston, D.B.; Cheng, K.; Chan, W.W.; Butler, B.; Hickey, G. Design and biological activities of L-163,191 (MK-0677): A potent, orally active growth hormone secretagogue. Proc. Natl. Acad. Sci. USA 1995, 92, 7001-7005. [] []
+Phung, L.T.; Sasaki, A.; Lee, H.G.; Vega, R.A.; Matsunaga, N.; Hidaka, S.; Kuwayama, H.; Hidari, H. Effects of the administration of growth hormone-releasing peptide-2 (GHRP-2) orally by gavage and in feed on growth hormone release in swine. Domest. Anim. Endocrinol. 2001, 20, 9-19. []
+Pihoker, C.; Badger, T.M.; Reynolds, G.A.; Bowers, C.Y. Treatment effects of intranasal growth hormone releasing peptide-2 in children with short stature. J. Endocrinol. 1997, 155, 79-86. [] []
+Roumi, M.; Marleau, S.; du Souich, P.; Maggi, T.; Deghenghi, R.; Ong, H. Kinetics and disposition of hexarelin, a peptidic growth hormone secretagogue, in rats. Drug Metab. Dispos. 2000, 28, 44-50. []
+Torsello, A.; Luoni, M.; Schweiger, F.; Grilli, R.; Guidi, M.; Bresciani, E.; Deghenghi, R.; Muller, E.E.; Locatelli, V. Novel hexarelin analogs stimulate feeding in the rat through a mechanism not involving growth hormone release. Eur. J. Pharmacol. 1998, 360, 123-129. []
+Laferrere, B.; Abraham, C.;  Russell, C.D.;  Bowers, C.Y.  Growth hormone releasing peptide-2 (GHRP-2), like ghrelin, increases food intake in healthy men. J. Clin. Endocrinol. Metab. 2005, 90, 611-614. [] []
+Okada, K.; Ishii, S.; Minami, S.; Sugihara, H.; Shibasaki, T.; Wakabayashi, I. Intracerebroventricular administration of the growth hormone-releasing peptide KP-102 increases food intake in free-feeding  rats. Endocrinology 1996, 137, 5155-5158. []
+Lee, H.G.; Vega, R.A.; Phung, L.T.; Matsunaga, N.; Kuwayama, H.; Hidari, H. The effect of growth hormone-releasing peptide-2 (KP102) administration on plasma insulin-like growth factor (IGF)-1 and IGF-binding proteins in holstein steers on different planes of nutrition. Domest. Anim. Endocrinol. 2000, 18, 293-308. []
+Lawrence, C.B.; Snape, A.C.; Baudoin, F.M.; Luckman, S.M. Acute central ghrelin and GH secretagogues induce feeding and activate brain appetite centers. Endocrinology 2002, 143, 155-162. [] []
+Inui, A.; Asakawa, A.; Bowers, C.Y.; Mantovani, G.; Laviano, A.; Meguid, M.M.; Fujimiya, M. Ghrelin, appetite, and gastric motility: The emerging role of the stomach as an endocrine organ. FASEB J. 2004, 18, 439-456. [] []
+
+Egecioglu, E.; Jerlhag, E.; Salome, N.; Skibicka, K.P.; Haage, D.; Bohlooly-Y, M.; Andersson, D.; Bjursell, M.; Perrissoud, D.; Engel, J.A.; et al. Ghrelin increases intake of rewarding food in rodents. Addict. Biol. 2010, 15, 304-311. [] []
+Skibicka, K.P.; Hansson, C.; Alvarez-Crespo, M.; Friberg, P.A.; Dickson, S.L. Ghrelin directly targets the ventral tegmental area to increase food motivation. Neuroscience 2011, 180, 129-137. [] []
+Kawahara, Y.; Kawahara, H.; Kaneko, F.; Yamada, M.; Nishi, Y.; Tanaka, E.; Nishi, A. Peripherally administered ghrelin induces bimodal effects on the mesolimbic dopamine system depending on food-consumptive states. Neuroscience 2009, 161, 855-864. [] []
+Sanger, G.J. Motilin, ghrelin and related neuropeptides as targets for the treatment of GI diseases. Drug Discov. Today 2008, 13, 234-239. [] []
+Charoenthongtrakul, S.; Giuliana, D.; Longo, K.A.; Govek, E.K.; Nolan, A.; Gagne, S.; Morgan, K.; Hixon, J.; Flynn, N.; Murphy, B.J.; et al. Enhanced gastrointestinal motility with orally active ghrelin receptor agonists.
+J. Pharmacol. Exp. Ther. 2009, 329, 1178-1186. [] []
+Sivertsen, B.; Lang, M.; Frimurer, T.M.; Holliday, N.D.; Bach, A.; Els, S.; Engelstoft, M.S.; Petersen, P.S.; Madsen, A.N.; Schwartz, T.W.; et al. Unique interaction pattern for a functionally biased ghrelin receptor agonist. J. Biol. Chem. 2011, 286, 20845-20860. [] []
+Hoveyda, H.R.; Marsault, E.; Gagnon, R.; Mathieu, A.P.; Vezina, M.; Landry, A.; Wang, Z.; Benakli, K.; Beaubien, S.;  Saint-Louis, C.;  et al.   Optimization of the potency and pharmacokinetic properties of      a macrocyclic ghrelin receptor agonist (Part I): Development of ulimorelin (TZP-101) from hit to clinic.   J. Med. Chem. 2011, 54, 8305-8320. [] []
+Pietra, C.; Takeda, Y.; Tazawa-Ogata, N.; Minami, M.; Xia, Y.; Duus, E.M.; Northrup, R. Anamorelin HCL (ONO-7643), a novel ghrelin receptor agonist, for the treatment of cancer anorexia-cachexia syndrome: Preclinical profile. J. Cachexia Sarcopenia Muscle 2014, 5, 329-337. [] []
+Halem, H.A.; Taylor, J.E.; Dong, J.Z.; Shen, Y.; Datta, R.; Abizaid, A.; Diano, S.; Horvath, T.L.; Culler, M.D. A novel growth hormone secretagogue-1a receptor antagonist that blocks ghrelin-induced growth hormone secretion but induces increased body weight gain. Neuroendocrinology 2005, 81, 339-349. [] []
+Hassouna, R.; Labarthe, A.; Zizzari, P.; Videau, C.; Culler, M.; Epelbaum, J.; Tolle, V. Actions of agonists and antagonists of the ghrelin/GHS-R pathway on GH secretion, appetite, and cFos activity. Front. Endocrinol. 2013, 4, 25. [] []
+Costantini, V.J.; Vicentini, E.; Sabbatini, F.M.; Valerio, E.; Lepore, S.; Tessari, M.; Sartori, M.; Michielin, F.; Melotto, S.; Bifone, A.; et al. GSK1614343, a novel ghrelin receptor antagonist, produces an unexpected increase of food intake and body weight in rodents and dogs. Neuroendocrinology 2011, 94, 158-168. [] []
+M'Kadmi, C.; Leyris, J.-P.; Onfroy, L.; Gales, C.; Sauliere, A.; Gagne, D.; Damian, M.; Mary, S.; Maingot, M.; Denoyelle, S.;  et  al. Agonism,  antagonism  and  inverse  agonism  bias  at  the  Ghrelin  receptor  signaling. J. Biol. Chem. 2015, 290, 27021-27039. [] []
+Depoortere, I. Targeting the ghrelin receptor to regulate food intake. Regul. Pept. 2009, 156, 13-23. [] []
+Moulin, A.; Ryan, J.; Martinez, J.; Fehrentz, J.-A. Recent developments in ghrelin receptor ligands.
+ChemMedChem 2007, 2, 1242-1259. [] []
+Walker, R.F.; Codd, E.E.; Barone, F.C.; Nelson, A.H.; Goodwin, T.; Campbell, S.A. Oral activity of the growth hormone releasing peptide His-D-Trp-Ala-Trp-D-Phe-Lys-NH2 in rats, dogs and monkeys. Life Sci. 1990, 47, 29-36. []
+Bowers, C.Y.; Momany, F.A.; Reynolds, G.A.; Hong, A. On the in vitro and in vivo activity of a new synthetic hexapeptide that acts on the pituitary to specifically release growth hormone. Endocrinology 1984, 114, 1537-1545. [] []
+Ghigo, E.; Arvat, E.; Gianotti, L.; Imbimbo, B.P.; Lenaerts, V.; Deghenghi, R.; Camanni, F. Growth hormone- releasing activity of hexarelin, a new synthetic hexapeptide, after intravenous, subcutaneous, intranasal, and oral administration in man. J. Clin. Endocrinol. Metab. 1994, 78, 693-698. []
+Laron, Z.; Frenkel, J.; Deghenghi, R.; Anin, S.; Klinger, B.; Silbergeld, A. Intranasal administration of the GHRP hexarelin accelerates growth in short children. Clin. Endocrinol. 1995, 43, 631-635. []
+
+Imbimbo, B.P.; Mant, T.; Edwards, M.; Amin, D.; Dalton, N.; Boutignon, F.; Lenaerts, V.; Wuthrich, P.; Deghenghi, R. Growth hormone-releasing activity of hexarelin in humans. A dose-response study.  Eur.  J. Clin. Pharmacol. 1994, 46, 421-425. [] []
+Arvat, E.; di Vito, L.; Maccagno, B.; Broglio, F.; Boghen, M.F.; Deghenghi, R.; Camanni, F.; Ghigo, E. Effects of GHRP-2 and hexarelin, two synthetic GH-releasing peptides, on GH, prolactin, ACTH and cortisol levels in man. Comparison with the effects of GHRH, TRH and HCRH. Peptides 1997, 18, 885-891. []
+Bowers, C.Y. Gh releasing peptides--Structure and kinetics. J. Pediatr. Endocrinol. 1993, 6, 21-31. [] []
+Pihoker, C.; Kearns, G.L.; French, D.; Bowers, C.Y. Pharmacokinetics and pharmacodynamics of growth hormone-releasing peptide-2: A phase I study in children. J. Clin. Endocrinol. Metab. 1998, 83, 1168-1172. [] []
+Broglio, F.; Benso, A.; Gottero, C.; Muccioli, G.; Deghenghi, R.; Ghigo, E.; Arvat, E. Endocrine activities of alexamorelin (Ala-His-D-2-Methyl-Trp-Ala-Trp-D-Phe-Lys-Nh2), a synthetic gh secretagogue, in humans. Eur. J. Endocrinol. 2000, 143, 419-425. [] []
+Ankersen, M.; Johansen, N.L.; Madsen, K.; Hansen, B.S.; Raun, K.; Nielsen, K.K.; Thogersen, H.; Hansen, T.K.; Peschke, B.; Lau, J.; et al. A new series of highly potent growth hormone-releasing peptides derived from ipamorelin. J. Med. Chem. 1998, 41, 3699-3704. [] []
+Gobburu, J.V.; Agerso, H.; Jusko, W.J.; Ynddal, L. Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers. Pharm. Res. 1999, 16, 1412-1416. [CrossRef] []
+Johansen, P.B.; Nowak, J.; Skjaerbaek, C.; Flyvbjerg, A.; Andreassen, T.T.; Wilken, M.; Orskov, H. Ipamorelin, a new growth-hormone-releasing peptide, induces longitudinal bone growth in rats. Growth Horm. IGF Res. 1999, 9, 106-113. [] []
+Polvino, W.J.; Nelson, R.; Mann, W.R. Method of Stimulating the Motility of the Gastrointestinal System using Ipamorelin. U.S. Patent, U.S. 20090143310 A1, 4 July 2009.
+Carpino, P.A.; Lefker, B.A.; Toler, S.M.; Pan, L.C.; Hadcock, J.R.; Cook, E.R.; DiBrino, J.N.; Campeta, A.M.; DeNinno, S.L.; Chidsey-Frink, K.L.; et al. Pyrazolinone-piperidine dipeptide growth hormone secretagogues (GHSS). Discovery of capromorelin. Bioorg. Med. Chem. 2003, 11, 581-590. []
+Khojasteh-Bakht, S.C.; O'Donnell, J.P.; Fouda, H.G.; Potchoiba, M.J. Metabolism, pharmacokinetics, tissue distribution, and excretion of [14c]Cp-424391 in rats. Drug Metab. Dispos. Biol. Fate Chem. 2005, 33, 190-199. [] []
+Smith, R.G.; Pong, S.S.; Hickey, G.; Jacks, T.; Cheng, K.; Leonard, R.; Cohen, C.J.; Arena, J.P.; Chang, C.H.; Drisko, J.; et al. Modulation of pulsatile GH release through a novel receptor in hypothalamus and pituitary gland. Recent Prog. Horm. Res. 1996, 51, 261-285. []
+Pan, L.C.; Carpino, P.A.; Lefker,  B.A.;  Ragan,  J.A.;  Toler,  S.M.;  Pettersen,  J.C.;  Nettleton,  D.O.;  Ng, O.; Pirie, C.M.; Chidsey-Frink, K.; et al. Preclinical pharmacology of CP-424,391, an orally active pyrazolinone-piperidine [correction of pyrazolidinone-piperidine] growth hormone secretagogue. Endocrine 2001, 14, 121-132. [CrossRef]
+Lembo, A.; Camilleri, M.; McCallum, R.; Sastre, R.; Breton, C.; Spence, S.; White, J.; Currie, M.; Gottesdiener, K.; Stoner, E. Relamorelin reduces vomiting frequency and severity and accelerates gastric emptying in adults with diabetic gastroparesis. Gastroenterology 2016, 151, 87.e86-96.e86. [] []
+Palus, S.; Schur, R.; Akashi, Y.J.; Bockmeyer, B.; Datta, R.; Halem, H.; Dong, J.; Culler, M.D.; Adams, V.; Anker, S.D.; et al. Ghrelin and its analogues, BIM-28131 and BIM-28125, improve body weight and regulate the expression of MuRF-1 and MAFbx in a rat heart failure model. PLoS ONE 2011, 6, e26865. [] []
+Strassburg, S.; Anker, S.D.; Castaneda, T.R.; Burget, L.; Perez-Tilve, D.; Pfluger, P.T.; Nogueiras, R.; Halem, H.; Dong, J.Z.; Culler, M.D.; et al.  Long-term effects of ghrelin and ghrelin receptor agonists on energy balance in rats. Am. J. Physiol. Endocrinol. Metab. 2008, 295, E78-E84. [] []
+Fischer, K.; Finan, B.; Clemmensen, C.; van der Ploeg, L.H.T.; Tschop, M.H.; Muller, T.D. The pentapeptide rm-131 promotes food intake and adiposity in wildtype mice but not in mice lacking the ghrelin receptor. Front. Nutr. 2014, 1, 31. [] []
+
+Palus, S.; von Haehling, S.; Doehner, W.; Datta, R.; Zhang, J.; Dong, J.Z.; Culler, M.D.; Anker, S.D.; Springer, J. Effect of application route of the ghrelin analog BIM-28131 (RM-131) on body weight and body composition in a rat heart failure model. Int. J. Cardiol. 2013, 168, 2369-2374. [] []
+Van der Ploeg, L.; Laken, H.; Sharma, S.; Datta, R.; Halem, H.; Dong, J.; Touvay, C.; Teillot, M.; Noonan, P.; Tartaglia, L.; et al. Preclinical gastrointestinal prokinetic efficacy and endocrine effects of the ghrelin mimetic RM-131. Life Sci. 2014, 109, 20-29. [] []
+Shin, A.; Camilleri, M.; Busciglio, I.; Burton, D.; Smith, S.A.; Vella, A.; Ryks, M.; Rhoten, D.; Zinsmeister, A.R. The ghrelin agonist RM-131 accelerates gastric emptying of solids and reduces symptoms in patients with  type 1 diabetes mellitus. Clin. Gastroenterol. Hepatol. 2013, 11, 1453-1459. [] []
+Garcia, J.M.; Swerdloff, R.; Wang, C.; Kyle, M.; Kipnes, M.; Biller, B.M.; Cook, D.; Yuen, K.C.; Bonert, V.; Dobs, A.; et al. Macimorelin (AEZS-130)-stimulated growth hormone (GH) test: Validation of a novel oral stimulation test for the diagnosis of adult GH deficiency. J. Clin. Endocrinol. Metab. 2013, 98, 2422-2429. [] []
+Ali, S.A.; Garcia, J.M. Randomized clinical trial of the novel oral ghrelin mimetic macimorelin in the treatment of cancer cachexia: Study design and preliminary results. In Proceedings of the Endocrine Society's 95th Annual Meeting and Expo, San Francisco, CA, USA, 15-18 June 2013.
+Piccoli, F.; Degen, L.; MacLean, C.; Peter, S.; Baselgia, L.; Larsen, F.; Beglinger, C.; Drewe, J. Pharmacokinetics and pharmacodynamic effects of an oral ghrelin agonist in healthy subjects. J. Clin. Endocrinol. Metab. 2007, 92, 1814-1820. [] []
+Broglio, F.; Boutignon, F.; Benso, A.; Gottero, C.; Prodam, F.; Arvat, E.; Ghe, C.; Catapano, F.; Torsello, A.; Locatelli, V.; et al. EP1572: A novel peptido-mimetic GH secretagogue with potent and selective GH-releasing activity in man. J. Endocrinol. Investig. 2002, 25, RC26-RC28. [] []
+Ankersen, M.; Kramer Nielsen, K.; Kruse Hansen, T.; Raun, K.; Sehested Hansen, B. Growth hormone secretagogues derived from NN703 with hydrazidesas c-terminal. Eur. J. Med. Chem. 2000, 35, 487-497. []
+Zdravkovic, M.; Sogaard, B.; Ynddal, L.; Christiansen, T.; Agerso, H.; Thomsen, M.S.; Falch, J.E.; Ilondo, M.M. The pharmacokinetics, pharmacodynamics, safety and tolerability of a single dose of NN703, a novel orally active growth hormone secretagogue in healthy male volunteers. Growth Horm. IGF Res. 2000, 10, 193-198. [] []
+Zdravkovic, M.; Christiansen, T.; Eliot, L.; Agersoe, H.; Thomsen, M.S.; Falch, J.F.; Sogaard, B.; Ynddal, L.; Ilondo, M.M. The pharmacokinetics, pharmacodynamics, safety and tolerability following 7 days daily oral treatment with NN703 in healthy male subjects. Growth Horm. IGF Res. 2001, 11, 41-48. [] []
+Garcia, J.M.; Polvino, W.J. Pharmacodynamic hormonal effects of anamorelin, a novel oral ghrelin mimetic and growth hormone secretagogue in healthy volunteers. Growth Horm. IGF Res. 2009, 19, 267-273. [] []
+Garcia, J.M.; Polvino, W.J. Effect on body weight and safety of rc-1291, a novel, orally available ghrelin mimetic and growth hormone secretagogue: Results of a phase I, randomized, placebo-controlled, multiple-dose study in healthy volunteers. Oncologist 2007, 12, 594-600. [] []
+Garcia, J.; Boccia, R.V.; Graham, C.; Kumor, K.; Polvino, W. A phase II randomized, placebo-controlled, double-blind  study  of  the  efficacy  and  safety  of  RC-1291  (RC)  for  the  treatment  of  cancer  cachexia. J. Clin. Oncol. 2007, 25, 9133.
+Garcia, J.M.; Friend, J.; Allen, S. Therapeutic potential of anamorelin, a novel, oral ghrelin mimetic, in patients with cancer-related cachexia: A multicenter, randomized, double-blind, crossover, pilot study. Support Care Cancer 2013, 21, 129-137. [] []
+Adunsky, A.; Chandler, J.; Heyden, N.; Lutkiewicz, J.; Scott, B.B.; Berd, Y.; Liu, N.; Papanicolaou, D.A. Mk-0677 (ibutamoren mesylate) for the treatment of patients recovering from hip fracture: A multicenter, randomized, placebo-controlled phase IIb study. Arch. Gerontol. Geriatr. 2011, 53, 183-189. [] []
+Svensson, J.; Lonn, L.; Jansson, J.O.; Murphy, G.; Wyss, D.; Krupa, D.; Cerchio, K.; Polvino, W.; Gertz, B.; Boseaus, I.; et al. Two-month treatment of obese subjects with the oral growth hormone (GH) secretagogue MK-677 increases GH secretion, fat-free mass, and energy expenditure. J. Clin. Endocrinol. Metab. 1998, 83, 362-369. [] []
+
+Jacks, T.; Smith, R.; Judith, F.; Schleim, K.; Frazier, E.; Chen, H.; Krupa, D.; Hora, D., Jr.; Nargund, R.; Patchett, A.; et al. Mk-0677, a potent, novel, orally active growth hormone (GH) secretagogue: GH, insulin-like growth factor i, and other hormonal responses in beagles. Endocrinology 1996, 137, 5284-5289. []
+Prahalada, S.; Block, G.; Handt, L.; DeBurlet, G.; Cahill, M.; Hoe, C.M.; van Zwieten, M.J. Insulin-like growth factor-1 and growth hormone (GH) levels in canine cerebrospinal fluid are unaffected by GH or gh secretagogue (MK-0677) administration. Horm. Metab. Res. 1999, 31, 133-137. [] []
+Fraser, G.L.; Hoveyda, H.R.; Tannenbaum, G.S. Pharmacological demarcation of the growth hormone, gut motility and feeding effects of ghrelin using a novel ghrelin receptor agonist. Endocrinology 2008, 149, 6280-6288. [] []
+Venkova, K.; Fraser, G.; Hoveyda, H.R.; Greenwood-Van Meerveld, B. Prokinetic effects of a new ghrelin receptor agonist TZP-101 in a rat model of postoperative ileus. Dig. Dis. Sci. 2007, 52, 2241-2248. [] []
+Fraser, G.L.; Venkova, K.; Hoveyda, H.R.; Thomas, H.; Greenwood-Van Meerveld, B. Effect of the ghrelin receptor agonist TZP-101 on colonic transit in a rat model of postoperative ileus. Eur. J. Pharmacol. 2009, 604, 132-137. [] []
+Lasseter, K.C.; Shaughnessy, L.; Cummings, D.; Pezzullo, J.C.; Wargin, W.; Gagnon, R.; Oliva, J.; Kosutic, G. Ghrelin agonist (TZP-101): Safety, pharmacokinetics and pharmacodynamic evaluation in healthy volunteers: A phase I, first-in-human study. J. Clin. Pharmacol. 2008, 48, 193-202. [] []
+Wo, J.M.; Ejskjaer, N.; Hellstrom, P.M.; Malik, R.A.; Pezzullo, J.C.; Shaughnessy, L.; Charlton, P.; Kosutic, G.; McCallum, R.W. Randomised clinical trial: Ghrelin agonist TZP-101 relieves gastroparesis associated with severe nausea and vomiting--Randomised clinical study subset data. Aliment. Pharmacol. Ther. 2011, 33, 679-688. [] []
+Ejskjaer, N.; Dimcevski, G.; Wo, J.; Hellstrom, P.M.; Gormsen, L.C.; Sarosiek, I.; Softeland, E.; Nowak, T.; Pezzullo, J.C.; Shaughnessy, L.; et al. Safety and efficacy of ghrelin agonist TZP-101 in relieving symptoms in patients with diabetic gastroparesis: A randomized, placebo-controlled study. Neurogastroenterol. Motil. 2010, 22, e1069-e1281. [] []
+Zhang, H.; Garcia, J.M. Anamorelin hydrochloride for the treatment of cancer-anorexia-cachexia in NSCLC.
+Expert Opin. Pharmacother. 2015, 16, 1245-1253. [] []
+Garcia, J.M.; Boccia, R.V.; Graham, C.D.; Yan, Y.; Duus, E.M.; Allen, S.; Friend, J. Anamorelin for patients with cancer cachexia: An integrated analysis of two phase 2, randomised, placebo-controlled, double-blind trials. Lancet Oncol. 2015, 16, 108-116. []
+Shimizu, Y.; Chang, E.C.; Shafton, A.D.; Ferens, D.M.; Sanger, G.J.; Witherington, J.; Furness, J.B. Evidence that stimulation of ghrelin receptors in the spinal cord initiates propulsive activity in the colon of the rat.
+J. Physiol. 2006, 576, 329-338. [] []
+Shafton, A.D.; Sanger, G.J.; Witherington, J.; Brown, J.D.; Muir, A.; Butler, S.; Abberley, L.; Shimizu, Y.; Furness, J.B. Oral administration of a centrally acting ghrelin receptor agonist to conscious rats triggers defecation. Neurogastroenterol. Motil. 2009, 21, 71-77. [] []
+Naitou, K.; Mamerto, T.; Pustovit, R.V.; Rivera, L.R.; Callaghan, B.; Ringuet, M.T.; Chan, A.; Pietra, C.; Furness, J.B. The ghrelin receptor agonist, HM01, activates the innervation of the colon to initiate coordinated propulsive contractions and bowel emptying. Auton. Neurosci. Basic Clin. 2015, 192, 58-59. []
+Karasawa, H.; Pietra, C.; Giuliano, C.; Garcia-Rubio, S.; Xu, X.; Yakabi, S.; Tache, Y.; Wang, L. New ghrelin agonist, HM01 alleviates constipation and l-dopa-delayed gastric  emptying  in  6-hydroxydopamine  rat model of Parkinson's disease. Neurogastroenterol. Motil. 2014, 26, 1771-1782. [] []
+Naitou, K.; Mamerto, T.P.; Pustovit, R.V.; Callaghan, B.; Rivera, L.R.; Chan, A.J.; Ringuet, M.T.; Pietra, C.; Furness, J.B. Site and mechanism of the colokinetic action of the ghrelin receptor agonist, HM01. Neurogastroenterol. Motil. 2015, 27, 1764-1771. [] []
+Borner, T.; Loi, L.; Pietra, C.; Giuliano, C.; Lutz, T.A.; Riediger, T. The ghrelin receptor agonist HM01 mimics the neuronal effects of ghrelin in the arcuate nucleus and attenuates anorexia-cachexia syndrome in tumor-bearing rats. Am. J. Physiol. Regul. Integr. Comp. Physiol. 2016, 311, R89-R96. [] []
+Esler, W.P.; Rudolph, J.; Claus, T.H.; Tang, W.; Barucci, N.; Brown, S.-E.; Bullock, W.; Daly, M.; DeCarr, L.; Li, Y.; et al. Small-molecule ghrelin receptor antagonists improve glucose tolerance, suppress appetite, and promote weight loss. Endocrinology 2007, 148, 5175-5185. [] []
+
+Rudolph, J.; Esler, W.P.; O'Connor, S.; Coish, P.D.; Wickens, P.L.; Brands, M.; Bierer, D.E.; Bloomquist, B.T.; Bondar, G.; Chen, L.; et al. Quinazolinone derivatives as orally available ghrelin receptor antagonists for the treatment of diabetes and obesity. J. Med. Chem. 2007, 50, 5202-5216. [] []
+Moran, T.H.; Dailey, M.J. Gut peptides: Targets for antiobesity drug development? Endocrinology 2009, 150, 2526-2530. [] []
+Takahashi, B.; Funami, H.; Iwaki, T.; Maruoka, H.; Shibata, M.; Koyama, M.; Nagahira, A.; Kamiide, Y.; Kanki, S.; Igawa, Y.; et al. Orally active ghrelin receptor inverse agonists and their actions on a rat obesity model. Bioorg. Med. Chem. 2015, 23, 4792-4803. [] []
+McCoull, W.; Barton, P.; Brown, A.J.H.; Bowker, S.S.; Cameron, J.; Clarke, D.S.; Davies, R.D.M.; Dossetter, A.G.; Ertan, A.; Fenwick, M.; et al. Identification, optimization, and pharmacology of acylurea GHS-R1a inverse agonists. J. Med. Chem. 2014, 57, 6128-6140. [] []
+Engel, J.A.; Nylander, I.; Jerlhag, E. A ghrelin receptor (GHS-R1a) antagonist attenuates   the  rewarding properties of morphine and increases opioid   peptide   levels   in   reward   areas   in   mice.   Eur. Neuropsychopharmacol. 2015, 25, 2364-2371. [] []
+Jerlhag, E.; Engel, J.A. Ghrelin receptor antagonism attenuates nicotine-induced locomotor stimulation, accumbal dopamine release and conditioned place preference in mice. Drug Alcohol. Depend. 2011, 117, 126-131. [] []
+Skibicka, K.P.; Hansson, C.; Egecioglu, E.; Dickson, S.L. Role of ghrelin in food reward: Impact of ghrelin on sucrose self-administration and mesolimbic dopamine and acetylcholine receptor gene expression. Addict. Biol. 2012, 17, 95-107. [] []
+Sustkova-Fiserova, M.; Jerabek, P.; Havlickova, T.; Kacer, P.; Krsiak, M. Ghrelin receptor antagonism of morphine-induced accumbens dopamine release and behavioral stimulation in rats. Psychopharmacology 2014, 231, 2899-2908. [] []
+Jerlhag, E.; Egecioglu, E.; Landgren, S.; Salome, N.; Heilig, M.; Moechars, D.; Datta, R.; Perrissoud, D.; Dickson, S.L.; Engel, J.A. Requirement of central ghrelin signaling for alcohol reward.  Proc.  Natl.  Acad.  Sci. USA 2009, 106, 11318-11323. [] []
+Lenard, N.R.; Berthoud, H.-R. Central and peripheral regulation of food intake and physical activity: Pathways and genes. Obesity 2008, 16, S11-S22. [] []
+Wise, R.A. Role of brain dopamine in food reward and reinforcement. Philos. Trans. R. Soc. B Biol. Sci. 2006,
+361, 1149-1158. [] []
+Fields, H.L.; Hjelmstad, G.O.; Margolis, E.B.; Nicola, S.M. Ventral tegmental area neurons in learned appetitive behavior and positive reinforcement. Annu. Rev. Neurosci. 2007, 30, 289-316. [] []
+Narayanan, N.S.; Guarnieri, D.J.; DiLeone, R.J. Metabolic hormones, dopamine circuits, and feeding.
+Front. Neuroendocrinol. 2010, 31, 104-112. [] []
+Naleid, A.M.; Grace, M.K.; Cummings, D.E.; Levine, A.S. Ghrelin induces feeding in the mesolimbic reward pathway between the ventral tegmental area and the nucleus accumbens. Peptides 2005, 26, 2274-2279. [] []
+Skibicka, K.P.; Shirazi, R.H.; Rabasa-Papio, C.; Alvarez-Crespo, M.; Neuber, C.; Vogel, H.; Dickson, S.L. Divergent circuitry underlying food reward and intake effects of ghrelin: Dopaminergic VTA-accumbens projection mediates ghrelin's effect on food reward but not food intake. Neuropharmacology 2013, 73, 274-283. [] []
+Parent, M.A.; Amarante, L.M.; Swanson, K.; Laubach, M. Cholinergic and ghrelinergic receptors and kcnq channels in the medial PFC regulate the expression of palatability. Front. Behav. Neurosci. 2015, 9, 284. [] []
+Jerlhag, E.; Egecioglu, E.; Dickson, S.L.; Douhan, A.; Svensson, L.; Engel, J.A. Ghrelin administration into tegmental areas stimulates locomotor activity and increases extracellular concentration of dopamine in the nucleus accumbens. Addict. Biol. 2007, 12, 6-16. [] []
+Van der Plasse, G.; van Zessen, R.; Luijendijk, M.C.; Erkan, H.; Stuber, G.D.; Ramakers, G.M.; Adan, R.A. Modulation of cue-induced firing of ventral tegmental area dopamine neurons by leptin and ghrelin.     Int. J. Obes. 2015, 39, 1742-1749. [] []
+Jerlhag, E. Systemic administration of ghrelin induces conditioned place preference and stimulates accumbal dopamine. Addict. Biol. 2008, 13, 358-363. [] []
+
+Schaeffer, M.; Langlet, F.; Lafont, C.; Molino, F.; Hodson, D.J.; Roux, T.; Lamarque, L.; Verdie, P.; Bourrier, E.; Dehouck, B.; et al. Rapid sensing of circulating ghrelin by hypothalamic appetite-modifying neurons. Proc. Natl. Acad. Sci. USA 2013, 110, 1512-1517. [] []
+Banks, W.A.; Burney, B.O.; Robinson, S.M. Effects of triglycerides, obesity, and starvation on ghrelin transport across the blood-brain barrier. Peptides 2008, 29, 2061-2065. [] []
+Pan, W.; Tu, H.;  Kastin, A.J. Differential BBB interactions of three ingestive peptides:  Obestatin,  ghrelin, and adiponectin. Peptides 2006, 27, 911-916. [] []
+Drewes, L.R. Biology of the blood-brain glucose transporter. In Introduction to the Blood-Brain Barrier: Methodology; Biology and Pathology; Cambridge University Press: Cambridge, UK, 1998; pp. 165-174.
+Schwartz, M.W.; Sipols, A.; Kahn, S.E.; Lattemann, D.F.; Taborsky, G.J.;  Bergman,  R.N.;  Woods,  S.C.; Porte, D. Kinetics and specificity of insulin uptake from plasma into cerebrospinal fluid. Am. J. Physiol. Endocrinol. Metab. 1990, 259, E378.
+Currie, P.J.; Khelemsky, R.; Rigsbee, E.M.; Dono, L.M.; Coiro, C.D.; Chapman, C.D.; Hinchcliff, K. Ghrelin is an orexigenic peptide and elicits anxiety-like behaviors following administration into discrete regions of the hypothalamus. Behav. Brain Res. 2012, 226, 96-105. [] []
+Olszewski, P.K.; Grace, M.K.; Billington, C.J.; Levine, A.S. Hypothalamic paraventricular injections of ghrelin: Effect on feeding and c-Fos immunoreactivity. Peptides 2003, 24, 919-923. []
+Nieh, E.H.; Matthews, G.A.; Allsop, S.A.; Presbrey, K.N.; Leppla, C.A.; Wichmann, R.; Neve, R.; Wildes, C.P.; Tye, K.M. Decoding neural circuits that control compulsive sucrose seeking. Cell 2015, 160, 528-541. [] []
+Stuber, G.D.; Wise, R.A. Lateral hypothalamic circuits for feeding and reward. Nat. Neurosci. 2016, 19, 198-205. [] []
+Lutter, M.; Nestler, E.J. Homeostatic and hedonic signals interact in the regulation of food intake. J. Nutr.
+2009, 139, 629-632. [] []
+Harris, G.C.; Wimmer, M.; Aston-Jones, G. A role for lateral hypothalamic orexin neurons in reward seeking.
+Nature 2005, 437, 556-559. [] []
+Cason, A.M.; Smith, R.J.; Tahsili-Fahadan, P.; Moorman, D.E.; Sartor, G.C.; Aston-Jones, G. Role of orexin/hypocretin in reward-seeking and addiction: Implications for obesity. Physiol. Behav. 2010, 100, 419-428. [] []
+Aston-Jones, G.; Smith, R.J.; Sartor, G.C.; Moorman, D.E.; Massi, L.; Tahsili-Fahadan, P.; Richardson, K.A. Lateral hypothalamic orexin/hypocretin neurons: A role in reward-seeking and addiction. Brain Res. 2010, 1314, 74-90. [] []
+Sheng, Z.; Santiago, A.M.; Thomas, M.P.; Routh, V.H. Metabolic regulation of lateral hypothalamic  glucose-inhibited orexin neurons may influence midbrain reward neurocircuitry. Mol. Cell. Neurosci. 2014, 62, 30-41. [] []
+Saper, C.B.; Loewy, A.D. Efferent connections of the parabrachial nucleus in the rat. Brain Res. 1980, 197, 291-317. []
+Krukoff, T.L.; Harris, K.H.; Jhamandas, J.H. Efferent projections from the parabrachial nucleus demonstrated with the anterograde tracer phaseolus vulgaris leucoagglutinin. Brain Res. Bull. 1993, 30, 163-172. []
+Grill, H.J.; Friedman, M.I.; Norgren, R.; Scalera, G.; Seeley, R. Parabrachial nucleus lesions impair feeding response elicited by 2,5-anhydro-D-mannitol. Am. J. Physiol. 1995, 268, R676-R682. []
+Cornwall, J.; Cooper, J.D.; Phillipson, O.T. Afferent and efferent connections of the laterodorsal tegmental nucleus in the rat. Brain Res. Bull. 1990, 25, 271-284. []
+Wu, Q.; Boyle, M.P.; Palmiter, R.D. Loss of Gabaergic signaling by AgRP neurons to the parabrachial nucleus leads to starvation. Cell 2009, 137, 1225-1234. [] []
+Scalera, G.; Spector, A.C.; Norgren, R. Excitotoxic lesions of the parabrachial nuclei prevent conditioned taste aversions and sodium appetite in rats. Behav. Neurosci. 1995, 109, 997. [] []
+Spector, A.C.; Scalera, G.; Grill, H.J.; Norgren, R. Gustatory detection thresholds after parabrachial nuclei lesions in rats. Behav. Neurosci. 1995, 109, 939-954. [] []
+Berridge, K.C.; Robinson, T.E. Parsing reward. Trends Neurosci. 2003, 26, 507-513. []
+Abizaid, A.; Horvath, T.L. Ghrelin and the central regulation of feeding and energy balance. Indian J. Endocrinol. Metab. 2012, 16, S617-S626. []
+
+Oliveira-Maia, A.J.; Roberts, C.D.; Simon, S.A.; Nicolelis, M.A.L. Gustatory and reward brain circuits in the control of food intake. Adv. Tech. Stand. Neurosurg. 2011, 36, 31-59. []
+Jhamandas, J.H.; Harris, K.H.; Petrov, T.; Krukoff, T.L. Characterization of the parabrachial nucleus input to the hypothalamic paraventricular nucleus in the rat. J. Neuroendocrinol. 1992, 4, 461-471. [] []
+Coizet, V.; Dommett, E.J.; Klop, E.M.; Redgrave, P.; Overton, P.G. The parabrachial nucleus is a critical link in the transmission of short latency nociceptive information to midbrain dopaminergic neurons. Neuroscience 2010, 168, 263-272. [] []
+Igelstrom, K.M.; Herbison, A.E.; Hyland, B.I. Enhanced c-Fos expression in superior colliculus, paraventricular thalamus and septum during learning of cue-reward association. Neuroscience 2010, 168, 706-714. [] []
+Sarvari, M.; Kocsis, P.; Deli, L.; Gajari, D.; David, S.; Pozsgay, Z.; Hegedu" s, N.; Tihanyi, K.; Liposits, Z. Ghrelin modulates the fmri bold response of homeostatic and hedonic brain centers regulating energy balance in the rat. PLoS ONE 2014, 9, e97651. [] []
+Skibicka, K.P.; Dickson, S.L. Ghrelin and food reward: The story of potential underlying substrates. Peptides
+2011, 32, 2265-2273. [] []
+Wu, Q.; Clark, M.S.; Palmiter, R.D. Deciphering a neuronal circuit that mediates appetite. Nature 2012, 483, 594-597. [] []
+Kim, J.; Nakajima, K.; Oomura, Y.; Wayner, M.J.; Sasaki, K. Orexin-A and ghrelin depolarize the same pedunculopontine tegmental neurons in rats: An in vitro study. Peptides 2009, 30, 1328-1335. [] []
+Lanca, A.J.; Adamson, K.L.; Coen, K.M.; Chow, B.L.; Corrigall, W.A. The pedunculopontine tegmental nucleus and the role of cholinergic neurons in nicotine self-administration in the rat: A correlative neuroanatomical and behavioral study. Neuroscience 2000, 96, 735-742. []
+Kim, J.; Nakajima, K.; Oomura, Y.; Wayner, M.J.; Sasaki, K. Electrophysiological effects of ghrelin on pedunculopontine tegmental neurons in rats: An in vitro study. Peptides 2009, 30, 745-757. [] []
+Ferrario, C.R.; Labouebe, G.; Liu, S.; Nieh, E.H.; Routh, V.H.; Xu, S.; Connor, E.C. Homeostasis meets motivation in the battle to control food intake. J. Neurosci. 2016, 36, 11469. [] []
+Bouret, S.G.; Gorski, J.N.; Patterson, C.M.; Chen, S.; Levin, B.E.; Simerly, R.B. Hypothalamic neural projections are permanently disrupted in diet-induced obese rats. Cell Metab. 2008, 7, 179-185. [] []
+Figlewicz, D.; Evans, S.; Murphy, J.; Hoen, M.; Baskin, D. Expression of receptors for insulin and leptin in the ventral tegmental area/substantia nigra (VTA/SN) of the rat. Brain Res. 2003, 964, 107-115. []
+Su, J.; Geng, J.; Bao, J.; Tang, Y.; Liu, M.; Yu, H.; Han, Y.; Huang, W.; Zhou, S. Two ghrelin receptor agonists for adults with malnutrition: A systematic review and meta-analysis. Nutr. J. 2016, 15, 97. [] []
+(c) 2017 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ().

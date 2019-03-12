@@ -1,0 +1,235 @@
+
+
+
+
+
+
+Cite This: J. Agric. Food Chem. 2018, 66, 387-392
+
+pubs.acs.org/JAFC
+
+
+
+Ethyl Carbamate Formation Regulated by Lactic Acid Bacteria and Nonconventional Yeasts in Solid-State Fermentation of Chinese Moutai-Flavor Liquor
+Hai Du, Zhewei Song, and Yan Xu
+The Key Laboratory of Industrial Biotechnology of the Ministry of Education, State Key Laboratory of Food Science and Technology, Synergetic Innovation Center of Food Safety and Nutrition, School of Biotechnology, Jiangnan University, 1800 Lihu Avenue, Wuxi, Jiangsu 214122, China
+  
+
+
+
+
+
+
+
+
+
+
+
+
+INTRODUCTION
+Ethyl carbamate (EC; C2H5OCONH2) occurs naturally in
+fermented foods and beverages, and may have carcinogenic and mutagenic effects. EC has been classified as a group of 2A carcinogen (i.e., probably carcinogenic to humans) by the World Health Organization's International Agency for Research on Cancer (IARC, 2010). EC is widely present in fermented foods and beverages such as bread, wine, cheese, soy sauce, and vinegar.- The average excess cancer risk of an alcohol- drinking adult is twice that of an adult who does not drink. Accordingly, the amount and production mechanism of EC in fermented alcoholic beverages have attracted much attention. As traditional fermented alcoholic beverages are particularly important sources of EC intake, the health risks posed by this EC are of concern.
+Solid-state fermentation (SSF) is a commonly used technology for the production of traditional alcoholic beverages and can improve the texture and flavor of the product.Chinese Moutai-flavor liquor (53% alcohol by volume) production is a typical SSF process originating from ancient fermented beverages and driven by multistrain microbial communities. Exploring the presence and function of food microbiota during
+SSF processes has long been popular. The growth and metabolism of microbes are key factors influencing liquor fermentation.Some of the microbes decompose raw materials for the growth of microbiota and promote fermentation,while
+
+
+products.-However, research about the control of EC in Chinese liquor is still lacking. The knowledge gap remains between the complexity and the function of the microbial ecosystem.
+The formation of several EC precursors, such as urea, citrulline, and carbamoyl phosphate, has aided the development of biochemical approaches to generate EC using yeasts and lactic acid bacteria (LAB)., Urea, a major cause of EC production, is mainly produced by yeasts through arginine metabolism., The arginine deiminase pathway in the malolactic fermentation of wine has been characterized in certain isolates, including Oenococcus oeni.-The metabolism of arginine and the urea cycle are of oenological concern because they can result in the excretion of citrulline and urea, which can spontaneously react with ethanol to form EC.
+In this study, we employed amplicon and metatranscriptomic sequencing to explore nitrogen regulation in fermentation microbiota that produce and degrade EC precursors, particularly urea. Relationships were established between key microorganisms and the amounts of urea, which could provide important information for controlling the EC content in SSF processes.
+MATERIALS AND METHODS
+Reagents and Materials. Urea, amino acid standards, EC, and d5-
+EC were obtained from Sigma-Aldrich (St. Louis, MO, U.S.A.) with
+
+metabolites such as lactic acid can inhibit the growth of	 	
+
+pathogenic and corrupting bacteria.A recent trend toward mixed-culture inoculations (including nonconventional yeasts [i.e., non-Saccharomyces cerevisiae]) has already proven profit- able, producing improvements in the quality of a number of
+
+Received: October 31, 2017
+Revised:	December 11, 2017
+Accepted:  December 13, 2017
+Published:  December 13, 2017
+
+
+(c) 2017 American Chemical Society	387	DOI: 
+
+their purity >99.8%. A stock solution of EC (1000 mg L-1) was prepared in ethanol and was diluted with 40% (v/v) ethanol solution before application. N-Methyl-N-(tert-butyldimethylsilyl) trifluoroace- tamide (MTBSTFA; Sigma-Aldrich) was used as the derivatization agent. All solvents used were of HPLC grade. Ultrapure water was obtained using a Milli-Q system (Millipore, Milford, MA, U.S.A.). Hydrochloric acid (37%, m/m), acetic acid, and sodium acetate were obtained as analytical grade reagents from Sinopharm Chemical Reagent Group Corporation (Shanghai, China). Acetonitrile, dichloro- methane, diethyl ether, and ethanol were obtained from CNW (Germany).
+Sample Collection. Samples were taken from a distillery of the Moutai-flavor type in southwest China. Samples were collected from the same batch in two distinct phases of liquor production, namely heaping and fermentation. Heaping-phase samples were the grain mixture that had been heaped on the ground for 1, 2, or 3 days. Fermentation-phase samples were the grain mixture fermented in the anaerobic environment and taken at 0, 5, 10, 15, 20, 25, 30, and 32 days (the latter being the end of the fermentation). To obtain representative samples, fermented grains were collected at three different points from the top to the bottom of the pile and pool and then mixed thoroughly. About 500 g of sample were transferred to sterile bags, sealed and stored at -80 degC.
+DNA Extraction, PCR Amplification, and Sequencing. Genomic DNA was extracted using a Soil DNA Kit (Omega biotek; Norcross, GA). For high-throughput 16S rRNA gene paired-end sequencing, the V3-V4 regions of 16S rDNA genes were amplified using the universal primer set 338F (5'-GTACTCCTACGGGAGG- CAGCA-3') and 806R (5'-GTGGACTACHVGGGTWTCTAAT-
+3').PCR products were purified using a Qiagen Gel Extraction Kit
+(Qiagen, Germany). The barcoded PCR amplicons were sequenced on a MiSeq Benchtop Sequencer for 300 bp paired-end sequencing (Illumina, San Diego, CA).
+Raw reads were filtered using Mothur softwarewith removal of (i) sequences that had quality scores <30, (ii) did not perfectly match the PCR primer, or (iii) contained unidentified base. The paired-end reads were assembled into contigs using FLASH. After filtering contigs with length <150 bp, chimeric sequences were removed using the
+UCHIME algorithm. The high-quality sequences obtained were clustered into operational taxonomical units (OTUs) using QIIME (version 1.9.1) at 97% sequence similarity. A representative sequence for each OTU was extracted and annotated using the Greengenes database (version 13.8).
+RNA Extraction and Sequencing. Samples were washed twice with phosphate-buffered saline (PBS; pH 7.4), and RNA extraction was carried out using TRIzol reagent (Sigma-Aldrich, St. Louis, MO). The quality of the RNA was checked by agarose gel electrophoresis and using a 2100 Bioanalyzer (Agilent Technologies, Palo Alto, CA). Ribosomal RNA (rRNA) was removed with a Ribo-Zero rRNA Removal Kit (Bacteria) and a Ribo-Zero Magnetic Gold Kit (Yeast; both from Epicenter, San Diego, CA). Library construction was carried out with an Illumina HiSeq 2500 platform at Biomarker Technologies Co., Ltd., Beijing, China.
+Bioinformatics and Data Analysis. The raw metatranscriptomic data were processed according to the pipeline in our published paper.The rRNA sequences and low quality reads (Q < 0.02) were removed. Trinity (version 2.1.1) was employed for de novo transcriptomic assemblies. Using DIAMOND (version 0.8.34) and inputting results into MEGAN (version 5.11.3), we obtained microbial taxonomy information. Then, we compared high quality reads to the Kyoto Encyclopedia of Genes and Genomes (KEGG) database to obtain functional annotation information. Heatmap Illustrator (HemI, v.1.0) was used to illustrate different gene expression patterns in the main metabolic pathways.
+Detection of EC and Its Precursors. EC in samples was analyzed using a gas chromatography (GC) system equipped with a mass selective detector using an electron impact (70 eV) ionization source. Mass spectrometry was operated in selected ion monitoring mode (m/ z 62) and propyl carbamate was added as an internal standard. The oven temperature program was 80 degC for 2 min and then increase to
+
+230 degC at 10 degC min-1, with a final hold at 230 degC for 2 min. A CP- Wax capillary column (60-m length, 0.25 mm i.d., 0.25-mm film thickness; Varian Inc., Palo Alto, CA, U.S.A.) was used for EC separation. The inlet temperature was 250 degC, and the ion source temperature was 230 degC. Sample aliquots (1.0 mL) were injected into the GC system in splitless mode.
+Analyses of urea and amino acids (arginine, citrulline, and ornithine) were performed by a one-step derivatization procedure using MTBSTFA and simultaneous assay, according to a previously described method.An Agilent 6890N GC coupled with an Agilent 5975 mass selective detector was used. The capillary column was a CP- Wax column (60-m length, 0.25 mm i.d. and 0.25-mm film thickness; Varian Inc.).
+Hydrocyanic acid was measured according to a previously reported method.The sample was shaken and left for 5 min, and a phenol- water solution (0.3 mL, 0.4% v/v) was added. Headspace GC-electron capture detection was applied.
+Assays of Arginine and Urea Metabolism. All strains in this study were isolated from fermented grains. The isolated strains were identified by molecular taxonomy based on their rDNA sequences. The fermentation of Chinese liquor was simulated as a coculture system of the main brewing microorganisms. The solid-state fermentation medium was prepared as follows: sorghum (250 g) was added to hot water (350 mL, 70-80 degC), soaked for 24 h, and sterilized at 121 degC for 20 min. Rhizopus oryzae G4 was introduced to the simulated fermentation system as a spore suspension at 104 colony forming units (CFU) g-1, and incubated at 30 degC for 1 day to allow saccharification. The saccharified cultures were spiked with arginine
+(final concentration, 300 mg L-1) or urea (final concentration, 200 mg
+L-1) and then inoculated with 105 CFU g-1 of each of four yeast species and six species of Laboratories (see the  ). After 5 days of incubation at 30 degC, the optical density of the culture was measured at a wavelength of 600 nm, and the amounts of arginine and urea were quantified. Media without inoculation were prepared as reference samples (controls).
+RESULTS AND DISCUSSION
+Relationship between EC and Its Precursors during
+Fermentation of Chinese Moutai-Flavor Liquor. The formation of EC in Chinese Moutai-flavor liquor can occur throughout the processes of both heaping and fermentation. During the two processes, the concentration of EC increased with the ethanol production (). Many studies concerning the formation of EC have been published since the discovery of EC in foodstuffs in the 1970s.Urea (from arginine catabolism), citrulline, and cyanide (from cyanogenic glycosides) have emerged as the major possible precursors of EC in foods and alcoholic beverages.,-
+These three possible EC precursors (i.e., urea, cyanide, and citrulline) were also present in the fermented grains used for production of the Moutai-flavor liquor, and we tracked their concentrations throughout the fermentation process. The concentrations of cyanide, citrulline, and urea in the fermented grains initially increased, reaching the highest values on the 15th day of fermentation, and then decreased (). Urea showed the highest concentration among these EC precursors. The change in urea concentration during the fermentation was significant, showing an average increase of 101.37 mg kg-1
+during the first 15 days of the fermentation, and an average
+decrease of 96.57 mg kg-1 on days 15-30. The changes in cyanide and citrulline concentration during the fermentation were <10 mg kg-1. During the early stage of the fermentation (0-15 days), the production of urea was proportional to the increase in EC. Linear regression analysis showed that the correlation coefficient of the EC content with the amounts of cyanide and citrulline was low, while the correlation coefficient
+
+with the amount of urea was higher (R2 = 0.722; P < 0.01; ). Previous research has also investigated the
+
+associated with different kinds of metabolites. These unigenes were classified into carbon metabolic pathways (27 788, 43.18%), nitrogen metabolic pathways (20 667, 32.12%), and
+other metabolic pathways (6891, 10.71%). Bioinformatic analysis demonstrated that the genera (Pichia, Saccharomyces, Schizosaccharomyces, Zygosaccharomyces, and Lactobacillus) were the dominant functional contributors to the nitrogen metabolism of the fermentation microbiota.
+Lactobacillus is Capable of Arginine Use and Urea Degradation. From our metatranscriptomic sequencing results (), the genus Lactobacillus was a functional
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Relationship between ethyl carbamate (EC) and its precursors (urea, citrulline, and cyanide) during prophase fermenta- tion (0-15 days) of fermented grains to make Moutai-flavor liquor.
+
+differences in EC production, showing that urea generated more EC than citrulline under the same reaction conditions and at the same concentration, and that this difference became greater with time.
+Based on the above results, we conclude that EC formation mainly occurred via urea during the fermentation process of Moutai-flavor liquor. However, only a small amount of urea was found in the raw material (1-3 mg urea per kg of dry sorghum; data not shown). Most of the urea was produced during fermentation via the catabolism of arginine by microorganisms such as yeasts.Because excessive accumulation of urea in cells is toxic, excess urea is secreted to the extracellular space, eventually leading to a significant increase in urea content in the fermentation system.
+Therefore, we investigated the dynamics of the concentration of arginine present during the heaping and fermentation of Moutai-flavor liquor (). The arginine content rapidly increased during the heaping process, then decreased rapidly in the early stage of the fermentation (0-15 days). The urea content was negatively correlated with the arginine content (R2
+= 0.956; P < 0.01; data not shown). This indicated that most of the urea produced during the early stage of liquor fermentation was derived from the catabolism of arginine.
+Metatranscriptomic Analyses of Dominant Yeasts and Laboratories Related to Urea. To explore microbial urea formation in the liquor-making process, the KEGG database was used to assess the overall metabolic capability of the microbiota in situ (in the Moutai-flavor liquor fermentation) using Heatmap Illustrator (HemI, v. 1.0). Totally 64 349 unigenes (i.e., transcripts that originate from the same transcription locus) were identified in the metatranscriptome of the Moutai-flavor liquor microbial community and related to major KEGG metabolic pathways. Among these unigenes, 9003
+unigenes (13.99%) were in metabolic pathways that maintain the basic survival of microorganisms (e.g., ribosomes, cell cycle, and RNA transport). The remainder (86.01%) could be
+
+
+
+
+
+Figure 2. Fragments per kilobase of transcript per million mapped reads (FPKM) of genes in nitrogen metabolism (Kyoto Encyclopedia of Genes and Genomes [KEGG] pathways) related to the genera Pichia, Schizosaccharomyces, Saccharomyces, Zygosaccharomyces, and Lactobacillus during the liquor fermentation process (samples from days 5 to 30, n = 6). Color depth represents the FPKM values mapped to the KEGG metabolic pathway. ADI: arginine deiminase (K01478); AR: arginase (K01476); ASL: argininosuccinate lyase (K01755); ASS: argininosuccinate synthase (K01940); CK: carbamate kinase (K00926); OT: ornithine transacetylase (K00620); OTC: ornithine carbamoyltransferase (K00611); UCA: urea carboxylase (K01941); URE: urease (K01427); AH: allophanate hydrolase (K01427). The codes in brackets indicate the KEGG annotation codes.
+
+regulator for degrading arginine in Moutai-flavor liquor microbiota. Arginine deiminase (ADI), ornithine transcarba- mylase (OTC), and carbamate kinase (CK) are the key enzymes involved in the degradation of arginine, which is accompanied by citrulline production. Araque et al. also reported a correlation between the presence of genes and the phenotype of arginine degradation in LAB isolated from wine. This was the means by which most LAB survived in the anaerobic environment. Arginine is a major source of energy for several microorganisms.,During the fermentation process of Moutai-flavor liquor, Lactobacillus degraded arginine simulta- neously with the yeasts, which resulted in reduced production of urea by the yeasts through the urea cycle pathway (). The diversity of observed LAB was the highest in the early stage of the fermentation, and decreased later (). The proportion of Lactobacillus reached >90% of bacteria in the later stages of the fermentation.
+We tested six dominant Lactobacillus species isolated from fermented grains. The results showed that the Lactobacillus species had different abilities to catabolize arginine (). Among them, L. pontis JSB7, L. fermentum JSA30, L. plantarum JD19, L. buchneri N5, and L. casei X1 had strong arginine
+
+Table 1. Ability of Dominant Lactobacillus spp. to Catabolize Arginine and Urea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Gene expression (FPKM) in urea degradation pathways. (A) Genes related to the KEGG urea to allophanate metabolic pathway. (B) Genes related to the allophanate to NH3 metabolic pathway. (C) Genes related to the urea to NH3 metabolic pathway. (D) Urea content during the liquor fermentation process.
+
+
+degradation abilities (>0.5 mmol/L), whereas L. diolivorans 2- 10 showed poor arginine degradation ability (only 0.06 mmol/ L). We also investigated the ability of the dominant Lactobacillus strains to degrade urea. As shown in , L. fermentum JSA30 exhibited outstanding urea degradation ability, followed by L. plantarum JD19. The urea degradation ability of L. buchneri N5 and L. casei X1 was low. Urease has
+
+been reported to be present in L. fermentum, which can degrade urea.
+Based on the above results, we infer that Lactobacillus spp. in the SSF system could compete with yeasts to use arginine. Lactobacillus spp. could also degrade urea, resulting in a reduced EC content in the fermentation. The LAB community in Moutai-flavor liquor fermentation was similar to that in some traditional fermented foods, and some species of LAB (such as
+
+Table 2. Ability of Yeasts to Catabolize Arginine and Urea
+
+
+L. plantarum, L. fermentum and L. buchneri) in the Moutai-flavor liquor fermentation are also present in many other kinds of fermented foods.Strains of these bacteria from Moutai-flavor liquor fermentation could be used as the reference to study microbial function in other fermented foods.
+Dominant Nonconventional Yeasts Were Functional Regulators of the Production of Urea. As shown in  , urea was mainly formed through the urea cycle pathway in the early stage of fermentation. The genera (e.g., Pichia, Saccharomyces, Schizosaccharomyces, and Zygosaccharomyces) were potential functional regulators of the production of urea from arginine among the Moutai-flavor liquor fermentation microbiota. Meanwhile, two urea degrading pathways are presented in this SSF system: (i) urea carboxylase (UCA) and allophanate hydrolase (AH) from Pichia and Zygosacchar- omyces (A,B) and (ii) an ATP-independent urease (URE) from Schizosaccharomyces (C). Urea is degraded to CO2 and NH3 by degrading pathways. In the later stage of the fermentation, the urea content decreased along with the related enzymes expressed (D).
+Using   the  culture-dependent   method,   we   tested four
+dominant yeast species in the fermented grains. As shown in , the strains had different abilities to catabolize arginine and urea. All the four strains can degrade arginine to produce urea but showed different abilities in this reaction. The ability of
+S. cerevisiae C-3 to produce urea was very high, up to 2.64 mmol L-1, but its ability to degrade urea was low (only 0.56 mmol L-1). S. cerevisiae is the most important strain for ethanol production in normal liquor production. In alcoholic fermentation, the arginase (CAR1) gene in S. cerevisiae is expressed, resulting in production of large amounts of urea and ornithine.Urea use is repressed by the presence of preferred nitrogen sources such as glutamine, glutamate, and arginine. Excess urea would be secreted to the extracellular space by S. cerevisiae, resulting in an increase in the amount of urea in the aqueous alcoholic solution.
+In our study, Z. bailii C-7 had lower urea producing ability than S. cerevisiae C-3, and its ability to degrade urea was greater than that of S. cerevisiae C-3 (). P. kudriavzevii C-16 showed the lowest urea producing activity of the four strains. The ability of Sc. pombe C-11 to degrade urea was the highest among the four strains (2.03 mmol L-1). Enriching the liquor fermentation with nonconventional yeasts such as Sc. pombe C- 11, Z. bailii C-7, and P. kudriavzevii C-16 could therefore reduce the urea content in the fermentation process.
+Herein, amplicon sequencing combined with metatranscrip- tomic sequencing was applied to determine the diversity and dynamics of the fermentation microbiota involved in the production of Moutai-flavor liquor. The functions of the complex SSF microbiota during the fermentation of Moutai- flavor liquor are thus more comprehensively understood. EC was produced in increasing amounts during the fermentation. Urea was confirmed as the main precursor of EC. During the
+
+alcoholic fermentation, Lactobacillus spp. competitively de- graded arginine through the arginine deiminase pathway, rather than the urea cycle pathway of the yeasts, resulting in decreased production of urea. Some dominant nonconventional yeasts, such as Sc. pombe C-11 and Z. bailii C-7, produced less urea and degraded urea more efficiently than S. cerevisiae. A gene encoding an ATP-independent urease (URE) was mainly detected in Schizosaccharomyces. Another unusual urea degradation pathway (involving urea carboxylase and allopha- nate hydrolase) was mainly identified in Pichia and Zygosaccharomyces. Our results indicate that levels of the main EC precursor could be controlled by using nonconventional yeasts and LAB in solid-state fermentation.
+ASSOCIATED CONTENT
+*S   Supporting Information
+The Supporting Information is available free of charge on the at DOI: .
+Changes in the concentrations of ethyl carbamate (EC), ethanol, arginine, EC precursor, and proportion of lactic acid bacterial genera during the fermentation process of Moutai-flavor liquor. ()
+AUTHOR INFORMATION
+Corresponding Author
+*Tel: +86 510 85918197. Fax: +86 510 85918201. E-mail:
+.
+ORCID
+Yan Xu: 
+Funding
+We are grateful to the National Natural Science Foundation of China (31501469 and 31530055), the Natural Science Foundation of Jiangsu Province of China (BK20150143), the National Key R&D Program of China (2016YFD0400503), the Program of Introducing Talents of Discipline to Universities (111 Project) (grant 111-2-06), the Fundamental Research Funds for the Central Universities (JUSRP11537), and the Jiangsu Province "Collaborative Innovation Center for Advanced Industrial Fermentation" Industry Development Program. Special thanks also go to the "3C" plan of Chinese liquor for financial support and supply of samples.
+Notes
+The authors declare no competing financial interest.
+ACKNOWLEDGMENTS
+We thank Simon Partridge, Ph.D., from Liwen Bianji, Edanz
+Editing China (), for editing the English text of a draft of this manuscript.
+
+REFERENCES
+Ough, C. S. Ethylcarbamate in fermented beverages and foods. II.
+Possible formation of ethylcarbamate from diethyl dicarbonate addition to wine. J. Agric. Food Chem. 1976, 24, 328.
+Liu, S. Q.; Pilone, G. J. A REVIEW: Arginine metabolism in wine lactic acid bacteria and its practical significance. J. Appl. Microbiol. 1998, 84, 315-327.
+Wu, P. G.; Pan, X. D.; Wang, L. Y.; Shen, X. H.; Yang, D. J. A survey of ethyl carbamate in fermented foods and beverages from Zhejiang, China. Food Control 2012, 23, 286-288.
+Park, S. K.; Kim, C. T.; Lee, J. W.; Jhee, O. H.; Om, A. S.; Kang, J. S.; Moon, T. W. Analysis of ethyl carbamate in Korean soy sauce using high-performance liquid chromatography with fluorescence detection or tandem mass spectrometry and gas chromatography with mass spectrometry. Food Control 2007, 18, 975-982.
+Park, S. R.; Ha, S. D.; Yoon, J. H.; Lee, S. Y.; Hong, K. P.; Lee, E. H.; Yeom, H. J.; Yoon, N. G.; Bae, D. H. Exposure to ethyl carbamate in alcohol-drinking and nondrinking adults and its reduction by simple charcoal filtration. Food Control 2009, 20, 946-952.
+Bortoletto, A. M.; Alcarde, A. R. Assessment of chemical quality of Brazilian sugar cane spirits and cachacas. Food Control 2015, 54, 1- 6.
+Chen, D. W.; Ren, Y. P.; Zhong, Q. D.; Shao, Y.; Zhao, Y. F.; Wu,
+Y. N. Ethyl carbamate in alcoholic beverages from China: Levels, dietary intake, and risk assessment. Food Control 2017, 72, 283-288.
+Jin, G.; Zhu, Y.; Xu, Y. Mystery behind Chinese liquor fermentation. Trends Food Sci. Technol. 2017, 63, 18-28.
+Mcgovern, P. E.; Zhang, J.; Tang, J.; Zhang, Z.; Hall, G. R.; Moreau, R. A.; Nunez, A.; Butrym, E. D.; Richards, M. P.; Wang, C. S. Fermented beverages of pre- and proto-historic China. Proc. Natl. Acad. Sci. U. S. A. 2004, 101, 17593.
+Tao, Y.; Li, J.; Rui, J.; Xu, Z.; Zhou, Y.; Hu, X.; Wang, X.; Liu, M.; Li, D.; Li, X. Prokaryotic communities in pit mud from different- aged cellars used for the production of Chinese strong-flavored liquor. Appl. Environ. Microbiol. 2014, 80, 2254-2260.
+Cizeikiene, D.; Juodeikiene, G.; Paskevicius, A.; Bartkiene, E. Antimicrobial activity of lactic acid bacteria against pathogenic and;spoilage microorganism isolated from food and their control in wheat;bread. Food Control 2013, 31, 539-545.
+Dashko, S.; Zhou, N.; Tinta, T.; Sivilotti, P.; Lemut, M. S.; Trost, K.; Gamero, A.; Boekhout, T.; Butinar, L.; Vrhovsek, U.; Piskur,
+J. Use of non-conventional yeast improves the wine aroma profile of Ribolla Gialla. J. Ind. Microbiol. Biotechnol. 2015, 42, 997-1010.
+Jussier, D.; Dube,M. A.; Mira, d. O. R. Effect of simultaneous inoculation with yeast and bacteria on fermentation kinetics and key wine parameters of cool-climate chardonnay. Appl. Environ. Microbiol. 2006, 72, 221.
+Yamaoka, C.; Kurita, O.; Kubo, T. Improved ethanol tolerance of Saccharomyces cerevisiae in mixed cultures with Kluyveromyces lactis on high-sugar fermentation. Microbiol. Res. 2014, 169, 907-914.
+Li, G.; Zhong, Q.; Wang, D.; Zhang, X.; Gao, H.; Shen, S. Determination and formation of ethyl carbamate in Chinese spirits. Food Control 2015, 56, 169-176.
+Ajtony, Z.; Szoboszlai, N.; Bencs, L.; Viszket, E.; Mihucz, V. G. Determination of ethyl carbamate in wine by high performance liquid chromatography. Food Chem. 2013, 141, 1301-1305.
+Fang, R. S.; Dong, Y. C.; Xu, T. Y.; He, G. Q.; Chen, Q. H. Ethyl carbamate formation regulated by ornithine transcarbamylase and urea metabolism in the processing of Chinese yellow rice wine. Int. J. Food Sci. Technol. 2013, 48, 2551-2556.
+Lubbers, M. W.; Thornton, R. J.; Honey, N. K. Mapping of ure1, ure2 and ure3 markers in fission yeast. Yeast 1997, 13, 1195-1197.
+Liu, S. Q.; Pritchard, G. G.; Hardman, M. J.; Pilone, G. J. Arginine catabolism in wine lactic acid bacteria: Is it via the arginine deiminase pathway or the arginase-urease pathway? J. Appl. Bacteriol. 1996, 81, 486-492.
+Arena, M. E.; de Nadra, M. C. M.; Munoz, R. The arginine deiminase pathway in the wine lactic acid bacterium Lactobacillus
+
+
+hilgardii X1B: structural and functional study of the arcABC genes.
+Gene 2002, 301, 61-66.
+Arena, M. E.; Saguir, F. M.; de Nadra, M. C. M. Arginine, citrulline and ornithine metabolism by lactic acid bacteria from wine. Int. J. Food Microbiol. 1999, 52, 155-161.
+Borges, G. B. V.; Gomes, F. D. O.; Badotti, F.; Silva, A. L. D.; Machado, A. M. D. Selected Saccharomyces cerevisiae yeast strains and accurate separation of distillate fractions reduce the ethyl carbamate levels in alembic cachacas. Food Control 2014, 37, 380-384.
+Cheung, M. K.; Au, C. H.; Chu, K. H.; Kwan, H. S.; Wong, C. K. Composition and genetic diversity of picoeukaryotes in subtropical coastal waters as revealed by 454 pyrosequencing. ISME J. 2010, 4, 1053.
+Schloss, P. D.; Westcott, S. L.; Ryabin, T.; Hall, J. R.; Hartmann, M.; Hollister, E. B.; Lesniewski, R. A.; Oakley, B. B.; Parks, D. H.; Robinson, C. J. Introducing mothur: open-source, platform- independent, community-supported software for describing and comparing microbial communities. Appl. Environ. Microb. 2009, 75, 7537-7541.
+Edgar, R. C.; Haas, B. J.; Clemente, J. C.; Quince, C.; Knight, R. UCHIME improves sensitivity and speed of chimera detection. Bioinformatics 2011, 27, 2194-2200.
+Song, Z.; Du, H.; Zhang, Y.; Xu, Y., Unraveling core functional microbiota in traditional solid-state fermentation by high-throughput amplicons and metatranscriptomics sequencing. Front. Microbiol. 2017, 8, .
+Jimenezmartin,   E.;   Ruiz,   J.;   Perezpalacios,   T.;   Silva,   A.; Antequera, T. Gas chromatography-mass spectrometry method for the determination of free amino acids as their dimethyl-tert-butylsilyl (TBDMS) derivatives in animal source food. J. Agric. Food Chem. 2012, 60, 2456-63.
+Galinaro, C. A.; Ohe, T. H. K.; da Silva, A. C. H.; da Silva, S. C.; Franco, D. W. Cyanate as an active precursor of ethyl carbamate formation in sugar cane spirit. J. Agric. Food Chem. 2015, 63, 7415-20.
+Kim, Y. G.; Lyu, J.; Kim, M. K.; Lee, K.-G. Effect of citrulline, urea, ethanol, and urease on the formation of ethyl carbamate in soybean paste model system. Food Chem. 2015, 189, 74-79.
+Araque, I.; Bordons, A.; Reguant, C. Effect of ethanol and low pH on citrulline and ornithine excretion and arc gene expression by strains of Lactobacillus brevis and Pediococcus pentosaceus. Food Microbiol. 2013, 33, 107-113.
+Wang, P. H.; Sun, J. Y.; Li, X. M.; Wu, D. H.; Li, T.; Lu, J.; Chen, J.; Xie, G. F. Contribution of citrulline to the formation of ethyl carbamate during Chinese rice wine production. Food Addit. Contam., Part A 2014, 31, 587-592.
+Monteiro, F. F.; Bisson, L. F. Amino acid utilization and urea formation during vinification fermentations. Am. J. Enol. Viticult. 1991, 42, 199-208.
+Schehl, B.; Senn, T.; Lachenmeier, D. W.; Rodicio, R.; Heinisch,
+J. J. Contribution of the fermenting yeast strain to ethyl carbamate generation in stone fruit spirits. Appl. Microbiol. Biotechnol. 2007, 74, 843-50.
+Araque, I.; Gil, J.; Carrete,R.; Bordons, A.; Reguant, C. Detection of arc genes related with the ethyl carbamate precursors in wine lactic acid bacteria. J. Agric. Food Chem. 2009, 57, 1841-1847.
+Fidaleo, M.; Esti, M.; Moresi, M. Assessment of urea degradation rate in model wine solutions by acid urease from Lactobacillus fermentum. J. Agric. Food Chem. 2006, 54, 6226-6235.
+Liu, S. N.; Han, Y.; Zhou, Z. J. Lactic acid bacteria in traditional fermented Chinese foods. Food Res. Int. 2011, 44, 643-651.
+Zhao, X.; Zou, H.; Fu, J.; Chen, J.; Zhou, J.; Du, G. Nitrogen regulation involved in the accumulation of urea in Saccharomyces cerevisiae. Yeast 2013, 30, 437-447.
+Jiao, Z. H.; Dong, Y. C.; Chen, Q. H. Ethyl carbamate in fermented beverages: presence, analytical chemistry, formation mechanism, and mitigation proposals. Compr. Rev. Food Sci. Food Saf. 2014, 13, 611-626.

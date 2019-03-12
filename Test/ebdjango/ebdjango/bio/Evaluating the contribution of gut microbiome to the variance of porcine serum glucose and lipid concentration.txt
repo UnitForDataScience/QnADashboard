@@ -1,0 +1,298 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPEN
+
+
+
+Received: 13 February 2017
+Accepted: 19 October 2017 Published: xx xx xxxx
+
+Evaluating the contribution of gut microbiome to the variance of porcine serum glucose and lipid concentration
+Xiaochang Huang, Shaoming Fang, HuiYang, Jun Gao, Maozhang He, Shanlin Ke, Yuanzhang Zhao, Congying Chen & Lusheng Huang
+Serum glucose and lipids are important indicators for host metabolic condition. Interaction of host and gut microbes regulates the metabolism process. However, how much the gut microbiome contributes to the variance of serum glucose and lipids is largely unknown. Here we carried out a 16S rRNA gene based association study between cecum microbiome and the concentration of serum glucose and lipids in 240 Chinese Erhualian pigs. We identified tens of bacterial taxa associated with serum glucose and lipids. The butyrate-producing bacteria were significantly associated with serum glucose level. The pathogenic bacteria belonging to Proteobacteria and Fusobacteria showed significant associations with increased serum lipid levels, while the bacteria Lactobacillus and Bacilli had negative correlations with serum lipids. Cross-validation analysis revealed that 23.8% variation of serum glucose and 1.6%~6.0% variations of serum lipids were explained by gut microbiome. Furthermore, predicted function capacities related to nutrition intake, transport and carbohydrate metabolism were significantly associated with serum glucose level, while the pathways related to antioxidant metabolism and bile synthesis tended to be associated with serum lipid level. The results provide meaningful information to get insight into the effect of gut microbiome on serum glucose and lipid levels in pigs.
+
+
+Serum glucose and lipids are important indicators for the condition of body metabolism. Abnormal concentra- tions of blood glucose and lipids are associated with various kinds of chronic diseases, such as obesity, diabetes as well as cardiovascular diseases. Substantial studies have revealed that both blood glucose and lipid levels are under control of genetics at some extent, and many associated-genes and SNPs were identified-. However, these genetic variants together account for only ~25-30% of phenotypic variation of blood glucose and lipids, which suggests that a big puzzle remains to be explored.
+Mammalian gut microbiota is a complex ecosystem and composed of thousands of heterogeneous microbial species. Recent decade, researches on gut microbiome have depicted important roles of commensal microbial community in carbohydrate digestion, immune system development and disease resistance,. To date, there are several studies focusing on the relationship between gut microbiome and blood glucose and lipids in humans. Sepp et al.reported that reduction of the proportion of anaerobes in the gut microbiota is significantly associated with a higher blood glucose level and body mass index in elderly people. Kovatcheva-Datchary et al. suggested that increased abundance of Prevotella is associated with dietary fiber-induced improvement in glucose metab- olism. Fu et al.revealed that gut microbiome contributes a substantial proportion of variation in serum lipids. However, the comprehensive knowledge about how gut microbiome affects serum glucose and lipid levels is still absence. Some studies have suggested that short chain fatty acids (SCFAs) produced by fermentation of gut bacteria play important roles in regulating serum glucose and lipids, e.g. Todesco et al.reported an effect of propionate on lowering blood glucose and altering lipid metabolism in healthy subjects; The study in butyrate administrated sheep found that butyrate has an significant effect on blood glucose level, but this effect is strongly associated with the body initial blood glucose. Kristina et al.inferred that the LPS, bile acid, SCFAs, gut hor- mones and branched-chain amino acids are potential factors linking to glucose dysbiosis.
+
+State Key Laboratory of Pig Genetic Improvement and Production Technology, Jiangxi Agricultural University, 330045, Nanchang, China. Correspondence and requests for materials should be addressed to C.C. (email:  ) or L.H. (email: )
+
+
+
+Table 1. Summary of the phenotypic values of serum glucose and lipids in Erhualian pigs.
+
+
+Pigs have been used as the biomedical model of human diseases for decades because of the similarity of physiological characteristics and digestive system with humans. Compared to mice that are the most popular biomedical model, pigs showed the more similarity of gut microbiome with humans. Of the functional path- ways of gut microbiome found in the human catalogue, 96% are present in the pig catalogue. Furthermore, pigs are always raised in a uniformed farm condition and fed the similar formula diet. This suggests that pigs should be a perfect model for studying the contribution of gut microbiome to the variance of blood glucose and lipids. However, to our knowledge, no such study has been reported in pigs.
+In the current study, we investigated the microbial composition of cecum lumen samples using 16S rRNA gene sequencingin a Chinese Erhualian pig population, which was comprised of both castrated boars and gilts, and showed different concentrations of serum glucose and lipids. We evaluated the contribution of gut microbiome to the variance of serum glucose and lipids. We identified tens of bacterial taxa and predicted KEGG function terms of gut microbiome showing significant associations with serum glucose and lipids. The results provided meaningful information about the relationship of homeostasis of serum glucose and lipids to gut microbiome.
+Results
+Microbial diversity of porcine cecum luminal samples from experimental pigs. After quality con- trol, pair-end clean reads were merged into tags. We obtained a total of 4,338,951 tags for all tested samples with an average of 18,162 tags per sample, and ranging from 9,678 to 31,188 tags. At the 97% similarity, we got a total of 2,038 operational taxonomic units (OTUs) in the 240 samples. After rarefaction, the average OTU number for the experimental pigs was 524, ranging from 163 to 683. We observed a significantly higher OTU richness in the castrated boars than that in the gilts (P = 2.62 x 10-6, t-test) (Supplement Fig. ). The castrated boars also had a higher shannon's index than gilts (P = 1.70 x 10-4, t-test). Similar to gut microbial composition in humans, Bacteroidetes (51.97 +- 15.39%) and Firmicutes (28.76 +- 14.18%) were the two most abundant taxa, followed by Spirochaetes (Supplement Fig. ).
+Association of gut bacteria with the variance of serum glucose and lipids. We found that the phe- notypic values of both serum glucose and lipids followed the normal distribution (Shapiro test P value > 0.05). We performed the two-tailed t-test to evaluate the effect of gender on traits, and found the significant influence of sex on the values of serum low density lipoprotein cholesterol (LDL) level, ratio of low density lipoprotein cholesterol to low density lipoprotein cholesterol (LDL/HDL) and atherosclerosis index (AI) (Table ). We first evaluated the association of microbial richness and diversity with serum glucose and lipids. Both OTU number and alpha-diversity indexes were not significantly associated with serum glucose or lipids. We then performed the association analysis between the relative abundance of OTUs or taxa and the concentration of serum glucose and lipids. At false discovery rate (FDR) < 0.05 (P = 3.5 x 10-3), we identified 179 OTUs significantly associated with serum glucose. Among these 179 OTUs, 77 were annotated to Lachnospiraceae, 25 OTUs to Ruminococcaceae, 13 OTUs to Bacteroides and 9 OTUs to Prarprebotellaceae. We observed that most of the OTUs annotated to Lachnospiraceae and Ruminococcaceae were positively associated with serum glucose, while the OTUs anno- tated to Bacteroidetes, Prevotella and Fusobacteria showed negative association with serum glucose (Supplement Table ). We also identified 15 OTUs significantly associated with total cholesterol (TC), 73 OTUs with LDL/ HDL, and 62 OTUs with AI, while we did not identify any OTUs associated with HDL, triglyceride (TG) and LDL at FDR < 0.05 (Supplement Tables ,and ). Of the 150 OTUs associated with serum lipids, only 4 OTUs were shared by TC, AI and LDL/HDL, 45 OTUs were shared by AI and LDL/HDL, whereas the other 101 OTUs were specifically associated with each trait. We found that 38 associations (25.3%) were detected by quantitative analysis, 41 associations (27.3%) were identified by binary analysis and 71 associations (47.3%) were detected by meta-analysis of binary and quantitative analysis. The OTU307 assigned to the Treponema showed the most sig- nificant association with TC (P = 1.51 x 10-7), whereas, the OTU30 annotated to Bacteroidetes and the OTU862 to Fusobacteriaceae had the most significant association with LDL/HDL and AI, respectively (P = 6.05 x 10-8 and 4.11 x 10-7).
+At the taxonomic level, we identified 24 taxonomies significantly associated with blood glucose (GLU)
+(FDR < 0.05), including 11 taxonomies positively associated with the increased serum glucose (Fig. ). We found that most of the positively associated taxonomies belong to Firmicutes that can digest dietary polysaccharide (Supplement Table ). Among them, the butyrate-producing bacteria Coprococcus(P = 4.11 x 10-9), Roseburia (P = 7.75 x 10-9), Lachnospiraceae(P = 2.42 x 10-8), Faecalibacterium(P = 1.79 x 10-4) and Clostridium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Heatmap of microbial taxa significantly associated with serum glucose and lipids. The associated P
+values were converted to normal Z score. P-phylum, c-class, o-order, f-family and g-genus.
+
+
+(P = 1.63 x 10-3) showed the strong association with GLU. We also found 13 taxa showing significantly negative association with GLU. Most of these bacteria belong to Bacteroidetes and Proteobacteria, such as Parabacteroides (P = 1.56 x 10-6), Bacteroides (P = 6.08 x 10-5), Porphyromonadaceae (P = 3.21 x 10-5), and Desulfovibrionales (P = 3.51 x 10-6) (Supplement Table ). We further identified the positive correlation between ratio of Firmicutes to bacteroidetes and serum glucose level (P = 4.61 x 10-4).
+We identified a total of 89 significant associations related to 28 unique taxonomies for serum lipid traits, including 8 associations for TC, 10 for HDL, 13 for LDL, 29 for LDL/HDL and 29 for AI, while no association was identified for TG. Most of these serum lipid-associated taxonomies belong to Proteobacteria and Fusobacteria. The Deltaproteobacteria showed the strongest positive association with TC (P = 1.11 x 10-5), Lactobacillus had the strongest positive association with HDL (P = 3.07 x 10-5), and Fusobacteriaceae was most significantly associated with LDL (P = 6.82 x 10-7), whereas Lactobacillaceae showed the most negative association with TC (P = 2.34 x 10-6), Veillonellaceae with HDL (P = 1.01 x 10-5) and Deltaproteobacteria with LDL (P = 6.91 x 10-6) (Fig. and Supplement Tables ~). We noticed that some of these significant associations were shared among traits. For example, sulfate-reducing bacteria Deltaproteobacteria and Desulfovibrionaceae were positively asso- ciated with TC (P = 1.11 x 10-5), LDL/HDL (P = 1.02 x 10-4 and 7.60 x 10-5) and AI (P = 2.50 x 10-4 and
+9.95 x 10-4), but negatively associated with HDL (P = 1.65 x 10-4 and 1.16 x 10-3). Interestingly, some of the serum lipid-associated taxa have been reported to associate obesity or cardiac vascular disease (CVD). For instances, Phascolarctobacterium is positively associated with obesity, and Veillonella has been supposed to be a possible causal bacteria in atherosclerosis. In this study, both Phascolarctobacterium and Veillonellaceae were positively associated with LDL/HDL (P = 1.70 x 10-5 and 4.74 x 10-5) and AI (P = 1.14 x 10-6 and 2.56 x 10-6), but negatively associated with HDL (P = 1.54 x 10-5 and 1.01 x 10-5). We also identified some potential bacteria
+
+
+that were correlated to the lower cholesterol level, e.g. Bacilli and Lactobacillus were negatively associated with TC (P = 5.84 x 10-4 and 2.34 x 10-6), LDL/HDL (P = 5.78 x 10-4 and 1.25 x 10-3) and AI (P = 5.17 x 10-6 and
+5.51 x 10-6); and Treponema was negatively associated with LDL (P = 1.31 x 10-3), LDL/HDL (P = 1.76 x 10-3) and AI (P = 1.76 x 10-3).
+
+Association of predicted function capacities of gut microbiome with serum glucose and lipids. To link the potential function capacity of gut microbiome to the level of serum glucose and lipids, we performed functional prediction of gut microbiome based on the 16S rRNA gene sequences. The associations between the predicted KEGG pathways and the levels of serum glucose and lipids were estimated. We identified a total of 95 pathways that were significantly associated with serum glucose at FDR< 0.05 (Supplement Table ). Among these 95 pathways, 27 pathways showed positive associations with GLU, most of which are related to nutrient intake and nutrition sensing (such as flagellar assembly, bacterial motility protein, transporters and ABC transporters), carbohydrate metabolism (e.g. pentose phosphate pathway, starch and sucrose metabolism, and fructose and mannose metabolism), and lipid metabolism (bile secretion and glycerolipids metabolism). Notably, the insulin signaling pathway was positively associated with serum glucose level (P = 2.15 x 10-4). We also iden- tified a total of 68 pathways negatively associated with GLU, including amino acid metabolism, metabolisms of cofactors and vitamins as well as biosynthesis of secondary metabolites.
+At FDR < 0.05, we identified 65, 68, 38 and 54 KEGG functional pathways significantly associated with TC, LDL, LDL/HDL and AI, respectively (Fig. ). The pathways involved in lipid metabolism, metabolisms of cofac- tors and vitamins, and xenobiotics biodegradation showed positive associations with serum lipids, while trans- lation (such as biosynthesis of aminoacyl-tRNA and ribosome), replication and repair, and cell motility (such as cytoskeleton proteins and flagellar assembly) were negatively associated with serum lipid traits. We identified 23 serum lipid-associated KEGG pathways shared by TC, LDL, LDL/HDL and AI (Fig. ). Eleven out of these shared pathways were positively associated with the four traits. Interestingly, four antioxidant metabolism related path- ways were positively associated with LDL, TC, LDL/HDL and AI (Fig. ). These antioxidants have been reported to play important roles in protecting body from suffering atherosclerosis and coronary heart disease. Moreover, we identified 12 pathways showing negative association with TC, LDL, LDL/HDL and AI (Fig. ), including bile secretion, starch and sucrose metabolism, and insulin signaling pathway. However, we did not identify any KEGG pathways significantly associated with HDL.
+
+Contribution of gut microbiome to the variation of serum glucose and lipids. We further determined the contribution of gut microbiome to the variation of serum glucose and lipids by the 100x cross-validation analysis at different P value threshold (ranging from 10-5 to 0.1) as described by Fu et al.. The OTUs identified at P = 1.0 x 10-5 level in the discovery set explained 19.63% variation in GLU in the validation set, 1.14% in HDL, 5.92% in TC, 2.79% in LDL, 3.4% in LDL/HDL, and 3.19% in AI. When the association cutoff of P value was increased and more OTUs were included in the model, the explained variation increased to 23.78% in GLU, 5.95% variation in TC, 6.02% in LDL, 4.12% in LDL/HDL, 6.56% in AI, and 1.69% in HDL (Fig. ).
+Discussion
+Normal concentrations of serum glucose and lipids are important to human health. Gut microbiota may be involved in the regulation of serum glucose and lipid levels because it plays important roles in host metabolism. In this study, we identified tens of OTUs and bacterial taxa significantly associated with porcine serum glucose and lipid levels, and found that gut microbiome has a substantial contribution to the variation of porcine serum glucose and lipid levels. The result was consistent with the report in humans, in which gut microbiome contrib- utes to a substantial proportion of the variation in human blood lipids.
+Unlike the study in humans, we used the cecum luminal samples for investigating the association between gut microbiome and serum glucose and lipid levels. This should be due to the reason of the great abundance and diversity of microbiota in the cecum. Both our previous study and the report by Looft et al. suggested that the cecum has the higher abundance and diversity of microbiota than small intestine,. Furthermore, microbiota in stool is a mix of shed mucosal bacteria, and most from the colon and lumenal microbes. In addition, previous studies have suggested that SCFAs play important roles in the regulation of blood glucose and lipids,. As we have known, cecum is a major fermentation location where SCFAs are produced through fermenting the diet fibers by bacteria.
+In this study, we revealed the strong association between butyrate producing bacteria (such as Coprococcus, Lachnospiraceae, Roseburia and Faecalibacterium prausnitzii) and the increased serum glucose level. This result was consistent with the finding reported by Gorka et al., which showed that newborn calves fed with the high butyrate diet had a higher serum glucose level. The study in sheep also indicated that butyrate injection increased blood glucose level in individuals with a low initial blood glucose. Furthermore, in fasting animals with a low blood glucose, butyrate may play a role in promoting glucogenesis. Considering the functions of butyrate in recovery of intestinal mucosa and morphology, and promoting effectiveness of digestion and absorption of sucrose,, we speculated that butyrate producing bacteria may play an important role in regulating serum glu- cose level through carbohydrate fermentation products, such as butyrate, which improve the intestinal health, and promote the digestion and absorption. Prevotella and several pathogenic or opportunistic pathogenic bacte- ria were identified to negatively associate serum glucose level. In humans, Prevotella copri was the main species driving the association between biosynthesis of branched-chain amino acids and insulin resistance. This result implied that the bacteria inducing inflammation may affect serum glucose level. Sandrine et al.observed that the OTUs from Parabacteroide and Actinobacteria were negatively associated with serum glucose level in the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Heatmap of predicted KEGG pathways significantly associated with serum lipids. The associated T
+values were used for plot.
+
+microbial colonization process. In this study, we also identified that Actinobacteria and Parabacteroide were neg- atively associated with porcine serum glucose level (P = 1.42 x 10-3 and 1.56 x 10-6).
+Most of the bacteria positively associated with LDL/HDL and AI belong to Proteobacteria and Fusobacteria, and are pathogenic bacteria or opportunistic pathogen, such as Desulfovibrio, Fusobacteriaceae and Enterobacteriaceae. These bacteria have been reported to associate inflammation,, indicating the rela- tionship between inflammation-related bacteria and the serum LDL/HDL and AI level. Inflammation always accompanies with the high levels of blood lipids,. In our previous study, we also found that Escherichia fer- gusonii and Escherichia coli from Enterobacteriaceae were enriched in the pigs with high fatness, suggesting that inflammation-related bacteria not only increase fat deposition, but also affect blood lipids. Lactobacillus showed a negative association with serum lipid level in this study. Consistent with this result, the bacterial strains
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. The associated KEGG pathways shared by LDL/HDL, AI, LDL and TC. The X- axis indicates the - log10 P values obtained in association analysis.
+
+
+from Lactobacillus can significantly decrease serum TC and LDL in the rats fed with high cholesterol diet. Lactobacillus has been reported to be a major source of bile salt hydrolase activity. Bile acid activity of com- mensal bacteria interplaying with host hepatic enzymes together promotes digestion and absorption of dietary lipids. Functional prediction of cecum microbiome in this study also implied that the increased abundance of bile secretion might associate the decreased level of porcine serum lipids. In addition, the genus Bacilli was also identified to negatively associate TC, LDL/HDL and AI, but positively associate HDL. Strains from Bacilli have been reported to produce fibrinolytic enzyme which possesses unique property to degrade fibrin blood clots,. We identified tens of the predicted function terms that were correlated with serum glucose/lipid levels, which implied that cecum microbiome may have the potential function capacity influencing the blood glucose/lipid. For instance, the pathways related to antioxidant metabolism and bile secretion tended to be associated with por- cine serum lipid level. However, metagenomic prediction only provides a reference, but not a precise reflection for microbial function. Metagenomic sequencing analysis would be needed to further elucidate how the cecum microbiome affects serum glucose and lipid levels. We investigated the contribution of gut microbiome to the variation of serum glucose and lipids. Similar to the results reported by Fu et al., we found that gut microbiome contributes a substantial proportion of the variations of serum glucose and lipids. Fu et al.found that gut micro- biome showed less contributions to the variation of TC and LDL. However, in this study, cecum microbiome contributes less to the variations of TG and HDL, but more to the variations of TC and LDL. This should be due to the different species of experimental subjects (human vs. pigs), diet and the sampling site for microbiome analysis
+(cecum vs. feces).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. The variation of serum glucose and lipids explained by gut microbiome at different significance level.
+
+Conclusion
+We found that the butyrate-producing bacteria should be an important regulator for serum glucose level, which increase the normal serum glucose level through improving the intestinal health, and promoting the digestion and absorption. We also identified tens of bacteria significantly associated with serum lipid level. Most of serum lipid-associated microbial taxa belong to the pathogenic bacteria, suggesting that inflammation induced by path- ogenic bacteria increases serum lipids. Cross-validation analysis found that gut microbiome contributes to a sub- stantial proportion of the variations of LDL/HDL, AI, LDL, TC and GLU. This observation provides an important insight into the role of gut microbiome in regulating serum glucose and lipids. The results also suggested that gut microbiome should be an important target for regulating serum glucose and lipids, and for therapy of cardiovas- cular diseases.
+Methods
+Experimental pig cohort and sample collection. A total of 240 Chinese Erhualian pigs were used in this study, including 127 gilts and 113 castrated boars. All experimental pigs were raised in a fattening house which was comprised of 30 pens. Each pen housed about 10 pigs with mixture of gilts and castrated boars. All pigs were provided the corn-soybean formula diet including 16% of crude protein, 3100kj of digestible energy and 0.78% of lysine two times a day. Water was available ad libitum from nipple drinkers. The boars were cas- trated at the age of 60 days. All experimental pigs were slaughtered at the age of 300 days after fasting but water free overnight as described previously. The experimental pigs were healthy and did not receive any treatment of antibiotics within at least 2 months before slaughter. Arterial blood was collected to a pro-coagulation tube during the bloodletting process. All cecum lumen samples were harvested in the 7-ml sterile tubes within 30 min after slaughter and immerged into the liquid nitrogen immediately. After transported to laboratory, the lumen samples were transferred into -80 degC freezer until use. All animal works were performed according to the guidelines for the care and use of experimental animals established by the Ministry of Agriculture of China. This study was spe- cifically approved by Animal Care and Use Committee (ACUC) in Jiangxi Agricultural University.
+
+Measurement of serum glucose and lipids. Serum was isolated from whole blood at a centrifugal speed of 3000 g for 30 minutes at 4 degC. Glucose oxidase method was used to determine the fasting serum GLU, and diag- nostic kits of Determiner-L TC II, Determiner-L TG, Determiner-L HDL-C and Determiner-L LDL-C (Kyowa Medex, Japan) were used to measure TC, TG, HDL and LDL on an AU5421 Automatic Biochemistry Analyzer platform (Backman-kelt, USA). AI were calculated as AI=(TC - HDL)/HDL.
+
+
+16S rRNA gene sequencing and OTU picking. DNA of the cecum lumen samples was extracted using QIAamp DNA Stool Mini Kit (Qiagen, Germany) according to the manufacture's standard protocol. The concen- tration and quality of DNA samples were measured by Nanodrop-1000 and 0.8% agrose gel. The fusion primers with dual index and adapters, including the forward primer 515F [GTGCCAGCMGCCGCGGTAA] and the reverse primer 806R [GGACTACHVGGGTWTCTAAT] were designed for amplification of the hypervariable V4 region of 16S rRNA gene under the melting temperature of 56 degC with 30 cycles. The libraries were constructed and sequenced on Illumina Miseq platform (Illumina, USA) according to the manufacturer's protocols. The bar- code and low quality sequences were removed to produce clean sequence reads. The 250-bp paired-end clean sequences were merged into tags using FLASH v.1.2.11. We rarefied the library size to 10,000 tags per sample by randomly selecting the tags. Then, the 16S rRNA gene sequences were clustered into OTUs at a sequence identity threshold of 97% using the QIIME. Matching OTUs to bacteria was done using a primer specific version of the GreenGenes reference database (V.13.5).
+
+Data analysis. We compared the alpha-diversity of cecum microbiota and the levels of serum glucose and lipids between castrated boars and gilt using the two-tailed t-test. Alpha-diversity was analyzed using Mothur. Because some OTUs were not presented in many samples, we chose those OTUs which had >=0.05% of relative abundance and were presented in at least 20% samples for further analysis. The association between the level of serum glucose and lipids, and the abundance of OTUs or taxonomies was analyzed using the two-part model as described by Fu et al.. Briefly, the first part of the mode describes binomial analysis that tests for association of detecting a microbe with a trait. The binary feature of an OTU or taxonomy under study was coded as 0 for undetected or 1 for detected in each sample. The second part of quantitative analysis tests for association between trait values and the abundances of microbes, but only the samples where that microbe is present were included in analysis. P values obtained from the binary and quantitative analysis were further combined to calculate a meta-P value using an unweighted Z-score method. The minimum of the P values from the binary analysis, quantita- tive analysis and meta-analysis was set as a final association P value per microbe-trait pair. To correct the false discovery rate of multiple tests, 1,000x permutations were performed to determine the significance threshold. The statistical cutoff of FDR < 0.05 was set as significance threshold. This model accounts for the feature of the relative abundance of the gut microbiota. If the final P value came from the binary model, indicating the effect is only because of the presence/absence of the microbe, the abundance of the microbe in the tested samples is irrelevant to phenotype. If the final P value came from the quantitative model, this showed the abundance level of the microbe was associated with the trait. If the final P value came from the meta-analysis, this indicated that both the presence/absence and the abundance of the microbe had significant effect on the trait.
+To get insight into the relationship between potential function capacity of gut microbiome and serum glucose
+and lipids, potential function capacities were predicted with the online PICRUSt software using the 16S rRNA gene sequencing data. The KEGG categories and pathways that presented in >80% samples and had relative abundance>1 x 10-4 were used for further analysis. A univariant linear regression model was applied to evaluate the association between the concentration of serum glucose and lipids, and the relative abundance of predicted function terms in R software. The association analysis was only focused on those function terms related to bacterial physiology and metabolisms. The unclassified terms were filtered from analysis. 1,000x permutations were performed to determine the significance threshold as described above. The heatmap of the KEGG terms associated with serum glucose and lipids was constructed by R software.
+To estimate the contribution of gut microbiome to the variation of serum glucose and lipids, a 100x cross-validation was performed as described by Fu et al.. For each analysis, the data set was randomly split into a 70% discovery set and a 30% validation set. The risk of the gut microbiome on serum glucose and lipids (rm) for
+j= (	j)
+the serum glucose or lipid level. n is the number of significantly associated OTUs identified at a certain P value. b1b1 and b2b2 is the estimated effect in the binary and quantitative model, respectively. bj and qj represent the binary and abundance feature of j OTU. The range of j was from 1 to n. The explained variation was calculated as
+the average value of the squared correlation coefficient (R2), which was corrected for the effects of sex and batch in the 100x regression analyses.
+References
+Ramos, E. et al. Replication of genome-wide association studies (GWAS) loci for fasting plasma glucose in African-Americans.
+Diabetologia 54, 783-788 (2011).
+O'Brien, R. M. Moving on from GWAS: functional studies on the G6PC2 gene implicated in the regulation of fasting blood glucose.
+Current diabetes reports 13, 768-777 (2013).
+Yang, H. et al. Genome-Wide Association Analysis for Blood Lipid Traits Measured in Three Pig Populations Reveals a Substantial Level of Genetic Heterogeneity. PloS one 10, e0131667 (2015).
+Chasman, D. I. et al. Forty-three loci associated with plasma lipoprotein size, concentration, and cholesterol content in genome-wide analysis. PLoS Genet 5, e1000730 (2009).
+Willer, C. J. & Mohlke, K. L. Finding genes and variants for lipid levels after genome-wide association analysis. Current opinion in lipidology 23, 98 (2012).
+Hooper, L. V. & Macpherson, A. J. Immune adaptations that maintain homeostasis with the intestinal microbiota. Nature Reviews Immunology 10, 159-169 (2010).
+Human Microbiome Project, C. Structure, function and diversity of the healthy human microbiome. Nature 486, 207-14 (2012).
+Round, J. L. & Mazmanian, S. K. The gut microbiota shapes intestinal immune responses during health and disease. Nat Rev Immunol 9, 313-23 (2009).
+Sepp, E., Kolk, H., Loivukene, K. & Mikelsaar, M. Higher blood glucose level associated with body mass index and gut microbiota in elderly people. Microb Ecol Health Dis 25, 1-8 (2014).
+
+
+Fu, J. et al. The Gut Microbiome Contributes to a Substantial Proportion of the Variation in Blood Lipids. Circ Res 117, 817-24 (2015).
+Todesco, T., Rao, A. V., Bosello, O. & Jenkins, D. J. Propionate lowers blood glucose and alters lipid metabolism in healthy subjects.
+Am J Clin Nutr 54, 860-5 (1991).
+Kronfeld, D. S. Effect of butyrate administration on blood glucose in sheep. Nature 178, 1290-1 (1956).
+Utzschneider, K. M., Kratz, M., Damman, C. J. & Hullarg, M. Mechanisms Linking the Gut Microbiome and Glucose Metabolism. J Clin Endocrinol Metab 101, 1445-54 (2016).
+Lunney, J. K. Advances in Swine Biomedical Model Genomics. Int J Biol Sci 3, 179-84 (2007).
+Xiao, L. et al. A reference gene catalogue of the pig gut microbiome. Nat Microbiol 1, 16161 (2016).
+Looft, T. et al. Bacteria, phages and pigs: the effects of in-feed antibiotics on the microbiome at different gut locations. ISME J 8, 1566-76 (2014).
+Meehan, C. J. & Beiko, R. G. A phylogenomic view of ecological specialization in the Lachnospiraceae, a family of digestive tract- associated bacteria. Genome Biol Evol 6, 703-13 (2014).
+Machiels, K. et al. A decrease of the butyrate-producing species Roseburia hominis and Faecalibacterium prausnitzii defines dysbiosis in patients with ulcerative colitis. Gut 63, 1275-83 (2014).
+Khan, M. T. et al. The gut anaerobe Faecalibacterium prausnitzii uses an extracellular electron shuttle to grow at oxic-anoxic interphases. ISME J 6, 1578-85 (2012).
+Matta-el-Ammouri, G., Janati-Idrissi, R., Junelles, A. M., Petitdemange, H. & Gay, R. Effects of butyric and acetic acids on acetone- butanol formation by Clostridium acetobutylicum. Biochimie 69, 109-15 (1987).
+Lecomte, V. et al. Changes in gut microbiota in rats fed a high fat diet correlate with obesity-associated metabolic parameters. PLoS One 10, e0126931 (2015).
+Koren, O. et al. Human oral, gut, and plaque microbiota in patients with atherosclerosis. Proc Natl Acad Sci USA 108(Suppl 1), 4592-8 (2011).
+Oliver, M. F. Antioxidant nutrients, atherosclerosis, and coronary heart disease. Br Heart J 73, 299-301 (1995).
+Eckburg, P. B. et al. Diversity of the human intestinal microbial flora. Science 308, 1635-8 (2005).
+Gorka, P. et al. Effect of method of delivery of sodium butyrate on rumen development in newborn calves. J Dairy Sci 94, 5578-88 (2011).
+Anand, R. S. & Black, A. L. Species difference in the glucogenic behavior of butyrate in lactating ruminants. Comp Biochem Physiol
+33, 129-42 (1970).
+Mazzoni, M. et al. Supplemental sodium butyrate stimulates different gastric cells in weaned pigs. J Nutr 138, 1426-31 (2008).
+Tonel, I. et al. Effect of butyrate on gut development and intestinal mucosa morphology of piglets. Livestock Science 133, 222-224 (2010).
+Pedersen, H. K. et al. Human gut microbes impact host serum metabolome and insulin sensitivity. Nature 535, 376-81 (2016).
+Claus, S. P. et al. Colonization-induced host-gut microbial metabolic interaction. MBio 2, e00271-10 (2011).
+Bajaj, J. S. et al. Linkage of gut microbiome with cognition in hepatic encephalopathy. Ajp Gastrointestinal & Liver Physiology 302, 168-75 (2011).
+Loubinoux, J., Bronowicki, J. P., Pereira, I. A. C., Mougenel, J. L. & Faou, A. E. Sulfate-reducing bacteria in human feces and their association with inflammatory bowel diseases. Fems Microbiology Ecology 40, 107-112 (2002).
+Shapiro, M. D. & Fazio, S. From Lipids to Inflammation: New Approaches to Reducing Atherosclerotic Risk. Circ Res 118, 732-49 (2016).
+Peters, M. J. et al. The interplay between inflammation, lipids and cardiovascular risk in rheumatoid arthritis: why ratios may be better. Int J Clin Pract 64, 1440-3 (2010).
+Yang, H. et al. Uncovering the composition of microbial community structure and metagenomics among three gut locations in pigs with distinct fatness. Sci Rep 6, 27427 (2016).
+Hu, X., Wang, T., Li, W., Jin, F. & Wang, L. Effects of NS Lactobacillus strains on lipid metabolism of rats fed a high-cholesterol diet.
+Lipids Health Dis 12, 67 (2013).
+Li, F. et al. Microbiome remodelling leads to inhibition of intestinal farnesoid X receptor signalling and decreased obesity. Nat Commun 4, 2384 (2013).
+Ridlon, J. M., Kang, D. J. & Hylemon, P. B. Bile salt biotransformations by human intestinal bacteria. J Lipid Res 47, 241-59 (2006).
+Yogesh, D. & Halami, P. Evidence that multiple proteases of Bacillus subtilis can degrade fibrin and fibrinogen. International Food Research Journal 22, 1662-1667 (2015).
+Nguimbi, E. et al. Optimization of Growth, Fibrinolytic Enzyme Production and PCR Amplification of Encoding Fibrinolytic Enzyme Gene in Bacillus amyloliquefaciens Isolated from Ntoba mbodi at Brazzaville. IJSR 3, 2779-2803 (2014).
+Magoc, T. & Salzberg, S. L. FLASH: fast length adjustment of short reads to improve genome assemblies. Bioinformatics 27, 2957-63 (2011).
+Lawley, B. & Tannock, G. W. Analysis of 16S rRNA Gene Amplicon Sequences Using the QIIME Software Package. Methods Mol Biol
+1537, 153-163 (2017).
+Desantis, T. Z. et al. Greengenes: Chimera-checked 16S rRNA gene database and workbenchcompatible in ARB. Applied & Environmental Microbiology 72, 5069-5072 (2006).
+Schloss, P. D. et al. Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol 75, 7537-41 (2009).
+Langille, M. G. I. et al. Predictive functional profiling of microbial communities using 16S rRNA marker gene sequences. Nature Biotechnology 31, 814-821 (2013).
+R Core Team R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL (2013).
+
+Acknowledgements
+We are grateful to colleagues in the State Key Laboratory of Pig Genetic Improvement and Production Technology, Jiangxi Agricultural University for management of experimental pigs and sample collection. This work was supported by Natural Science Foundation of China (31472071) and Natural Science Foundation of Jiangxi province (2013BAB20006).
+Author Contributions
+L.H.: conceived and designed the experiments, revised the manuscript; C.C.: conceived and designed the experiments and revised the manuscript; X.H.: performed the experiments, analyzed the data and wrote the manuscript; S.F., H.Y., J.G., M.H., Y.Z., S.K.: collected the samples. All authors read and approved the final manuscript.
+
+
+Additional Information
+Supplementary information accompanies this paper at .
+Competing Interests: The authors declare that they have no competing interests.
+Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre- ative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons license and your intended use is not per- mitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit .
+(c) The Author(s) 2017

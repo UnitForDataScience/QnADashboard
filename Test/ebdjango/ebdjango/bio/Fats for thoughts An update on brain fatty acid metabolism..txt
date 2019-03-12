@@ -1,0 +1,269 @@
+The International Journal of Biochemistry & Cell Biology 84 (2017) 40-45
+
+
+
+Medicine in focus
+Fats for thoughts: An update on brain fatty acid metabolism
+Adele RomanoJustyna Barbara KoczwaraCristina Anna GallelliDaniele Vergara
+Maria Vittoria Micioni Di BonaventuraSilvana GaetaniAnna Maria Giudetti
+a Department of Physiology and Pharmacology "V. Erspamer", Sapienza University of Rome, Piazzale Aldo Moro 5, 00185 Rome, Italy
+b Laboratory of Clinical Proteomic, "Giovanni Paolo II" Hospital, ASL-Lecce, Piazzetta F. Muratore, 73100 Lecce, Italy
+c School of Pharmacy, Pharmacology Unit, University of Camerino, Piazza Camillo Benso Conte di Cavour, 19f, 62032 Camerino, Italy
+d Department of Biological and Environmental Sciences and Technologies, University of Salento, via Monteroni, 73100 Lecce, Italy
+
+
+a r t i c  l e	i  n f o	a b s t r a c t
+
+
+Article history:
+Received 15 October 2016 Received in revised form 22 December 2016
+Accepted 28 December 2016
+Available online 5 January 2017
+
+Keywords:
+Ketone bodies
+Medium-chain fatty acids Short-chain fatty acids Polyunsaturated fatty acids
+
+Brain fatty acid (FA) metabolism deserves a close attention not only for its energetic aspects but also because FAs and their metabolites/derivatives are able to influence many neural functions, contributing to brain pathologies or representing potential targets for pharmacological and/or nutritional interventions. Glucose is the preferred energy substrate for the brain, whereas the role of FAs is more marginal. In conditions of decreased glucose supply, ketone bodies, mainly formed by FA oxidation, are the alterna- tive main energy source. Ketogenic diets or medium-chain fatty acid supplementations were shown to
+produce therapeutic effects in several brain pathologies.
+Moreover, the positive effects exerted on brain functions by short-chain FAs and the consideration that they can be produced by intestinal flora metabolism contributed to the better understanding of the link between "gut-health" and "brain-health".
+Finally, attention was paid also to the regulatory role of essential polyunsaturated FAs and their deriva- tives on brain homeostasis.
+
+(c) 2017 Elsevier Ltd. All rights reserved.
+
+
+
+
+Introduction
+
+The human brain has a high energy demand that is almost exclusively satisfied metabolizing glucose and, under particular cir- cumstances, also fatty acids (FAs) and ketone bodies (KBs) ( (However, the energetic role of FA oxidation in the brain is still matter of debate. In fact, although it is widely accepted that neuronal mitochondria in adult brain do not oxidize
+
+
+Abbreviations: AD, Alzheimer's Disease; AA, arachidonic acid; BBB, blood- brain barrier; CPT1, carnitine palmitoyltransferase 1; CNS, central nervous system; DHA, docosahexaenoic acid; EPA, eicosapentaenoic acid; FATP-1 and FATP-4, FA transport protein-1 and -4; FAs, fatty acids; GLUT1, glucose transporter1; GPR, G-protein coupled receptors; KBs, ketone bodies; HFDs, high-fat diets; IL-1 and IL-6, interleukin-1 and -6; MCFAs, medium-chain FAs; MCT1, monocarboxylic acid transporter 1; MUFAs, monounsaturated fatty acids; OA, oleic acid; PD, Parkinson's disease; PUFAs, polyunsaturated fatty acids; SCFAs, short-chain FAs; TNF-a, tumor necrosis factor-a.
+* Corresponding author.
+E-mail addresses: (A. Romano), (J.B. Koczwara), (C.A. Gallelli), 
+(D. Vergara), (M.V. Micioni Di Bonaventura), (S. Gaetani), 
+(A.M. Giudetti).
+
+FAs (a number of observations chal- lenge the dogma. A recent study on isolated rat brain mitochondria demonstrated that FAs are utilized as energy source in astrocytes and neurons when furnished in association with other respiratory substrates, a situation that resembles the in vivo condition (   Similarly, a study conducted in Drosophila demon- strated that the adult brain is able to catabolize FAs and release KBs (while a study in rats showed that octanoate oxidation contributes to total brain oxidative energy production (
+Beyond energy metabolism, brain FAs themselves or their metabolites play many essential roles as anti-inflammatory and neuroprotective molecules. In the following paragraphs, we sum- marized most of the metabolic pathways of FAs in the brain, starting from those used for energetic demand; then mentioning their role in several brain functions and in brain health.
+
+Mitochondrial and peroxisomal fatty acid metabolism in the brain
+
+FA transport across the blood-brain barrier (BBB,  is    a complex process, involving diffusional and protein-mediated transports, predominantly by FA transport protein-1 and -4 (FATP-1
+
+
+ 1357-2725/(c) 2017 Elsevier Ltd. All rights reserved.
+
+Romano et al. / The International Journal of Biochemistry & Cell Biology 84 (2017) 40-45	41
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Role of fatty acids in brain energy metabolism.
+During conditions of fasting, prolonged starvation or diabetes the brain can use fatty acid (FA) oxidation to support its energetic demand. The main source of FAs crossing the blood-brain-barrier (BBB) likely derives from nonesterified long-chain FA/albumin complexes, after their dissociation from albumin and, to a lesser extent, from circulating lipoproteins. Once entered into cells, the conversion to acyl-CoA by acyl-CoA synthetases allows their intracellular entrapment.
+Once FAs enter into astrocytes, they are translocated into mitochondrial matrix for -oxidation and ketone body (KB) production. Branched- and very long-chain FAs can be also metabolized by peroxisomal a- and -oxidation.
+KBs (acetoacetate, beta-hydroxybutyrate, and their spontaneous breakdown metabolite, acetone) are produced (mainly by the liver) from two acetyl-CoA units when glucose is less available. These KBs are readily used by extra-hepatic tissues that convert them into acetyl-CoA, which then enters the citric acid cycle to produce energy. Glucose is anyway necessary to provide Krebs cycle substrates (i.e. succinyl-CoA) for the complete oxidation of KBs.
+Medium chain FAs (MCFAs), such as octanoic acid (C8:0) and decanoic acid (C10:0) can modulate astrocyte metabolism, by promoting ketogenesis and glycolysis, respectively.
+
+
+and FATP-4) in humans and mouse (Except for specific hypothalamic neurons (see below), brain FA oxidation for energetic purposes occurs almost exclusively in glial cells ( although with a low efficiency as compared to other tissues with high energy turnover (    This feature seems to reflect both a slow FA translocation across the inner mitochondrial membrane, which is mediated by long- chain carnitine palmitoyltransferase 1 (CPT1), and a low enzymatic capacity of the -oxidation pathway, mostly due to a low activity of 3-ketoacyl-coenzyme A (Neurons keep the acyl-CoA concentration low thanks to the abundant expres- sion and high activity of the cytoplasmic acyl-CoA thioesterase 7, whose loss results in multiple defects in neural metabolism ( According to the most accepted evolutionary hypoth- esis, such low FA oxidation capacity might be due to the higher oxygen consumption and superoxide generation associated to FA
+-oxidation, with respect to glucose degradation, thereby enhanc- ing the hypoxic risk and oxidative stress (   
+Whereas the bulk of dietary long-chain FAs are oxidized in mito- chondria, branched- and very long-chain FAs undergo peroxisomal a- or -oxidation (   Peroxisomes can only shorten but not fully degrade FAs into acetyl-CoA. Carnitine does not participate in the FA uptake by peroxisomes but rather in the export of chain-shortened FAs delivered to mitochondria. Defects of brain peroxisomal a-oxidation are linked to cerebellar defects and demyelinating neuropathy (while disorders of peroxisomal -oxidation can induce different type of neurolog- ical diseases depending on the type of enzyme affected ( 
+In hypothalamic neurons of the arcuate nucleus, the mito- chondrial CPT1C plays an important role by interacting with malonyl-Coenzyme A (malonyl-CoA), the product of acetyl-CoA carboxylase that starts FA de novo synthesis. In particular, an increase of malonyl-CoA generates a signal of energy surplus that regulates orexigenic and anorexigenic neuropeptide release to sup- press food intake and increase energy expenditure (
+
+ an opposite regulation is set-up by decreased levels of malonyl-CoA. In keeping with this finding, mice genetically lacking CPT1C exhibit decreased food intake and lower body weight than wild-type littermates, but gain excessive body weight and body fat when fed a high-fat diet, while maintaining lower or equivalent food intake (
+
+Neuroprotection of ketogenic diets: role of medium chain fatty acids (MCFAs)
+
+"Ketogenic diets", based on the drastic reduction of carbohy- drate assumption, represent a nutritional approach stimulating the brain to use KBs as main energetic fuel. KBs, which can cross the BBB through the monocarboxylic acid transporter 1 (MCT1), repre- sent an important energy source for the brain when glucose is less available (e.g., during fasting, strenuous exercise, diabetes, keto- genic diet, in early life, or in neuropathological conditions) ( (Several obser- vations, both in humans and in animal models, suggested that KBs can exert important neuroprotective effects, thus being useful in a number of neurological disorders (More- over, a very recent finding by demonstrated that exercise decreases plasma glucose levels, increases the levels of one of the main KBs, 3-hydroxybutyrate, and induces the expression of the brain-derived neurotrophic factor, an effect of great inter- est for the treatment of many neurodegenerative disorders. One of the possible neuroprotective mechanisms of ketones is linked to their ability to up-regulate mitochondrial biogenesis in the central nervous system (CNS) (and to increase mito- chondrial glutathione levels (and glutathione peroxidase activity (In agreement with such observations, animals fed with a ketogenic diet showed a reduced production of mitochondrial free radicals (
+Similarly,  the  increased  ketogenesis  observed  during  the
+exposure to high altitudes, rather than simply being a pathophys- iological dysregulation, seems to be neuroptotective from reduced oxygen availability through different mechanisms that reduce the
+
+42	A. Romano et al. / The International Journal of Biochemistry & Cell Biology 84 (2017) 40-45
+
+
+generation of reactive oxygen species ( 
+A ketogenic diet may confer cognitive benefit also by increasing brain GABA levels, which, in turn, can counteract the neurotoxic effect of excessive glutamate (The mechanism has been associated to the induction of glutamate decarboxylase, an enzyme that facilitates the conversion of glutamate into GABA (   Moreover, KBs were suggested to improve the neuropathological hallmarks of Alzheimer's disease (AD), by both providing an excellent energetic source for the brain, where a dysfunction of glucose transporter1 (GLUT1) decreases neu- ronal glucose availability, and by reducing amyloid  production and deposition, potentially through the rescue of astroglial cells (
+An important source for ketogenesis derives from the catabolism of medium-chain fatty acids (MCFAs, A). The majority of MCFAs ingested are rapidly converted into ketones by hepatocytes. Therefore, MCFAs can induce ketogenesis without the need for a ketogentic diet and have the potential to provide an alter- native energy source to prevent neuronal cell death due to lack of glucose (   Different studies demonstrated that MCFAs modulate carbohydrate and lipid metabolism, as well as mitochondrial energy production ( MCFAs activate free FAs sensing G-protein coupled receptors (GPR) such as GPR40 and GPR84, which regulate glucose metabolism and inflammation (Moreover, many stud- ies have shown that MCFAs themselves can have several effects on neural functions. Preclinical observations suggest that MCFAs can
+readily cross the BBB and can enter neurons via MCT1, a process driven by the electrochemical Na+ gradient ( Inside neural cells they can cross the double mitochondrial mem- brane without requiring the carnitine transport system ( 
+A recent work (reported that some MCFAs may have brain health benefits (by modulating astrocyte metabolism. In this regard, decanoic acid (C10:0) promoted glycol- ysis and lactate formation, whereas octanoic acid (C8:0) increased the rates of astrocyte ketogenesis. These effects may activate shut- tle systems that provide nutrients to neighboring neurons in the form of lactate and KBs (These observations make MCFAs an attractive and novel target for neurodegenerative pathologies. In accordance with such hypothesis, a small number of clinical tri- als and animal studies showed that ketones derived from MCFAs improve cognition in patients with AD and attenuate neurodegen- eration in a mouse model of amyotrophic lateral sclerosis ( A role of MCFAs on cognition and synaptic stability, not related to the production of KBs, has also been demonstrated in aged rats (
+Among MCFAs, beneficial effects have also been reported by those with an odd number of carbon atoms. These FAs are metab- olized by -oxidation to provide propionyl-CoA, which is further carboxylated to produce succinyl-CoA, an intermediate of the tri- carboxylic cycle. Oral administration of triheptanoin, a glycerol bound to three molecules of heptanoic acid (C7:0), has been demon- strated to be anticonvulsant in acute and chronic murine seizure models (Moreover, a triheptanoin- enriched diet ameliorated mitochondrial functions in the infarcted area of stroked mice, thus improving their neurological outcome (
+
+Short-chain fatty acids (SCFAs): the gut-brain axis
+
+It is clear the existence of a bidirectional signaling between the gastrointestinal tract and the brain that can be involved in the eti- ology of several metabolic and mental dysfunctions (
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Role of medium-chain, short-chain and polyunsaturated fatty acids on brain health and brain homeostasis.
+Medium-chain FAs (MCFAs, panel A) are FAs with 6 to12 carbon atoms and are found as triacylglycerols in food-staff such as coconut oil and goat milk. Triacylglycerols containing MCFAs are broken down almost immediately by enzymes in the saliva and gastric juices, without using pancreatic fat-digesting enzymes and are absorbed more efficiently than long-chain FAs, without being incorporated into chylomicrons and transported through the lymphatic system.
+Short-chain fatty acids (SCFAs, panel B) are molecules containing 2-5 carbon units and are the natural end-product of non-digestible carbohydrate (e.g. dietary fibers) fermentation by the gut flora. SCFAs enter the circulation via monocarboxylate trans- porters, as well as by diffusion. SCFAs can also be transported through the BBB into the brain and used for energy production by short-chain L-3-hydroxyacyl-CoA dehy- drogenase.
+Polyunsaturated FAs (PUFAs, panel C) are FAs that present two or more double bonds within the hydrocarbon chain. Depending on the position of the double bonds clos- est to the methyl side, PUFAs are divided in three classes: w-3, w-6, and w-9.
+Linoleic acid (a C18:2 w-6 PUFA) and a-linolenic acid (a C18:3 w-3 PUFA) can be the precursors for other PUFAs such as arachidonic acid (AA, C20:4 w-6 PUFA), eicos- apentaenoic acid (EPA C20:5 w-3 PUFA) and docosahexaenoic acid (DHA, C22:6 w-3 PUFA). All of them constitute a group of essential PUFAs of high physiological signif- icance and the brain relies on their constant supply from the blood stream, thanks  to the activity of transport proteins on the BBB, such as FATP-1/4 and FAT/CD36.
+
+
+ Moreover, it has recently become evident that intestinal microbiota can be part of this signaling greatly influencing many brain functions (The main products of intesti- nal bacterial metabolism are short-chain FAs (SCFAs, B), such as butyric acid, propionic acid and acetic acid, which are able to produce different effects at the central and peripheral nervous sys- tem (B). For example, a study conducted in mice by Frost and
+
+Romano et al. / The International Journal of Biochemistry & Cell Biology 84 (2017) 40-45	43
+
+
+colleagues (demonstrated that acetic acid has a direct central effect on the hypothalamic control of appetite, as sug- gested by the increase of pro-opiomelanocortin expression and by the concomitant reduction of agouti-related protein levels follow- ing peripheral acetate administration. This observation expands the broad spectrum of actions of SCFAs on appetite regulation and energy homeostasis by the modulation of several metabolic path- ways at peripheral levels (reviewed by 
+Diet can impact the composition and activity of the gut micro- biota and, as a result, the production of intestinal SCFAs. Butyrate has received particular attention in this scenario: its production is dependent on diet and intestinal microflora composition, and it is able to exert many beneficial extra-intestinal effects through epigenetic mechanisms. In fact, butyrate is part of a class of epi- genetic modulators known as histone deacetylase inhibitors and was preclinically tested as possible treatment for neurodegener- ative diseases with aberrant histone acetylation. In a transgenic mouse model of AD, sodium butyrate administration was able to reinstate learning and memory (decrease tau phosphorylation and restore dendritic spine density in hippocam- pal neurons (   Such memory enhancing effects of butyrate have been associated to its ability to facilitate neuronal plasticity, long-term memory formation or LTP ( Furthermore, a prolonged treat- ment with sodium butyrate improved associative memory in a transgenic murine model for amyloid deposition (APP/PS1 mice) by increasing both hippocampal histone acetylation and the expres- sion of genes implicated in associative learning (  Sodium butyrate was also demonstrated to prevent the induced-apoptotic cell death of two dopaminergic cell lines (human neuroblastoma-derived SK-N-SH and rat mesencephalic-derived MES 23.5) (    thus suggesting a poten- tial beneficial effect in Parkinson's disease (PD). Moreover, a very recent study showed that treatment with sodium butyrate could decrease the BBB permeability in mice, by increasing the expression of occludin, a major transmembrane protein of the tight junction (
+
+Role of essential polyunsaturated fatty acids (PUFAs) in the brain
+
+In the brain, polyunsatured FAs (PUFAs) are mostly incorporated into neural membrane glycerophospholipids, with a proportion of w-6 and w-3 PUFA that varies considerably. Arachinodic acid (AA) is evenly distributed in all types of neural cells, while docosahex- aenoic acid (DHA) is mostly concentrated in neuronal (including synaptic) membranes. Membrane glycerophospholipids, in turn, can be metabolized to a very large  numbers  of  lipid  media- tors with powerful multiple neurochemical effects that could be harmful (pro-inflammatory effects of AA derivatives), beneficial (anti-inflammatory, repairing, neuroprotective, and antioxidant effects of DHA metabolites) or neuromodulatory (AA-derived endo- cannabinoids) (
+A large body of evidence demonstrates important biological functions of DHA in neuronal homeostasis (C), mostly linked to its role in neurogenesis, synaptogenesis, neuronal differentia- tion, neurite outgrowth and maintenance of membrane fluidity (Moreover, DHA is able to modulate neuroin- flammation, in both in vivo and in vitro experiments. In particular, DHA decreases the production of proinflammatory cytokines, such as tumor necrosis factor-a (TNF-a), interleukin-1 and -6 (IL-1 and IL-6), in cultured microglial cells (and reduces signs of inflammation in mouse microglia (
+The dietary w-3/w-6 PUFA ratio seems to impact FA composi- tion of membrane phospholipids, thus producing functional effects
+
+
+during perinatal and adult periods. The modern western diet is characterized by an AA/DHA ratio of about 15:1. The optimal ratio is still debated; however, dietary supplementations of DHA have been proven efficacious to exert neuroprotective effects in vitro, and in vivo, both pre-clinically and clinically ( 
+
+Role of monounsaturated fatty acids (MUFAs) in the brain
+
+Monounsaturated FAs (MUFAs) are FAs having only one double bond. Depending on the position of the hydrogen atoms around the double bond it can be distinguished a cis or trans isomer. Most of the beneficial effects of MUFAs on cardiovascular system are associated to cis MUFAs, mostly oleic acid (OA, cis C18:1). A diet high in MUFA levels is often referred to as the Mediterranean diet. Some studies report that a high adherence to a traditional Mediterranean diet rich in MUFAs is associated with a slower age-related cognitive decline and reduced risk of developing AD (    Analogously, a canola oil-based diet, rich in OA, was demonstrated to provide beneficial cognitive effects (OA, in association with extra virgin olive oil antioxidants, such as tyrosol, hydroxytyrosol, and oleuropein, decreased chronic inflam- mation in human glioblastoma cells by preventing TNF-a- induced expression of cyclooxygenase (COX)-2 (More- over, OA was shown to influence lipid metabolism in C6 glioma cells down-regulating the activity and expression of key enzymes of FA and cholesterol synthesis (Interestingly, albumin-induced stimulation of OA synthesis in astrocytes can fur- nish neurons of a substrate that promotes axonal growth, neuronal clustering, and expression of the axonal growth-associated protein- 43 during the postnatal period (
+
+Conclusions
+
+The brain requires a constant and substantial energy supply to maintain its main functions. Despite glucose remains its key ener- getic substrate, growing evidence suggests that the brain is able to adapt to different metabolic conditions, by using other circulating substrates, like FAs and KBs. Considering the importance of ener- getics in the etiology of several neurodegenerative diseases, this adaptability represents a neuroprotective strategy. From this con- sideration stems the rationale for the development of ketogenic diets based on the drastic reduction of carbohydrate intake and the consumption of fats as main energetic source. In fact, this dietary condition, which can mimic fasting without severe caloric depriva- tion, reduces the amount of glucose availability so that FAs are used by the liver to produce KBs. A large body of evidence indicates that KBs exert neuroprotective effects and/or produce beneficial effects on brain functions. However, it has been recognized for a long-time that the consumption of high-fat diets (HFDs), particularly rich of saturated and trans-FAs, can lead to metabolic disorders (obesity, diabetes), cardiovascular diseases, and even neurofunctional alter- ations. Therefore, the positive effects of ketogenic diets on "brain health" should be taken with caution.
+Moreover the knowledge on the role of gut microbiota on the
+circulating levels of SCFAs, such as butyric acid, propionic acid and acetic acid, can explain part of the gut-CNS interactions involved in many pathological states. Disturbances in "gut health" have been linked to multiple sclerosis, autistic spectrum disorders, AD, and PD. On the other hand, beneficial effects of increased SCFAs availability have been observed in many preclinical and clinical studies. Many of these effects are attributed to their ability to regulate epigenetic mechanisms. The most empowering aspect of the role played in the brain by SCFAs produced by intestinal flora is that a simple lifestyle
+
+44	A. Romano et al. / The International Journal of Biochemistry & Cell Biology 84 (2017) 40-45
+
+
+change, such an increased consumption of fruits and vegetables, can make our brain healthy.
+This is also true for essential PUFAs, whose dietary supply (mostly from fish and seeds) is fundamental for brain functioning but, at the same time, whose assortment can provoke beneficial or detrimental effects depending from the balance between w-3 and w-6 provisions.
+In sum, we are all well aware that our daily dietary choices can influence our overall wellness but we should also take in due con- sideration that it might influence our brain functioning, such as our cognitive performance, our mood and anxiety, besides setting the metabolic base for the etiology of neuropathological states. In this context, the better understanding on the role played by all the different FAs and their derivatives in the nervous system can con- tribute to the development of better prevention strategies and also of novel therapeutic/nutritional approaches.
+
+References
+
+Arsenault, D., Julien, C., Chen, C.T., Bazinet, R.P., Calon, F., 2012.   
+Belanger, M., Allaman, I., Magistretti, P.J., 2011. Brain energy metabolism: focus on astrocyte-neuron metabolic cooperation. Cell Metab. 14, 724-738,  doi.org/10.1016/j.cmet.2011.08.016.
+Belkouch, M., Hachem, M., Elgot, A., Van, A.L., Picq, M., Guichardant, M., et al., 2016. The pleiotropic effects of omega-3 docosahexaenoic acid on the hallmarks of Alzheimer's disease. J. Nutr. Biochem. 38, 1-11,  jnutbio.2016.03.002.
+Borges, K., Sonnewald, U., 2012.   
+Bough, K.J., Wetherington, J., Hassel, B., Pare, J.F., Gawryluk, J.W., Greene, J.G., et al., 2006. Mitochondrial biogenesis in the anticonvulsant  mechanism  of  the ketogenic diet. Ann. Neurol. 60, 223-235, 
+Braniste, V., Al-Asmakh, M., Kowal, C., Anuar, F., Abbaspour, A., Toth, M., 2014. The gut microbiota influences blood-brain barrier permeability in mice. Sci. Transl. Med. 6 (263), 263ra158, 
+Byrne, C.S., Chambers, E.S., Morrison, D.J., Frost, G., 2015.   
+Chen, S., Zhang, H., Pu, H., Wang, G., Li, W., Leak, R.K., et al., 2014.     
+Cheng, C.M., Hicks, K., Wang, J., Eagles, D.A., Bondy, C.A., 2004. Caloric restriction augments brain glutamic acid decarboxylase-65 and  67 expression. J.  Neurosci. Res. 77, 270-276, 
+Clayton, P.T., 2001. 
+
+De Munter, S., Verheijden, S., Regal, L., Baes, M., 2015.  
+Ebert, D., Haller, R.G., Walton, M.E., 2003.   
+Ellis, J.M., Wong, G.W., Wolfgang, M.J., 2013. Acyl coenzyme A thioesterase 7 regulates neuronal fatty acid metabolism to prevent neurotoxicity. Mol. Cell. Biol. 33, 1869-1882, 
+Fischer, A., Sananbenesi, F., Wang, X., Dobbin, M., Tsai, L.H., 2007. Recovery of learning and memory after neuronal loss is associated with chromatin remodeling. Nature 447, 178-182, 
+Frost, G., Sleeth, M.L., Sahuri-Arisoylu, M., Lizarbe, B., Cerdan, S., Brody, L., et al., 2014. The short-chain fatty acid acetate reduces appetite via a central homeostatic mechanism. Nat. Commun. 5, 3611,  ncomms4611.
+Gnoni, G.V., Giudetti, A.M., Mercuri, E., Damiano, F., Stanca, E., Priore, P., Siculella, L., 2010. Reduced activity and expression of mitochondrial citrate carrier in streptozotocin-induced diabetic rats. Endocrinology 151, 1551-1559, http:// dx.doi.org/10.1210/en.2009-1352.
+Govindarajan, N., Agis-Balboa, R.C., Walter, J., Sananbenesi, F., Fischer, A., 2011.
+Sodium butyrate improves memory function in an Alzheimer's disease mouse model when administered at an advanced stage of disease progression. J. Alzheimers Dis. 26, 187-197, 
+Jarrett, S.G., Milder, J.B., Liang, L.P., Patel, M., 2008. The ketogenic diet increases mitochondrial glutathione levels. J. Neurochem. 106, 1044-1051,  org/10.1111/j.1471-4159.2008.05460.x.
+Kidd, S.K., Schneider, J.S., 2010. Protection of dopaminergic cells from
+MPP+-mediated toxicity by histone deacetylase inhibition. Brain Res. 1354, 172-178, 
+Lamy, S., Ben Saad, A., Zgheib, A., Annabi, B., 2015. Olive oil compounds inhibit the paracrine regulation of TNF-a-induced endothelial cell migration through
+
+
+reduced glioblastoma cell cyclooxygenase-2 expression. J. Nutr. Biochem. 27, 136-145, 
+Lattal, K.M., Barrett, R.M., Wood, M.A., 2007.   
+Lei, E., Vacy, K., Boon, W.C., 2016.  
+Lu, Y., Zhao, L.X., Cao, D.L., Gao, Y.J., 2013.    
+Marosi, K., Kim, S.W., Moehl, K., Scheibye-Knudsen, M., Cheng, A., Cutler, R., et al., 2016.  
+Martin, P.M., Gopal, E., Ananth, S., Zhuang, L., Itagaki, S., Prasad, B.M., et al., 2006. Identity of SMCT1 (SLC5A8) as a neuron-specific Na+-coupled transporter for active uptake of L-lactate and ketone bodies in the brain. J. Neurochem. 98, 279-288, 
+Mitchell, R.W., On, N.H., Del Bigio, M.R., Miller, D.W., Hatch, G.M., 2011. Fatty acid transport protein expression in human brain and potential role in fatty acid transport across human brain microvessel endothelial cells. J. Neurochem. 117, 735-746, 
+Morris, M.C., Tangney, C.C., 2014. 
+
+Murray, A.J., Montgomery, H.E., 2014.   
+Natali, F., Siculella, L., Salvati, S., Gnoni, G.V., 2007.   
+Panov, A., Orynbayeva, Z., Vavilin, V., Lyakhovich, V., 2014. Fatty acids in energy metabolism of the central nervous system. BioMed Res. Int. 2014, 472459, 
+Ricobaraza, A., Cuadrado-Tejedor, M., Marco, S., Perez-Otan~o, I., Garcia-Osta, A., 2010. Phenylbutyrate rescues dendritic spine loss associated with memory deficits in a mouse model of Alzheimer disease. Hippocampus 22, 1040-1050, 
+Robinson, A.M., Williamson, D.H., 1980.  
+Rodriguez-Rodriguez, R.A., Tabernero, A., Velasco, A., Lavado, E.M., Medina, J.M., 2004.     
+Schonfeld, P., Reiser, G., 2013. Why does brain metabolism not favor burning of fatty acids to provide energy? Reflections on disadvantages of the use of free fatty acids as fuel for brain. J. Cereb. Blood Flow Metab. 33, 1493-1499, http:// dx.doi.org/10.1038/jcbfm.2013.128.
+Schonfeld, P., Reiser, G., 2016.   
+Schonfeld, P., Wojtczak, L., 2016.  
+Schulz, J.G., Laranjeira, A., Van Huffel, L., Gartner, A., Vilain, S., Bastianen, J., et al., 2015.  
+Schwarzkopf, T.M., Koch, K., Klein, J., 2015.   
+Stafstrom, C.E., Rho, J.M., 2012. The ketogenic diet as a treatment paradigm for diverse neurological disorders. Front. Pharmacol. 9, 3-59,  3389/fphar.2012.00059.
+Sullivan, P.G., Rippy, N.A., Dorenbos, K., Concepcion, R.C., Agarwal, A.K., Rho, J.M., 2004. The ketogenic diet increases mitochondrial  uncoupling  protein  levels and activity. Ann. Neurol. 55, 576-580, 
+Thevenet, J., De Marchi, U., Domingo, J.S., Christinat, N., Bultot, L., Lefebvre, G., et al., 2016. Medium-chain fatty acids inhibit mitochondrial metabolism in astrocytes promoting astrocyte-neuron lactate and ketone body shuttle systems. FASEB J. 30, 1913-1926, 
+Vecsey, C.G., Hawk, J.D., Lattal, K.M., Stein, J.M., Fabian, S.A., Attner, M.A., et al., 2007. Histone deacetylase inhibitors enhance memory and synaptic plasticity  via CREB: CBP-dependent transcriptional activation. J. Neurosci. 27, 6128-6140, 
+Wanders, R.J., van Roermund, C.W., Visser, W.F., Ferdinandusse, S., Jansen, G.A., van den Brink, D.M., et al., 2003.      
+Wang, D., Mitchell, E.S., 2016. Cognition and synaptic-plasticity related changes in aged rats supplemented with 8- and 10- carbon medium chain triglycerides. PLoS One 11, e0160159, 
+Wang, Z.J., Bergqvist, C., Hunter, J.V., Jin, D., Wang, D.J., Wehrli, S., et al., 2003.
+In vivo measurement of brain metabolites using two-dimensional
+double-quantum MR spectroscopy-exploration of GABA levels in a ketogenic diet. Magn. Reson. Med. 49, 615-619, 
+Wolfgang, M.J., Cha, S.H., Millington, D.S., Cline, G., Shulman, G.I., Suwa, A., et al., 2008. Brain-specific carnitine palmitoyl-transferase-1c: role in CNS fatty acid metabolism, food intake, and body weight. J. Neurochem. 105, 1550-1559, 
+
+Romano et al. / The International Journal of Biochemistry & Cell Biology 84 (2017) 40-45	45
+
+
+Yonezawa, T., Kurata, R., Yoshida, K., Murayama, M.A., Cui, X., Hasegawa, A., 2013.
+ 
+Zhao, W., Varghese, M., Vempati, P., Dzhun, A., Cheng, A., Wang, J., et al., 2012.
+Caprylic triglyceride as a novel therapeutic approach to effectively improve the
+
+
+performance and attenuate the symptoms due to the motor neuron loss in ALS disease. PLoS One 7, e49191, 
+Ziegler, D.R., Ribeiro, L.C., Hagenn, M., Siqueira, I.R., Araujo, E., Torres, I.L., et al., 2003.  

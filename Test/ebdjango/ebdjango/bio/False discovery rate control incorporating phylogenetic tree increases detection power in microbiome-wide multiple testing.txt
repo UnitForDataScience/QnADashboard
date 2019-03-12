@@ -1,0 +1,530 @@
+Bioinformatics, 33(18), 2017, 2873-2881 doi: 10.1093/bioinformatics/btx311
+Advance Access Publication Date: 13 May 2017
+Original Paper
+
+
+Genetics and population analysis
+False discovery rate control incorporating phylogenetic tree increases detection power in microbiome-wide multiple testing
+Jian Xiao1,+, Hongyuan Cao2,+ and Jun Chen1,*
+1Division of Biomedical Statistics and Informatics and Center for Individualized Medicine, Mayo Clinic, Rochester, MN 55905, U.S.A. and 2Department of Statistics, University of Missouri, Columbia, MO, USA
+*To whom correspondence should be addressed.
++The authors wish it to be known that, in their opinion, the first two authors should be regarded as Joint First Authors. Associate Editor: Oliver Stegle
+Received on October 31, 2016; revised on April 13, 2017; editorial decision on May 7, 2017; accepted on May 12, 2017
+
+
+Abstract
+Motivation: Next generation sequencing technologies have enabled the study of the human micro- biome through direct sequencing of microbial DNA, resulting in an enormous amount of microbiome sequencing data. One unique characteristic of microbiome data is the phylogenetic tree that relates all the bacterial species. Closely related bacterial species have a tendency to exhibit a similar relation- ship with the environment or disease. Thus, incorporating the phylogenetic tree information can po- tentially improve the detection power for microbiome-wide association studies, where hundreds or thousands of tests are conducted simultaneously to identify bacterial species associated with a phenotype of interest. Despite much progress in multiple testing procedures such as false discovery rate (FDR) control, methods that take into account the phylogenetic tree are largely limited.
+Results: We propose a new FDR control procedure that incorporates the prior structure information and apply it to microbiome data. The proposed procedure is based on a hierarchical model, where a structure-based prior distribution is designed to utilize the phylogenetic tree. By borrowing infor- mation from neighboring bacterial species, we are able to improve the statistical power of detect- ing associated bacterial species while controlling the FDR at desired levels. When the phylogenetic tree is mis-specified or non-informative, our procedure achieves a similar power as traditional pro- cedures that do not take into account the tree structure. We demonstrate the performance of our method through extensive simulations and real microbiome datasets. We identified far more alcohol-drinking associated bacterial species than traditional methods.
+Availability and implementation: R package StructFDR is available from CRAN.
+Contact: 
+Supplementary information: Supplementary data are available at Bioinformatics online.
+
+
+
+Introduction
+The human microbiome is now known to be intricately linked to overall human health. Specific changes in microbiome composition have been associated with many human diseases such as obesity, in- flammatory bowel disease and various cancers through the direct sequencing of microbial DNA (). One popular sequencing strategy targets the 16S rRNA gene, which carries
+
+
+evolutionary information, to profile the taxonomic content of the microbiome (Kuczynski et al., 2012). In this approach, the  sequenced 16S tags are first clustered into small units, called oper- ational taxonomic units (OTU), based on sequence divergence. At 97% similarity level, these OTUs are assumed to correspond to bio- logical species, though the exact correspondence may not always hold. The representative sequences of OTUs can then be used to
+
+
+VC  The Author 2017. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: 	2873
+
+
+
+infer a phylogenetic tree, which provides important prior knowledge about how these OTUs are related  evolutionarily.  Environmental and disease conditions  have a tendency to affect bacterial clades,      a group of closely related biological species, at different phylogen- etic depth (). Thus, the phylogenetic tree can be potentially used to increase the efficiency and power of microbiome data analysis by borrowing the states of neighboring OTUs. Indeed, many tree-based statistical methods have been demonstrated to be superior to those non-tree-based counterparts (, 2013; ; ).
+A common goal in sequencing-based microbiome analysis is the identification of OTUs or taxa associated with a phenotype of inter- est (e.g. body mass index, smoking status, disease subtypes) ( ). Consequently, hundreds or thousands of tests are con- ducted simultaneously. False discovery rate (FDR) control () is one of the most commonly used approaches for multiple comparison adjustment in microbiome-  wide association studies. By definition, FDR is the expected propor- tion of falsely rejected null hypotheses among all of the rejected null hypotheses. There is a vast literature on FDR control and its applica- tions in various fields, such as microarray analysis, astronomical surveys and brain imaging, among others (;  ; ; ).
+The predominant framework in FDR control is via individual
+analysis--testing each hypothesis separately and declaring statistical significance if the P-value is less than a certain threshold ( ) or the test statistic falls into the rejection re- gion (). Although this approach works well for phenotypes that depend on strong effects from a few variants (genotypes/OTUs), it is less suitable for complex phenotypes that are influenced by weak effects from many different variants. In fact, it has now been recognized that a majority of biological phenotypes manifest from a complex interaction among  different  variants.  Thus, FDR control without considering the underlying biological structure can lead to very low statistical power. For  microbiome data, the biological structure is encoded in the phylogenetic tree,   and closely related OTUs are expected to respond to the environ- mental perturbations in similar manners. When an OTU is associ- ated with a disease, it is likely that the neighboring OTUs are also disease associated.
+Multiple  testing  under  dependence  is  a  challenging   problem.
+Although it has been shown that the Benjamini and Hochberg pro- cedure remains valid under various dependence structure, such as positive dependence (; ), extensive evidence shows that there will  be  a  substantial  power loss without considering the actual dependence  (;  ; ). To incorporate the dependence structure,  proposed a hidden  Markov Model, and  used a factor model approach and  integrated principal component analysis and a factor model. These methods require strong assumptions and are not applicable to microbiome data. Recently, there have been multiple testing methods that le- verage prior biological knowledge to increase the power of FDR control (; ; ; ). For microbiome  data,   proposed to apply the group Benjamini-Hochberg (GBH) procedure of Hu et al. (2012) and the hierarchical false dis- covery rate (HFDR) controlling procedure of  to utilize the hierarchical tree structure. In GBH, the proportion of alternative hypothesis within each group is estimated and overall P-values    of    that    group    are    re-weighted    incorporating   the
+
+proportion of alternative hypothesis within the group to improve power. HFDR arranges families of related hypotheses along a tree and restricting attention to particular subtrees that are more likely to contain alternative hypotheses. GBH requires the specification of the groups while HFDR uses the tree topology. Both of them are not able to fully exploit the tree structure information, which con- tains both the topology and branch lengths.
+In this paper, we aim to boost the statistical power of microbiome-wide multiple testing by proposing a new method that leverages the relationships among different OTUs through the phylogenetic tree. Our method combines an empirical Bayes ap- proach to incorporate prior correlation structure ( ; ) and a permutation approach for FDR control (). It has several unique distinctive features. First, a working hierarchical model that incorporates prior biological knowledge allows us to borrow information across different tests. Second, an algorithm based on permutation is used to control FDR. Permutation retains the dependence among test statistics and has the flexibility to adjust to the unknown null distribution of the test statistics, even when the working model is mis-specified. Third, our procedure has substantial power gain when the phylo- genetic tree accurately describes the dependence structure and achieves a similar power as traditional procedures when the phylo- genetic tree is mis-specified or non-informative. Simulation studies and real data applications show that our procedure has favorable performances compared with conventional approaches.
+
+
+Materials and methods
+2.1 Background and notation
+Consider a typical microbiome dataset with m OTUs from n individ- ual samples, and further suppose that a phenotype of interest is re- corded for each sample. Such data can be represented in an m x n matrix, with rows corresponding to individual OTUs and columns corresponding to individual samples. The total number of samples n is usually in the order of tens or hundreds, and the number of OTUs is in the order of hundreds or thousands. In addition, a phylogenetic tree relates all the OTUs, which can be represented as an m x m dis- tance matrix D, containing the pairwise patristic distances between OTUs (the sum of the lengths of the branches that link two OTUs in the tree). Note that the m x m distance matrix is independent of the observations in the m x n data matrix.
+Suppose that we are interested in the association between the phenotype and OTUs. This can be casted into a multiple testing problem--the simultaneous tests of the null hypothesis Hj of no as- sociation between the OTU j and the phenotype:
+H0j : the jth OTU is not associated with the phenotype ; j 1/4 1; ... m
+
+to see which OTUs are correlated with the phenotype.
+A by far classic approach for this problem is the FDR control procedure pioneered by Benjamini and Hochberg ( ). The algorithm works as follows. Let Pd1Th < Pd2Th
+<  * * *  <  PdmTh be  the  ordered  observed  P-values  of  m  hypotheses. Define k 1/4 maxfi : PdiTh< ia=mg and reject H0d1Th; ... H0dkTh; where a is a pre-specified error rate. If no such k exists, reject no hypothesis.  This approach is shown to be valid under independence or positive dependence among the P-values. imposed a factor model on the observed data to model the dependence structure and utilized the principal component analysis of the variance covariance matrix. Instead of directly modeling the dependence, we develop a hierarchical modeling strategy to leverage prior structure
+
+
+
+information by an empirical Bayesian approach. We work with the
+z-value, which can be conveniently transformed from the P-value by
+
+z  1/4 U-1d1 - P Th; j 1/4 1; .. . ; m;	(1)
+
+To be noted, the proposed hierarchical model does not assume mixture components as more commonly used in FDR literature ( )  and  neither  does  it  model  the  data  correlation  dzjlTh.
+
+
+
+
+where U denotes the cumulative distribution function of the stand- ard normal random variable. If Pj < E or Pj > 1 - E, where E is a very small number (e.g. 10-15), we set Pj 1/4 E or 1 - E. To accommo- date the direction of the effect, z-value can be obtained by
+
+hierarchical model is to derive an efficient moderated test statistic as described in the next section.
+
+
+2.4 Prior-structure moderated test statistic
+
+2	2
+
+zj 1/4 U-1d1 - Pj=2Th   or   U-1dPj=2Th;	(2)
+depending on the sign of the effect. For microbiome-based applica- tions, we focus on the transformation (2). P-values can be obtained through various test statistics or regression models.
+
+Phylogeny-induced prior correlation
+To facilitate the incorporation of the phylogenetic tree into FDR control, we define a tree-based correlation structure based on the distance matrix D: Following the trait evolution model (
+
+Given the true values of the hyperparameters q0; c0; r0 and s0; the
+posterior density function of l can be obtained from the Bayesian formula
+f  l z	f dzjlThf dlTh f dzTh
+/  exp f- 1 dl - l*ThT K-1dl - l*Thg;
+where
+
+K 1/4 dr-2I th s-2C-1Th-1
+
+), the correlation of the traits between OTU i and OTU j, Cij, can be modeled using an exponential function
+
+
+and
+
+0	0	q0
+
+Cij 1/4 exp d-2qDijTh;  i; j 1/4 1; ... ; m;
+
+l* 1/4 Kdr-2z th s-2C-1c01Th
+
+0	0	q0
+
+(6)
+
+where the parameter q 2 d0; 1Th characterizes the evolutionary rate. If
+
+1/4 dI th kC-1Th-1dkC-1c  1 th zTh;    k 1/4 r2=s2:
+
+q 1/4 0, Cij 1/4 1 for 8i; j, meaning that all the traits are the same and there
+
+q0	q0   0	0 0
+
+is maximal phylogenetic relationship. On the other extreme, if q ! 1;
+
+Statistical inference is based on l* (the posterior mean of ljz).
+
+Cij 1/4 0 for 8i 1/4 j, meaning that all the traits are not related and they can evolve independently. Statistically, q can also be interpreted as a parameter governing the grouping effect. If q 1/4 0, all the OTUs are grouped together, and if q ! 1, all the OTUs are independent. Thus by tuning the parameter q, we can achieve different phylogenetic reso- lution, which has a similar effect of grouping the OTUs at different phylogenetic depth or taxonomic ranks. From an informational per- spective, q determines the scale of the neighborhood for information borrowing, with a larger q indicating a smaller neighborhood so that OTUs of more close proximity contribute the information. We denote Cq as the phylogeny-induced correlation matrix of m OTUs.
+
+Hierarchical model
+With z 1/4 dz1; .. . ; zmThT  and Cq, we can define a hierarchical model.
+
+Based on the posterior distribution, l* is the estimator that min-
+imizes the mean squared error. We use l* as the prior-structure moderated test statistic for permutation-based significance assessment.
+There are some interesting observations from the moderated stat- istic. Fix q0; if k ! 0; the shrinkage estimator l* ! z: In this case, either the prior l is not informative with a large variance s2 or the
+variability of the conditional distribution of zjl is extremely small. Consequently, z-values are our best estimate. On the other hand, if k ! 1; the shrinkage estimator l* ! c01: In this case, prior struc- ture shrinks the posterior estimator to a common stable value c0: It indicates that the prior structure provides overwhelming informa- tion. Thus, the parameter k balances information from the data and the prior correlation structure. The parameter q0 has a similar effect. Through the combination of q0 and k, various degrees of moder-
+
+We assume that, conditional on the mean, z follows a multivariate
+normal distribution
+
+zjl ~ MVN dl; r2ITh;	(3)
+where I is the m x m identity matrix, r2 is the unknown variance and the vector l is of main interest, where we want to draw poster- ior inference. We further assume that l follows a prior multivariate normal distribution
+l ~ MVN dc1; s2CqTh;	(4)
+2
+
+ation can be achieved. Thus, the resulting l* provides prior- structure adjusted ranking of the importance of different OTUs.
+We employ an empirical Bayesian idea to obtain the estimates of hyperparameters from available data. In fact, the parameter estima- tion under model (5) has been well studied in the statistics literature (). In our implementation, we used MLE to estimate the hyperparameters as implemented in the R function gls. The values of the estimates indicate the informativeness of the phylogenetic tree, with large q or small k suggests limited use of the tree. After obtaining the estimates c; q; k, we plug them into l* to
+obtain bl* 1/4 dI th kbC-1Th-1dkbC-1bc1 th zTh:
+
+where 1 is a vector of 1s and c; s and q are hyperparameters. The
+
+bq	bq
+
+hierarchical modeling allows the incorporation of prior correlation structure and the benefit of using conjugate prior is that a closed form posterior can be obtained.
+We obtain the marginal distribution of z by the formula as follows:
+
+z ~ MVN dc1; s2Cq th r2ITh:	(5)
+Therefore, the prior structure induces dependence among the z-val- ues. We use an empirical Bayesian approach to estimate hyperpar-
+
+
+
+Permutation-based FDR control algorithm
+In this section, we use permutation to develop an FDR control pro- cedure based on : The advantage of using permutation is that it adjusts to the unknown null distribution of the test statistic, and is robust against different types of dependence, such as the correlations in the data dzjlTh, even when the working models (3) and (4) are mis- specified. As mentioned earlier, the posterior mean estimate l* pro-
+
+
+
+	
+
+
+
+is to find a threshold such that the FDR is controlled at a desired level. When the hierarchical model is used, the distribution of the statistics for OTUs under the null will be affected by OTUs under the alternative due to information pooling. To derive the correct null distribution through permutation, the signals need to be pre- served in the permutation. We thus confine our permutation to the OTUs with P-values larger than the median. When calculating the moderated statistics under the permutation, we use P-values from all OTUs including those with P-values less than the median. Specifically, we use the following algorithm
+Sort the * in an increasing order and denote d * d
+d1Th
+l*
+d Th
+Create two sets containing the indices of the OTUs with the ori- ginal P-values < and > the median P-values, respectively. Denote the two sets as A and A .
+Confine the permutation to OTUs in A . Permute B times (e.g. B 1/4 20) to recalculate P-values and z-values for these OTUs. For OTUs in A , P-values and z-values remain as original. For the bth  permuted  dataset,  compute  l*b 1/4 fl*b;1; .. . ; l*b;mg  based  on
+(6) for all OTUs from A and A . For a given t 2 fd1; .. . ; dmg;
+we can calculate the number of positives (P) as
+l*i
+and estimate the number of false positive (FP) based on OTUs from
+0
+
+Computation and implementation
+We implement our method in the R package 'StructFDR'. The main function 'TreeFDR' requires the OTU counts, the phylogenetic tree, the testing function, which produces the association P-values and the signs of the effect, and a permutation function, which permutes the data in a user-defined way. We also provide a more generic func- tion 'structFDR', which accepts a distance matrix among features in- stead of a tree, to perform structure-based FDR control for other genomic data as long as a distance metric is defined between fea- tures. The computation time depends on the efficiency of the testing function and the number of permutations. Estimation of the hyper- parameters is much faster compared to the actual statistical tests. If Wilcoxon rank-sum tests are used, computation usually takes sev- eral minutes on a desktop for a typical dataset of 100 samples and
+1; 000 OTUs (B 1/4 100). The R package includes a vignette demon-
+strating the use of the method.
+
+
+Results
+Simulation studies
+We conduct comprehensive simulation studies to demonstrate the superior performance of our method over traditional methods that do not incorporate the phylogenetic tree structure. We consider the case-control design, examine five different scenarios, three of which have informative phylogeny and two of which have non-informative
+
+A as
+
+
+2 B
+FPdtTh1/4	#fi 2 A   : jb
+
+
+
+phylogeny. For all the scenarios, we simulate m 1/4 400 OTUs and each sample group has 50 observations. Without loss of generality,
+
+
+
+
+
+
+Consequently, FDR is estimated as
+
+FDR  t		FPdtTh PdtTh_ 1
+
+
+
+
+:	(9)
+
+Specifically, we use R package rcoal to generate a random co- alescent tree in each replication to achieve various clustering pat- terns of the 400 OTUs. R package pam is used to partition the generated tree into clusters. We next generate the OTU counts. First,
+
+For a pre-specified error rate a; the threshold k is defined as
+
+k 1/4 maxifFDRddiTh <  a     and     FDRddith1Th > ag:	(10) Reject   all   H0;djThforj  <  k;   where   H0;djTh; j 1/4 1; ... ; k   denote   the
+
+we simulate the sequencing depth (total counts) of the samples by a negative binomial distribution with mean 10 000 and size 25. Second, a Dirichlet distribution, where the parameter values were estimated from a real throat microbiome dataset () (included in the 'StructFDR' package), is used to generate 100 x 400
+
+hypotheses corresponding to the order statistics l*
+d1Th
+
+; .. . ; l* :
+dkTh
+
+composition matrix. Third, a multinomial distribution is used to
+generate count data based on the sequencing depth and 100 x 400
+
+Let p0 be the proportion of true null hypotheses among m
+hypotheses tests. The proposed algorithm is conservative due to the overestimation of FP. A more accurate estimate of FP would be
+
+composition matrix. For the case samples, we multiply the counts with a fold change vector f expdb1Th; ... ; expdb400Thg.
+We consider scenarios with informative phylogeny and non-in-
+
+2p0 B
+B
+b1/41
+
+#fi 2 A   : jlb*b;ij > tg:
+
+formative phylogeny. With informative phylogeny, we study three scenarios, each with associated clusters of balanced sizes accounting for approximately 10-20% of OTUs. Let A ; A and A contain
+
+Since p0 is unknown and is usually close to 1, we set p0 1/4 1 in FP es- timation. Various methods were developed to estimate p0 to im- prove power, which is certainly warranted but beyond the scope of current paper (; ). Our algorithm essentially is a ranking and thresholding approach.
+
+the indices of the OTUs from the associated clusters (C1 and C2 in ) and the rest clusters. Scenario one (S1) considers the perfect case where signals within each of the two clusters have the same sign  and  strength  (bi2A1  1/4 4; bi2A2  1/4 -4  and  bi2AR  1/4 0).  Scenario
+two (S2) considers the case where signals in each cluster have the
+
+l*	iid
+
+iid
+
+However, the ranking of b leverages prior structure information
+
+same sign but varied strength (bi2A1 ~ Nd4; 2Th; bi2A2 ~ Nd-4; 2Th;
+
+contained in the phylogenetic tree and the proposed method has sub- stantial power gain as demonstrated in our simulation studies. As we use permutation, our approach is robust to the mis-specification of the working models (3) and (4). We did not explicitly state the permutation scheme since it is problem-dependent. For a simple two-sample comparison, we can shuffle the group labels. For a more
+
+and bi2AR 1/4 0). Information still can be borrowed from neighboring OTUs. Scenario three (S3) is similar to S1 but 10 small clusters (out
+of 100) are associated with the outcome. We next study two scen- arios, where the phylogeny is non-informative. Scenario four (S4) corresponds to the case where signals can be positive or negative within         each         cluster         and         thus         canceled      out
+
+complicated design with covariates, we may use a residual permuta-
+
+(bi2A1
+
+~ Nd0; 2Th; b
+
+i2A2
+
+~ Nd0; 2Th and b
+
+i2AR
+
+1/4 0). This scenario is
+
+tion approach. Also note that the permutation approach is heuristic and the FDR control is validated by simulations.
+
+contradictory to our assumption that closely related OTUs have similar effects. Scenario five (S5) corresponds to the case where 40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Simulation configuration, where red circles represent positive values and blue circles represent negative values
+
+
+associated OTUs are randomly distributed on the tree with different signs and varied strength (b  i~id Nd0; 4Th). Clearly, in this scenario, the tree does not provide any useful information as how the associated signals are correlated. S4 and S5 are used to study the robustness of the proposed method. These five scenarios are illustrated in .
+The Wilcoxon rank sum test is used to conduct differential abun- dance tests and obtain the P-values. The P-values are then trans- formed to get the z-values through
+( U-1d1 - pj=2Th	If  X case;j  <  X  control;j
+
+GBH-40 and GBH-100) using pam based on the matrix of pairwise distances between OTUs. For HFDR, we choose an alpha level that controls the upper bound of the FDR at the tree tips ( ; ). GBH and HFDR are performed using the R package structSSI (). Actual FDR and power are used to measure the performance of different procedures at the nominal FDR level 0:01; 0:05 and 0.1. The power is defined as the expectation of the ratio of correctly rejected hypotheses and total alternative hypotheses. Specifically, actual FDR and power are estimated based on the average over 200 replications.
+The results are summarized in and . , we can  see that our procedure is conservative and FDR is controlled under the pre-specified level for most scenarios. BH procedure is conserva- tive and ST procedure has actual FDRs closer to the nominal ones than BH procedure as the proportion of null hypothesis has been incorporated in ST procedure. From , we can see that our procedure has substantial power gain when phylogeny is informative at all pre-specified FDR levels. When phylogeny is non-informative (S4 and S5), our procedure has similar power as BH and ST proced- ure, indicating the robustness of our method. For GBH, the perform- ance depends on the number of pre-specified groups and GBH-100 does not control the FDR properly (Supplementary Table S1). When the signals form large clusters (S1-S2), GBH is more powerful than BH and ST and slightly less powerful than or similar to our proced- ure. When the signals form small clusters (S3), GBH becomes much less powerful than our procedure. S4 favors GBH procedure since  the signals have a group structure. As the signals are more scattered (S5), GBH breaks down: it fails to control the FDR and is less powerful than BH, ST and TreeFDR. In contrast, HFDR has very conservative FDR control when the signals are clustered (S1-S4),  but is slightly anti-conservative in S5, when the signals are randomly distributed. Regarding the statistical power, it is generally less powerful than GBH and TreeFDR, especially for S5.
+We perform additional simulations to study the robustness of
+our method to clade-inconsistent associations. We more densely sample the continuum of clade-consistent versus -inconsistent asso- ciations by simulating randomly associated OTUs (clade-inconsist- ent associations) on the basis of S1. Details of the simulations are included in the Supplementary file and the results are summarized in Supplementary Tables S3 and S4. The basic observation is that our method is robust to clade-inconsistent signals to a large degree and   is generally more powerful than the other procedures compared  while controlling the FDR.
+It is important to point out that the higher power of our proced- ure is not at the price of a higher FDR level; this is illustrated by
+ROC curves in . The true positive rate is calculated as the
+
+zj 1/4
+
+U-1dpj=2Th	If  X 
+
+case;j >
+
+X control;j
+
+average proportions of correctly identified OTUs and the false posi- tive rate is calculated as the average proportions of falsely identified
+
+where X control;j and X case;j are mean abundances for control and case samples, respectively.
+We compare the performance of our method with the procedures proposed in  (BH),   (ST), Hu et al. (2012) (GBH) and  (HFDR). The ST procedure fixes a threshold value t, esti- mates the FDR and chooses t so that the estimated FDR is no larger than a: In ST procedure, the proportion of null hypothesis is esti- mated through a conservative estimator p0dkTh1/4 #fpi > k; i 1/4 1; ... ; mg=md1 - kTh; where k is a tuning parameter. R package q-value is used to obtain results based on the ST procedure. Since GBH de- pends on the group specification, we create different numbers of groups/clusters (10, 20, 40 and 100, denoted as GBH-10, GBH-20,
+
+OTUs. We vary the significant threshold and calculate correspond- ing true positive rates and false positive rates. We can see that our procedure significantly outperforms BH and ST procedure for scen- ario 1-3, and has comparable performance with BH and ST proced- ure for scenario 4 and 5. To summarize, when the phylogenetic tree  is informative, our procedure dominates BH and ST procedure, and when the tree is not informative, our procedure is comparable to BH and ST procedure.
+
+
+Real data application
+We demonstrate our method using a real microbiome dataset from a study of long-term dietary effects on the human gut microbiome
+
+
+Table 1. The actual FDR at the nominal FDR level 0.01, 0.05, and 0.10
+
+Note: GBH-20 is the GBH procedure based on 20 pre-specified groups. Results are averaged over 200 replications and standard deviation (sd) are given in the parentheses.
+
+Table 2. The power at the nominal FDR level 0.01, 0.05, and 0.10
+
+Note: GBH-20 is the GBH procedure based on 20 pre-specified groups. Results are averaged over 200 replications and standard deviation (sd) are given in the parentheses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4. OTUs (x) identified by TreeFDR procedure at an FDR of 10%. Numbers of OTUs in the clusters are indicated in parentheses
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. ROC curves for different scenarios. ROC curves are generated based on the adjusted P-values. HFDR does not output adjusted P-values, thus is not included in the ROC analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3. Number of identified OTUs as a function of FDR level
+
+
+(). The main scientific question of this study is to in- vestigate the association of dietary and environmental variables with the gut microbiota. The specific variable we investigate is the alco- hol intake. It has previously been shown that alcohol has an import- ant influence on the human microbiome (;    ). In current analysis, we would like to identify OTUs associated with alcohol consumption, which is obtained from food frequency questionnaire and energy-adjusted ().
+The dataset includes 98 samples and non-singleton 6, 674 OTUs. We exclude OTUs with occurrence frequency <0.1 and base our
+
+
+analysis on the remaining 949 relatively common OTUs. The OTU counts are normalized against library sizes before tests. To reduce the influence of measurement errors, continuous measure of alcohol consumption is converted to high intake and low intake, based on the median. The Wilcoxon rank sum test, which is a non-parametric test of the null hypothesis that the OTU abundance from high intake alcohol and low intake alcohol groups are the same against the alter- native hypothesis that they are different, is used to obtain P-values. The phylogenetic tree is constructed based on the FastTree algo- rithm ().
+The results are summarized in and . plots the number of identified OTUs with different FDR levels based on our procedure, BH procedure and ST procedure. From the plot, we can see that our procedure identifies far more OTUs than the other two procedures at various FDR levels, which is consistent with the simu- lation studies. As the FDR level increases, the difference becomes even more striking due to the ability of our procedure to pick up weak clustered signals. Our method identified 22 and 26 alcohol- associated OTUs at an FDR of 5% and 10%, respectively. In con- trast, BH and ST procedure only identified 2 and 3 OTUs at these levels. Many OTUs identified  by  our  procedure  form  clusters  (), indicating that the phylogenetic tree is informative in this case. The identified OTUs belong to six clusters from the Phylum of Bacteroidetes, Firmicutes and Proteobacteria. This implies that our procedure is effective in allowing information borrowing among neighboring OTUs, and the status of neighboring taxa is a very in- formative prior. By considering the P-values of neighboring OTUs, these OTUs with a marginally significant P-values will stand out  and show statistical significance due to signal pooling. Interestingly, our procedure does not recover all the three OTUs identified by BH and ST at an FDR of 10%. This is due to the fact that our approach  is powered to detect the clustered signals at some expense of ran- domly scattered signals when the phylogeny is informative. The associated taxonomies of the identified OTUs are also biologically interesting. For example, several OTUs are from the family Firmicutes; Lachnospiraceae and they have significantly increased abundance in high-alcohol takers. The bacteria from Lachnospiraceae family usually have alcohol dehydrogenase  and can metabolize alcohol. reported a significant increase of Lachnospiraceae in alcohol-dependent groups.
+
+
+
+Finally, we apply our method to another real dataset  from  a study of the microbiota after ileal pouch-anal anastomosis (IPAA) surgery for ulcerative colitis (UC) (). Our pro- cedure identifies significantly more UC-associated OTUs than BH and ST (See Supplementary file for details).
+
+Discussion
+We present a highly flexible, robust and computationally efficient method to the general problem of identifying differential features in the 'large p, small n' datasets with prior structure information that are becoming ubiquitous in biological experimentation (and else- where). Given that the parameter of the prior distribution can be inferred from the data, posterior likelihoods for diverse patterns of differential features can be inferred through an empirical Bayesian analysis. We describe here methods to infer the parameters of the prior distribution through maximum likelihood methods, but this is not essential; any method for inferring these parameters from the data might be applicable. Without incorporating the prior structural information, weak signals that jointly affect the phenotype cannot be picked up by prevailing methods of individual analysis.  also incorporates clustering effects, but from a different perspective.
+The power of our approach depends on the assumption of 'clus-
+tered signals'. For microbiome data, association signals are often observed to cluster on the phylogenetic tree. This is due to the fact that environmental factors or disease conditions usually affect some microbial traits, and the traits of interest can be shared within bac- terial clades and therefore largely consistent with the phylogenetic tree (Goberna and Verdu, 2016; ). With the de- velopment of high-resolution profiling method such as Metaphlan2 (), we are able to obtain taxonomic resolution be- yond species level. With such high-resolution data, we expect to see more clade-consistent associations.
+Though the simulations demonstrated the robustness and power of our method across a wide range of scenarios, there are still scen- arios where our method is less powerful than the traditional BH method. The power loss is most obvious when there are a large num- ber of non-differential OTUs in a clade and the signal is strong. In such situation, there is sufficient phylogeny signal for 'information- borrowing', which leads to significantly inflated test statistic for these non-differential OTUs within that  clade. To control the FDR  at the desired level, power will be decreased accordingly. Additional simulations (Supplementary Figs S1 and S2, Additional Simulation
+2) reveals that our method is robust to non-differential OTUs up to 20-40% across different signal levels. Beyond that limit, our method becomes less powerful than the BH procedure. To compensate the power loss, BH procedure could be used adaptively in such scen- arios. One heuristic rule selects the BH procedure when our method identifies significantly less OTUs based on a Fisher's exact test. This approach controlled the FDR in the simulations and rescued the power to some extent (Additional Simulation 2). To optimally com- bine our method and other FDR methods to further increase the ro- bustness of our approach warrants future investigation.
+In simulation studies, when both positive and negative values ap- pear in a cluster, their effects cancel each other out and we do not have any power gain. This makes sense for microbiome applications since we expect a similar effect for closely related species. However, for other applications such as gene expression data, both negative and positive correlations could be observed within the same net- work. In such case, the significance level is most informative and we are not concerned about the direction of effects. To accommodate
+
+such situations, we can use (1) to obtain P-values and use instead of jl*j as a test statistic. In addition, in (3), we may allow the vari- ance to be heteroscedastic, that follows certain distributions and es- timate the hyperparameters using an empirical Bayesian method. This is beyond the scope of current paper and future research is needed.
+Our working model is designed to use the prior-induced correl- ation and the within-data correlation is not modeled in our frame- work. The data correlation has been shown to affect  the  performance of many FDR procedures including the popular BH procedure (). Here, we use permutation-based approach to have proper  FDR  control  under  data correlation since the permutation is assumed to preserve the correlation structure. To investigate the potential consequence of within-data correlation on our procedure, we performed additional simulations (Supplementary Tables S5 and S6,  Additional Simulation 3), where the data were generated using multivariate normal with an AR correlation structure. We then repeated the simulations (S1-S5) and compared our procedure to BH and ST. We found that our procedure not only has conservative FDR control under data correlation but also has a much higher power than BH  and ST for phylogeny-informative scenarios.
+Our method is quite flexible and users can specify the prior struc-
+ture in terms of feature-to-feature distance matrix (e.g. sequence similarity) instead of using a tree inferred from it. Besides the phylo- genetic tree structure, StructFDR may also be applicable to micro- bial species interaction networks (). Beyond the microbiome applications, our method can be applied to other structure-rich genetic/genomic data. For example, genetic variants in linkage disequilibrium tend to be correlated. Gene networks de- scribe various functional relationships between different genes, which can be positively or negatively correlated. DNA Methylation data also have local clustering phenomenon. Incorporating such in- formation during the modeling stage can be challenging and compu- tationally intensive. Our approach allows a substantial reduction in development time for information 'borrowing' analyses in 'large p, small n' setting. This reduction in development time is essential if statistical analysis methods are to keep pace with the rapid develop- ment of new technologies and new applications of those technolo- gies that generate large volumes of biological data. The modulated statistic we propose in this paper efficiently incorporates the prior structure information and a tuning parameter is used to balance in- formation in the prior structure and available data. This essentially produces a different ranking of features and FDR is used as a thresh- olding rule. In fact, other error rates can be used as well, such as k-familywise error rate or the tail probability of the false discovery proportion ().
+
+
+
+Funding
+This work was supported by Gerstner Family  Career Development  Award and Center for Individualized Medicine at Mayo Clinic.
+
+Conflict of Interest: none declared.
+
+
+References
+Benjamini,Y., and Hochberg,Y. (1995) Controlling the false discovery rate: a practical and powerful approach to multiple testing. J. R. Stat. Soc. B, 57, 289-300.
+Benjamini,Y., and Yekutieli,D. (2001) The control of the false discovery rate in multiple testing under dependency. Ann. Stat., 29, 1165-1188.
+
+
+
+Cao,H., and Kosorok,M.R. (2011) Simultaneous critical values for t-tests in very high dimensions. Bernoulli, 17, 347-394.
+Cao,H., and Wu,W.B. (2015) Changepoint estimation: another look at mul- tiple testing problems. Biometrika, 102, 974-980.
+Chen,J. et al. (2012) Associating microbiome composition with environmental covariates using generalized UniFrac distances. Bioinformatics, 28, 2106-2113. Chen,J. et al. (2012) Structure-constrained sparse canonical correlation ana-
+lysis with an application to microbiome data analysis. Biostatistics, 14, 244-258.
+Chen,J. et al. (2016) Impact of demographics on human gut microbial diver- sity in a US midwest population. PeerJ, 4, e1514.
+Conneely,K.N., and Boehnke,M. (2007) So many correlated tests, so little time! Rapid adjustment of P values for multiple correlated tests. Am. J. Hum. Genet., 81, 1158-1168.
+Draper,N.R., and Smith,H. (1998) Applied Regression Analysis. 3rd edn, John Wiley and Sons, New York.
+Dudoit,S. et al. (2002) Statistical methods for identifying differentially expressed genes in replicated cDNA microarray experiments. Stat. Sin., 12, 111-139.
+Efron,B. et al. (2001) Empirical Bayes analysis of a microarray experiment.
+J. Am. Stat. Assoc., 96, 1151-1160.
+Efron,B. (2007) Correlation and large-scale simultaneous testing. J. Am. Stat. Assoc., 102, 93-103.
+Engen,P.A. et al. (2015) The gastrointestinal microbiome: alcohol effects on the composition of intestinal microbiota. Alcohol. Res., 37, 223-236.
+Fan,J. et al. (2012) Control of the false discovery rate under arbitrary covari- ance dependence. J. Am. Stat. Assoc., 107, 1019-1045.
+Faust,K., and Raes,J. (2012) Microbial interactions: from networks to models.
+Nat. Rev. Microbial., 10, 538-550.
+Ferreira,J., and Zwinderman,A. (2006) On the Benjamini-Hochberg Method.
+Ann. Stat., 34, 1827-1849.
+Friguet,C. et al. (2009) A factor model approach to multiple testing under de- pendence. J. Am. Stat. Assoc., 104, 1406-1415.
+Gilbert,J.A. et al. (2016) Microbiome-wide association studies link dynamic microbial consortia to disease. Nature, 535, 94-103.
+Goberna,M., and Verdu,,M. (2016) Predicting microbial traits with phyloge- nies. ISME J, 10, 959-967.
+Hu,J.X. et al. (2010) False discovery rate control with groups. J. Amer. Stat. Assoc., 105, 1215-1227.
+Ignatiadis,N. et al. (2016) Data-driven hypothesis weighting increases detec- tion power in genome-scale multiple testing. Nat. Methods, 13, 577-580.
+Kang,G. et al. (2009) Weighted multiple hypothesis testing procedures. Stat. Appl. Genet. Mol. Biol., 8, 1-22.
+Kuczynski,J. et al. (2011) Experimental and analytical tools for studying the human microbiome. Nat. Rev. Genet., 13, 47-58.
+Leclercq,S. et al. (2014) Intestinal permeability, gut-bacterial dysbiosis, and behavioral markers of alcohol-dependence severity. Proc. Natl. Acad. Sci. USA, 111, E4485-E4493.
+Leek,J.T., and Storey,J.D. (2008) A general framework for multiple testing de- pendence. Proc. Natl. Acad. Sci. USA, 105, 18718-18723.
+Li,C. et al. (2010) Network-based empirical Bayes methods for linear models with applications to genomic data. J. Biopharm. Stat., 20, 209-222.
+
+Martin,E.P., and Hansen,T.F. (1997) Phylogenies and the comparative method: a general approach to incorporating phylogenetic information into the analysis of interspecific data. Am. Nat., 149, 646-667.
+Martiny,B.H. et al. (2015) Microbiomes in light of traits: a phylogenetic per- spective. Science, 350, aac9323-aac9323.
+Miller,C. et al. (2001) Controlling the false-discovery rate in astrophysical data analysis. Astronom. J., 122, 3492-3505.
+Morgan,X.C. et al. (2015) Associations between host gene expression, the mu- cosal microbiome, and clinical outcome in the pelvic pouch of patients with inflammatory bowel disease. Genome Biol., 16, 67.
+Owen,A.B. (2005) Variance of the number of false discoveries. J. R. Stat. Soc. B, 67, 411-426.
+Price,M.N. et al. (2010) FastTree 2: approximately maximum-likelihood tress for large alignments. PLoS One, 5, e9490.
+Purdom,E. (2011) Analysis of a data matrix and a graph: metagenomic data and the phylogenetic tree. Ann. Appl. Stat., 5, 2326-2358.
+Sankaran,K., and Holmes,S. (2014) structSSI: simultaneous and selective in- ference for grouped or hierarchically structured data. J. Stat. Softw., 59, 1-21.
+Scholz,M. et al. (2016) Strain-level microbial epidemiology and population genomics from shotgun metagenomics. Nat. Methods, 13, 435-438.
+Schwartzman,A. et al. (2008) False discovery rate analysis of brain diffusion direction maps. Ann. Appl. Stat., 2, 153-175.
+Silverman,J.D. et al. (2017) A phylogenetic transform enhances analysis of compositional microbiota data. eLife, 6, e21887.
+Storey,J. (2002) A direct approach to false discovery rates. J. R. Stat. Soc. B,
+64, 479-498.
+Storey,J. et al. (2004) Strong control, conservative point estimation and simul- taneous conservative consistency of false discovery rates: a unified ap- proach. J. R. Stat. Soc. B, 66, 187-205.
+Storey,J., and Tibshirani,R. (2003) Statistical significance for genome-wide studies. Proc. Natl. Acad. Sci. USA, 100, 9440-9445.
+Sun,W., and Cai,T. (2009) Large-scale multiple testing under dependence.
+J. R. Stat. Soc. B, 71, 393-424.
+Tusher,V. et al. (2001) Significance analysis of microarrays applied to the ion- izing radiation response. Proc. Natl. Acad. Sci. USA, 98, 5116-5121.
+Wei,Z., and Li,H. (2007) A Markov random field model for network-based analysis of genomic data. Bioinformatics, 23, 1537-1544.
+Willet,W.C. et al. (1997) Adjustment of total energy intake in epidemiological studies. Am. J. Clin. Nutr., 65, 12205-12285.
+Wu,W.B. (2008) On false discovery rate control under dependence. Ann. Stat.,
+36, 364-380.
+Wu,G.D. et al. (2011) Linking long-term dietary pattern with gut microbial enterotypes. Science, 334, 105-108.
+Xie,Y. et al. (2005) A note on using permutation-based false discovery rate es- timates to compare different analysis methods for microarray data. Bioinformatics, 21, 4280-4288.
+Xie,J. et al. (2011) Optimal false discovery rate control for dependent data.
+Stat. Interface, 4, 417-430.
+Yekutieli,D. (2008) Hierarchical false discovery rate? controlling method- ology. J. Amer. Stat. Assoc., 103, 209-316.

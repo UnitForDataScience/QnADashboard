@@ -1,0 +1,446 @@
+
+
+ 
+
+
+
+
+
+
+
+and *
+Unidad de Alimentos, Laboratorio de Biotecnologia de los Alimentos, Instituto de Nutricion y Tecnologia de los Alimentos, Universidad de Chile, Santiago, Chile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edited by:
+Hongyue Dang, Xiamen University, China
+Reviewed by:
+Biswapriya Biswavas Misra, Texas Biomedical Research Institute,
+USA
+Sigmund Jensen, University of Bergen, Norway
+*Correspondence: Jaime Romero 
+
+Specialty section: This article was submitted to Aquatic Microbiology,
+a section of the journal Frontiers  in Microbiology
+Received: 24 November 2016
+Accepted: 08 February 2017
+Published: 24 February 2017
+Citation: Ramirez C and Romero J (2017) Fine Flounder (Paralichthys adspersus) Microbiome Showed Important Differences between Wild and Reared Specimens. Front. Microbiol. 8:271. doi: 
+
+The intestinal microbiota is involved in a wide range of biological processes that benefit the host, including providing nutrition and modulating the immune system. Fine flounder (Paralichthys adspersus) is a flatfish of commercial interest that is native to the Chilean coast. The high value of this flatfish has prompted the development of stock enhancement and aquaculture activities. Knowledge of microbiota may help to improve the cultivation of this species; however, few comparative studies have evaluated the intestinal microbiota composition in farmed versus wild fishes. Intestinal contents from wild and aquaculture fish were collected, and DNA was extracted. Subsequently, the V3-region of 16S rRNA was PCR amplified and sequenced using the Ion Torrent platform. The comparison between wild and aquaculture specimens revealed important differences in the composition of the microbiota. The most abundant phylum in wild flounder was Proteobacteria, with an average relative abundance of 68.1 +- 15.4%; in contrast, in aquaculture flounder, this phylum had an average relative abundance of
+30.8 +- 24.1%. Reciprocally, the most abundant phylum in flounder aquaculture was Firmicutes, averaging 61.2 +- 28.4%; in contrast, this phylum showed low abundance in wild flounder, in which it averaged 4.7 +- 4%. The phylum Actinobacteria showed greater abundance in wild flounder, ranging from 21.7 +- 18.8%, whereas, it averaged only
+2.7 +- 3.8% in aquaculture fish. Specific taxa that were differentially distributed between wild and aquaculture flounder were identified using a statistical approach. At the genus level, a total of four genera were differentially represented between the two conditions. Bacillus and Pseudomonas were more highly represented in aquaculture flounder, whereas Arthrobacter and Psychrobacter were observed in wild flounder. Furthermore, in both cases, predicted functions (metabolic pathways) indicated that those microbiota might provide beneficial effects for the host, but wild flounder showed more noteworthy pathways (EPA/DHA, SCFA, biotin). Our results highlight the differences in the microbiota composition between wild and reared fish. Knowing the composition of the intestinal microbiota of P. adspersus is the first step toward exploring the proper management of this species, as well as toward the development of probiotics and functional foods based on their requirements.
+Keywords: microbiota, next-generation sequencing (NGS), microbiome, flounder, Paralichthys
+
+
+
+INTRODUCTION
+Our  current  knowledge  of   gut   microbiota   composition   and microbiota-host interactions in fish  remains  limited.  Recent evidence has demonstrated that fish gut communities typically cluster with gut communities from mammals and insects (, ). Furthermore, these authors also identified a significant association between intestinal microbiota composition and fish taxonomy. This suggests potential co- evolution of fish and their gut microbiota, raising the possibility that fish were the first to evolve symbioses resembling those found in gut-fermenting mammals.
+Meanwhile, aquaculture has become one of the fastest- growing animal production sectors in the world. Due to the increasing global population and limited fishery resources, aquaculture has increased its contribution to the per capita seafood consumption (44%, , ). Currently, world aquaculture production  is  dominated by freshwater species, representing 56.4%; other reared fish provide a minor contribution (marine fishes represent only 3%). Thus, aquaculture activities are rapidly expanding worldwide and incorporating new species, and Latin American countries are starting to explore new species for aquaculture production. In flatfish aquaculture, Chile has started adapting technologies for the culture of turbot (Psetta maxima) and olive flounder or hirame (Paralichthys olivaceus) and has made a special effort to develop rearing technologies for endemic Chilean flounder or fine flounder (Paralichthys adspersus). This flatfish is a common
+inhabitant of gulfs and bays with sandy bottoms, and it has a wide geographical distribution from Paita, latitude 6* south, Peru, to Golfo de Arauco, latitude 36* south in Chile (, ). One of the main challenges for diversification in aquaculture facilities is the control of diseases, particularly during early life stages. This is also an unresolved issue in current intensive aquaculture, resulting in partial or total loss of production. Furthermore, intensive aquaculture has shown severe problems associated with bacterial diseases, treatment of which has required the use of antimicrobials. In the case of P. adspersus, vibriosis is the most common bacterial disease in early life stages (, ). Several authors have emphasized the possible negative effects of intensive use of antimicrobial agents in aquaculture, increasing the risk of antibiotic resistance in pathogenic and environmental bacteria, which may be a major threat to the health of aquatic ecosystems and even human beings (, ; , ). Finding alternatives to antibiotic treatments is an active research field, especially in aquaculture (, ). In this context, the innate immune system of teleost fish plays a crucial role in fighting infectious diseases, and interest in basic research on this topic has increased in recent years (, ). Similar to mammals, fish also harbor gut microbiota, which may be a
+key aspect of the modulation of the host innate immune system (, ).
+Despite  the  substantial  roles  that  intestinal  microbiota play in host metabolism, immunity and  health  maintenance,  the composition and  structure  of  bacterial  communities  within the fish intestinal ecosystem have not been extensively
+
+explored (, ). For example, there are no studies describing the intestinal microbiota of P. adspersus. However, the microbiota of the related flatfish P. olivaceus, which is raised in Korea, has been examined under wild and aquaculture conditions; using a culture-dependent approach they found that Proteobacteria were dominant in both conditions (, ).
+The development of culture-independent methods is providing new ways to study microbial communities in their natural environments, overcoming the limitations of the culture-dependent approach. For example, high-throughput sequencing technologies have been very efficient tools for providing a more complete view of the microbial communities inhabiting organisms reared in aquaculture systems (, ; , ; ,  )  and  have  been pivotal in facilitating the discovery of gut microbiota biodiversity (, ). However, few comparative studies have evaluated the  intestinal  microbiota  composition  in farmed versus wild fishes; reports are only available for Salmo salar  (, ), Gadus morhua (   , ), and P. olivaceus (, ).  () debate whether work on caged animals can be used to predict the gut microbiomes of  wild  animals.  Hence, it has been argued that studies focused on the characterization  of  gastrointestinal  microbiota   communities in hosts belonging to a natural environment are necessary (, ). The present study compared the intestinal microbiota of P. adspersus obtained from different origins, wild and aquaculture, using NGS  to  obtain  a  high-resolution map of the microbiota, allowing detection of significant differences in the microbiota composition and also in the predicted functions of these microbes, which may have consequences for health and nutrition. In our study, we used an NGS approach, obtaining the first data on the intestinal microbiome of this species.
+
+MATERIALS AND METHODS
+Sample Collection
+Intestinal content samples were collected from aquaculture and wild  P.  adspersus  and  were  immediately  stored  at	20*C. Fine flounder specimens from an aquaculture facility were collected from the Centro  de  Desarrollo Tecnologico Tongoy de Fundacion Chile (CDTT) (Tongoy, Coquimbo; latitude 30.251* S, longitude 71.502* W; Chile). Five individuals (each 600 g) without deformities or  apparent  illnesses were used for feces collection. The intestinal contents were obtained by abdominal massage of fish previously anesthetized with Here-S (BayerQR  ).  Fine  flounder  specimens  from  the  wild  environment were collected from latitude 30.104* S, longitude 71.377* W to latitude 30.302* S, longitude 70.608* W, in an area roughly surrounding the aquaculture facility. Five individuals of	800 g were included. Fish were caught by angling and  kept in ice until processing. The intestinal contents were obtained as described by  ().  Briefly,  the  digestive  tract was aseptically separated from the abdominal cavity with
+
+
+
+a scalpel, and the hindguts were squeezed to remove  and  collect the intestinal contents. This study was conducted in accordance with the recommendations of Guide for the Care  and  Use  of  Laboratory  Animals  of  the  National  Institutes  of Health, and the Committee on the Ethics of Animal Experiments of the INTA Universidad de Chile approved the protocol.
+DNA Extraction and Sequencing
+DNA was extracted from the intestinal content samples (0.25  g)  using  the  MO  BIO  PowerFecalQR  DNA  Isolation  Kit (MO BIO Laboratories,  Carlsbad,  CA,  USA)  according  to  the manufacturer's protocol, including prior treatment with lysozyme (SIGMA) at 0.8 mg mL-1  at 37*C for 60 min and  then with proteinase K (Invitrogen) 0.1 mg mL-1 at 37*C for
+60 min. The DNA concentration was determined using the QubitQR     dsDNA BR Assay Kit (Life Technologies, Grand Island, NY, USA). We amplified a standard V3 region using the primers 341F and 518R (, ) and incorporating adapters and barcodes suggested by () (Supplementary Table S1). Each 30 uL PCR reaction contained 50 ng of DNA, each primer at 0.25 pM, 0.5 mM dNTPs, 1.5 mM MgCl2 and two units of DyNAzyme Ext DNA polymerase (Thermo). The PCR conditions were 95*C for 2 min; followed by 30 cycles of 95*C for 20 s, 50*C for 30 s, and 72*C for 5 min; followed        by a final extension at 72*C  for  10  min.  DNA  sequencing  was performed by OMICS (OMICS Solutions, Santiago, Chile) via the Ion Torrent Life Technologies/314 Chip instrument platform.
+Sequence Analysis
+Sequencing reads of 16S rRNA gene were processed using UPARSE (, ) and analyzed using QIIME (  , ). The quality of the reads was assessed using  FastQC Software, and the reads were then filtered by quality  and length by using the USEARCH algorithm. The resulting quality-filtered FASTA files were merged. Then, the sequences were trimmed to 140 bp, dereplicated, and sorted by abundance, and  singletons  were  discarded.  The  reads  were  clustered into operational taxonomic units (OTUs) based  on  97% identity using UPARSE with the "cluster_otu" command in USEARCH. Then, chimeric sequences were  removed  using  the UCHIME algorithm. Taxonomic information was provided for each OTU with the "assign_taxonomy.py" QIIME script using the Ribosomal Database Project (RDP) as the reference database, with a confidence of 0.8. Representative sequences  for each OTU were determined based on sequence frequency, and representative sequences were aligned using PyNAST algorithms. Phylogenetic relationships were determined based on representative sequence alignment using FastTree. Taxonomic assignments for each representative sequence were determined, and the above information was combined to construct the  BIOM file using the "make_otu_table.py" QIIME script. These data are summarized in Supplementary Table S5. The graphics for the relative abundance of the composition of intestinal microbiota were performed in the R environment using the ggplot package.
+
+Diversity Indexes and Statistical Analyses
+Good's coverage and alpha diversity indexes, including community diversity (Simpson and Shannon index), richness (Chao-1) and phylogeny-based metrics (PD Whole Tree), were calculated using the "alpha_diversity.py" QIIME script. The Mann-Whitney test was used to test the differences in alpha diversity (Shannon Diversity index, Simpson index, richness and PD Whole Tree) between the wild and aquaculture flounder using GraphPad Prism 6 (GraphPad Software, Inc., La Jolla, CA, USA). A p-value < 0.05 was considered statistically significant. Beta diversity measurements were investigated through a principal coordinate analysis (PCoA) performed on the phylogenetic beta-diversity matrix, obtained by weighted UniFrac analysis, using "beta_diversity.py" QIIME script. EMPeror was used to visualize the PCoA plots from weighted UniFrac metrics.
+Differential abundance of the bacterial components between wild and aquaculture flounder was assessed using linear discriminant analysis effect size (LEfSe),  which  considers  both statistical significance and  biological  relevance  (  , ). LEfSe combines the standard tests for statistical significance (Kruskal-Wallis test and pairwise Wilcoxon test) with linear discriminate analysis (LDA) to estimate the effect size of each differentially abundant feature.  The  alpha value for the factorial Kruskal-Wallis test is 0.05, and the threshold for  the  logarithmic  LDA  score  for  discriminative  features   is 2.0.
+
+Predicted Molecular Functions Based on 16S rRNA Data Using PICRUSt
+To predict the metagenomes of each of the samples, a closed reference OTU-picking strategy based on the Greengenes database (version 13.5) was adopted, with a 97% sequence similarity threshold using the "pick_closed_reference_otus.py" QIIME script. The resulting OTU table, in  biom  format,  was then used to generate inferred metagenomic data using PICRUSt (, )  version  1.1.0  with the default parameters. The  abundance  values  of  each OTU were first normalized to  their  respective  predicted 16S rRNA copy numbers. Predicted functional pathways were annotated using the Kyoto Encyclopedia of Genes and Genomes (KEGG) database. The accuracy of the predictions of the metagenomes was assessed by computing the NSTI (Nearest Sequenced Taxon Index), which is an index that indicates the relationship of the microbes in a particular sample to the bacterial genomes in a database (Supplementary Table S2). The associated metabolic pathways were identified by employing HUMAnN2 (The HMP Unified Metabolic Analysis Network) with the default settings. The t-test was used to identify bacterial functional pathways that were differentially abundant in intestinal microbiota of wild flounder and aquaculture flounder. All p-values were corrected for an FDR of 0.05. FDR corrected p-values bellows 0.05 (FDR < 0.05) were considered significant (Supplementary Table S3).
+
+
+
+Data Deposition
+Raw sequences from 16S rRNA gene profiling are accessible through the following SRA study accession numbers: SRX2200 382, SRX2200381, SRX2200380, SRX2200379, SRX2200378, SRX2200377, SRX2200376, SRX2200375, SRX2200374, and SRX2200373.
+
+RESULTS
+Sequencing Depth
+Intestinal contents were collected from P. adspersus (flounder), both wild (n 5) and  aquaculture  (n  5).  Microbiota  composition was analyzed using barcoded sequencing of the V3 region of the 16S rRNA gene. The sequences were processed and analyzed using two pipelines, UPARSE and QIIME (  , ; , ). After removing low-quality reads and chimeras (UPARSE), there were 71,405 remaining reads; 26,569 from wild flounder and 44,836 from aquaculture flounder. These sequences, each 140 bp in length, were assigned to 356 OTUs based on 97% similarity using QIIME. For each sample, we determined the expected richness (Chao1 index, ).
+Alpha and Beta Diversity
+Bacterial community diversity was measured using the Shannon index, the Simpson index and a phylogeny-based metric (Phylogenetic Diversity Whole Tree, PD) as implemented in QIIME. The richness did not differ significantly between aquaculture and wild flounder; similarly, the diversity indexes, both Shannon and Simpson, showed no significant differences. In contrast, the phylogeny-based metric, PD, was significantly higher for aquaculture flounder than for wild flounder according to the non-parametric Mann-Whitney test, p < 0.05 ().
+The beta-diversity of the bacterial communities associated with flounder in the two conditions, wild and aquaculture, was investigated through a PCoA performed on the phylogenetic beta-diversity matrix obtained by UniFrac (). The first two components explain a total of 72.96% of the variation (first component, 58.33%; second component, 14.63%).
+Dominant Components of the Microbiota in Wild and Aquaculture P. adspersus
+The results of the taxonomic assignment analysis at the phylum and class levels are shown in .  The  most  abundant and common phyla  in  both  origin  conditions  (aquaculture  and wild) were Proteobacteria, Firmicutes and Actinobacteria, which were present in at least 90%  of the  samples.  In  terms  of common classes, Gammaproteobacteria, Alphaproteobacteria, Bacilli, Clostridia, and Actinobacteria were the most abundant and were present in at least 80% of the samples. Recent reports have defined the core microbiome as those components present in >80% of individuals examined (, ); according to this criterion, these classes could be considered the core microbiome of fine flounder.
+However, the intestinal microbiota of flounder under conditions of aquaculture presented differences in composition
+
+compared to wild flounder. The most  abundant  phylum  in  wild flounder was Proteobacteria, averaging 68.1 15.4% in relative abundance; in contrast, in aquaculture flounder, this phylum averaged 30 24% relative abundance. Reciprocally, the most abundant phylum in aquaculture flounder was Firmicutes, averaging 61.2 28.4%; in contrast, this phylum shows low abundance in wild flounder averaging 4.7  4% ().  This difference is statistically significant according to LEfSe (see below). The phylum Actinobacteria shows more abundance in wild flounder, ranging from 3.2 to 50.4%, while in aquaculture fish it averages 0.7 1.3%, and this difference is statistically significant (). Other phyla such as Acidobacteria, Bacteroidetes, Cyanobacteria, Tenericutes, and Verrucomicrobia showed low abundance in both conditions ().
+At the next taxonomic level, the most abundant class within Proteobacteria was Gammaproteobacteria (). In wild flounder, this class showed 30-87% relative abundance, whereas in aquaculture fish it ranged from 6 to 61%. Bacilli and Clostridia were the most abundant class within the Firmicutes phylum. In aquaculture flounder, Bacilli showed 22-58% relative abundance and Clostridia ranged from 2 to 69%. Wild flounder showed contrasting results for these classes, which only reached relative abundances of 10 and 3%, respectively. Furthermore, LEfSe analysis indicates that Bacilli corresponded to the class with a significant difference between wild and aquaculture flounder (). In wild flounder, Actinobacteria showed 3-48% relative abundance; in contrast, this phylum  showed  low relative abundance in aquaculture flounder (1-9%). This difference was statistically significant according to LEfSe analysis ().
+Bacterial Populations Significantly Associated with Origin (Wild or Aquaculture)
+Specific taxa that were differentially distributed between wild and aquaculture flounder were identified using LEfSe. This approach allows significant differences in the relative abundance of each taxon to be identified based on statistical tools. The results are shown in , which depicts each  phylum, class, order, family and genus presenting a significant difference between the two conditions, aquaculture (red) and wild (green).  shows these data as  a bar  plot of  the LDA  score  for both conditions;  shows these differences in a cladogram. The phyla showing significant differences between the two conditions are Firmicutes and Actinobacteria, which were detected in aquaculture and wild flounder, respectively. At the genus level, a total of four genera were differentially represented between the two conditions. Bacillus and Pseudomonas were represented in aquaculture flounder, whereas Arthrobacter and Psychrobacter were observed in wild flounder ().
+Functional Pathways Showing Significant Differences
+The changes in the presumptive functions of the intestinal microbiota of P. adspersus were examined by predicting the metagenomes using PICRUSt. The accuracy of the prediction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+was evaluated by computing the NSTI, and the mean of the samples was 0.091 0.029. Twenty-six  functional  pathways were found to be more highly abundant in wild flounder, including pathways related to lipid metabolism, biodegradation of xenobiotics, and metabolism of terpenoids and polyketides.  In the case of aquaculture flounder, 22 pathways were found    to be more highly abundant with respect to wild flounder, including those related to amino acid metabolism, carbohydrate metabolism, and nucleotide metabolism. This information is detailed in .
+
+DISCUSSION
+Paralichthys includes 17 species, which are distributed along the coasts of Atlantic, Indian and Pacific Oceans. In Chile, many species belonging to this genus are registered, with P. adspersus being the most important for its wide distribution and predominance (, ); nevertheless, to date, no studies have described the intestinal microbiota of this fish. Previously, () evaluated the microbiota
+
+associated with the intestinal mucosa of P. olivaceus from both wild and farmed populations. These authors characterized the microbiota using a culture-dependent approach including 100 bacterial isolates, 51 from farms and 57 of wild origin. In both cases, the most abundant phylum was Proteobacteria, with an average richness of 55%, followed by Firmicutes and Bacteroidetes with 30 and 11%, respectively. Interestingly, these authors report that the only significant difference between wild and farmed fishes corresponded to the phylum Firmicutes, at 42 and 18.4%, respectively. Our results contrast with those described by   () because we show two phyla associated with different origins; Firmicutes was significantly associated with farmed fish, and Actinobacteria was significantly more prevalent in wild fishes.
+Our  main  observation  is  the  significant   difference   in  the  microbiota  depending  on  the  origin  of  the  fish  (wild   or farmed), as well as the predicted functions of those differentially distributed bacteria. When analyzing beta diversity, we observed that microbial communities were differentially grouped according to their origin (). Measures of beta diversity can elucidate how much diversity is unique to a local
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+assemblage or to ecological processes, such as habitat filtering or competition (, ). The artificial environment in farming systems, in which various parameters such as water quality, diet, population density and habitat are different from those in natural environments, may lead to the establishment of a different intestinal microbiota compared to that in wild fishes of the same species (, ; , ; , ). Recently,  () reported that  the  microbiota  of  three-  spine stickleback sampled in different locations showed different compositions. Their results indicate that these among-location differences might be associated with variables such as habitat type and food-associated microbiota. On the other hand, other recent reports showed that the diversity of the intestinal bacterial community declines in response to artificial feeding. This is the case for Atlantic cod (Gadus morhua) and sea bream (Sparus aurata) as reported by () and  (), respectively. This is very interesting because our results indicated that diversity was similar between aquaculture flounder and wild flounder, except for the PD whole tree, which showed a significant difference.
+Recent reviews addressing the teleost microbiome highlight the presence of representative phyla such as Proteobacteria, Firmicutes, Actinobacteria, Fusobacteria, and Bacteroidetes in various species of fish (, ;  , ). The review by () does not include fishes from the genus Paralichthys, instead evaluating the flatfish Solea senegalensis from a farming origin, in which the main phyla were Proteobacteria and Firmicutes ( , ). In the present study, Proteobacteria showed the highest relative abundance (68     15%) in wild flounder;     in contrast, this phylum in aquaculture flounder showed only
+
+30   24% relative abundance. Although Proteobacteria does   not present a significant difference between the two origins, members of this phylum are differentially distributed at the genus level. For example, the genus Psychrobacter is significantly more abundant in wild flounder than in aquaculture flounder. The genus Psychrobacter, which belongs to the family Moraxellaceae within the Gammaproteobacteria, has been reported to be dominant in the gut of fast-growing grouper (, ), and these bacteria can inhibit pathogenic Vibrio.  In  Atlantic cod, Psychrobacter isolates showed enzymatic activities  such  as protease, chitinase and  phytase,  all  of  which  are  useful  for nutrition (, ). In addition, the genus Pseudomonas is significantly more abundant in aquaculture flounder than in wild flounder. Pseudomonas is a diverse bacterial group showing a wide variety of metabolic abilities, broad ecological distribution and adaptability to a range of environmental niches. Pseudomonas strains have been used as probiotics in aquaculture, improving the response to pathogens in different hosts (, ; , ).
+The phylum Actinobacteria was more abundant in wild flounder, with Arthrobacter  as  the  major  representative  genus. Arthrobacter spp. correspond to gram-positive bacteria belonging to the class Actinobacteria. This genus is relatively common on the aerial surface of plants and has been reported in marine and freshwater fish and other seafood. Bacterial isolates belonging to this genus have been reported as producers of antimicrobial compounds (, ; , ) and valuable substances such as amino acids, vitamins, enzymes, specific growth factors, pigments and polysaccharides (, ), conferring advantages for use as probiotics in aquaculture, especially in shrimp (, , ; , ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The phylum Firmicutes was significantly more abundant in aquaculture flounder, with Bacillus as the major representative genus. Bacillus species are gram-positive, spore-forming bacteria, used commercially as probiotics (, ).  They  have been described as beneficial in the farming of aquatic organisms due to increases in survival and growth.  () suggest Bacillus subtilis as a potential probiotic for growth in Oreochromis niloticus due to its antimicrobial activity against  bacterial  pathogens.     ()   evaluated  the dietary supplementation of Bacillus strains in  olive  flounder and its response to infection with Streptococcus
+
+
+iniae. Fish fed Bacillus showed significantly higher survival rates.
+Assessing which bacterial communities are present in a greater proportion in each condition is important because it provides information on the relationships of these communities with their host and in turn on the contributions of these communities. This will allow the greater abundance of certain bacterial genera to be associated with the functionality that those bacteria could provide within the  host.  The  changes  in  the  presumptive  functions  of the intestinal microbiota community of P. adspersus were examined by predicting the metagenomes using PICRUSt. The
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 4 | Differences in the microbiota between wild and aquaculture flounder. Analysis of 16S rRNA reveals the differential composition of microbiota depending on the origin of the sample. LEfSe was used to determine the statistical significance and the effect size of the differential abundance of taxa between wild and aquaculture flounder. (A) LDA score of abundance of taxa; (B) cladogram showing differentially abundant taxa (phylum to genus) of the intestinal microbiota of flounder under two conditions; (C) relative abundance of bacterial genera that differ significantly between wild and aquaculture flounder.
+
+
+accuracy of metagenome predictions depends on how closely related the microbes in a given sample are to microbes with sequenced genome representatives, as measured by the NSTI, with lower values indicating a closer mean relationship ( , ). The NSTI values for the intestinal microbiota samples of P. adspersus, with the mean of the samples being
+0.091 0.029, are considered a good data set for examining predictions from PICRUSt, given that they are in the range proposed by (), 0.03 +- 0.2 for human samples
+
+and 0.17	0.02 for more diverse communities such as soil samples.
+In wild flounder, 26  functional  pathways  were  found  to  be differentially abundant (),  including  those  related to the lipid and carbohydrate metabolism, biodegradation of xenobiotics, metabolism of terpenoids and polyketides, and metabolism of cofactors and vitamins. The metabolism of biotin is presented as a significant pathway in wild flounder; it has been reported that an important source of biotin supply to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 5 | Presumptive functions of the intestinal microbiota from wild and aquaculture P. adspersus based on differential abundance. PICRUSt was used to predict the metagenome, and HUMAnN2 was used to find the associated metabolic pathways. The pathways showing significantly different abundance were identified using the t-test (p-value < 0.05). All p-values were corrected for an FDR of 0.05. FDR corrected p-values below 0.05 (FDR < 0.05) were considered significant.
+
+
+animals is the endogenous production by intestinal microbiota (, ). Regarding the biodegradation of xenobiotics, the pathways that are significantly increased are the degradation
+
+of caprolactam, atrazine, and styrene. Caprolactam, a precursor for the synthesis of polyamide fibers, can exert toxic effects on various lifeforms (, ). Polyketides have
+
+
+
+displayed a wide array of bioactive properties, with beneficial effects for the host, such as antibacterial and antiviral activities (, ). Furthermore, a diverse range of other classes of compounds with interesting activities occur across symbiotic associations and habitats, including organic acids, phenolics and terpenes (, ). Regarding carbohydrate and lipid metabolism, short-chain fatty acids (SCFAs), mainly propionate and butyrate, were abundant in wild flounder; these SCFAs are the main energy source for colonic epithelial cells and have profound effects on gut health (, ). Additionally, it has been proposed that SCFAs stimulate the immune system (, ). Another important pathway in wild fish  was  the  biosynthesis  of  unsaturated  fatty acid, including essential omega-3 fatty acids such as eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). Many of the previously reported EPA/DHA bacterial producers are members of the Gammaproteobacteria (, ), which is dominant in wild flounder ().
+For  aquaculture  flounder,  22  pathways   were   found   to be differentially abundant with respect to wild flounder, including pathways related to the metabolism  of  terpenoids  and polyketides, amino acid metabolism, and carbohydrate metabolism. Within the metabolism of terpenoids and polyketides, the biosynthesis of ansamycins is significantly greater in aquaculture flounder. Some examples of ansamycins are the antibiotic rifamycin and the anti-tumor compounds geldanamycin and ansamitocin P-3 (, ). This pathway may be used as protection against bacterial pathogens in aquaculture fish in the context of the high density of organisms in intensive fish farming. Pathways related to carbohydrate metabolism are increased in aquaculture flounder, including the pentose phosphate pathway and the metabolism   of amino sugar and  nucleotide  sugar.  This  might  be  related to the artificial diet (Supplementary Table S4), which contains 11% carbohydrates. This diet strongly contrasts with that  of wild fish; P. adspersus has been described as  a  carnivorous fish, and its most frequent preys are anchovy (Engraulis  ringens) and crustaceans. Some reports from northern Chile indicate that anchovy can be  observed  in  the  contents  of  more than 90% of the guts (, ). The nutritional composition of anchovy meal in Chile is 73.8%  crude protein and 8.4% crude fat (, ), revealing important differences in the feeding between wild and reared flounder. As has been observed in many animal systems, this factor might influence the microbiota composition and their metabolic functions (, ;    , ).
+Our results highlight the difference in the microbiota composition between wild and reared fish from the phylum level
+
+to the genus level. This is very important in the context of co-evolution between the host and its microbiota because co- evolution is believed to have been an important mechanism in the formation of the host-gut microbe relationship. However, factors such as diet may influence the composition of the gut microbiota and consequently the metabolic functions of intestinal microbes, with  effects  on  the  host's   nutrition  and  immune  defense.   In  summary,  this  is  the  first  in-depth  characterization  of  the microbiota in the fine flounder P. adspersus, and this analysis reveals substantial differences between wild and reared specimens, including disparities at the phylum and class levels. Furthermore, in both cases, predicted functions (metabolic pathways) indicated that those microbiota might provide beneficial effects for the host, but wild flounder showed more noteworthy pathways (EPA/DHA, SCFA, biotin). An interesting projection of these results will be to obtain bacterial isolates from
+P. adspersus and evaluate their beneficial effects on the host, such as increasing the nutritional value or improving the immune response, as recently reported by () in the case of olive flounder.
+
+AUTHOR CONTRIBUTIONS
+CR: data collection; data analysis and interpretation; drafting the article. JR: conception or design of the work; sample collection; writing and critical revision of the article; final approval of the version submitted.
+
+FUNDING
+This study was funded by a research grant from FONDECYT 1140734 (Fondo Nacional de Desarrollo Cientifico y Tecnologico, Chile). CR was supported by a Doctoral fellowship from Conicyt.
+
+ACKNOWLEDGMENT
+We would like to thank Victoria Urzua for technical assistance, Fundacion Chile for supplying the fish and Omics Solutions for the NGS data.
+
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be  found  online at:  
+
+
+
+REFERENCES
+Abrashev,  I.  R.,  Genova,  V.  E.,  Sotirova,  A.  V.,  and   Ilieva,   K.   Z.   (1998).   Purification   and   partial   characterization   of    neuraminidase  from    the     non-pathogenic     Arthrobacter     nicotianae.     Enzyme  Microb. Technol. 22, 142-146. 
+
+
+Alavandi, S. V., Vijayan, K. K., Santiago, T. C., Poornima, M., Jithendran, K. P., Ali,
+S. A., et al. (2004). Evaluation of Pseudomonas sp. PM 11 and Vibrio fluvialis PM 17 on immune indices of tiger shrimp, Penaeus monodon. Fish Shellfish Immunol. 17, 115-120. 
+Aly, S. M., Abdel-Galil Ahmed, Y., Abdel-Aziz Ghareeb, A., and Mohamed,
+M. F. (2008). Studies on Bacillus subtilis and Lactobacillus acidophilus, as potential probiotics, on the immune response and resistance of Tilapia nilotica
+
+
+
+(Oreochromis niloticus) to challenge infections. Fish Shellfish Immunol. 25, 128-136. 
+Amato, K. R. (2013). Co-evolution in context: the importance of studying gut microbiomes in wild animals. Microbiome Sci. Med. 1, 10-29.  
+Askarian, F., Sperstad, S., Merrifield, D. L., Ray, A. K., and Ringo, E. (2013). The effect of different feeding regimes on enzyme activities of gut microbiota in Atlantic cod (Gadus morhua L.). Aquacult. Res. 44, 841-846.  
+Bahamonde, N., and Pequeno, G. (1975). Peces de Chile. Lista sistematica. Mus. Nac. Hist. Nat. Chile Publ. Ocas. 21, 1-20.  Bakke-McKellep, A. M., Penn, M. H., Salas, P. M., Refstie, S., Sperstad, S., Landsverk, T., et al. (2007). Effects of dietary soyabean meal, inulin and oxytetracycline on intestinal microbiota and epithelial cell stress, apoptosis and proliferation in the teleost Atlantic salmon (Salmo salar L.). Br. J. Nutr. 97,
+699-713. 
+Beck, B. R., Song, J. H., Park, B. S., Kim, D., Kwak, J. H., Do, H. K., et al. (2016). Distinct immune tones are established by Lactococcus lactis BFE920 and Lactobacillus plantarum FGL0001 in the gut of olive flounder (Paralichthys olivaceus). Fish Shellfish Immunol. 55, 434-443. 
+Caporaso, J. G., Kuczynski, J., Stombaugh, J., Bittinger, K., Bushman, F. D., Costello, E. K., et al. (2010). QIIME allows analysis of high-throughput community sequencing data. Nat. Methods 7, 335-336.  
+Cha, J.-H., Rahimnejad, S., Yang, S.-Y., Kim, K.-W., and Lee, K.-J. (2013). Evaluations of bacillus spp. As dietary additives on growth performance, innate immunity and disease resistance of olive flounder (Paralichthys olivaceus) against Streptococcus iniae and as water additives. Aquaculture 40, 50-57.  
+Colston, T. J., and Jackson, C. R. (2016). Microbiome evolution along divergent branches of the vertebrate tree of life: what is known and unknown. Mol. Ecol. 25, 3776-3800. 
+Dailey, F. E., McGraw, J. E., Jensen, B. J., Bishop, S. S., Lokken, J. P., Dorff, K. J., et al. (2016). The microbiota of freshwater fish and freshwater niches contain omega-3 fatty acid-producing Shewanella species. Appl. Environ. Microbiol. 82, 218-231. 
+Dang, H., and Lovell, C. R. (2016). Microbial surface colonization and biofilm development in marine environments. Microbiol. Mol. Biol. Rev. 80, 91-138. 
+Dang, H., Zhao, J., Song, L., Chen, M., and Chang, Y. (2009). Molecular characterizations of chloramphenicol- and oxytetracycline-resistant bacteria and resistance genes in mariculture waters of China. Mar. Pollut. Bull. 58, 987-994. 
+Dhanasiri, A. K., Brunvold, L., Brinchmann, M. F., Korsnes, K., Bergh, O, and Kiron, V. (2011). Changes in the intestinal microbiota of wild Atlantic cod Gadus morhua L. upon captive rearing. Microb. Ecol. 61, 20-30.  
+Edgar, R. C. (2013). UPARSE: highly accurate OTU sequences from microbial amplicon reads. Nat. Methods 10, 996-998. 
+Fan, B., Li, Y. L., Li, L., Peng, X. J., Bu, C., Wu, X. Q., et al. (2017).
+Malonylome analysis of rhizobacterium bacillus amyloliquefaciens FZB42 reveals involvement of lysine malonylation in polyketide synthesis and plant-bacteria interactions. J. Proteomics 154, 1-12.  
+Fisheries and Aquaculture Topics (2016). The State of World Fisheries and Aquaculture (SOFIA). Topics Fact Sheets. Text by Jean- Francois Pulvenis. Rome: FAO Fisheries and Aquaculture Department.
+Florez, L. V., Biedermann, P. H. W., Engl, T., and Kaltenpoth, M. (2015). Defensive symbioses of animals with prokaryotic and eukaryotic microorganisms. Nat. Prod. Rep. 32, 904-936. 
+Ghanbari, M., Kneifel, W., and Domig, K. J. (2015). A new view of the fish      gut microbiome: advances from next-generation sequencing. Aquaculture 448, 464-475. 
+Giri, S. S., Sukumaran, V., Sen, S. S., and Jena, P. K. (2014). Effects of dietary supplementation of potential probiotic Bacillus subtilis VSG1 singularly or    in combination with Lactobacillus plantarum VSG3 or/and Pseudomonas aeruginosa VSG2 on the growth, immunity and disease resistance of Labeo rohita. Aquacult. Nutr. 20, 163-171. 
+
+Hentschel, U., Schmid, M., Wagner, M., Fieseler, L., Gernert, C., and Hacker, J. (2001). Isolation and phylogenetic analysis of bacteria with antimicrobial activities from the Mediterranean sponges Aplysina aerophoba and Aplysina cavernicola. FEMS Microbiol. Ecol. 35, 305-312.  
+Holben, W. E., Williams, P., Gilbert, M., Saarinen, M., Sarkilahti, L. K., and Apajalahti, J. H. (2002). Phylogenetic analysis of intestinal microflora indicates a novel mycoplasma phylotype in farmed and wild salmon. Microb. Ecol. 44, 175-185. 
+Jayanth, K., Jeyasekaran, G., and Shakila, R. J. (2001). Biocontrol of fish bacterial pathogens by the antagonistic bacteria isolated from the coastal waters of Gulf of Mannar, India. Bull. Eur. Assoc. Fish Pathol. 21, 12-18.
+Kim, D. H., Brunt, J., and Austin, B. (2007). Microbial diversity of intestinal contents and mucus in rainbow trout (Oncorhynchus mykiss). J. Appl. Microbiol. 102, 1654-1664. 
+Kim, D.-H., and Kim, D.-Y. (2013). Microbial diversity in the intestine of olive flounder (Paralichthys olivaceus). Aquaculture 41, 103-108.  
+Kormas, K. A., Meziti, A., Mente, E., and Frentzos, A. (2014). Dietary differences are reflected on the gut prokaryotic community structure of wild and commercially reared sea bream (Sparus aurata). MicrobiologyOpen 3, 718-728. 
+Langille, M. G., Zaneveld, J., Caporaso, J. G., McDonald, D., Knights, D., Reyes,
+J. A., et al. (2013). Predictive functional profiling of microbial communities using 16S rRNA marker gene sequences. Nat. Biotechnol. 31, 814-821. 
+Lee, S. M., Im, G. J., and Jong, Y. L. (2002). Effects of digestible protein and lipid levels in practical diets on growth, protein utilization and body composition of juvenile rockfish (Sebastes schlegeli). Aquaculture 211, 227-239.  
+Li, J., Tan, B., Mai, K., Ai, Q., Zhang, W., Liufu, Z., et al. (2008). Immune responses and resistance against Vibrio parahaemolyticus induced by probiotic bacterium Arthrobacter XE-7 in Pacific white shrimp, litopenaeus vannamei. J. World Aquacult. Soc. 39, 477-489. 
+Li, J., Tan, B., Mai, K., Ai, Q., Zhang, W., Xu, W., et al. (2006). Comparative study between probiotic bacterium Arthrobacter XE-7 and chloramphenicol  on protection of Penaeus chinensis post-larvae from pathogenic vibrios. Aquaculture 253, 140-147. 
+Llewellyn, M. S., Boutin, S., Hoseinifar, S. H., and Derome, N. (2014). Teleost microbiomes: the state of the art in their characterization, manipulation and importance in aquaculture and fisheries. Front. Microbiol. 5:207.  
+Lokesh, J., and Kiron, V. (2016). Transition from freshwater to seawater reshapes the skin-associated microbiota of Atlantic salmon. Sci. Rep. 6:19707.  
+Lozupone, C. A., and Knight, R. (2008). Species divergence and the measurement of microbial diversity. FEMS Microbiol. Rev. 32, 557-578.  
+Martin-Antonio, B., Manchado, M., Infante, C., Zerolo, R., Labella, A., Alonso, C., et al. (2007). Intestinal microbiota variation in Senegalese sole (Solea senegalensis) under different feeding regimes. Aquac. Res. 38, 1213-1222.  
+Maslowski, K. M., and Mackay, C. R. (2011). Diet, gut microbiota and immune responses. Nat. Immunol. 12, 5-9. 
+McMahon, R. J. (2002). Biotin in metabolism and molecular biology. Annu. Rev.
+Nutr. 22, 221-239. 
+Montagne, L., Pluske, J. R., and Hampson, D. J. (2003). A review of interactions between dietary fibre and the intestinal mucosa, and their consequences on digestive health in young non-ruminant animals. Anim. Feed Sci. Technol. 108, 95-117. 
+Montalban-Arques, A., de Schryver, P., Bossier, P., Gorkiewicz, G., Mulero, V., Gatlin, D. M., et al. (2015). Selective manipulation of the gut microbiota improves immune status in vertebrates. Front. Immunol. 6:512.  
+Muyzer, G., de Waal, E. C., and Uitterlinden, A. G. (1993). Profiling of complex microbial populations by denaturing gradient gel electrophoresis analysis of polymerase chain reaction-amplified genes coding for 16S rRNA. Appl. Environ. Microbiol. 59, 695-700.
+
+
+
+Ni, J., Yan, Q., Yu, Y., and Zhang, T. (2014). Factors influencing the grass carp gut microbiome and its effect on metabolism. FEMS Microbiol. Ecol. 87, 704-714. 
+Qiao, G., Jang, I. K., Won, K. M., Woo, S. H., Xu, D. H., and Park, S. II     (2013). Pathogenicity comparison of high- and low-virulence strains of Vibrio scophthalmi in olive flounder Paralichthys olivaceus. Fish. Sci. 79, 99-109.  
+Romero, J., Feijoo, C. G., and Navarrete, P. (2012). "Antibiotics in aquaculture - use, abuse and alternatives," in Health and Environment in Aquaculture, ed. E. Carvalho (Rijeka: Intech).
+Rothberg, J. M., Hinz, W., Rearick, T. M., Schultz, J., Mileski, W., Davey, M.,   et  al.  (2011).  An   integrated   semiconductor   device   enabling   non- optical genome sequencing. Nature 475, 348-352.    
+Rude, M. A., and Khosla, C. (2006). Production of ansamycin polyketide precursors in Escherichia coli. J. Antibiot. 59, 464-470. 
+Segata, N., Izard, J., Waldron, L., Gevers, D., Miropolsky, L., Garrett, W. S.,      et al. (2011). Metagenomic biomarker discovery and explanation. Genome Biol. 12:R60. 
+Shama, G., and Wase, D. A. J. (1981). The biodegradation of e-caprolactam and some related compounds. A review. Int. Biodeterior. Bull. 17, 1-9.
+Sielfeld, W., Vargas, M., and Kong, I. (2003). Primer registro  de  Etropus  ectenes Jordan, 1889, Bothus constellatus Jordan & Goss, 1889, Achirus klunzingeri (Steindachner, 1880) y Symphurus elongatus (Gunther, 1868)(Pisces,   Pleuronectiformes)   en    Chile,    con    comentarios    sobre   la  distribucion  de  los  lenguados  chilenos.   Invest.   Mar.   31,   51-65.   
+Silva, A., and Oliva, M. (2010). Review of the biology and cultivation of Chilean flounder (Paralichthys adspersus). Lat. Am. J. Aquat. Res. 38, 377-386.  
+Smith, C. C., Snowberg, L. K., Caporaso, J. G., Knight, R., and Bolnick, D. I. (2015). Dietary input of microbes and host genetic variation shape among- population differences in stickleback gut microbiota. ISME J. 9, 2515-2526. 
+Star, B., Haverkamp, T. H., Jentoft, S., and Jakobsen, K. S. (2013). Next generation sequencing shows high variation of the intestinal microbial species composition
+
+in Atlantic cod caught at a single location. BMC Microbiol. 13:248.  
+Strom, E., and Olafsen, J. (1990). "The indigenous microflora of wild-captured juvenile cod in net-pen rearing," in Microbiology in Poecilotherms, ed. R. Lesel (Amsterdam: Elsevier), 181-185.
+Sullam, K. E., Essinger, S. D., Lozupone, C. A., O'Connor, M. P., Rosen, G. L., Knight, R., et al. (2012). Environmental and ecological factors that shape the gut bacterial communities of fish: a meta-analysis. Mol. Ecol. 21, 3363-3378. 
+Sun, Y., Yang, H., Ling, Z., Chang, J., and Ye, J. (2009). Gut microbiota of fast and slow growing grouper Epinephelus coioides. Afr. J. Microbiol. Res. 3, 713-720.
+Trabal, F. N., Mazon-Suastegui, J. M., Vazquez-Juarez, R., Ascencio-Valle, F., and Romero, J. (2014). Changes in the composition and diversity of the bacterial microbiota associated with oysters (Crassostrea corteziensis, Crassostrea gigas and Crassostrea sikamea) during commercial production. FEMS Microbiol. Ecol. 88, 69-83. 
+Wang, Y.-B., Li, J.-R., and Lin, J. (2008). Probiotics in aquaculture: challenges and outlook. Aquaculture 281, 1-4. 
+Whiteley, A. S., Jenkins, S., Waite, I., Kresoje, N., Payne, H., Mullan, B., et al. (2012). Microbial 16S rRNA Ion Tag and community metagenome sequencing using the Ion Torrent (PGM) platform. J. Microbiol. Methods 91, 80-88.  
+Xia, Z., Zhu, M., and Zhang, Y. (2014). Effects of the probiotic Arthrobacter sp. Cw9 on the survival and immune status of white shrimp (Penaeus vannamei). Lett. Appl. Microbiol. 58, 60-64. 
+
+Conflict of Interest Statement: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Copyright (c) 2017 Ramirez and Romero. This is an open-access article distributed under the terms of the . The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.

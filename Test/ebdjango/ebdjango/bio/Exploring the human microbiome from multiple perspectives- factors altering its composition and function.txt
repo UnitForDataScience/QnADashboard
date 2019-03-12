@@ -1,0 +1,851 @@
+FEMS Microbiology Reviews, fuw046, 41, 2017, 453-478
+
+doi: 10.1093/femsre/fuw046
+Advance Access Publication Date: 25 February 2017 Review Article
+
+
+
+
+
+REVIEW ARTICLE 
+Exploring the human microbiome from multiple perspectives: factors altering its composition and function
+David Rojo, Celia Me'ndez-Garci'a, Beata Anna Raczkowska,
+Rafael Bargiela, Andre's Moya,,,, Manuel Ferrer,,and Coral Barbas,
+1Centro de Metabolo' mica y Bioana'lisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Montepri'ncipe, 28668 Madrid, Spain, 2Carl R. Woese Institute for Genomic Biology, Urbana, IL 61801, USA, 3Department of Endocrinology, Diabetology and Internal Medicine, Medical University of Bialystok, 15-276 Bialystok, Poland, 4Institute of Catalysis, Consejo Superior de Investigaciones Cienti'ficas (CSIC), 28049 Madrid, Spain, 5Foundation for the Promotion of Health and Biomedical Research in the Valencian Community Public Health (FISABIO), 46020 Valencia, Spain, 6Network Research Center for Epidemiology and Public Health
+(CIBER-ESP), 28029 Madrid, Spain and 7Instituto Cavanilles de Biodiversidad y Biologi'a Evolutiva, Universidad de Valencia, Paterna, 46980 Valencia, Spain
+*Corresponding author: Institute of Catalysis, Consejo Superior de Investigaciones Cienti'ficas (CSIC), 28049 Madrid, Spain. Tel: (+34) 915854872; E-mail: 
++These authors contributed equally to this work.
+One sentence summary: The authors provide new insights into the association between multiple factors and alterations in our microbiota; data revision, technical challenges and methods, particularly metabolomics, are thoroughly discussed within the context of linking microorganisms to genes and proteins, and subsequently to functions.
+Editor: Ehud Banin
+
+
+ABSTRACT
+Our microbiota presents peculiarities and characteristics that may be altered by multiple factors. The degree and consequences of these alterations depend on the nature, strength and duration of the perturbations as well as the structure and stability of each microbiota. The aim of this review is to sketch a very broad picture of the factors commonly influencing different body sites, and which have been associated with alterations in the human microbiota in terms of composition and function. To do so, first, a graphical representation of bacterial, fungal and archaeal genera reveals possible associations among genera affected by different factors. Then, the revision of sequence-based predictions provides associations with functions that become part of the active metabolism. Finally, examination of microbial metabolite contents and fluxes reveals whether metabolic alterations are a reflection of the differences observed at the level of population structure, and in the last step, link microorganisms to functions under perturbations that differ in nature and aetiology. The utilisation of complementary technologies and methods, with a special focus on metabolomics research, is thoroughly discussed to obtain a global picture of microbiota composition and microbiome function and to convey the urgent need for the standardisation of protocols.
+Keywords: dysbiosis; gut; metabolomics; microbiota; microbiome; omics
+
+
+Received: 5 August 2016; Accepted: 15 December 2016
+QC  FEMS 2017. This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact 
+453
+
+
+
+INTRODUCTION
+Possibly compared with any other ecosystem, our understand- ing of the microbiota has experienced an incomparable revolu- tion during the 20th century (Blaser ). The 'microbiota' is the set of microorganisms that share our body space and may   be commensal, symbionts or pathogens. The term 'microbiome' refers exclusively to the genomic content of the microbiota. In each of the different locations, such as the skin (Grice and Segre ), the mucosa (Moen et al. ), the gastrointestinal tract (Claesson et al. ; Falony et al. ), the respiratory tract (Biesbroek et al. ), the urinary tract (Whiteside et al. ), the vagina (Martin ), the mammary gland (Urbaniak et al. ) or the placenta (Aagaard et al. ), we can find microorgan- isms that form complex and distinct ecosystems adapted to the peculiarities of each niche (Ding and Schloss ; Li et al. ; Abreu and Taga ). Overall, rough estimates suggest that our body is occupied by bacteria belonging to at least 5000 genera (Table ). Their total numbers are of the same order as the num- ber of human cells in a 'reference 70-kg human' (Sender, Fuchs and Milo ).
+From birth a stable symbiotic relationship exists between the microbiota and our cells, whose role in our life and medical condition is, beyond doubt, indispensable and beneficial. Their associations are currently the object of ongoing investigation (Fujimura et al. ; Bull and Plummer ; Conlon and Bird ; May et al. ). This microbiota-health axis evolves over time and adapts to the distinct habitats characterising our body (Yatsunenko et al. ; Ding and Schloss ; Goodrich et al. ). Due to its vast metabolic capacity, the microbiota has been considered as an 'organ' of our body, presenting phenotypic changes with ontogeny from birth until death (Moya and Fer-  rer ). Its composition presents peculiarities and characteris- tics that can be altered due to the genetic background, diseases, diet and interaction with the environment (Bashan et al. ; Noecker et al. ). However, our microbiota is highly resilient, often recovering its natural original status, which is known as 'eubiosis' (Moya and Ferrer ). By contrast, on other occa- sions, a strong imbalance in the taxonomic composition of the microbiota can be induced, which is known as 'dysbiosis' (Shin, Whon and Bae ). Dysbiosis can occur over a few days (Pe'rez- Cobas et al. ) or be acquired slowly during our lifetime.
+
+Exploring dysbiosis by total community phenotyping
+The majority of studies have analysed associations between lo- cal or external 'perturbations' and dysbiosis by reporting alter- ations in microbial taxa. In this respect, patients or individuals
+
+Table 1. Rough estimates of size and biodiversity across body sites in an adult body.
+
+not subjected to perturbations are compared to healthy indi- viduals or to individuals not subjected to the perturbation, re- spectively. In some cases, time-course changes are evaluated. Hereon, we use the term 'perturbation' to refer to many fac-  tors such as host feeding behaviour, therapies and diseases associated with alterations in our microbiota. Other synony- mous terms used in this review are 'factors' or 'covariates'. Traditionally, changes in the microbiota structure have been characterised using classical cultivation techniques, but today we know that the majority of this ecosystem is uncultivable (Browne et al. ). The utilisation of molecular tools based  on the sequencing of the 16S rDNA genes generated from to-  tal DNA, especially the second-generation sequencing (so-called next generation sequencing) (Keller et al. ; Noecker et al. ), enables the identification and classification of the species without requiring pre-cultivation. For the purpose of this review, this technique is referred to as 'phenotyping'. This approach was used to show that one third of our total body microbiota is com- mon to most people, while two-thirds are specific to each indi- vidual (Li et al. ). By focusing on the gut microbiota, a re- cent study revealed that 14 out of 664 genera conforms the core microbiota (Falony et al. ). This analysis can also be used to estimate some of the health status indicators of the micro- biota, its richness (quantity of microorganisms) and its biodiver- sity (quantity of species) (Knecht et al. ). Both parameters are commonly evaluated with the alpha biodiversity index, such as Shannon, which reflects the heterogeneity of a community on the basis of the number of species present, and Chao, which re- flects the abundance and representation of each species. Due to the individual and temporary particularities of the microbiota, it is difficult to establish what defines a normal and healthy micro- biota, but a consensus exists that the more species it harbours the better, with an equilibrium among species (Tuddenham and Sears ).
+The previous studies cannot determine associations with mi- croorganisms in active and potentially active state. This is be- cause they also take into account dormant, dead and quiescent bacteria, as they are also present in any sample (Peris-Bondia   et al. ; Gosalbes et al. ; Potgieter et al. ). Therefore, 16S rDNA analysis cannot determine which species are activated after the initiation of the perturbation. Active microbes will con- stitute the first barrier to change or defence when faced with a local or external perturbation. Their identities and abundances can be estimated by monitoring the 16S rRNA amplicons gen- erated from cDNA or so-called RNA-seq (Bao et al. ). They can be also estimated by the analysis of 16S rDNA amplicons generated from DNA from viable cells, previously separated by flow cytometry from damaged or dead cells (DzVunkova', D'Auria and Moya ). This analysis differs from that of the total (inac- tive and active) species present in the microbiota, indicated by
+
+ 		the amounts of the 16S rDNA genes generated from total DNA
+
+Body site	Rough surface area1 Rough number of genera1
+
+Gastrointestinal tract       300-400 m2	1183-3180
+Oral cavity	215 cm2	600
+Respiratory tract	160 m2	314
+Skin	1.8 m2	113
+Urinary tract	350 cm2	20-500
+Vagina cavity	90 cm2	282
+These are rough estimation based on bibliographic records. The number of gen- era may be underestimated because the quantification depends on sequence coverage and size of the population cohorts. Note that it has been estimated that only characterising our gut microbiota would require sampling of ~41 000 individuals (Falony et al. ).
+
+(Franzosa et al. ; Knecht et al. ). Also, the taxonomic bin- ning of sequences from genes found to be expressed in the meta- transcriptome (Pe'rez-Cobas et al. ) and proteins found to be synthesised in the metaproteome (Ferrer et al. ; Serrano- Villar et al. ) can also help to reveal the active community members because they are transcriptionally active when con- fronted with a given perturbation.
+
+Exploring dysbiosis by metagenomics, transcriptomics and proteomics
+Recent observations that different intestinal populations are metabolically redundant indicate that taxonomic diversity is
+
+
+
+hardly relevant for inferring functional traits (Moya and Ferrer ). That is, one cannot infer associations between pertur- bations and altered microbial functions from taxonomic data whenever they refer to dead, quiescent or active microbes, as multiple microbial groups are known to be functionally redun- dant or equivalent. For example, some authors have demon- strated that the microbial metabolism remains constant over time across individuals despite high variability in taxonomic composition (Consortium ). For this reason, the utilisation of complementary tools of massive data generation and analy- sis was developed to reveal associations between common per- turbations and microbial functions in humans, by means of ex- ploring links with altered gene content and expression, protein synthesis and metabolite production (Bikel et al. ; Abreu and Taga ; Aguilar-Pulido et al. ). The development of such techniques and tools is responsible for the so-called microbiome revolution coined by Blaser ().
+Thus, we have begun to apply metagenomics and metatran- scriptomic studies based on high-throughput DNA and cDNA se- quencing, which despite being computationally expensive (Muir et al. ), enables us to quantify alterations in the content and expression level of microbial genes (Gosalbes et al. , ; Greenblum, Turnbaugh and Borenstein ; Lepage et al. ; Lim et al. ; Li et al. ; Pe'rez-Cobas et al. ; Bashiardes, Zilberman-Schapira and Elinav ; Marti'nez et al. ). Here, metagenomics refers to the analysis of the genetic material (DNA) recovered directly from the microbiota, whereas meta- transcriptomics refers to the analysis of the total content of gene transcripts (tRNA copies) in the microbiota. An example of results obtained through a metagenomic approach is the re- cent finding that only 1 out of 33 microbial genes in our gut  is common to most people (Zhu et al. ), which would sug- gest high interindividual genomic variability. Additionally, al- though technically challenging when confronted with extremely complex ecosystems such as the human microbiota, metapro- teomics tools have also been used to assess whether changes in population structure and gene expression are linked to changes in  protein  synthesis  (Pe'rez-Cobas  et  al.  ;  Serrano-Villar et al. ,). We use the term metaproteomics to refer to the analysis of microbial proteins that are actively synthesised by the microbiota. Similar to the differences between 16S rDNA and rRNA analysis, while metagenomics can provide associa- tions between perturbations and altered total functions (from dormant, dead, quiescent and active bacteria) on the basis of sequence-based predictions from genes being sequenced and annotated, metatranscriptomic and metaproteomic tools pro- vide associations with functions that become part of the active metabolism (Pe'rez-Cobas et al. ).
+
+Exploring dysbiosis through metabolomics
+Over the last 10 years, we have increasingly begun to appreci- ate the significance of metabolite profiling (Mischke and Plo" sch ; Vernocchi, Del Chierico and Putignani ) and its po- tential to have a profound impact on medical practice (Beger et al. ). This technique offers the opportunity to measure metabolites that are the final result of the action of the mi- crobiota, independently of its community composition, gene expression and protein synthesis, growth characteristics, gene mutations and protein structures (Goodacre ). The metabo- lites absorbed and/or produced by the action of the micro- biota are the downstream products of gene and protein ex- pression, whose quantification has been demonstrated to be the most reliable snapshot of changes in metabolic perfor-
+
+mance of the microbiota under any condition (Moya and Fer-  rer ). Metabolite profiling thus constitutes the next log-  ical step beyond descriptive studies of community composi- tion, gene composition (metagenomics), gene expression (meta- transcriptomics) and protein  expression  (metaproteomics),  as it may provide deeper insights into the associations between  any perturbation and the 'metabolic changes' of the active frac- tion of the microbiota under any condition. Here, 'metabolic changes' denote alterations in the level of metabolites (reac-  tion substrates or products) that are involved in each of the metabolic reactions, which together conforms the microbiota metabolism.
+
+
+Aims and expected outcomes of the review
+Overall, the review reflects a very broad picture of the factors that humans commonly face at any body site, which have been associated with alterations in the human microbiota in terms of composition and function. We would like to point out to the reader that the main emphasis of this review is to describe such information and technical advances in the field of metabolomics research. However, we are aware that in order to contextualise associations between perturbations and metabolic alterations in the microbiome, it is also essential to first fully understand what is happening at lower levels of the functional hierarchy. Only by achieving such holistic understanding, can one identify and assign the species to microorganisms, the microorganisms to genes and proteins, and those to functions (Table ). Accord- ingly, we have organised the review and discussion in two ma- jor themes that commonly emerge in the study of the human microbiome. The first is the compilation of microbial groups whose altered abundance, indicated mostly by the amount of 16S rDNA genes generated from DNA, has been statistically as- sociated with each of the perturbations reviewed herein. By analysing these associations, we will provide answers to ques- tions such as: (i) how many microbial groups are commonly in- fluenced among those estimated to inhabit our body? or (ii) are perturbations that substantially differ in nature and aetiology associated to similar or different alterations in our microbes? As we do not restrict this review in the narrow sense of com- munity structure analysis, we secondly discuss associations at all levels of the functional hierarchy, from potentially active mi- crobes (i.e. by monitoring the 16S rRNA amplicons generated from cDNA), gene level and expression (through extensive DNA and cDNA high-throughput next-generation sequencing) and protein synthesis (by metaproteomics) to functions (by meta- metabolomics). These analyses provide estimates for how many and which species become transcriptionally active when con- fronted with multiple perturbations, what the metabolic conse- quences of these are and whether the associations at the level of population structure have consequences, or not, at the func- tional level. Finally, the use of new technologies and methods, with a special focus on metabolomics research, is thoroughly discussed, together with the urgent need for the standardisation of protocols.
+Here, we review main associations described in the bib- liography. What remains to be demonstrated is whether the observed associations are the cause or the consequence of      a disease or a specific medical condition during exposure to each of environmental variables herein reviewed, which is out of the scope of the present revision. In this line, we would  like to call the reader's  attention to the fact that many of  these associations may be false positives due to the nature of
+
+
+Table 2. High-throughput approaches used to study variations in the human microbiota and microbiome function. Outcome, advantages, problems and gold standard methods are summarised.
+
+
+
+high-dimensional data, and they are not supported by experi- mental evidence. Also, we are aware that the only way to defini- tively evaluate the impact of diseases or other perturbation in the human microbiome is to study the microbiota in individu- als prior to the disease or perturbation followed by the analy- ses of changes during and after the disease progresses or the perturbation ends. Similarly, the only way to definitively evalu- ate the effect of a possible therapeutic intervention to control a disease in our microbiota is to study an uninfected control (in the case of bacterial and viral infections) patient and to anal- yse the effects following the interventions. While these stud- ies will likely be undertaken in the future and provide definitive data, the complexity inherent to these study designs has so far hampered their implementation in humans, and we feel that cross-sectional studies still provide valuable data to tackle the problem.
+
+ASSOCIATIONS AT THE LEVEL OF THE TOTAL MICROBIOTA
+To date, at least 105 diseases and disorders, substantially dif- fering in nature and aetiology, have been associated with changes in our gastrointestinal, respiratory, oral, skin and uri- nary/vaginal microbiota, as revealed mostly by the amounts of the 16S rDNA genes generated from DNA. The extensive list   of diseases and disorders is provided in Fig. . Changes in the composition of our total microbiota have also been associated with 22 other major covariates listed in Fig. . They include age- ing, diet interventions (38 different ones), the administration of drugs (14), prebiotic and probiotic supplementations (15), surg- eries and non-surgical treatments (9), pregnancy, the length of the gestational period, delivery mode, sex and sexual prefer- ence, discharge from an intensive care unit, postmenopause,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Graphic summary of diseases and disorders associated with alterations to the total microbiota composition at the genus level. Only the 12 most influenced bacterial genera are represented for the sake of clarity. Outer circle represents the reviewed disease categories (numbers from 1 to 28, see the legend), followed by a green circle of subcategories within main types of disorder, identifiable by a letter code included in the legend. Next circle shaded in grey represents the type of microbiota to which each genus belongs (see colour code in legend). Links among the different taxa associated with different disease types are depicted in the inner circle (see the legend for colour guide). A three letter code (see legend) next to each link has been included for the sake of clarity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Graphic summary of local and external factors (other than diseases and antibiotic treatments) associated with alterations to the total microbiota, from which top 12 influenced bacterial genera were considered. Numbers in the outer circle (1 to 21) represent the different factors reviewed. The next green circle represents subcategories within each factor considered, identifiable by a letter code included in the legend. The following circle shaded in grey represents the type of microbiota to which the genera belong (see the legend for colour guide). Inner circle shows links among genera influenced by the diverse factors (see legend for colours). As in Fig. , a three letter code is included next to each link for the sake of clarity.
+
+
+
+exposure to dust and chemicals, circadian rhythm, smoking, ge- ographical origin, heritability, hospitalisation time and hospital location and area of residence, to cite the most important. Fi- nally, an association between antibiotic usage and changes in the composition of our microbiota has also been evidenced by examining 68 antibiotics used alone or in the form of antibi- otic cocktails (Fig. ). Full details of all factors associated with changes in our microbiota are given in Table S1 (Supporting In- formation).
+Note that in this review we considered associations between perturbations that differ greatly, and alterations in our micro- biota from multiple human sites. We do not restrict the review to the gut microbiota, which is the most extensively studied, be- cause multiple community types at several body sites are inter- connected and/or enriched in similar types of microorganisms (Aagaard et al. ; Ding and Schloss ; Urbaniak et al. ). Therefore, associations at several body sites, each facing ex- tremely variable perturbations and harbouring similar types of microorganisms (albeit with distinct taxonomic resemblance), may be of interest to assess perturbation risks holistically.
+
+Associations with diseases and disorders
+As shown in Fig.  from the disease-microbiota associations reported in the literature, 231 non-redundant genera belonging to 15 different phyla (Actinobacteria, Bacteroidetes, Firmicutes, Fusobacteria, Proteobacteria, Spirochaetes, Synergistetes, Tenericutes, Verrucomicrobia, candidate division TM7, RC1, Ascomycota, Basidiomycetes, Basidiomycota and Eur- yarchaeota) are significantly altered according to research exam- ining alterations in the population structure of our microbiota. Firmicutes (92 diseases), Proteobacteria (69), Bacteroidetes (68), Actinobacteria (56) and Fusobacteria (29) are the five phyla most strongly influenced by the considered groups of diseases and disorders (Fig. ). The genera Streptococcus, Staphylococcus, Ente- rococcus, Clostridium, Lactobacillus, Faecalibacterium and Veillonella (within Firmicutes), Prevotella and Bacteroides (Bacteroidetes), Bifidobacterium (Actinobacteria), Escherichia (Proteobacteria) and Fusobacterium (Fusobacteria) are the 12 most susceptible genera to modifications, as altered abundance of these genera   is associated with at least 50% of the diseases or disorders herein examined (Fig. ). Full details of similar or differential disease-genera associations are given in Fig. .
+
+Associations with other local and external covariates
+As shown in Fig. , from the covariates (other than diseases)- microbiota associations reported in the literature, strong asso- ciations have been found with 130 genera belonging to 13 differ- ent phyla, 11 from Bacteria (Actinobacteria, Bacteroidetes, Chlo- roflexi, Fibrobacteres, Firmicutes, Fusobacteria, Proteobacteria, Spirochaetes, Tenericutes, TM7 and Verrucomicrobia), 1 from Fungi (Ascomycota) and 1 from Archaea (Euryarchaeota). Over- all, this suggests that diseases most likely associated with alter- ations in our microbiota (231 genera influenced) that are greater than those caused by other covariates (130 genera influenced). Streptococcus, Clostridium, Lactobacillus, Faecalibacterium, Enterococ- cus, Ruminococcus, and Blautia (within Firmicutes phylum), Pre- votella and Bacteroides (Bacteroidetes), Bifidobacterium (Actinobac- teria), Escherichia (Proteobacteria) and Akkermansia (Verrucomi- crobia), were also found to be the 12 genera most influenced   by the factors considered, as they are associated with at least 50% of the covariates (Fig. ). Full details of similar or differen- tial covariates-genera associations are given in Fig. .
+
+Associations with antibiotic usage
+Special consideration should be given to the effect of antibi- otics. A recent study undertaking in-depth sequencing of the   gut microbiomes of 1135 participants found that the use of an- tibiotics was significantly associated with microbiota compo- sition alterations (Zhernakova et al. ). The only drugs sig- nificantly associated with the abundance of specific genera in phenotype-matched case-control analyses were b-lactam an- tibiotics (Falony et al. ). Both studies reported that the abun- dance of two species from the genus Bifidobacterium (Actinobac- teria phylum), out of a total of 1649 detected genera, was strongly associated with the use of b-lactam antibiotics. However, many antibiotics other than b-lactam have been shown to influence  the gut microbiota composition (Ferrer et al. ). Figure  summarises a list of major 42 microbial genera whose abun- dance is altered after treatment  with  68  antibiotic  therapies. As shown in Fig. , from the antibiotic-microbiota associations reported in the literature, the most influenced phyla are Acti- nobacteria, Bacteroidetes, Firmicutes and Proteobacteria as they are associated with at least 50% of the  antibiotic treatments.  The genera Clostridium, Enterococcus, Lactobacillus, Ruminococcus, Faecalibacterium, Streptococcus, Eubacterium and Blautia (within Firmicutes phylum), Prevotella and Bacteroides (Bacteroidetes), Bifidobacterium (Actinobacteria) and Escherichia (Proteobacteria) were also found to be the 12 most influenced by the antibiotic groups considered, being associated with at least 50% of the re- viewed therapies (Fig. ). Full details of similar or differential antibiotic-genera associations are given in Fig. .
+
+Depicting the existence of easily influenced microbial groups
+The data presented in Figs - reveal multiple associations between perturbations and microbial imbalances. Their com- parative analysis has further revealed that many bacterial taxa associated with perturbations differing in nature and clinical consequences. Indeed, a total of 258 non-redundant genera be- longing to 112 distinct families and 18 different phyla have been found to be associated with any of the factors included in this review. Figure summarises the top 10 genera comprising our microbiota that are most commonly associated with any factor herein reviewed. They are associated with at least 50% of the factors reviewed. These genera included Lactobacillus, Clostrid- ium, Blautia, Faecalibacterium, Streptococcus and Enterococcus (Firmicutes phylum), Bacteroides and Prevotella (Bacteroidetes), Bifidobacterium (Actinobacteria) and Escherichia (Proteobacteria). Bacteria belonging to these genera might therefore be the most susceptible to alterations, as their abundances were found to    be commonly altered independently of the nature, strength and duration of any perturbation commonly faced by humans. This  is particularly noteworthy because many of these bacteria are known to be beneficial for human health, such as the bacteria   of the genera Faecalibacterium, Bifidobacterium and Blautia, to cite but a few. They are known to be strongly involved in short-chain fatty acid production and the amelioration of inflammation. Faecalibacterium is depleted during inflammatory conditions (Sokol et al. ) and plays an important role in inducing regula- tory T cells (Sarrabayrouse et al. ) and decreasing intestinal permeability (Laval et al. ). Bifidobacteria are powerful bacte- ria that can protect the gut, boost the immune system and con- trol inflammatory responses (Fujimura et al. ; O'Callaghan and van Sinderen ). Blautia abundance increases follow- ing faecal microbiota transplantation from healthy donors to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Graphic summary of antibiotics associated with alterations in the total microbiota, considering the top 12 most influenced bacterial genera. Numbers in the outer circle (1 to 21) represent the different factors reviewed. The next green circle represents subcategories within each factor considered, identifiable by a letter code included in the legend. The following circle shaded in grey represents the type of microbiota to which the genera belonged (see the legend for colour guide). Inner circle shows links among genera influenced by the diverse factors (see the legend for colours). As in Fig. , a three letter code is included next to link for clarity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Network summary of all the interactions of the main conditions influencing our microbes reviewed herein: Diseases (triangle), other local and external factors (square), and antibiotics (circle). Only the top 10 most influenced genera were included. Node colours illustrate subcategories within each group of influence considered (see the legend for colour code), and links show similar patterns of action of conditions and condition types.
+
+
+individuals with recurrent Clostridium difficile infections who rep- resent a subgroup of individuals with an extreme impairment of gut bacterial composition (Seekatz et al. ).
+
+ASSOCIATIONS AT THE LEVEL OF THE ACTIVE MICROBIOTA
+The above data reveal that about 258 non-redundant genera, or around 6% of the 5000 genera that are roughly estimated to con- form our microbiota (Ding and Schloss ), belonging to 18 phyla and 112 families, are associated with most local or ex- ternal perturbations commonly faced by humans. Then we re- vised which of these bacteria, if any, become transcriptionally activated in response to such perturbations, in order to identify associations between an active set of microorganisms and per- turbations. We also reviewed associations with active bacteria undetectably altered at the level of total bacterial composition. To do so, we reviewed studies reporting RNA-Seq, DNA-Seq of viable cells (DzVunkova', D'Auria and Moya ) and taxonomy of genes being expressed or proteins being synthesised (for ex- tensive references, see Table S1).
+Before describing which microbial groups react most to per- turbations, first it is important to know the most active mem- bers of the microbiota in healthy individuals not subjected to any apparent perturbation. Recent investigations revealed that many bacteria are transcriptionally active in our gut under healthy  conditions  (Va'zquez-Castellanos  et  al.  ;  Serrano- Villar et al. ) and that the Bacteroidetes phylum (partic- ularly Bacteroidaceae) is primarily a dormant, dead and quies- cent actor in gut function in healthy individuals, while the Fir- micutes phylum (particularly Lachnospiraceae) is a more dom- inant part of the  metabolically  active  microbiome  (Gosalbes et al. ; Marti'nez et al. ). Note that this information is mostly unknown for other body sites. Using this information
+
+as baseline, it is possible to identify major active microbial ac- tors known to affect the total microbiota when confronted with perturbations. However, a careful revision of the bibliographic records reveals that only a limited numbers of perturbations have been investigated in the context of their association with active microorganisms. They include diseases such as pervasive developmental disorders otherwise unspecified and autism (De Angelis et al. ), inflammatory bowel disease (Gosalbes et al. ; Marti'nez et al. ; Rehman et al. ), Clostridium diffi- cile infection (DzVunkova', D'Auria and Moya ; DzVunkova' et al. ), Crohn's disease and irritable bowel syndrome (Duboc et al. , ; Durba'n et al. ; Rehman et al. ; Valles-Colomer et al. ), non-alcoholic fatty liver disease (Michail et al. ), HIV infection (Mutlu et al. ; Va'zquez-Castellanos et al. ), cystic fibrosis (Lim et al. ), asthma (Pe'rez-Losada et al. ), periodontal disease and dental caries (Wang ; May et al. ). Factors other than diseases (four in total) included antibi- otic therapy (Pe'rez-Cobas et al. ,; Knecht et al. ), xeno- biotic exposure (Maurice, Haiser and Turnbaugh ; Ursell and Knight ) and dietary interventions such as plant-based di- ets (Ni, Li and Panagiotou ; Tap et al. ) and vitamin B12 supplementation (Kang et al. ).
+The examination of the above bibliographic records revealed an association between the 16 perturbations mentioned above and a number of microbial groups. Associations were mostly found at the family level, as major differences in the level of sequence coverage and length and sequence binning within the different studies preclude the acquisition of homogeneous infor- mation at the genus level in many cases. For example, in most cases, the expressed genes and proteins can be taxonomically distributed at the family level as the gene sequence coverage and peptide information commonly obtained by metatranscripto- mics and metaproteomics does not allow deeper taxonomic characterisation  (Pe'rez-Cobas  et  al.  ;  Serrano-Villar  et  al.
+
+
+
+). We observed from the perturbation-active microbiota associations reported in the  literature  that  the  most  acti-  vated phyla (eight in total) are the bacterial Actinobacteria, Bacteroidetes, Firmicutes, Proteobacteria, Fusobacteria and Verrucomicrobia, the archaeal Euryarchaeota and fungal Ba- sidiomycota. Within those phyla, the most active microor- ganisms are those belonging to the following 29 families: Bifidobacteriaceae, Coriobacteriaceae, Eggerthellaceae and Propioni- bacteriaceae (within the Actinobacteria phylum); Bacteroidaceae, Odoribacteraceae, Porphyromonadaceae, Prevotellaceae and Rikenel- laceae (within Bacteroidetes); Acidaminococcaceae, Lachnospiraceae, Clostridiaceae, Enterococcaceae, Eubacteriaceae, Ruminococcaceae, Carnobacteriaceae, Lactobacillaceae, Staphylococcaceae, Streptococ- caceae and Veillonellaceae (within the Firmicutes); Enterobacteri- aceae, Moraxellaceae, Neisseriaceae, Pseudomonadaceae, Burkholderi- aceae and Shewanellaceae (within Proteobacteria), Fusobacteriaceae (Fusobacteria phylum), Akkermansiaceae (within Verrucomicro- bia); and Methanobacteriaceae (within Euryarchaeota).
+Interestingly, all 8 active phyla, and 28 out 29 active fami- lies when confronted to perturbations were also found associ- ated with perturbations at the level of total microbiota (Figs - and Table S1). This set of microbial groups may be among those reacting to perturbations both at the level of total and active microbiota. Only bacteria belonging to one family (Rikenellaceae) were found to be associated with perturbations when examin- ing the active microbiota, which reinforces the hypothesis that the analysis of total populations (from 16S rDNA genes gener- ated from DNA) masks the identification of components of the microbiota that are active players against perturbations. This observation agrees with previous studies revealing that bacte- ria affiliated with Shewanella, Streptococcus, Clostridium, Enterococ- cus, Eggerthella, Enhydrobacter, Halomonas, Ralstonia, Propionibac- terium, Staphylococcus and Granulicatella are associated to treat- ments with b-lactam antibiotics and fluoroquinolones at the level of RNA but not DNA (Knecht et al. ).
+We are aware that the number of factors (16 in total) inves- tigated as associated with alterations in the active microbiota is significantly lower 128 (105 diseases and 23 other covariates) reported to influence our total microbial populations. This lim- ited information does not allow us to make a real estimation of the percentage of bacteria reacting to perturbation. The low availability of studies may be partially due to the fact that the technologies needed to transcriptionally quantify active mem- bers are more technically challenging and time consuming com- pared to the sequencing of 16S rDNA genes, although gold stan- dard methods are already available, as will be discussed later. We anticipate that future efforts in studying our microbiota using RNA-Seq, DNA-Seq of viable cells, and taxonomy-based meta- transcriptomics and metaproteomics, will shed light on the real active players in our microbiota under perturbations for which the total population structure is known.
+
+
+
+ASSOCIATIONS AT THE LEVEL OF SEQUENCE-BASED PREDICTED FUNCTIONS
+Genes and proteins can be even more relevant than taxonomic composition in understanding the associations between per- turbations and alterations in presumptive microbiome func- tion (Moya and Ferrer ). Below, we review the sequence- based metabolic alterations associated with multiple perturba- tions as revealed by extensive high-throughput next-generation metasequence datasets of DNA (gene content) and cDNA (gene
+
+expression), and metaproteomics (protein synthesis). Actually this information is limited to 14 types of perturbations.
+Briefly, genes involved in various pathogenic processes, cell wall component biosynthesis, various transport systems, bac- terial translocation, amino acid metabolism and energy pro- cesses, and short-chain fatty acid metabolism have been found altered  in  HIV-infected  individuals  (Va'zquez-Castellanos  et  al. ) as well as in patients with colorectal cancer (Zeller et al. ; Vogtmann et al. ), non-alcoholic fatty liver disease (Michail et al. ), type 1 diabetes (Consortium ), inflam- matory bowel disease (Morgan et al. ), Crohn's disease (Er- ickson et al. ; Quince et al. ), oral diseases, such as den- tal caries (May et al. ) and periodontitis (Wang ), and dietary interventions including exclusive enteral nutrition (Ni,  Li and Panagiotou ; Quince et al. ). Systemic lupus ery- thaematosus is also associated with an overrepresentation of genes implicated in oxidative phosphorylation (Hevia et al. ), but this has also been observed in lean individuals compared    to those who are obese (Papathanasopoulos and Camilleri ; Greenblum, Turnbaugh and Borenstein ; Cox and Blaser ; Ferrer et al. ; Subramanian et al. ) and also as a re- sponse to intestinal colonisation in healthy individuals (El Aidy et al. ). Furthermore, as a consequence of Clostridium difficile infection, it was found that phosphotransferase system trans- port and the metabolism and regulation of carbohydrates and sugar alcohols were overrepresented functions, while aromatic amino acid family biosynthesis was significantly underrepre- sented (Pe'rez-Cobas et al. ). Genes encoding fibre-degrading enzymes have been found to be altered in patients with colorec- tal cancer; accordingly, it has been suggested that the degra- dation of host glycans might be related to the aetiology of colorectal cancer (Zeller et al. ). However, such functional consequences have also been observed in patients receiving an- tibiotic therapy (Pe'rez-Cobas et al. ,), patients with non- alcoholic fatty liver disease (Michail et al. ), patients with in- flammatory bowel disease (Morgan et al. ; Rooks et al. ), patients with systemic lupus erythaematosus (SLE; Hevia et al. ), patients with Crohn's disease with exclusive enteral nu- trition (Quince et al. ) and patients with oral diseases such as dental caries (May et al. ), which are characterised by quite distinct aetiologies. This suggests that multiple factors drastically associated with changes in the microbial commu- nity and the species responsible for the degradation of dietary components.
+The above reported data suggest, as for microbial groups (Figs -), that a number of core functions are  most  sensitive to change due to perturbations. However, specific associations were also reported. For example, based on metage- nomic datasets, nitrogen metabolism (ko00910), the citrate cycle (ko00020), geraniol degradation (ko00281) and lipoic acid metabolism (ko00785) were only found to be significantly en- riched in patients with colorectal cancer (Vogtmann et al. ). The manifestation of periodontitis, a common inflammatory disease, was associated with the upregulation of isoprenoid biosynthesis and ciliary and flagellar motility (Wang ). Vitamin B12 supplementation altered the  transcriptome  of the skin microbiota promoting the expression of vitamin B12 biosynthesis genes and the production of porphyrins, which have been shown to induce inflammation in acne (Kang et al. ). Finally, patients with Crohn's disease with exclusive enteral nutrition have been associated with a decrease in genes involved in biotin and thiamine biosynthesis and an increase in genes involved in spermidine/putrescine biosynthesis, or the shikimate pathway (Quince et al. ).
+
+
+
+ASSOCIATIONS AT THE LEVEL OF MICROBE ACTIVITY
+The next logical step in the functional hierarchy after analysing population structure, gene content and expression, and protein synthesis is to monitor microbial activity. The effects of pertur- bations may be reflected in decreased bacterial activity or in the complete destruction of bacterial cells. This can be observed as a loss of membrane integrity or membrane polarity, or in a de- crease in nucleic acid content (Maurice, Haiser and Turnbaugh ). At the same time, bacteria that are resistant to a given perturbation may substitute the susceptible ones. By the end of the perturbation, the bacterial species composition may have changed; however, their essential functions can be performed by the community surviving members (Pe'rez-Cobas et al. ).
+There are recent reports of associations between a few co- variates and the activity level of our microbiota. For example, a recent study showed that antibiotic intervention modifies the gut microbiota in such a way that a different set of bacterial enzymes  becomes  active  once  therapy  has  ended  (Herna'ndez et al. ). This new set of enzymes favours the rapid and non- equilibrated assimilation of carbohydrates, which may have negative health consequences such as inducing obesity and type 2 diabetes. Similar alterations have been associated with obesity. Indeed, proteomic analyses associated the expressed glycoside hydrolases from lean individuals with Prevotella species of the Bacteroidetes phylum, whereas over 90% of those from obese individuals belonged to Firmicutes, especially Ruminococcus (Ferrer et al. ). In a subsequent study, the analysis of glu- cosidase activity using model sugar substrates and protein ex- tracts from gut bacteria revealed that those obtained from obese (and that associated with the Firmicutes phylum) are at least 10- fold  more  active  than  those  from  lean  individuals  (Herna'ndez et al. ). These observations link different gut microbial gly- coside hydrolases with distinct metabolic functions in process- ing dietary carbohydrates to host physiology and human health biomarkers, such as obesity and insulin resistance.
+Associations have been reported between activities other that dietary carbohydrates degradation and local and external factors. For example, dietary interventions with phytochemicals have been associated with improved gut bacteria-mediated con- version of ellagic acid to urolithin A. This activity is advanta- geous to both host and microbiota, i.e. the urolithin A-mediated inhibition of pro-oxidant enzymes reduces tissue inflammation, mitigates the non-specific killing of gut bacteria and abrogates the iron-binding property of ellagic acid, thus providing a com- petitive edge to the microbiota in acquiring the limiting nutrient iron and allowing them to thrive in the gut (Saha et al. ). Fi- nally, by measuring the activity of a specific set of gut bacteria, it was shown that bacteria of the family Succinivibrionaceae are able to actively transport molecules that help resolve inflammation and immune recovery during HIV infection (Serrano-Villar et al. ).
+
+ASSOCIATIONS AT THE LEVEL OF METABOLITE CONTENTS AND FLUXES
+Even though presumptive sequence-based functional associa- tions have been made with multiple perturbations, experimen- tal validation is required to confirm the metabolic consequences of differential abundances of microbes, genes and proteins. This is of practical importance, as many microbial groups, genes and proteins associated with perturbations differ in their nature and clinical consequences (see previous sections). This can be
+
+partially avoided through the direct examination of metabolites that are the final downstream products of microbes (Goodacre ). They are considered as a final output within the func- tional hierarchy. The fact that 40% of metabolites in the human body, some of which play a crucial role in health (Vernocchi, Del Chierico and Putignani ), are produced by our micro- biota and that such metabolites provide the most reliable snap- shot of changes in metabolic activity demonstrates the impor- tance of metabolomics research in the context of human health (Moya and Ferrer ). Metabolites can be used not only to measure the metabolic activity of the microbiota, but also as a measure of health status, as metabolites produced by the mi- crobiota are neurotransmitters controlling the bidirectional gut- brain axis (Matsumoto et al. ), helping to maintain and re- pair the large intestine (Kibe et al. ), and playing a crucial role in controlling intestinal inflammation (Louis, Hold and Flint ) and cancer cell proliferation (Bindels et al. ). However, they can also influence human disease. Thus, a recent exam- ple has demonstrated that the host sugars released by the ac- tion of microbiota facilitate the expansion of enteric pathogens (Ng et al. ). Metabolites produced by bacteria have been also associated with higher levels of pathogenicity of Clostridium dif- ficile (Bender et al. ; Shen ) and with various diseases, including carcinogenesis in different regions of the intestinal tract and associated organs (Kibe et al. ), and atherosclero- sis (Tang and Hazen ). Therefore, metabolites are essential molecular agents that need to be investigated due to their eco- logical, clinical and medical relevance (Vernocchi, Del Chierico and Putignani ).
+
+
+Major alterations in the community structure associated with major changes in metabolite fluxes
+Regardless of the technical challenges and advances in metabolomics that will be discussed later, associations have been reported between the content of microbial metabolites and at least 37 diseases and disorders and environmental variables. In this case, we restricted the revision to faecal metabolites, as very little information is available for microbial metabolites from other body sites. The complete list of metabolites asso- ciated with different diseases, disorders and other local and external factors is detailed in Table S1. Metabolites that have been differentially found as demonstrated by metabolomic fin- gerprinting included amino acids (alanine, cysteine, glutamate, glycine, histidine, leucine, isoleucine, phenylalanine, proline, serine, threonine, tryptophan, tyrosine, valine), short-chain fatty acids (acetic acid, valeric acid, butyric acid, etc.), long linear and branched saturated and unsaturated fatty acids, N- acyl amino acids and polyamides (including arachidoyl glycine, N-stearoyl proline, N-oleoyl (iso)leucine, N-stearoyl tyrosine and N-palmitoyl threonine, etc.), hydrocarbons, xenobiotics, lipids (including gluco-, glycero- and glycerophospho-lipids, ce- ramides and sphingolipids, etc.), primary and secondary bile acids, cholesterol derivatives, metabolites implicated in por- phyrin and iron metabolism (ferroxamine,  protoporphyrin  IX, mesoporphyrin IX, etc.), cell membrane components (N- acetylmuramic, N-acetylneuraminic acids, N-acetylglucos- amine, etc.), vitamins, polyols and sugars, trimethylamine-N- oxide, carnitine, ribose-1,5-bisphosphate, thiamine, choline, acetylputrescine, inosine, pseudouridine, hypoxanthine, creatinine, N-acetylhistamine, glyoxylic acid, succinic acid, homoserine lactone and phytochemicals (glucosinolates, polyphenol, aglycones, etc.), to cite some. The biological
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5. Heap map displaying the metabolite biomarkers found to discriminate healthy controls and patients characterised by multiple perturbations, including diseases and environmental pressures such as dietary interventions, exposure to metals and antibiotic treatment. A total of 621 non-redundant metabolites have       been found as biomarkers in all metabolomics (target and fingerprint) studies published to date. The number of discriminating metabolites is specified below for each of the diseases, disorders and external factors, which are ordered from low to high effect on the metabolome. Full list of metabolites is given in Table S1. Heat map was constructed in R () using the 'heatmap.2' function within the 'gplots' package.
+
+
+relevance and health implications of each of these metabolites fall outside the scope of this review and can be checked in the references provided in Table S1.
+One of the first questions to answer is whether major or minor alterations in community structure are associated with major or minor metabolic alterations. From Fig. , we observe that diseases and factors that directly or indirectly affect the gastrointestinal tract, the colonic space and the oral cavity are associated with a major number of microbial alterations, e.g. HIV (65 genera affected), Crohn's disease (60), colorectal cancer
+(59) and periodontitis (49). The heat map and clustering analy- sis shown in Fig.  reveal that such alterations are also trans- lated at the metabolic level. Thus, when compared to healthy controls, diseases such as inflammatory bowel diseases (includ- ing ulcerative colitis, Crohn's disease and C. difficile infection), colorectal cancer and HIV are associated with major metabolic consequences. For example, an association with colorectal can- cer  was  found  for  78  faecal  metabolites  (Monleo' n  et  al.  ; Ou et al. ; Weir et al. ; Goedert et al. ; Bjerrum  et al. ; Wang et al. ; Sinha et al. ), 36 are associ- ated with gastrointestinal disease cryptosporidiosis (Ng et al. 2012), 23 are associated with Crohn's disease (Jansson et al. ; Bjerrum et al. ), 25 associated with C. difficile infection (Rojo et al. ) and 14 associated with HIV (Serrano-Villar et al.,). This contrasts to diseases or factors which have no such direct influence on the gastrointestinal tract such as can- cers, besides gastrointestinal cancer (Fig. ). However, there are disorders that do not directly affect the gastrointestinal tract,
+
+which are also associated with major metabolic changes (Fig. ), suggesting that multiorganismal factors other than alterations   in the body site where the microbiota develop, are responsible for the final metabolic output. For example, about 38 metabo- lites associated to pervasive developmental disorder (De An- gelis et al. ), 24 to liver cirrhosis (Cao et al. ;  Huang et al. ), 14 to SLE (Rojo et al. ) and 12 to type 2 dia- betes mellitus (Zhu et al. ) (Fig. ). Of particular relevance are the effects of dietary interventions in the metabolic alter- ations when examining faecal metabolomes. As shown in Fig. , major differences are evident. For example, about 350 metabo- lites were found to be discriminating metabolites  associated with multiple dietary interventions (Chow et al. ; Roager   et al. ), and 15 were associated with arsenic exposure (Lu  et al. ). Interestingly, intervention with a single probiotic has been shown to be associated with alterations in less than      a dozen metabolites (Roager et al. ) to 212 (Shi et al. ), reinforcing the idea that the introduction of a single bacterium can cause major changes in the metabolism of the gut micro- biota (Marcobal et al. ). This suggests that different interven- tions do have diverse consequences on our microbes' metabolic activity.
+In order to reveal whether the observed metabolic alterations may be a reflection of the differences observed at the level of population structure (Figs -), a correlation test was performed. To do so, the number of affected genera and metabolites per each perturbation were compared, including only studies report- ing data for both circumstances. We found a positive correlation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 6. Associations of three key metabolisms altered as a consequence of multiple factors. The analysis is based on the differential abundance level of metabolites involved in each metabolism (detected by metabolomics profiling; for details, see Table S1). Clustering is based on the Binary Method distance (presence or absence).
+
+
+between both variables (r2 = 0.534; p value = 0.00017), reinforc- ing the idea that major alterations in the community structure imply major metabolic changes (by meaning of metabolite con- tent and abundance).
+A second question is to what extent each factor is asso- ciated with different metabolic consequences. The heat  map and clustering analysis shown in Fig.  reveal that many of     the metabolites whose abundance level was altered are asso- ciated with multiple perturbations. For example, short-chain fatty acids (Fig. ) have been associated with multiple intesti- nal inflammatory diseases, including Hirschsprung-associated enterocolitis (Demehri et al. ), irritable bowel syndrome (Marchesi et al. ; Le Gall et al. ; Ponnusamy et al. ; Duboc et al. ; Dior et al. ), ulcerative colitis (Le Gall et al. ; Bjerrum et al. ) and Crohn's disease (Bjerrum et al. ). Its altered content also associated with autoim- mune disease (Rojo et al. ), celiac disease (Sellitto et al. ), chronic kidney disease (Poesen et al. ), colorectal
+
+cancer  (Monleo' n  et  al.  ;  Ou  et  al.  ;  Weir  et  al.  ; Goedert et al. ; Bjerrum et al. ; Wang et al. ; Sinha et al. ), non-alcoholic fatty liver disease (Michail et al. ) and mental diseases (autism and pervasive developmental dis- order) (De Angelis et al. ). They have also been associ- ated with multiple dietary interventions such as breast and formula feeding (Chow et al. ), dietary weight loss ther- apy (Damms-Machado et al. ), energy-restricted interven- tion with low or high dairy intake (Zheng et al. ), enteral nutrition (Gerasimidis et al. ; Berntson, Agback and Dicksved ) and cheese (Zheng et al. ), grape juice and wine (Jacobs et al. ), polydextrose fiber (Lamichhane et al. ), and resis- tant starch and corn oil (Zheng et al. ) consumptions. Also, they associated with prebiotics supplementation with  wheat bran extract and oligofructose (Windey et al. ), probiotic sup- plementation (Matsumoto et al. ; Abdulkadir et al. ), and finally prematurity and perinatal antibiotics treatment (Arbo- leya et al. ). Similarly, differential metabolic signatures for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 7. Clustering of the metabolic biomarkers and gut microbiota members interlinked in the context of multiple diseases and interventions. The analysis is based on their type and abundance (detected by metabolomic profiling, and 16S rRNA and 16S rDNA sequencing), applying the Binary Method distance (presence or absence). IBS: irritable bowel syndrome; AB: antibiotic treatment during C. difficile infection; CRC: colorectal cancer; DI: dietary intervention; PDD: pervasive developmental disorder; NAFLD: non-alcoholic fatty liver disease.
+
+
+bile acids and amino acids were associated with the different factors listed in Fig. . These examples again reveal that simi- lar types of metabolites are associated with diseases or factors differing in nature and aetiology, as also suggested when exam- ining associations with microbial genera (active and/or inactive) (Figs -), as well as genes and proteins.
+
+Correlation between metabolically active bacteria and metabolomics data
+It is becoming increasingly important to find correlations between active bacteria and metabolites, making it possible  to determine which bacteria are able to actively participate in the metabolism of these molecules. This requires integrating taxonomic data, mostly from the set of active microbes, and metabolomics data (Lepage et al. ). A careful examination of the data reported reveals interactions between at least 33 bacterial groups and 52 major metabolites, including amino acids, sugars, amino sugars, bile acids, cholesterol deriva- tives, xenobiotics, volatile organic compounds, fatty acids derivatives, eicosanoids, lipids, indoles, peptides, nucleotides, glucosinolates and other organic molecules (Fig. ). Differ- ences at the level of sequence coverage and length within the different studies make it possible to establish the taxonomic affiliations of the bacteria, mostly at the phylum and family level, and in some cases at the genus level. As shown in     Fig. , most associations occur within members of the phyla
+
+Firmicutes (~59% of the metabolites) and to a  lesser  extent  within Bacteroidetes (~16%), Proteobacteria (~9%), Actinobacte- ria (~6%) and Cyanobacteria (~3%). At the family level, the major contributors are members of Clostridiaceae, Lachnospiraceae, Aci- daminococcaceae, Rickenellaceae, Ruminococcaceae and to a lower extent Acidaminococcaceae, Lachnospiraceae, Prevotellaceae, Bac- teroidaceae, Enterobacteriaceae, Erysipelotrichaceae, Oscillospiraceae, Porphyromonadaceae, Sutterellaceae and Veillonellaceae. These comprise bacterial groups well known to inhabit the gut  ecosystem.
+Further examination of the data presented in Fig. demon- strates that the same metabolites are associated with different bacterial groups depending on perturbations such as diseases. For example, while Acidiminobacter, Bacteroides, Dialister, Phas- colarctobacterium, Pseudobutyrivibrio and Ruminococcus members are associated with the presence of the amino acid phenylala- nine in patients with colorectal cancer compared with healthy controls  (Monleo' n  et  al.  ;  Ou  et  al.  ;  Weir  et  al.  ; Goedert et al. ; Bjerrum et al. ; Wang et al. ; Sinha et al. ), members of Bacteroides, Escherichia and Faecalibac- terium are associated with their differential production in pa- tients with Crohn's disease (Bjerrum et al. ). Also, bacte- ria from the genera Bacteroides, Escherichia and Faecalibacterium are associated with altered abundance of the amino acid tryp- tophan in patients with Crohn's disease (Jansson et al. ; Bjerrum et al. ), whereas those belonging to the family Lactobacillaceae were observed in patients receiving antibiotic
+
+
+
+treatment in C. difficile-infected patients (Rojo et al. ). Other examples can be seen in Fig. .
+Also, an association has been found between the level of dif- ferent metabolites and the same bacterial groups in the con-   text of multiple diseases. For example, Faecalibacterium is as- sociated with 4-hydroxyphenylacetylglycine, the amino acids phenylalanine and tryptophan, and the bile acid  taurocholic  acid in patients with Crohn's disease (Rojo et al. ), as  well as with short-chain fatty acids in individuals with perva- sive developmental disorder (De Angelis et al. ). This sug- gests that the association between bacteria and  metabolites  may be factor (i.e. disease) dependent. This could be due to the fact that each perturbation may drastically and differentially changes the microbial community (Figs -), and the species responsible for the absorption, production or transformation of metabolites.
+Additionally, a number of specific associations have been identified. For example, a positive correlation between the level of Clostridium species and the amount of methyl esters (bu- tanoic acid methyl ester, acetic acid methyl ester and pen-  tanoic acid methyl ester) and indoles, between Faecalibacterium, Ruminococcus and Bifidobacterium genera and total short-chain fatty acids, and between Bacteroides genus and total free amino acids and propionic acid are found in children with pervasive developmental disorder not otherwise specified and autism in comparison to healthy children (De Angelis et al. ). An as- sociation of Oscillospira, Dorea, Rickenellaceae, Parabacteroides, Bac- teroides fragilis, Sutterella and Lachnospiraceae with volatile or- ganic compounds such as 4-methyl-2-pentanone, 1-pentanol, 1-butanol and 2-butanone are characteristic of patients with paediatric non-alcoholic fatty liver disease and obesity (Del Chierico et al. ). An association between Faecalibacterium, Bacteroides and Escherichia genera abundances and levels of 4-hydroxyphenylacetylglycine, the amino acids tryptophan and phenylalanine and the bile acid taurocholic acid has been sug- gested in patient with Crohn's disease (Jansson et al. ). Cor- relation analyses of the microbiome and metabolome data re- veal strong associations between Bacteroides, Dialister, Ruminococ- cus, Pseudobutyrivibrio, Phascolarctobacterium and Acidiminobacter spp., and metabolites that included free fatty acids, glycerol, cholesterol derivatives, amino acids phenylalanine, glutamate, serine and threonine, and  the  bile  acid  ursodeoxycholic acid in patients with colorectal cancer (Weir et al. ). Also, Bac- teroidetes, Bifidobacteria and Lactobacillus have been associated with the level of alanine, pyroglutamic acid, peptides, hydrox- yphenyl acetate, hydroxyphenyl propionate and aminobutyric acid in the context of patients with irritable bowel syndrome (Ponnusamy et al. ).
+The  analysis  of  dietary  interventions  with  milk  or  for- mula would suggest an association between the presence of bacteria of the genera Oscillibacter, Sporacetigenium, Clostridium, Prevotella, Anaerovibrio, Roseburia, Acidaminococcus, Bacteroides, Parabacteroides and Alistipes and the concentration of sugars, aminosugars,  fatty  acids,  especially  unsaturated   fatty   acids and sterols (Poroyko et al. ). Dietary intervention with the probiotic Lactobacillus acidophilus NCFM has demonstrated that its  presence  is  strongly  correlated  with  the  abundance  level   of  oligosaccharides  (penta-  and  tetrasaccharides),  vitamin  E and intestinal bile acids (Roager et  al.  ).  Finally,  correla- tion is reported between Tenericutes (Erysipelotrichaceae family), Firmicutes (i.e. Clostridiaceae family and Clostridiales Family XIII Incertae Sedis) and Cyanobacteria and indolelactic acid,  daidz- ein, phenylpyruvic acid, indole-3-carbinol, glycocholic acid, and dihydrodaidzein during arsenic exposure (Lu et al. ).
+
+Extensive descriptions of microbes-metabolite associations in the context of multiple perturbations are shown in detail in Fig. .
+
+
+TECHNICAL CHALLENGES AND ADVANCES IN THE FIELD OF METABOLOMICS
+The information presented above reflects a broad picture of the factors reported to alter the human microbiota in terms of composition and function. We were able to suggest microbial groups (dead, quiescent or active) and functions (predicted and confirmed experimentally) most likely susceptible to alterations when our microbiota is faced with local or external perturba- tions humans commonly face. By comparing associations be- tween alterations in microbial taxa and metabolite content in the context of perturbations that differ in nature and aetiology, we confirmed that major alterations in the community structure are associated with major metabolic changes, as well as sug- gested associations between active bacteria and metabolites. A careful examination of metabolomics research also reveals that bacteria from a genus may produce different metabolic outputs under different perturbations, and that similar metabolic contri- butions are associated with different bacterial groups depend- ing on the perturbation. This information, and that provided above, demonstrates the importance of the metaomics tools, particularly, metabolomics research, in the context of exploring the associations between perturbations and our microbiota and microbiome.
+Omics techniques confront a number of technical chal- lenges that are more evident in the case of metabolomics re- search (Smirnov et al. ); the main ones are summarised in Table . While metagenomics and metatranscriptomics stan- dard methods exist and the data can be directly compared, those for metaproteomics and, more importantly, metametabolomics research are far from being developed. Indeed, well-established methods and commercially available kits are available to isolate DNA and cDNA from our microbiota (for recent examples, see Hampton-Marcell et al. ; Pe'rez-Cobas et al. ; Reck et al. ; Bashiardes, Zilberman-Schapira and Elinav ; Moen et al. ). The analysis of microbiota composition is therefore not limited by technical difficulties (Jovel et al. ), but is rather problematic in terms of sequence coverage and length, which precludes the acquisition of homogeneous information at the deepest taxonomic levels (genera and species). This will require the development of advanced computational methods to iden- tify low-abundance and rare microbial components using 16S ribosomal RNA gene sequences and shotgun sequence datasets (Keller et al. ).
+In the case of metaproteomic studies of the microbiota, re- cently a gold standard method was suggested (Tanca et al. ). It involves a pretreatment step to enrich for microbial cells that can be then disrupted using standard protocols to recover the proteins, which can then be analysed by mass spectrometry (MS). Authors have demonstrated that this sample processing step is critical in allowing a proper representation of microbial proteins and for extracting proteins involved in some important microbial functional categories, including cell-surface enzymes, membrane-associated proteins, extracellular proteins and flagella.
+However, we are unable to suggest any particular method as the gold standard for metametabolomics analyses, and the di- rect comparison of metabolite abundances across different stud- ies is actually difficult to achieve. To exemplify this, imagine our
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 8. Schematic representation of the complexity of the faecal fluids at the biological and chemical levels. Colour codes are used to distinguish microbial (i.e. bacterial) (A), human cells (B) and dietary (C) components.
+
+
+gastrointestinal tract and how variable its contents can be. In- deed, our gastrointestinal tract not only contains trillions of mi- crobial and epithelial cells but also receives a continuous influx of nutrient molecules during food intake, and those released by epithelial cells on the inner surface of the mucosa and by its mi- crobial inhabitants (Fig. ). Therefore, relevant technical issues exist related to sample pretreatment methods if one wants to investigate metabolites directly associated with the action of po- tentially active microbes rather than to the diet or to the host, which are also important components. Such problems are not anticipated to occur when using other omics tools. In addition, the analytical methods, MS and nuclear magnetic resonance (NMR) tools and data processing are also important issues for consideration. Below, we provide technical challenges, problems and methods for metabolomics research.
+
+The metabolomics experiment: some considerations
+From an analytical chemistry point of view, the art of metabolomics mainly requires two types of tools: NMR and MS. Deda et al. () recently published a comprehensive and rele- vant review of NMR methods for faecal analysis, including prac- tices for processing faecal samples for global metabolic profil- ing. The different methods used for faeces processing prior to metabolite analysis are summarised and illustrated using se- lected examples to highlight the effects of sample preparation on the metabolic profile. Vernocchi, Del Chierico and Putignani () recently revised gas chromatography (GC)-MS and liquid chromatography (LC)-MS methods for faeces analysis. However,
+
+
+they did not include the increased amount of data showing the superior capabilities of the separation techniques coupled with MS in terms of sensitivity and metabolite coverage and the most selective methods devoted to prepare metabolomes, including the pre-enrichment of bacterial cells, nor the biological rele- vance of the identified metabolites in a broad ecological and medical sense when combining with other omic datasets.
+In metabolomics, the two main approaches below can be distinguished: (i) targeted and (ii) non-targeted analysis. The former corresponds with the heritage of classical analytical chemistry, for which the objective was to identify a target compound (analyte) and its subsequent quantification. Under the new paradigm, this approach has become more flexible, and the measurement of several compounds present in a spe- cific pathway or the determinations of several reaction prod- ucts could also be considered as the target, for which abso- lute quantification is no longer implicit. Specific metabolites that are linked to health status, such as the immunomodulatory derivatives tryptophan/kynurenine, short-chain and branched- chain fatty acids that enhance gut barrier function and impact systemic metabolism and immunity, bile acids (primary, sec- ondary, conjugated and sulphated bile acids) and polyamines, have been identified and quantified in faeces primarily using a target metabolomics approach. A complete list of metabo- lites commonly quantified by target approaches is provided  in Table S1. Their quantification has laid the foundation for studying associations with diet interventions (Kibe et al. , Chen et al. , De Leoz et al. ; Sheflin et al. ), an- tibiotic treatments (Ng et al. ), surgical and dietary weight
+
+
+
+loss (Damms-Machado et al. ), and diseases such as inflammatory bowel disease (Duboc et al. ), diarrhoea- predominant irritable bowel syndrome (Duboc et al. ), cir- rhosis (Kakiyama et al. ), ulcerative colitis (Machiels et al. ), colon cancer (Ou et al. ) and HIV infection (Vujkovic- Cvijin et al. ).
+On the other hand, the non-targeted methodology (also known as global profiling or fingerprinting) addresses biologi- cal questions without any previous hypotheses and therefore is ideal for opening up new research avenues. Note that, of all of the literature records reviewed herein, approximately 62% of the articles are devoted to fingerprinting alone (55%) or in combina- tion with a target analysis (Couch et al. ; Weir et al. ; Weingarden et al. ; Ordiz et al. ; Sheflin et al. ). One of the most promising opportunities offered by this approach is related to the possibility to analyse the impact of human health disorders and diseases on the intestinal microbiota as a whole,  as reviewed above (Vernocchi, Del Chierico and Putignani ). Such disorders and diseases include cirrhosis (Cao et al. ; Huang et al. ), autism and pervasive developmental disor- der (De Angelis et al. ), colorectal cancer (Weir et al. ; Goedert et al. ), Crohn's disease (Jansson et al. ), irrita- ble bowel syndrome (Le Gall et al. ; Ponnusamy et al. ), SLE autoimmune disease (Rojo et al. ), obesity (Rojo et al. ), alcoholic fatty liver disease (Shi et al. ), type 2 dia- betes mellitus (Zhu et al. ) and Clostridium difficile infection (Rojo et al. ), to cite some. This approach has also been used to investigate the effects of diet (Poroyko et al. ; Chow et al. ; Jime'nez-Giro' n et al. ; Sheflin et al. ; Wei et al. ), intestinal transplants (Girlanda et al. ), treatment with an- tibiotic  (Pe'rez-Cobas  et  al.  ),  exposure  to  metals  (Lu  et  al. ) and supplementation with probiotics (Matsumoto et al. ; Roager et al. ), to cite some.
+It is important to describe several points in which one can cause biases, the most important being the collection,  trans- port and conservation of the sample, the method used to ex- tract the metabolites and the methods to process and analyse   the metabolites. In this context, the general metabolomics fin- gerprinting workflow has recently been discussed in detail by Godzien et al. () and mainly encompasses five steps: (i) ex- perimental design, (ii) sample treatment, (iii) analytical platform and data acquisition, (iv) data treatment and (v) biological in- terpretation and validation. Following the logical path of the fingerprinting workflow, we focus on some of its critical points in the following sections. Note that approximately 10% of the metabolomics studies related to human microbiota are focused on method development and optimisation (see Table S1), which certainly reflects the importance of this step for both target anal- ysis (De Leoz et al. ; Xu et al. ; Garci'a-Villalba, Espi'n and Toma's-Barbera'n ) and global profiling (Jacobs et al. ; De Preter et al. ; Gao et al. ; Gao, Pujos-Guillot and Se'be'dio ; Ng et al. 2012; Phua et al. ; Lamichhane et al. ; Vanden Bussche et al. ; Su et al. ).
+
+Collection, transport and conservation
+It is important to know that the microbiota is a dynamic ecosys- tem influenced by manipulation and storage conditions, and that storage under strict anaerobic conditions is recommended to ensure the viability and representation of microbes and mi- crobial products (Cardona et al. ). Hardly any studies have addressed the evaluation and development of techniques and conditions to evaluate and preserve the metabolome obtained from our body, including faecal material, in order to ensure its vi-
+
+ability after long incubation times. However, immediate freezing of the microbiota samples at -80*C is highly recommended, al- though lower temperatures (4*C or -20*C) are also acceptable. In this way, one can prevent changes in the microbial metabolism until metabolite extraction (Gorzelak et al. ). Following these recommendations, the same sample can be frozen and unfrozen up to four cycles without significant changes in the micro- biota composition, and thus no expected changes in metabolite profiles.
+
+Quality controls
+Unlike metagenomics, metatranscriptomics and metapro- teomics, it is crucial to standardise the analytical variability in metabolomic experiments by using quality control (QC) samples (Rojo et al. ,). These QC samples should be as similar   as possible to the samples under investigation and for that reason they are commonly prepared by pooling equal volumes  of all of the samples in the experiment. Approximately 31% of the bibliographic records (Table S1) report QCs, among which 18% use a pool of samples as the QC sample. Nevertheless, the main purpose of QCs is their use in data processing, as will be discussed later.
+
+Faecal sample treatment: direct metabolite extraction vs pretreatment
+Faeces constitute the most common sample, as sample collec- tion is non-invasive and traditional for microbiological diagno- sis. The disadvantage is that they do not totally represent the mi- crobiota attached to the intestinal epithelium and the bacteria from the uppermost intestinal sections may be totally degraded. The use of other types of samples from the gastrointestinal tract, such as biopsied tissues (Moreno-Navarrete et al. ), and from other body sites is acceptable, although the representation of the total microbiota and thus the microbial metabolome is not guar- antee using existing methods. Other matrices that can be used in metabolomics research, such as urine (Rodrigues et al. ) or plasma (Fan et al. ), are listed in Supplementary Table S1. As described above, faecal material is a  complex  matrix (Fig. ) and, therefore, the outcomes of metabolomic studies are easily influenced by factors that may not be directly related to microbial activity. In this context, we asked ourselves whether there is any standard protocol to extract faecal metabolites, and more importantly, metabolites from bacteria in faeces repre- senting the gut microbiota. To answer this question, two main approaches can be used regarding sample preparation and pro-
+cessing, which are described below.
+The first corresponds to direct extraction of metabolites from the whole faecal sample, reviewed in detail by Deda et al. (). They offer a comprehensive revision studying different aspects and methodologies to deal with total faeces, paying attention to their storage and their preparation for NMR, LC-MS and GC-MS, mainly focusing on the former. Briefly, faecal material is resuspended in an appropriate solvent and directly subjected to metabolite extractions (for a full list of examples see Table S1). Following this approach, it is also interesting to point out that a study has recently been published devoted to optimising the extraction procedure in order to achieve maximum stability dur- ing sample extraction (Gratton et al. ). With this approach, a number of differentially abundant metabolites have been iden- tified (Table S1); however, specific associations between a pertur- bation and metabolite contents have rarely been found when ex- amining metabolites extracted from total faeces in large cohorts.
+
+
+
+It was believed most likely due to large interindividual variation due to age, body mass index (BMI), disease duration, dietary in- take, lifestyle-related factors or medical history, to cite a few. However, such interindividual variation was recently proven to be caused by the heterogeneity of the metabolic profiles of whole stool samples, which contain a complex mixture of metabo- lites originating from the diet, the host and intestinal bacte- ria, which masks the real contribution of the gut microbiota to the metabolism in the gastrointestinal tract (Rojo et al. ,). Clearly, metabolites that are not directly absorbed or produced by the action of intestinal microbiota (e.g. imagine food intake and how variable this can be) seem to produce a bias in the metabolic profile.
+Thus,  a  recent  series  of  investigations  (Pe'rez-Cobas  et  al. ; Rojo et al. ,; Serrano-Villar et al. ,) showed that the analysis of metabolites accumulated inside gut mi- crobial cells, previously separated from stool samples, rather than those from total faecal material, is more effective to find how a perturbation induces gut microbiota alterations. This pre- enrichment step was also found critical to allow for the proper representation of microbial proteins (Tanca et al. ). Metabo- lites that are directly produced or adsorbed (from environmen- tal inputs or the  host)  by  gut  microbes  are  better  indicators of changes in gut bacterial activity. Note that the analysis of metabolite levels inside gut bacterial cells may have a differ-  ent interpretation to those found in plasma and, to some ex-  tent, in faecal fluids. However, this approach may provide infor- mation that can be directly linked to complementary microbial data, i.e. 16S rRNA gene profiles of active bacteria, which is dif- ficult to achieve otherwise if the analysis incudes non-microbial metabolites (from the environment or host) commonly consid- ered when working with whole faecal material. This approach has shown that several disorders and diseases, including obe- sity, autoimmune diseases such as SLE and infection diseases such as diarrhoea caused by C. difficile or other pathogens het- erogeneously impact on the intestinal community architecture, while driving stable metabolome responses in the intestinal mi- crobiota (Rojo et al. ,; Serrano-Villar et al. ).
+The protocol described above is based on prokaryotic cell separation using a preprocessing step which includes different centrifugation phases, followed by intracellular metabolite ex- traction using a two-step method optimised for both polar and hydrophobic metabolites. This bacterial enrichment separation protocol is also reported as efficient to eliminate eukaryotic cell contamination in the metabolome (Rojo et al. ). Briefly, mi- crobial cells are separated from the faecal matrix by mixing 0.4 g of faecal sample with 1.2 mL of phosphate-buffered saline (PBS) (1:3 w/v faeces to PBS ratio). Following resuspension (by 1 min of vigorous mixing), the samples are then centrifuged at 1000 g at 4*C for 1 min to remove faecal debris. The supernatant (1.2 mL) is transferred and centrifuged at 13 000 g at 4*C for 5 min to pellet the cells. This protocol is repeated three times. The cell counts in the bacterial pellets are then analysed by standard pro- tocols (Bargiela et al. ), so the same amount of bacterial cells are further used in each extraction experiment. A total of 108   gut bacterial cells per sample are adequate for cold methanol (-80*C) extractions, in which 1.2 mL are added. The samples are then vortex-mixed (for 10 s) and sonicated for 30 s at 15 W in an ice cooler (-20*C). This protocol is repeated twice with  a 5-
+min storage period at -20*C between each cycle. The final pel-
+let is removed following centrifugation at 12 000 g for 10 min  at 4*C. After the methanol extracts are obtained, the remaining cell pellets are resuspended in 1.2 mL of cold (4*C) H2O and sub- jected to three cycles of sonication for 20 s at 15 W in ice water.
+
+The samples are incubated on ice for 2 min between cycles. The final pellet is removed following centrifugation at 12 000 g for 10 min at 4*C. Finally, the H2O and methanol extracts are obtained, and a mixture is prepared by combining equal amounts (1 mL) of each extract.
+This approach was used to show that several diseases are closely associated with specific metabolite profiles, which dif- fer to that of healthy individuals (Rojo et al. ,; Serrano- Villar et al. ). Interestingly, in healthy subjects for whom BMI is the only variable, BMI becomes a driving factor in deter- mining microbial metabolic activity (Rojo et al. ). By con- trast, the absence of high body weight and lean subgroups in pa- tients demonstrates that the presence of a disease seems to bear a greater pressure than BMI on bacterial metabolism. This novel result has not been highlighted before on examining whole fae- cal metabolomes for which discriminating metabolites could not be found within healthy controls.
+It should be mentioned that a recent study (Vandeputte et al. ) found faeces consistency to be strongly associated with differences in gut microbiota richness and composition. Exam- ination for metabolites in total faeces with different consisten- cies may be a problem due to differences in water content and solid material. In the literature under revision, several studies tackle this problem by lyophilising the samples, thus partially solving the issue related to different consistency and water con- tent in the faecal material (Jacobs et al. ; Duboc et al. , ; Phua et al. ; Weir et al. ; Sheflin et al. ; Van- den Bussche et al. ; Abdulkadir et al. ; Dior et al. ; Sinha et al. ). However, for biodiversity studies, that strategy may be problematic due to contamination and, if the aim of the research is to analyse only the bacterial metabolome, lyophilisa- tion is not an option as it breaks some prokaryotic cells, thus re- leasing intracellular material than can be eliminated during the pre-enrichment steps described above. In that sense, the turn- ing point is to standardise the number of bacteria previously separated from faeces prior to their metabolome extraction in order to be able to perform further comparative analysis inde- pendently of faeces consistency.
+Another crucial point for further consideration is the extrac- tion with solvent(s). Of the reviewed papers (Table S1), around 47% of the authors use a single solvent, the preferential option being PBS and methanol, about 20% employ a mixed solvent, the most popular being methanol/water and 15% prefer a methodol- ogy in which several solvents are used sequentially. By contrast, only 11% choose solid phase extraction (SPE). From the reported data, we cannot suggest any particular one as a gold standard  for gut microbiota metabolomics; nevertheless, we point out two facts: (i) it is always better to extract using several solvents rather than a mixture due to the wider metabolic polarity coverage ob- tained and (ii) in target analysis the solvent selection is crucial and it should be optimised based on the analyte, e.g. short-chain fatty acids are extracted with water (Machiels et al. ; Windey et al. ) or acetonitrile (Ou et al. ), while bile acids with ethanol/PBS (Damms-Machado et al. ), SPE (Duboc et al. , ; Dior et al. ), methanol combined with SPE (Kakiyama et al. ) or acetonitrile (Ou et al. ). In the words of Jules Griffin (Heather et al. ), different extraction procedures rou- tinely have a greater effect on the metabolome than most ge- netic modifications do. This can be seen from the results of two studies comparing the effect of colorectal cancer on the faecal metabolome. Thus, Goedert et al. (), who used methanol, reported peptides, amino acids, heme-related metabolites, cofactors, vitamins,  xenobiotics  and  lipids  as  discriminat-  ing metabolites in patients with colorectal cancer compared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 9. Percentage of each type of metabolite found to be biologically relevant in gut microbiota fingerprinting per analytical platform, represented as concentric circles (NMR, GC-MS, LC-MS and CE-MS respectively sorted from the outside to the inside). For full details, see Table S1.
+
+
+to healthy controls, whereas Weir et al. (), who used a mixture of isopropanol, acetonitrile and water, detected mostly fatty acids, amino acids, sugar alcohols, vitamins and steroids. Note that in this case, the utilisation of distinct analytic plat- forms, LC-MS and GC-MS, and GC-MS alone, respectively, may also be responsible for the observed differences (Table S1). By contrast, when the effect of liver cirrhosis was evaluated in two different cohorts using the same extraction solvent (methanol) and the same analytical platform (LC-MS), similar metabolites (i.e. lipids, bile acids and heme-related metabolites; Table S1) were found to discriminate liver cirrhosis patients from healthy controls (Cao et al. ; Huang et al. ). This demonstrates that the solvent used for metabolite extraction is a crucial point for consideration in any metabolomics project.
+
+Analytical platform
+The majority of the reviewed investigations are based on NMR (22%) or one separation technique coupled to MS (62%), whereas 16% of them use two (Table S1). These data should be considered taking into account also the aim of the study and, particularly, whether it is a fingerprinting approach. If the goal of fingerprint- ing is to produce the highest possible coverage, it is highly rec- ommendable to use a multiplatform approach in order to avoid a potential bias in metabolite coverage. Of the reviewed literature focusing on fingerprinting, 70% use a single technique (Table S1). Among the platforms, the most common is LC-MS plus GC-MS (Kakiyama et al. ; Ou et al. ; Chow et al. ; Goedert et al. ; Damms-Machado et al. ; Sinha et al. ), fol- lowed by LC-MS plus CE-MS (Rojo et al. ,; Serrano-Villar et al. ,) and by LC-MS plus matrix-assisted laser desorp- tion/ionisation Fourier transform ion cyclotron resonance-MS (De Leoz et al. , ; Underwood et al. ).
+A crucial point to be considered regarding the analytical plat- forms is the most suitable type of compound. For example, GC-MS is suited to volatile thermally stable compounds, whereas CE-MS is ideal for small ionisable molecules. The capa- bilities of LC-MS are greater in relation to the nature of the sta- tionary phase of the column (e.g. a C18 column is ideal for non-
+
+polar compounds whereas a HILIC column can be devoted to po- lar analytes). An extensive review of the different types of HILIC stationary phases is provided by Rojo, Barbas and Rupe'rez ().
+Focusing on the state of the art under revision, with respect to a fingerprinting approach, LC-MS is mainly used for different kinds of bile acids and lipids; CE-MS for amino acids, amines and carboxylic acids; and GC-MS and NMR for short-chain fatty acids and amino acids. Details of the type of compounds per analytical platform are presented in Fig. . The review by Xie et al. () discusses the different analytical options to measure some key compounds of the gut ecosystem such as bile acids, short-chain fatty acids and choline metabolites.
+
+Data treatment and validation
+The result of the measurement of each sample is a profile with thousands of signals representing the broader possible set of metabolites. The profiles are then overlaid and a matrix is built. For all the individuals, all the signals are identified by their mass, retention time and the corresponding abundance. This is called a 'metabolic feature'.
+In metabolomics, it is quite normal to deal with a matrix with thousands of signals, although many of them are background noise. An experimental-based methodology has recently been proposed by Godzien et al. () suggesting a double filter in order to keep the variables that are simultaneously present in
+(i) at least 50% of the samples of each group and (ii,a) present  in at least 80% of the QCs that has a coefficient of variation be- low 30%, or (ii,b) present in <20% of the QCs. The idea behind this filtering criteria is to keep the group of variables with a re- producible signal across the whole profile (i and ii,a) and those present in only one group and, therefore, their reproducibility cannot be assessed with the QCs (i and ii,b). Notice that an in- tragroup presence of 50% is a flexible cut-off, which should be adapted to each experimental design (e.g. if the samples are technical replicates it should be increased). Another potential use of the QCs is their role when a large set of samples is anal- ysed, and therefore normalisation procedures must be done in order  to  compare  the  signals  recorded  from  all  the samples.
+
+
+
+Here, QCs are crucial as a constant measurement inserted in be- tween blocks of samples across the whole analytical run. An ex- ample of their use in this respect has been proposed by Dunn et al. () and is called locally estimated scatterplot smooth- ing.
+A missing value is the situation that occurs when no data are stored for a metabolite (variable) in a sample (observation). The metabolomics data are reported to comprise around 10%-40% of the missing values (Godzien et al. ). The origin of miss- ing values can be caused by (i) a real absence of the value, (ii) the variable is present in the sample but it was missed in the  data reprocessing or (iii) the variable is present in the sample below the limit of detection. Regarding missing values in data processing, the literature under evaluation reports (i) their re- placement by mean (when <1/3 are missing) or by half of the minimum value of the variable (when between 1/3 and 2/3 are missing), maintaining zeros in the rest of the cases (Rojo et al. ,; Serrano-Villar et al. ,), (ii) consider them as zero under the limit of detection (Couch et al. ; Chow et al. ),
+(iii) input with the lower limit of detection for a given metabo- lite (Ahmed et al. ), (iv) substitute by half of the minimum of the intensity detected for the corresponding variable (Peng et al.) or (v) using a zero-fill program to find the missing peak pairs from the raw  MS data and fill in the missing values (Xu   et al. ; Su et al. ). Taking into account the importance of this step for subsequent statistical tests, we favour the more thorough methodologies such as the recent study by  Armitage  et al. (), explaining that missing values affect the normality and homogeneity data variance and k-nearest neighbour impu- tation, or that by Huan and Li (), reporting a robust method for completing the missing values by a zero-fill program that finds the peak pair and inputs the calculated intensity ratio.
+Statistical analysis to select potential markers can be done either by multivariate or univariate analysis, which is not spe- cific of these types of experiments and falls outside the scope of this review. There are comprehensive reviews elsewhere (Steuer et al. ; Korman et al. ). The easiest and the most common way to identify a metabolic feature is to link its accurate mass with a certain structure using a public or inhouse database. For a review about public databases in MS Metabolomics, see the arti- cle by Vinaixa et al. (). In this respect, it is useful to mention that there are four levels of confidence in metabolite annota- tion (Salek et al. ): level 1, truly confirmed identifications; level 2, putatively annotated compounds; level 3, putatively characterised classed; and level 4, unknown compounds.
+Once the potential markers have been selected, their qual-  ity can be measured by their sensitivity and specificity, which can be easily evaluated by receiver operator characteristic (ROC) curves as discussed by Xia et al. (), who suggest using ROC curves to select the ideal sample size by a retrospective pro- cedure in which sensitivity, specificity and confidence interval are previously fixed. That opens a door to 'samples saving' or, in other words, to a more sensible use of the resources in clin- ics and research. With respect to validation, first it should be pointed out that this term mainly encompasses four different aspects: (i) analytical chemistry parameters (e.g. accuracy, pre- cision, linearity, limit of detection, limit of quantification, etc.);
+(ii) mathematical model suitability (e.g. cross-validation, per- mutation test, etc.); (iii) confirmation of the identity/biological role of the metabolites (e.g. MS/MS analysis, multi-omics exper- iment, etc.); and (iv) biomarkers discovery, which requires con- firmed identifications, ROC curves and to corroborate the same finding in a second cohort that ideally avoid any kind of in- terindividual variability which would require hundreds of sam-
+
+ples. In this respect, in the literature under revision, what is usually considered as validation is (i) to test the mathematical model suitability or (ii) to confirm the biologically interesting compounds, which is manly done by MS/MS analysis, standard speaking or multiple reaction monitoring analysis (details in Table S1).
+
+
+CONCLUSIONS AND FUTURE OUTLOOK
+The densest and most complex bacterial community in the hu- man body inhabits the large intestine and forms an ecosys- tem with interdependence and mutualism among the species that constitute it. This community is known as the gut micro- biota and it is essential for homeostasis and health of the host. The gut microbiota performs functions of nutrition, metabolism (the result of biochemical activity) and protection (preventing the invasion of infectious agents or the overgrowth of resident species with pathogenic potential). It has also trophic functions for the proliferation and differentiation of the intestinal epithe- lium, and plays a role in the development and modulation of the immune system. However, our skin, respiratory system, oral cavity and vaginal/urinary cavity are also populated by a micro- bial community that is as diverse and important as that of the gastrointestinal tract. In total, our body is occupied by at least 5000 bacterial genera, which together comprise the adult micro- biota. They are continuously exposed to factors that influence them dynamically, and their alteration can be seen as an indi- cator of human health status. Observations show that our mi- crobiota experiences different compositional shifts due to the changes elicited by multiple factors, and efforts have been in- vested in their understanding. However, although there is no doubt that certain diseases, factors and covariates are linked to changes in the microbiota, it is unclear whether such changes are a cause or consequence. It still remains unclear how many multiple factors influence the composition, diversity, dynamics and metabolic performance of the microbiota with respect to its impact on host health, nor which microorganisms are ac- tive contributors under a given perturbation, and whether dif- ferent covariates or diseases differentially or similarly impact our microbial ecosystems. Our lack of understanding of this is- sue lies in the fact that we still lack the definition of a 'healthy microbiota'.
+When faced with any disturbance, the microbiota can re- main unaltered (showing resistance), return to the initial state after the disruptive effect disappears (displaying resilience) or even change in composition but not in function when this ef- fect disappears (functional redundancy). Finally, disruptive, and in some occasions irreversible, effects both in composition and function can occurs (dysbiosis). These four concepts and their consequences highlight the importance of performing holistic studies in which all components of the microbiota, including mi- crobes, genes, proteins and metabolic products, are examined in the context of systemic variables that are descriptive of diseases and disorders, or other health status. Understanding the associ- ations using combined approaches of metagenomics, metatran- scriptomics, metaproteomics and metametabolomics is one of the main challenges towards a system-level understanding of the human microbiome (Bikel et al. ; Aguilar-Pulido et al. ; Mondot and Lepage ).
+For this reason, in this article, we critically review the factors linked to changes in the composition of our multiple microbial ecosystems (dead, quiescent and active microbes) and in their molecular agents (genes, proteins and metabolites).
+
+
+
+The results of a multivariate analysis based on multi-omics data associated multiple factors to changes in gut microbiota community composition, gene composition (metagenome), gene  expression  (metatranscriptome),  protein   expres-   sion (metaproteome) and metabolite production (meta- metabolome). Although many specific changes were found,   a number of microbial groups (Figs -) and functions have been reviewed  and identified as being the most susceptible   to alterations, as their abundances were consistently altered independently of the type, strength and duration of the perturbations. The revision of the published metabolomics data demonstrates that major alterations in the community structure imply major metabolic changes, so metabolites accu- mulated by gut microbes are the best indicators of functional changes in the microbiota. Metabolomics research also suggests that the association between bacteria and metabolites may be factor (i.e. disease) dependent, so that a bacterium can differ metabolically under different circumstances. These novel out- comes demonstrate the importance of metabolomics research in the context of human health, together with the fact that metabolites used or produced by our microbiota represent the most reliable snapshot of changes in the metabolic activity of our microbiota, some of which play a crucial role in health.
+The information provided in this review stresses the fact that, particularly in metabolomics, standardisation of meth- ods is required, ranging from sample storage and processing to metabolite extraction and analysis. This is also the case for other
+-omics such as genomics, to compare different datasets and to identify metabolite biomarkers in large cohorts of individuals affected by different perturbations. This, together with future efforts to analyse the active fraction of the microbiota in terms of active genes (metatranscriptomes) and proteins (metapro- teomes) will help to identify strong associations between the active fraction of the gut microbiota that changes with dif- ferent diseases, disorders, interventions or any external fac- tors and the microbiome metabolic output (exemplified by the meta-metabolome). This will help researchers to clearly iden- tify which metabolic and bacterial changes are partially random consequences of a given perturbation, and which are potential causes, as well as their associations.
+
+SUPPLEMENTARY DATA
+Supplementary data are available at online.
+
+ACKNOWLEDGEMENTS
+We would like to thank Fabiola Baraclough for her excellent support in english grammar and usage, typographical and proofreading revision.
+
+FUNDING
+This work was supported by the Spanish Ministry of Economy, Industry and Competitiveness (CTQ2014-55279-R and BIO2014- 54494-R) to which C.B., D.R. and M.F. would like to acknowledge funding. This study was supported also by funds from Leading National Research Center in Bialystok. This work was supported by grants to A.M. from the Spanish Ministry of Economy, Indus- try and Competitiveness (projects SAF 2012-31187, SAF2013- 49788-EXP, SAF2015-65878-R), Carlos III Institute of Health (projects PIE14/00045 and AC15/00022), Generalitat Valenciana (project PrometeoII/2014/065) and co-financed by FEDER.
+
+Conflict of interest. None declared.
+
+REFERENCES
+Aagaard K, Ma J, Antony KM et al. The placenta harbors a unique microbiome. Sci Transl Med 2014;6:237ra265.
+Abdulkadir B, Nelson A, Skeath T et al. Routine use of probiotics  in  preterm  infants:  longitudinal   impact   on  the microbiome and metabolome. Neonatology 2016;109: 239-47.
+Abreu NA, Taga ME. Decoding molecular interactions  in microbial communities. FEMS Microbiol Rev 2016;40:  648-63.
+Aguilar-Pulido V, Huang W, Suarez-Ulloa V et al. Metagenomics, metatranscriptomics, and metabolomics approaches for mi- crobiome analysis. Evol Bioinform Online 2016;12 (Suppl 1): 5-16.
+Ahmed I, Greenwood R, Costello B et al. Investigation of fae-    cal volatile organic metabolites as novel diagnostic biomark- ers in inflammatory bowel disease. Aliment Pharm Ther 2016;43:596-611.
+Arboleya S, Sa'nchez B, Milani C et al. Intestinal microbiota devel- opment in preterm neonates and effect of perinatal  antibi- otics. J Pediatr 2015;166:538-44.
+Armitage EG, Godzien J, Alonso-Herranz V et al. Missing value imputation strategies for metabolomics data. Electrophoresis 2015;36:3050-60.
+Bao G, Wang M, Doak TG et al. Strand-specific community RNA- seq  reveals  prevalent  and  dynamic  antisense  transcription  in human gut microbiota. Front Microbiol 2015;6:896.
+Bargiela R, Mapelli F, Rojo  D  et  al.  Bacterial  population  and biodegradation potential in chronically crude oil- contaminated marine sediments are strongly linked to tem- perature. Sci Rep 2015;5:11651.
+Bashan A, Gibson TE, Friedman J et al. Universality of human microbial dynamics. Nature 2016;534:259-62.
+Bashiardes S, Zilberman-Schapira G, Elinav E. Use of metatran- scriptomics in microbiome research. Bioinform Biol Insights 2016;10:19-25.
+Bender KO, Garland M, Ferreyra JA et al. A small-molecule an- tivirulence agent for treating Clostridium difficile infection. Sci Transl Med 2015;7:306ra148.
+Beger RD, Dunn W, Schmidt MA et al. Metabolomics enables pre- cision medicine: 'A White Paper, Community Perspective'. Metabolomics 2016;12:149.
+Berntson L, Agback P, Dicksved J. Changes in fecal microbiota and metabolomics in a child with juvenile idiopathic arthri-    tis (JIA) responding to two treatment periods with exclusive enteral nutrition (EEN). Clin Rheumatol 2016;35:1501-6.
+Biesbroek G, Tsivtsivadze E, Sanders EA et  al.  Early  respira- tory microbiota composition  determines  bacterial  succes- sion patterns and respiratory health in children.  Am  J  Resp Crit Care 2014;190:1283-92.
+Bikel S, Valdez-Lara A, Cornejo-Granados F et al. Combining metagenomics, metatranscriptomics  and  viromics  to  ex- plore novel microbial interactions: towards a systems-level understanding of human microbiome. Comput Struct Biotech- nol J 2015;13:390-401.
+Bindels LB, Porporato P, Dewulf EM et al. Gut microbiota-derived propionate reduces cancer cell proliferation in the liver. Brit      J Cancer 2012;107:1337-44.
+Bjerrum JT, Wang Y, Hao F et al. Metabonomics of human fecal extracts characterize ulcerative colitis, Crohn's disease and healthy individuals. Metabolomics 2015;11:122-33.
+Blaser MJ. The microbiome revolution. J Clin Invest
+2014;124:4162-5.
+
+
+
+Browne HP, Forster SC, Anonye BO et al. Culturing of 'uncul- turable' human microbiota reveals novel taxa and extensive sporulation. Nature 2016;533:543-6.
+Bull MJ, Plummer NT. Part 1: The human gut microbiome in health and disease. Integr Med 2014;13:17-22.
+Cao H, Huang H, Xu W et al. Fecal metabolome profiling of liver cirrhosis and hepatocellular carcinoma patients by ultra per- formance liquid chromatography-mass spectrometry. Anal Chim Acta 2011;691:68-75.
+Cardona S, Eck A, Cassellas M et al. Storage conditions of intesti- nal microbiota matter in metagenomic analysis. BMC Micro- biol 2012;12:158.
+Chen P, Torralba M, Tan J et al. Supplementation of saturated long-chain fatty acids maintains intestinal eubiosis and re- duces ethanol-induced liver injury in mice. Gastroenterology 2015;148:203-14.
+Chow J, Panasevich MR, Alexander D et al. Fecal metabolomics of healthy breast-fed versus formula-fed infants before and during in vitro batch culture fermentation. J Proteome Res 2014;13:2534-42.
+Claesson MJ, Cusack S, O'Sullivan O et al. Composition, variabil- ity, and temporal stability of the intestinal microbiota of the elderly. P Natl Acad Sci USA 2011;108 (Suppl 1):4586-91.
+Conlon MA, Bird AR. The impact of diet and lifestyle on gut mi- crobiota and human health. Nutrients 2014;7:17-44.
+Consortium THMP. Structure, function and diversity of the healthy human microbiome. Nature 2012;486:207-14.
+Couch RD, Navarro K, Sikaroodi M et al. The approach to sam- ple acquisition and its impact on the derived human fecal microbiome and VOC metabolome. PLoS One 2013;8:e81163.
+Cox LM, Blaser MJ. Pathways in microbe-induced obesity. Cell Metab 2013;17:883-94.
+Damms-Machado A, Mitra S, Schollenberger AE et al. Effects of surgical and dietary weight loss therapy for obesity on gut microbiota composition and nutrient absorption. Biomed Res Int 2015;2015:806248.
+De Angelis M, Piccolo M,  Vannini  L  et  al.  Fecal  microbiota and metabolome of children with autism and pervasive developmental disorder not otherwise specified. PLoS One 2013;8:e76993.
+De Leoz ML, Kalanetra KM, Bokulich NA et al. Human milk gly- comics and  gut  microbial  genomics  in  infant  faeces  show  a  correlation  between  human  milk   oligosaccharides   and gut microbiota: a proof-of-concept study. J Proteome Res 2015;14:491-502.
+De Leoz ML, Wu S, Strum JS et al. A quantitative and comprehen- sive method to analyse human milk oligosaccharide struc- tures in the urine and faeces of infants. Anal Bioanal Chem 2013;405:4089-105.
+De Preter V, Van Staeyen G, Esser D et al. Development of a screening method to determine the pattern of fermentation metabolites in faecal samples using on-line purge-and-trap gas chromatographic-mass spectrometric analysis. J Chro- matogr A 2009;1216:1476-83.
+Deda O, Gika HG, Wilson ID et al. An overview of fecal sam-    ple preparation for global metabolic profiling. J Pharm Biomed Anal 2015;113:137-50.
+Del Chierico F, Nobili V, Vernocchi P et al. Gut microbiota pro- filing of pediatric nonalcoholic fatty liver disease and obese patients unveiled by an integrated meta-omics-based ap- proach. Hepatology 2017;65:451-64.
+Demehri FR, Frykman PK, Cheng Z et al. Altered fecal short chain  fatty  acid  composition  in  children  with  a   his- tory of Hirschsprung-associated enterocolitis. J Pediatr Surg 2016;51:81-6.
+
+Ding T, Schloss PD. Dynamics and  associations  of  micro-  bial community types across the human body. Nature 2014;509:357-60.
+Dior  M,  Delagre`verie  H,  Duboc  H  et  al.  Interplay  between  bile acid metabolism and microbiota in irritable bowel syndrome. Neurogastroent Motil 2016;28:1330-40.
+Duboc H, Rainteau D, Rajca S et al. Increase in fecal primary bile acids and dysbiosis in patients with diarrhea-predominant irritable bowel syndrome. Neurogastroent Motil 2012;24: 513-20.
+Duboc H, Rajca S, Rainteau D et al. Connecting dysbiosis, bile- acid dysmetabolism and gut inflammation in inflammatory bowel diseases. Gut 2013;62:531-9.
+Dunn WB, Broadhurst D, Begley P et al. Procedures for large-scale metabolic profiling of serum and plasma using gas chro- matography and liquid chromatography coupled to mass spectrometry. Nat Protoc 2011;6:1060-83.
+Durba'n  A,  Abella'n  JJ,  Jime'nez-Herna'ndez  N  et  al.  Instability of the faecal microbiota in diarrhoea-predominant irritable bowel syndrome. FEMS Microbiol Ecol 2013;86:581-9.
+DzVunkova' M, D'Auria G, Moya A. Direct sequencing of human gut virome fractions obtained by flow cytometry. Front Microbiol 2015;6:955.
+DzVunkova'  M,  Garcia-Garcera`  M,  Marti'nez-Priego  L  et  al.  Direct squencing from the minimal number of DNA molecules  needed to fill a 454 picotiterplate. PLoS One 2014;9:e97379.
+DzVunkova'  M, Moya A, Va'zquez-Castellanos JF et al. Active and secretory IgA-coated  bacterial  fractions  elucidate  dysbiosis in Clostridium difficile infection. mSphere 2016;1 e00101-16.
+El Aidy S, Merrifield CA, Derrien M et al. The gut microbiota elic- its a profound metabolic reorientation in the mouse jejunal mucosa during conventionalisation. Gut 2013;62:1306-14.
+Erickson AR, Cantarel BL, Lamendella R et al. Integrated metagenomics/metaproteomics reveals human host- microbiota signatures of Crohn's disease. PLoS One 2012;7: e49138.
+Falony G, Joossens M, Vieira-Silva S et al. Population-level analy- sis of gut microbiome variation. Science 2016;352:560-4.
+Fan L, Yin M, Ke C et al. Use of plasma metabolomics to iden- tify diagnostic biomarkers for early stage epithelial ovarian cancer. J Cancer 2016;7:1265-72.
+Ferrer  M,  Me'ndez-Garci'a  C,  Rojo  D  et  al.  Antibiotic  use  and microbiome function. Biochem Pharmacol 2016; pii:S0006- 2952(16)30286-6.
+Ferrer M, Ruiz A, Lanza F et al. Microbiota from the distal guts of lean and obese adolescents exhibit partial functional re- dundancy besides clear differences in community structure. Environ Microbiol 2013;15:211-26.
+Franzosa EA, Morgan XC, Segata N et al. Relating the metatran- scriptome and metagenome  of the  human gut. P Natl  Acad  Sci USA 2014;111:E2329-38.
+Fujimura KE, Slusher NA, Cabana MD et al. Role of the gut microbiota in defining human health. Expert Rev Anti-Infe 2010;8:435-54.
+Gao X, Pujos-Guillot E, Martin JF et al. Metabolite analysis of human fecal water by gas chromatography/mass spectrom- etry with ethyl chloroformate derivatization. Anal Biochem 2009;393:163-75.
+Gao X, Pujos-Guillot E, Se'be'dio JL. Development of a quantitative metabolomic approach to study clinical human fecal water metabolome based on trimethylsilylation derivatization and GC/MS analysis. Anal Chem 2010;82:6447-56.
+Garci'a-Villalba   R,   Espi'n   JC,   Toma's-Barbera'n   FA.   Chromato- graphic and spectroscopic characterization of urolithins for their determination in biological samples after the intake of
+
+
+
+foods containing ellagitannins and ellagic acid. J Chromatogr  A 2016;1428:162-75.
+Gerasimidis K, Bertz M, Hanske L et al. Decline in presumptively protective gut bacterial species and metabolites are para- doxically associated with disease improvement in pediatric Crohn's disease during enteral nutrition. Inflamm Bowel Dis 2014;20:861-71.
+Girlanda R, Cheema AK, Kaur P et al. Metabolomics of human intestinal transplant rejection. Am J Transplant 2012;12 (Suppl 4):S18-26.
+Godzien J, Alonso-Herranz V, Barbas C et al. Controlling the qual- ity of metabolomics data: new strategies to get the best out of the QC sample. Metabolomics 2014;11:518-28.
+Godzien J, Ciborowski M, Angulo S et al. From numbers to a bi- ological sense: How the strategy chosen for metabolomics data treatment may affect final results. A practical example based on urine fingerprints obtained by LC-MS. Electrophore- sis 2013;34:2812-26.
+Goedert JJ, Sampson JN, Moore SC et al. Fecal metabolomics: as- say performance and association with colorectal cancer. Car- cinogenesis 2014;35:2089-96.
+Goodacre R. Metabolomics of a superorganism. J Nutr
+2007;137:259S-66S.
+Goodrich JK, Davenport ER, Waters JL et al. Cross-species com- parisons of host genetic associations with the microbiome. Science 2016;352:532-5.
+Gorzelak MA, Gill SK, Tasnim N  et  al.  Methods  for  improv- ing human gut microbiome data by reducing variability  through sample processing and storage of stool. PLoS One 2015;10:e0134802.
+Gosalbes  MJ,  Abellan  JJ,  Durba'n  A  et  al.  Metagenomics  of  hu- man microbiome: beyond 16s rDNA. Clin Microbiol Infect 2012;18:47-9.
+Gosalbes MJ, Durba'n A, Pignatelli M et al. Metatranscriptomic ap- proach to analyse the functional human gut microbiota. PLoS One 2011;6:e17447.
+Gratton J, Phetcharaburanin J, Mullish B et al. An optimized sam- ple handling strategy for metabolic profiling of human fae-  ces. Anal Chem 2016;88:4661-8.
+Greenblum S, Turnbaugh PJ, Borenstein E. Metagenomic systems biology of the human gut microbiome reveals topological shifts associated with obesity and inflammatory bowel dis- ease. P Natl Acad Sci USA 2012;109:594-9.
+Grice EA, Segre JA. The skin microbiome. Nat Rev Microbiol
+2011;9:244-53.
+Hampton-Marcell JT, Moormann SM, Owens SM et al. Prepara- tion and metatranscriptomic analyses of host-microbe sys- tems. Methods Enzymol 2013;531:169-85.
+Heather LC, Wang X, West JA et al. A practical guide to metabolomic profiling as a discovery tool for human heart disease. J Mol Cell Cardiol 2013;55:2-11.
+Herna'ndez E, Bargiela R, Diez MS et al. Functional consequences of microbial shifts in the human gastrointestinal tract linked to antibiotic treatment and obesity. Gut Microbes 2013;4:306- 15.
+Hevia A, Milani C, Lo' pez P et al. Intestinal dysbiosis associated with systemic lupus erythematosus. MBio 2014;5:e01548- 01514.
+Huan T, Li L. Counting missing values in a metabolite-intensity data set for measuring the analytical performance of a metabolomics platform. Anal Chem 2015;87:1306-13.
+Huang HJ, Zhang AY, Cao HC et al. Metabolomic analyses of fae- ces reveals malabsorption in cirrhotic patients. Digest Liver  Dis 2013;45:677-82.
+
+Jacobs DM, Deltimple N, van Velzen E et al. (1)H NMR metabolite profiling of faeces as a tool to assess the impact of nutrition   on the human microbiome. NMR Biomed 2008;21:615-26.
+Jansson J, Willing B, Lucio M et al. Metabolomics reveals metabolic biomarkers of Crohn's disease. PLoS One 2009;4:e6386.
+Jime'nez-Giro' n A, Iba'n~ ez C, Cifuentes A et al. Faecal metabolomic fingerprint after moderate consumption of  red  wine  by healthy subjects. J Proteome Res 2015;14:897-905.
+Jovel J, Patterson J, Wang W et al. Characterization of the gut mi- crobiome using 16S or shotgun metagenomics. Front Microbiol 2016;7:459.
+Kakiyama G, Pandak WM, Gillevet PM et al. Modulation of the fecal bile acid profile by gut microbiota in cirrhosis. J Hepatol 2013;58:949-55.
+Kang D, Shi B, Erfe MC et al. Vitamin B12 modulates the tran- scriptome of the skin microbiota in acne pathogenesis. Sci Transl Med 2015;7:293ra103.
+Keller  A,  Horn  H,  Fo" rster  F  et  al.  Computational  integration  of genomic traits into 16S rDNA microbiota sequencing studies. Gene 2014;549:186-91.
+Kibe R, Kurihara S, Sakai Y et al. Upregulation of colonic luminal polyamines produced by intestinal microbiota delays senes- cence in mice. Sci Rep 2014;4:4548.
+Knecht H, Neulinger SC, Heinsen FA et al. Effects of b-lactam an- tibiotics and fluoroquinolones on human gut microbiota in relation to Clostridium difficile associated diarrhea. PLoS One 2014;9:e89417.
+Korman A, Oh A, Raskind A et al. Statistical methods in metabolomics. Methods Mol Biol 2012;856:381-413.
+Lamichhane AP, Liese AD, Urbina EM et al.Associations of di- etary intake patterns identified using reduced  rank  regres-  sion with markers of  arterial  stiffness  among  youth  with type 1 diabetes. Eur J Clin Nutr 2014;68:1327-33.
+Lamichhane S, Yde CC, Schmedes MS et al. Strategy for nuclear- magnetic-resonance-based metabolomics of human faeces. Anal Chem 2015;87:5930-7.
+Laval L, Martin R, Natividad JN et al. Lactobacillus rhamno- sus CNCM I-3690 and the commensal bacterium Faecalibac- terium prausnitzii A2-165 exhibit similar protective effects to induced barrier hyper-permeability in mice. Gut Microbes 2015;6:1-9.
+Le Gall G, Noor SO, Ridgway K et al. Metabolomics of fecal ex- tracts detects altered metabolic activity of gut microbiota in ulcerative colitis and irritable bowel syndrome. J Proteome Res 2011;10:4208-18.
+Lepage P, Leclerc MC, Joossens M et al. A metagenomic insight into our gut's microbiome. Gut 2013;62:146-58.
+Li J, Jia H, Cai X et al. An integrated catalog of reference genes in the human gut microbiome. Nat Biotechnol 2014;32:834-41.
+Lim YW, Schmieder R, Haynes M et al. Metagenomics and meta- transcriptomics: windows on CF-associated viral and micro- bial communities. J Cyst Fibros 2013;12:154-64.
+Logares R, Sunagawa S, Salazar G et al. Metagenomic 16S rDNA Il- lumina tags are a powerful alternative to amplicon sequenc-  ing to explore diversity and structure of microbial communi- ties. Environ Microbiol 2014;9:2659-71.
+Louis P, Hold GL, Flint HJ. The gut microbiota, bacterial metabolites and colorectal cancer. Nat Rev Microbiol 2014;12: 661-72.
+Lu K, Abo RP, Schlieper KA et al. Arsenic exposure perturbs the gut microbiome and its metabolic profile in mice: an inte- grated metagenomics and metabolomics analysis. Environ Health Persp 2014;122:284-91.
+
+
+
+Machiels  K,  Joossens  M,  Sabino  J  et  al.  A  decrease  of   the butyrate-producing species Roseburia hominis and Faecalibacterium prausnitzii defines dysbiosis in patients with ulcerative colitis. Gut 2014;63:1275-83.
+Marchesi JR, Holmes E, Khan F et al. Rapid and noninvasive metabonomic characterization of inflammatory bowel dis-  ease. J Proteome Res 2007;6:546-51.
+Marcobal A, Kashyap PC, Nelson TA et al. A metabolomic view of how the human gut microbiota impacts the host metabolome using humanized and gnotobiotic mice. ISME J 2013;7:1933-43.
+Martin  MD.  The  microbiota  of  the  vagina  and  its  influence  on women's health and disease.  Am  J  Med  Sci  2012;343: 2-9.
+Marti'nez X, Pozuelo M, Pascal V et al. MetaTrans: an open-source pipeline for metatranscriptomics. Sci Rep 2016;6:26447.
+Matsumoto M, Ebata T, Hirooka J et al. Antipruritic effects of the probiotic strain LKM512 in adults with atopic dermatitis. Ann Allerg Asthma Im 2014;113:209-16.
+Matsumoto M, Kibe R, Ooga T et al. Cerebral low-molecular metabolites influenced  by  intestinal  microbiota:  a  pilot study. Front Syst Neurosci 2013;7:9.
+Maurice CF, Haiser HJ, Turnbaugh PJ. Xenobiotics shape the physiology and gene expression of the active human gut mi- crobiome. Cell 2013;152:39-50.
+May A, Brandt BW, El-Kebir M et al. metaModules identifies   key functional subnetworks in microbiome-related disease. Bioinformatics 2016;32:1678-85.
+Michail S, Lin M, Frey MR et al. Altered gut microbial energy and metabolism in children with non-alcoholic fatty liver  dis-  ease. FEMS Microbiol Ecol 2015;91:1-9.
+Mischke M, Plo" sch T. The gut microbiota and their metabolites: potential implications for the host epigenome. Adv Exp Med Biol 2016;902:33-44.
+Moen AE, Tannaes TM, Vatn S et al. Simultaneous purification of DNA and RNA from microbiota in a single colonic mucosal biopsy. BMC Res Notes 2016;9:328.
+Mondot S, Lepage P. The human gut microbiome and its dys- functions through the meta-omics prism. Ann N Y Acad Sci 2016;1372:9-19.
+Monleo' n D, Morales JM, Barrasa A et al. Metabolite profiling of fe- cal water extracts from human colorectal cancer. NMR Biomed 2009;22:342-8.
+Moreno-Navarrete JM, Jove M, Ortega F et al. Metabolomics uncovers the role of adipose  tissue  PDXK  in adipogene- sis and systemic insulin sensitivity. Diabetologia 2016;59: 822-32.
+Morgan XC, Tickle TL, Sokol H et al. Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biol 2012;13:R79.
+Moya A, Ferrer M. Functional redundancy-induced stability of gut microbiota subjected to disturbance. Trends Microbiol 2016;24:402-13.
+Muir P, Li S, Lou S et al. The real cost of sequencing: scaling computation to keep pace with data generation. Genome Biol 2016;17:53.
+Mutlu EA, Keshavarzian A, Losurdo J et al. A compositional look at the human gastrointestinal microbiome and immune ac- tivation parameters in HIV infected subjects. PLoS Pathog 2014;10:e1003829.
+Ng JS, Ryan U, Trengove RD et al. Development of an untargeted metabolomics method for the analysis of human faecal sam- ples using Cryptosporidium-infected samples. Mol Biochem Parasit 2012;185:145-50.
+
+Ng KM, Ferreyra JA, Higginbottom SK et al. Microbiota-liberated host sugars facilitate post-antibiotic expansion of enteric pathogens. Nature 2013;502:96-9.
+Ni Y, Li J, Panagiotou G. A molecular-level landscape of diet-gut microbiome interactions: toward dietary interventions tar- geting bacterial genes. MBio 2015;6:e01263-15.
+Noecker C, McNally CP, Eng A et al. High-resolution characteri- zation of the human microbiome. Transl Res 2017;179:7-23.
+O'Callaghan A, van Sinderen D. Bifidobacteria and their role   as members of the human gut microbiota. Front Microbiol 2016;7:925.
+Ordiz MI, May TD, Mihindukulasuriya K et al. The effect of dietary resistant starch type 2 on the microbiota  and  markers  of gut inflammation in rural Malawi children. Microbiome 2015; 3:37.
+Ou J, Carbonero F, Zoetendal EG et al. Diet, microbiota, and mi- crobial metabolites in colon cancer risk in rural Africans and African Americans. Am J Clin Nutr 2013;98:111-20.
+Papathanasopoulos A, Camilleri M. Dietary fiber supplements: effects in obesity and metabolic syndrome and  relation-  ship to gastrointestinal functions. Gastroenterology 2010;138: 65-72.
+Peng S, Zhang J, Liu L et al. Newborn meconium and uri-    nary metabolome response to maternal gestational diabetes mellitus: a preliminary case-control study. J Proteome Res 2015;14:1799-809.
+Pe'rez-Cobas AE, Artacho A, Knecht H et al. Differential effects of antibiotic therapy on the structure and function of human  gut microbiota. PLoS One 2013a;8:e80201.
+Pe'rez-Cobas AE, Artacho A, Ott SJ et al. Structural and functional changes in the gut microbiota associated to Clostridium diffi- cile infection. Front Microbiol 2014;5:335.
+Pe'rez-Cobas  AE,  Gosalbes  MJ,  Friedrichs  A  et  al.  Gut  micro- biota disturbance during antibiotic therapy: a multi-omic ap- proach. Gut 2013b;62:1591-601.
+Pe'rez-Losada M, Castro-Nallar E, Bendall ML et al. Dual transcrip- tomic profiling of host and microbiota during health and dis- ease in pediatric asthma. PLoS One 2015;10:e0131819.
+Peris-Bondia F, Latorre A, Artacho A et al. The active human     gut microbiota differs from the total microbiota. PLoS One 2011;6:e22448.
+Phua LC, Koh PK, Cheah PY et al. Global gas chromatography/time-of-flight mass spectrometry (GC/TOFMS)-based metabonomic profiling of lyophilized human faeces. J Chromatogr B 2013;937:103-13.
+Poesen R, Windey K, Neven E et al. The influence of CKD on colonic microbial metabolism. J Am Soc Nephrol 2016;27: 1389-99.
+Ponnusamy K, Choi JN, Kim J et al. Microbial community and metabolomic comparison of irritable bowel syndrome  fae-  ces. J Med Microbiol 2011;60:817-27.
+Poroyko V, Morowitz M, Bell T et al. Diet creates metabolic niches in the "immature gut" that shape  microbial  communities.  Nutr Hosp 2011;26:1283-95.
+Potgieter M, Bester J, Kell DB et al. The dormant blood micro- biome in chronic, inflammatory diseases. FEMS Microbiol Rev 2015;39:567-91.
+Quince C, Ijaz UZ, Loman N et al. Extensive modulation of the fecal metagenome in children with  Crohn's  disease  dur-  ing exclusive enteral nutrition. Am J Gastroenterol 2015;110: 1718-29.
+Reck M, Tomasch  J, Deng ZJ et al. Stool metatranscriptomics:     A technical guideline for mRNA stabilisation and isolation. BMC Genomics 2015;16:494.
+
+
+
+Rehman A, Rausch P, Wang J et al. Geographical patterns of the standing and active human gut microbiome  in  health  and  IBD. Gut 2016;65:238-48.
+Roager HM, Sulek K, Skov K et al. Lactobacillus acidophilus NCFM affects vitamin  E  acetate  metabolism  and  intestinal  bile  acid signature in monocolonized mice. Gut Microbes 2014;5: 296-303.
+Rodrigues KT, Mekahli D, Tavares M et al. Development and val- idation of a CE-MS method for the targeted assessment of amino acids in urine. Electrophoresis 2016;37:1039-47.
+Rojo D, Barbas C, Rupe'rez FJ. LC-MS metabolomics of polar com- pounds. Bioanalysis 2012;4:1235-43.
+Rojo D, Gosalbes MJ, Ferrari R et al. Clostridium difficile het- erogeneously  impacts   intestinal   community   architecture but drives stable metabolome responses. ISME J 2015a;9: 2206-20.
+Rojo D, Hevia A, Bargiela R et al. Ranking the impact of human health disorders on gut metabolism: Systemic lupus erythe- matosus and obesity as study cases. Sci Rep 2015b;5:8310.
+Rooks MG, Veiga P, Wardwell-Scott LH et al. Gut microbiome composition and function in  experimental  colitis  during active disease and treatment-induced remission. ISME J 2014;8:1403-17.
+Saha P, Yeoh BS, Singh R et al. Gut microbiota conversion of di- etary ellagic acid into bioactive phytoceutical urolithin a in- hibits heme peroxidases. PLoS One 2016;11:e0156811.
+Salek RM, Steinbeck C, Viant MR et al. The role of reporting standards for metabolite annotation and identification in metabolomic studies. Gigascience 2013;2:13.
+Sarrabayrouse G, Bossard C, Chauvin JM et al. CD4CD8aa lym- phocytes, a novel human regulatory T cell subset induced by colonic bacteria and deficient in patients with inflammatory bowel disease. PLoS Biol 2014;12:e1001833.
+Seekatz AM, Aas J, Gessert CE et al. Recovery of the gut mi- crobiome following fecal microbiota transplantation. MBio 2014;5:e00893-14.
+Sellitto M, Bai G, Serena G et al. Proof of concept of microbiome- metabolome analysis and delayed gluten exposure on celiac disease autoimmunity in genetically at-risk infants. Plos One 2012;7:e33387.
+Sender R, Fuchs S, Milo R. Revised estimates for the num-    ber of human and bacteria cells in the body. PLoS Biol 2016;14:e1002533.
+Serrano-Villar S, Rojo D, Marti'nez-Marti'nez M et al. Gut bacteria metabolism impacts immune recovery in HIV-infected indi- viduals. EBioMedicine 2016a;8:203-16.
+Serrano-Villar S, Rojo D, Marti'nez-Marti'nez M et al. HIV in- fection results in metabolic alterations in the gut  micro- biota different from those induced by other diseases. Sci Rep 2016b;6:26192.
+Sheflin AM, Borresen EC, Wdowik MJ et al. Pilot dietary in- tervention with heat-stabilized rice bran modulates stool microbiota and metabolites in healthy adults. Nutrients 2015;7:1282-300.
+Shen A. A Gut odyssey: The impact of the microbiota on Clostrid- ium difficile spore formation and germination. PLoS Pathog 2015;11:e1005157.
+Shi X, Wei X, Yin X et al. Hepatic and fecal metabolomic anal- ysis of the effects of Lactobacillus rhamnosus GG on alco- holic fatty liver disease in mice. J Proteome Res 2015;14: 1174-82.
+Shin NR, Whon TW, Bae JW. Proteobacteria: microbial signa-  ture of dysbiosis in gut microbiota. Trends Biotechnol 2015;33: 496-503.
+
+Sinha R, Ahn J, Sampson JN et al. Fecal microbiota, fecal metabolome, and colorectal cancer interrelations. PLoS One 2016;11:e0152126.
+Smirnov KS, Maier TV, Walker A et al. Challenges of metabolomics  in  human  gut  microbiota  research.  Int   J  Med Microbiol 2016;306:266-79.
+Sokol H, Pigneur B, Watterlot L et al. Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium  identified  by gut microbiota analysis of Crohn disease patients. P Natl Acad Sci USA 2008;105:16731-6.
+Steuer R, Morgenthal K, Weckwerth  W et al. A gentle guide to  the analysis of metabolomic data. Methods Mol Biol 2007;358: 105-26.
+Su X, Wang N, Chen D et al. Dansylation isotope labeling liquid chromatography mass spectrometry for parallel profiling of human urinary and fecal submetabolomes. Anal Chim Acta 2016;903:100-9.
+Subramanian S, Huq S, Yatsunenko T et al. Persistent gut mi- crobiota immaturity in malnourished Bangladeshi children. Nature 2014;510:417-21.
+Takahashi S, Tomita J, Nishioka K et al. Development of a prokaryotic universal primer for simultaneous analysis of Bacteria and Archaea using next-generation sequencing. PLoS One 2014;8:e105592.
+Tanca A, Palomba A, Pisanu S et al. Enrichment or depletion? The impact of stool pretreatment on metaproteomic charac- terization of the human gut microbiota. Proteomics 2015;15: 3474-85.
+Tang WH, Hazen  SL.  The  contributory  role  of  gut  micro-  biota in cardiovascular disease. J Clin Invest 2014;124: 4204-11.
+Tap J, Furet JP, Bensaada M et al. Gut microbiota richness pro- motes its stability upon increased dietary fibre intake in  healthy adults. Environ Microbiol 2015;17:4954-64.
+Tuddenham S, Sears CL. The intestinal microbiome and health.
+Curr Opin Infect Dis 2015;28:464-70.
+Underwood MA, Gaerlan S, De Leoz ML et al. Human milk oligosaccharides in premature infants: absorption, excre- tion, and influence on the intestinal microbiota. Pediatr Res 2015;78:670-7.
+Urbaniak C, Cummins J, Brackstone M et al. Microbiota of human breast tissue. Appl Environ Microb 2014;80:3007-14.
+Ursell LK, Knight R. Xenobiotics and the human gut micro- biome: metatranscriptomics reveal the active players. Cell Metab 2013;17:317-8.
+Valles-Colomer M, Darzi Y,  Vieira-Silva  S  et  al.  Meta-omics  in inflammatory bowel disease research: applications, challenges, and guidelines. J  Crohns  Colitis  2016;10:  735-46.
+Vanden Bussche J, Marzorati M, Laukens D et al. Validated  high resolution mass spectrometry-based approach for metabolomic fingerprinting of the human gut phenotype. Anal Chem 2015;87:10927-34.
+Vandeputte D, Falony G, Vieira-Silva S et al. Stool consistency is strongly associated with gut microbiota richness and composition, enterotypes and bacterial growth rates. Gut 2016;65:57-62.
+Va'zquez-Castellanos  JF,  Serrano-Villar  S,  Latorre  A  et  al.  Al- tered metabolism of gut microbiota contributes to chronic immune activation in HIV-infected individuals. Mucosal Im- munol 2015;8:760-72.
+Vernocchi P, Del Chierico F, Putignani L. Gut microbiota profil- ing: metabolomics based approach to unreveal compounds affecting human health. Front Microbiol 2016;7:1144.
+
+
+
+Vinaixa M, Schymanski EL, Neumann  S  et  al.  Mass  spec- tral databases for LC/MS and GC/MS-based metabolomics: state of the field and future prospects. Trends Analyt Chem 2015;78:23-35.
+Vogtmann E, Hua X, Zeller G et al. Colorectal cancer and the human gut microbiome: reproducibility with whole-genome shotgun sequencing. PLoS One 2016;11:e0155362.
+Vujkovic-Cvijin I, Dunham RM, Iwai S et al. Dysbiosis of the gut microbiota is associated with HIV disease progression and tryptophan catabolism. Sci Transl Med 2013;5:193ra191.
+Wang GP. Defining functional signatures of dysbiosis in peri- odontitis progression. Genome Med 2015;7:40.
+Wang X, Wang J, Rao B et al. Differences between colorectal cancer patients and healthy people in fecal microbiota and metabolites. Zhonghua Wei Chang Wai Ke Za Zhi 2015;8:e70803. Wei X, Song M, Yin X et al. Effects of dietary different doses of copper and high fructose feeding on rat fecal metabolome. J
+Proteome Res 2015;14:4050-8.
+Weingarden AR, Chen C, Bobr A et al. Microbiota  transplan- tation restores normal fecal bile acid composition in  re-  current Clostridium difficile infection. Am J Physiol-Gastr L 2014;306:G310-9.
+Weir TL, Manter DK, Sheflin AM et al. Stool microbiome and metabolome differences between colorectal cancer patients and healthy adults. PLoS One 2013;8:e70803.
+Whiteside SA, Razvi H, Dave S et al. The microbiome of the uri- nary tract-a role beyond infection. Nat Rev Urol 2015;12:81-90. Windey K, Franc, ois I, Broekaert W et al. High dose of prebiotics reduces fecal water cytotoxicity in healthy subjects. Mol Nutr
+Food Res 2014;58:2206-18.
+Xia J, Broadhurst DI, Wilson M et al. Translational biomarker discovery in clinical metabolomics: an introductory tutorial. Metabolomics 2013;9:280-99.
+
+Xie G, Zhang S, Zheng X et al. Metabolomics approaches for char- acterizing metabolic interactions between host and its com- mensal microbes. Electrophoresis 2013;34:2787-98.
+Xu W, Chen D, Wang N et al. Development of high-performance chemical isotope labeling LC-MS for profiling the human fe- cal metabolome. Anal Chem 2015;87:829-36.
+Yatsunenko T, Rey FE, Manary MJ et al. Human gut micro-  biome viewed across age and geography. Nature 2012;486: 222-7.
+Zeller G, Tap J, Voigt  AY  et  al.  Potential  of  fecal  microbiota for early-stage detection of colorectal cancer. Mol Syst Biol 2014;10:766.
+Zheng H, Lorenzen JK, Astrup A et al. Metabolic effects of a 24-week energy-restricted intervention combined with low or high dairy intake in overweight women: an nmr-based metabolomics investigation. Nutrients 2016;8:108.
+Zheng H, Yde CC, Clausen MR et al. Metabolomics investigation to shed light on cheese as a possible piece in the French para- dox puzzle. J Agr Food Chem 2015;63:2830-9.
+Zheng X, Qiu Y, Zhong W et al. A targeted metabolomic protocol for short-chain fatty acids and branched-chain amino acids. Metabolomics 2013;9:818-27.
+Zhernakova A, Kurilshikov A, Bonder MJ et al. Population-based metagenomics analysis reveals markers for gut microbiome composition and diversity. Science 2016;352:565-9.
+Zhu A, Sunagawa S, Mende DR et al. Inter-individual differences in the gene content of human gut bacterial species. Genome Biol 2015;16:82.
+Zhu  Y,  Cong  W,  Shen  L  et  al.  Fecal  metabonomic  study     of a  polysaccharide,  MDG-1  from  Ophiopogon  japonicus  on diabetic mice  based  on  gas  chromatography/time-of- flight mass spectrometry (GC TOF/MS). Mol Biosyst 2014;10: 304-12.

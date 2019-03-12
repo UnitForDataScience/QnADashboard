@@ -1,0 +1,276 @@
+
+
+
+
+
+
+From endosymbiosis to holobionts: Evaluating a conceptual legacy
+Maureen A. O'Malley
+University of Bordeaux, France
+
+
+a r t i c  l e	i  n f o	a b s t r a c t
+
+
+Article history:
+Received 19 November 2016
+Revised 3 March 2017
+Accepted 9 March 2017
+Available online 14 March 2017
+
+Keywords: Margulis Holism Homeostasis Microbiome Microbiota
+
+In her influential 1967 paper, Lynn Margulis synthesized a range of data to support the idea of endosym- biosis. Building on the success of this work, she applied the same methodology to promote the role of symbiosis more generally in  evolution.  As  part  of  this  broader  project,  she  coined  the  term  'holobiont' to refer to a unified entity of symbiont and host. This concept is now applied with great gusto  in  mi- crobiome research, and often implies not just a physiological unit but also various senses of an evolving system. My analysis will track how Margulis came to propose the term, its current use in microbiome research, and how those applications link back to Margulis. I then evaluate what contemporary use says about Margulis's legacy for microbiome research.
+(c) 2017 Elsevier Ltd. All rights reserved.
+
+
+
+
+Introduction
+
+There is more to the legacy of Lynn Margulis's 1967 'On the Ori- gin of Mitosing Cells' than the ongoing accumulation of evidence  for endosymbiosis. Margulis used her success with this paper to issue methodological directives and challenge evolutionary theory. Methodologically she argued that biological systems are necessar- ily combinations of organisms, and thus need to be researched as such. This directive was of particular relevance for investigating evolutionary diversification points, which she  believed  were  due to previously separate organisms forming permanent fusions. Only the bare outlines of this position were apparent in 1967, but it did not take Margulis long to flesh it out. As she did, over the next two decades in particular, she created a platform on which contempo- rary research finds some footing. Although symbiosis research once focused on specific microbe-host relationships, it has now become common to conduct molecular analyses of whole microbial com- munities and their relationships with hosts. In some of this recent research, there are affinities with Margulis's ideas. By casting some philosophical light on her work, I show how its  problems  have been inherited by contemporary researchers.
+My plan is to trace in a critical and normative way the devel- opment of Margulis's basic claims as they grew from a somewhat open view in 1967 into a more dogmatic evolutionary and method- ological stance. In 1990, at the peak of her elaborations of this stance, she coined the term 'holobiont' to capture the intimacy of microbe-host relationships (). I will show how the general conceptual machinery in which this term was embedded
+
+
+E-mail address: 
+
+
+has proved to be very attractive for a subgroup of microbiome re- searchers, especially from the mid-2000s onwards.1 Contemporary holobiont researchers study not just microbe-host pairs, but entire communities within various animal hosts (with occasional notice   of plants). Such communities may involve thousands of species do- ing a great variety of different activities. Just as Margulis did, these researchers work with a loose conceptual  version  of  evolution-  ary theory instead of one driven by population genetics. Follow-   ing Margulis, they view multispecies 'systems' as their unit of con- ceptualization rather than single lineages. This occurs even though microbiome research relies heavily on DNA snapshots of such com- munities, and Margulis herself greatly doubted molecule-driven analysis. Disputes are raging over contemporary holobiont think- ing about such communities, especially when evolutionary claims about these putative systems are asserted. I will outline the vari-  ety of problems associated with such claims, and then assess the potential future of Margulis's legacy for microbiome approaches to microbial communities and their evolution.
+
+Margulis's basic ideas and how they developed
+
+In 1967 as Margulis (Sagan) outlined how diverse evidence pointed to the endosymbiotic origins of mitochondria and chloro- plasts, she stated a general consequence: 'If this theory [endosym- biosis] is correct all eukaryotic cells must be seen as multi- genomed systems' (). In the same paper she
+
+
+1 In much of the following discussion, I focus on the smaller group of microbiome researchers who use the concept of holobiont (and hologenome). I am not including all microbiome research and researchers in this analysis, except in places where I make this clear (i.e., in the discussion of homeostasis, ).
+
+
+
+0022-5193/(c) 2017 Elsevier Ltd. All rights reserved.
+
+M.A. O'Malley / Journal of Theoretical Biology 434  (2017) 34-41	35
+
+
+discussed 'recent advances in molecular biology' (p. 249) - in- cluding knowledge about molecular homologies, mutational steps and DNA base ratios - as crucial to understanding phylogenetic relationships between microorganisms, including those  ancestral to mitochondria and chloroplasts. Very soon afterwards, however, she began to resist molecular biology's reach into biology on the grounds of the inability of molecular analysis to capture genuinely organismal biology. Molecular phylogenies, which ultimately pro- vided the confirmation of her revised account of endosymbiosis (), were dismissed as 'intrinsically limited' (). According to Margulis, molecular phyloge- nies were neither 'total' histories of organisms nor able to encom- pass the reticulation that represented endosymbiosis (the integra- tion of one cell inside another). As she began to advocate strong evolutionary views that focused on fusions of organisms, Margulis insisted that Darwin's view - especially as formulated by the mod- ern synthesis - was too limited. Gradualistic evolution had been   expanded her criticisms over the next few years.
+Margulis believed the most basic problem for Darwin and the neo-Darwinians was the lack of a compelling account of the origins of new lineages and biological innovations.
+'Although the title of Darwin's great book (1859) promised a so- lution to the problem of the origins of biological diversity ... his work far better explained the  maintenance  of  species  by  natu-  ral selection than their first appearance' (p. 121, emphasis added).
+
+Her view of speciation did not accept that the mechanisms pro- posed by the modern synthesis could account for the origin of di- versity.
+'I assert that the gradual accumulation of random mutations      is insufficient to explain speciation. Rather, speciation occurs mainly by symbiogenesis, of course supplemented by DNA mu- tations' ().
+
+She argued that symbiosis-driven speciation was sudden and brought about large structural and functional changes. It could only be caused, she thought, 'by the acquisition of hereditary genomes through protracted physically contiguous associations, primarily with microorganisms' ().
+Symbiogenesis thus explained what appeared to Margulis and a few other evolutionary thinkers as a punctuated record of evolu- tionary change. Importantly, she argued that symbiogenetic expla- nations need not be based on theoretical claims that foreground cooperation rather than conflict (an emphasis in previous anti- Darwinism). As she clarified her views later in her career, after some early flirtation with anti-competition thinking, she said:
+'Symbiosis has nothing to do with "co-operation" or "mutual benefit" ... Symbiosis simply  refers  to  the  long-term  physi-  cal association between members of different species ... Sym- biogenesis is the evolutionary consequence of symbiosis. Be- cause of long-term symbiosis in some cases new forms appear' ().
+
+But crucially for Margulis's account of speciation and the scope of her evolutionary concepts, she viewed the sudden symbio- genetic creation of species as exclusively a property of eukaryotic evolution, not prokaryotic:
+'The phenomenon of speciation, even though the words "species" and "speciation" are used as if they meant the same phenomenon, is a process only of eukaryotes. The jumps, the saltations, from prokaryotic components to composite "individ- uals" is a property of all eukaryotes. All have evolved sym-
+
+
+biogenetically. Symbiogenesis is fundamental to all eukaryotic taxa from species to phyla ... Gradualism, the gradual accumu- lation of random mutations, ironically is more characteristic of prokaryotes. No one has ever shown, in the laboratory, field or fossil record, the veracity of that the Neo-Darwinist mantra [for eukaryotes]. That "gradual accumulation of random mutations" results in a passage from one to another, new and different, [eu- 
+According to Margulis, prokaryotes - because of lateral gene transfer - either did not form species or formed only one single 
+ macroevolution, only microevolution.2
+This non-gradual and major contribution to eukaryote macroevolution was, therefore, where Margulis saw the main challenge to the modern synthesis, and the reason why symbiosis   is so conceptually important (despite many arguments that the modern synthesis can accommodate it - see ). Her differences with the modern synthesis fall into both process and pattern  aspects of evolution: the heritable fusion of genomes (as   in exemplar cases of endosymbiosis) is the process that produces the non-gradual origin of eukaryotic species and thus new phylo- genetic patterns. Symbiogenesis, she argued, has the potential to bring about 'the appearance of new tissues, new organs, physiolo- gies or other new features that result from protracted symbiotic association' (). All of these innovations, according to Margulis, could produce new eukaryotic species and thus explain their origins (unlike Darwinian and neo-Darwinian evolutionary theory). She elaborated on these views with increas- ing stridency as each decade went by after her original JTB paper.
+Not long before the end of her life she predicted that
+'The widely touted but undocumented explanation of the ori-  gin of evolutionary novelty by "gradual accumulation of random mutations" will be considered an erroneous early 20th century hunch proffered primarily by Englishmen, North Americans and other anglophones. They (Neodarwinist "explanations") will be 
+Her death has not brought an end to such claims about the modern synthesis. A broad form of this reasoning has been taken up and given new life by contemporary holobiont researchers.
+
+Margulis and microbiome research
+
+There are three main connections made by some of today's microbiome researchers - specifically, the subgroup making holo- biont claims - to Margulis's general ideas. These links begin with her views about holobionts and their evolution, which lead to her methodological preferences (which I will call simply holism), and culminate in her organizational account of biological systems as homeostatic and autopoietic individuals.
+
+Holobionts
+
+In 1990, Margulis coined the term 'holobiont' as she argued for analogies between meiotic sex and symbiosis. In her view, both processes require partner recognition, mergers, the creation, inte- gration and maintenance of new individuals, and ultimately, their dissociation (). She thought meiotic sex
+
+
+2 This is an extraordinarily controversial claim, but not  one  I will address further  in this paper.
+
+36	M.A. O'Malley / Journal of Theoretical Biology 434 (2017) 34-41
+
+
+might be 'more ritualized' (i.e., following a specified series of path- ways), but that this difference did not detract from the similarity   of the two processes. Symbiosis, when it became symbiogenesis, was at least as responsible as sexual recombination for 'morpho- genetic innovation and speciation' (). How- ever, in drawing these analogies, Margulis did not develop at all what sorts of biological partnerships qualified as holobionts. Her definition of holobionts in 1991 was similarly unelaborated: 'holo- 
+ hereditary symbionts' (), by which she meant primarily the mergers that had produced the organelles of mi- tochondrion and chloroplast (plus the eukaryote flagellum3). She then extended this term to other obligatory symbioses as her work encompassed more prokaryotic examples. Recall, however, that her unorthodox views about evolution targeted eukaryotes only, and prokaryotes featured only where they contributed to eukaryote evolution.
+Margulis's neologism of holobiont has taken on a new life in today's microbiome research. Microbiomes are the molecular com- ponents (particularly DNA) of microbiota, which itself is shorthand for the entire microbial community in a given environmental sam- ple. Sequencing technology has revealed the molecular makeup of such communities, and the ubiquity, diversity and - in some cases
+- functional importance of microbes in a wide range of habitats. Initially, in the early 2000s, microbiome research achieved its suc- cesses in ocean and soil  microbial  ecology,  but  more  recently  ma- jor advances have been made by focusing on microbiota in humans  and other animal hosts. Although many researchers in this rapidly expanding area are content to use the words 'microbiota' and 'mi- crobiome' very casually, a small subset  of  scientists  are  promoting the conceptually loaded terminology of holobionts (host and mi- crobiota) and hologenomes (host genome and microbiome).4 This terminology both draws on and extends Margulis's original use,  in ways that complicate her legacy.
+Initially, any evolutionary biologist in the 1990s who talked about holobionts  also  used  the  term  in  the  more  restricted sense Margulis intended, of specified evolutionarily persistent part- nerships - particularly vertically inherited endosymbioses (e.g., ). In the early 2000s, however, a group of coral re- searchers found themselves without a word that would cover the variety of microorganisms that came together with the animal host to make corals. explained how microbial com- munities (prokaryotic and eukaryotic) formed 'species-specific as- sociations' (p. 6) in the formation of coral holobionts. But notably, this revival of the word by Rohwer and other coral researchers did not argue that multispecies entities were evolutionary units of se- lection.
+For many of the rest of today's holobiont advocates, however, there is a  rapid  conceptual  slide  from  microbes  and  host  be-  ing physiologically connected to microbes and  host  being  a sin- gle evolving unit on which  evolution  can  act.  As  this  conflation of physiological and evolutionary notions of holobiont was further elaborated in the 2000s, it became entangled in many of Mar- gulis's evolutionary commitments, and indeed, strengthened them. Lamarckian claims came to the foreground, especially when the cognate term 'hologenome' is used (e.g., ).
+
+3 The eukaryote flagellum is not related to bacterial or archaeal flagella. For this reason Margulis insisted it should have a different name. She endorsed a term orig- inally proposed by Russian biologists, 'undulipodium', but it was not taken up pop- ularly (see ). Her account of the evolution of the flagellum has not been broadly accepted and nor is it likely to be, as Margulis herself noted  as early     as 1975.
+4 As is occurring in standard microbiome research, where microbiome is often
+used to mean microbiota, so too is 'hologenome' sometimes used for the commu-   nity organism (holobiont).
+
+Any such claims are not, however, closely connected to historical Lamarckian ideas.5 Holobiont researchers simply mean that char- acteristics acquired from environmental sources (e.g., microbes) might somehow be inherited by the host. This may even be ver- tically if bacteria-eukaryote gene transfers or endosymbioses hap- 
+Much more significant for evolutionary theory than  any  ca-  sual mention of Lamarck is the contemporary holobiont position that the unit of selection is the host plus all its microbial sym- bionts. Although Margulis insisted there is no single-genome eu- karyotic species, she focused only on specified relationships with long entrenched evolutionary histories (e.g., the mitochondria and chloroplasts in eukaryotic cells; exosymbionts forming Mixotricha; lichens; 'cyclical' associations of organisms such as squid and their luminescing Vibrio fischeri; Wolbachia-arthropod symbioses). Only some of these had undergone lineage fusion. Significantly, she did not extend her evolutionary thoughts on holobionts to all members of, for example, an animal gut community, even though micro- biome analyses and their implications were well developed before her death in 2011. However,  just as for contemporary versions of  the holobiont concept, vertical inheritance of symbionts was appar- ently unnecessary to some of Margulis's holobionts (e.g., her 'cycli- cal symbioses'). I will return below to the heredity issues where  they arise in microbiome research (), after looking first  at two other aspects of Margulis's work and their connections to holobionts.
+
+Holism
+
+Although Margulis seemed quite open to molecular sequence data in 1967,  her attitude became narrower and more hostile as   her evolutionary ideas crystallized. This may partly be  explained  by the fact that many molecular findings did not support her more extensive ideas about endosymbiotic origins (e.g., of the eukaryotic flagella/cilium, which she thought led to the generation of the nu- cleus). She began to emphasize that her own research and micro- biology in general should be understood as a branch of microscopy, which 'had no equal' methodologically (, p. 267).
+'I have tried to resist the confusing pressures to fragment and technologize from which we all suffer in today's information glut. [My] work itself plunges ahead against the disdain, dis- missal and ignorance of specialists and rejection by granting agencies ... [I write for those]  who  love  the  field  more  than the laboratory and refuse to apologize for their direct sensory interest in the natural world  and its history' (,  p. 10).
+In other words, according to Margulis, proper classification and evolutionary biology could only be done on the basis of 'whole- organism biology' (, p. 1074; see also ). This is a particular kind of holism, often known as 'organicism',      in which organism-level descriptions and explanations are seen as
+
+
+5 Margulis's  one  mention  of  'Lamarckian'  views  of  evolution  in  her  1967  pa-  per appears to be agnostic (, p. 269), but she became more pro- Lamarckian as she elaborated her evolutionary framework. She viewed symbiogene- sis as demonstrating both Darwinian and neo-Lamarckian processes (e.g., Margulis, 1990b, p. 677; however, see  for an exclusively Darwinian account of endosymbiotic evolution). This was because mitochondria, plastids, and 'other or- ganelles' were acquired (during the original endosymbiotic event) and subsequently inherited. But as Ernst Mayr observed, in his foreword to Margulis and Sagan's 'Ac- quiring Genomes', endosymbiosis was not properly Lamarckian because it was about 'the inheritance of incorporated parts of genomes' rather than Lamarck's focus on 'inheritance of modified phenotypes' (). Because loose Lamarckian claims were not a major conceptual element of Margulis's critique of neo-Darwinian evolution, I have not focused on them, nor on their reappearance in contemporary holobiont research.
+
+M.A. O'Malley / Journal of Theoretical Biology 434  (2017) 34-41	37
+
+
+having a special mandate. Disciplinarily, Margulis studied protists (eukaryotic microbes) before she broadened her work to discuss prokaryotic microorganisms that had relationships with eukaryotic hosts. Protists, obviously, have more morphology than most Bacte- ria and Archaea, plus many observable behaviours, and it used not to be uncommon for protistologists to resist molecular methods or at least to see them as merely supplementary to the cell biological research allowed by microscopy.
+No single gene, Margulis argued with increasing emphasis (e.g., ), could represent the history of organisms. This was her challenge to Carl Woese's success with ribosomal gene phylogenies in reconstructing the tree of life. Larger amounts of se- quence might be better, she thought, but would still fail to capture evolutionary history adequately. Molecular methods must therefore be put in their rightful place because they 'can only provide crucial independent methods to confirm or disprove evolutionary scenar- ios' (, p. 1075). In short, 'the techniques of molecu- lar biology and sequence analysis by themselves are inadequate to the creation of testable evolutionary hypotheses' (,
+p. 173), although they may be used once such  hypotheses  have been developed with reference to 'organismic' and fossil data. In fact, 'definitive proof' of such an organism-based model could be provided by genomic comparison once the organism-level data had been evaluated (, p. 13084). This is roughly what she thought had occurred to the endosymbiosis hypothesis after she revived it in 1967.
+Evolutionary scenarios should thus from Margulis's perspective  lous study of microbes in nature, their developmental life histories, and their morphological, cell biological, and ecological relation- ships' (, p. 13084; ). Although many contemporary holobiont researchers use molecular methods and bodies of microbiome data much more liberally, in many re- spects their dependence on molecular insights can be aligned with organicism. How? Because holobiont molecular investigations are carried out with the principle aim of learning more about host-  level processes (e.g., development, disease) rather than molecular mechanisms for their own sake.
+Margulis's more extreme doubts about molecular methods did not modulate even as molecular phylogeny revealed increasingly greater amounts of detail about evolutionary history and extant biodiversity (see ). She justified her hardline stance at an even higher theoretical level. In the 1980s,  she turned to autopoiesis as the 'defining principle of life' (1990a,
+p. 869). Autopoiesis is a concept developed to describe living sys-  and other biological entities.6 Following this autopoietic view, Mar- gulis argued that because molecules themselves were not autopoi- etic, they could not properly represent dynamic self-regulating sys- tems such as cells (e.g., ). Although cells and mul- ticellular organisms were also autopoietic systems, they had ul- timately to be viewed as 'components of  the  autopoietic  plane- tary system', in which all 'plants, animals and microbes are con- nected, however circuitously, to all others spatially and by common descent' (, p. 869). Some components of autopoi- etic systems would fail to survive despite  being  self-producing,  and neo-Darwinian natural selection could explain this. What neo- Darwinism could not explain is the persistence of the whole sys- tem or innovations within it (, p. 870). For this au- topoiesis and symbiogenesis had to be combined, she believed.
+
+
+
+
+
+Homeostasis
+
+'Homeostasis' is a common claim made in contemporary mi- crobiome literature, but it was not discussed even implicitly when Margulis first described holobionts. However, homeostasis had al- ready appeared very prominently in work where she - with James Lovelock - developed an account of Gaia in the late 1970s. Love- lock, an engineer with cybernetic affinities, is  probably  the  per- son who introduced Margulis to the concept of self-regulatory sys- tems. Margulis's and Lovelock's basic definition of homeostasis is 'The maintenance of relatively constant conditions by active con- trol' (). A good biological example, they sug- gested, is human bodily regulation of temperature. Gaia, the com- plex 'totality' of 'atmosphere, biosphere, oceans and soils', is best understood as 'a feedback or cybernetic system which seeks an op- 
+To explain the Earth's current geochemical optimization, Love- lock and Margulis proposed that 'early after life began it acquired control of the planetary environment and that this homeostasis by  ally producing] the conditions favouring the continued existence of life' (, p. 2). For Margulis, this was an- other nail in the neo-Darwinian coffin. Often, the Gaia formulation of this homeostatic process sounds very purposeful:
+'a first task of life was to secure the environment against ad- verse physical and chemical change. Such security could only come from the active process of homeostasis in which un- favourable tendencies could be sensed and counter measures 
+Margulis and Lovelock adduced their evidence for Gaia from examples such as life persisting despite global glaciation. Tem- perature, despite small ups and downs, 'has followed the straight and narrow path optimal for surface life', meaning that 'life must   marily responsible for such regulatory effects, but all life par- ticipates in such maintenance. Major evolutionary perturbations, such as the Great Oxidation Event, they explained as due to the greater fitness of aerobic organisms. No 'planetary engineer' was involved, however, but 'neoDarwinian mechanisms of natural se- lection', which produced 'larger scale modulatory mechanisms' (, p. 485). These mechanisms, in their view, selected organisms able to continue geochemical cycles ap- propriate for life even after large rises in atmospheric and eventu- ally oceanic oxygen.
+Reactions to this teleological account of biogeochemistry are predictably critical and take  two  main  angles.  The  idea  of  Gaia as a self-regulating, self-maintaining and purposeful entity is very problematic, especially if 'lucky accidents' or byproduct explana-   dinated agent. A second line of criticism focused on the fact Gaia could not be  a  target of  natural  selection  because  it is  not part      tion. She also later tried to clarify that Gaia is 'more homeorrhetic than homeostatic, in that the internally organized system regu- lates around moving, rather than fixed-from-the-outside, setpoints'
+
+38	M.A. O'Malley / Journal of Theoretical Biology 434 (2017) 34-41
+
+
+(, p. 866). Homeorhesis means a system that is in   a steady 'flow' as opposed to a steady state. The latter  is usually   the definition of homeostasis; the former has often been argued to be more appropriate for organisms. Geneticist Conrad Waddington coined the word homeorhesis, which he used for developmental processes continuing to follow a trajectory despite the occurrence  of many perturbations (see ).
+As noted above (), Margulis eventually preferred the idea of autopoiesis to homeostasis for explaining how 'this planet is alive with a connected megametabolism which leads to temperature and chemical modulation systems' (). Symbio- sis could also be described autopoietically, as the merger of 'het- erogenomous autopoietic entities' (, p. 872). By this she simply meant that cells with genomes from different ancestries (e.g., the mitochondria in eukaryotic cells) had merged with other such cells. More broadly, Margulis marshalled autopoiesis in her ongoing crusade to refute 'mechanical, physics-centred' views  of life and the world (even though the original autopoiesis accounts emphasized organisms as 'living machines'). She included in this camp of methodological mistakes neo-Darwinism, but might just  as well have put cybernetic views there too despite their contribu- tion to the original autopoiesis concept. Neo-Darwinists, according to Margulis, by seeing 'organisms as independent entities evolving by accumulation of chance mutations, must hate and resist an au- topoietic, gaian worldview' () Some of this resistance to conventional evolutionary views has been given new life in a broader body of recent symbiosis research.
+
+Debates
+
+The debates about holobionts today can be understood in light of the three main Margulis themes I have just outlined. These are about the nature of the entities revealed by microbiome research and whether 'holobiont' claims can be justified; the methodolog- ical and conceptual implications of seeing microbe-host commu- nities as unified systems (holism); and whether postulating the states of such systems (homeostatic or non-homeostatic) is ex- planatorily useful.
+
+Holobiont issues
+
+'Holobiont' these days has become a contested term, particu- larly when interpreted as an evolutionarily unit of a theoretically important sort. Very briefly, these criticisms focus on whether the assemblages of entities conceived as holobionts can  form  cohe- sive units on which selection can act. Whether this is  possible  turns on how these entities reproduce, because  heredity  is  cen- tral to Darwinian formulations of evolutionary units of selection. Even previously pro-holobiont concept users, the coral group men- tioned earlier, have not been able to find evidence of shared hered- ity despite detecting some stable associations ().7 Some studies do find co-adaptive dynamics between host and var- ious microbes that result in the phylogenetic mapping of varying  investigations, however, find no phylogenetic congruence between host and microbiota, thus suggesting that appearances of such pat- terns is because hosts (or environments) select genes and their   other times, the genes underpinning such functions may be scat- tered across many phylogenies (see ).
+
+But even if there is some co-adaptation and co-speciation of organismal lineages, heritability of the microbiota remains low. Twin studies in humans that analyse microbiomes as quantitative traits of hosts usually find only a limited number of heritable taxa (), as do breeding studies of plants and their root microbiota (). Heritability may thus ex- plain some of the congruent phylogenetic patterns. However, even when successful in finding some heritable taxa, such studies sim- ply mean that host genetics are playing a role in determining the presence of these heritable taxa, and not that there is a common inheritance mechanism governing the reproduction of host and microbes.
+Strong holobiont advocates, however, suggest different mecha- nisms of inheritance are at work for the whole holobiont. Those postulated include 'maternal transmission', meaning standard ac- quisition from the maternal environment, and more general 'coin- heritance', meaning 'stable transmission from the environment' (). Some of these researchers suggest that genes from microbes will ultimately transfer into host genomes  and  be  inherited  verti-    lutionary occurrence. The acquisitional nature of such 'inheritance' is why Lamarckian evolution is often loosely postulated in these claims.
+Whatever the mechanism proposed, the simple fact of persis- tent symbiotic association is what indicates to holobiont propo- nents that there is an evolving unit consisting  of  a  unified host  ary unit than is standard in evolutionary theory, and this is why there is controversy. Group selection in the strong holobiont view becomes community (mixed-species) selection (,
+p. 331; ) - a far cry from the populational (single- species) groups and inheritance-related levels on which evolution- ary theory is normally based. Inclusive fitness in holobionts is nec- essarily redefined (but never calculated) as being not about relat- edness but proximity ().
+Margulis herself recognized that some of her holobionts, as well as larger autopoietic systems such as Gaia, could not evolve in a Darwinian fashion because of not reproducing in the required way (e.g., ). However, this distinction has largely been lost in the general uptake of Margulis's ideas in today's holobiont- advocating research. In many other respects, however, these con- temporary views mirror her message about evolution. When holo- biont proponents proclaim 'for animals, as well as plants, there have never been individuals' (, p. 336), they de- liberately echo Margulis's dismissal of the possibility of a single eukaryotic organism (with one genome) being independent. No in- dependent individual is alive, she argued, because no countable or- ganism (the object of neo-Darwinian population genetics) has 'au- topoietic properties' (, p. 868). This problem lay at the crux of neo-Darwinism's supposed failure to explain eukaryotic evolution.8 Holobiont research has taken up this conceptual baton, but in the process has shifted the argument away from Margulis's own focus on 'conventional' or 'binary' symbioses of one host and one symbiont (e.g., ). Much bigger and far looser aggregations of organisms have become the target. With this widening of scope has come an even stronger need to evaluate the embedded conceptualizations and theoretical claims inherited from Margulis's use of the term holobiont.
+
+
+7 These authors attempt to reclaim a less conceptually loaded term of 'holobiont'	 	
+
+for ecological analysis by distinguishing their work from 'hologenome' accounts that require or assume heredity.
+
+8 Recall that Margulis meant this point only for eukaryotic and not prokaryotic evolution.
+
+M.A. O'Malley / Journal of Theoretical Biology 434  (2017) 34-41	39
+
+
+I have argued elsewhere () that the initial step in understanding microbiome and microbiota relationships is to assess the strength of the causal-functional in- teractions between specific microbes and the host, and between microbes themselves, before (perhaps) moving on to evolutionary claims. This tried-and-true approach to symbiosis research (also employed by Margulis) is required because first of all, it is not clear whether there is any physiological unity between all elements of  the host-microbe system. A whole gamut of relationships is occur- ring between host and members of the microbiota, and between different members of the microbiota. There may well be positive, adaptive, and selected relationships between host and specific mi- crobes (or more likely, functions that are critical to the mainte- nance of the relationship), but there will also be considerable vari- ability in community composition even in short timespans, plus many non-adaptive processes and relationships. Community dy- namics theorized by ecologists are able to explain the constitution and reconstitution of such communities, and even predict future states (e.g., ). Because of the variability of causal interactions in most microbial communities and their subsequent lack of unity - a unity that is necessarily assumed in holobiont thinking - the associated Margulisian notions of holism and home- ostasis become very troublesome.
+
+Holism issues
+
+The holism that is detectable in microbiome research is not generally of the methodological sort Margulis advocated. Most mi- crobiome researchers are deeply dependent on molecular tech- niques, and many holobiont claims are made largely on the basis   of molecular data. However, the strongest holobiont positions are held by animal-microbiota researchers, where the systems seem obvious and in certain respects, indivisible. This  indivisibility  is not touted so extremely for physiological functions, which are of- ten broken down mechanistically, but in relation to evolutionary unity. Microbiome research began as studies of whole communi- ties, simply because this is how the relevant sampling works. Re- searchers analyse the DNA or other molecules of microbial commu- nities in situ, be that lakes or intestines. When such samples come from, for example, the guts of animals, and those communities ap- pear to have  global  effects  on  host  physiology  (despite  the  fact it is well-accepted there must be specific molecular mechanisms), then it can be quite easy to slip into 'holistic' system-wide claims (; see also ). Once this perception of a system becomes evolutionary, implying the whole community of microbes plus the host is the unit of selection despite very lim-      evolutionary claims, however, when holobionts are being concep- tualized.
+
+Homeostasis issues
+
+Holobiont advocates plus many other microbiome researchers draw on the notion of homeostasis. The view of homeostasis Love- lock and Margulis propounded vis-a-vis Gaia  is  not  that  differ- ent from the broad homeostasis ideas floating around in the gen- eral microbiome literature (not just the holobiont-focused version of microbiota research). Microbiome homeostasis claims are even looser than the Gaia version. Mostly homeostasis is designated in   a roundabout way, by focusing on 'dysbiosis'. How does this work? When there is a physiological problem in the host, it  is  com-  monly asserted that 'there is dysbiosis' in the host  relationship  with its microbiota (e.g., ; ; ; ). Dysbiosis standardly means 'any sort of change or "imbalance" in community
+
+
+composition that is associated - possibly causally, but this need  not be demonstrated - with illness or some other undesirable state of the host' (my interpretation of the many relaxed claims articu- lated in the mainstream microbiome literature).9 Dysbiosis is then commonly contrasted with homeostasis, which is equated with the desired - even optimal - and putatively selected health or stability state (e.g., ; ; ).
+How much does a Margulis-like account of homeostasis res- onate in microbiota research? A surprising amount. Sometimes the word homeostasis is used so casually in contemporary  research that the relationship is not very close, and merely refers to sta-     ble or health-producing states. However, in many other discussions there are invocations of self-regulatory, self-perpetuating system- level processes (e.g., ; ). Mostly, this Margulisian view of homeostasis is invoked in human health mi- crobiome research and other animal microbiome work. It is sel- dom used for wider microbiome research about host-free micro- biota in, for example, swamps or oceans. It is not yet used a great deal for plant microbiome research, although that may change as more plant-microbe researchers jump aboard the holobiont train.
+How sound is the use of homeostasis in microbiome research? Generally, it is a piece of metaphorical shorthand for a broadly 'normal' state to which the host and community return. Usually, non-homeostasis - 'dysbiosis' - is recognized on the basis of host illness. From the illness state it is inferred that the associated mi- crobiome composition must be 'abnormal', in both physiological and evolutionary senses. The abnormal composition can be recog- nized by several non-equivalent measures (). There is almost never any direct quantitative calculation of what  tion and/or host effects. Cybernetic concepts and models are rarely if ever invoked in these discussions, even when self-regulation is mentioned. Clearly, the refined formalities of such  models are at     a considerable remove from the current state of microbiome re- search, which still works with very coarse discriminations of what  is going on with microbiota in hosts and elsewhere.
+I noted already how Margulis turned from homeostasis to au- topoiesis as a guiding concept. Does contemporary holobiont re- search follow Margulis's claims about autopoietic self-production? Only implicitly. Part of the reason animal microbiome researchers are so keen on the holobiont idea is probably because  they  see clear boundaries to their entities. Boundaries are essential to  claims about autopoiesis. Microorganisms that fall within these an- imal boundaries are therefore simply part and parcel of them func-  tems require a 'non-mechanistic' science has not been vindicated   in microbiome research more broadly, nor even in the narrower area of holobiont research. The latter area, while focused on mul- tiorganismal units (hosts and microbial communities) takes scant notice of Margulis's methodological advice. In fact, one of the rea- sons holobiont researchers gain any scientific traction is because    in addition to making conceptual claims, they also engage in stan- dard parts-based mechanistic research in light of broader micro-   go in connecting parts into mechanisms and giving accounts of the activity of those mechanisms, but that is a major objective of the field. Holobiont researchers are unlikely to refuse this agenda. At least at this methodological level, therefore, Margulis has had lim- ited influence.
+
+9 See , for the beginnings of a critique of such statements. Vastly more conceptual analysis needs to be done on microbiome-related uses of dysbiosis, but I must leave that aside for a future paper.
+
+40	M.A. O'Malley / Journal of Theoretical Biology 434 (2017) 34-41
+
+
+What can we conclude about Margulis's legacy?
+
+In general, microbiome literature uses 'holobiont' and 'home- ostasis' very loosely. Likewise, any claims about 'holism' are simply  such loose claims neither owe much to Margulis, or,  even if they   do have their intellectual ancestry there, that they are so casual  that none of the Margulis-related implications have any strength. However, this seems not to be the case when evolutionary argu- ments are being mounted. Assertions of the evolutionary unity of holobionts are directly influenced by Margulisian ideas, and have been acknowledged as doing so (e.g., ; ). Margulis's reluctance to understand and integrate population-genetic theory within her evolutionary work  is just as apparent in this evolutionary stream of holobiont work.
+But more generally, even when radical evolutionary claims are not asserted and may not even have been considered, there is still   a tendency to talk about holobionts as cohesive physiological units. The same tendency can occur in wider microbiome research too. This explains in part why the  field  continues  to  focus  primarily on association studies, with relationships being sought between broad community composition and general host states. General discussion of these host states brings back Margulis's ideas about homeostasis, through the supposedly opposing notion of dysbiosis. Claims about dysbiosis and homeostasis are often underpinned by evolutionary assumptions that hosts and microbiota have adaptive relationships, making them better off with one another in some  sort of optimal combination. One defence of Lamarckian evolution involves the claim that microbes not working for the host will be removed from the community over evolutionary time just as non- functional genes would be removed (; how- ever, cf. ).
+For many holobiont and other microbiome proponents, there is a strong appearance of co-adaptation and this appearance is what stimulates thoughts about the evolutionary unity of microbial sym- bionts and their hosts.10 But as most microbiologists and popu- lation biologists know very well, adaptation is not the only evo- lutionary explanation of persisting biological entities, and many microorganisms are along for the ride, short or long-term, with-  out causing either great harm or great benefit to their host en- vironments. Recall also that Margulis herself was focused on spe- cific host-microbe relationships. It is only by analysing specific re- lationships that causal connections and evolutionary outcomes in multispecies groups can be explained (). Despite such background knowledge, many holobiont claims are based on host-microbe communities as if they were bounded in       a theoretically strict way (just as in Margulis's autopoietic view).  But even though Margulis focused on specific microbe-host pairs (or small groups), her broader theoretical stance has nevertheless given whole-community views a conceptual boost.
+Microbiome research in general is currently maturing. Differ- ent approaches are being developed to address microbiota-host re- lationships. These include standard mechanistic research on how specific organismal lineages and their molecular pathways impact on pathways in the host ('bottom-up' microbiome research), in contrast to more 'top-down' approaches that include ecological analyses of host-community interactions (e.g., ) and epidemiological analyses to determine whether causality can  be inferred from association data (). These de- veloping streams of inquiry run counter to some of the residual Margulisian legacies in holobiont research. If microbiome research
+
+
+10 Thanks to Alan Grafen for this point. Non-adaptive variation in holobionts is sometimes acknowledged (e.g., ).
+
+as a whole is to continue to make progress, going back to evolu- tionary and ecological basics might be a necessary step. This does not mean Margulis has given nothing constructive to microbiome research. She certainly stimulated further thinking about microbial interactions, and put their evolutionary analysis high on the sci- entific agenda. But now there is increasing evidence against see-  ing host-microbiota as unified systems, plus many indications that holobiont ideas, when laden with Margulisian baggage, may not be the theoretical way forward. Understanding Margulis's work more fully may assist biologists and philosophers to disentangle some of her less useful ideas from contemporary research, even while con- tinuing to recognize the impact of her pivotal JTB paper.
+
+Acknowledgements
+
+Funding for the research that produced this paper came from France's 'Investments for the Future' Programme, IdEx Bordeaux, ANR-10-IDEX-03-02. Thanks to two anonymous referees for sug- gesting more nuances in my analysis, and to one of them for re- minding me of the Mayr quote  used now in a footnote. I am grate-     ful to Athel Cornish-Bowden, the editor of this special issue, for inviting and encouraging this paper, and to Derek Skillings for a critical reading of an early draft.
+
+References
+
+
+
+
+
+
+ 
+ 
+
+
+.  Doolittle, W.F., 2017. J. Theor. Biol., Darwinizing Gaia. doi:.
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+Lopez-Garcia, P., Eme, L., Moreira, D.  2017.  Symbiosis  in  eukaryotic  evolution.  J. Theor. Biol. doi:.
+ 
+
+M.A. O'Malley / Journal of Theoretical Biology 434  (2017) 34-41	41
+
+
+
+
+. 
+
+
+
+
+
+
+
+.
+
+
+
+
+
+Margulis, L., Chapman, M., Guerrero, R., Hall, J. 2006. The last eukaryotic common ancestor (LECA): acquisition of cytoskeletal motility from aerotolerant spiro- chetes in the Proterozoic eon. Proc. Natl. Acad. Sci. USA 103, pp. 13080-13085.
+Mayr, E., 2002. Foreword, in: Margulis, L., Sagan, D., Acquiring Genomes: A Theory of the Origins of Species. Basic Books, pp. xi-xiv.
+
+
+
+
+
+
+
+
+, . O'Malley, M.A., Submitted for publication. Causal claims about microbiota.
+O'Malley, M.A., 2015. Endosymbiosis and its implications for evolutionary theory.
+Proc. Natl. Acad. Sci. USA. 112, pp. 10270-10277.
+Peiffer, J.A., Spor, A., Koren, O., Jin, Z., Tringe, S.G., et al., 2013. Diversity and heri- tability of the maize rhizosphere microbiome under field conditions. Proc. Natl. Acad. Sci. USA. 110, pp. 6548-6553.
+
+ 
+
+
+ 
+. , .
+
+
+ 
+
+
+

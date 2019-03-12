@@ -1,0 +1,233 @@
+729900
+
+
+
+Epigenetic Regulation of Gene Expression Induced by Butyrate in Colorectal Cancer: Involvement of MicroRNA
+Karen S Bishop1, Huawen Xu2 and Gareth Marlow3
+1Auckland Cancer Society Research Centre, Faculty of Medical and Health Sciences, University of Auckland, Auckland, New Zealand. 2Faculty of Medical and Health Sciences, University of Auckland, Auckland, New Zealand. 3Experimental Cancer Medicine Centre, Cardiff University, Cardiff, UK.
+
+Genetics & Epigenetics Volume 9: 1-8
+(c) The Author(s) 2017 Reprints and permissions:
+ DOI: 10.1177/1179237X17729900
+
+
+
+
+
+
+RECEIVEd: January 25, 2017. ACCEPTED: June 2, 2017.
+PEER REVIEw: Three peer Reviewers submitted review reports. The reports consisted of 864 words, excluding comments to the Editor.
+TyPE: Review Article
+FuNdING: The author(s) disclosed receipt of the following financial support for the  research, authorship, and/or publication of this article: K.S.B. was supported by Auckland Cancer Society Research Centre and H.X. by University of Auckland Medical Foundation.
+
+dEClARATIoN oF CoNFlICTING INTERESTS: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+CoRRESPoNdING AuTHoR: Karen S Bishop, Auckland Cancer Society  Research Centre, Faculty of Medical and Health Sciences, University of Auckland, Auckland 1023, New Zealand. Email:
+
+
+
+
+Introduction
+Cancer is the leading cause of death in both developing and developed countries.1 This may be related to population ageing and lifestyle risk factors such as smoking, low levels of physical activity, energy imbalance, and unhealthy diets.2 Colorectal cancer (CRC) is the third most common cause of cancer mor- tality and constitutes about 10% of all cancers globally.2 The highest incidence rates of CRC are in developed countries, such as the United States and the United Kingdom, and life- style, rather than genotype, is regarded as the most important risk factor.3,4
+Colorectal cancer risk is closely related to the consumption of dietary types.5,6 There is evidence to support the notion that people who consume Western-style diets have a greater CRC risk than those who consume a Mediterranean- or Asian-style diet.7-10 Nowadays, Western-style diets contain high levels of energy-dense foods, red and processed meat, and a low con- sumption of fresh fruits, vegetables, and whole grains. In con- trast, traditional Mediterranean- and Asian-style diets include a variety of plant-based foods and unrefined cereals and a lower consumption of red and processed meat.7,10
+Plant-based foods are usually high in dietary fibre, which has been shown to decrease the risk of CRC in both human and animal studies.11-14 Dietary fibre in the colon, following fermentation, is the source of short-chain fatty acids (SCFAs) which are beneficial for gut health.15 The SCFAs can help pro- tect against DNA damage and mutations,16 both of which are associated with increased cancer risk. Acetate, propionate, and butyrate are the most common SCFAs, with butyrate being
+
+
+associated with protection against aberrant crypt foci (in rats).17 In addition, the increase in butyrate production may reduce CRC risk by regulating gene expression.18
+Gene expression in both healthy and malignant tissues can be modulated by epigenetic mechanisms, such as DNA meth- ylation, histone acetylation, and by the presence of micro- RNA (miRNAs). Epigenetics is defined as the regulatory processes which modulate the transcription of information encoded in the DNA sequence into RNA before their transla- tion into proteins.19 Epigenetics offers an explanation of the phenome that identical DNA sequences can lead to diverse phenotypes and varying disease susceptibilities.10,20 In this review, the effects of butyrate on inhibiting carcinogenesis in the colon, through modulating miRNA-related gene expres- sion, are presented and discussed.
+Butyrate and Risk of CRC
+The risk of developing CRC is closely correlated with dietary intake as dietary factors can influence carcinogenesis in the gut.9,21 Red and processed meat, particularly the cooking of red meat at high temperatures, can cause high levels of N-nitroso compounds (NOC) and haem iron in the colon. These compounds are common carcinogens that may lead to increased levels of DNA damage.22 Butyrate can help amelio- rate the harmful effects of red meat consumption. This notion is supported by studies conducted by Le Leu et al23,24 who conducted an animal study and a human trial to test the effect of a butyrylated high-amylose maize starch (HAMSB) diet on
+
+
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial
+4.0 License which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. The effects of butyrate on colon cells. HDAC indicates histone deacetylase.
+
+
+O(6)-methyl-2-deoxyguanosine adducts in rectal tissue. The authors demonstrated that butyrate can decrease the toxic influence of a cooked red meat diet on colon cells.24 Also, high consumption of red and processed meat may increase the pro- portion of pathogenic bacteria and decrease the proportion of beneficial bacteria in the gut. This imbalance may cause inflammation in the colon,5 leading to a more carcinogenic environment. The high intake of fresh fruit and vegetables, foods high in antioxidants, can reduce DNA damage to colon cells resulting from reactive oxygen species (ROS),22 and in this way, the negative impact of NOC, haem iron, and ROS can be modulated.
+Beneficial effects of fibre, and the inverse relationship between fibre intake and premature death from diseases, have led the World Health Organization to establish a recom- mended daily intake (20 g of fibre per 1000 kcal consumed) which, unfortunately, is generally not achieved in Western countries.15 Dietary fibre consists of polysaccharides, such as indigestible starch, pectin, cellulose, and gums. Partially digested or undigested polysaccharides are transited into the large intestine where they are fermented by non-pathogenic microbiota to produce SCFAs.25 The most common SCFAs produced in the gut are acetate (C2), propionate (C3), and butyrate (C4).15 Acetate and propionate reach the liver via   the portal vein, and butyrate is predominantly utilised by colonocytes.15 Resistant starch (RS) granules are fermentable polysaccharides that are naturally rich in amylose, and follow- ing fermentation, RS gives rise to high levels of butyrate production.
+It is not practical to collect colon biopsy samples in free- living individuals. For this reason, butyrate levels are usually determined from faecal samples (dry weight) as this sample type has been shown to represent colonic values.26 Butyrate levels were found to vary as much as 10-fold in a healthy
+
+population depending on body mass index, microbiota, and other factors.26,27 Faecal butyrate concentrations increased sig- nificantly following the consumption of RS.26-28
+There are 2 major groups of butyrate-producing bacteria, namely, Faecalibacterium prausnitzii and Eubacterium rectale/Roseburia spp and the type and ratio of microbiota in the gut can influence the amount of butyrate produced.25,29 In addition to the microbiota, dietary intake can influence the production of butyrate. For example, cellulose, lignin, and some insoluble fibre have low ferment ability, so the production of butyrate from these sources is low.30 Besides dietary fibre, other butyrate substrates, such as the oligosaccharides acarbose and tributyrin, can increase butyrate production in the colon.31 Butyrate regulates inflammation, immunity, and oxidative bal- ance and can function as histone deacetylase inhibitors (HDACi) to promote human health.15 In addition, butyrate is an important energy source (providing 5%-15% of caloric requirements30) and controls cell proliferation, differentiation, and apoptosis in colon cells (Figure 1).15,32,33
+In both in vivo and in vitro studies, it has been reported that butyrate has bioactivity to reduce colon cancer risk.22 Butyrate can modulate immune response in the colon and regulate the balance of gut bacteria to maintain colon homeostasis and reduce colon carcinogens (Figure 1).34 In this way, butyrate can ameliorate the CRC risk induced by high consumption of red and processed meat, although there is some conflicting data in this regard.22,30,34,35
+HDACI are used as chromatin-modifying drugs to treat cancers and other diseases.36 Butyrate has the ability to inhibit HDAC activity and thus inhibit DNA damage and the activa- tion of oncogenes.36-38 Table 1 shows a summary of effects of butyrate on colon and other cancer types.
+Butyrate can help maintain homeostasis and oxidative sta- tus in the gut and it can modulate immune response through
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1. Anti-cancer properties of butyrate through regulating miRNA and gene expression.
+
+Abbreviations: ANXA1, lipocortin 1; DNMT 1, DNA (cytosine-5)-methyltransferase 1; HDACi, histone deacetylase inhibitors; MUC 2, mucin 2; NaB, sodium butyrate; NF-kB, nuclear factor kB; PCR, polymerase chain reaction; qRT-PCR, reverse-transcription quantitative PCR; RT-PCR, real-time PCR; TSA, trichostain A (histone hyperacetylating agent).
+
+Table 2. MiRNAs associated with the inhibition or promotion of genes associated with colorectal cancer.
+
+
+
+gut microbiota and colonic epithelial cells.21 One of the prob- lems associated with experimentation with butyrate is that it is difficult to quantify butyrate in the human body because the absorption of butyrate occurs very soon after production, mak- ing it difficult to measure.30
+Evidence from animal trials and in vitro studies supports the anti-tumorigenic effects of butyrate.24,29,46 In an animal model study conducted by Shen et al,47 HDACi upregulated selective miRNAs to modulate B-cell differentiation and the immune response of the host. In vivo and in vitro studies found that butyrate can also modulate the inflammatory response by the suppression of nuclear factor kB activation.48 Many studies claimed that butyrate can reduce cancer risk via regulating cell proliferation, differentiation, and apoptosis.34,42,43 However, a combination of SCFAs as well as individual tested SCFAs  (acetate, propionate, and butyrate) may damage the colonic mucosa of infant rats, in an age-dependent fashion.49 This is thought to be a function of an immature immune system.
+In in vitro studies, sodium butyrate (NaB) is often used   but is generally referred to as butyrate.36 The predominant effect of butyrate is the ability to induce apoptosis of cancer cells and inhibit DNA damage. Both animal and human trials demonstrated that butyrate is associated with inflammatory bowel disease (IBD) such that lower concentrations of butyrate are found in the faecal matter from patients  with IBD relative to that found in people with a healthy gut.30 According to animal and human trials, butyrate can help to attenuate the inflammatory profile of intestinal mucosa in patients with IBD, in particular, in patients with ulcerative colitis.50 Patients with IBD are more susceptible to CRC, although the connection between IBD and CRC remains inconsistent.51 Furthermore, butyrate can help suppress diet- induced obesity which is a risk factor for CRC.52
+Besides the ability of butyrate to inhibit HDAC activity, another anti-cancer mechanism of butyrate is the modulation of miRNAs in cancer cells. In several studies, it has been
+
+claimed that butyrate regulates both oncogenic miRNAs and cancer suppressor miRNA expression in various cancers, such as lung, breast, and colon cancers.45,53-56
+MiRNA and Risk or Progression of CRC
+MicroRNAs are small non-coding RNAs of approximately 22 nucleotides that are found in eukaryotic cells.57 MicroRNAs can epigenetically regulate gene expression by post-transcrip- tionally regulating messenger RNA (mRNA) function which can inhibit or promote protein production.58 MicroRNAs are commonly found in both normal and malignant cells and they can regulate at least 30% of human genes.59 More than 940 miRNAs have been identified since they were first discovered in 1993. MicroRNAs play an important role in cellular prolif- eration, differentiation, and apoptosis60 and therefore are clearly important in cancer inhibition and progression.
+MicroRNA expression is deregulated in cancer processes including cancer initiation, progression, and metastasis.58,61 Therefore, it is possible that miRNA profiles could be used as biomarkers for cancer diagnosis and for the assessment of response to treatment. MicroRNAs may be more appropriate targets for treating cancers than DNA or mRNA because a single miRNA can regulate hundreds of mRNAs in specific biological pathways.57 Also, it may be more practical to modify the expression of the approximately 200 miRNAs that have been found to be associated with various cancers than it is to modulate the activity of more than 16 000 mRNAs.57
+MicroRNAs associated with cancers can be crudely classi- fied into 2 groups: tumour suppressor miRNAs and oncomirs or oncomiRNAs (tumour promoters) (Table 2). For example, miR-25 promotes cell migration and invasion in oesophageal squamous cell carcinoma,62 whereas miR-143 can inhibit cell invasion and migration in CRC.63 The overexpression of onco- genic miRNAs and the decreased expression of tumour sup- pressor miRNAs are often responsible for carcinogenesis.59 Therefore, the inhibition of oncogenic miRNAs and the
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 3. Evidence supporting the alteration of miRNA expression in CRC in response to butyrate.
+
+Abbreviations: AoM, azoxymethane; HAMSB, butyrylated high-amylose maize starch; HRM, high red meat; lAMS, low-amylose maize starch.
+
+
+
+promotion of tumour suppressor miRNAs can provide the mechanism to prevent and treat cancers. Although there are some limitations associated with the notion of modulating miRNAs as an anti-cancer therapeutic strategy, some novel drugs and techniques have yielded positive results.59
+In CRC, miRNAs are involved in initiation, progression, and metastasis. There are several miRNAs commonly associ- ated with colon cancers, such as Let-7, miR-21, miR-145, miR-17-19 cluster, miR-221, and miR-143, among others21,59,64 (Table 2). Moreover, Chiang et al65 claimed that miR-192, miR-194, and miR-215 are associated with increased tumour size in colon cancer. It is essential to under- stand the role of miRNA expression in colon cancer to create effective preventive and therapeutic methods.
+MicroRNA expression can be modulated by dietary nutrients.58,60 Generally, vitamins, minerals, and bioactive components in foods are considered to maintain people's health and protect against some diseases. The effect of nutri- ents on regulating miRNA expression may help explain how these nutrients affect health. Hu et al73 reported that butyrate can modulate miRNA expression in colon cancer such that the expressions of Let-7, miR-17-92a, miR-18-106a, and miR- 25-106b clusters are decreased.
+Effects of Butyrate on miRNA Expression in CRC Cells
+In CRC cells, miRNA expression is largely associated with cancer initiation, progression, and metastasis. MicroRNA expression can be modulated by dietary factors including butyrate, and thus butyrate, as well as other dietary bioactives, could be used to create a less carcinogenic environment.
+APC-b-catenin-TCF4 is an important signalling pathway in CRC initiation which regulates both cell proliferation and colonic cell differentiation. This pathway can be regulated by SCFAs.74 In addition, Lazarova et al75 investigated the effect of butyrate on the Wnt signalling pathway which is associated with the induc- tion of apoptosis. They found that Wnt signalling-specific gene expression was modified by butyrate in the CRC HCT-116 cell line.75 In turn, miRNAs can regulate the expression of the genes involved.75 Therefore, there may be some association between butyrate and miRNA expression in CRC initiation.
+In a study conducted by Hu et al, butyrate was also found to regulate miRNA expression in HCT-116 cells.44 The miR-17- 92a, miR-18b-106a, and miR-25-106b clusters were found to reduce the proliferation of HCT-116 cells relative to non-can- cerous cells.73 In addition, in a study conducted by Schlormann et al,76 it was reported that butyrate can upregulate the tumour suppressor gene P21, which is associated with the development of colon tumours. This occurs through impacting certain miR- NAs. The effect of butyrate on miRNA expression in CRC cells is summarised in Table 3. According to the findings of studies listed in this table, the beneficial effect is to promote the expression of tumour suppressor and inhibit oncogenic miRNAs associated with CRC.
+
+In a human trial conducted by Humphreys et al,28 a dietary intervention was used to determine the association between diet and miR-21. The dietary interventions included a high red meat (HRM) (300 g daily) intake versus a high intake (40 g daily) of HAMSB together with a HRM diet. This study was conducted in healthy human volunteers for 2 to 4 weeks, and the outcome showed that HRM may increase miR-21 in human rectal mucosa.28 In this study, it was reported that HRM may increase CRC risk and the positive effects of butyrate may help suppress the harm induced by an HRM diet. Levels of miR-17-92 were restored when HRM was consumed with HAMSB, but the levels of miR-21 were not restored to baseline.28
+Outside of a clinical trial, the equivalent intake of 20 to 40 g of HAMSB/RS is feasible in the form of maize/corn, oats, bar- ley, fruits, and vegetables but not through the consumption of wheat products.
+Conclusions and Prospects
+In conclusion, from the evidence presented, it is clear that butyrate is an HDACi that can modify histones which in turn can modulate the expression of miRNAs in colon and other cancers. This may provide novel ideas to prevent and treat CRC. Various miRNAs are sensitive to different concentra- tions of butyrate and to different treatment durations, and it is important that future work focuses on determining the physi- ological relevance. Butyrate may reduce CRC risk through decreasing the effect of exposure to carcinogens from foods. However, the ability of butyrate to negate the effect of regular and frequent red meat consumption remains unclear.
+In addition, a number of unanswered questions are raised, particularly around exactly how butyrate may interact with a receptor or ligand to modify histones and regulate the expres- sion of miRNAs. With an increase in understanding will come progress in the clinical application of butyrate perhaps as an anti-cancer prodrug and or in combination therapy with anti- inflammatory therapies.
+Author Contributions
+KSB conceived and wrote the first draft of the manuscript. HX performed the review of the literature and prepared the figure. KSB, HX, and GM contributed to the writing of the manu- script and made critical revisions and approved final version. KSB and GM jointly developed the structure and arguments for the manuscript. All authors reviewed and approved the final manuscript.
+Disclosures and Ethics
+As a requirement of publication, author(s) have provided to the publisher signed confirmation of compliance with legal and ethical obligations including but not limited to the following: authorship and contributorship, conflicts of interest, privacy and confidentiality, and (where applicable) protection of human and animal research subjects. The authors have read and
+
+Bishop et al	7
+
+
+confirmed their agreement with the ICMJE authorship and conflict of interest criteria. The authors have also confirmed that this article is unique and not under consideration or pub- lished in any other publication, and that they have permission from rights holders to reproduce any copyrighted material. Any disclosures are made in this section. The external blind peer reviewers report no conflicts of interest.
+
+REfERENCEs
+Siegel RL, Miller KD, Jemal A. Cancer statistics, 2015. CA Cancer J Clin. 2015;65:5-29.
+Torre L, Bray F, Siegel R, Ferlay J, Lortet-Tieulent J, Jemal A. Global cancer sta- tistics, 2012. CA Cancer J Clin. 2015;65:87-108.
+Durko L, Malecka-Panas E. Lifestyle modifications and colorectal cancer. Curr Colorectal Cancer Rep. 2014;10:45-54.
+Pellatt AJ, Wolff RK, Lundgreen A, Cawthon R, Slattery ML. Genetic and life- style influence on telomere length and subsequent risk of colon cancer in a case control study. Int J Mol Epidemiol Genet. 2012;3:184-194.
+Terry P, Giovannucci E, Michels KB, et al. Fruit, vegetables, dietary fiber, and risk of colorectal cancer. J Natl Cancer Inst. 2001;93:525-533.
+Bamia C, Lagiou P, Buckland G, et al. Mediterranean diet and colorectal cancer risk: results from a European cohort. Eur J Epidemiol. 2013;28:317-328.
+Thorburn AN, Macia L, Mackay CR. Diet, metabolites, and 'western-lifestyle' inflammatory diseases. Immunity. 2014;40:833-842.
+Xu X, Yu E, Gao X, et al. Red and processed meat intake and risk of colorectal adenomas: a meta-analysis of observational studies. Int J Cancer. 2013;132:437-448.
+Giacosa A, Barale R, Bavaresco L, et al. Cancer prevention in Europe: the Mediterranean diet as a protective choice. Eur J Cancer Prev. 2013;22:90-95.
+Haggar FA, Boushey RP. Colorectal cancer epidemiology: incidence, mortality, survival, and risk factors. Clin Colon Rectal Surg. 2009;22:191-197.
+Lin J, Zhang SM, Cook NR, et al. Dietary intakes of fruit, vegetables, and fiber, and risk of colorectal cancer in a prospective cohort of women (United States). Cancer Causes Control. 2005;16:225-233.
+Zhu B, Sun Y,  Qi L, Zhong R, Miao X. Dietary legume consumption reduces  risk of colorectal cancer: evidence from a meta-analysis of cohort studies. Sci Rep. 2015;5:8797.
+Moen B, Henjum K, Mage I, et al. Effect of dietary fibers on cecal microbiota  and intestinal tumorigenesis in azoxymethane treated A/J Min/+ mice. PLoS ONE. 2016;11:e0155402.
+Ben Q , Sun Y, Chai R, Qian A, Xu B, Yuan Y. Dietary fiber intake reduces risk for colorectal adenoma: a meta-analysis. Gastroenterol. 2014;146:689. e6-699.e6.
+Tan J, McKenzie C, Potamitis M, Thorburn AN, Mackay CR, Macia L. The role  of short-chain fatty acids in health and disease. Adv Immunol. 2014;121:91-119.
+Koh A, De Vadder F, Kovatcheva-Datchary P, Backhed F. From dietary fiber to host physiology: short-chain fatty acids as key bacterial metabolites. Cell. 2016;165:1332-1345.
+Perrin P, Pierre F, Patry Y, et al. Only fibres promoting a stable butyrate produc- ing colonic ecosystem decrease the rate of aberrant crypt foci in rats. Gut. 2001;48:53-61.
+Hu S, Dong TS, Dalai SR, Wu F, Bissonette M, Kwon JH. The microbe-derived short chain fatty acid butyrate targets miRNA-dependent p21 gene expression in human colon cancer. PLoS ONE. 2011;6:e16221.
+Relton CL, Davey Smith G. Epigenetic epidemiology of common complex dis- ease: prospects for prediction, prevention, and treatment. PLoS Med. 2010;7:e1000356.
+Ducasse M, Brown MA. Epigenetic aberrations and cancer. Mol Cancer. 2006;5:60.
+Maslowski KM, Mackay CR. Diet, gut microbiota and immune responses. Nat Immunol. 2011;12:5-9.
+Winter J, Nyskohus L, Young GP, et al. Inhibition by resistant starch of red meat-induced promutagenic adducts in mouse colon. Cancer Prev Res. 2011;4:1920-1928.
+Le Leu RK, Winter JM, Christophersen CT, et al. Butyrylated starch intake can prevent red meat-induced O6-methyl-2-deoxyguanosine adducts in human rec-   tal tissue: a randomised clinical trial. Br J Nutr. 2015;114:220-230.
+Le Leu RK, Scherer BL, Mano MT, et al. Dietary butyrylated high-amylose starch reduces azoxymethane-induced colonic O(6)-methylguanine  adducts  in rats as measured by immunohistochemistry and high-pressure liquid chromatog- raphy. Nutr Res. 2016;36:982-988.
+
+
+Louis P, Hold GL, Flint HJ. The gut microbiota, bacterial metabolites and colorectal cancer. Nat Rev Microbiol. 2014;12:661-672.
+Ahmed R, Segal I, Hassan H. Fermentation of dietary starch in humans. Am J Gastroenterol. 2000;95:1017-1020.
+McOrist AL, Miller RB, Bird AR, et al. Fecal butyrate levels vary widely among individuals but are usually increased by a diet high in resistant starch. J Nutr. 2011;141:883-889.
+Humphreys KJ, Conlon MA, Young GP, et al. Dietary manipulation of onco- genic microRNA expression in human rectal mucosa: a randomized trial. Cancer Prev Res. 2014;7:786-795.
+Canani RB, Costanzo MD, Leone L, Pedata M, Meli R, Calignano A. Potential beneficial effects of butyrate in intestinal and extraintestinal diseases. World J Gastroenterol. 2011;17:1519-1528.
+Hamer HM, Jonkers D, Venema K, Vanhoutvin S, Troost FJ, Brummer RJ. Review article: the role of butyrate on colonic function. Aliment Pharm Ther. 2008;27:104-119.
+Sanchez HN, Shen T, Taylor JR, Munoz K, Zan H, Casali P. Short-chain fatty  acid (SCFA) histone deacetylase inhibitors produced by gut microbiota regulate selected microRNAs to modulate local and systemic antibody responses. J Immunol. 2016;196:127.6.
+Fung KY, Brierley GV, Henderson S, et al. Butyrate-induced apoptosis in  HCT116 colorectal cancer cells includes induction of a cell stress response. J Proteome Res. 2011;10:1860-1869.
+Fung KY, Cosgrove L, Lockett T, Head R, Topping DL. A review of the poten- tial mechanisms for the lowering of colorectal oncogenesis by butyrate. Br J Nutr. 2012;108:820-831.
+Lupton JR. Microbial degradation products influence colon cancer risk: the bu- tyrate controversy. J Nutr. 2004;134:479-482.
+Winter JM, Hu Y, Young GP, Kohonen-Corish MR, Le Leu RK. Role  of  red meat and resistant starch in promutagenic adduct formation, MGMT repair,  thymic lymphoma and intestinal tumourigenesis in Msh2 -deficient mice. J Nutrigenet Nutrigenomics. 2014;7:299-313.
+Ali SR, Humphreys KJ, McKinnon RA, Michael MZ. Impact of histone deacet- ylase inhibitors on microRNA expression and cancer therapy: a review. Drug Dev Res. 2015;76:296-317.
+Tong X, Yin L, Giardina C. Butyrate suppresses Cox-2 activation in colon cancer cells through HDAC inhibition. Biochem Biophys Res Commun. 2004;317:463-471.
+Schilderink R, Verseijden C, Seppen J, et al. The SCFA butyrate stimulates the epithelial production of retinoic acid via inhibition of epithelial HDAC. Am J Physiol Gastrointest Liver Physiol. 2016;310:G1138-G1146.
+Augenlicht L, Shi L, Mariadason J, Laboisse C, Velcich A. Repression of MUC2 gene expression by butyrate, a physiological regulator of intestinal cell matura- tion. Oncogene. 2003;22:4983-4992.
+Tailor D, Hahm ER, Kale RK, Singh SV, Singh RP. Sodium butyrate induces DRP1-mediated mitochondrial fusion and apoptosis in human colorectal cancer cells. Mitochondrion. 2014;16:55-64.
+Saldanha SN, Kala R, Tollefsbol TO. Molecular mechanisms for inhibition of colon cancer cells by combined epigenetic-modulating epigallocatechin gallate and sodium butyrate. Exp Cell Res. 2014;324:40-53.
+Mu D, Gao Z, Guo H, Zhou G, Sun B. Sodium butyrate induces growth inhibi- tion and apoptosis in human prostate cancer DU145 cells by up-regulation of the expression of annexin A1. PLoS ONE. 2013;8:e74922.
+Archer SY, Meng S, Shei A, Hodin RA. p21(WAF1) is required for butyrate- mediated growth inhibition of human colon cancer cells. Proc Natl Acad Sci U S A. 1998;95:6791-6796.
+Ferreira AC, Robaina MC, Rezende LM, Severino P, Klumb CE. Histone deacetylase inhibitor prevents cell growth in Burkitt's lymphoma by regulating PI3K/Akt pathways and leads to upregulation of miR-143, miR-145, and miR- 101. Ann Hematol. 2014;93:983-993.
+Cho JH, Dimri M, Dimri GP. MicroRNA-31 is a transcriptional target  of  his- tone deacetylase inhibitors and a regulator of cellular senescence. J Biol Chem. 2015;290:10555-10567.
+Toden S, Lockett TJ, Topping DL, et al. Butyrylated starch affects colorectal cancer markers beneficially and dose-dependently in genotoxin-treated rats.  Cancer Biol Ther. 2014;15:1515-1523.
+Shen T, Sanchez HN, Zan H, Casali P. Genome-wide analysis reveals selective modulation of microRNAs and mRNAs by histone deacetylase inhibitor  in  B cells induced to undergo class-switch DNA recombination and plasma cell dif- ferentiation. Front Immunol. 2015;6:627.
+Place RF, Noonan EJ, Giardina C. HDAC inhibition prevents NF-kB activation   by suppressing proteasome activity: down-regulation of proteasome subunit ex- pression stabilizes IkBa. Biochem Pharmacol. 2005;70:394-406.
+Nafday SM, Chen W, Peng L, Babyatsky MW, Holzman IR, Lin J. Short-chain fatty acids induce colonic mucosal injury in rats with various postnatal ages. Pediatr Res. 2005;57:201-204.
+
+
+
+Machiels K, Joossens M, Sabino J, et al. A decrease of the butyrate-producing species Roseburia hominis and Faecalibacterium prausnitzii defines dysbiosis in pa- tients with ulcerative colitis. Gut. 2014;63:1275-1283.
+Jess T, Rungoe C, Peyrin-Biroulet L. Risk of colorectal cancer in patients with ulcerative colitis: a meta-analysis of population-based cohort studies. Clin Gastroenterol Hepatol. 2012;10:639-645.
+Lin HV, Frassetto A, Kowalik EJ Jr, et al. Butyrate and  propionate  protect against diet-induced obesity and regulate gut hormones via free fatty acid recep- tor 3-independent mechanisms. PLoS ONE. 2012;7:e35240.
+Chen HY, Lin YM, Chung HC, et al. miR-103/107 promote metastasis of colorectal cancer by targeting the metastasis suppressors DAPK and KLF4.  Cancer Res. 2012;72:3631-3641.
+Garcia-Segura L, Perez-Andrade M, Miranda-Rios J. The emerging role of MicroRNAs in the regulation of gene expression by nutrients. J Nutrigenet Nutrigenomics. 2013;6:16-31.
+Hsieh TH, Hsu CY, Tsai CF, et al. HDAC inhibitors target HDAC5, upregu- late microRNA-125a-5p, and induce apoptosis in breast cancer cells. Mol Ther. 2015;23:656-666.
+Humphreys KJ, Cobiac L, Le Leu RK, Van der Hoek MB, Michael  MZ.  Histone deacetylase inhibition in colorectal cancer cells reveals competing roles for members of the oncogenic miR-17-92 cluster. Mol Carcinog. 2013;52: 459-474.
+Ross SA, Davis CD. MicroRNA, nutrition, and cancer prevention. Adv Nutr. 2011;2:472-485.
+Karius T, Schnekenburger M, Dicato M, Diederich M. MicroRNAs in cancer management and their modulation by dietary agents. Biochem Pharmacol. 2012;83:1591-1601.
+Ramalingam S, Subramaniam D, Anant S. Manipulating miRNA expression: a novel approach for colon cancer prevention and chemotherapy. Curr Pharmacol Rep. 2015;1:141-153.
+Palmer JD, Soule BP, Simone BA, Zaorsky NG, Jin L, Simone NL. MicroRNA expression altered by diet: can food be medicinal? Ageing Res Rev. 2014;17:16-24.
+Aslam MI, Patel M, Singh B, Jameson JS, Pringle JH. MicroRNA manipulation  in colorectal cancer cells: from laboratory to clinical application. J Transl Med. 2012;10:128.
+Yu G, Tang JQ , Tian ML, et al. Prognostic values of the miR-17-92 cluster and  its paralogs in colon cancer. J Surg Oncol. 2012;106:232-237.
+
+Zhang Z, Xiang D, Wu WS. Sodium butyrate facilitates reprogramming by de- repressing OCT4 transactivity at the promoter of embryonic stem cell-specific miR-302/367 cluster. Cell Reprogram. 2014;16:130-139.
+Deng J, Lei W,  Fu JC, Zhang L, Li JH, Xiong JP.  Targeting miR-21 enhances  the sensitivity of human colon cancer HT-29 cells to chemoradiotherapy in vitro. Biochem Biophys Res Commun. 2014;443:789-795.
+Chiang Y, Song Y, Wang Z, et al. microRNA-192, -194 and -215 are frequently downregulated in colorectal cancer. Exp Ther Med. 2012;3:560-566.
+Oue N, Anami K, Schetter AJ, et al. High miR-21 expression from FFPE tissues is associated with poor survival and response to adjuvant chemotherapy in colon cancer. Int J Cancer. 2014;134:1926-1934.
+Tsuchida A, Ohno S, Wu W, et al. miR-92 is a key oncogenic component of the miR-17-92 cluster in colon cancer. Cancer Sci. 2011;102:2264-2271.
+Olive V, Bennett MJ, Walker JC, et al. miR-19 is a key oncogenic component of mir-17-92. Genes Dev. 2009;23:2839-2849.
+Qin J, Luo M. MicroRNA-221 promotes colorectal cancer cell invasion and me- tastasis by targeting RECK. FEBS Lett. 2014;588:99-104.
+Shen K, Liang Q , Xu K, et al. MiR-139 inhibits invasion and metastasis of colorectal cancer by targeting the type I insulin-like growth factor receptor. Biochem Pharmacol. 2012;84:320-330.
+Zhang P, Suidasari S, Hasegawa T, Yanaka N, Kato N. Vitamin B(6) activates  p53 and elevates p21 gene expression in cancer cells and the mouse colon. Oncol Rep. 2014;31:2371-2376.
+Pichler M, Winter E, Stotz M, et al. Down-regulation of KRAS-interacting miRNA-143 predicts poor prognosis but not response to EGFR-targeted agents    in colorectal cancer. Br J Cancer. 2012;106:1826-1832.
+Hu S, Liu L, Chang EB, Wang JY, Raufman JP. Butyrate inhibits pro-prolifer- ative miR-92a by diminishing c-Myc-induced miR-17-92a cluster transcription    in human colon cancer cells. Mol Cancer. 2015;14:180.
+Augenlicht LH, Mariadason JM, Wilson A, et al. Short chain fatty acids and  colon cancer. J Nutr. 2002;132:3804S-3808S.
+Lazarova DL, Chiaro C, Bordonaro M. Butyrate induced changes in Wnt- signaling specific gene expression in colorectal cancer cells. BMC Res Notes. 2014;7:226.
+Schlormann W, Naumann S, Renner C, Glei M. Influence of miRNA-106b and miRNA-135a on butyrate-regulated expression of p21 and Cyclin D2 in human colon adenoma cells. Genes Nutr. 2015;10:50.

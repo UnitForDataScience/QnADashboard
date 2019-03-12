@@ -1,0 +1,531 @@
+
+
+
+Original Research	Featured Article
+
+Structure moderation of gut microbiota in liraglutide-treated diabetic male rats
+
+Qian Zhang, Xinhua Xiao, Jia Zheng, Ming Li, Miao Yu, Fan Ping, Tong Wang and Xiaojing Wang
+Key Laboratory of Endocrinology, Translational Medicine Centre, Ministry of Health, Department of Endocrinology, Peking Union Medical College Hospital, Peking Union Medical College, Chinese Academy of Medical Sciences, Beijing, 100730, China
+Corresponding author: Xinhua Xiao. Email: 
+
+
+
+Abstract
+The change of gut microbiome is associated with a serious of metabolic disorders, such as diabetes. As a glucagon-like peptide 1 analogue, liraglutide is a potent antidiabetic drug in clinical practice. However, the effect of liraglutide on the community of gut microbiota is still unknown. We aimed to determine the influence of liraglutide on fecal microbiota in diabetic male rats. Five-week-old male Sprague-Dawley rats were fed with a control diet or a high- fat diet for four weeks. By injecting streptozotocin, the diabetic rat model was performed.
+Diabetic male rats were injected subcutaneously with a low dose of liraglutide (liraglutide 0.2 mg/kg/day), a high dose of liraglutide
+(liraglutide 0.4 mg/kg/day), or normal saline for 12 weeks. Our data showed that liraglutide effectively prevented the development of diabetes in male rats. Pyrosequencing of the V3-V4 region of 16S rRNA genes manifested a remarkable transfer of gut microbiota construction in liraglutide-treated male rats compared with that of the diabetic male rats. Further analysis identified 879 liraglutide-treated specific operational taxonomic units. Some short-chain fatty acid (SCFA)-producing bacteria, including Bacteroides, Lachnospiraceae, and probiotic bacteria, Bifidobacterium, were selectively enhanced in liraglutide-treated diabetic male rats. Lactobacillus was negatively correlated with fasting blood glucose. To sum up, our findings propose that the prevention of diabetes by liraglutide in the diabetic male rats may be associated with the structural change of the gut microbiota, inflammation alleviation, and abundantly elevated SCFA-producing bacteria in the intestine.
+Keywords: Diabetes, gut microbiota, glucagon-like peptide 1, short chain fatty acid, probiotic bacteria
+
+Experimental Biology and Medicine 2018; 243: 34-44. DOI: 10.1177/1535370217743765
+
+
+
+
+
+Introduction
+The prevalence of type 2 diabetes (T2D) is extended dramatically during recent decades. Besides genetic and environmental factors, thriving evidence shows that gut microbiota also affects the incidence and development of T2D. Changes in terms of diversity and richness have been involved with T2D. Several human studies showed T2D patients had a moderate gut microbiota disorder, character- ized by a decrease in butyrate-producing bacteria.1 More inspiringly, germ-free mice are not prone to obesity, when they are exposed to a high-fat diet. Transferring the gut microbial community from obese mice to these germ-free mice causes a significant increase in total body fat
+
+content.2,3 Shaping the microbial composition is a potential therapeutic approach in T2D.4
+Liraglutide, one type of glucagon-like peptide 1 (GLP-1) analogues, was approved by the U.S. Food and Drug Administration in 2010 for treating T2D. GLP-1 is a hormone which is secreted from intestinal L-cells. It can stimulate the glucose-induced insulin response, promote pancreas b-cells survival, delay gastric emptying, and reg- ulate energy expenditure and body weight. Besides these functions, it also exerts neuroprotective, cardioprotective, and anti-inflammatory effects.5
+However, the study of liraglutide on gut microbiota in diabetic rats is limited. We hypothesized that liraglutide
+
+
+
+ISSN 1535-3702	Experimental Biology and Medicine 2018; 243: 34-44
+Copyright ! 2017 by the Society for Experimental Biology and Medicine
+
+
+
+could moderate glucose metabolism through normalizing the structure of gut microbiota. The purpose of this inves- tigation was to find out the leading beneficial bacteria in the gut for ameliorating blood glucose. Therefore, we used 454 pyrosequencing to test the change of gut microbiota from liraglutide treatment.
+
+Materials and methods
+Animals
+Five-week-old male Sprague-Dawley rats (174.7 +- 15.3 g) were bought from the Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences and Peking Union Medical College (Beijing, China, Permit No. SCXK- 2014-0013). The rats were kept in cages and maintained at 23-250C with 12-h-light and 12-h-dark cycles. All procedures were done with the approval of the Animal Care Committee of the Peking Union Medical Hospital Animal Ethics Committee (Project XHDW-2015-0051, 15 February 2015), and all efforts were made to minimize suffering.
+
+Induction of T2D in rats
+The rats were randomly divided into two groups. The con- trol rats were fed on a standard diet (kcal %: 10% fat, 20% protein, and 70% carbohydrate; 3.85 kcal/g). Other rats were fed with a high-fat diet (kcal %: 45% fat, 20% protein, and 35% carbohydrate; 4.73 kcal/g, Research Diet, New Brunswick, NJ, USA) for four weeks and then were injected intraperitoneally (i.p.) with streptozotocin (STZ; 30 mg/kg body weight) to induce diabetes. The animals were fed con- tinuously on the high-fat diet throughout the remaining time of the study. Fasting blood glucose (FBG) >11.1 mmol/L was determined to the T2D model.
+
+Animal groups and experimental design
+Normal rats were administered with normal saline. Diabetic rats were randomly subdivided into three sub- groups: diabetic group (DM, normal saline, hypodermic injection (i.h.), n 1/4 6), low dose of liraglutide (liraglutide
+0.2 mg/kg/day, i.h., n 1/4 6), and high dose of liraglutide (liraglutide 0.4 mg/kg/day, i.h., n 1/4 6). After fasting for
+12 h, fresh stool samples were collected by  stimulating  the anus in normal, DM, and liraglutide 0.4 group and immediately stored at -800C.
+Measurements of body weight and FBG
+Body weight and FBG were measured every four weeks with Bayer Contour TS glucometer (Bayer, Hamburg, Germany).
+
+Oral glucose tolerance test
+After depriving food for 12 h, an oral glucose tolerance test (OGTT) was performed. The rats were orally administered with glucose (2 g/kg body weight). The area under the curve (AUC) was calculated by linear trapezoid method.6
+
+Measurement of serum insulin, interleukin 6, and homeostasis model assessment of insulin resistance
+Serum insulin and interleukin 6 (IL-6) levels were assayed by an ELISA method (Millipore, Bellerica, MA, USA). Homeostasis model assessment of insulin resistance (HOMA-IR) was established by the following formula: FBG (mmol/L) x fasting serum insulin (mIU/mL)/22.5.
+Fecal DNA extraction and 454 pyrophosphate sequencing
+Genomic DNA was obtained from fecal samples by using QIAmp DNA Stool mini Kit (Qiagen, Valencia, CA, USA). 16S rRNA gene amplicons of 250 bps were generated from the V3-V4 region with specific primers (341F 50-CCTAYGG GRBGCASCAG-30 and  806R  50-GGACTACNNGGGTATC
+TAAT-30)  using  Phusion  High-Fidelity  PCR  Master  Mix
+(New England Biolabs, Ipswich, MA, USA). PCR product purification was performed by using Qiagen Gel Extraction Kit (Qiagen, Hilden, Germany). Sequencing libraries were generated using TruSeq DNA PCR-Free Sample Preparation Kit (Illumina, San Diego, CA, USA). Pyrosequencing was performed on an Illumina HiSeq, 2500 platform (Norcross, GA, USA).
+
+Bioinformatics analysis
+Paired-end reads were connected using FLASH (John Hopkins University School of Medicine, Baltimore, MD, USA).7 To gain the higher quality data, raw reads were performed quality filtering according to specific filtering conditions by using QIIME version 1.7.0.8 Sequence analy- sis was performed by Uparse software version 7.0.1001.9 Sequences which have 2:97% similarity were considered as the same operational taxonomic units (OTUs).
+For each representative sequence, the GreenGene Database 10 was used based on Ribosomal Database Project (RDP) classifier version 2.211 algorithm to annotate taxonomic information. Alpha diversity was analyzed to describe the complexity of species diversity, including Chao1 and Shannon index. For the evaluation of differences of samples in species complexity, beta diversity was calcu- lated. Both of weighted and unweighted UniFrac were fig- ured out.12 Principal Coordinate Analysis (PCoA) was performed to get the principal coordinates and visualize from complex, multidimensional data. Unweighted Pair- group Method with Arithmetic Means Clustering was per- formed as hierarchical clustering method to interpret the distance matrix. Also, linear discriminant analysis of the effect size (LEfSe) was performed to assess OTU abundance and find the differences between the groups.13
+
+Data analysis
+The data are shown as the mean +- SD. When the data were normal and variances were equal, differences among the groups were analyzed using one-way analysis of variance (ANOVA) followed by Tukey's post hoc test. Otherwise, a Kruskal-Wallis with Mann-Whitney test was applied. Spearman's correlation coefficient was utilized to compare the bacterial abundance and metabolic parameters.
+
+
+
+Bacterial taxa that were differentially abundant were iden- tified by using the Kruskal-Wallis nonparametric test, fol- lowed by the Wilcoxon tests. The identified features were then subjected to the linear discriminant analysis (LDA) model with a threshold logarithmic LDA score set at 3.0 and ranked. A P value 0.05 was considered statistically significant. All data analyses were conducted by using Prism version 5.0 for Windows, GraphPad Software, San Diego, CA, USA).
+
+Results
+Effect of liraglutide on body weight in diabetic male rats
+Compared to the normal control rats, the diabetic male rats had reduced body weight (P < 0.01; Figure 1(a)).
+
+Liraglutide treatment increased the body weight in the dia- betic male rats slightly (about 3%, P < 0.01; Figure 1(a)).
+
+
+
+Effect of liraglutide on FBG and glucose tolerance in diabetic male rats
+Diabetic male rats showed dramatically higher FBG than the normal control rats (P < 0.01; Figure 1(b)). Liraglutide treatment has dose-dependently reduced FBG (P < 0.01; Figure 1(b)). In OGTT, blood glucose and AUC in the dia- betic male rats were also higher than the normal control rats (P < 0.01; Figure 1(c) and (d)). Liraglutide prevented the increase of blood glucose and AUC in a dose-dependent way (P < 0.01; Figure 1(c) and (d)).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Effects of liraglutide on body weight, blood glucose, serum insulin, HOMA-IR, and IL-6 in diabetic male rats. (a) Body weight, (b) fasting blood glucose, (c) blood glucose in OGTT, (d) AUC in OGTT, (e) serum insulin, (f) HOMA-IR, and (g) IL-6. Values are expressed as means +- SD. n 1/4 6 in each group. **P < 0.01 versus normal control group; ##P < 0.01 versus diabetic group; $$P < 0.01 versus liraglutide 0.2 group.
+OGTT: oral glucose tolerance test; HOMA-IR: homeostasis model assessment of insulin resistance; IL_6: interleukin 6; AUC: area under the curve.
+
+
+
+Effect of liraglutide on fasting insulin, HOMA-IR, and serum IL-6 in diabetic male rats
+Diabetic male rats exhibited significantly higher serum insulin level, HOMA-IR, and IL-6 than normal  control rats (P < 0.01; Figure 1(e) to (g)). Liraglutide significantly decreased serum insulin level, HOMA-IR,   and   IL-6 (P < 0.01; Figure 1(e) to (g)).
+
+Characteristics of pyrosequencing results
+Because liraglutide 0.4 group had better glucose reduction effect on the diabetic male rats than liraglutide 0.2 group, only genomic DNA of fecal samples from liraglutide 0.4 group, diabetic group, and normal group were tested in 16S pyrophosphate sequencing  (n 1/4 6  in  each  group). A total of 790,755 high-quality reads and 879 OTUs (97% similarity) were obtained from 18 samples through a 454 pyrosequencing analysis, with an average of 2583 unique sequences and 554 OTUs in each sample. The 16S sequence data generated in this study were submitted to the NCBI Sequence Read Archive database (accession number SRP095710). Figure 2 shows the differences in gut micro- biota diversity among the normal group, diabetic group, and liraglutide 0.4 group. The alpha diversities of the gut microbiota in these three groups decreased significantly in the order of the normal group, diabetic group, and liraglu- tide 0.4 group (Figure 2). The results of PCoA based on an unweighted UniFrac distance matrix showed that there  was a substantial rearrangement of the bacterial structure among the normal, diabetic, and liraglutide-treated male rats (Figure 3).
+
+Taxonomic shifts due to liraglutide treatment
+We explored the similarities and distinctions of species dis- tribution among the different groups. As shown in Figure 4, we found that there were 606 species shared among three groups, accounting for around 3-4 of the OTUs in each group. It is noteworthy that 91 species  only found in normal group, 29 OTUs   in   the   diabetic   group,   and   30 OTUs in the liraglutide 0.4 group. At the species  level, the unique OTU in the liraglutide 0.4 group included Lactobacillus_mucosae, Brevundimonas_vesicularis, Moraxella_ osloensis, and Anaerofustis_stercorihominis (Table 1).
+In accordance with the previous studies, the rat micro- biome was profoundly dominated by the phyla Firmicutes and Bacteroides. Firmicutes/Bacteroidetes ratio in the diabetic rat cecal was greatly changed. Liraglutide-treated group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. PCoA plots based on unweighted UniFrac metrics of the gut micro- biota.
+PC: principle coordinate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Effects of liraglutide on alpha diversity analysis of gut microbiota in diabetic male rats. OTU (a), Shannon index (b), and Chao1 index (c). Values are expressed as means +- SD. n 1/4 6 in each group. *P < 0.05 and **P < 0.01 versus normal control group; #P < 0.05 versus diabetic group.
+OTU: operational taxonomic unit.
+
+
+Christensenellaceae (P < 0.01), genera Christensenellaceae_ R_7_group (P < 0.01), the genera Ruminococcaceae_ UCG_010 (P < 0.001), the genera   Ruminoclostridium_6 (P < 0.01), the genera Prevotella_9 (P < 0.01), and the class Mollicutes (P < 0.01; Figure 7).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Shared OTU analysis of the different groups. Venn diagram showing the unique and shared OTUs (3% distance level) in the different groups. (A color version of this figure is available in the online journal.)
+
+
+
+
+Table 1. Unique OTU in liraglutide 0.4 group.
+
+
+
+Bacteria	Kingdom
+Bacteroidales	Order
+Mollicutes_RF9	Order
+Bacteroidales_S24-7_group	Family
+Clostridiales_vadinBB60_group	Family
+Porphyromonadaceae	Family
+Ruminococcaceae	Family
+Alistipes	Genus
+Bifidobacterium	Genus
+Cellulosilyticum	Genus
+Christensenellaceae_R-7_group	Genus
+Desulfovibrio	Genus
+Enterorhabdus	Genus
+Gardnerella	Genus
+Lachnospiraceae_UCG-010	Genus
+Oxalobacter	Genus
+Parabacteroides	Genus
+Peptoniphilus	Genus
+Sneathia	Genus
+Sphingomonas	Genus
+Anaerofustis_stercorihominis	Species
+Brevundimonas_vesicularis	Species
+Lactobacillus_mucosae	Species
+Moraxella_osloensis	Species
+
+OTU: operational taxonomic unit.
+
+
+had  a  reduced  Firmicutes/Bacteroidetes  ratio  and  relative abundance of Tenericutes (P < 0.01; Figure 5).
+LEfSe analysis showed multiple differences at lower taxonomic levels among the three groups (Figure 6). Fifty-eight bacteria changed significantly among the normal, diabetic, and liraglutide 0.4 group (P < 0.05). Among these bacteria, 11 bacteria showed a statistical difference between the liraglutide 0.4 group and diabetic group (P < 0.05). The genera Flavonifractor (P < 0.05), genera Lachnoclostridium (P < 0.01), species Ruminococcus_gnavus (P < 0.05), species Flavonifractor_plautii (P < 0.05), and species Bacteroides_acidifaciens (P < 0.05) were elevated sig- nificantly in liraglutide-treated group than the diabetic group. The reduced bacteria were mainly in the family
+
+Correlations between key bacteria and glucose metabolic index
+At the genus level, 11 bacteria showed a significant positive correlation with FBG. They were Lachnospiraceae_UCG_ 005, unidentied_Rumnococcaceae, Lchnospiraceae_UCG-010, Anaerotruncus, Adlercreutzia, Eubacterium_nodatum_group, Family_XIII_AD3011_group, Anaerovorax, Bilophila, Kurthia, and Parvibacter (P < 0.01). Nine bacteria showed a significant negative correlation with FBG. They were Lactobacillus, Prevotellaceae_NK3B31_group, Ruminococcus_ 2,	Prevotellaceae_UCG-001,	Ruminoclostridium_5, Lachnospiraceae_UCG-001, Acetatifactor, Family_XIII_UCG- 001, and Lachnospiraceae_UCG-006 (P < 0.01; Table 2).
+
+Discussion
+In this study, we used high-fat diet and low-dose-STZ- injected rats as an animal model for T2DM. Similar to pre- vious studies,14,15 we found that the body weight in the diabetic male rats was lower than that in the  control group. Liraglutide-treated male rats had a slight increase in body weight (about 3%) than that in diabetic male rats in this experiment, probably due to the symptom relief of dia- betes. To avoid the influence of estrogens and estrous cycle on insulin secretion and insulin sensitivity, we only used male rats in our study. We found that liraglutide treatment moderated glucose intolerance and insulin sensitivity dose- dependently in diabetic male rats. Our study demonstrated that diabetic state and administration of liraglutide pro- foundly change the composition of gut microbiota. First, we observed marked declines in microbial richness and diversity in diabetic male rats. Denou et al. found lower alpha diversity within the phylum Bacteroidetes in both the colon and feces of high-fat-diet-fed mice.16 Second, by using unweighted UniFrac PCA analysis, we confirmed that the gut microbiota of the normal, diabetic, and liraglutide-treated male rats were structurally separated from each other in the two principal components.
+Furthermore, our result presented that compared with the normal rats, diabetic rats had increased Firmicutes-to- Bacteroidetes ratio in the fecal microbiota. Liraglutide- treated group had a lower ratio of Firmicutes/Bacteroidetes in the gut microbiota. More and more evidence shows some structure changes in the gut microbiota during metabolic disease, such as obesity and diabetes, including a dimin- ished relative abundance of Bacteroidetes and a relative enlargement of Firmicutes.16-19
+Additionally, at the phylum level, diabetic group had a slight increase in the relative abundance of Tenericutes. Liraglutide-treated group had a reduced relative abundance of Tenericutes. Yan et al. found that there was a higher abun- dance of Tenericutes in obese rats than lean groups.18 The class Mollicutes is the only class within the phylum Tenericutes. Consuming low-fat or low-carbohydrate diets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5. Diabetic and liraglutide treatment affect the proportions of different phyla. The composition of abundant bacterial phyla identified in the gut microbiota of normal (a), diabetic (b), liraglutide 0.4 (c) group; the relative abundance of Firmicutes (d), Bacteroidetes (e), Tenericutes (g); and the ratio of Firmicutes and Bacteroidetes (f). n 1/4 6 in each group. *P < 0.05, **P < 0.01 versus normal control group; #P < 0.05, ##P < 0.01 versus diabetic group.
+
+
+
+for a year can normalize the higher relative abundance of
+Mollicutes in the fecal microbiota of obese human.20
+In addition, Venn  figure identified that Bif idobacterium
+was the unique genera in liraglutide 0.4 group compared to
+
+the normal and diabetic group. Correlation analysis also showed that Lactobacillus was negatively related to FBG. Bif idobacterium and Lactobacillus were probiotic bacteria. Probiotics can modify the overall microbial population,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 6. Taxonomic representation of statistically and biologically consistent differences among normal, diabetic, and liraglutide 0.4 group. (a) Differences are represented by the color of the most abundant class (red indicating diabetic group, green liraglutide 0.4 group, and blue normal group). The diameter of each circle is proportional to the taxon's abundance. (b) LDA values in LEfSe analysis.
+LDA: linear discriminant analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 7. The boxplots of key bacterial groups in liraglutide-treated group significant differed with diabetic group. Ruminiclostridium_6 (a), Ruminococcut_gnavus (b), Ruminococcaceae_UCG_010 (c), Prevotella_9 (d), Mollicutes (e), Lachnoclostridium (f), Flavonifractor_plautii (g), Flavonifractor (h), Christensenellaceae_R_7_group (i), Christensenellaceae (j), and Bacteroides_acidifaciens (k). Kruskal-Wallis nonparametric test, followed by the Wilcoxon tests. The data were shown as median (min- max). n 1/4 6 in each group. *P < 0.05 versus normal group; #P < 0.05, ##P < 0.01, and ###P < 0.001 versus diabetic group.
+
+
+promoting for the host health.21 Previous studies revealed that Lactobacillus decreased in the diabetic rats 18 and high-fat-diet rats.22 Moreover, probiotics treatment could reduce plasma inflammatory cytokines, such as lipo- polysaccharide, Tumor necrosis factor-a, and IL-6 in Zucker obese rats.23 Wang et al. found that Lactobacillus could pre- vent high-fat-diet-induced metabolic syndrome and improve inflammatory reactions in mice.24 Fontana et al.
+
+found that Lactobacillus could reduce the plasma inflamma- tory cytokines on Zucker obese rats.23 Particularly, our data also showed that liraglutide could reduce serum IL-6 in the diabetic male rats. This moderation may be involved with increasing amount of probiotic bacteria in the gut. Some food intervention could increase Lactobacillus in fecal micro- bial. Administration of feruloylated oligosaccharides from maize bran to normal diet rats could increase Lactobacillus
+
+
+Table 2. Spearman's correlation between identified OTUs at genera level and FBG (P < 0.01).
+Lachnospiraceae_UCG-010	0.7526	0.0002
+Lachnospiraceae_UCG-005	0.7333	0.0004
+Eubacterium_nodatum_group	0.714	0.0006
+Family_XIII_AD3011_group	0.6848	0.0012
+Anaerotruncus	0.6807	0.0013
+Anaerovorax	0.6394	0.0032
+Bilophila	0.638	0.0033
+Unidentified_Ruminococcaceae	0.6345	0.0035
+Adlercreutzia	0.5902	0.0078
+Kurthia	0.5847	0.0086
+Parvibacter	0.5776	0.0096
+Acetatifactor	-0.5777 	0.0096
+Ruminiclostridium_5	-0.5897 	0.0079
+Lachnospiraceae_UCG-001	-0.6009 	0.0065
+Prevotellaceae_NK3B31_group	-0.6315 	0.0037
+Family_XIII_UCG-001	-0.6617 	0.002
+Ruminococcus_2	-0.6889 	0.0011
+Prevotellaceae_UCG-001	-0.6927 	0.001
+Lactobacillus	-0.7684 	0.0001
+   Lachnospiraceae_UCG-006	-0.8067	<0.0001
+OTU: operational taxonomic unit; FBG: fasting blood glucose.
+
+
+
+in fecal microbiota.25 Whole wheat consumption was asso- ciated with a three times higher abundance of Lactobacillus compared to both obese and lean control mice.26
+At the genus level, liraglutide-treated   group   had  an increased level of Bacteroides_acidifaciens and Lachnoclostridium. Correlation analysis revealed the nega- tive correlation between Lachnospiraceae_UCG-001 and FBG. Bacteroides and Lachnospiraceae are short-chain fatty acid (SCFA)-producing bacteria. SCFA may directly pre- vent low-grade inflammatory response,27 enhance the secretion of peptide YY (PYY) and GLP-1,28 and increase insulin sensitivity.29 Previous study showed that the abun- dance of Bacteroides in the T2DM Chinese patients was just half than that of the normal glucose tolerance subjects and prediabetes.30 Wu et al. also found the genera Bacteroide vulgatus were less represented in the microbiota of the diabetic group than the non-diabetic group.31 Both berber- ine and metformin could increase Bacteroides in high-fat- diet-induced obese rats.32 Main SCFAs include acetate, propionate, and butyrate. Especially, Lachnospiraceae is the key buryrate-producing taxa. Butyrate is a beneficial energy source for colonic epithelial cells to maintain colonic health.33 Moreover, butyrate can increase fatty acid oxida- tion and energy expenditure in humans.34 Recent data raises the linkage of reduced levels of butyrate-producing bacteria and T2D. Moreover, the alteration of microbiota structure was considered as a leading cause in improving metabolic phenotype, when transferring the microbiota from obese subjects to mice. Physically fit healthy subjects showed increased abundance of Lachnospiraceae in fecal microbiota and increased production of fecal butyrate. Also, Lachnospiraceae exhibited a positive relationship with peak oxygen uptake, the gold standard measure
+
+of cardiorespiratory fitness.35 Metformin induced the growth of butyrate-producing gut taxa to activate gut hormones, such as GLP-1 and PYY, to reduce blood glucose.36,37
+Besides, our data showed Prevotella genera was much reduced in liraglutide-treated male rats. Prevotella, Gram- negative bacteria, is a known mucin degrader.38 Mucin serves as the carbon and nitrogen source for Prevotella. There was an increase in Prevotella in abundance in patients with T2D comparing with the healthy control group.19 Another group showed increased Prevotella genus in abun- dance in patients with glucose intolerance.39
+We also found that Ruminococcaceae abundance was lower in liraglutide-treated male rats than the diabetic male rats. In another study, there was a reduction in the abundance of Ruminococcaceae in a bitter melon formulation-treated male rats (could reduce FBG) com- pared to the diabetic rats.40
+In conclusion, our findings suggest that significant changes in gut microbiota are associated with liraglutide treatment on the diabetic male rats, including enrichment of SCFA producers and probiotic  bacteria.  This  may help alleviate systemic   inflammation   and   contribute  to the beneficial effects of liraglutide against diabetes. Further research is required to elucidate the mechanisms by which liraglutide affects gut microbiota of diabetes status and to reveal the specific bacteria which moderate diabetes.
+
+Author contributions: XHX conceived and designed the experiments; QZ, JZ, TW, and XJW performed the experi- ments; MY, ML, and FP analyzed the data; XHX contribut- ed reagents, materials, and analysis tools; and QZ wrote the paper.
+
+ACKNOWLEDGMENTS
+
+We are very grateful to Beijing Compass Biotechnology Company for excellent technical assistance with 16s sequenc- ing experiments.
+
+DECLARATION OF CONFLICTING INTERESTS
+
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article. The founding sponsors had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; and in the decision to publish the results.
+
+FUNDING
+
+This work was supported by National Key Research and Development Program of China (2016YFA0101002), National Natural Science Foundation of China (81170736, 81570715), National Natural Science Foundation for Young Scholars of China (81300649), China Scholarship Council Foundation (201308110443), PUMC Youth Fund (33320140022), China
+Diabetes Young  Scientific Talent  Research Funding, Diabetes
+
+
+
+Research Fund from Clinical Research of Chinese Medical Association and Chinese Diabetes Society (12030500350), Fundamental Research Funds for the Central Universities,  and the Scientific Activities Foundation for Selected Returned Overseas Professional of Human Resources and Social Security Ministry.
+
+REFERENCES
+
+Qin J, Li Y, Cai Z, Li S, Zhu J, Zhang F, Liang S, Zhang W, Guan Y, Shen D, Peng Y, Zhang D, Jie Z, Wu W, Qin Y, Xue W, Li J, Han L, Lu D, Wu P, Dai Y, Sun X, Li Z, Tang A, Zhong S, Li X, Chen W, Xu R, Wang M, Feng Q, Gong M, Yu J, Zhang Y, Zhang M, Hansen T, Sanchez G, Raes J, Falony G, Okuda S, Almeida M, LeChatelier E, Renault P, Pons N, Batto JM, Zhang Z, Chen H, Yang R, Zheng W, Li S, Yang H, Wang J, Ehrlich SD, Nielsen R, Pedersen O, Kristiansen K, Wang J. A metagenome-wide association study of gut microbiota in type 2 diabetes. Nature 2012;490:55-60
+Rabot S, Membrez M, Bruneau A, Gerard P, Harach T, Moser M, Raymond F, Mansourian R, Chou CJ. Germ-free C57BL/6J mice are resistant to high-fat-diet-induced insulin resistance and have altered cholesterol metabolism. FASEB J 2010;24:4948-59
+Turnbaugh PJ, Ridaura VK, Faith JJ, Rey FE, Knight R, Gordon JI. The effect of diet on the human gut microbiome: a metagenomic analysis in humanized gnotobiotic mice. Sci Transl Med 2009;1:6ra14
+Gomes AC, Bueno AA, de Souza RG, Mota JF. Gut microbiota, pro- biotics and diabetes. Nutr J 2014;13:60
+Ross SA, Ekoe JM. Incretin agents in type 2 diabetes. Can Fam Physician
+2010;56:639-48
+Zhang Q, Sun X, Xiao X, Zheng J, Li M, Yu M, Ping F, Wang  Z,  Qi C,  Wang T, Wang X. Maternal chromium restriction leads to  glucose metabolism  imbalance  in   mice   offspring   through   insulin   signaling  and Wnt signaling pathways. Int J Mol Sci 2016;17:1767
+Magoc T, Salzberg SL. FLASH: fast length adjustment of short reads to improve genome assemblies. Bioinformatics 2011;27:2957-63
+Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bushman FD, Costello EK, Fierer N, Pena AG, Goodrich JK, Gordon JI, Huttley GA, Kelley ST, Knights D, Koenig JE, Ley RE, Lozupone CA, McDonald D, Muegge BD, Pirrung M, Reeder J, Sevinsky JR, Turnbaugh PJ, Walters WA, Widmann J, Yatsunenko T, Zaneveld J, Knight R. QIIME allows analysis of high-throughput community sequencing data. Nat Meth 2010;7:335-6
+Edgar RC. UPARSE: highly accurate OTU sequences from microbial amplicon reads. Nat Methods 2013;10:996-8
+DeSantis TZ, Hugenholtz P, Larsen N, Rojas M, Brodie EL, Keller K, Huber T, Dalevi D, Hu P, Andersen GL. Greengenes, a chimera-checked 16S rRNA gene database and workbench compatible with ARB. Appl Environ Microbiol 2006;72:5069-72
+Wang Q, Garrity GM, Tiedje JM, Cole JR. Naive Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Appl Environ Microbiol 2007;73:5261-7
+Lozupone C, Knight R. UniFrac: a new phylogenetic method for com- paring microbial communities. Appl Environ Microbiol 2005;71:8228-35
+Segata N, Izard J, Waldron L, Gevers D, Miropolsky L, Garrett WS, Huttenhower C. Metagenomic biomarker discovery and explanation. Genome Biol 2011;12:R60
+Zhou CH, Zhang MX, Zhou SS, Li H, Gao J, Du L, Yin XX. SIRT1 attenuates neuropathic pain by epigenetic regulation of mGluR1/5 expressions in type 2 diabetic rats. Pain 2017;158:130-9
+Asadi S, Goodarzi MT, Saidijam M, Karimi J, Azari RY, Farimani AR, Salehi I. Resveratrol attenuates visfatin and vaspin genes expression in adipose tissue of rats with type 2 diabetes. Iran J Basic Med Sci 2015;18:537-43
+Denou E, Marcinko K, Surette MG, Steinberg GR, Schertzer JD. High- intensity exercise training increases the diversity and metabolic
+
+capacity of the mouse distal gut microbiota  during  diet-induced  obe- sity. Am J Physiol Endocrinol Metab 2016;310:E982-93
+Ley RE, Backhed F, Turnbaugh P, Lozupone CA, Knight RD, Gordon JI. Obesity alters gut microbial ecology. Proc Natl Acad Sci U S A 2005;102:11070-5
+Yan X, Feng B, Li P, Tang Z, Wang L. Microflora disturbance during progression of glucose intolerance and effect of Sitagliptin: an animal study. J Diabetes Res 2016;2016:2093171
+Larsen N, Vogensen FK, van den Berg FW, Nielsen DS, Andreasen AS, Pedersen BK, Al-Soud WA, Sorensen SJ, Hansen LH, Jakobsen M. Gut microbiota in human adults with type 2 diabetes differs from non-  diabetic adults. PLoS One 2010;5:e9085
+Turnbaugh PJ, Backhed F, Fulton L, Gordon JI. Diet-induced obesity is linked to marked but reversible alterations in the mouse distal gut microbiome. Cell Host Microbe 2008;3:213-23
+Gibson GR. Prebiotics as gut microflora management tools. J Clin Gastroenterol 2008;42Suppl2:S75-9
+Lau E, Marques C, Pestana D, Santoalha M, Carvalho D, Freitas P, Calhau C. The role of I-FABP as a biomarker of intestinal barrier dys- function driven by gut microbiota changes in obesity. Nutr Metab (Lond) 2016;13:31
+Plaza-Diaz J, Gomez-Llorente C, Abadia-Molina F, Saez-Lara MJ, Campana-Martin L, Munoz-Quezada S, Romero F, Gil A, Fontana L. Effects of Lactobacillus paracasei CNCM I-4034, Bif idobacterium breve CNCM I-4035 and Lactobacillus rhamnosus CNCM I-4036 on hepatic steatosis in Zucker rats. PLoS One 2014;9:e98401
+Wang J, Tang H, Zhang C, Zhao Y, Derrien M, Rocher E, van-Hylckama Vlieg JE, Strissel K, Zhao L, Obin M, Shen J. Modulation of gut micro- biota during probiotic-mediated attenuation of metabolic syndrome in high fat diet-fed mice. ISME J 2015;9:1-15
+Ou JY, Huang JQ, Song Y, Yao SW, Peng XC, Wang MF, Ou SY. Feruloylated oligosaccharides from maize bran modulated the gut microbiota in rats. Plant Foods Hum Nutr 2016;71:123-8
+Garcia-Mazcorro JF, Ivanov I, Mills DA, Noratto G. Influence of whole- wheat consumption on fecal microbial community structure of obese diabetic mice. PeerJ 2016;4:e1702
+Boulange CL, Neves AL, Chilloux J, Nicholson JK, Dumas ME. Impact of the gut microbiota on inflammation, obesity, and metabolic disease. Genome Med 2016;8:42
+Yoo JY, Kim SS. Probiotics and prebiotics: present status and future perspectives on metabolic disorders. Nutrients 2016;8:173
+Canfora EE, Jocken JW, Blaak EE. Short-chain fatty acids in control of body weight and insulin sensitivity. Nat Rev Endocrinol 2015;11:577-91
+Zhang X, Shen D, Fang Z, Jie Z, Qiu X, Zhang C, Chen Y, Ji L. Human gut microbiota changes reveal the progression of glucose intolerance. PLoS One 2013;8:e71108
+Wu X, Ma C, Han L, Nawaz M, Gao F, Zhang X, Yu P, Zhao C, Li L, Zhou A, Wang J, Moore JE, Millar BC, Xu J. Molecular characterisation of the faecal microbiota in patients with type II diabetes. Curr Microbiol 2010;61:69-78
+Zhang X, Zhao Y, Xu J, Xue Z, Zhang M, Pang X, Zhang X, Zhao L. Modulation of gut microbiota by berberine and metformin during the treatment of high-fat diet-induced obesity in rats. Sci Rep 2015;5:14405
+Peng L, He Z, Chen W, Holzman IR, Lin J. Effects of butyrate on intes- tinal barrier function in a Caco-2 cell monolayer model of intestinal barrier. Pediatr Res 2007;61:37-41
+Suzuki T, Yoshida S, Hara H. Physiological concentrations of  short- chain fatty acids immediately suppress colonic  epithelial  permeability. Br J Nutr 2008;100:297-305
+Estaki M, Pither J, Baumeister P, Little JP, Gill SK, Ghosh S, Ahmadi-Vand Z, Marsden KR,  Gibson  DL.  Cardiorespiratory  fitness  as a predictor of intestinal microbial diversity and distinct  metage-  nomic functions. Microbiome 2016;4:42
+Maniar K, Moideen A, Mittal A, Patil A, Chakrabarti A, Banerjee D. A story of metformin-butyrate synergism to control various patholog- ical conditions as a consequence of gut microbiome modification: genesis of a wonder drug? Pharmacol Res 2017;117:103-28
+
+
+
+Burton JH, Johnson M, Johnson J, Hsia DS, Greenway FL, Heiman ML. Addition of a gastrointestinal microbiome modulator to metformin improves metformin tolerance and fasting glucose  levels.  J  Diabetes  Sci Technol 2015;9:808-14
+Wright DP, Rosendale DI, Robertson AM. Prevotella enzymes involved in mucin oligosaccharide degradation and evidence for a small operon of genes expressed during growth on mucin. FEMS Microbiol Lett 2000;190:73-9
+Egshatyan L, Kashtanova D, Popenko A, Tkacheva O, Tyakht A, Alexeev D, Karamnova N, Kostryukova E, Babenko V, Vakhitova M,
+
+Boytsov S. Gut microbiota and diet in patients with different glucose tolerance. Endocr Connect 2016;5:1-9
+Zhu Y, Bai J, Zhang Y, Xiao X, Dong Y. Effects of bitter melon (Momordica charantia L.) on the  gut microbiota in high  fat diet  and  low dose streptozocin-induced rats. Int J Food Sci Nutr 2016;67:686-95
+
+(Received September 4, 2017, Accepted October 30, 2017)

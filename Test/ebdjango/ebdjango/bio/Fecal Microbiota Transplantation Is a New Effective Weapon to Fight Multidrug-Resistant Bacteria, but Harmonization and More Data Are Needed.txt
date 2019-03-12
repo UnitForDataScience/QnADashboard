@@ -1,0 +1,92 @@
+into consideration time to event and allows analysis of time-dependent var- iables [2, 3]. This is particularly certain when we are taking into consideration the relation with  antibiotic  exposures. In their study, Tamma et al considered antibiotic therapy as a time-fixed varia- ble. Exposure to antibiotics can change during patient admission and may vary during the observation time. Recent publications suggest measuring antibi- otic therapy as a time-dependent vari- able; this would prevent the study from being subject to immortal time bias [4-6].
+The authors did not report antibiotic exposures previous to the development of bacteremia. Previous antibiotic expo- sures could have altered the patients' microbiome, increasing the risk of col- onization and infection with antimi- crobial-resistant organisms, and might have an effect in the odds for bacter- emia recurrence and 14-day mortality.
+Besides the possible  distortion  on  the results caused by the way antibiotic therapy was measured, there are several implications of Tamma et al's findings. Currently, clinical microbiology labo- ratories are not required or encouraged to perform carbapenemase  detection  test for clinical management; the test is recommended for epidemiological rea- sons (such as infection control purposes to avoid horizontal transmission and cohorting patients)  [7].  Furthermore, the Centers for Disease Control and Prevention toolkit for CRE prevention and control does not differentiate in the approach between CP-CRE and non-CP CRE [8].
+At our institution, we do have a differ- ent approach for patients with CP-CRE compared to non-CP CRE. All new CRE isolates are tested for cabapenemase production using the Carba-NP test [9]; occasionally, if necessary, they are also sent out for polymerase chain reac- tion sequencing. CP-CRE patients have cohorted staff, which many times means a nurse-to-patient ratio of 1:1, and dif- ferent contact precautions signage; in
+
+addition, a daily email with the list of CP-CRE patients currently admitted in the facility is distributed to a select group of clinicians, bed placement, nursing, antimicrobial stewardship, and other healthcare providers [10]. Our approach has enabled us not only to effectively control and prevent the spread of these organisms beyond infection control purposes, but also to inform appropri- ate antibiotic therapy. Each case is ana- lyzed to determine the best combination of antimicrobials based on the possible mechanism of resistance, providing per- sonalized combinations of antimicro- bial regimens for patients where limited options exist in the current antibiotic armamentarium (unpublished data).
+We commend Tamma et al for an excellent manuscript with valuable find- ings, which will hopefully encourage others to consider the complexity of anti- biotic exposure as a time-dependent var- iable in the future.
+Note
+Potential conflicts of interest. L. A. has re- ceived payment from Pfizer for lectures outside the submitted work. All other  authors  report  no potential conflicts. All authors have submit- ted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manu- script have been disclosed.
+Adriana Jimenez,1,2 Lilian Abbo,1,3 and
+Merhawi T. Gebrezgi2
+1Department of Infection Prevention and Control, Jackson Memorial Hospital, 2Department of Epidemiology, Robert Stempel College of Public Health and Social Work, Florida International University, and 3Division of Infectious Diseases, University of Miami Miller School of Medicine, Florida
+
+
+References
+Tamma PD, Goodman KE, Harris AD, et al. Comparing the outcomes of patients with carbap- enemase-producing and non-carbapenemase-pro- ducing carbapenem-resistant Enterobacteriaceae bacteremia. Clin Infect Dis 2016; 64:257-64.
+Bull K, Spiegelhalter DJ. Tutorial in biostatistics survival analysis in observational studies. Stat Med 1997; 16:1041-74.
+Snyder GM, Young H, Varman M, Milstone AM, Harris AD, Munoz-Price S. Research methods in healthcare epidemiology and antimicrobial stew- ardship-observational studies. Infect Control Hosp Epidemiol 2016; 37:1141-6.
+Munoz-Price LS, Frencken JF, Tarima S, Bonten
+M. Handling time dependent variables: antibiot- ics and antibiotic resistance. Clin Infect Dis 2016; 62:1558-63.
+
+Jongerden IP, Speelberg B, Satizabal CL, et al. The role of systemic antibiotics in acquiring respiratory tract colonization with gram-negative bacteria in intensive care patients: a nested cohort study. Crit Care Med 2015; 43:774-80.
+Noteboom Y, Ong DS, Oostdijk EA, et al. Antibiotic-induced within-host resistance develop- ment of gram-negative bacteria in patients receiv- ing selective decontamination or standard care. Crit Care Med 2015; 43:2582-8.
+Clinical and Laboratory Standards Institute. Performance standards for antimicrobial suscep- tibility testing: 27th informational supplement (M100S27E). Wayne, PA: CLSI, 2017.
+Centers for Disease Control and Prevention. CRE toolkit--guidance for control of carbapenem-resistant Enterobacteriaceae (CRE). Atlanta, GA: CDC, 2012.
+Nordmann P, Poirel L, Dortet L. Rapid detection  of carbapenemase-producing Enterobacteriaceae. Emerg Infect Dis 2012; 18:1503-7.
+Jimenez A, Castro JG, Munoz-Price LS, et al. Outbreak of Klebsiella pneumoniae carbapene- mase-producing Citrobacter freundii at a tertiary acute care facility in Miami, Florida. Infect Control Hosp Epidemiol 2017; 38:320-6.
+
+
+Correspondence: A. Jimenez, Department of Infection Prevention and Control, Jackson Memorial Hospital, 1611 NW 12th Ave, Park Plaza West L-301, Miami, FL 33136-1096 (adri- ana.jimenez@jhsmiami.org).
+Clinical Infectious Diseases(r) 2017;65(8):1424-5
+(c) The Author 2017. Published by Oxford University Press for the Infectious Diseases Society of America. All rights reserved. For permissions, e-mail:  DOI: 10.1093/cid/cix537
+
+
+C 
+Fecal Microbiota Transplantation Is a New Effective Weapon
+to Fight Multidrug-Resistant Bacteria, but Harmonization and More Data Are Needed
+To the Editor--We have read with great interest the article by Bilinski et al on fe- cal microbiota transplantation (FMT) in patients with blood disorders [1].
+They performed 25 intraduodenal FMTs among 20 immunosuppressed patients colonized with antibiotic-resist- ant bacteria (ARB). FMT was successful in 15 of 25 (60%) procedures at 1 month postprocedure among the 20 patients and 13 of 14 (93%) patients at 6 months.
+These results are encouraging and in line with our study among 8 carriers of highly resistant digestive bacteria [2], but some questions still need to be discussed.
+Impact  of  immunosuppression:   FMT is usually discouraged in immunocom- promised patients due to possible septic complications [3]. Nonetheless, Bilinsky
+
+
+CORRESPONDENCE * CID 2017:65 (15 October) * 1425
+
+et al performed FMT in such patients without septic adverse events, showing it may not be a contraindication for FMT.
+Age of patient: Its impact  on  fail-  ure of decolonization by FMT as for Clostridium difficile infection (CDI) seems possible.
+Antimicrobials prior to FMT: The authors did not use antimicrobials for decolonization prior to FMT, as we did in our study, contrary to Lagier et al [2, 4].
+Multiple FMTs: FMT was performed twice among 3 patients and 3 times among 1 patient in this study. This supports the concept of a dose/effect for FMT efficacy as discussed in our study [2]. However, the authors did not provide the indication for these multi- ple FMT procedures; was it because of failure of decolonization?
+Fresh vs frozen feces: In our study, we used frozen feces for pragmatic reasons, whereas Bilinsky et al used fresh feces. Hitherto, no difference has been found between fresh vs frozen feces in CDI [5].
+Definition of decolonization: the authors defined gut decolonization as a negative result for a minimum of 2 con- secutive rectal swab cultures, but they did not specify the minimum time delay between the 2 swabs, which is of impor- tance as recolonization could often occur, as emphasized by the authors.
+The authors showed outstanding results of FMT on ARB decolonization. Yet, we did not meet the same results, with 2 of 8 patients decolonized at 1 month and
+3 of 8 at 3 months. This discrepancy could be explained by several factors previously discussed: Our patients were older (median age was 69.5 vs 51 years in Bilinsky et al); only 1 FMT was performed for each patient; frozen feces were used; 5 of our patients received antimicrobials during follow-up, which is significantly associated with failure [1]; and, last, we studied colonization by carbapenem-re- sistant Enterobacteriaceae or vancomy- cin-resistant enterococci, and their rate of decolonization is different according to a recent experimental model [6].
+
+We fully agree with the authors that FMT seems to be a safe and long-lasting response, contrary to only oral antimi- crobial decolonization [7].
+Finally, the authors suggested that individuals undergoing allogeneic hema- togenous cell transplantation, colonized with ARB, had a higher mortality rate and lower overall survival rate compared with noncolonized individuals, but this out- come was not evaluated in their study [8]. In conclusion, we need to standardize and harmonize practice to correctly eval- uate FMT, which seems to be a promising
+strategy [9].
+
+Note
+Potential conflicts of interest. All authors: No reported conflicts of interest. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.
+Aurelien Dinh,1 Clara Duran,1 Frederique Bouchand,2
+Jerome Salomon,1,3 and Benjamin Davido1
+1Infectious Disease Unit and 2Pharmacy Department,
+Poincare University Hospital, Assistance Publique-Hopitaux de Paris, Versailles Saint-Quentin University, Garches, and 3UMR 1181, INSERM, Institut Pasteur, Paris, France
+
+References
+Bilinski J, Grzesiowski P, Sorensen N,  et  al.  Fecal  microbiota  transplantation  in   patients with blood disorders inhibits gut colonization  with antibiotic-resistant bacteria: results of a prospective, single-center study. Clin Infect Dis 2017;65:364-70.
+Davido B, Batista R, Michelon H, et al. Is faecal microbiota transplantation an option to eradicate highly drug-resistant enteric bacteria carriage? J Hosp Infect 2017; 95:433-7.
+Agence Nationale de Securite du Medicament et des Produits de Sante. La transplantation de microbiote fecal et son encadrement dans les essais cliniques. 2015. Available at:  download/79197/1003045/version/2/file/Microbiote- fecal-juillet+2015.pdf. Accessed 8 April 2017.
+Lagier JC, Million M, Fournier PE, Brouqui P, Raoult  D.  Faecal  microbiota   transplantation   for stool decolonization of OXA-48 carbapene- mase-producing Klebsiella pneumoniae. J Hosp Infect 2015; 90:173-4.
+Lee CH, Steiner T, Petrof EO, et al. Frozen vs fresh fecal microbiota transplantation and clinical resolution of diarrhea in patients with recurrent Clostridium difficile infection: a randomized clini- cal trial. JAMA 2016; 315:142-9.
+Mahieu R, Cassisa V, Godefroy A, et al. Les  BHRe sont-elles egales face a la transplantation  de microbiote fecal?[in French]. In: Reunion Interdisciplinaire de Chimiotherapie Anti Infectieuse, Paris, France, 2016. Available at: http://Accessed 8 April 2017.
+
+Oostdijk EAN, de Smet AGA, Kesecioglu J, Bonten MJM. Decontamination of cephalosporin-resist- ant Enterobacteriaceae during selective digestive tract decontamination in intensive care units. J Antimicrob Chemother 2012; 67:2250-3.
+Bilinski J, Robak K, Peric Z, et al. Impact of gut colonization by antibiotic-resistant bacteria on the outcomes of allogeneic hematopoietic stem cell transplantation: a retrospective, single-center study. Biol Blood Marrow Transplant 2016; 22:1087-93.
+Galperine T, Sokol H, Guery B. Fecal microbiota transplantation: do we need harmonization? Clin Infect Dis 2017; 64:1292.
+
+
+Correspondence: A. Dinh, Infectious Disease Unit, Raymond Poincare University Hospital, Assistance Publique-Hopitaux de Paris, Versailles Saint-Quentin University, 104 Bd R. Poincare, 92380 Garches, France (aurelien.dinh@aphp.fr).
+Clinical Infectious Diseases(r) 2017;65(8):1425-6
+(c) The Author 2017. Published by Oxford University Press for the Infectious Diseases Society of America. All rights reserved. For permissions, e-mail:  DOI: 10.1093/cid/cix538
+
+
+
+High-Dose Daptomycin and Mortality: The Case Is Not Yet Closed
+To the Editor--In the 1 March 2017 issue of Clinical Infectious Diseases, Britt et al [1] reported on a cohort study of hospitalized Veterans Affairs (VA) pa- tients treated with standard-, medi- um-, or high-dose daptomycin (6, 8, or
+>=10 mg/kg total body weight, respective- ly) for vancomycin-resistant Enterococcus bloodstream infection. Although the authors conclude that high-dose dap- tomycin was associated with improved survival and microbiologic clearance in patients with such infection, we do not believe their data can be interpreted with- out additional information beyond what was presented in the article.
+There are several issues concerning the definition and analyses of the primary outcome. It seems that follow-up was truncated at 30 days, and it is not clear how the primary outcome of "overall sur- vival" (P = .002 for standard- and P = .003 for standard-medium-dose daptomycin) differs from the secondary outcome of "30-day all-cause mortality" (P = .042 for daptomycin dose), because the curve presented [1, fig 1] tracks survival only to 30 days. Of the 911 patients analyzed in the study, 843 were no longer being
+
+
+
+1426 * CID 2017:65 (15 October) * CORRESPONDENCE

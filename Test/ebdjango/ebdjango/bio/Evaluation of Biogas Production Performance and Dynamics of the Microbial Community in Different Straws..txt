@@ -1,0 +1,445 @@
+
+J. Microbiol. Biotechnol. (2017), 27(3), 524-534 https://doi.org/10.4014/jmb.1608.08062
+
+jmb
+
+
+
+Evaluation of Biogas Production Performance and Dynamics of the Microbial Community in Different Straws
+
+1+	1+	1	1	1
+
+2	3*
+
+Xue Li
+
+, Yan-Hua Liu
+
+, Xin Zhang , Chang-Ming Ge , Ren-Zhe Piao , Wei-Dong Wang , Zong-Jun Cui
+
+, and
+
+Hong-Yan Zhao1*
+
+Yanbian University, Yanji, Jilin 133001, P.R. China
+Heilongjiang August First Land Reclamation University, Daqing, Heilongjiang 163319, P.R. China China Agriculture University, Beijing 100083, P.R. China
+
+
+The development and utilization of crop straw biogas resources can effectively alleviate the shortage of energy, environmental pollution, and other issues. This study performed  a continuous batch test at 35degC to assess the methane production potential and volatile organic  acid contents using the modified Gompertz equation. Illumina MiSeq platform  sequencing, which is a sequencing method based on sequencing-by-synthesis, was used to compare the archaeal  community diversity, and denaturing gradient gel  electrophoresis (DGGE) was used   to analyze the bacterial community diversity in rice straw,  dry  maize  straw,  silage  maize  straw, and tobacco straw. The results showed that cumulative gas production values for silage maize straw, rice straw, dry maize straw, and tobacco straw were 4,870, 4,032.5, 3,907.5, and 3,628.3 ml/g *VS , respectively, after 24 days. Maximum daily gas production values of silage maize straw and rice straw were 1,025 and 904.17 ml/g *VS, respectively, followed by tobacco straw and dry maize straw. The methane content of all four kinds of straws was > 60%, particularly that of silage maize straw, which peaked at 67.3%. Biogas production from the    four kinds of straw was in the order silage maize straw > rice straw > dry maize straw >     tobacco straw, and the values were 1,166.7, 1,048.4, 890, and 637.4 ml/g *VS, respectively. The microbial community analysis showed that metabolism was mainly carried out by acetate- utilizing methanogens, and that Methanosarcina was the dominant archaeal genus in the four kinds of straw, and the DGGE bands belonged to the phyla Firmicutes, Bacteroidetes, and Chloroflexi. Silage maize is useful for biogas production because it contains  four  kinds  of straw.
+
+Keywords: Straw, anaerobic fermentation, microbial community
+
+
+
+
+Introduction
+
+China is among the countries with the highest field crop straw production in the world. More than 600 million tons of crop straw are produced annually in China, such as rice straw, wheat straw, maize straw, and tobacco straw [1]. Anaerobic fermentation technology is an effective means of converting agricultural waste into clean energy [2]. Biogas significantly reduces the costs of treating waste straw and has a relatively low feedstock cost. However, the raw material is affected by season and price, and the wide
+
+range of biomass raw materials should be studied [3]. Different crops have been screened for their methane pwoithnctiraolp[s3,f4ro],manddifefxertentivcleimscarteiecnainregahsa[s5-be1e0n]. pHerofworemverd, very little is known about the methane potential of crops suitable for biomass production in the cold areas of northeastern China. Furthermore, only the higher methane potential of cheap crop straw, which is adapted to the northern cold climate, has been studied.
+Many studies have been performed on different straw co- digestion methods to improve biogas production and
+
+
+
+
+
+stability of the process. Angelidaki and Ellegaard [11] indicated that co-digesting cow manure and straw improves biogas production efficiency. Cuetos et al. [12] reported that co-digesting crop straw and pig manure produces more gas than mono-digesting each one alone. The highest biogas and methane yields have been obtained from mixtures of swine manure and maize silage at ratios of 6:4 and 1:1, respectively [13]. Mixed fermentation optimizes methane yield from cow manure, chicken manure, and a 1:2:1 straw mixture ratio [14]. However, few studies have reported using different straw types as co-substrates for biogas production by anaerobic fermentation.
+Characterizing a microbial community composition is important when assessing and enhancing digestion efficiency, because the stability and efficiency of anaerobic digestion (AD) largely depends on the identity of the active microorganisms [15]. The AD process involves hydrolysis, acidogenesis, and methanogenesis, and each phase is mediated by a unique functional group of microbes [16, 17]. Qiao et al. [18] reported that acetoclastic methanogens are dominant in the corn straw-decomposing archaeal community. Yan et al. [9] showed that acetoclastic methanogens dominant during the early stages of reactor start-up are replaced by hydrogenotrophic methanogens during the stabilization stage of solid-state AD from rice straw.
+The methane characteristics of different crop straw and substrates have been reported [19], but few reports have compared the biogas production potential and microbial communities of silage maize straw, rice straw, dry maize straw, and tobacco straw. Therefore, in this study, we investigated the biogas production potential and microbial communities of these four kinds of straw by analyzing the amount of chemical oxygen demand (COD), methane content, pH, volatile fatty acid (VFA) content, and biogas
+
+
+produced, using the modified Gompertz model; and monitored the adaptation of the archaeal and bacterial communities in response to the presence of batch AD. We also conducted a microbiological analysis to demonstrate utilization of straw resources on a theoretical basis.
+
+Materials and Methods
+
+Materials and Pretreatment
+The materials (rice straw, dry maize straw, silage maize straw, and tobacco straw) were obtained from the Yanbian University Experimental Station (China). The straw was harvested  in October, except for the silage maize straw. The straw types were harvested, cut into 5 cm pieces using a chopper, oven dried at 105degC for 30 min, and dried at 65degC to a moisture content <10%. The straw was broken up using a high-speed disintegrator [20],  and added to pits (50 cm x 20 cm x 80 cm) lined with two layers of waterproof polyethylene plastic film. The silage packets were wrapped tightly in polyethylene plastic film to protect them from water and soil, placed in the silage pits, covered with soil, and labeled. The silage period was 180 days [19]. Cow manure was collected from a cow farm in Yanji, Jilin (China). The inoculum was collected from a 100 L maize and manure AD process in our laboratory. The properties of the rice straw, dry corn straw, silage straw, tobacco straw, and dairy manure are listed in Table 1. The reactors were fermented for 50 days. The buffer solution was composed of 0.1 g MgCl2*6H2O, 0.075 g CaCl2*2H2O, 0.53 g NH4Cl,
+0.35 g K2HPO4, and 0.27 g KH2PO4. The initial pH of the medium
+was adjusted to 7.0-7.2.
+
+Batch Anaerobic Digestion Tests
+Batch tests were conducted by co-digesting the four straw materials and manure with a total solid content of 6%. The  reactors were 500 ml reagent bottles, and silica gel plugs  were used to seal the bottles. A 400 ml aliquot of inoculum was loaded into each reactor. Activated sludge was added to each reagent bottle, and nitrogen was added for 5 min to purge the air. Each
+
+
+Table 1. Characteristics of rice straw, dry corn straw, silage corn straw, and tobacco straw.
+
+
+
+
+
+
+reagent bottle was connected to a 500 ml air bag. The total solid (TS) and volatile solid (VS) contents of the inoculated sludge were 33.63% and 6.16%, respectively. The cultivation temperature was held constant at 35 +- 0.5degC. The batch tests were conducted in an incubation room for up to 50 days. The experiments for each straw type were repeated five times, and gas production and contents were determined every 2 days. Approximately 10 ml of fermentation liquid was routinely sampled from the reactors and frozen at
+-20degC until further analysis.
+
+Biogas Production and Methane Content
+The consumption-by-drainage method was used to determine gas production [21]. The biogas composition was determined with a gas analyzer (Biogas-5000; British Geotech Corp., UK).
+
+Chemical Oxygen Demand
+The potassium dichromate method [1] was adopted to analyze the chemical oxygen demand (COD). The digestion solution (5 g Ag2SO4   dissolved  in  500  ml  H2SO4   and  mixed  3:1  with  0.25 M potassium dichromate) was added to 2 ml of the appropriate dilution of effluent. COD was determined using the Rex COD-571 (Shanghai Leici Instrument Co., China) tester after being digested by a Rex COD-571-1.
+
+Volatility Fatty Acids
+A high-performance liquid chromatography  system  was  used to determine the VFA content. The chromatographic column was   a 5 mm LaChrom C18-AQ (Hitachi, Japan), held at a temperature of 25degC. The mobile phase was 1 mM H2SO4 and 8 mM Na2SO4 at a flow rate of 0.6 ml/min. The volume of the inlet sample was 10 ml, and acquisition time was 45 min. The test sample was extracted in a 2 ml centrifuge tube, centrifuged for 10 min at 3,000 xg , and the supernatant was filtered through an organic membrane to determine VFAs. Formic acid, acetic acid, propionate acid, butyrate, and lactic acid were prepared as standards to create a standard curve for the quantitative analysis of the samples [1].
+
+Evaluation of Straw Anaerobic Digestion Performance
+The Gompertz equation was used to fit the biogas and methane accumulation curves from the different treatments [22].
+B = B  [?] exp[?]-exp  R-----m----[?]--e-(l - t)+ 1  [?]
+[?]	0	[?]
+
+where B is cumulative methane yield (ml/g*VSadded), B0 is ultimate methane yield (ml/g*VSadded), Rm  is maximum methane production rate (ml/g VS/day), l is lag phase time (days), t is digestion time (days), and e is a mathematical constant (2.718). Rm, B0, and e were used to measure the gas production performance of the different raw materials.
+
+Archaeal Microbiological Analysis
+Digested sludge (0.5 g) was collected from the digesters for
+
+
+DNA extraction on days 0 and 50. Total DNA was extracted as described previously [23]. A 16S rRNA  gene  fragment,  including the variable V4-V5 region, was amplified by polymerase chain reaction (PCR) from DNA using the 349F (5'-GYGCASCAG KCGMGAAW-3') and 806R (5'-GGACTACVSGGGTATCTAAT-3')
+primers. Barcode sequences were attached to both primers as unique tags to identify the samples. PCRs were  conducted  for each sample, and the PCR products of replicate reactions were pooled. The details of the PCRs have been reported by Li et al. [24]. The amplicons from each sample were pooled at equimolar concentrations and sequenced using the Illumina MiSeq platform (Illumina Co., USA).
+
+Processing of the Sequencing Data
+The raw sequence data were classified based on sample-specific barcode tags, and the primary and tag sequences were trimmed from the sorted sequences. Raw sequences were processed utilizing the QIIME pipeline [25]. First, ambiguous chimeric and short sequences <250 nucleotides long were removed using the UCHIME algorithm. Because the number of sequences differed among samples, 10,000 random reads per sample were used for further analysis. Second, the sequences were clustered by  complete linkage clustering in the QIIME pipeline. The qualified sequences were clustered into operational taxonomic  units  (OTUs) using a cutoff of 97% identity with the 16S rRNA gene sequence for statistical analysis. Third, the Chao1 estimator and Shannon's diversity index were computed according to 97% sequence identity in the Ribosomal Database Project (RDP) pipeline (http://pyro.cme.msu.edu). The phylogenetic affiliation of each sequence was analyzed with the RDP classifier at a confidence level of 80%. To ensure accuracy of the RDP classifier results, representative sequences of dominant archaea were subjected to BLAST homology searches against non-environmental sequences and non-metagenomes in the National Center for Biotechnology Information (NCBI) nucleotide database ( nih.gov).
+
+Denaturing Gradient Gel Electrophoresis
+The 357F-GC (50-CCTACGGGAGGCAGCAG-30) primer with a GC-clamp (50-CGCCCGCCGCGCGCGGCGGGCGGGGCGGGG GCACGGGGGG-30) and 517R (50-ATTACCGCGGCTGCTGG-30)
+primer were used to amplify the V3 region of the 16S rRNA gene [26]. Denaturing gradient gel electrophoresis (DGGE) analysis of the PCR products was performed on the DCode system (Bio-Rad Laboratories, USA), as described previously [26, 27].
+The resulting sequences were compared with those in the NCBI GenBank using the BLAST program and aligned using ClustalX 1.83 [28].
+
+Data Analysis Methods
+The data were processed using Origin 8 software (Originlab Corp., USA).
+
+
+
+
+Results
+
+Changes in Daily and Total Biogas Production
+Daily gas production increased gradually as the microbial community adapted to the reactor environment. The highest daily biogas production from silage maize straw occurred on day 10 and reached 987.5 ml/g*VS, whereas that of rice straw reached 904.12 ml/g*VS on day 12, that of dry maize straw reached 831.25 ml/g*VS on day 10, and that of tobacco  straw  reached  666.67  ml/g*VS  on  day  8.  Daily biogas production decreased to 166.67-216.67 ml/g*VS on day 24. It has been proposed that hemicellulose, cellulose, and other difficult to decompose substances are consumed gradually by microorganisms during reactor operation [29]. The gradual increase in gas production was due to decreases in the rates of acid hydrolysis and acidification
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Changes in daily and total biogas production from the four kinds of straw.
+
+
+by bacteria. In addition, an increase in the decomposition rate by methanogens decreases gas production to the initial level [30]. Our results show that biogas production from silage maize straw was the highest because of synergy from the VFAs produced by ensiling, whereas water, sugar, cellulose, and other substances were stored well because the straw was being ensiled [31]. The order of biogas production from high to low was silage maize straw, rice straw, dry maize straw, and tobacco straw. A previous  study reported that lignocellulose content is highest in rice straw followed by fresh maize straw and dry maize straw [32]. The complex the lignocellulose structure of dry maize straw affected microbial degradation efficiency, which limited decomposition and acid production. Rice straw and silage maize straw have relatively lower degrees of lignification and contain more crude protein and crude fat, which can   be metabolized into VFAs rapidly by microorganisms in a reactor, and is the reason why our results show that rice straw and silage maize straw produced more biogas than that of the other straw types (Fig. 1A). Cumulative biogas production from silage maize straw was  4,870 ml/g*VS  and that from rice straw, dry maize straw, and  tobacco straw were 4,032.5, 3,907.5, and 3,628.3 ml/g*VS, respectively (Fig. 1B).
+
+Changes in Methane Content
+Methane is produced by methane-metabolizing microbes in a reactor [33]. The highest methane production from silage maize straw was 67.83%, which occurred on day 16, whereas that from rice straw was 63% on day 14, that from dry maize straw was 65.47% on day 16, and that from tobacco straw was 63.37% on day 16. The methane contents of the four kinds of straw at the end of the experiment were at the initial levels, showing that the materials used for methane production had been utilized (Fig. 2).
+
+Changes in VFAs
+VFAs are an important intermediate product of microbial metabolism during biogas fermentation [21]. High concentrations of VFAs decrease the pH, which inhibits anaerophytes, and lead to failed biogas fermentation [34]. The VFAs in the four kinds of straw are shown in Fig. 3. Formic acid and acetic acid contents in rice and tobacco straw were higher on day 6 than those in the other straw types, suggesting that these two straw types are more easily used by microorganisms to produce VFA intermediates for use by methane-metabolizing bacteria. The hydrolysis and acidification rates of organic matter in silage maize straw were higher than that of methane bacteria using small
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Changes in methane yield from the four kinds of straw.
+
+
+
+molecule VFAs, leading to an accumulation of VFAs in silage maize straw on day 18. Acetic acid was present in the silage maize straw, and formic acid and acetic acid contents in the VFAs from silage maize straw increased to 1.3945 and 1.1878 g/l, respectively. The different components and degrees of lignification affect the conversion efficiency, which affects the types of organic acids detected in an acidification system [35].
+
+Evaluation of Anaerobic Digestion of the Different Corn Straws
+The modified Gompertz model was used to effectively predict the biogas production potential of the samples, the maximum methane production rate, and the lag period during fermentation of the raw materials (Table 2). The R values of all treatments in this study were 0.93-1.0, demonstrating that the model fits all treatments very well. The maximum methane production rates were  ordered  from high to low as tobacco straw, silage maize straw, dry
+
+maize straw, and rice straw. The daily maximum methane potential in order from high to low was rice straw, silage maize straw, tobacco straw, and dry maize straw. The biogas production lag period from longest to shortest was silage maize straw, rice straw, dry maize straw, and tobacco straw. The methane production lag period from longest to shortest was silage maize straw, rice straw, dry maize straw, and tobacco straw. However, the biogas production potential from high to low was silage maize straw, rice straw, dry maize straw, and tobacco straw. The methane potential from high to low was silage  maize straw, dry maize straw, tobacco straw, and rice straw. These findings show that silage maize straw has higher biogas production potential and rate, as well as a longer lag period than those of the other straw types. Dry maize straw had moderate biogas production potential and rate, as well as the shortest lag period. Rice straw had the highest methane potential, and tobacco straw had the lowest methane potential and the longest lag period.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3. Changes in volatile fatty acid production from the four kinds of straw.
+
+Table 2. Analysis of biogas production potential from the different straw types.
+
+
+Tobacco straw	637.4	20.86	0.77	0.96	68.42	6.60	1.60	0.98
+
+Microbial Community Analysis
+Seven libraries were constructed from the archaeal domains of the four straw samples using methanogen composition at the genus level to elucidate the microbial community during the batch test (Fig. 4). The coverage of sludge samples in the archaeal community was 1.0, indicating that the most common phylogenetic groups detected in our libraries were Methanosarcina, WCHA2- 08_norank, Methanobacterium, Halobacterium, Methanosaeta, Methanoculleus, and others. The genera Methanosaeta and Methanosarcina are acetoclastic [21]. Methanosarcina was the
+
+dominant archaeal genus in rice straw, silage corn straw, and tobacco straw, with abundances of 50.5%, 34.3%, and 37.07%, respectively. Previous studies have reported that acetate is mainly degraded by acetoclastic methanogenic archaea during AD of corn straw, and that Methanosarcina is the dominant methanogen during rice straw AD [36].
+The WCHA2-08_norank species were the dominant archaeal community in the dry maize straw and seed inoculum, with abundances of 31.6% and 34.0%, respectively. One study reported that WCHA2-08 exhibits 97% similarity to Methanospirillum sp. (L48407), and Methanospirillum sp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4. Methanogen composition at the genus level during anaerobic digestion.
+
+
+are hydrogen-oxidizing methanogens that produce methane from hydrogen and carbon dioxide [18, 21]. To date, only a few studies have confirmed the dominance of Methanospirillum sp. within the archaeal community during AD [37, 38]. However, Qiao et al. [18] reported that Methanospirillum is an abundant genus (18.9) in corn straw.
+Shannon's diversity index considers both richness and evenness. Rarefaction curves based on the Shannon diversity index values were different from those of the OTUs as they approached the plateau from less than 10,000 tags per sample [39]. Fig. 5 illustrates that the Shannon-Weaver
+
+
+
+
+indices of the five straw types were significantly different. The highest Shannon-Weaver index was 1.76 for rice straw, whereas those for silage maize straw, dry maize straw, and seed inoculum were 2.34, 2.48, and 2.10, respectively.
+Principal components and cluster tree analyses demonstrated that the four straw types were separated by the different materials. The microbiota community differences in lignocellulose content were greater than the differences generated by the AD material. For example, the dry maize straw and seed inoculum were the most similar, and silage maize straw and tobacco were similar; however, similarity was very low for the different lignocellulose components within the same material (maize straw). These results indicate that the lignocellulose content was the most important factor for transitioning the microbial community structure (Figs. 6 and 7).
+The appearance and disappearance of bands in the  DGGE profiles indicate that the bacterial microbial community structure shifted. Fig. 8 also shows that the bands changed greatly over time in the different types of straw during different operation periods. The shapes of the bands for both crop types were similar, but some differences were observed in the luminance of the lane strips. Thirteen bands appeared in the profiles, and the dominant bacteria appeared in bands 3, 6, 9, 11, 12, and 13, where they co-existed in the four types of straw. Bands 1 and 8 disappeared in seed sludge, whereas four co-existed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. Shannon-Weaver indices of the microbial community during anaerobic digestion.
+
+Fig. 6. Principal components analysis of the microbial community during anaerobic digestion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 7. Microbial community cluster tree bar plot for the different straw types based on the Bray-Curtis algorithm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 8. Density gradient gel electrophoresis profiles showing the dynamic shifts in bacteria during the fermentation process.
+
+
+
+during straw fermentation. The results show that band 1 comprised acidification bacteria. Band 2 was visible from tobacco straw and was seen at high intensity in the fermentation medium. Band 4 co-existed in the four straw types at the end of fermentation, and rice straw had the highest intensity bands during the middle and last stages. Band 5 co-existed in the four straw types at the first and middle of fermentation, and rice straw had the highest intensity bands. The appearance, disappearance, and intensity of these bands  show  that  the  composition  of the microbial population changed greatly during the fermentation process [23, 40].
+The bands on the profiles were excised and amplified by PCR to investigate the relationships between individual microbes. The most closely related bacteria based on BLAST matches to the 16S rRNA sequences of the purified
+
+
+DGGE bands are shown in Table 3. The 13 bands corresponded to members of Clostridium, Bacillus, Syntrophus, and Anaerolineacea. Bands 2, 3, 4, 8, and 13 corresponded to Bacillus sp., which decompose simple organic compounds into inorganic matter. Bacillus sp. are capable of degrading lignin to produce biological surface agents, promote mactrtoerb,iaalnddeicmopmrpovoesitbioiongaosf pdroifdfiuccutlito-nto-edffeigcrieandcey o[1rg, a4n1i-c 43]. Most members in the phylum Bacteroidetes have been previously demonstrated to be a major group of acidogenic bacteria that inhabit a wide range of anaerobic environments [17, 21].
+Bands 5, 7, 9, 10, and 11 corresponded to Clostridium sp. Previous studies have shown that Clostridium can rapidly hydrolyze during anaerobic fermentation and degrade cellulose [17, 18, 44]. Community genomic analyses indicated
+
+
+
+
+Table 3. Analysis of bacterial 16S rDNA sequences.
+
+
+
+
+that most members in the phylum Firmicutes are very versatile and participate in degradation of several complex organic residues, such as lipids, carbohydrates, and proteins [17].
+
+Discussion
+
+Co-digestion is the use of two or more substrates with complementary anaerobic fermentation characteristics that enhance biogas production. A previous study showed that the highest methane yield of 304.4 l/kg*VS feed was obtained with a substrate containing 50% corn straw and 50% dog food, which were 229% and 109% increases compared with digesting corn straw and dog food alone, respectively [16]. Livestock and poultry manure are the most commonly used co-substrates to enhance digestion of lignocellulose, because manure has good buffering capacity, is rich in micronutrients, and is characterized by high microbial activity [20]. Various raw materials, such as agricultural waste, animal manure, sewage sludge, and food waste, have been reported as being potentially feasible for co-digestion, but agricultural waste products, such as rice straw, are important sources of lignocellulosic biomass, and >0.6 million tons of rice straw are  produced annually in Jilin Province alone, which poses  a  serious  threat  to the soil, water, and air, as well as to livestock and poultry [23]. Thus, using manure as a co-substrate reduces the environmental impact of livestock and poultry production while simultaneously enhancing energy production. However, different materials have significantly different methane
+
+potentials. Rice straw had the highest methane potential, and tobacco straw had the  lowest methane potential and the longest lag period (Table 2). Thus, we will study rice straw biogas production in the future.
+The microbial community was well established and stable and contained the necessary microbial trophic groups for the different metabolic AD pathways [17]. The majority of bacterial 16S rRNA gene sequences were similar to several ribotypes in the phyla Firmicutes, Bacteroidetes, and Chloroflexi. This finding corresponds to that observed in earlier studies, in which a high abundance of the four microbial phyla was found in stable anaerobic digesters used to ferment various crop and waste materials [17, 20, 23]. This bacterial microbial community played an important role during anaerobic fermentation of lignocellulose and acidification. In particular, Syntrophaceae are well-known propionate and butyrate-utilizing bacteria, and the main syntrophic bacteria co-cultured with methanogens. Thus, the VFA contents in rice straw, tobacco straw, and silage straw only included formic acid and acetic acid in the final fermentation. The VFA contents in dry straw included formic acid, acetic acid, and butyric acid in the final fermentation (Fig. 3). Because the quantity of biogas produced by silage straw was the highest of the four straw types, the formic acid content was the highest (Fig. 1). Butyric acid was present in dry straw because the bacterial community and acetoclastic methanogenic bacteria (Methanosarcina) were less efficient than others, so butyric acid accumulated. The diversity of the bacterial community and Methanosarcina was richer than the others, but the acetic acid content was lower in the final fermentation (Figs. 3 and 4).
+In conclusion, biogas production levels from the four kinds of straw after 24 days were from highest to lowest in the silage maize straw, rice straw, dry maize straw, and tobacco straw. All straw types had >60% methane content, and the highest was in silage maize straw at 67.3%. The biogas production potential order from high to low was silage maize straw, rice straw, dry maize straw, and tobacco straw. The large changes in the DGGE bands over time in the different straw types indicated that the bacterial community had changed during fermentation to phyla Firmicutes, Bacteroidetes, and Chloroflexi. Methanosarcina sp. were the dominant archaeal bacteria in the microbial community in the four kinds of straws.
+
+Acknowledgments
+
+This study was supported by the Special Fund for Agro- scientific Research in the Public Interest (Nos. 201503137),
+
+
+
+
+
+the National Key Technology Research and Development Program of China (No. 2015BAD21B04), the  Planning Project of Jilin Provincial Education Department (No. 012015061), the National Key Technology Research and Development Program of Jilin (No.  20140307009NY),  and the Training Programs of Innovation  and  Entrepreneurship for Undergraduates (No. ybdksky20160135).
+
+References
+
+Yuan X. 2011. Enhancing the  anaerobic  digestion  of  corn  stalks using composite microbial pretreatment. J. Microbiol. Biotechnol. 21: 746-752.
+Fu S-F, Wang F, Shi X-S, Guo R-B. 2016. Impacts of microaeration on the  anaerobic  digestion  of  corn  straw  and  the microbial community structure. Chem. Eng. J.  287:  523-  528.
+Liew LN, Shi J, Li Y. 2012. Methane production from solid-  state anaerobic digestion of lignocellulosic biomass. Biomass Bioenergy 46: 125-132.
+Chandra R, Takeuchi H, Hasegawa T. 2012. Methane production from lignocellulosic agricultural crop wastes: a review in context to second generation of biofuel production. Renew. Sustain. Energy Rev. 16: 1462-1476.
+Wang XJ, Yang GH, Feng YZ, Ren GX. 2011. Potential for biogas production from anaerobic co-digestion of dairy and chicken manure with corn stalks. Adv. Mater. Res. 347-353: 2484-2492.
+Lu Q, Yi J, Yang D. 2016. Comparative analysis of performance and microbial characteristics between high-solid and low- solid anaerobic digestion of sewage sludge under mesophilic conditions. J. Microbiol. Biotechnol. 26: 110-119.
+Song Z, Zhang C. 2015. Anaerobic codigestion of pretreated wheat straw with cattle manure  and  analysis  of  the  microbial community. Bioresour. Technol. 186: 128-135.
+Wei S, Zhang H, Cai X, Xu J, Fang J, Liu H. 2014. Psychrophilic anaerobic co-digestion of highland  barley  straw with two animal manures at high  altitude  for  enhancing biogas production. Energy Convers. Manag. 88: 40-48.
+Yan Z, Song Z, Li D, Yuan Y, Liu X, Zheng T. 2015. The effects   of   initial   substrate   concentration,   C/N   ratio,   and temperature on solid-state anaerobic digestion from composting rice straw. Bioresour. Technol. 177: 266-273.
+Zhou S, Zhang Y, Dong Y. 2012. Pretreatment for biogas production by anaerobic fermentation of mixed corn stover and cow dung. Energy 46: 644-648.
+Angelidaki I, Ellegaard L. 2003. Codigestion of manure and organic wastes in  centralized  biogas  plants:  status  and future trends. Appl. Biochem. Biotechnol. 109: 95-105.
+Cuetos MJ, Fernandez C, Gomez  X,  Moran  A.  2011.  Anaerobic co-digestion of swine manure with energy crop residues. Biotechnol. Bioprocess Eng. 16: 1044-1052.
+
+
+Budzianowski WM. 2016. A review of potential innovations for production, conditioning and utilization of biogas with multiple-criteria assessment.  Renew.  Sustain.  Energy  Rev. 54: 1148-1171.
+Wang X, Yang G, Li F, Feng Y, Ren G. 2013. Response surface optimization of methane potentials in anaerobic co- digestion of multiple substrates: dairy, chicken manure and wheat straw. Waste Manag. Res. 31: 60-66.
+Cho SK, Im WT, Kim DH, Kim MH, Shin HS, Oh SE. 2013. Dry anaerobic digestion of food waste under mesophilic conditions: performance and methanogenic community analysis. Bioresour. Technol. 131: 210-217.
+Xu F, Li Y. 2012. Solid-state co-digestion of  expired  dog food and corn stover for methane production. Bioresour. Technol. 118: 219-226.
+Ren J, Yuan X, Li J, Ma X, Zhao Y, Zhu W, et al. 2014. Performance and microbial community dynamics in a  two-  phase  anaerobic  co-digestion  system   using   cassava   dregs and pig manure. Bioresour. Technol. 155: 342-351.
+Qiao JT, Qiu YL, Yuan XZ, Shi XS, Xu XH, Guo RB. 2013. Molecular characterization of bacterial and archaeal communities in a full-scale anaerobic reactor treating corn straw. Bioresour. Technol. 143: 512-518.
+Zhang B, Zhao H, Yu H, Chen D, Li X, Wang W, et al. 2016. Evaluation of biogas production performance and archaeal microbial dynamics of corn straw during  anaerobic  co-  digestion with cattle manure liquid.  J.  Microbiol.  Biotechnol. 26: 739-747.
+Zheng Z, Liu J, Yuan X, Wang X, Zhu W, Yang F, Cui Z. 2015. Effect of dairy manure to  switchgrass  co-digestion  ratio on  methane  production  and  the  bacterial  community in batch anaerobic digestion. Appl. Energy 151: 249-257.
+Zhao H, Li J, Li J, Yuan X, Piao R, Zhu W,  et  al.  2013.  Organic  loading  rate  shock  impact  on  operation  and  microbial communities in  different  anaerobic  fixed-bed  reactors. Bioresour. Technol. 140: 211-219.
+Li JJ, Zicari SM, Cui ZJ, Zhang RH.  2014.  Processing  anaerobic sludge for extended storage as anaerobic digester inoculum. Bioresour. Technol. 166: 201-210.
+Zhao H, Yu H, Yuan X, Piao R, Li H, Wang X, Cui Z. 2014. Degradation of lignocelluloses in rice straw by BMC-9, a composite microbial system. J. Microbiol. Biotechnol. 24: 585-591.
+Li A, Chu Y, Wang X, Ren L, Yu J, Liu X, et al. 2013. A pyrosequencing-based metagenomic study of methane- producing microbial community in solid-state biogas reactor. Biotechnol. Biofuels 6: 2-17.
+Oberauner L, Zachow C, Lackner S, Hogenauer C, Smolle KH, Berg G. 2013. The ignored diversity: complex bacterial communities in intensive care units revealed by 16S pyrosequencing. Sci. Rep. 3: 1413.
+Muyzer G, de Waal EC, Uitterlinden AG. 1993. Profiling of complex microbial populations by denaturing gradient gel electrophoresis analysis of polymerase chain reaction-amplified
+
+
+
+
+
+genes coding for 16S rRNA. Appl. Environ. Microbiol. 59: 695- 700.
+Haruta S, Cui Z, Huang Z, Li M, Ishii M, Igarashi Y. 2002. Construction of a stable microbial community with high cellulose-degradation ability. Appl. Microbiol. Biotechnol. 59: 529-534.
+Jeanmougin F, Thompson JD, Gouy M, Higgins DG, Gibson TJ. 1998. Multiple sequence alignment with  Clustal  X.  Trends Biochem. Sci. 23: 403-405.
+Yuan X, Wen B, Ma X, Zhu W, Wang  X,  Chen  S,  Cui  Z.  2014. Enhancing the anaerobic digestion of lignocellulose of municipal  solid  waste  using  a  microbial  pretreatment   method. Bioresour. Technol. 154: 1-9.
+Lissens G, Thomsen AB, De Baere L, Verstraete W, Ahring BK. 2004. Thermal wet oxidation improves anaerobic biodegradability of raw and digested biowaste. Environ. Sci. Technol. 38: 3418-3424.
+Ren H, Yao X, Li J, Li Z, Wang X, Wang  C, et al. 2014. Effect of maize straw storage practice on biogas  production performance  during  anaerobic  co-digestion  with  cattle  manure. Trans. Chin. Soc. Agric. Eng. 30: 213-222.
+Gao R, Yuan X, Li J, Li J, Ren J, Wang X, Cui Z. 2012. Acidification  of  four  kinds  of  lignocelluloses  materials  in cow dung liquid. Trans. China Soc. Agric. Eng. 28: 199-204.
+Kashyap DR, Dadhich KS, Sharma SK. 2003. Biomethanation under psychrophilic conditions: a review. Bioresour. Technol. 87: 147-153.
+Buyukkamaci N, Filibeli A. 2004. Volatile fatty acid  formation in an anaerobic hybrid reactor. Process Biochem.  39: 1491-1494.
+O'Sullivan CA, Burrell PC. 2007. The effect of media  changes on the rate of cellulose solubilisation by rumen and digester derived microbial communities. Waste Manag. 27: 1808-1814.
+Kengo S, Masahiko M, Shin-Ichi H, Daisuke S, Naoya O,
+
+
+Yasuo I. 2010. Efficient degradation of rice  straw  in  the  reactors packed by carbon fiber textiles. Appl. Microbiol. Biotechnol. 87: 1579-1586.
+Heeg K, Pohl M, Sontag M, Mumme J, Klocke M, Nettmann E. 2014. Microbial communities involved in biogas production from wheat straw as the sole substrate within a two-phase solid-state anaerobic digestion. Syst. Appl. Microbiol. 37: 590- 600.
+Munk B, Bauer C, Gronauer A, Lebuhn M. 2010. Population dynamics of methanogens during acidification of biogas fermenters fed with maize silage. Eng. Life Sci. 10: 496-508.
+Wang Y, Sheng HF, He Y, Wu JY, Jiang YX, Tam NF, Zhou HW. 2012. Comparison of the levels of bacterial diversity in freshwater, intertidal wetland, and  marine  sediments  by using millions of illumina tags. Appl. Environ. Microbiol. 78: 8264-8271.
+Liu C-L, Wang X-F, Wang X-J, Li P-P, Cui Z-J. 2010. The character of normal temperature straw-rotting microbial community. Agric. Sci. China 9: 713-720.
+Zhao H, Li J, Liu J, Lu Y, Wang X, Cui Z. 2013. Microbial community dynamics during biogas slurry and cow manure compost. J. Integr. Agric. 12: 1087-1097.
+Yuan X, Ma L, Wen B, Zhou D, Kuang M, Yang W, Cui Z. 2016. Enhancing anaerobic digestion of cotton stalk by pretreatment with a microbial consortium (MC1). Bioresour. Technol. 207: 293-301.
+Yu J, Zhao Y, Liu B, Zhao Y, Wu J, Yuan X, et al. 2016. Accelerated acidification by inoculation with a microbial consortia in a complex open environment. Bioresour. Technol. 216: 294-301.
+Lo Y-C, Saratale GD, Chen W-M, Bai M-D, Chang J-S. 2009. Isolation of cellulose-hydrolytic bacteria and applications of the cellulolytic enzymes for cellulosic biohydrogen production. Enzyme Microb. Technol. 44: 417-425.

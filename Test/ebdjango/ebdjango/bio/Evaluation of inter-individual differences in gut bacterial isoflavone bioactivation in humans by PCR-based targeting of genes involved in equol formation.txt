@@ -1,0 +1,633 @@
+
+
+
+Journal of Applied Microbiology ISSN 1364-5072
+
+ORIGINAL ARTICLE 
+Evaluation of inter-individual differences in gut bacterial isoflavone bioactivation in humans by PCR-based targeting of genes involved in equol formation
+A. Braune and M. Blaut
+Department of Gastrointestinal Microbiology, German Institute of Human Nutrition Potsdam-Rehbruecke, Nuthetal, Germany
+
+
+
+
+
+Keywords
+daidzein, dihydrodaidzein reductase, equol, human intestinal microbiota, isoflavone, tetrahydrodaidzein reductase.
+
+Correspondence
+Annett Braune, Department of Gastrointestinal Microbiology, German Institute of Human Nutrition Potsdam- Rehbruecke, Arthur-Scheunert-Allee 114-116, D-14558 Nuthetal, Germany.
+E-mail: 
+
+2017/1357: received 13 July 2017, revised 26
+September 2017 and accepted 17 October
+2017
+
+doi:10.1111/jam.13616
+
+Abstract
+Aim: To identify human  subjects  harbouring  intestinal  bacteria  that bioactivate daidzein to equol using a targeted PCR-based approach.
+Methods and Results: In a pilot study including 17 human subjects, equol formation was determined in faecal slurries. In parallel, faecal DNA was amplified by PCR using degenerate primers that target  highly  conserved  regions of dihydrodaidzein reductase and tetrahydrodaidzein reductase genes. PCR products of the expected size were observed for six of the eight subjects identified as equol producers. Analysis of clone libraries revealed the amplification of sequences exclusively related to Adlercreutzia equolifaciens in four of the subjects tested positive for equol formation, whereas in three of the equol producers, only sequences related to Slackia isoflavoniconvertens were observed. No amplicons were obtained for one equol-forming subject, thus suggesting the presence of nontargeted alternative genes. Amplicons were only sporadically observed in the nonequol producers.
+Conclusion: The majority of human subjects who produced equol were also detected with the developed PCR-based approach.
+Significance and Impact of the Study: The obtained results shed light on the distribution and the diversity of known equol-forming bacterial species in the study group and indicate the presence of as yet unknown  equol-forming  bacteria.
+
+
+
+
+Introduction
+Intestinal bacteria play a crucial role in the metabolism of dietary isoflavones, which are suggested to protect against certain cancer types, cardiovascular disease, osteoporosis, and menopausal symptoms (Ko 2014; Messina 2016). Thus, the health-promoting effects of this class of flavo- noids have been attributed to derivatives produced by bacteria in the intestine (Duda-Chodak et al. 2015; Lan- dete et al. 2016). A representative isoflavone is daidzein, which is mainly ingested with soy foods and supplements (Barnes 2010). Daidzein is converted exclusively by cer- tain gut bacteria via dihydrodaidzein and tetrahydro- daidzein to equol (Setchell and Clerici 2010) (Fig. 1). Other bacteria in the intestine transform daidzein to O- desmethylangolensin using an alternative pathway
+
+
+(Frankenfeld 2011) (Fig. 1). In particular, the metabolite equol exhibits enhanced biological activity compared with the parent compound daidzein (Jackson et al. 2011). However, equol formation is observed in only 25-60% of human subjects, with a higher percentage in Asian popu- lations (Setchell and Clerici 2010). Moreover, the rates of bacterial equol formation and/or absorption may vary considerably (Rowland et al. 2000; Bowey et al. 2003; Setchell and Cole 2006; Bolca et al. 2007). Therefore, it has been recommended to stratify the participants in clinical studies on soy for their equol-producing status (Klein et al. 2010). By doing so, a number of human ran- domized controlled trials found beneficial effects of soy intake in equol-producing subjects but not in nonpro- ducers. Those effects include improvement of risk factors for breast cancer, prostate cancer, cardiovascular disease
+
+
+
+and alleviation of  osteoporosis  (Shor  et al.  2012;  Birru et al. 2016; Frankenfeld 2017). The definition of  the  equol producer phenotype is currently  based on  urinary  or serum equol concentrations. A standardized approach for this classification has been developed by Setchell and Cole (2006). Thus, determination of the equol-forming status of individuals requires the ingestion of daidzein- containing soy products, time-dependent collection of blood or urine samples followed by their chromato- graphic analysis. However, rapid and inexpensive meth- ods are needed to determine an individual's ability  to  form equol. Molecular biological methods may be useful not only to accurately resolve health effects of isoflavones in clinical studies but also from the perspective of predic- tive and personalized nutrition. Instead of quantifying single equol-forming bacteria or bacterial groups, target- ing genes essential for the formation of equol in intestinal microbiomes appear to be a more meaningful approach. Ideally, this analysis would also capture still unknown equol-forming species. Such function-oriented metage- nomic methodologies have been successfully developed for the identification and quantification of key bacterial genes in the human intestine (Wells  et al.  2003;  Louis and Flint 2007; Dabek et al. 2008; Kang et al. 2008; Louis et al. 2010; McIntosh et al. 2012; Lee et al. 2014; Reich- ardt et al. 2014; Martinez-del Campo et al. 2015).
+So far, six gut bacteria forming equol from daidzein have been identified in humans: Adlercreutzia equolifa- ciens, Eggerthella sp. YY7918, Lactococcus garvieae, Slackia equolifaciens, Slackia isoflavoniconvertens and Slackia sp. NATTS (Uchiyama et al. 2007; Maruo et al. 2008; Yokoyama and Suzuki  2008;  Matthies  et  al.  2009;  Jin et al. 2010; Tsuji et al. 2010). For S. equolifaciens, S. isoflavoniconvertens and the murine Enterorhabdus mucosi- cola, the conversion of another soy isoflavone, genistein, via dihydrogenistein to 5-hydroxy-equol (Fig. 1) has been demonstrated (Jin et al. 2008; Matthies et al. 2008, 2009).
+
+Other bacteria isolated from human faeces catalyse only individual reactions: strain TM-40 converts daidzein to dihydrodaidzein and strain Julong 732 converts dihydro- daidzein to equol (Wang et al. 2005; Tamura et al. 2007). Except for L. garvieae and strain TM-40, all bacteria men- tioned above belong to the Coriobacteriaceae.
+Functional identification of enzymes and their encod- ing genes in Eggerthella sp. YY7918, L. garvieae, S. isoflavoniconvertens and Slackia sp. NATTS revealed that three reductases are required for daidzein conversion to equol: daidzein reductase (DZNR), dihydrodaidzein reductase (DHDR) and tetrahydrodaidzein reductase (THDR) (Shimada et al. 2010, 2011; Tsuji et al. 2012; SchroEURder et al. 2013; Kawada et al. 2016) (Fig. 1). Highly similar open-reading frames are present in the genomes    of A. equolifaciens (Toh et al. 2013) and E. mucosicola (genome accession number  Although it appears very likely that the enzymes involved in equol formation are also responsible for the analogous conver- sion of genistein to 5-hydroxy-equol, this has been demonstrated so far only for the DZNR from
+S. isoflavoniconvertens (SchroEURder et al. 2013).
+Here, we present a pilot study to evaluate the distribu- tion and diversity of genes encoding DHDR and THDR    in the intestinal microbiomes of human subjects who var- ied in the ability of their faecal microbiota to convert daidzein to equol. This work explored whether a targeted PCR-based approach is capable of predicting the bacte- ria-mediated equol-forming status of the human host.
+
+Materials and methods
+
+Bacterial species
+Slackia isoflavoniconvertens DSM 22006T (Matthies et al. 2009), E. mucosicola DSM 19490T (Clavel et al.  2009) and Eggerthella lenta rK3 (Kutschera et al. 2011) were
+
+
+
+HO	HO
+DZNR
+
+OH
+
+HO
+DHDR
+
+OH
+
+HO
+THDR
+
+OH
+
+Daidzein: R = H Genistein: R = OH
+
+Dihydrodaidzein: R = H Dihydrogenistein: R = OH
+
+Tetrahydrodaidzein: R = H Tetrahydrogenistein: R = OH
+
+Equol: R = H
+5-Hydrox-equol: R = OH
+
+
+HO
+
+OH
+O-Desmethylangolensin: R = H
+6'-Hydroxy-O-desmethylangolensin: R = OH
+
+Figure 1 Pathways of conversion of the isoflavones daidzein and genistein by intestinal bacteria. DZNR, daidzein reductase; DHDR, dihydrodaidzein reductase; THDR, tetrahydrodaidzein reductase.
+
+
+
+from our strain collection (Department of  Gastrointesti- nal Microbiology, German Institute  of  Human  Nutri-  tion Potsdam-Rehbruecke). Adlercreutzia equolifaciens DSM 19450T, Asaccharobacter celatus DSM 18785T, Eggerthella lenta DSM 2243T, Slackia faecicanis DSM 17537T, and Slackia heliotrinireducens DSM 20476T were obtained from the German Collection of  Microorgan-  isms and Cell Cultures (DSMZ, Braunschweig, Ger- many). Slackia exigua CCUG 44588T was from the Culture    Collection    of    the    University    of    GoEURteborg (CCUG, Sweden). All bacteria were grown  at  37degC  under strict anoxic conditions in brain heart infusion  (BHI) broth (Roth, Karlsruhe, Germany) with  a  gas  phase of N2/CO2 (80 : 20, v/v).
+
+Collection of human faecal samples and fermentation experiments
+Faecal samples (FS) were collected from 17 human Cau- casian subjects (15 females, 2 males) aged 22-59 years (mean +- SD, 37 +- 12), who did not suffer from gas- trointestinal disorders and had not undergone antibiotic treatment within 6 months prior to the study. The partic- ipants consumed a nonspecified Western diet. The study was approved by the ethical committee of the University  of Potsdam (Germany). Sample collection and further processing under strict anoxic conditions were done as described previously (Braune et al. 2010). The FS were 10-fold  diluted  (w/v)  with  anoxic  BHI  broth  and  200-ll aliquots  were  transferred  to  Hungate  tubes  containing  2 ml of BHI broth and a gas phase of N2/CO2 (80 : 20, v/v)  supplemented  with  22 ll  of  20 mmol l-1  daidzein (Roth)  in  dimethyl  sulfoxide  (DMSO)  or  20 mmol l-1 dihydrodaidzein (Toronto Research Chemicals, Toronto, ON, Canada) in DMSO or DMSO only. The tubes were incubated at 37degC, and samples (300 ll) were withdrawn  at 0, 24 and 48 h of incubation. Experiments were carried out in triplicate.
+Aliquots of samples (40 ll) were lyophilized and extracted  with  40 ll  of  70%  (v/v)  methanol.  After  cen- trifugation  (12 000 g,  5 min),  10 ll  of  the  supernatant was analysed by HPLC as described previously (Matthies et al.  2008;  SchroEURder  et al.  2013)  with  minor  modifica- tions. The solvent mixture was delivered at 0 7 ml min-1 in the following gradient mode: 5-55% B in 15 min, 55% B for 10 min, 55-95% B in 3 min. Detection was at 250 nm (daidzein) or 280 nm (dihydrodaidzein, equol). Calibration curves for daidzein, dihydrodaidzein and equol (Fluka, Deisenhofen, Germany) were used for quantification. The detection limits were 0*7 lmol l-1 for daidzein,      0*2 lmol l-1    for      dihydrodaidzein      and 0*5 lmol l-1 for equol.
+
+
+Isolation of bacterial genomic DNA
+Genomic DNA from individual bacterial species was iso- lated using the RTP Bacteria DNA Mini Kit (Stratec, Birkenfeld, Germany). Genomic DNA from FS was iso- lated with the PSP Spin Stool DNA Kit (Stratec) accord- ing to the protocol for difficult-to-lyse  bacteria.  The  DNA obtained from 200 mg of faeces, which was eluted in    150 ll,    was    further    purified    and    concentrated (NucleoSpin   gDNA   Clean-up;   Macherey-Nagel,   DuEURren, Germany)  to  a  final  volume  of  50 ll.  The  DNA  concen- tration was determined using a NanoDrop spectropho- tometer (ND-1000; Wilmington, DE).
+
+Primers and PCR amplification
+Degenerate primers were designed based on highly conserved sequence segments of the DHDR- and THDR- encoding genes occurring in S. isoflavoniconvertens, Slack- ia sp. NATTS, Eggerthella sp. YY7918, L. garvieae 20-92,
+equolifaciens and E. mucosicola. Multiple sequence alignment of DHDR and THDR of these six bacteria is depicted in Figs. S1 and S2, respectively. Alignment of  the encoding genes is given in Figs. S3 and S4. Segments used for primer design are marked in the aligned proteins or gene sequences (Figs. S1-S4). Differences in the sequences targeted by the primers were accounted for by applying degeneracies for individual bases. One forward primer  (D1F,  50-GAC  TAC  GAS  GCC  GTR  AAG  AAG TGG GT-30) and two  reverse primers  (D2R, 50-TTG CAS ACG  TTG  TAS  ACS  AGR  TCG  AGC  TC-30;  D3R,  50- ATG  TTG  GMC  ATR  GCY  TCG  GTC  CAS  ACC  A-30) were derived from the DHDR gene sequences. To target the THDR genes, one forward primer (D4F, 50-GAG GTB TGG  ACS  TTC  CAT  YTG  CCC  GA-30)  and  one  reverse primer   (D5R,   50-TCG   CCR   TAS   AGR   CCC   GTR GCG  TCC  A-30)  were  designed.  The  specificity  of  the primers was checked using the Primer-Basic Local Alignment Search Tool (BLAST, 
+The standard PCR mixture (25 ll) contained 20 mmol l-1   Tris-HCl    (pH    8*4),    50 mmol l-1   KCl, 1*5 mmol l-1 MgCl2, 0*2 mmol l-1 of each deoxynucleoside triphosphate,  0*5 lmol l-1 of  each  primer,  0*625 U  Taq DNA polymerase (Invitrogen, Carlsbad, CA) and 200 ng of genomic DNA. The standard PCR programme was as follows: 94degC for 3 min, 30 cycles of 94degC for 45 s, 59degC (primer pair D1F/D3R) or 62degC (primer pair D4F/ D5R) for 30 s, 72degC for 1 min and finally 72degC for 10 min.
+For validation of the primers, the amount of genomic template DNA of equol-forming bacteria was 25 ng. The
+
+
+
+annealing temperature for primer pairs D1F/D2R and D1F/D3R was 62*5 and 63*1degC for primer pair D4F/D5R. To optimize the PCR conditions with faecal DNA as a template, the DNA concentration  (2-32 ng ll-1) and the annealing temperature (53-62degC) were varied. Further- more, the use of a high-fidelity DNA polymerase for dif- ficult templates (Q5 DNA polymerase, NEB), the addition   of   bovine   serum   albumin   (0*2 lg ll-1)   or DMSO (2%) as PCR facilitators and the treatment of the DNA with GeneReleaser (BioVentures, Murfreesboro,
+TN) to remove  potential  PCR-inhibiting  compounds  were tested.
+Positive control PCR reactions were performed using universal bacterial 16S rRNA gene-targeted primers (27f, 50-AGA GTT TGA TCC TGG CTC AG-30; 1492r, 50-TAC
+CTT GTT ACG ACT T-30) as described above with a modi- fied amount of genomic template DNA (50 ng), annealing temperature (55degC) and elongation time (2 min).
+Amplicons were analysed on 1*5% agarose gels after fluorescent staining (Midori Green Advance DNA stain; Nippon  Genetics  Europe,  DuEURren,  Germany).  A  molecu- lar-weight marker (GeneRuler 100 bp DNA Ladder; Thermo Scientific, Schwerte, Germany) was used for size estimation.
+
+Preparation of clone libraries
+The amplified products (ddr2 and tdr amplicons) from upscaled  PCR  runs  of  100 ll  were  purified  (Innuprep Doublepure Kit; Analytik Jena, Jena, Germany) and finally recovered  in 20 ll  at  a  DNA concentration  of 33- 58 ng ll-1. Three microlitres each was used for the clon- ing procedure performed with the pGEM-T Easy vector system (Promega, Madison, WI) according to the instruc- tions of the manufacturer. Following transformation of Escherichia coli JM109 and colour screening on indicator plates (blue/white screening), recombinant clones were collected for preparation of plasmids (Innuprep Plasmid Mini Kit; Analytik Jena) from 2-ml cultures in LB broth (Lennox; Roth) supplemented with carbenicillin (100 lg ml-1,  Roth).  To  screen  for  the  presence  of  an insert, undigested plasmids were analysed on 0*8% agar- ose gels. Plasmid inserts were sequenced using vector- directed standard primers (Eurofins MWG Operon, Ebersberg, Germany).
+
+
+Sequence analysis
+The Vector NTI Advance 11.5.2 software  (Invitrogen)  was used to process and assemble the sequenced DNA segments and to align gene or protein sequences for ana- lysing their similarity. Sequence similarity search in data- bases was carried out with BLAST 
+
+ Multiple sequence alignments of PCR amplicons without primer sequences and corresponding gene segments were performed with the MUSCLE software (Edgar 2004). Phylogenetic trees were constructed by using the maximum-likelihood method with the PHYML programme (Guindon and Gascuel 2003) and visualized with the TreeDyn tool (Chevenet et al. 2006).
+
+Results
+
+Screening of human faecal samples for equol formation
+Faecal samples of eight of the 17 subjects (FS 3, FS 6, FS 8, FS 10, FS 11, FS 12, FS 15, FS 17) formed equol from daidzein  with  dihydrodaidzein   as   an   intermediate  (Fig. 2a,b). The amounts of equol formed within 24  and  48 h of incubation varied largely between the individual samples. While three FS (FS 3, FS 6, FS 8) showed nearly complete conversion of daidzein to equol, a very low  equol concentration was detected only after 48 h of incu- bation in the faecal slurry from FS 11. All but one of the remaining microbiotas transformed daidzein to dihydro- daidzein at varying rates (Fig. 2a,b).  The  incubation  of the faecal slurries with dihydrodaidzein performed in par- allel resulted in the same ranking order of  the samples with respect to the ability and efficiency of equol forma- tion (Fig. 2c,d).  Dihydrodaidzein  not  rapidly  converted to equol was in part converted  to  daidzein,  indicating  that the presence of excess concentrations of dihydro- daidzein favoured the reverse reaction of DZNR.
+The majority (84-95%) of the applied daidzein and dihydrodaidzein could be recovered in form of the parent compounds and/or their product(s). Another potential product, O-desmethylangolensin, might have also been formed, but this bacterial metabolite was not analysed in this study.
+
+Design and validation of degenerate primers based on conserved sequences of DHDR- and THDR-encoding genes
+Three reductases, DZNR, DHDR and THDR, are required for equol formation from daidzein. Certain human faecal bacteria only catalyse single steps in this pathway, such as the conversion of daidzein to dihydrodaidzein or the conversion of dihydrodaidzein to equol (Wang  et al.  2005; Tamura et al. 2007), which most likely reflects the presence of the respective reductase(s). Based on current knowledge, DHDR and THDR are expected to be present in every equol-forming gut bacterium. Moreover, align- ment of the so far available amino acid sequences of DZNR, DHDR and THDR from six bacterial strains revealed an overall higher sequence identity for DHDR
+
+
+
+Daidzein fermentation: 24 h 200
+
+Daidzein fermentation: 48 h 200
+
+
+150	150
+
+100	100
+
+50	50
+
+
+0
+8 6 3 10 12 15 17 11 4 14 16 13 5 7 2 9 1
+Donor ID
+
+0
+8 6 3 10 12 15 17 11 4 14 16 13 5 7 2 9 1
+Donor ID
+
+
+Dihydrodaidzein fermentation: 24 h 200
+
+
+Dihydrodaidzein fermentation: 48 h 200
+
+
+150	150
+
+100	100
+
+50	50
+
+
+0
+8 6 3 10 12 15 17 11 4 14 16 13 5 7 2 9 1
+Donor ID
+
+0
+8 6 3 10 12 15 17 11 4 14 16 13 5 7 2 9 1
+Donor ID
+
+
+Figure 2 Inter-individual variation of metabolite formation from daidzein or dihydrodaidzein by human faecal suspensions. Formation of equol (black bars) and dihydrodaidzein (grey bars) from daidzein within (a) 24 h and (b) 48 h. Formation of equol (black bars) and daidzein (white bars) from dihydrodaidzein within (c) 24 h and (d) 48 h. The sequence of donor appearance on the x axis is according to the amount of equol formed from daidzein by the corresponding faecal sample. Error bars show SEM for triplicate incubation experiments. ND, not detected.
+
+
+(80-99%) and THDR (70-100%) compared with DZNR (42-100%) (Table S1). Sequence alignments for DHDR and THDR are depicted in Figs. S1 and S2, respectively. Accordingly, the genes encoding DHDR are highly similar to one another including regions with nearly identical sequences (Fig. S3). The same applies to the THDR- encoding genes (Fig. S4). No other closely related genes were present in databases. Degenerate primers were designed based on the known genes encoding DHDR (primers D1F, D2R, D3R) (Fig. S3) and THDR (primers D4F, D5R) (Fig. S4), respectively, from S. isoflavonicon- vertens, Slackia sp. NATTS, Eggerthella sp. YY7918, L. gar- vieae 20-92, A. equolifaciens and E. mucosicola. The expected sizes of the PCR products were 173 bp for pri- mer pair D1F/D2R (ddr1 amplicon), 395 bp for  primer pair D1F/D3R (ddr2 amplicon), and 983 or 986 bp (depending on target sequence) for primer pair D4F/D5R (tdr amplicon). The gene segments to be amplified included moderately variable sequences enabling assign- ment to the original bacterial species after subsequent cloning and sequencing of the PCR amplicons.
+PCR runs using the three primer sets mentioned above and genomic DNA from the equol-forming bacteria
+
+S. isoflavoniconvertens, E. mucosicola, A. equolifaciens or Asaccharobacter celatus as templates yielded specific amplicons of the expected size. Controls with single pri- mers were negative. No PCR products were detected with genomic DNA of closely related non equol-forming members of the Coriobacteriaceae, such as Slackia exigua, Slackia faecicanis, Slackia heliotrinireducens, Eggerthella lenta DSM 2243 and E. lenta rK3.
+
+Application of primers targeting DHDR and THDR genes in the microbiome of human faecal samples with varying equol-forming ability
+Genomic DNA was isolated from FS of the 17 human donors, which had been tested for equol formation as described above. PCR amplification analyses were per- formed using primer pair D1F/D3R to  target  DHDR  genes  and  primer  pair  D4F/D5R  to  target  THDR  genes. The D1F/D3R primer  pair  was  selected  because of the larger size of the resulting ddr2 amplicon, pro- viding  more  sequence  information  compared  to  the ddr1 amplicon expected to arise from primer pair D1F/D2R.
+
+
+
+Specific ddr2 and tdr amplicons of approximately 400 and 1000 bp, respectively, were consistently obtained using faecal DNA from six of the equol producers (FS 3, FS 6, FS 10, FS 11, FS 15, FS 17) (Fig. 3). Overall, the
+ddr2 amplicon bands were more pronounced than those    of the tdr amplicons. The amounts of PCR products  formed did not clearly correlate with the rate of equol formation by the corresponding faecal slurries. No PCR products were observed with DNA from  FS  without  equol formation. Moreover, two FS (FS 8, FS 12) produc- ing equol did not result in visible PCR products. The lat- ter was surprising since especially FS 8 showed the  highest rate of equol formation compared with all other samples (Fig. 2). However, efforts to obtain PCR ampli- cons from DNA of FS 8 and FS 12 by modifying DNA purification or PCR conditions (see Materials and meth- ods) were not successful. Positive control PCR runs revealed an efficient amplification of 16S rRNA gene seg- ments for all samples including FS 8 and FS 12. This indicated the absence of faeces-derived PCR inhibitors from the prepared and purified template DNA. When  DNA preparations without purification were used, the  yield for two samples, FS 3 and FS 11, was indeed small.
+
+
+Analysis of clone libraries and assignment of obtained DHDR and THDR gene sequences to equol-forming bacteria
+Clone libraries were established using the purified ampli- cons obtained by PCR with primer pairs D1F/D3R or D4F/D5R and faecal DNA of FS 3, FS 6, FS 10, FS 11, FS
+15 and FS 17. Cloning of ddr2 amplicons was impeded because the selection of recombinants by blue/white screening was not reliable, most likely because of in-  frame cloning of the small-sized insert. Therefore, both white and blue colonies were subjected to further analy- ses. The plasmids were isolated from individual  clones and their size determined by agarose gel electrophoresis. The inserts of correctly sized plasmids were sequenced. The identical procedure of cloning, plasmid preparation and insert sequencing was applied to all of the PCR runs with no visible amplicons including those of equol pro- ducers (FS 8, FS 12) and nonequol producers (FS 1, FS 2,
+FS 4, FS 5, FS 7, FS 9, FS 13, FS 14, FS 16) to check for
+the presence of low PCR product concentrations.
+For the equol-forming FS, we aimed to clone and sequence 20 ddr2 and tdr amplicons each. This was
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3 Agarose gel electrophoresis of PCR assays performed with faecal DNA of the individual human donors and primers targeting DHDR or THDR genes. (a) Usage of primer pair D1F/D3R to obtain ddr2 amplicons. (b) Usage of primer pair D4F/D5R to obtain tdr amplicons. The lane numbers refer to the donor ID. PCR reaction mixtures were applied according to the faecal equol- formation rate in descending order. M, molecular-weight marker; bp, base pairs.
+
+(a)	M	8
+
+
+
+
+bp 1000
+500
+400
+300
+200
+100
+
+
+
+
+(b)	M 8
+
+
+
+bp 1000
+500
+
+100
+
+6	3    10   12   15   17 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6    3    10   12   15   17 11
+
+4   14   16   13   5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4   14   16   13    5
+
+7	2	9	1    M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7    2	9	1   M
+
+
+
+achieved for the majority of the preparations  (Table 1). For the equol-forming samples with no visible PCR prod- ucts in the agarose gel, plasmids containing a ddr2 or tdr amplicon were rare (FS 8) or absent (FS 12). The sequences obtained for each sample (Table S2 and S3) were mostly identical or differed in only one nucleotide. However, in a few cases, up to five nucleotides were dif- ferent in ddr2 amplicons and up to three nucleotides  in   tdr amplicons resulting in a residual identity of 98*5 and 99*8%, respectively. The ddr2 amplicons of FS 8, FS 10, FS 11 and FS 17 formed a cluster with the corresponding DHDR gene segments of A. equolifaciens and E. mucosi- cola (Fig. 4a). However, sequence identity of the ampli- cons to A. equolifaciens (98-99%) exceeded that to E. mucosicola (94%). The ddr2 amplicons of FS 3, FS 6 and FS 15 formed another cluster with the DHDR gene seg- ment of S. isoflavoniconvertens (Fig. 4a), the sequence identity being 100% (Table 1). Analysis of the tdr ampli- cons, which were 2*7-fold longer than the ddr2
+
+amplicons, yielded an identical clustering with one slight difference (Fig. 4b). The tdr amplicons of FS 6 formed a separate clade in the S. isoflavoniconvertens cluster with 97% sequence identity to the THDR gene segment of this bacterium (Table 1). The identity of the tdr amplicon sequences obtained from FS 8, FS 10, FS 11 and FS 17 in relation to the THDR gene segments of A. equolifaciens and E. mucosicola was somewhat lower (96 and 93%, respectively) than that of the respective ddr2 amplicons    in relation to the DHDR gene segments of those organ- isms.
+For the nonequol-forming FS, we analysed the plas- mids of 10 clones each obtained from PCR assays with ddr2 or tdr primers. As expected, the majority of the  clones originating from the nonequol-forming FS har- boured plasmids without any insert (Table 1). A few plasmids contained inserts with unexpected size and sequence. One specific ddr2 amplicon each was identified for FS 4 and FS 14 and one tdr amplicon for FS 13
+
+
+
+Table 1 Overview of clone library analysis. The libraries were established by cloning ddr2 and tdr amplicons obtained by PCR on DNA from equol-forming and nonequol-forming faecal samples. Numbers of prepared plasmids, plasmids without insert and plasmids with target insert and sequence assignment to equol-forming bacterial species based on similarity to DHDR and THDR gene sequences are given. NA, not applicable
+
+Cloning of ddr2 amplicons	Cloning of tdr amplicons
+
+
+
+
+
+Equol producer status/donor ID
+
+
+
+
+Prepared plasmids
+
+
+Plasmids without insert
+
+Plasmids with target insert
+
+
+Species with most similar DHDR gene sequence (% identity)
+
+
+
+
+Prepared plasmids
+
+
+Plasmids without insert
+
+Plasmids with target insert
+
+
+Species with most similar THDR gene sequence
+(% identity)
+
+
+Equol producer
+3	32	4	21	S. isoflavoniconvertens
+(100)
+6	26	0	26	S. isoflavoniconvertens
+(100)
+
+
+
+22	0	22	S. isoflavoniconvertens
+(99*7-100)
+26	0	22	S. isoflavoniconvertens
+(96*6-96*8)
+
+8	36	28	7	A. equolifaciens (98*8)	15	10	2	A. equolifaciens (95*8)
+
+26	1	20	A. equolifaciens
+(97*7-99*1)
+32	6	20	A. equolifaciens
+(98*8-99*1)
+
+40	18	12	A. equolifaciens (95*7-95*8)
+
+41	5	25	A. equolifaciens (95*6-95*8)
+
+12	40	34	0	NA	22	21	0	NA
+
+15	22	1	20	S. isoflavoniconvertens
+(99*7-100)
+17	22	1	20	A. equolifaciens
+(98*8-99*1)
+
+21	1	20	S. isoflavoniconvertens
+(99*5-99*8)
+43	34	7	A. equolifaciens (95*6-95*8)
+
+Nonequol producer
+1	10	10	0	NA	10	9	0	NA
+2	10	10	0	NA	10	8	0	NA
+4	10	9	1	E. mucosicola (100)	10	8	0	NA
+5	10	9	0	NA	10	2	0	NA
+7	10	9	0	NA	10	10	0	NA
+9	10	9	0	NA	10	6	0	NA
+10	8	0	NA	10	8	1	A. equolifaciens (95*8)
+10	9	1	S. isoflavoniconvertens	10	10	0	NA
+(99*7)
+16	10	9	0	NA	10	10	0	NA
+
+
+
+(a) ddr2 amplicons
+
+
+
+100
+
+
+
+Esp Lga
+
+(b) tdr amplicons
+
+
+
+100
+
+
+
+Esp
+
+100
+
+
+
+17*1
+89	8*2
+
+100 Emu
+4*7
+
+100
+
+Lga
+96
+
+
+Ssp 100
+
+
+
+6*2
+
+
+
+Sis
+
+11*3
+10*4
+Aeq
+
+
+
+100
+
+
+
+
+Sis 3*1
+6*1
+91 15*1
+
+
+
+88
+
+100
+
+3*1
+100 15*1
+Emu
+17*12
+10*1
+8*7
+11*2
+13*6
+
+
+
+
+0*09
+
+
+Ssp
+
+14*3
+
+
+
+0*2
+
+Aeq
+
+
+Figure 4 Phylogenetic trees of representative ddr2 and tdr amplicon sequences and DHDR and THDR gene segments of known equol-forming gut bacteria. (a) ddr2 amplicons without primer sequences (341 bp) and corresponding segments of DHDR genes. (b) tdr amplicons without pri- mer sequences (932 bp) and corresponding segments of THDR genes. The designation of amplicons refers to the donor ID combined with the individual clone number (see also Table S2 and S3). Bootstrapping was performed on 100 replicates and values above 86% are shown at nodes. Scale bars indicate nucleotide substitutions per site. Aeq, Adlercreutzia equolifaciens DSM 19450; Emu, Enterorhabdus mucosicola DSM 19490; Esp, Eggerthella sp. YY7918; Lga, Lactococcus garvieae 20-92; Sis, Slackia isoflavoniconvertens DSM 22006; Ssp, Slackia sp. NATTS.
+
+
+(Table 1, Fig. 4). The amplicon sequences  obtained  for  FS 4 and FS 14 were 100% identical to the DHDR gene segments of E. mucosicola and S. isoflavoniconvertens, respectively. The amplicon sequence obtained for FS 13 was most similar to the THDR gene segment of A. equo- lifaciens (96% identity), whereas its identity to the THDR gene segment of E. mucosicola was somewhat lower (93%).
+
+Discussion
+Human subjects vary largely in the ability of their intesti- nal microbiomes to bioactivate the  isoflavone  daidzein  via dihydrodadzein to equol (Setchell and Clerici 2010). To determine the bacteria-mediated equol-forming status of the human host, a PCR-based approach targeting the encoding genes of isoflavone-converting enzymes would offer several advantages over the methods used so far. No intake of isoflavones by human subjects followed by time-dependent collection of plasma or urine samples or conversion tests with faecal slurries under anoxic condi- tions would be required. Molecular biological methods such as PCR amplification are fast, based on standard methods and can be automated for use in large studies.     In addition, quantitative PCR analysis allows for the determination of gene-copy numbers or even gene- transcription rates.
+In the majority of human and animal studies on gut microbiota-mediated effects, the composition of bacterial
+
+communities has been examined based on 16S  rRNA  gene sequences. Since relationships between phylogeny and activities of bacteria are usually difficult to establish, targeting of functional genes are more meaningful. Tar- geted metagenomic analysis has been described for a number of important enzymes occurring in the intestinal microbiome of humans, such as 7a-hydroxy-3-oxo-D4- cholenoic acid oxidoreductase (Wells  et al.  2003;  Kang et al. 2008), butyryl-CoA:acetate CoA-transferase (Louis and Flint 2007; Louis et al. 2010), b-glucuronidases (Dabek et al. 2008; McIntosh et al. 2012), 1,4-a-glucan- branching enzyme (Lee et al. 2014), choline  trimethyl lyase (Martinez-del Campo et al. 2015), lactoyl-CoA dehydratase, propionaldehyde dehydrogenase and methyl- malonyl-CoA decarboxylase (Reichardt et al. 2014). The challenge of this approach is to develop appropriate degenerate PCR primers, which essentially target all genes encoding a specific key enzyme in different bacterial species.
+Although information about enzymes involved in the formation of equol by gut bacteria and their encoding  genes is still limited, in a first approach, we  detected  genes related to this conversion in the complex human microbiome using PCR amplification with  newly  designed and validated primers. The sequences of the degenerate primers were deduced from highly conserved gene segments of DHDR and THDR, which are essential for equol formation. Their encoding genes have so  far been identified in six bacterial strains each displaying an
+
+
+
+overall high degree of similarity (Figs. S3 and S4). Primer sets targeting the genes encoding DHDR and THDR were used for PCR on genomic template DNA isolated from    FS of 17 human donors varying in their ability to form equol. The inter-individual differences in equol formation observed in fermentation experiments with faecal suspen- sions are in agreement  with  previous  reports  (Rowland et al. 2000; Bowey et al. 2003; Setchell and Cole 2006; Bolca et al. 2007). The prevalence of equol-forming activ- ity was 47% in the 17 subjects under study, which is somewhat higher than that reported for Western popula- tions of 25-35% (Setchell and Cole 2006). However, highly efficient formation of equol was observed with fae- cal slurries from three donors only. Dihydrodaidzein was formed as an intermediate or a final metabolite by all but one of the tested microbiomes. This is in agreement with previous studies demonstrating the conversion of daid- zein to dihydrodaidzein or genistein  to dihydrogenistein  in 70-90% of the human FS tested (Gardana et al. 2009; Braune et al. 2010; Gaya et al. 2016).
+For the majority of the equol producers, PCR amplifi- cation applied to their faecal DNA with primers targeting the DHDR and THDR genes yielded amplicons visible in agarose gels. The sequences of the DHDR or THDR amplicons obtained for each equol-forming subject were nearly identical and exhibited the highest similarity to the corresponding gene segments of S. isoflavoniconvertens  or
+A. equolifaciens (Table 1). Thus, each equol-forming human donor appeared to harbour only one main equol- forming species, namely S. isoflavoniconvertens in three subjects and A. equolifaciens in four subjects. However, since the number of subjects and amplicons was limited   in this pilot study, conclusions should be drawn with caution. The observed sequence differences between the amplified segments and the genes of the type strains or among the amplicons may be due to the presence of dif- ferent strains. However, PCR-based amplification errors cannot be excluded either. To date, there is little knowl- edge about the prevalence and abundance of individual equol-forming bacteria in humans. In Japanese adults, Slackia sp. NATTS and closely related S. isoflavonicon- vertens strains had a prevalence of 25-40% with a mean count of 2*5 9 106 cells  per  gram  of  wet  faeces  (Tsuji et al.    2010;    Sugiyama    et al.    2014).    In    our study,
+S. isoflavoniconvertens showed a similar prevalence of 24%. In a very recent study, 104-105 copies of THDR or DHDR genes per gram of faeces were observed in equol-forming menopausal women by quantitative PCR analysis (Vazquez et al. 2017). Surprisingly, nearly similar copy numbers were detected in some of the nonequol- producing subjects of the study group. The treatment of women with soy isoflavones did not result in increased numbers of THDR or DHDR gene copies.
+
+We never observed PCR products following  agarose  gel electrophoresis when faecal DNA of nonequol pro- ducers was used as  a  template.  However,  construction  of corresponding clone libraries revealed in three out of nine cases the presence of single amplicons, which could be assigned to DHDR or THDR gene sequences of E. mucosicola, S. isoflavoniconvertens or A. equolifaciens (Table 1). This indicated  that  equol-forming  bacteria were sporadically present at low levels also in nonequol- producing subjects. However,  the  low  abundance  of these bacteria did not lead to a detectable conversion of daidzein to equol as based on the faecal fermentation studies.
+In summary, this demonstrates that the developed degenerate primers specifically target DHDR and THDR genes present in authentic human FS. However, for two   FS with equol-forming activity, only few or no PCR amplicons were obtained. Efforts to improve the PCR efficiency did not change the results. The inhibition  of PCR amplification by faeces-derived compounds still pre- sent in the template DNA preparation could be excluded. Thus, the most likely explanation for the vain attempts to obtain PCR amplicons is the presence in these samples of so far unknown equol-forming bacteria harbouring less related enzymes and genes, which are not targeted by the designed primers. Our conclusion is supported by results  of Vazquez et al. (2017), who missed quantitative PCR signals for DHDR genes in one of their equol-producing subjects. All this argues in favour of identifying further equol-forming gut bacteria to complement the basis for future metagenomic analyses.
+
+
+Acknowledgements
+
+This work was supported by the German Research Foun- dation (DFG, grant number BR 2269/4-1). We thank Anke GuEURhler, Diana Schulze and Marion Urbich for tech- nical assistance.
+
+Conflict of Interest
+No conflict of interest declared.
+
+
+References
+
+Barnes, S. (2010) The biochemistry, chemistry and physiology of the isoflavones in soybeans and their food products. Lymphat Res Biol 8, 89-98.
+Birru, R.L., Ahuja, V., Vishnu, A., Evans, R.W., Miyamoto, Y., Miura, K., Usui, T. and Sekikawa, A. (2016) The impact      of equol-producing status in modifying the effect of soya isoflavones on risk factors for CHD: a systematic review of randomised controlled trials. J Nutr Sci 5, e30.
+
+
+
+Bolca, S., Possemiers, S., Herregat, A., Huybrechts, I., Heyerick, A., De Vriese, S., Verbruggen, M., Depypere, H. et al. (2007) Microbial and dietary factors are associated with the equol producer phenotype in healthy postmenopausal women. J Nutr 137, 2242-2246.
+Bowey, E., Adlercreutz, H. and Rowland, I. (2003) Metabolism of isoflavones and lignans by the gut microflora: a study      in germ-free and human flora associated rats. Food Chem Toxicol 41, 631-636.
+Braune, A., Maul, R., Schebb, N.H., Kulling, S.E. and Blaut,
+M. (2010) The red clover isoflavone irilone is largely resistant to degradation by the human gut microbiota. Mol Nutr Food Res 54, 929-938.
+Chevenet, F., Brun, C., Banuls, A.L., Jacq, B. and Christen, R. (2006) TreeDyn: towards dynamic graphics  and annotations for analyses of trees. BMC Bioinformatics 7, 439.
+Clavel, T., Charrier, C., Braune, A., Wenning,  M.,  Blaut,  M. and Haller, D. (2009) Isolation of bacteria from the ileal mucosa of TNFDARE  mice  and  description  of Enterorhabdus mucosicola gen. nov., sp. nov. Int J Syst Evol Microbiol 59, 1805-1812.
+Dabek, M., McCrae, S.I., Stevens, V.J., Duncan, S.H. and Louis, P. (2008) Distribution of b-glucosidase and b- glucuronidase activity and of b-glucuronidase gene gus in human colonic bacteria. FEMS Microbiol Ecol 66, 487-495.
+Duda-Chodak, A., Tarko, T., Satora, P. and Sroka, P. (2015) Interaction of dietary compounds, especially polyphenols, with the intestinal microbiota: a review. Eur J Nutr 54, 325-341.
+Edgar, R.C. (2004) MUSCLE:  multiple  sequence  alignment with high accuracy and high throughput. Nucleic Acids Res 32, 1792-1797.
+Frankenfeld, C.L. (2011) O-Desmethylangolensin: the importance of equol's lesser known cousin to human health. Adv Nutr 2, 317-324.
+Frankenfeld, C.L. (2017) Cardiometabolic risk and  gut microbial phytoestrogen metabolite phenotypes. Mol Nutr Food Res 61, .
+Gardana, C., Canzi, E. and Simonetti, P. (2009) The role of diet in the metabolism of daidzein by human faecal microbiota sampled from Italian volunteers. J Nutr Biochem 20, 940-947.
+Gaya, P., Medina, M., Sanchez-Jimenez, A. and Landete, J.M. (2016) Phytoestrogen metabolism by adult human gut microbiota. Molecules 21, 1034.
+Guindon, S. and Gascuel, O. (2003) A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood. Syst Biol 52, 696-704.
+Jackson, R.L., Greiwe, J.S. and Schwen, R.J. (2011) Emerging evidence of the health benefits of S-equol, an estrogen receptor b agonist. Nutr Rev 69, 432-448.
+Jin, J.S., Nishihata, T., Kakiuchi, N. and Hattori, M. (2008) Biotransformation of C-glucosylisoflavone puerarin to
+
+estrogenic (3S)-equol in co-culture of two human intestinal bacteria. Biol Pharm Bull 31, 1621-1625.
+Jin, J.S., Kitahara, M., Sakamoto, M., Hattori, M. and Benno,
+Y. (2010) Slackia equolifaciens sp. nov., a human intestinal bacterium capable of producing equol. Int J Syst Evol Microbiol 60, 1721-1724.
+Kang, D.J., Ridlon, J.M., Moore, D.R. 2nd, Barnes, S. and Hylemon, P.B. (2008) Clostridium scindens baiCD and baiH genes encode stereo-specific 7a/7b-hydroxy-3-oxo- D4-cholenoic acid oxidoreductases. Biochim Biophys Acta 1781, 16-25.
+Kawada, Y., Yokoyama, S., Yanase, E., Niwa, T. and Suzuki, T. (2016) The production of S-equol from daidzein  is associated with a cluster of three genes in Eggerthella sp. YY7918. Biosci Microbiota Food Health 35, 113-121.
+Klein, M.A., Nahin, R.L., Messina, M.J., Rader, J.I.,
+Thompson, L.U., Badger, T.M., Dwyer, J.T., Kim, Y.S.
+et al. (2010) Guidance from an NIH workshop  on designing, implementing, and reporting clinical studies of soy interventions. J Nutr 140, 1192S-1204S.
+Ko, K.P. (2014) Isoflavones: chemistry, analysis, functions and effects on health and cancer. Asian Pac J Cancer Prev 15, 7001-7010.
+Kutschera, M., Engst, W., Blaut, M. and Braune, A. (2011) Isolation of catechin-converting human intestinal bacteria. J Appl Microbiol 111, 165-175.
+Landete, J.M., Arques, J., Medina, M., Gaya, P., de Las Rivas,
+and Munoz, R. (2016) Bioactivation of phytoestrogens: intestinal bacteria and health. Crit Rev Food Sci Nutr 56, 1826-1843.
+Lee, S., Cantarel, B., Henrissat, B., Gevers, D., Birren, B.W., Huttenhower, C. and Ko, G. (2014) Gene-targeted metagenomic analysis of glucan-branching enzyme gene profiles among human and animal fecal microbiota. ISME J 8, 493-503.
+Louis, P. and Flint, H.J. (2007) Development of a semiquantitative degenerate real-time PCR-based assay for estimation of numbers of butyryl-coenzyme A (CoA) CoA transferase genes in complex bacterial samples.  Appl Environ Microbiol 73, 2009-2012.
+Louis, P., Young, P., Holtrop, G. and Flint, H.J. (2010) Diversity of human colonic butyrate-producing bacteria revealed by analysis of the butyryl-CoA:acetate CoA- transferase gene. Environ Microbiol 12, 304-314.
+Martinez-del Campo, A., Bodea, S., Hamer, H.A., Marks, J.A., Haiser, H.J., Turnbaugh, P.J. and Balskus, E.P. (2015) Characterization and detection of a widely distributed gene cluster that predicts anaerobic choline utilization by human gut bacteria. MBio 6, e00042-00015.
+Maruo, T., Sakamoto, M., Ito, C., Toda, T. and Benno, Y. (2008) Adlercreutzia equolifaciens gen. nov., sp. nov., an equol-producing bacterium isolated from human faeces, and emended description of the genus Eggerthella. Int J Syst Evol Microbiol 58, 1221-1227.
+
+
+
+Matthies, A., Clavel, T., GuEURtschow, M., Engst, W., Haller, D., Blaut, M. and Braune, A. (2008) Conversion of daidzein and genistein by an anaerobic bacterium newly isolated from the mouse intestine. Appl Environ Microbiol 74, 4847-4852.
+Matthies, A., Blaut, M. and Braune, A. (2009) Isolation of a human intestinal bacterium capable of daidzein and genistein conversion. Appl Environ Microbiol 75, 1740- 1744.
+McIntosh, F.M., Maison, N., Holtrop, G., Young, P., Stevens, V.J., Ince, J., Johnstone, A.M., Lobley, G.E. et al. (2012) Phylogenetic distribution of genes encoding b- glucuronidase activity in human colonic bacteria and the impact of diet on faecal glycosidase activities. Environ Microbiol 14, 1876-1887.
+Messina, M. (2016) Soy and health update: evaluation of the clinical and epidemiologic literature. Nutrients 8, e754.
+Reichardt, N., Duncan, S.H., Young, P., Belenguer, A., McWilliam Leitch, C., Scott, K.P., Flint, H.J. and Louis, P. (2014) Phylogenetic distribution of three pathways for propionate production within the human gut microbiota. ISME J 8, 1323-1335.
+Rowland, I.R., Wiseman, H., Sanders, T.A., Adlercreutz, H. and Bowey, E.A. (2000) Interindividual variation in metabolism of soy isoflavones and lignans: influence of habitual diet on equol production by the gut microflora. Nutr Cancer 36, 27-32.
+SchroEURder, C., Matthies, A., Engst, W., Blaut, M. and Braune,
+(2013) Identification and expression of genes involved  in the conversion of daidzein and genistein by the equol- forming bacterium Slackia isoflavoniconvertens. Appl Environ Microbiol 79, 3494-3502.
+Setchell, K.D. and Clerici, C. (2010) Equol: history, chemistry, and formation. J Nutr 140, 1355S-1362S.
+Setchell, K.D. and Cole, S.J. (2006) Method of defining equol- producer status and its frequency among vegetarians.
+J Nutr 136, 2188-2193.
+Shimada, Y., Yasuda, S., Takahashi, M., Hayashi, T., Miyazawa, N., Sato, I., Abiru, Y., Uchiyama, S. et al. (2010) Cloning and expression of a novel NADP(H)- dependent daidzein reductase, an enzyme involved in the metabolism of daidzein, from equol-producing Lactococcus strain 20-92. Appl Environ Microbiol 76, 5892-5901.
+Shimada, Y., Takahashi, M., Miyazawa, N., Ohtani, T., Abiru, Y., Uchiyama,  S. and  Hishigaki, H. (2011) Identification of two novel reductases involved in equol biosynthesis in Lactococcus strain 20-92. J Mol Microbiol Biotechnol 21, 160-172.
+Shor, D., Sathyapalan, T., Atkin, S.L. and Thatcher, N.J. (2012) Does equol production determine soy endocrine effects? Eur J Nutr 51, 389-398.
+Sugiyama, Y., Nagata, Y., Fukuta, F., Takayanagi, A., Masumori, N., Tsukamoto, T., Akasaka, H., Ohnishi, H. et al. (2014) Counts of Slackia sp. strain NATTS in intestinal flora are correlated to serum concentrations of
+
+equol both in prostate cancer cases and controls in Japanese men. Asian Pac J Cancer Prev 15, 2693-2697.
+Tamura, M., Tsushida, T. and Shinohara,  K. (2007) Isolation   of an isoflavone-metabolizing, Clostridium-like bacterium, strain TM-40, from human faeces. Anaerobe 13, 32-35.
+Toh, H., Oshima, K., Suzuki, T., Hattori, M. and Morita, H. (2013) Complete genome sequence of the equol-producing bacterium Adlercreutzia equolifaciens DSM 19450T.
+Genome Announc 1, e00742-00713.
+Tsuji, H., Moriyama, K., Nomoto, K., Miyanaga, N. and Akaza, H. (2010) Isolation and characterization of the equol-producing bacterium Slackia sp. strain NATTS. Arch Microbiol 192, 279-287.
+Tsuji, H., Moriyama, K., Nomoto, K. and Akaza, H. (2012) Identification of an enzyme system for daidzein-to-equol conversion in Slackia sp. strain NATTS. Appl Environ Microbiol 78, 1228-1236.
+Uchiyama, S., Ueno, T. and Suzuki, T. (2007) Identification of a newly isolated equol-producing lactic acid bacterium from the human feces. J Intest Microbiol 21, 217-220.
+Vazquez, L., Guadamuro, L., Giganto, F., Mayo, B. and Florez,
+A.B. (2017) Development and use of a real-time quantitative PCR method for detecting and quantifying equol-producing bacteria in human faecal samples and slurry cultures. Front Microbiol 8, 1155.
+Wang, X.L., Hur, H.G., Lee, J.H., Kim, K.T. and Kim, S.I.
+(2005) Enantioselective synthesis of S-equol from dihydrodaidzein by a newly isolated anaerobic
+human intestinal bacterium. Appl Environ Microbiol 71, 214-219.
+Wells, J.E., Williams, K.B., Whitehead, T.R., Heuman,  D.M. and Hylemon, P.B.  (2003)  Development  and  application of a polymerase chain reaction assay for the detection and enumeration of bile acid 7a-dehydroxylating bacteria in human feces. Clin Chim Acta 331, 127-134.
+Yokoyama, S. and Suzuki, T. (2008) Isolation and characterization of a novel equol-producing bacterium from human feces. Biosci Biotechnol Biochem 72, 2660- 2666.
+
+Supporting Information
+Additional Supporting Information may be found in the online version of this article:
+
+Table S1 Sequence identities (%) of DZNR,  DHDR  and THDR from equol-forming bacteria
+Table S2 List of ddr2 amplicons and nucleotide mis- matches with most similar DHDR gene sequences
+Table S3 List of tdr amplicons and nucleotide mis- matches with most similar THDR gene sequences
+Figure S1 Multiple alignment of DHDR from S. isoflavoniconvertens DSM 22006 (Sis) (AFV15451), Slackia sp. NATTS (Ssp) (BAL46929), Eggerthella sp. YY7918 (Esp) (BAK44715), L. garvieae 20-92 (Lga) (BAJ72745),
+
+
+
+A. equolifaciens DSM 19450 (Aeq) (BAN78199) and
+E. mucosicola DSM 19490 (Emu) (WP_051191183).
+Figure S2 Multiple alignment of THDR from S. isoflavoniconvertens DSM 22006 (Sis) (AFV15450), Slackia sp. NATTS (Ssp) (BAL46928), Eggerthella sp. YY7918 (Esp) (BAK44716), L. garvieae 20-92 (Lga) (BAJ72744),
+A.  equolifaciens   DSM  19450   (Aeq)   (BAN78200)  and
+E. mucosicola DSM 19490 (Emu) (WP_084636580).
+Figure S3 Multiple alignment of  DHDR-encoding  genes from S. isoflavoniconvertens DSM 22006 (Sis) (JQ358709:  ddr),  Slackia  sp.  NATTS  (Ssp) (AB646272:
+dece-1),   Eggerthella   sp.   YY7918   (Esp)   (locus   tag,
+
+EGYY_RS07140), L. garvieae 20-92 (Lga) (AB592970),
+A. equolifaciens DSM 19450 (Aeq) (locus tag, AEQU_RS11345) and E. mucosicola DSM 19490 (Emu) (locus tag, G503_RS14985).
+Figure S4 Multiple  alignment  of  THDR-encoding genes from S. isoflavoniconvertens DSM 22006 (Sis) (JQ358709:  tdr),  Slackia  sp.  NATTS  (Ssp) (AB646272:
+dece-2), Eggerthella sp. YY7918 (Esp) (locus tag, EGYY_RS07145), L. garvieae 20-92 (Lga) (AB592969),
+A. equolifaciens DSM 19450 (Aeq) (locus tag, AEQU_RS11350) and E. mucosicola DSM 19490 (Emu) (locus tag, G503_RS0111270).

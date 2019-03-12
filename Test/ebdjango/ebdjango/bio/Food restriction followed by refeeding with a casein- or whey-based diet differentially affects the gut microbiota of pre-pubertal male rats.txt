@@ -1,0 +1,705 @@
+Available online at 
+ScienceDirect
+
+
+
+
+
+Food restriction followed by refeeding with a casein- or whey-based diet differentially affects the gut microbiota of pre-pubertal male rats,
+Majdi Masarwia,b, Hadas Isaac Solnikc, Moshe Phillipa,b,d, Sima Yaronc, Raanan Shamira,e,
+Metsada Pasmanic-Chorf, Galia Gat-Yablonskia,b,d,*
+aSackler  School of Medicine,  Tel  Aviv University, Tel Aviv, Israel
+bFelsenstein Medical Research Center, Petach Tikva, Israel
+cFaculty of Biotechnology and Food Engineering, Technion - Israel Institute of Technology, Haifa, Israel
+dThe Jesse Z and Sara Lea Shafer Institute for Endocrinology and Diabetes, National Center for Childhood Diabetes, Schneider Children's Medical Center of Israel, Petach Tikva, Israel
+eInstitute for Gastroenterology, Nutrition and Liver Diseases, Schneider Children's Medical Center of Israel, Petach Tikva, Israel
+fBioinformatics  unit, The George  S. Wise Faculty  of Life  Sciences, Tel  Aviv University,  Tel Aviv, Israel
+
+Received 13 February 2017; received in revised form 20 August 2017; accepted 29 August 2017
+
+
+
+
+Abstract
+
+Researchers are gaining an increasing understanding of host-gut microbiota interactions, but studies of the role of gut microbiota in linear growth are scarce. The aim of this study was to investigate the effect of food restriction and refeeding with different diets on gut microbiota composition in fast-growing rats. Young male Sprague-Dawley rats were fed regular rat chow ad libitum (control group) or subjected to 40% food restriction for 36 days followed by continued restriction or ad libitum refeeding for 24 days. Three different diets were used for refeeding: regular vegetarian protein chow or chow in which the sole source of protein  was casein or whey. In the control group, the composition of the microbiota remained stable. Food restriction for 60 days led to a significant change in the gut microbiota at the phylum level, with a reduction in the abundance of Firmicutes and an increase in Bacteroidetes and Proteobacteria. Rats refed with the vegetarian protein diet had a different microbiota composition than rats refed the casein- or whey-based diet. Similarities in the bacterial population were found between rats refed vegetarian protein or a whey-based diet and control rats, and between rats refed a casein-based diet and rats on continued restriction. There  was a significant strong correlation between the gut microbiota and growth parameters: humerus length, epiphyseal growth plate height, and levels of insulin-   like growth factor 1 and leptin. In conclusion, the type of protein in the diet significantly affects the gut microbiota and, thereby, may affect animal's health.
+(c) 2017 Elsevier Inc. All rights reserved.
+
+Keywords: Casein; Whey; Catch up growth; Food restriction; Gut microbiota
+
+
+
+
+
+
+Abbreviations: AL, ad libitum (group); AVD, Apparent Volume Density; BMC, bone mineral content; Cas, casein-based diet (group); CU, catch-up (group); CV, coefficient of variation; EGP, epiphyseal growth plate; FC, fold change; FDR, false discovery rate; HDL, high-density lipoprotein; IGF-1, insulin-like growth factor-1; LDL, low-density lipoprotein; OC, osteocalcin; OTU, operational taxonomic units; PCoA, principal coordinates analysis; SCFA, short chain fatty acid; RES, food-restricted (group); Whey, whey-based diet (group).
+ Funding sources: This work was partially supported by the Danone
+Strauss Research Institute and the Israeli Dairy Board [grant number 9114].
+ Conflicts of interest: None.
+* Corresponding author at: Institute for Endocrinology and Diabetes, National Center for Childhood Diabetes, Schneider Children's Medical Center
+of Israel, Petach Tikva 4920235, Israel. Tel.: +972 3 9376133; fax: +972 3
+9211478.
+E-mail addresses: (M. Masarwi),  (H.I. Solnik), (M. Phillip), 
+(S. Yaron), (R. Shamir),  (M. Pasmanic-Chor), (G. Gat-Yablonski).
+
+
+0955-2863/(c) 2017 Elsevier Inc. All rights reserved.
+
+Introduction
+
+The intestinal microbiota is increasingly being considered as a distinct functional organ. The various bacterial species harbor an estimated 2-4 million genes, exceeding the number of mammalian genes by more than 100-fold . The development of whole-genome sequencing and the availability of high-throughput data have made it possible for researchers to perform genomic and gene expression analyses of entire microbial communities. The more than 1000 microbial species in the mature gut microbiota give rise to dynamic bacterial communities characterized by marked plasticity . Al- though the bacterial population remains quite stable from age 2 years onwards, the bacterial communities display quantitative and qualita- tive variations as a result of host factors (e.g., pH, bile acids, transit time and mucus), environmental factors (e.g., nutrients and medications, especially antibiotics), and microbial factors (e.g., adhesion capability, bacterial enzymes, metabolic strategies and competitive exclusion). The data gathered in the last several years have led to a substantial change in our perception of host-gut microbiota interactions.
+
+
+
+Studies have shown that both the amount of food consumed and the dietary content affect the composition of the gut microbiota. In humans, weight loss was found to induce a shift in the bacterial phyla, with a nearly linear increase in the proportion of Bacteroidetes as weight loss progressed, accompanied by a decrease in the proportion of Firmicutes . Firmicutes were dominant in normal-weight and obese individuals and significantly decreased in individuals after gastric bypass surgery, concomitant with an increase in gammapro- teobacteria . The opposite effect was found in mice fed a high-fat diet, which showed a decreased abundance of Bacteroidetes and an increased abundance of Firmicutes and Proteobacteria .
+In studies of diet content, individuals fed an animal-based diet were found to have a significantly different microbiota population than individuals fed a plant-based diet . A diet rich in protein and animal fat encouraged the growth of the Bacteroides enterotype whereas a diet rich in carbohydrates encouraged the growth of the Prevotella enterotype . Diets supplemented with resistant starch were associated with increased fecal levels of Ruminococcus bromii and Eubacterium rectale, correlating with fiber fermentation , and infant formulas supplemented with higher concentrations of b palmitate were associated with increased fecal levels of Lactobacillus and Bifidobacteria .
+The gut microbiota, in turn, can affect the metabolism, appetite, and food consumption of the host , in addition to the host's brain function
+and behavior ; studies have also found an association with autism. In addition, the gut microbiota may play a role in the predisposition to certain diseases such as obesity , diabetes , inflammatory bowel disease , and autoimmune diseases .
+Although low-dose antibiotics commonly used in livestock feed are known to promote animal growth and bone size, the association of the gut microbiota with linear growth has not yet been described. Prompted by our previous study showing that nutritional manipula- tions affect linear growth and bone quality in young rats , in the present study, we sought to explore the effect of these manipulations on the composition of the gut microbiota. We compared rats fed chow that consisted of proteins of vegetable origin with rats fed chow containing casein and whey as the sole protein source. Casein and whey are the main protein fractions of milk, and it is well established that milk proteins induce rapid growth and development in children . Several large observational studies have reported an association of milk consumption with linear growth in both developing and industrialized countries 
+Materials and methods
+
+Animals
+
+The Animal Care and Use Committee of Tel Aviv University, in compliance with the Guide for the Care and Use of Laboratory Animals, approved all experiments (approval
+#M12096). To reduce variations in the microbiota due to genetics, sex, and age, we used 24-day-old male Sprague-Dawley rats (Envigo, Israel) of similar weight. The rats were housed individually at the animal care facility of Felsenstein Medical Research Center in order to prevent competition for food and coprophagy, thereby keeping the gut microflora of each animal separate. Animals were accustomed to the separate cases for 3 days prior to the beginning of the experiment.
+The rats were initially divided into two groups: one was fed an unlimited amount of normal chow (Complete Diet for Rats and Mice (#2018SC, based on grains); 3.1 Kcal/g, Teklad, Envigo, USA) (ad libitum group, AL), and the other was fed 60% of the same chow (food restricted group, RES) (The calculated energy values for the purified diets are estimates of metabolizable energy). The food restriction was maintained for 36 days, which led to an irreversible growth deficit (data not shown). At that point, the RES group was further divided into three subgroups: one was kept on the restricted diet (RES), and the others were given free access to either normal chow (catch-up group, CU) or milk-protein-based chow in which the only protein included was casein (TD.120604) (casein diet group, Cas), or whey (TD.120605) (whey diet group, Whey). This yielded 5 groups of rats: AL (n=5), RES (n=7), CU (n=6), Cas (n=7), and Whey (n=7) (The study design is described in Supp. Fig. 1). The milk-protein chow was otherwise similar in calorie count and amount of protein to normal chow; all diets contained similar amounts of corn starch, sucrose, cellulose, soybean oil, and vitamin and minerals including calcium carbonate, and calcium phosphate (The composition of
+
+the diets is detailed in Supp. Table 1). Refeeding was continued for 24 days. Fresh feces were collected twice, at the end of the restriction period (T1) and at the end of the experiment (T2), and immediately frozen at -70degC until analyzed. pH of the feces samples was measured using an electrode for semi-solid foods (Hanna instruments, Israel). None of the animals had symptoms of a gastrointestinal disorder at any point during the experiment. All animals from all groups were sacrificed by CO2 inhalation. Blood was taken from the right atrium of the heart (2 ml), and the serum was separated and stored at -70degC. Internal organs (heart, lungs, liver, and kidneys) were collected and weighed; humerus length was measured with a digital caliper. Both tibias from each animal were removed, isolated from soft tissue, and stored in 4% neutral buffered formalin for 48 h for fixation.
+
+Chemical analysis of serum samples
+
+Serum levels of total calcium, phosphorus, total alkaline phosphatase, total cholesterol, and low- and high-density lipoprotein (LDL, HDL) cholesterol were measured with a Beckman Coulter Analyzer (AU 680; Beckman Coulter International, Zurich, Switzerland) in the general laboratory of Schneider Children's Medical Center of Israel. Serum levels of insulin-like growth factor 1 (IGF-1), leptin, and osteocalcin (bone gamma-carboxyglutamic acid containing protein), were determined using  commercial kits according to the manufacturer's recommendations, as follows: Quantikine Mouse/  Rat IGF-1 assay kit, detection limit 8.4 pg/ml, intra- assay coefficient of variation (CV) 4.3% and inter assay CV 6% (cat. no. MG100, R&D Systems, Minneapolis, MN, USA); Rat Leptin ELISA kit, detection limit 22 pg/ml, intra-assay CV 2.2% and inter-assay CV 3.45% (Millipore, Billerica, MA, USA); Rat Osteocalcin (OC) ELISA assay kit, detection limit 0.5 ng/ml, intra-assay CV 4% and inter-assay CV 7% (cat. no. EIA2095, DRG International Inc., Springfield, NJ, USA).
+
+Measurement of growth plate height
+
+After the tibias were carefully removed and cleaned, they were fixed in 4% neutral buffered formalin for 48 h at room temperature, decalcified with EDTA and HCl (Calci Clear Rapid, cat. no. HS105, National Diagnostics, Atlanta, GE, USA) for 7 h, dehydrated with a graded ethanol series (70%, 95%, 100%), and stabilized by two sequential changes of chloroform for paraffin embedding. Histological studies and epiphyseal growth plate (EGP) height measurements were performed on paraffin sections of 5 mm thickness photographed under the Olympus BX40 microscope using an Olympus DP71 camera and analyzed with ImagePro software (version 4.5.1.22, Media Cybernetics, Inc., Rockville, MD, USA).
+
+Microbiota analysis
+
+Total genomic DNA was purified from the feces samples collected from all five groups of rats at the two time points (T1 and T2). For DNA extraction, 0.2 g of the feces sample was immersed in 750 ml buffer lysis added to a bead tube (Zymo Research, Irvine, CA, USA; cat#D6001340 and cat#S600250, respectively), vortexed for 5 min, and centrifuged for 1 min. The supernatant was removed to a clean Eppendorf tube, and the mixture was extracted three times using  phenol:chloroform:isoamyl  alcohol  (in a  ratio of 25:24:1). DNA was extracted using sodium acetate and then washed with  70%  ethanol. Polymerase chain reaction (PCR) pyrosequencing of all DNA samples (minimal concentration 20 ng/ml at minimal volume 20 ml) was performed at the Research and Testing Laboratory (Lubbock, TX, USA). Variable regions 1 and 2 (V1-V2) of 16S rRNA genes were amplified by PCR using the barcoded universal primers 27F: AGRGTTTGATCMTGGCTCAG and 338R: ACWCCTACGGGWGGCWGC and pyrosequenced using a Roche 454 FLX instrument (Roche Applied Science, Penzberg, Germany). This yielded  a dataset consisting of 310,508 high quality sequences, 250,800 bp in length and [?]4850 reads per sample (min 1269 max 23,157).
+
+Bioinformatics analysis
+
+Taxonomy-based analyses at the phylum, class, order, family, genus and species levels were performed by assigning a taxonomic status to each sequence using the Quantitative Insights Into Microbial Ecology (QIIME) pipeline (/) . Sequence with minimum quality score of 25 and minimum/maximum length of 200/ 1000 bp were assigned to the samples based on unique 8 bp barcodes. Sequences were binned into operational taxonomic units (OTUs) using a 97% identity threshold. The most abundant sequence from each OTU was selected as representative of that OTU and used for taxonomic identification of the OTU and phylogenetic alignment. Beta diversity was visualized using principal coordinates analysis (PCoA) and hierarchical clustering. It was calculated using the default beta diversity metrics of weighted and unweighted UniFrac, where unweighted analysis takes only the presence/absence of OTUs (sensitive to rare taxa) into account and weighted analysis takes also the abundance into account .
+
+Statistical analysis
+
+One-way analysis of variance (ANOVA) was used to test for significant differences in variables across groups. When differences were found, Tukey's post hoc test was used to ascertain the location of the difference. Significance level was set at Pb.05. SPSS v15 software
+
+
+
+(IBM) was used for statistical analysis of the data. Student's t test was used for between-group comparison. Spearman correlation for nonparametric measures was applied using the Past software (Oyvind Hammer, Natural History Museum, University of Oslo;  ). The false discovery rate (FDR) was calculated using the FDR online calculator ( ) . Correlations were considered significant when RN0.4 and FDRb0.05.
+
+Results
+
+Gut microbiota of young rats (AL group) during the linear growth period
+
+Phylum level
+The microbiota analysis identified 11 phyla of the 52 listed (21%) in the Genomes Online Database (Gold) (a comprehensive web resource supplying information on genome and metagenome sequencing projects and their associated metadata worldwide;  ) . They included Firmicutes, Proteobacteria, Bacteroidetes, Actinobacteria, Ignavibacteriae, Cyanobacteria, Fuso- bacteria, Deferribacteres, Tenericutes, Spirochaetes and Verrucomi- crobia. Further analysis of the phyla, classes, and orders was performed mostly on those present in more than 0.5% of the reads. Of the major bacterial phyla (A), three were identified: Firmicutes (82.3+-13.4%), Bacteroidetes (16.3+-12.6%) and Proteobac- teria (1.1+-1.2%) (A). Only Firmicutes and Bacteroidetes were found in more than 0.5% of all samples.
+
+Class level
+Twenty-two of the 69 known classes (32%) were identified. Most were detected in less than 0.5% of the reads. Six were observed in all samples (C): Clostridia (33+-7%), Bacilli (31+-12%), and Erysipe- lotrichia (19+-17%) (of the Firmicutes phylum); Bacteroidia (15+- 12%), Cytophagia (1+-1%) (both of the phylum Bacteroidetes), and Deltaproteobacteria (1+-1%; phylum Proteobacteria).
+
+Order level
+Forty-one of the 163 known orders (25%) were identified. Most were detected in less than 0.5% of the reads. Six orders were present in all samples (E): Clostridiales (32+-7.1%; class Clostridia), Lactobacillales (30+-12.0%; class Bacilli); Erysipelotrichales (20+- 18.6%; class Erysipelotrichia) (all are phylum Firmicutes); Bacteroi-
+
+dales (15+-11.9%; class Bacteroidia) and Cytophagales (1+-1%; class Cytophagia) (of the phylum Bacteroidetes), and Desulfuromonadales (1+-1.0%; class Deltaproteobacteria, phylum Proteobacteria).
+
+Gut microbiota changes during the course of the experiment
+
+To evaluate the stability of the microbiota population in our study groups, we compared the data between T2 to T1. In the control group in which no nutritional manipulations were performed, there were no significant differences over time, from baseline (T1) up to 60 days of ad libitum feeding of regular chow (T2). shows the findings for T1 (A, C, E) and T2 (B, D, F) at the phylum (A and B), class (C and D), and order (E and F) levels.
+Analysis of the changes in the microbiota in response to food restriction in the RES group showed that after 60 days of food restriction (T2), there was a significant reduction in the abundance of Firmicutes (Fold change (FC) = -1.62, P=.0008) and a significant increase in Bacteroidetes (FC=2.72, P=.001) and Proteobacteria (FC=4.99, P=.02) compared to T1 ( A,B), indicating a time- dependent effect. At the class level, a significant decrease was noted in the abundance of Bacilli (FC=-2.8,  P=.0005;  phylum  Firmicutes) and significant increase in Bacteroidia (FC=2.73, P=.001; phylum Bacteroidetes), Cytophagia (FC=3.07, P=.009; phylum Bacteroi- detes), Betaproteobacteria (FC=12.74, P=.02; phylum Proteobac- teria), and Deltaproteobacteria (FC=4.81, P=.05; phylum Proteobacteria) (C,D). At the order level, a significant reduction was noted in the abundance of Lactobacillales (FC=-2.8, P=.0005; class Bacilli, phylum Firmicutes) and a significant increase in Bacteroi- dales (FC=2.72, P=.001; class Bacteroidias, phylum Bacteroidetes), Cytophagales (FC=3.08, P=.009; Cytophagia class, phylum Bacter- oidetes), Burkholderiales (FC=12.67, P=.02; class Betaproteobac- teria, phylum Proteobacteria), and Desulfuromonadales (FC=4.94, P=.05; class Deltaproteobacteria, phylum Proteobacteria) (E,F). Comparison between the AL and RES groups () showed that while there were no significant differences at T1 () at the phylum (A), class (C), order (E), and family (G) levels, significant differences were noted at all levels at T2 (B,D,F,H). At the phylum level, the RES group had a reduced abundance of Firmicutes (FC=-1.5; P=.02) with a concomitant increase in Bacteroidetes (FC=2.25; P=.01) relative to the AL group, with a slight increase in Proteobacteria (NS).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. Profiling of the microbiota of young Sprague-Dawley rats at the phylum (A, B), class (C,D) and order (E,F) levels during linear growth, from baseline, T1 (A, C, E) to study end, T2 (B,D,F). Predominant phyla, classes, and orders are presented.
+
+
+
+At T2, the RES group was also characterized by greater abundance of classes and orders of the Bacteroides and Proteobacteria phyla ( D&F compared to C&E). Classes included Betaproteobacteria (FC= 5.93, P=.03; phylum Proteobacteria), Sphingobacteria (FC=6.79, P=
+.01; phylum Bacteroidetes), Cytophagia (FC=3.17, P=.01; phylum Bacteroidetes), and Bacteroidia (FC=2.22, P=.01; phylum Bacteroi- detes), although levels were low ( C,D). The class ML615J28 (phylum Tenericutes) was present only in the RES group albeit in very low abundance (0.1% of the sample).
+The RES group had a relatively greater abundance of the orders Bacillales (FC=6.34, P=.03; class Bacilli, phylum Firmicutes), Bacter- oidales (FC=2.21, P=.01; class Bacteroidia, phylum Bacteroidetes phylum), Burkholderiales (FC=5.90, P=.03; class Betaproteobacteria, phylum Proteobacteria), Cytophagales (FC=3.13, P=.01; class Cyto- phagia, phylum Bacteroidetes), and Sphingobacteriales (FC=6.75, P=
+.01; class Sphingobacteria, phylum Bacteroidetes) (E,F). At the family level, of the 107 families that were analyzed, increases were noted at T2 in the RES group relative to the AL group (H compared to G) in the abundance of Alcaligenaceae (FC=5.77, P=.03; order Burkholderiales, class Betaproteobacteria, phylum Proteobacteria)  and Erysipelotrichaceae (FC=87.26, P=.06; order Erysipelotrichales, class Erysipelotrichia, phylum Firmicutes phylum).
+
+
+Gut microbiota after refeeding by type of diet
+
+In this part of the analysis, we profiled the changes in the gut microbiota in each refed group from T1 to T2. Data are presented for each level.
+At the phylum level, in the CU group in which only the amount of food was changed, we found a tendency to an increase in the abundance of Proteobacteria (FC=5.1, P=.083) with no additional significant differences (A,B). Rats refed the Cas and Whey diets showed a significant increase in the abundance of Bacteroidetes (FC= 2.7, P=.003 for Cas; FC=1.6, P=.04 for Whey).While the Cas group showed a significant decrease in Firmicutes (FC=-1.5; P=.005), the Whey fed rats showed a trend level decrease (FC=-1.3; P=.08), similar to the effect of prolonged food restriction even though the animals were fed ad libitum ( C,D &E,F respectively). The abundance of Actinobacteria tended to decrease in the Cas group
+
+(FC=-2.6, P=.05; similar FC was observed in the Whey but the results were not significant; data not shown).
+At the class level (Supp Fig. 2 A, B), no significant differences between T2 and T1 were found in the CU group. Only Deltaproteo- baceria showed a tendency to increase (FC=5.6, P=.084; phylum Proteobacteria). In the casein-fed group (Supp Fig. 2 C,D), there was a significant decrease in the abundance of Bacilli (FC=-5.00, P=.002; phylum Firmicutes) and Erysipelotrichia (FC=-42.6; P=.002; phylum Firmicutes), and a trend-level decrease in Actinobacteria (FC=-2.6, P=.056; phylum Actinobacteria), with a concomitant increase in Bacteroidia (FC=2.7, P=.004; phylum Bacteroidetes), Clostridia (FC=1.5, P=.029; phylum Firmicutes) and Betaproteobac- teria  (FC=4.6,  P=.02;  phylum  Proteobacteria).  Refeeding  with  the whey diet (Supp Fig. 2 E,F) significantly reduced the abundance of Erysipelotrichia (FC=-29.50, P=.005; phylum Firmicutes), Cytophagia (FC=-2.2, P=.02; phylum Bacteroidetes), Flavobacteria (FC=-3.5, P=.019; phylum Bacteroides) and Deltaproteobacteria (FC=-19.8, P=
+.015; phylum Proteobacteria), with an increase in Betaproteobacteria (FC=8.8, P=.045; phylum Proteobacteria).
+At the order level (Supp Fig. 3 A,B), in the CU group, there was a tendency on refeeding toward an increase in the abundance of Clostridiales (FC=1.3, P=.073; class Clostridia, phylum Firmicutes) and Desulfuromonadales (FC=5.7, P=.083; class Deltaproteobacteria, phylum Proteobacteria). The Cas group showed a significant increase in the abundance of Clostridiales (FC=1.6, P=.020; class Clostridia, phylum Firmicutes), Bacteroidales (FC=2.8, P=.003; class Bacteroi- detes, phylum Bacteroidetes), and Burkholderiales (FC=4.6, P=.020; class Betaproteobacteria, phylum Proteobacteria) and a reduced abundance of Lactobacillales (FC=-4.9, P=.002; class Bacilli, phylum Firmicutes), Erysipelotrichales (FC=-48.8, P=.002; class Erysipelo- trichia, phylum Firmicutes phylum) and Coriobacteriales (FC=-5.0, P=.02; class Actinobacteria; phylum Actinobacteria) (Supp Fig. 3 C,D). The Whey group showed a significant reduction in the abundance of Erysipelotrichales (FC=-33, P=.01; class Erysipelo- trichia, phylum Firmicutes), Cytophagales (FC=-2.4, P=.024; class Cytophagia, phylum Bacteroidetes), Flavobacteriales (FC=-3.9, P=
+.02; class Flavobacteria, phylum Bacteroidetes), and Desulfuromona-
+dales (FC=-23.5, P=.015; class Deltaproteobacteria, phylum Pro- teobacteria) and a tendency toward a decrease in Lactobacillales (FC=-1.5, P=.053, class bacilli, phylum Firmicutes). A significant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Profiling of the microbiota of young food-restricted Sprague-Dawley rats at the phylum (A, B), class (C,D) and order (E,F) levels, from baseline, T1 (A, C, E) to study end, T2 (B,D,F). Predominant phyla, classes, and orders are presented.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3. Comparison of the gut microbiota of rats fed ad libitum with food-restricted rats at the phylum, class, order and family levels, from baseline, T1 (A,C,E,G) to study end, T2 (B,D,F,H). Numbers indicate percentage of microbiota population.
+
+
+increase was noted in Burkholderiales (FC=1.55, P=.03; class Betaproteobacteria, phylum Proteobacteria) (Supp Fig. 3 E,F).
+When all three re-fed groups were compared at T2 () we found at the phylum level (A) that the level of Bacteroidetes was lowest in the CU group (P=.035 and 0.032 compared to Cas and Whey respectively) while that of the Proteobacteria and Firmicutes tended to be higher in the CU group but the differences were not statistically different. At the class level (B), the CU group had a significantly greater abundance of Deltaproteobacteria (P=.028 and 0.017 com- pared to Cas and Whey respectively; phylum Proteobacteria) and Erysipelotrichia (Pb.0001 compared to both Cas and Whey; phylum Firmicutes) while the level of Betaproteobacteria (P=.046 compared to Whey and NS compared to Cas; phylum Proteobacteria) and
+
+Bacteroidia (P=.03 and 0.023 compared to Cas and Whey, respec- tively; phylum Bacteroidetes), was lower than the Cas and Whey. Clostridia and Bacilli (both of the phylum Firmicutes) were similar to the level of the Whey group and significantly different from the Cas group (P=.07 and 0.064 for Clostridia and Bacilli respectively; NS compared to Whey).
+At the order level (C), there was a greater level of Desulfuromonadales (P=.041 and 0.022 compared to Cas and Whey respectively; class Deltaproteobacteria, phylum Proteobacteria) and Erysipelotrichales (Pb.0001 for both Cas and Whey; class Erysipelo- trichia, phylum Firmicutes), in the CU group and a lower level of Burkholderiales (P=.029 compared to Whey; NS compared to Cas; class Betaproteobacteria, phylum Proteobacteria), and Bacteroidales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4. Effect of refeeding with normal chow (A,B), casein-based died (C,D), and whey-based diet (E,F) on the gut microbiota at the phylum level (T1-A,C,E; T2-B,D, F). (Only taxa present inN0.5% of reads were analyzed.)
+
+
+
+(P=.029 and 0.022 compared to Cas and Whey respectively; class Bacteroidetes, phylum Bacteroidetes). Interestingly, here again, the level of Lactobacillales (class Bacilli, phylum Firmicutes), and Clostridiales (class Clostridia, phylum Firmicutes) was similar to that of the Whey group and different from that of the Cas (P=.04 and 0.057 CU compared to Cas, for Lactobacillales and Clostridiales, respectively).
+At the family level (D), the CU group had a significantly greater abundance of Desulfuromonodaceae (P=.034 and P=.019 compared to Cas and Whey, respectively; order Desulfuromonadales, class Deltaproteobacteria, phylum Proteobacteria), and Erysipelotri- chaceae (Pb.0001 compared to Cas and whey; order Erysipelotrichales, class Erysipelotrichia, phylum Firmicutes) and a lower level of Lachnospiraceae (P=.008 compared to Cas, NS compared to Whey; order Clostridiales, class Clostridia, phylum Firmicutes) and Bacter- oidaceae (P=.005 and 0.0003 compared to Cas and Whey respective- ly; order Bacteroidales, class Bacteroidia, phylum Bacteroidetes).
+Detailed comparison of the gut microbiota composition at T2 between the Cas and Whey groups yielded no significant differences at the phylum level (Supp Fig. 4A). At the class level (Supp Fig. 4B), the Whey group had a significantly greater abundance of Bacilli (FC=3.94, P=.048; phylum Firmicutes), and the Cas group had a significantly greater abundance of Clostridia (FC=1.5, P=.009, phylum Firmi- cutes). This difference was true also at the order level (Supp Fig. 4C), with a significantly greater abundance of Lactobacillales in the whey group (FC=4, P=.048, class Bacilli, phylum Firmicutes) and a significantly greater abundance of Clostridiales in the casein group (FC=1.5, P=.009, class Clostridia, phylum Firmicutes). At the family level (Supp Fig. 4D), the Whey group had a significantly greater abundance of Lactobacillaceae (FC=4.2, P=.04; order Lactobacillales, class Bacilli, phylum Firmicutes), and the Cas group had a significantly
+
+greater abundance of Streptococcaceae (FC=3, P=.01, order Lacto- bacillales, class Bacilli, phylum Firmicutes) and Lachnospiraceae (FC= 1.8, P=.02; order Clostridiales, class Clostridia, phylum Firmicutes) (Supp Fig. 4D). Interestingly, the order RF39 (class Mollicutes, phylum Tenericutes) and the family Desulfovibrionaceae (order Desulfovi- brionales, class Deltaproteobacteria, phylum Proteobacteria) were observed only in the Cas group, although at very low levels (0.03% and 0.03%, respectively).
+
+
+Association of gut microbial enterotype with food restriction and refeeding
+
+We next investigated the association between the gut microbiota enterotypes, described by Arumugam and colleagues , with food restriction and refeeding (normal chow, casein diet, whey diet). The three dominant enterotypes described in human gut microbiota are identifiable by the variation in the abundance of one of three genera: Bacteroides (enterotype 1, E1), Prevotella (enterotype 2, E2), and Ru- minococcus (enterotype 3, E3) . Of the three enterotypes, E1 was dominant in all the rats (). There was no significant difference in the abundance of the three enterotypes between the AL and CU groups throughout the study (T1 vs. T2). However, in the RES group, the abundance of all three enterotypes significantly increased from T1 to T2 (E1: FC=2.8, Pb.001; E2: FC=2.91, Pb.01; E3: FC=2.47, P=.04)
+(). The abundance of E1 significantly increased from T1 to T2 in both the Cas and Whey groups (FC=3.85, Pb.01 and FC=2.75, P=.01, respectively); the abundance of E2 tended to decrease in the Whey group (FC=-3.46; P=.07) with no change in the Cas group; and the abundance of E3 significantly decreased in the Whey group (FC=-2.87; P=.04) and tended to increase in the Cas group (FC=3.39; P=.08).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. Comparison of phyla (A), classes (B) orders (C) and families (D) between the three re-fed groups at T2. Numbers indicate percentage of microbiota population.
+
+
+the control chow were acidic (AL, 5.72+-0.82; RES, 6.43+-0.61; CU, 6.11
++-0.01) while those of the rats fed the casein and whey diets were basic (Cas, 7.47+-0.31; Whey, 7.38+-0.36; P=3.2*10-8 between the control and special diets).
+
+3.7. Effect of the different diets on serum cholesterol and LDL cholesterol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 6. Enterotype changes between T1 and T2 in all groups (A-AL; B-RES; C-CU; D-Cas; E-Whey). Bacteroides (enterotype 1, E1), Prevotella (enterotype 2, E2), and Rumino- coccus (enterotype 3, E3). Numbers indicate percentage of microbiota population.
+
+
+On ANOVA comparing the milk protein-specific diet groups with the others, the abundance of E1 was significantly higher in the Cas and Whey groups than in the AL group (FC=3.85, P=.007 and FC=4.15, P=.003, respectively) and the CU group (FC=2.66, P=.02 and FC= 2.86, P=.007, respectively), and the abundance of E2 was lower in the Cas and Whey groups than in the AL group (FC=-2.83, P=.06 and FC=-4.33, P=.02, respectively) and RES group (FC=-3.81, P=.001 and FC=-5.81, Pb.0001, respectively). There were no significant differences in E3 among all the groups (see Supp Fig. 5).
+
+Diversity and richness
+
+The Chao 1 index was used to estimate the total number of species present in a community. The Chao 1 is based on the number of rare classes (OTUs) found in a sample . The results showed, that the data obtained from the pyrosequencing was saturated, indicating that the depth of sequencing was adequate. Thereafter we applied the Shannon diversity index (H) to characterize species diversity in the feces samples. The index accounts for both the abundance and evenness of the species present. We found an average index number of around 2 in all samples. There were no significant differences in richness or diversity among samples from rats fed normal chow, although a slight increase was noted with restriction (AL, 2.12; RES, 2.45; CU, 2.10). However, on comparison of the rats refed normal chow with the rats refed a special diet, the factor (H) was significantly higher in the samples from the normal-chow-fed rats than in the casein-fed rats (1.82) and, particularly, the whey-fed rats (1.67) in which the reduction was dramatic.
+Microbial diversity between the samples (beta diversity) was calculated using principal coordinate analysis (PcoA) of unweighted UniFrac matrix. We did not find any significant clustering by the groups at baseline, indicating low dissimilarity. However, when samples were analyzed after refeeding, the Whey and Cas  groups were clustered together and the RES, CU and AL groups were separated. Similar results were found when the clustering  analysis was done with Pearson dissimilarity and Ward's method ().
+
+Effect of the different diets on feces pH
+
+No significant differences were noted in the pH of the feces among the three groups fed normal chow (AL, RES, CU) or between the groups fed the special diets (Cas and Whey). However, the feces of the rats fed
+
+Serum analysis showed no significant differences in total cholesterol level among the AL, RES, and CU groups (). Total cholesterol level was significantly lower in the Whey group than the RES and CU groups (P=.01, 0.004, respectively), and tended to be lower in the Cas group than the CU group (P=.07). LDL cholesterol levels were significantly higher in the RES group than the AL, Cas and Whey groups, with the lowest level in the Whey group. Levels of HDL cholesterol (HDLC) were similar in the AL, RES, Cas, and Whey groups. The CU group had a significantly higher HDL value than the Whey group (P=.01), and a trend-level higher value than the AL group (P=.07). The calculated ratio between total cholesterol and HDLC was the lowest in the Whey group (significantly lower than the AL, Res and CU and with a tendency to be lower than the Cas group (P value by T test=0.05)).
+
+3.8. Correlation between growth parameters and gut microbiota
+
+Data on the effects of these diets on rat morphometric parameters (weight, humerus length, bone quality, EGP height, etc.) as well as serum content (IGF-1, leptin, alkaline phosphatase, osteocalcin etc.) have been published previously  and are provided here for the convenience of the reader (Supp Table 2).
+We used Spearman correlation to evaluate the relationship among these parameters of linear growth. A significant positive correlation was found between body weight and weight of the internal organs (heart, lungs, liver and kidneys), as well as with humerus length, levels of leptin, IGF-1, Apparent Volume Density (AVD), bone mineral content (BMC) and bone quality (load) (Supp. Fig. 6). EGP height was strongly  and  positively  correlated  with  osteocalcin,  (R=0.82,  P= 9.15E6) but neither parameter was correlated to any of the other factors evaluated. This finding is probably explained by the increase in weight concomitant with the decrease in EGP height as the body ages. Next, we studied widespread and statistically significant correla- tions between growth parameters and the gut microbiota in the various study groups. As shown in , body weight and humerus length were strongly and positively correlated with the abundance of the phylum Firmicutes and strongly and negatively correlated with the phylum Bacteroidetes. At the class level (), both factors were negatively correlated with  the  abundance  of  Bacteroidia and Cytophagia (both phylum Bacteroidetes), and at the order level (), both factors were negatively correlated with Bacteroidales and Cytophagales. As the RES group was significantly different from all the other groups, the correlational analysis was repeated without the RES group. The results were similar at the phylum level, but at the class level, we found a strong positive correlation with Erysipelotrichia (R= 0.54, P=.005, FDR 0.009) and Deltaproteobacteria (R=0.6, P=.001, FDR=0.004) and a negative correlation with Betaproteobacteria (R= 0.53, P=.006, FDR=0.009) and Bacteroidia (R=0.6, P=.001, FDR=
+0.004). At the order level, there was a positive correlation with
+Erysipelotrichales (R=0.54, P=.005, FDR=0.01) and Desulfuromona- dale (R=0.6, P=.001, FDR=0.004) and a negative correlation with Bacteroidales (R=0.6, P=.001, FDR=0.004) and Burkholderiales (R= 0.53, P=.006, FDR=0.01) (Supp. Tables 3-5).
+EGP height showed an opposite behavior in all correlations checked (). At the phylum level, it was negatively correlated with the abundance of Proteobacteria (this was not significant without the RES group). On the class level (), EGP height was negatively correlated with the abundance of Erysipelotrichia (phylum Firmicutes) and Deltaproteobacteria (phylum Proteobacteria) (noted also in the
+
+
+
+absence of the RES group), and at the order level (), EGP height was strongly and negatively correlated with the abundance of Erysipelotri- chales (class Erysipelotrichia, phylum Firmicutes) and Desulfuromona- dale (class Deltaproteobacteria, phylum Proteobacteria).
+IGF-I and leptin () were positively correlated with the phylum  Firmicutes  (R=0.499,  P=.0036,  FDR=0.01;  R=0.426,  P=
+.033, FDR=0.082, respectively) and negatively correlated with the phylum Bacteroidetes (R=-0.468, P=.0067, FDR=0.01; R=-0.388, P=.055,   FDR=0.082,  respectively),  similar  to  the   other  growth parameters. In the class level (), IGF-I was found to be negatively correlated with Bacteroidia (R=-0.464, P=.007, FDR=0.044); while leptin was negatively correlated with Cytophagia (R=-0.4, P=.047, FDR=0.250); both classes are members of the phylum Bacteroidetes. This negative correlation was also found at the order level (): IGF-I was negatively correlated with the Bacteroidales (Bacteroidetes phylum)  (R=-0.464,  P=.007,  FDR=0.051),  while  leptin  was  nega- tively correlated with Cytophagales (Bacteroidetes phylum) (R=-0.4, P=.047, FDR=0.232).
+
+Discussion
+
+We describe the gut microbiota composition of young male Sprague-Dawley rats and the effect of food restriction and refeeding on this population. Food restriction significantly changed the balance between the two main phyla that reside in the gut in a time-dependent manner. Refeeding with diets containing the milk proteins Casein and Whey for 24 days had different effects from refeeding with regular chow. The significant correlation of type of diet with parameters of linear growth may suggest a role for the gut microbiota in linear growth in rats. Further studies are needed to confirm these observations in children.
+Recent technological advances in genetic analysis have revealed that humans have a vast amount of fellow, enormously diverse, co- inhabitant microbes in the gut. We are only just beginning to understand the mutual host-bacteria interactions. Apparently, this
+
+internal ecological system, although quite stable, is responsive to cues from the host. Studies have shown that the gut microbiota differs among patients with specific disease states, but it is not quite clear if the changes are the cause or the result of the imbalance in the host.
+Hosts can directly affect the composition of their gut microbiota by diet. This association has been drawing much attention owing to the rising incidence of obesity and metabolic disturbances. In studies of mice fed a high-fat diet, researchers noted a decrease in the ratio of Bacteroidetes/Firmicutes , with changes in the abundance of specific genera . In some human studies, obese individuals reportedly had an increased ratio of Firmicutes/Bacteroidetes, which decreased when they switched to a low calorie diet . Some authors suggested that the presence of Firmicutes might increase the risk of metabolic diseases .
+The gut population of young male Sprague-Dawley rats during
+their linear growth period, described in the present study, is similar to the previously published data on humans,  in  whom  Firmicutes and Bacteroidetes were found to be  the  most  abundant  phyla , and rodents , in which the predominant phyla were Firmicutes N BacteroidetesN N Proteobacteria.
+We found that reducing food consumption for 60 days increased the richness and diversity of the rats' gut microbiota. We speculate that the lack of food decreased the amount of the most competitive species, allowing others, which could take advantage of the materials available, to rise and prosper. This shift may enhance the efficiency of the gut to harvest energy from nutritional ingredients. Specifically, during food restriction, the abundance of Bacteroidetes increased and the abundance of Firmicutes decreased. Accordingly, studies in mice and humans have suggested that obesity is associated with an opposite effect, namely, a reduction in the abundance of Bacteroidetes and a proportional increase in Firmicutes. Our results also support the study of Zhang and colleagues , which showed that a 30% dietary restriction in mice substantially modulated the gut microbiota. It will be interesting to see if the biodiversity that is reduced in the rats fed the milk protein specific diets will be reversible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 7. Principle Coordinate Analysis (PCoA) of weighted Unifrac illustrating that samples at baseline (A) showed low dissimilarity between the groups while re-fed (B), Whey and Cas groups (red) were clustered together RES, CU and AL groups (blue) were separated. Calculations were performed using the UniFrac method; values are weighted  to account  for differences  in lineage frequencies.  The distance  between points represents unique branches on a phylogenetic tree, as well as differences in the relative abundance of lineages. Closer  points share more branch length and have similar frequencies, while points more distant from one another have more unique or disparate gut microbiotas 
+
+
+Table 1
+Serum Cholesterol levels of male Sprague-Dawley rats after 36 days of 40% food restriction and 24 days of re-feeding
+All values are mean +- SD.
+Superscripts denote significant between-group differences as follows (Pb.05):
+AL, controls fed regular chow ad libitum; RES, restricted to 40% of daily intake of regular chow; CU, re-fed regular chow; Cas, re-fed casein-formulated chow; Whey, re-fed whey- formulated chow. LDL, low-density lipoprotein cholesterol; HDL, high-density lipoprotein cholesterol.
+a Compared to AL
+b  Compared to RES
+c   Compared to CU.
+* t Test between Cas and Whey Pb.05.
+
+
+or not, as changes induced by HFD were shown to be only partially reversible .
+Food restriction for 36 days in our model led to a significant reduction in total body weight, internal organ weight, and bone length, structure, and quality, as reported also by others . Refeeding for 24 days led to significant catch-up growth, but it did not fully compensate for the growth deficit. This was true for all the diets evaluated. We found strong correlations between the gut microbiota at the phylum, class, and order levels and growth parameters. This is the first report of these findings. Although they may have been due to the strong correlation between the growth parameters and body weight, they may also have additional implications. An association between the gut microbiota composition and bone structure was suggested by another study wherein colonization of germ-free mice with normal gut microbiota led to normalization of the bone mass, probably by affecting the immune system . Gut microbiota may exert an effect on the osteoclasts  or affect the bone via gut-derived serotonin . It is well known that treating farm animals with low-dose antibiotics improves their growth . Thus, the gut microbiota apparently affects linear growth, but the underlying mechanism has yet to be elucidated .
+Our model consisted of three groups of rats that were fed the same vegetarian chow, without (AL) and with restriction (RES, CU) and two
+
+
+Table 2
+Correlation between growth parameters and gut microbiome the phylum level Firmicutes	Proteobacteria Bacteroidetes
+
+groups that were fed the vegetarian chow for 36 days and then refed with milk protein-specific diets (Cas, Whey). Although extra care was taken to use diets that were matched for calories as well as macro- and micro-nutrients, on clustering analysis, the animals fed the milk-based chow were clustered together, separate from the animals fed the normal vegetarian-protein chow. This important finding indicates that diet affects the gut microbiota by its quantity, by the macro- and micro-nutrients it contains, and also by its specific content. Although the clustering might be explained by our feeding one group (AL,RES,CU) a vegetable diet and the other group (Whey, Cas), an animal protein-based diet, it may also be due to the fact that the normal chow was made of a mix of grains whereas the casein and whey diets were purified. Hence, matching diets by their macro- and micro-nutrients is not enough, as the exact composition of the diets consumed might significantly affect the gut microbiota and thereby, may affect animal's health.
+In the AL and CU groups, the changes in the gut microbiota along the course of the experiment were minor. However, the Cas and Whey groups showed significant differences between baseline (T1, fed normal chow) and study end (T2) at all levels. In addition, between the Cas and Whey groups, there were differences in microbiota compo- sition (albeit small, due to the small group sizes). These may be attributed to differences between these two milk fractions in several parameters. 1. Amino acid profile: Casein is rich in histidine, methionine, phenylalanine, and proline, and whey is rich in branched chain amino acids such as leucine, isoleucine, valine, lysine, and sulfur . 2. Glycolipids and glycoproteins: The carbohydrate fraction of bovine milk is divided into lactose (48 g/L), free oligosaccharides (0.05
+
+Body weight
+
+P=.0025	NS
+FDR=0.0037 R=0.515
+P=.0017
+
+P=.0025
+FDR=0.0037 R=-0.515 P=.0013
+
+g/L) , and bound glycans or glycoconjugates that are present
+in the form of glycolipids and glycoproteins . Lactoferrin, an iron and Ca2+ binding, glycosylated member of the transferrin family, is
+
+Humerus length FDR=0.0025
+R=0.532
+
+EGP height	NS
+
+P=.0036
+
+NS
+
+P=.023 FDR=0.045 R=-0.412
+
+FDR=0.0025
+R=-0.54362 NS
+P=.0067
+
+present only in the whey protein fraction . The primary role of this glycoprotein is to provide protection in the first few days of newborns against pathogens . Furthermore, it has been shown to stimulate osteoblast differentiation and to exert an anti-apoptotic
+effect on osteoblast  and chondrocytes . Additional whey
+
+IGF-I
+
+
+Leptin
+
+FDR=0.01	NS
+R=0.499 P=.033
+FDR=0.082	NS
+R=0.426
+
+FDR=0.01 R=-0.468 P=.055 FDR=0.082 R=-0.388 P=.089
+
+specific glycoproteins include alpha lactalbumin, of which only a small percentage (3-10%) is glycosylated . On the other hand, components of casein are kappa casein and caseino-macropeptide which have multiple O-glycosylation sites at various threonine and
+serine  residues   .  Recent   publications  have  shown   that the
+
+Osteocalcin	NS	NS
+
+FDR=0.218
+R=0.361
+
+oligosaccharides released from milk glycoproteins have a specific
+
+
+AVD
+
+P=.063 FDR=0.063 R=0.337
+
+P=.062 FDR=0.063 R=0.338
+
+P=.026 FDR=0.063 R=-0.397
+
+effect on bacterial growth . 3. Gut processing. On acidification in the stomach, casein converts to an insoluble protein forming micelles, thereby slowing the digestion rate. By contrast, whey proteins are
+
+AVD, Apparent Volume Density.
+R is considered biological significant at N+-0.3; P is considered statistical significant at
+b0.05.
+FDR, False Discovery Rate; Value was used to correct the P values for multiple hypothesis testing.
+Only correlations with an FDR-corrected Pb.05 are considered significant.
+
+rapidly digested and quickly removed from the gut . These substantial differences may affect the pace of release of amino acids to the blood and the gut microbiota.
+The gut microbiota was recently shown to play an active and important role in metabolism through a number of physiological
+
+
+Table 3
+Correlation between growth parameters and gut microbiome at the class level
+AVD- Apparent Volume Density.
+R is considered biological significant at N+-0.3; P is considered statistical significant at b0.05; FDR, False Discovery Rate; Value was used to correct the P values for multiple hypothesis testing.
+Only correlations with an FDR-corrected Pb.05 are considered to be significant.
+
+
+
+processes. The microbes produce energy from the fermentation of undigested carbohydrates such as cellulose, xylans, resistant starch, and inulin, which is used for microbial growth. The end products, such as short chain fatty acids (SCFAs), gas and alcohol, affect the host. The major SCFAs produced are acetate, butyrate, and propionate. Other microbial end-products include lactate, ethanol, succinate, valerate, caproate, isobutyrate, 2-methyl butyrate, and iso-valerate . Intes- tinal bacteria also play a role in helping the body absorb essential dietary minerals, such as calcium, magnesium, and iron, and in enhancing the absorption and storage of lipids . Differences in the efficiency of the microbiota in harvesting energy from indigestible food components and minerals may have an effect on obesity and maybe also growth.
+
+
+The differences in the pH between the feces of the vegetarian fed rats and those fed the milk protein specific diets (Whey and Cas) were probably due to the different type of fibers that were fermented by the micro-organisms , as although fibers were added to the milk protein specific diets to match the control chow, the later was based on grains and differences may have occurred, leading to increased pH in the feces. It is also possible that varied bacterial strains in these groups have utilized the SCFA or produced other metabolites while ferment- ing the fibers such as gas, alcohol and so on that affect acidity to a lesser extent. In addition, the slightly increased pH in the RES group may be due to the increased use of the SCFA by the rat, in the presence of reduced available food and energy.
+
+
+
+Table 4
+Correlation between growth parameters and gut microbiom at the order level
+Clostridiales	Lactobacillales	Bacteroidales	Erysipelotrichales	Burkholderiales	Cytophagales	Desulfuromonadales
+
+
+Body weight	NS	NS
+
+P=.001
+FDR=0.012	NS
+R=-0.551 P=.002
+
+P=.073 FDR=0.172 R=-0.320
+
+P=.037
+FDR=0.131	NS
+R=-0.369 P=.004
+
+Humerus length	NS	NS
+
+FDR=0.014
+R=-0.519
+
+NS	NS
+
+FDR=0.014	NS
+R=-0.491
+
+
+EGP height
+
+P=.056 FDR=0.088 R=0.352
+
+
+NS	NS
+
+P=.007
+
+P=.0001 FDR=0.001 R=-0.632
+
+P=.063 FDR=0.088 R=0.343 P=.058
+
+P=.060 FDR=0.088 R=-0.346
+
+P=.002 FDR=0.008 R=-0.532
+
+IGF-I	NS	NS
+
+P=.099
+
+FDR=0.051	NS
+R=-0.464 P=.083
+
+FDR=0.205
+R=-0.337
+
+NS	NS
+
+P=.047
+
+Leptin	NS
+
+FDR=0.232
+R=0.336
+
+FDR=0.232
+R=-0.343
+
+NS	NS
+
+FDR=0.232	NS
+R=-0.400
+
+
+Osteocalcin	NS	NS
+
+P=.078 FDR=0.182 R=0.374 P=.011
+
+P=.0009 FDR=0.006 R=-0.642 P=.0002
+
+P=.049 FDR=0.173 R=0.414 P=.012
+
+
+NS	NS
+
+P=.002
+
+AVD	NS	NS
+
+AVD, Apparent Volume Density.
+
+FDR=0.022
+R=-0.447
+
+FDR=0.001
+R=0.611
+
+FDR=0.022	NS
+R=-0.441
+
+FDR=0.009
+R=0.518
+
+R is considered biological significant N +- 0.3, P is considered statistical significant at b0.05; FDR, False Discovery Rate; Value was used to correct the P values for multiple hypothesis testing.
+Only correlations with an FDR-corrected Pb.05 are considered to be significant.
+
+
+
+The three main enterotypes that dominate the human gut microbiota, Bacteroides (E1), Prevotella (E2), and Ruminococcus (E3) , are not controlled by age, gender or body weight , but rather by long-term diet . Indeed, in the present study, food restriction led to a significant increase in both the E1 and E2 enterotypes. This finding is in agreement with previously published data on an association of higher levels of Bacteroides/Prevotella with weight loss , suggesting a role of these enterotypes in enhancing energy harvesting, and an association of E2 with improved production of liver glycogen . A higher abundance of E1 was observed in the Cas and Whey groups than in the CU group refed vegetarian protein. As great effort was taken to produce diets that were very similar in macro-nutrient composition, differences in the amount of amino acids cannot account for this difference, but these may be affected by the differences in the amino acid profile. Be that as it may, our data are supported by a study comparing children from Burkina Faso, who consume a rural diet with high fiber content, to European children consuming a Western diet. The authors found that the abundance of E1 was associated with the diet enriched with animal protein and fat whereas E2 was associated with the carbohydrate-rich Western diet . Similar results were also obtained in adults .
+In our previous study using the same rat model, we showed that
+the intake of whey protein was associated with less weight gain . Here we report that levels of total cholesterol and the ratio of total/ HDL cholesterol were lower in the Whey group than the CU group, concomitant with a higher Bacteroides/Prevotella ratio. These findings are in line with the study of Tranberg et al. which showed that plasma cholesterol level was lowered by a Whey-based compared to a Casein-based diet , and by clinical and animal studies showing that gut microbiota can affect lipid and cholesterol metabolism as well as serum cholesterol levels . Interestingly, a recent study reported that subjects with a higher level of the Prevotella enterotype had higher plasma levels of trimethylamine noxide, a proatherogenic metabolite, than subjects with a higher level of the Bacteroides enterotype . Taken together, these results indicate that a whey- based diet leads to less weight gain, a low cholesterol level and ratio, and a lesser abundance of Prevotella.
+One of the major concerns of pediatric endocrinologist regarding children who undergo catch up growth is their increased risk of obesity and metabolic diseases , therefore food that will support the animals' requirements but will cause less weight gain, may be considered as beneficial, although only when long term metabolic studies are performed this statement can be conclusively stated. Thus, the results of the current study suggest that whey may have a beneficial health effect by enabling to circumvent some of the long- term complications of catch up growth, such as late-onset metabolic disorders.
+Numerous publications suggest that interactions between the gut microbiota and the host have important implications for metabolism, the exact contribution of each type of microbe to specific metabolic effects awaits further clarification. Two observations in our study may have important implications in this context: 1. The order Erysipelo- trichi was absent from both the Cas and Whey diets. The abundance of Erysipelotrichi was previously shown to be affected by diet. In one study, an increase was found in mice switched to diets high in fat , and in another, a shift in Erysipelotrichi was induced by soybean oil . 2. The percentage of Clostridiaceae was 30% higher in the Cas group. This may have metabolic importance as this order was shown to be capable of fermenting amino acids .
+
+Conclusion
+
+This study shows that manipulation of the amount of food intake may affect the biodiversity of the microbiota and that the microbiota is affected by protein type and diet complexity. These observations may
+
+have significant implications for the long-term metabolic status of the organism, as well as its vulnerability to certain diseases. The specific biological and clinical applications of our data are, however, still unknown. Further studies with larger groups and longer follow-up are needed, as well as thorough investigations of the relationship between the gut microbiota and growth and bone parameters.
+
+Limitations of the study
+
+Sprague-Dawley rats were selected for the study model because humanized bacteria were shown to colonize the gut of rats more efficiently than that of mice . However, extrapolation of the findings to children should be made with utmost caution. Rats and humans are quite similar in physiol- ogy and anatomical structures, particularly in terms of the gastrointestinal tracts, and both rats and humans are omniv- orous and therefore have strong similarities in microbe communities. Studies have described many similar bacterial phyla in humans, mice and rats , with a predominance of Bacteroidetes and Firmicutes . Nevertheless, rats and humans have prominent anatomic differences both macro- scopically and microscopically which may be shaped by their diverging diets, feeding patterns, body size and metabolic requirements (summarized in ).
+We noted a large variability in the microbiota between animals
+within the same group. This finding was not anticipated, as the handling of the rats was strictly controlled. All rats used in the study were the same age, derived from the same supplier, and maintained in the same cage until arrival to our laboratory. They were caged in the same room (albeit separately) throughout the experiment, handled by the same person, and given the same food and water from the same source. It is possible that because of their separation, we did not see the gradual homogenization of the gut microbiota described by Elinav and colleagues . Although the low number of samples together with the high diversity of gut microbiota precluded our reaching strong conclusions, we were still able to observe significant differences between the groups.
+Owing to the small sample and the large and unanticipated divergence in the gut findings, we could not precisely reconstruct the relationship between gut microbiota composi- tion and diet. Large scale studies with greater statistical power are required to reveal the delicate contributions of diet on the gut microbiota composition of a given individual.
+
+Supplementary data to this article can be found online at  .
+
+Disclosure
+
+The authors declare no conflicts of interest.
+
+Funding
+
+This work was partially supported by the Danone Strauss Research Institute and the Israeli Dairy Board [grant number 9114].
+
+Acknowledgment
+
+This work was performed in partial fulfillment of the requirements for a PhD degree of Majdi Masarwi, Sackler Faculty of Medicine, Tel Aviv University, Israel.
+The authors are grateful to Prof Uri Gophna and Dr. Leah Reshef, from the George S Wise Faculty of Life Sciences at the Tel Aviv
+
+
+
+University for helpful discussion and Mrs. Gloria Ginzach for English editing of the manuscript.
+
+
+References
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+   
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+ 
+
+
+   
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+ 
+
+
+
+

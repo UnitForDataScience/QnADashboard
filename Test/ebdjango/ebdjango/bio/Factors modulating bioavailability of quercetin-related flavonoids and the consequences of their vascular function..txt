@@ -1,0 +1,431 @@
+
+
+
+
+Review
+Factors modulating bioavailability of quercetin-related flavonoids and the consequences of their vascular function
+Junji Terao
+Faculty of Nursing and Rehabilitation, Konan Women's University, Morikita-cho 6-2-23, Higashinaga-ku, Kobe City, Hyogo 658-0001, Japan
+
+
+a r t i c l e i n f o  
+
+Article history:
+Received 4 February 2017
+Accepted 29 March 2017
+Available online 2 April 2017
+
+Keywords: Flavonoid Quercetin Bioavailability Vascular function Oxidative stress
+
+a b s t r a c t  
+
+Nowadays dietary flavonoids attract much attention in the prevention of chronic diseases. Epidemiological and intervention studies strongly suggest that flavonoid intake has beneficial effects on vascular health. It is unlikely that flavonoids act as direct antioxidants, although oxidative stress pro- foundly contributes to vascular impairment leading to cardiovascular diseases. Instead, flavonoids may exert their function by tuning the cellular redox state to an adaptive response or tolerable stress. However, the optimum intake of flavonoids from supplements or diet has not been clarified yet, because a number of exogenous and endogenous factors modulating their bioavailability affect their vascular function. This review will focus on the current knowledge of the bioavailability and vascular function of quercetin as a representative of antioxidative flavonoids. Current intervention studies imply that intake of quercetin-rich onion improves vascular health. Onion may be superior to quercetin supplement from the viewpoint of quercetin bioavailability, probably because the food matrix enhances the intestinal
+absorption of quercetin.  a-Glucosylation increases its bioavailability by elevating the accessibility to the
+absorptive cells. Prenylation may enhance bioaccumulation at the target site by increasing the cellular uptake. However, these chemical modifications do not guarantee health benefits to the vascular system. Dietary quercetin is exclusively present as their conjugated form in the blood stream. Quercetin may exert its vascular function as an aglycone within macrophage cells after inflammation-induced deconju- gation and as conjugated metabolites by targeting endothelial cells. The relationship between the bioavailability and bio-efficacy should be clarified, to evaluate the vascular function of a wide variety of dietary flavonoids.
+
+(c) 2017 Elsevier Inc. All rights reserved.
+
+
+
+
+Contents
+Introduction	16
+The history of the research of vascular function  of flavonoids	16
+The whereabouts of the antioxidant theory in vascular function	16
+Beyond antioxidant and redox regulation	16
+Questions to be resolved	17
+Intervention studies on the vascular function of quercetin and quercetin-rich vegetables	17
+Factors modulating the bioavailability of quercetin and its  related flavonoids	18
+Pharmacokinetics and plasma concentration of dietary flavonoids	18
+Effect of quercetin glycosylation on its bioavailability	18
+Effect of quercetin prenylation on its bioaccumulation	19
+Effect of food matrix on the bioavailability of  dietary quercetin	19
+New insight into the mechanism of the vascular function of quercetin and related flavonoids	19
+Deconjugation of quercetin metabolites in the vascular target	19
+Possible role of quercetin conjugated metabolites in endothelial cells	20
+Future directions	21
+Conclusions	21
+E-mail address: 
+
+0006-2952/(c) 2017 Elsevier Inc. All rights reserved.
+
+Acknowledgement	21
+References	21
+
+
+
+
+Introduction
+
+The history of the research of vascular function of flavonoids
+
+In the 1990s, the ''French paradox", that is the observation of low coronary heart disease death rates despite high intake of diet- ary cholesterol and saturated fat, attracted much attention to the health benefits of wine polyphenols . At the time, the best researched polyphenols contributing to the cardioprotective effect were resveratrol and quercetin . However, polyphenols are members of plant secondary metabolites categorized as high- molecular weight tannins (gallotannins, ellagitannins, proanto- cyanindins) and low-molecular weight phenolic carboxylic acid derivatives, flavonoids, lignans, stilbenes and curcumins . Among them, flavonoids are commonly present in plant foods and characterized as a coplanar diphenylpropane (C6-C3-C6). To date, over 5000 flavonoid compounds have been identified.
+Since Szent-Gyorgyi  first reported that citrus flavonoids (hesperitin and rutin) reduced capillary fragility and permeability    of human blood vessels in 1936, extensive studies have been car- ried out to evaluate the pharmacological effects including the vas- cular function of plant-derived flavonoids . In 1993, an epidemiological study recruiting Dutch people revealed for the first time that high intake of flavonoids (mainly flavonol-type flavo- noids including quercetin) correlates with a decreased death rate from atherosclerotic vascular diseases . This study stimulated researchers working on the physiological function of food ingredi- ents and nutraceuticals, resulting in a bulk of human intervention studies on the bioavailability and bio-efficacy of flavonoids . A meta-analysis of 113 randomized controlled trials examining the effect of flavonoids on cardiovascular disease risk factors indicated that intake of a flavonoid-rich food, e.g., chocolate, improved flow- mediated dilatation (FMD) and systolic/diastolic blood pressure, although the flavonoid bioactivity did not follow a classical linear dose-response association . In 2014, an epidemiological study demonstrated that dietary flavonoid intake (mainly oranges, ber- ries, onions and apples) at midlife is associated with healthy aging in older women (<70 years; chronic diseases, impairment of cogni- tive and physical function, and mental health) .  Furthermore, Ivey et al. have recently demonstrated using food composition data from the USDA and the Phenol-Explorer (PE) databases that high consumption of flavonoids is associated with reduced risk of 5-year all-cause mortality in elderly women (>75 years).
+
+The whereabouts of the antioxidant theory in vascular function
+
+Flavonoids are involved in plant polyphenols as they bind phe- nolic hydroxyl groups to their basic diphenylpropane structure. Flavonoids are generally recognized as natural antioxidants, because the reducing property of phenolic hydroxyl group is responsible for their free radical-scavenging activity. Their antiox- idant property has long been suggested to significantly contribute to vascular health, thus preventing atherosclerosis . The idea of dietary antioxidants has widely prevailed in explaining the vascu- lar function of flavonoids, because it is derived from the well- known ''oxidative stress theory" proposed by Sies in 1985 ,   in which an imbalance of pro-oxidants and antioxidants induces injury, resulting in chronic diseases including atherosclerosis. In 1991, Witztum and Steinberg  hypothesized that oxidative low-density lipoprotein (oxLDL) participates in  the  early events of atherosclerosis occurring in the intima of blood vessels. Since
+
+
+
+
+then, comprehensive studies have been conducted on the efficacy of antioxidative flavonoids in vascular health as described above. Nevertheless, it is likely that antioxidant vitamins (vitamin E, vita- min C) and pro-vitamins (carotenoids) are the predominant play- ers in the antioxidant defense against oxidative stress, and antioxidative enzymes such as superoxide dismutase and glu- tathione peroxidase act as a powerful network for the clearance of reactive oxygen species (ROS) inducing oxidative stress .
+In contrast, flavonoids possess potential toxicity to humans, as they are xenobiotics in humans . Thus, humans are intrinsi- cally resistant to intestinal absorption of dietary flavonoids and inevitably invoke the detoxification system consisting of phase II enzymes to the residue that escaped from the intestinal barrier . This means that the bioaccumulation efficacy of flavonoids is much lower than that of antioxidative vitamins and pro- vitamins, although their consumption is higher than or comparable to such vitamins/pro-vitamins. Accordingly, the contribution of fla- vonoids as dietary antioxidants to vascular function seems to be much smaller than that predicted by the ''oxidative stress theory" or negligible in the antioxidant defense of the vascular systems . For example, apparent enhancement of the antioxidant capac- ity after intake of flavonoid-rich fruits has been reported to be derived not from flavonoids incorporated into the plasma, but the increased concentration of plasma uric acid due to the intake of fructose present in fruits . A double-blind randomized clinical trial has shown that daily intake of even 1000 mg of quercetin for 12 weeks has no influence on several parameters of oxidative stress and antioxidant capacity of blood plasma .
+
+Beyond antioxidant and redox regulation
+
+It should be considered that flavonoids exert their health bene- fits by a mechanism different from the classical antioxidant mech- anism based on the ''oxidative stress theory". The hydrophobic coplanar structure of flavonoids is likely to promote their affinity to the phospholipid bilayer of biomembranes. Moreover, this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1. A hypothesis on the relationship between oxidative stress and dietary antioxidants. This figure was modified from data of Terao . The more the cellular redox state slants to oxidation conditions (it shifts from left to right), the more clearly oxidative stress emerges, resulting in impairment. Antioxidants adjust the cellular redox state to the stage of adaptive response, stress, or remove the impairment state by modulating the redox signaling.
+
+
+
+unique structure may induce a specific or non-specific binding to functional proteins such as hormone receptors, enzymes and tran- scription factors. One of the well-known examples of specific bind- ing is the antagonist and/or agonist property of soy isoflavone to estrogen receptors. In 2004, Tachibana et al.  discovered the specific binding of tea catechin to the 67-kDa laminin receptor. Thereafter, many reports have been published on the molecular targets of several flavonoids. These reports clarified that a certain type of flavonoids modulate intracellular signal transduction path- ways by targeting phosphorylation enzymes composing these pathways (e.g., Raf, Fyn, MEK and PI3K) . It is possible that the intracellular flavonoids or those at the cellular surface modu- late gene expression through signal transduction pathways by binding to these functional proteins. Nevertheless, the modulating role of dietary flavonoids in the signal transduction pathways has only been verified by the results of in vitro cell studies . Direct studies using in vivo systems are required to confirm the role of dietary flavonoids in signal transduction pathways and subsequent gene expression. In this sense, the accumulation of flavonoids and their metabolites in the target tissues and the binding to functional proteins specific to signal transduction pathways should be veri- fied by flavonoid-fed animals using advanced chemical biology techniques.
+Activation of transcription factors that play an essential role in
+transcription regulation is controlled by the intracellular reduction-oxidation (redox) state through redox signaling such as the mitogen-activated protein kinase (MAPK) pathway . There- fore, the ''oxidative stress theory" is now defined as ''an imbalance between oxidants and antioxidants in favor of the oxidants, leading to a disruption of the redox signaling and control, and/or molecular damage" . shows a proposed relationship between oxida- tive stress and dietary antioxidants from the viewpoint of modula- tion of the redox signaling . Redox-sensitive transcription factors are activated according to the intracellular redox state, for example, from the reduction state to the oxidation state in the order of hypoxia inducible factor-1 (HIF-1), nuclear factor (erythroid-derived 2)-related factor-2 (Nrf-2), forkhead transcrip-
+tion factor (FoxO), activation protein-1 (AP-1) and nuclear factor kappa B (NFjB).
+As a result of this activation, gene expression of antioxidative enzymes such as superoxide dismutase (SOD) and heme oxygenase-1 (HO-1) leads to an adaptive response to the altered redox state. Alternatively, cells endure emerged stress by inducing a self-decomposing system including the ubiquitin-proteasome and autophagy systems. If the redox state is slanted to a higher oxi- dation level, oxidative stress becomes evident, resulting in cell death (apoptosis and/or necrosis) due to the induction of cell- death signals and/or expression of inflammatory enzymes and cytokines. Dietary flavonoids may exert their physiological role
+
+by tuning the cellular redox state to an adaptive response or to tol- erable stress conditions.
+
+Questions to be resolved
+
+Nowadays, comprehensive studies have been conducted on the role of dietary flavonoids in vascular health . However, it should be noted that the dynamics of flavonoids in the body from oral intake to excretion into the urine have not been fully clarified, yet. The problem with the evaluation of the vascular function of dietary flavonoids is the lack of information on their bioavailabil- ity, biotransformation, bioaccumulation and other related subjects. The significance of the metabolic conversion and effective concen- tration in the target site should be elucidated, to assess the efficacy of flavonoids in vascular health. Flavonoid bioactivity may not fol- low the classical linear dose-response association, because of the divergence of bioavailability in each subject . Schaffer and Hal- liwell  have pointed out that the number of reports on the bioavailability is extremely low compared with the increase in published studies on polyphenols in recent years. It should also be emphasized that the difference in bioavailability between sup- plements and plant foods in the intake of flavonoids has not been clarified, yet. This review will focus on the current knowledge on the bioavailability of quercetin, a typical flavonol type flavonoid, with new insight into its vascular function and discuss their relationship.
+
+Intervention studies on the vascular function of quercetin and quercetin-rich vegetables
+
+Quercetin  (3,30,40,5,7-pentahydroxylflavone)  is  a  flavonol-type flavonoid ubiquitously present in vegetables. Extensive studies  using cell cultures and experimental animals have clearly indicated that this flavonoid possesses potential anti-atherosclerotic effects . Interestingly, quercetin was found to significantly attenuate atherosclerotic lesion size in the aortic sinus and thoracic aorta of ApoE( /   ) mice among different classes of polyphenols (quercetin, ( )-epicatechin, theaflavin, sesamin and chlorogenic acid) . A meta-analysis of five cohorts revealed that a high intake of flavonols including quercetin decreased the incidence of stroke by 20% .
+Several human intervention studies have been conducted to estimate the efficacy of quercetin intake in the risk reduction of cardiovascular diseases ; the results are summarized in . Supplementary intake of quercetin was found to lower the blood pressure of hypertension patients , overweight or obese people , smokers  and Type 2 diabetes patients . In healthy people, acute effect on plasma nitrite level  and improvement of vasodilation  were observed after the
+
+
+Table 1
+Intervention trials of quercetin supplement in vascular health.
+
+
+
+
+;
+
+Plasma oxidized LDL
+
+
+
+
+Type 2 diabetes
+
+
+Table 2
+Intervention trial of onion intake in vascular health.
+
+Quercetin dose/day	Period	Number of subjects	Biomarkers affected	Effect   Reference	Remarks
+
+114 mg Quercetin equivalent
+
+14 days     18	Platelet aggregation	-	Janssen et al. 	Randomized crossover trial
+
+76-110 mg Quercetin equivalent
+
+14 days      10 Type 2 diabetic patients	Lymphocyte DNA
+damage
+
+;	Lean et al. 	Randomized crossover trial
+
+200 g onion	1 day	6	Lymphocyte DNA damage
+
+;	Boyle et al. 	Randomized two-phase
+crossover trial
+
+8-OHdG	;
+51 mg Queretin equivalent	1 day	22	FMD (Dilatation)	"	Nakayama et al.  Before and after study
+
+2 Onions (each 50-60 g)	8 weeks 27control 27sample overweight
+obese
+
+Total cholesterol	;	E-Mamaghani et al.
+
+LDL	;
+
+Randomized control parallel trial
+
+162 mg Quercetin equivalent
+
+6 weeks     31 hypertensive subjects	Ambulatory
+blood pressure
+
+;	Brull et al. 	Randomized
+crossover trial
+
+
+
+intake of quercetin supplement. These trials also indicate that quercetin intake improves blood biomarkers of vascular health such as plasma oxidized LDL  and inflammatory cytokines,
+interleukin-6  and tumor necrosis factor a (TNF-a)  . However,
+in these studies, a high amount of quercetin was provided as a sup- plement in the form of aglycone.
+In plant foods, quercetin and other flavonol-type flavonoids are present in the glycoside form in which sugar groups such as glu- cose and rutinose are bound to quercetin aglycone. Quercetin-3- O-b-glucoside (Q3G) is a common glycoside among them . Dower et al.  have recently conducted randomized, double-blind, placebo-controlled, crossover trials on 37 (pre)hy- pertensive adults, to estimate the effect of Q3G supplementation in a capsule for 4 weeks on intermediate markers of cardiovascular risk factors. They found that supplementation of this quercetin glu- coside reduced sE-selectin and z-score, biomarkers indicating endothelial dysfunction and inflammation.
+Onion (Allium capa L.) accounts for 10% of the world's vegetable production and major dietary source of the bioactive flavonoid quer- cetin. A Japanese report has shown that 41% of the total contribution to dairy quercetin intake was from onion . Onions have attracted attention to their effect on vascular function with increasing public awareness of their health benefit . The onion's flesh contains two quercetin glucosides, quercetin 40-O-b-glucoside (Q40G) and querce- tin 3,40-O-b-diglucoside (Q3,40diG) . shows the results of human intervention trials examining onion intake in relation to vas- cular health . Interestingly, several trials have demonstrated that onion intake reduced oxidative stress biomarkers (lymphocyte DNA damages and 8-hydroxy deoxyguanosine) , improved flow-mediated dilatation and the blood cholesterol level . Therefore, it is likely that onion intake is beneficial to vascular health by attenuating oxidative stress.
+The quercetin glycosides in onion seem to be responsible for its effect on vascular function. Nevertheless, this idea cannot be proved unless the biodynamics of quercetin from onion  intake, such as intestinal absorption and metabolic conversion, are eluci- dated. In addition, it is still unclear which is more effective in the protection of the vascular system, quercetin from supplements or that from plant foods. To answer this question, factors modulating the bioavailability of quercetin from supplements and plant foods need to be investigated.
+
+
+Factors modulating the bioavailability of quercetin and its related flavonoids
+
+Pharmacokinetics and plasma concentration of dietary flavonoids
+
+Dietary flavonoids are mostly excreted to the feces without intestinal absorption, or decomposed to ring-scission products by
+
+the action of enterobacteria in the large intestine . However, some flavonoids can be transferred into the blood circulation and subjected to metabolic conversion through phase II enzymes dur- ing the absorption process, resulting in conjugated metabolites in the circulation . Glucose-bound quercetin is deglucosylated to aglycone by lactase-phlorizin hydrolase (LPH) or cytosolic b- glucosidase (CBG) at the absorptive intestinal cells, and then con- jugated into glucuronide/sulfate conjugates before its absorption . Finally, these conjugated metabolites are transported into the blood plasma and excreted into the urine within a few hours.
+The concentration of the total conjugated metabolites was esti- mated to  reach    lM  level within a  few  hours after  the intake  of quercetin . Its half-life was calculated to be around 4 h . It is unlikely that its Cmax (the compound's maximum concentra- tion in the blood) exceeds 10 lM, even though an extremely higher amount of quercetin is orally administered. A successive intake of quercetin may elevate the blood concentration of the metabolites after their excretion into the urine ends transiently. There are a
+couple of reports indicating that the blood concentration at the basal state, in which blood was obtained after overnight fasting, rises in the range of submicromolar or   lM level by the successive intake of quercetin or quercetin-containing foods for a long period
+. For example, Egert et al. have revealed that daily sup- plementation of quercetin at 150 mg for 2 weeks significantly increased plasma concentration of quercetin by 570%, as compared
+with base line (0.380 lM vs. 0.064 lM). Jin et al. have shown
+that quercetin supplementation in doses of 500 or 1000 mg/day over 12 weeks caused a significant increase in overnight fasted plasma   quercetin,   with   a   net   increase   of   332 +- 21.0   and
+516 +- 30.8 lg/L         (corresponding         to         1.10 +- 0.07         and
+1.71 +- 0.10 lM),  respectively.  Conversely,  the  physiological  con- centration of quercetin in the circulation is undoubtedly limited to a level lower than ~lM.
+Effect of quercetin glycosylation on its bioavailability
+
+The low bioavailability of quercetin supplement may be partly attributed to its poor dispersion capacity in the digestive tract. Dis- persion in the tract may affect the micellization of quercetin, a crit- ical factor determining its transportation into the absorptive site. Quercetin aglycone and its monoglucosides are rather hydrophobic compounds (the log P values of quercetin aglycone and Q3G are
+1.82 and 0.77, respectively) . In fact, the solubility of quercetin in the vehicle largely affected the plasma concentration of querce- tin metabolites, when vehicle-dispersed quercetin aglycone was orally administered to rats by direct stomach intubation .
+The concept that quercetin's cardioprotective activities improve in response to its greater bioavailability has not been fully verified and needs to be comprehensively examined. Hence, elevating its blood concentration may be an attractive strategy for promoting
+
+
+
+the vascular function of dietary quercetin and its related flavo- noids. The bioavailability of quercetin glycosides is influenced by the type of sugar moiety. Glycosides that are bound to sugars except glucose are not the substrates for hydrolytic enzymes, releasing aglycone into the small intestine . The time to reach Cmax was significantly longer after rutin (quercerin-3-O-b- rutinoside) supplementation than quercetin aglycone supplemen- tation, because rutin is hydrolyzed with the help of enterobacteria
+in the large intestine . a-Oligoglucosylation is a notable exam-
+ple for the elevation in the bioavailability of quercetin aglycone by increasing its water-solubility. Murota et al.  have demon-
+strated that enzymatically modified isoquercitrin (EMIQ) (log P: 0.25), which mainly consists of Q3G and its a-glucosyl deriva- tives with 1-7 additional linear glucose moieties, showed higher bioavailability than both aglycone and Q3G in human subjects. Ele-
+vation in hydrophilicity by addition of several glucoside groups may improve the accessibility to the intestinal absorptive cells, as the unstirred water layer functions as a water barrier between
+the    digestive    tract    and    the    absorptive    cells    .   a-
+Oligoglucosylated quercetin may be transferred to the brush bor- der membrane of the cells faster than quercetin aglycone, and a- glucoside groups are released in turn by secreted mucosal maltose-glucoamylase.
+
+Effect of quercetin prenylation on its bioaccumulation
+
+Elevation in lipophilicity may be an alternative strategy for enhancing the vascular function of  flavonoids.  The permeability of mucosal membranes is a crucial factor, determining the effi- ciency of the cellular uptake of flavonoids. In this sense, prenyla- tion is an interesting tool for enhancing the bioaccumulation of flavonoids . The roots, leaves and seeds of Moraceace, Legumi- nosae and Asteraceae, which are frequently used as medicinal plants, are major sources of prenylated flavonoids . A recent study has demonstrated that 8-prenyl quercetin (8-PQ) exerts anti-inflammatory effects more strongly than non-prenylated quercetin aglycone in both macrophage cells and mouse paw edema . This suggests that 8-PQ is a powerful agent for pro- tecting vascular tissues from inflammatory injuries. In an indepen- dent study, prenylation has been found to enhance the cellular uptake of quercetin by increasing its lipophilicity in Caco-2 cells and C2C12 myotube cells . However, a rodent study with long-term feeding revealed that prenylation accelerated accumula- tion of quercetin in liver tissues . It should be noted that dele- terious effects may occur, because of unexpected high  accumulation in a non-target site after long-term supplementation . Prenylated flavonoids may lie on the border between natural medicines (high efficacy with tolerable side effects) and functional food components (low efficacy without side effects).
+
+Effect of food matrix on the bioavailability of dietary quercetin
+
+The bioavailability of quercetin and related flavonoids as food ingredients is affected by complicated factors such as food process- ing, food matrix, macroconstituents and/or microconstituents, as shown in the comprehensive review published by Bohn . Onion intake may improve vascular health. However, the bioavailability of onion flavonoids (Q40G and Q3,40diG) varies depending on vari- ous factors including the non-digestible fibers, food matrix, dietary fat and the manufacturing process . For example, Guo et al.
+have found that dietary fat increases quercetin bioavailability in a randomized, crossover study in which 1095 mg of quercetin aglycone was injected into overweight adult subjects with a fat- free, low-fat or high-fat meal. Dietary fat may increase quercetin absorption by enhancing its micellization at the small intestine.
+
+Interestingly, quercetin aglycone is more bioavailable than its glucosides in humans, when it is dispersed in the onion matrix, which makes it easily transportable to the absorptive site . This implies that the food matrix plays an essential role in the bioavail- ability of quercetin from plant foods. Shi et al. have compared the bioavailability of quercetin when administered in the form of a fresh red onion meal vs. a dietary supplement to six adult males and concluded that 166 mg of quercetin supplement is comparable to about 10 mg of quercetin aglycone equivalent from onion. Burak et al. have demonstrated that quercetin aglycone derived from onion skin extract powder is significantly more available than that from quercetin power-filled hard capsules in a volunteer study with blood samples collected before and during 24 h period after quercetin administration. The superiority of onion to the supple- ment in the bioavailability of quercetin may be attributable to the food matrix effect on the accessibility to the absorptive site as described above. Egert et al.  have also demonstrated that quercetin from quercetin-enriched cereal bars is significantly more bioavailable than from quercetin powder-filled hard capsules. illustrates these factors affecting the absorption of quercetin in the absorptive cells. Food appears to be superior to supplements as the source of anti-atherosclerotic flavonoids, although further extensive studies are required to evaluate the effect of different forms of flavonoids on their bioavailability.
+
+New insight into the mechanism of the vascular function of quercetin and related flavonoids
+
+Deconjugation of quercetin metabolites in the vascular target
+
+Quercetin and related flavonoids have long been suggested to possess beneficial effects on vascular function leading to protective role in atherosclerotic events . A recently published review on the efficacy of quercetin in cardiovascular health summa- rized recent human studies administering quercetin and concluded that the exact mechanisms are yet to be elucidated for explaining its vascular function. New insight into the action of quercetin in the vascular target may be required to discover the exact mechanism. In this context, innovative approaches different from the classical antioxidant theory should be introduced.
+The author's group has already demonstrated using monoclonal antibodies against quercetin-3-b-O-glucuronide (Q3GA), a major quercetin metabolite in human plasma, that injured/inflamed arteries with activated macrophages, derived from recruited monocytes, are the potential targets of quercetin metabolites  . Their anti-inflammation activities may emerge by inhibiting the expression of inflammatory enzymes, inducible nitric oxide synthase (iNOS) and cyclooxygenase-2 (COX-2) . It has been reported that quercetin metabolites were mainly present in the plasma fraction containing concentrated serum albumin in the cir- culation of human subjects consuming cooked onion . Querce- tin metabolites may be loosely bound to serum albumin and easily transferred into the arterial walls. However, conjugated metabo- lites are essentially poor in chemical reactivity  and lose hydrophobicity for the uptake into inflammatory cells. Boesch- Saadatmandi et al. have revealed that quercetin aglycone but not Q3GA decreases mRNA and protein levels of iNOS and pro- inflammatory cytokines, when murine macrophages are stimu- lated with lipopolysaccharide.
+It is  mysterious  how conjugated metabolites exert their  anti-
+inflammatory effect on macrophages. In vitro experiments have shown that Q3GA was readily deconjugated into the aglycone form by b-glucuronidase secreted from macrophage cells and exerted an anti-inflammatory activity by inhibiting c-Jun N-terminal kinase (JNK) phosphorylation , which is involved in the MAPK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Possible effect of food matrix and chemical modification on the efficacy of quercetin absorption in the absorptive cells.
+
+
+pathway. Interestingly, b-glucuronidase activity was significantly induced upon lipopolysaccharide treatment, indicating that quer- cetin metabolites exert their anti-inflammatory effect after the inflammation-dependent conversion to the aglycone form under injured/inflamed conditions .
+The anti-inflammatory action of deconjugated quercetin metabolites by targeting activated macrophages is a reasonable mechanism explaining the anti-atherosclerotic effect of dietary quercetin, despite its low bioavailability and inactivation due to metabolic conversion. A preceding study  has  demonstrated that b-glucuronidase activity is higher in the serum of hemodialy- sis patients than in healthy subjects. Lee-Hilz et al.  have claimed that the deconjugated quercetin derivatives are the active compounds responsible for the electrophile-response element (EpRE)-mediated gene expression effects. Bartholome et al.  have suggested that at inflammatory sites in vivo the pH and flavo- noid glucuronide concentrations seem favorable for deconjugation. In an isolated rat mesenteric vascular bed model, Q3GA resulted in significant inhibition of the contractile response, which was inhib- ited by the b-glucuronidase inhibitor, saccharic acid 1,4-lactone (SAL) . Furthermore, it has been reported that intravenously injected Q3GA progressively reduced the mean blood pressure of conscious spontaneously hypertensive rats (SHRs), and this hypotensive effect was abolished in SHRs treated with SAL . The hypotensive effect of dietary  quercetin was  also suppressed by SAL . A double-blind, randomized, placebo-controlled trial with 15 volunteers given capsules containing 200 or 400 mg of quercetin over three weeks has demonstrated that quercetin induced an increase in the brachial arterial diameter, which was associated with the levels of deconjugated Q3GA by the plasma glucuronidase activity . These studies obviously support the idea that quercetin aglycone released from its glucuronidated metabolites is responsible for their cardioprotective effect. Recently, Wiczkowski et al. have found that not glucuronides
+
+and/or sulfates, but quercetin aglycone is the major metabolite in the cerebrospinal fluid (CSF) of sheep after dietary quercetin intake. The deconjugation mechanism within the blood-CSF barrier may be involved in the vascular function of dietary quercetin in the brain, as it has been suggested that Q3GA accumulates in the human brain through the blood-CSF barrier .
+
+Possible role of quercetin conjugated metabolites in endothelial cells
+
+My group has previously published a review on the role of con- jugated quercetin glucuronides as bioactive metabolites as well as precursors of aglycone in vivo . The inhibitory effect of querce- tin glucuronides on the activity of ROS-generating enzymes includ- ing xanthine oxidase, several types of lipoxygenases, myeloperoxidase and nicotinamide adenine dinucleotide phos- phate (NADPH)-oxidase is suggested as a potential mechanism explaining the vascular function of dietary quercetin from the viewpoint of the attenuation of vascular oxidative stress. De Pascual-Teressa et al. have demonstrated that Q3GA downreg-
+ulates  COX-2  expression  in  human  lymphocytes  at  around  1 lM.
+Lodi et al. have found that quercetin conjugated metabolites can, at physiologically achievable concentrations, attenuate the levels of TNF-a-induced vasomodulatory molecules in a human
+co-culture model of human vascular endothelial cells and smooth muscle cells. Lodi et al. have also demonstrated that quercetin conjugated metabolites protect endothelial functions including NO response from oxidative stress by inhibiting NADPH oxidase- derived O- release in a rat aorta study.
+Tribolo  et  al.    have  found  that  at  2 lM  Q3GA  was  able  to
+inhibit the cell surface expression of vascular cell adhesion molecule-1 (VCAM-1) and intracellular cell adhesion molecule-1 (ICAM-1), which mediate rolling and adhesion of monocytes to inflamed endothelial cells, in human umbilical vein endothelial
+
+
+
+cells (HUVEC). Vascular endothelial cells serve as an interface between the circulating blood and vascular tissues, and endothelial dysfunction is a cellular mechanism of vascular failure contribut- ing to the development of cardiovascular diseases . OxLDL acti- vates endothelial cells by inducing cell surface adhesion molecules, especially ICAM-1 and VCAM-1 . It has recently been reported that Q3GA suppressed oxLDL-induced expression of ICAM-1and VCAM-1 at a physiologically relevant concentration by modulating caveolin-1 (Cav-1) mRNA expression . Cav-1 is a major struc- tural protein of caveolae located in cell membranes of vascular endothelial cells . This molecule has been suggested to play a critical role in the early event of atherosclerosis . There- fore, quercetin metabolites may target this protein in endothelial cells without the deconjugation reaction. Inhibition of oxLDL- induced expression of adhesion molecules through modulation of Cav-1 expression may be involved in the process of antioxidants tuning the cellular redox state to normal or tolerable conditions.
+
+Future directions
+
+Therapeutic uses for clinical application and nutraceutical uses for health promotion should be strictly distinguished, although vascular functions of quercetin-related flavonoids are expected to be applicable to both uses in relation to anti-atherosclerosis . Their low bioavailability, low target-specificity and resulting low bio-efficacy are of critical importance to evaluate the beneficial effect of dietary flavonoids on vascular dysfunction. Enhancement of continuous blood circulation and elevation of the concentration in the target sites may be beneficial for the therapeutic uses of dietary flavonoids. Thus, chemical modification of diphenyl- propane structure with hydrophobic functional groups such as pre- nyl group seems to be a promising tool to improve the efficacy of vascular functions by flavonoids. A prenyltransferase from the legume Sophora flavescens, which was succeeded in its molecular cloning, is likely to be widely applicable for the enzymatic preny- lation of aromatic ring of various flavonoids . Improvement of the selective delivery to target sites is an alternative tool for the therapeutic uses of flavonoids. For example, mitochondria- targeted redox active quercetin-derivatives were successfully des- ignated to act as an anti-tumor drug . Such approaches should be progressed in the clinical application of flavonoids as anti- atherosclerotic medicine.
+It is assumed that the beneficial effects overcome harmful side
+effects in the pharmacological viewpoint of dietary flavonoids. However, safety is a top priority in the nutraceutical uses of flavo- noids and their practical application to functional foods. Low bioavailability and low target-specificity of dietary flavonoids may be merits to avoid the harmful side effects. Positive effect of food matrix on the bioavailability of onion quercetin may imply an idea to improve the bioavailability of dietary flavonoids with lit-
+tle side effects. Introduction of sugar moiety is a classical and pow- erful strategy to improve water-solubility of food ingredients. a- Oligoglucosylation and other glycosylation reaction can be  applied
+to achieve effective delivery into the absorptive intestinal cells. However, behavior and action of dietary flavonoids in the digestive tract are not well understood yet. On the other hand, bioconversion of dietary flavonoids by gut microbiota is recently realized to affect the nutritional phenotype of human subjects .Enterobacteria- dependent metabolites may exert potential effect in vascular sys- tem by transferring to blood circulation. Recent studies indicated that poorly absorbed polyphenols act in the intestine to modify gut microbial community resulting in lower systemic inflamma- tion and improved metabolic outcomes . Interestingly, Kawabata et al.  demonstrated that quercetin and some related flavonoids enhance   the production of  anti-inflammatory
+
+substances by acting as prebiotic-like factors to the intestinal microbiota. It is therefore likely that the interaction between flavo- noids and microbiota in the intestinal tract is also an attractive challenging subject to elucidate whole mechanism of the vascular function of dietary flavonoids.
+
+Conclusions
+
+A large-scale intervention study failed to demonstrate that sup- plementary intake of antioxidant vitamins (vitamin E, vitamin C and b-carotene) reduces the incidence of 5-year mortality from or the incidence of any type of vascular disease, cancer or other major outcomes . In addition, a meta-analysis of 68 random- ized trials with 232,606 participants implied that treatment with b-carotene, vitamin A or vitamin E may increase mortality . Thus, the beneficial effect of supplementary intake of antioxidant vitamins on vascular health is a controversial subject. Evaluation of the vascular health effect of dietary flavonoids seems to be far more complicated than that of antioxidant vitamins, although small-scale intervention studies suggest that intake of quercetin and several other flavonoids is beneficial for vascular health. This is because only small amounts are transferred into the vascular system and they are mostly metabolized, resulting in a variety of conjugated metabolites during the intestinal absorption. Diverse factors including chemical modification of their structure may improve their bioavailability and bioaccumulation. However, this improvement does not guarantee benefits to vascular health.
+Biodynamics in the vascular system should be taken into
+account, to estimate the cardioprotective effect of dietary flavo- noids. This review suggests that conjugated quercetin metabolites can target activated macrophages after deconjugation under emer- gency conditions (e.g., inflammation) or endothelial cells without deconjugation under normal conditions. In both cases, they seem to act as the modulator of the cellular redox state, resulting in acti- vation of redox-sensitive transcription factors. However, the opti- mum plasma concentration of quercetin metabolites for exerting this vascular function is still unclear. The relationship between the bioavailability and bio-efficacy should be clarified in interven- tion studies on cardiovascular heart diseases and related diseases. Little information is available on the bioavailability (and/or bioac- cumulation) of flavonoids except for quercetin and a few other fla- vonoids. Hence, extensive studies on their bioavailability should be conducted, to evaluate the effect of dietary intake of flavonoids.
+
+Acknowledgement
+
+This work was supported by JSPS Kakenhi (Grant No.
+16K00815).
+
+References
+
+.
+.
+     .
+.
+.
+.
+.
+
+
+
+
+.
+.
+.
+.
+ .
+.
+.
+.
+.
+     .
+.
+ .
+.
+.
+.
+.
+ .
+.
+  .
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+ .
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+ .
+.
+.
+ .
+.
+
+  .
+.
+.
+
+ .
+ .
+
+.
+ .
+.
+.
+.
+ .
+
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+.
+.
+.
+
+.
+ .
+.
+.
+
+.
+.
+ .
+  .
+ .
+ .
+.
+.
+ .
+
+.
+
+.
+.
+.
+.
+  .
+ 
+.
+ .
+.
+.
+.
+ .
+.
+ .
+.
+.
+.
+.
+.
+ .
+   .
+.
+.

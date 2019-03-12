@@ -1,0 +1,460 @@
+Sarangi et al. BMC Gastroenterology (2017) 17:125
+DOI 10.1186/s12876-017-0683-9
+
+
+
+
+
+Faecal bacterial microbiota in patients with cirrhosis and the effect of lactulose administration
+Aditya Narayan Sarangi1,2+, Amit Goel1+, Ankur Singh1, Avani Sasi1 and Rakesh Aggarwal1,2*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+Cirrhosis is characterized by fibrosis leading to altered liver architecture, resulting in marked reduction in its function and in portal hypertension. Patients  with  cirrhosis  are prone to serious complications, such as variceal gastrointes- tinal bleeding, hepatic encephalopathy (HE), ascites, spon- taneous bacterial peritonitis, hepatorenal syndrome, hepatocellular carcinoma, and an increased mortality.
+
+
+* Correspondence: 
++Equal contributors
+1Department of Gastroenterology, Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow 226014, India
+2Biomedical Informatics Center, Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow, India
+
+Normal human gut is inhabited by several microorgan- isms, in particular bacteria. The number  of bacterial cells in the intestinal lumen of an individual is of the order of that of human cells in the body. These bacteria perform several important physiologic functions, such as digestion of complex carbohydrates leading to energy salvage, synthesis of essential substances such as vitamin K, and modulation of mucosal and systemic immune re- sponses  With its strategic placement between the bowel and the systemic circulation, liver acts as a filter and removes any bacteria and their  harmful  products  that may enter the blood from the gut  the loss of     this function in patients with cirrhosis may play a role in
+
+
+(c) The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver applies to the data made available in this article, unless otherwise stated.
+
+
+
+
+
+
+the occurrence of complications such as spontaneous bacterial peritonitis, sepsis and hepatorenal syndrome [.
+Modulation of gut microbiota using antimicrobial  agents [and probiotic preparations has been shown to improve HE; this suggests that intestinal bacteria play a role in the causation of HE. Lactulose, a non- absorbable disaccharide, is another drug used for the prevention and treatment of HE.  It  cannot  be digested by human intestinal enzymes, and reaches the colon un- changed where it is degraded by bacteria. It is believed that the resultant acidic environment changes the com- position of the gut microbiota [ , with a reduction in the bacteria that produce ammonia and an increase in those that trap and use ammonia for their metabolism , ameliorating HE. In fact, in studies using stool culture, lac- tulose administration has been shown to alter the abun- dance of certain gut bacteria [ . However, culture- based techniques have several limitations. In particular, a majority of bacterial species inhabiting the gut can either not be cultured or not be reliably distinguished from other related bacteria. Further, these techniques are only qualita- tive or, at best, semi-quantitative. Thus, there is a need to study the effect of lactulose on the composition of gut microbiota using better techniques.
+In recent years, high-throughput sequencing of gene for bacterial 16S ribosomal RNA has emerged as a useful method for studying the composition of complex bacter- ial mixtures  These techniques exploit the differ- ences in this gene between various bacteria, such that their sequences accurately identify various bacterial groups, often up to the species level. Further, these tech- niques can sequence several DNA molecules in parallel, providing data on relative abundance of different bac- teria in a mixture. In the current study, we applied high- throughput sequencing to determine whether gut micro- biota in patients with cirrhosis differed from those of healthy controls, and whether lactulose treatment leads to a change in the composition of gut microbiota in pa- tients with cirrhosis.
+
+Methods
+Subjects
+Patients with cirrhosis, irrespective of the cause or sever- ity of liver dysfunction, measured using Child-Turcotte- Pugh (CTP) class, and with no co-existing disease, were enrolled from the outpatient clinic of our institution be- tween October 2013 and April 2014. Diagnosis of cirrho- sis was based on a combination of typical clinical, biochemical, endoscopic and radiological findings. Pa- tients who had taken drugs that can influence the gut microbiota, such as gastric acid suppressants, antimicro- bial agents, probiotics, non-absorbable disaccharides (such as lactulose) or those that alter gastrointestinal motility, or complementary or alternative medicines, in
+
+
+the previous 6 weeks, were excluded. Since we also aimed to study the effect of lactulose on gut microbiota, we particularly included those patients who were likely  to be prescribed lactulose, as a prophylaxis against HE in view of CTP class B or C disease.
+For each patient, one stool specimen was collected at enrollment. For patients who received lactulose, a sec- ond specimen was collected after 6 weeks of lactulose administration (in a dose of 30-60 ml/day, adjusted to obtain 2-3 semisolid stools daily); any patient who had worsening of clinical condition, or received another medication or required hospitalization was excluded.
+In addition, a group of healthy adult volunteers, with similar age and gender distribution, were recruited as con- trols from among family members of other patients pre- senting with minor illnesses (so that they were similar to the patients in terms of socioeconomic status, diet, lifestyle, habits, etc). The prospective control subjects underwent recording of clinical history and a physical examination by a physician, and those with any current symptom/illness or any significant previous illness, and those receiving any drug likely to affect gut microbiota were excluded. Each control subject provided one stool specimen.
+The subjects, both patients and controls, collected a stool specimen in a wide-mouthed container at  site  (in the hospital) and placed it immediately in a box contain- ing cool-packs which had been frozen at -80 degC. The study was approved by the Ethics Committee of Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow and each participant provided informed consent.
+
+Sequencing of gut microbiota
+DNA was extracted from approximately 0.5 g of stool using standard phenol-chloroform method, and V3 hy- pervariable region of 16S rRNA gene was amplified  These primers, in addition to the V3-specific priming se- quences, contained sequences complementary to Illu- mina forward, reverse and multiplex sequencing primers. Different reverse primers, each with a unique six-nucleotide index, were used for different stool speci- mens to enable multiplexing (Table 
+Illumina sequencing libraries were prepared using a one-step polymerase chain reaction in a 50-ml reaction mixture that contained 200 ng of input DNA, 6.25  pmol each of forward and reverse  primers  and  KAPA  Hi-Fi PCR master mix (Kapa Biosystems, Boston, MA,  USA). The PCR conditions  were:  an initial  denaturation  at  95 deg  C for 5 min, followed by 20 cycles of 95 degC, 65 degC, and      72 degC for 1 min each, and a final extension at 72 degC for         5 min.  The  amplification  products  were  purified  using  2%  agarose   (in   tris-borate-ethylenediaminetetraacetic acid) gel electrophoresis, followed by recovery of ampli- cons of desired length (GenElute Gel extraction kit;
+
+
+
+
+
+Table 1 Custom primers used for generation of Illumina DNA libraries
+Primer name	Primer nucleotide sequence
+V3F	5'-aatgatacggcgaccaccgagatctacactctttccctacacgacgctcttccgatctNNNNCCTACGGGAGGCAGCAG-3'
+V3R	5'-caagcagaagacggcatacgagatXXXXXgtgactggagttcagacgtgtgctcttccgatctATTACCGCGGCTGCTGG-3'
+Lower case letters represent adapter sequences necessary for binding to Illumina flow cell, underlined lowercase letters represent binding site for Illumina sequencing primers, and upper case letters represent V3 region primers (341F on the forward and 518R on the reverse primer). NNNN represents degenerate bases for adding sequence diversity necessary for proper cluster identification by the sequencer, and XXXXXX represents the 6-nucleotide index region
+for multiplexing
+
+
+Sigma-Aldrich). Purified libraries were checked for size distribution, quantitated (Agilent Bioanalyser DNA1000) and normalized to 10 nM. The normalized libraries were pooled in sets of 8-12 specimens each and sequenced in one lane of an Illumina HiScan SQ sequencing flow cell using standard 2 X 101-cycle paired-end multiplex se- quencing format. Library pool was spiked with 30% Illu- mina PhiX control library to enhance sequence diversity for efficient base calling. Data were then demultiplexed using Illumina CASAVA software.
+
+Processing of sequence data
+The raw reads in opposite directions were merged using PANDAseq   software      and   primer   sequences  were
+trimmed out. Sequences shorter than 100 nucleotides, with
+
+the fewest reads. For each specimen, alpha diversity was es- timated using Chao1 and Abundance-based Coverage Esti- mator indices, which measure the species richness,  and using Shannon and Simpson indices, which measure the richness and distribution of taxa [ These indices were compared between groups using the compare_alpha_diver- sity.py script of QIIME 1.8, with Bonferroni correction.
+
+Beta diversity analysis
+The filtered data were assembled into a table where each row represented an OTU and each column represented a faecal specimen. The cells contained observation counts for a particular OTU in a particular specimen, normalized using a log-frequency transformation, as follows:
+
+any ambiguous nucleotide, or with an overlap of fewer than
+
+Normalized value 1/4 Log
+
+(OC X PX th 1 
+
+20 nucleotides in paired reads were purged. The merged reads were subjected to quality control using NGSQC Toolkit [ to exclude those with average Phred quality score below 30. The selected high-quality reads were proc- essed using Quantitative Insights into Microbial Ecology (QIIME V1.8) software package [4]. Any chimeric se- quences, identified using Usearch61, were purged. The remaining reads were assigned to operational taxonomic units (OTUs) using UCLUST-based sub-sampled open- reference OTU picking protocol [A representative se- quence for each OTU was aligned with  the  Greengenes core set alignment using the PyNAST tool  any se- quences that failed to align were purged. Based on align- ment of the representative OTU sequences, a phylogenetic tree was constructed using the FastTree tool  Tax- onomy was assigned to each OTU using the QIIME's UCLUST Consensus Taxonomy Assigner against the Greengenes v13.8 reference OTUs, using the software's de- fault parameters. Thereafter, to reduce noise, OTUs  that were observed in fewer than 10% of stool specimens (n = 5) or accounted for fewer than 0.002% of reads in all the speci- mens taken together were purged out. Sample-wise obser- vation count of each OTU was tabulated  as an OTU table in 'biom' format. The filtered OTU table was then used for determination of bacterial composition of each sample.
+
+Alpha diversity analysis
+OTU table was rarefied, using PhyloSeq to equalize the sampling depth of all the specimens to the one with
+
+10    n	N
+
+Where 'OC' represents the actual observed count of a particular OTU in a specimen, 'n' is the sum of observed counts for all OTUs in the  particular  specimen,  Sx  is the sum of 'n' across all specimens in the table and N is the total number of specimens in the table.
+Beta diversity was assessed using principal co-ordinate analysis (PCoA) on weighted UniFrac distance matrices generated from the normalized OTU tables.
+
+Comparison of gut microbiota composition between groups
+Abundances of various bacterial taxa at different taxo- nomic levels in patients and controls were compared  using Mann-Whitney U test, and those before and after lactulose were compared using paired t test. In either  case, Benjamini-Hochberg false discovery rate correction was used to account for multiple comparisons, using p <
+0.05 as the cut-off.
+
+Cirrhosis-dysbiosis ratio
+This ratio, a previously-described quantitative index of microbiota alterations accompanying cirrhosis progres- sion, was computed as the natural log (ln) of the ratio of aggregated abundance of autochthonous (Lachnospira- ceae, Ruminococcaceae and Veillonellaceae) and non- autochthonous (Enterobacteriaceae and Bacteroidaceae) taxa []. Data from patients and controls were compared
+
+
+
+
+
+
+using Mann-Whitney U test, and those before and after lactulose using Wilcoxon's signed-rank test.
+
+PICRUSt analysis
+Putative metabolic functions of the microbial communi- ties in each specimen were predicted using PICRUSt (Phylogenetic Investigation of Communities by Recon- struction of Unobserved States) []. This tool compares the identified 16S rRNA gene sequences with the anno- tated genome sequences of known species, thereby esti- mating the possible gene content of a particular microbial community. In brief, OTUs were picked using the closed- reference OTU picking approach at >=97% identity against the Greengenes database (version 13.5) using QIIME 1.8. The OTU table was then normalized for 16S rRNA gene copy numbers and the corresponding metagenomes were predicted. In addition, the proportions of bacteria that would be expected to contain the glutamine gene, and alpha, beta and gamma subunits of the urease gene were also estimated. Putative metabolic functions of the micro- bial communities in each specimen were compared be- tween patients and controls using Mann-Whitney U test, and those before and after lactulose were compared using Wilcoxon's signed-rank test.
+
+Statistical analysis
+Clinical and laboratory variables were compared be- tween groups using chi-squared test for categorical data, and unpaired t-test or Mann-Whitney U test for numer- ical data. P values <0.05 were considered significant.
+
+Results
+Baseline stool specimens were collected from 35 patients with cirrhosis  (median  [range]  age: 42 [29-65] years; 26
+male; body mass index: 22.8 [17.3-32.3] Kg/m2) and 18
+controls (44.5 [24-67] y; male 14; 23.3 [20.0-25.0] Kg/ m2); the clinical and laboratory findings for patients are summarized in Table  Thirty of them received regular lactulose administration as a part of standard of care, and 21 of these 30 patients provided repeat stool specimens after lactulose administration for a median of 55 (42-77) days. The baseline characteristics of these 21 patients were similar to those of 14 patients for whom repeat specimens were not available, because they did not receive lactulose, were lost to follow-up, received a proton-pump inhibitor or an antibiotic during the intervening period, or had a clinical worsening or required hospitalization (Add- itional file Table S1).
+The 74 stool specimens studied (18 controls; 35 pre- lactulose and 21 post-lactulose) yielded a total of 40,023,099 high-quality reads (median [range] = 474,267 [131,802-1,267,206]), their rarefaction curves are shown in Additional file Fig. S1.
+
+
+Table 2 Laboratory parameters and disease severity indices in patients with cirrhosis (n = 35)
+
+Hepatitis C	9
+Hepatitis B	7
+
+Data are shown as median (range) or as number (%)
+
+
+Gut microbiota in healthy controls versus patients with cirrhosis
+The patients and controls were comparable in age, gen- der distribution, and BMI. All the participants consumed predominantly vegetarian diet.
+In PCoA, faecal specimens from patients showed a wider spread than those from control subjects, indicat- ing a more marked intra-group diversity of microbiota among patients. Further, the specimens from controls showed differential clustering than those from patients with cirrhosis (Fig.  The patient specimens also showed lower alpha diversity and species richness than those from controls (Fig. Additional file Table S2). Median [range] number of high-quality reads for 18 controls and 35 baseline cirrhosis specimens were 407,482 (316,749-1,139,360; total reads 9,388,696) and 504,182
+(131,802-1,267,206; total 19,466,867), respectively. These
+
+
+
+
+
+
+reads belonged to 16,357 non-singleton OTUs. Of  these, 855 OTUs belonging to 11  phyla were  identi-  fied   in   at   least   five   specimens   each   and   formed
+>0.002% of the total reads, and were analyzed further. Abundances of the dominant phyla, namely Bacteroi- detes (71.91% [0.11-90.01] vs 66.82% [30.35-88.99]),
+Firmicutes    (21.95%    [6.95-74.56]    vs.    18.65%  [3.95-
+43.47])  and  Proteobacteria  (4.37%  [0.61-50.64]  vs. 8.20% [1.34-48.35]) were comparable in patients and controls. However,  five  phyla,  namely  Tenericutes  [0%  vs 0.07%], Cyanobacteria [0% vs 0.53%], Spirochaetes
+[0.00065% vs 0.0014%], Elusimicrobia [0% vs 0.0013%] and  Lentisphaerae  [0%  vs  0.007%]  were  less abundant
+
+
+in patients than in controls (Benjamini-Hochberg cor- rected p-values <0.05 for each) (Fig. ,   Add-  itional File : Table S3). Similarly, some specific classes, orders, families and genera had significantly different abundances in patients and controls (Fig.  Additional file  Figure S2a, S2b and S2c; Additional file  Table S3).
+Cirrhosis-dysbiosis ratio was significantly lower in pa- tients with cirrhosis than in controls (1.55 +- 1.86 versus
+2.71 +- 1.48; p = 0.019, Mann-Whitney U test). The abun- dances of bacteria that are predicted to contain the glu- taminase gene or genes for alpha, beta or  gamma subunits of urease were more widely distributed and
+
+
+
+
+
+
+somewhat higher in patients than in  controls  (Fig.   but the inter-group comparisons did not show a signifi- cant difference (Fig. 
+
+Gut microbiota in patients with liver cirrhosis before and after lactulose use
+Paired stool specimens, before and after lactulose, were available for 21 patients (median age: 45 [29-64] years;
+male 13; Child-Pugh class A: 7, B: 13, C: 1).  Median [range] number of high-quality reads in their specimens before and after lactulose were similar (465,630 [131,802- 1,231,311]    versus    446,762    [159,321-1,022,517]).    On
+PCoA, the distributions of data points for specimens col- lected before or after lactulose overlapped. Data points for specimens collected before and after lactulose for individ- ual subjects were located close to each other (Fig. ); the weighted UniFrac distances between paired specimens were smaller than those between individual pre-lactulose specimens (Fig. ). None of the indices of alpha diversity showed a significant change following lactulose (Fig. ).
+High-quality reads from the 42 paired specimens belonged to 15,209 non-singleton OTUs; of these, 741 OTUs which were identified in at least 10% specimens (four specimens) each and formed >0.002% of the total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4 Alpha and beta diversity of gut microbiota in patients with cirrhosis, before and after lactulose. Legend: a: Principal co-ordinate analysis of weighted UniFrac distances between faecal specimens collected from patients with cirrhosis before (red) and after (blue) lactulose administration. b: Comparison of weighted UniFrac distances between individual pre-lactulose specimens from different patients (left, in blue) and between paired (pre- and post-lactulose) specimens from each patient (right, in red); the latter distances were significantly less (p < 0.001) than the former. c: Comparison of measures of alpha diversity between specimens from patients with cirrhosis collected before (red) and after (blue) lactulose administration. The p values shown were obtained using Mann-Whitney U test with Bonferroni correction
+
+
+reads were analysed further. The abundances of four major phyla were similar in the specimens collected be- fore and after lactulose, namely Bacteroidetes (75.55% [2.86-84.49]   versus   61.79%   [3.16-90.99]), Firmicutes
+(20.27%  [6.93-74.93]  versus  21.72%  [4.62-86.93]),   Pro-
+teobacteria    (4.37%    [1.08-20.37]    versus    6.82% [1.27-
+25.45]) and Actinobacteria (0.33% [0.02-6.74] versus 0.87% [0.03-11.92]). Further, no difference was found in abundances of various phyla, classes, orders, families or
+
+genera between the specimens collected before and after lactulose (Fig.  b; Additional file  Figure S3a,  S3b and S3c).
+Cirrhosis-dysbiosis ratios of faecal specimens before and after lactulose were similar (1.75 +- 1.98 and 2.01 +- 1.70, respectively; p = 0.337). The abundances of bacteria predicted to contain genes for glutaminase, or genes for alpha, beta or gamma subunits of urease gene also  did not change after lactulose (Fig. ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5 Abundances of various bacterial groups in gut microbiota before and after lactulose administration. Legend: Abundances of various bacterial groups among gut microbiota from in patients with liver cirrhosis before (red) and after lactulose (blue) at phylum (a) and family (b) levels. Data are shown using box-plots (25th to 75th percentiles) and percent values on a log10 scale. Any dots to the left or right of the boxes indicate outliers. No bacterial groups showed a significant difference (p value cut-off = 0.05; paired t test with Benjamini-Hochberg correction)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discussion
+Using a culture-independent, next-generation sequen- cing technique, we found that composition of intestinal microbiota in patients with cirrhosis was significantly different from that in healthy persons, as evidenced by differential clustering of patients and healthy persons on PCoA. The patients with cirrhosis had relatively lower abundances of bacteria belonging to phyla Tenericutes, Cyanobacteria, Spirochaetes, Elusimicrobia and Lenti- sphaerae, and to some specific families and genera. In addition, their gut microbiota had less bacterial diversity and species richness. Further, gut microbiota in patients with cirrhosis before and after administration of lactu- lose for 6 weeks, showed no  difference  in composition or diversity.
+Healthy human intestine, contains several bacterial species, with a fair degree of inter-individual diversity  For instance, in a study of 124 European individ- uals, though their faecal specimens taken together har- boured between 1000 and 1150 bacterial species, each individual specimen was found to contain  only  about  160 bacterial species. Several species were shared across individuals, with nearly 75 being common to more than
+
+
+half the subjects; however, the other species were highly variable between individuals. In most people, nearly 90% of the gut bacteria belong to two phyla - Bacteroidetes and Firmicutes, whereas the remaining belong mostly to phyla Proteobacteria, Actinobacteria, Verrucomicrobia and Fusobacteria The mixture of bacteria and other organisms (such as archaea and fungi) present in an in- dividual's gut - collectively referred to as the 'gut micro- biota' - behaves as a metabolic organ and plays an intimate role in regulation and maintenance of normal physiology, metabolism and immune functions. In recent years, changes in gut microbiota - the so-called gut 'dys- biosis' - has been implicated in the pathogenesis of sev- eral diseases, such as hepatic and gastrointestinal diseases  obesity [], diabetes mellitus [ and
+hypertension 
+We found a difference in the profile of gut microbiota in patients with cirrhosis and healthy persons, as shown by differential clustering on PCoA. Further, the patients with cirrhosis had less diverse gut microbiota than healthy persons. Previous studies, based on sequencing  of V2 region of 16S rRNA gene  and quantitative metagenomics [have also shown a trend towards re- duction of bacterial diversity and of bacterial gene rich- ness, respectively, in patients with cirrhosis from other geographic regions. Reduced microbial diversity has also been reported in patients with many diseases, including Crohn's disease  obesity, insulin resistance and dys- lipidemia  The mechanism underlying this reduced diversity of gut bacteria in human disease remains un- known. It is possible that this reduced bacterial diversity is associated with the absence of some specific bacteria, producing a metabolic imbalance due to the unopposed action of the other bacteria.
+Despite a difference in the overall composition of gut microbiota in patients with cirrhosis compared to healthy persons, the most abundant phyla in the two group were similar, i.e. Bacteroidetes, Firmicutes and Proteobacteria. Results of the previous studies on this subject have been conflicting. In two of the three previ- ous studies from China, with 98 and 36 patients, re- spectively, the abundance of Bacteroidetes was reduced, and those of Proteobacteria and Fusobacteria were in- creased in cirrhosis   whereas the  third  study  with 26 patients showed no difference in phylum-level abundances ]. At lower taxonomic levels, we found that abundances of several bacterial families and genera differed in cirrhosis patients from those in healthy per- sons, as has been reported previously However, the bacterial taxa showing such difference in our study were different from those reported in the previous Chinese studies. These differences between studies could be re- lated to differences in several factors, e.g. (i) prevalent microbiota in healthy Chinese and Indian population;
+
+
+
+
+
+
+(ii) cause of liver disease, with hepatitis B being com- moner in China; (iii) dietary habits in the two countries;
+severity of liver disease; and, (v) techniques for spe- cimen processing and data analysis between studies.
+In particular, we found that abundances of the bacterial groups which are involved in nitrogen metabolism and possess the capability to produce ammonia did not show any difference between the patients and controls. Such a comparison has not been reported previously. This finding suggests that even though the gut microbiota in patients with cirrhosis differs from that in healthy persons, this al- teration may not impact the production of nitrogenous substances, which may play a role in causation of HE.
+Lactulose is extensively used for the treatment of HE  in several parts of the world. On reaching the colon, lac- tulose is broken down by colonic bacteria (primarily bifi- dobacteria, lactobacilli and streptococci) into lactic acid, acetic acid and other short-chain fatty acids. Several mechanisms have been proposed for the beneficial ef- fects of lactulose in HE, including (i) its laxative action which reduces the contact time between luminal con-  tents and the intestinal mucosa, reducing the absorption of ammonia; (ii) creation of an acidic environment in the colonic lumen, which traps ammonia by enhancing its conversion into polar and less-absorbable ammonium ions; and, (iii) change in the composition of colonic microbiota, with reduced density of bacteria that pro-  duce ammonia and an increased density of those that utilize ammonia for their metabolism 
+Data on the effect of lactulose on gut microbiota are quite scanty and conflicting , In previous stud- ies, lactulose was shown to facilitate the growth of acido- philic, urease-deficient bacteria, such as lactobacilli and bifidobacteria, in the colon   Another study re- ported an increase in the number of anaerobic lactoba- cilli and a decrease in that of Bacteroides spp. after lactulose []. However, in yet another study, no associ- ation was found between clinical improvement following lactulose and reduction in the number of ammonia- producing bacteria  However, all these studies were based on stool culture, a technique with several inherent limitations, such as the failure of a large majority of co- lonic bacteria to grow in vitro, and an inability to reli- ably distinguish between various bacterial groups or to provide a quantitative measure of the relative abundance of various species in a bacterial mixture.
+High-throughput 16S rRNA sequencing has a major advantage in that it not only permits accurate species- level identification of various bacterial species present in a complex mixture, but also estimates their relative abundances. This technique has not  previously  been used to assess the effect of lactulose on intestinal micro- biota. Our study, using this technique, failed  to  show  any change in gut microbiota after lactulose
+
+
+administration. This lack of effect was found on analysis at different levels of phylogenetic organization, i.e. from phylum to species level. Further, we  also did not  find any change in the alpha diversity  of the gut microbiota, or of the abundance of bacteria that can produce ammo- nia. This indicates that the beneficial effect of lactulose on HE may not be related to a change in the compos- ition of gut microbiota, and may instead be mediated by another mechanism. Our findings support a recent report in which Bajaj et al. [] found no major change, except for a reduction in the abundance in Faecalibacterium spp. (from 6% to 1%), in gut microbiota 14 days after lactulose withdrawal in seven patients with cirrhosis. In our study, bacteria belonging to this genus had an abundance of
+~0.1% in both pre- and post-lactulose specimens, with no change after lactulose. Furthermore, we observed a closer similarity of paired (before and after lactulose) specimens from each individual with each other than with specimens from other patients collected at a similar time point; this too supports the conclusion that lactulose did not have a major effect on gut microbiota.
+In a recent randomized controlled study, Rahimi et al. compared the effect of lactulose on HE with that of polyethylene glycol, which has a laxative effect but is not expected to alter the gut microbiota.  They  found  the two treatments to be equally effective. This is in conson- ance with our finding that the effect of lactulose is not mediated by a modulation of gut microbiota and may be related simply to its laxative action 
+Our data have some limitations.  First,  we  used  fae- cal specimens to study the gut microbiota. Bacterial composition of faeces may differ somewhat from lu- minal contents of the colon, particularly in  the  prox-  imal colon, where most of the ammonia or other toxic substances may be produced  However, sampling the colonic luminal contents, e.g., using an endoscope, requires prior cleansing of the gut, which would disrupt the luminal microbiota  per  se.  Second,  the diet of patients with  cirrhosis may differ  from  that in healthy  persons;  this  may  by itself influence  the gut microbiota  Also, alcohol consumption is known to alter  gut  microbiota  [  To  obviate  this, we excluded persons with recent  alcohol  intake  from our study. Third, our study included patients with liver disease of varied causes and severity; this vari- ability may have limited its ability  to  detect  differ- ences between patients with liver cirrhosis and  controls. To obviate this problem, it  may  be useful  in  the future studies to include a more homogeneous patient group. And, finally, it may be argued that the number of patients in whom we studied the effect of lactulose on gut microbiota was small. However, this component of our study had a paired design, in  which each patient serves as his own control, with a
+
+
+
+
+
+
+higher sensitivity for detecting even  minor changes. Also, on a positive  note,  we ensured  that  the  dose  and duration of lactulose  administration  were  adequate.
+It would have been interesting to compare  the  gut flora in patients developing HE despite lactulose treat- ment versus those who did not develop this complica- tion. However, this was not possible since we did not encounter HE in any of our patients receiving lactulose.
+Finally, our data do not rule out the possibility that lactulose may affect the balance of production and utilization of ammonia without changing the species composition of gut microbiota. For instance, lactulose or one of its breakdown products could alter the expression or activity of enzymes in one or more bacterial species without affecting their density or number. The  16S rRNA gene sequencing technique which we used is not able to pick up such changes. This aspect may be stud- ied further in future studies using either shot-gun se- quencing of gut bacterial transcriptome or using a metabolomic analysis of fecal water or urine.
+
+Conclusion
+In conclusion, our data indicate that intestinal bacterial microbiota in patients with cirrhosis is different from that in healthy persons; however, whether these changes are primary or are a consequence of liver disease re- mains unclear. Lactulose administration does not lead to any change in the nature and relative abundance of vari- ous bacteria resident in human colon. This suggests that the effect of this drug on HE is possibly mediated by mechanisms other than a change in the composition of gut microbiota.
+
+Additional files
+
+
+
+
+
+
+
+
+
+
+
+Abbreviations
+CPT: Child-Turcotte-Pugh; HE: Hepatic encephalopathy; PCoA: Principal co-ordinate analysis
+
+Acknowledgements
+The Biomedical Informatics Center at the authors' institution is supported by the Indian Council of Medical Research (ICMR), New Delhi.
+
+Funding
+This work was supported by a grant from the Department of Biotechnology, Government of India. Award number: BT/PR4642/Med/29/630/20127.
+
+Availability of data and materials
+The datasets used and/or analysed during the current study are available from the corresponding author on reasonable request.
+
+Authors' contributions
+Study concept and design RA, AG: Acquisition of data: RA, AG, AS2, AS3 Analysis and interpretation of data: RA, AS1, AG,AS2,AS3 Drafting of the manuscript RA, AG, AS1 Critical revision of the manuscript for important intellectual content: RA, AG,AS2,AS3 Statistical analysis: RA, AS1, AG Study supervision: RA, AG Approval of the final manuscript: RA,AG,AS1,AS2,AS3.
+
+Competing interest
+The authors declare that they have no competing interests.
+
+Ethics approval and consent to participate
+The study was approved by Ethics Committee of the Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow. Each participant provided written informed consent.
+
+Consent for publication
+Not Applicable.
+
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Received: 27 June 2017 Accepted: 16 November 2017
+
+
+References
+Sekirov I, Russell SL, Antunes LC, Finlay BB. Gut microbiota in health and disease. Physiol Rev. 2010;90:859-904.
+Gao B, JeongWI TZ. Liver: an organ with predominant innate immunity. Hepatology. 2008;47:729-36.
+Goel A, Gupta M, Aggarwal R. Gut microbiota and liver disease. J Gastroenterol Hepatol. 2014;29:1139-48.
+Bass NM, Mullen KD, Sanyal A, Poordad F, Neff G, Leevy CB, et al. Rifaximin treatment in hepatic encephalopathy. N Engl J Med. 2010;362:1071-81.
+Saab S, Suraweera D, Au J, Saab E, Alper T, Tong MJ. Probiotics are helpful in hepatic encephalopathy: a meta-analysis of randomized trials. Liver Int. 2016;36:986-93.
+Chen C, Li L, Wu Z, Chen H, Fu S. Effects of lactitol on intestinal microflora and plasma endotoxin in patients with chronic viral hepatitis. J Inf Secur. 2007;54:98-102.
+Mortensen PB. The effect of oral-administered lactulose on colonic nitrogen metabolism and excretion. Hepatology. 1992;16:1350-6.
+Riggio O, Varriale M, Testore GP, Di Rosa R, Di Rosa E, Merli M, et al. Effect of lactitol and lactulose administration on the fecal flora in cirrhotic patients. J Clin Gastroenterol. 1990;12:433-6.
+
+
+
+
+
+
+Vince A, Zeegen R, Drinkwater JE, O'Grady F, Dawson AM. The effect of lactulose on the faecal flora of patients with hepatic encephalopathy. J Med Microbiol. 1974;7:163-8.
+Fraher MH, O'Toole PW, Quigley EM. Techniques used to characterize the gut microbiota: a guide for the clinician. Nat Rev Gastroenterol Hepatol. 2012;9:312-22.
+Bartram AK, Lynch MD, Stearns JC, Moreno-Hagelsieb G, Neufeld JD.
+Generation of multimillion-sequence 16S rRNA gene libraries from complex microbial communities by assembling paired-end illumina reads. Appl Environ Microbiol. 2011;77:3846-52.
+Masella AP, BartramAK TJM, Brown DG. Neufeld JD PANDAseq: paired-end assembler for illumina sequences. BMC Bioinformatics. 2012;13:31.
+Dai M, Thompson RC, Maher C, Contreras-Galindo R, Kaplan MH, Markovitz DM, et al. NGSQC: cross-platform quality analysis pipeline for deep sequencing data. BMC Genomics. 2010;11(Suppl 4):S7.
+Navas-Molina JA, Peralta-Sanchez JM, Gonzalez A, McMurdie PJ,
+Vazquez-Baeza Y, Xu Z, et al. Advancing our understanding of the
+human microbiome using QIIME. Methods Enzymol. 2013;531:371-444.
+Rideout JR, He Y, Navas-Molina JA, Walters WA, Ursell LK, Gibbons SM, et al. Subsampled open-reference clustering creates consistent,
+comprehensive OTU definitions and scales to billions of sequences. PeerJ. 2014;2:e545.
+Caporaso JG, Bittinger K, Bushman FD, DeSantis TZ, Andersen GL, Knight R. PyNAST: a flexible tool for aligning sequences to a template alignment. Bioinformatics. 2010;26:266-7.
+Price MN, Dehal PS, Arkin AP. FastTree 2-approximately maximum- likelihood trees for large alignments. PLoS One. 2010;5:e9490.
+McMurdie PJ, Holmes S. Phyloseq: an R package for reproducible interactive analysis and graphics of microbiome census data. PLoS One. 2013;8:e61217.
+Gotelli NJ, Anne C. Measuring and estimating species richness, species diversity, and biotic similarity from sampling data. In: Levin SA, editor. Encyclopedia of biodiversity. 2nd ed. Waltham, MA: Academic Press; 2013. p. 195-211.
+Bajaj JS, Heuman DM, Hylemon PB, Sanyal AJ, White MB, Monteith P, et al. Altered profile of human gut microbiome is associated with cirrhosis and its complications. J Hepatol. 2014;60:940-7.
+Ley RE, Peterson DA, Gordon JI. Ecological and evolutionary forces shaping microbial diversity in the human intestine. Cell. 2006;124:837-48.
+Qin J, Li R, Raes J, Arumugam M, Burgdorf KS, Manichanh C, et al. A human gut microbial gene catalogue established by metagenomic sequencing. Nature. 2010;464:59-65.
+Turnbaugh PJ, Hamady M, Yatsunenko T, Cantarel BL, Duncan A, Ley RE, et al. A core gut microbiome in obese and lean twins. Nature. 2009;457:480-4.
+Qin J, Li Y, Cai Z, Li S, Zhu J, Zhang F, et al. A metagenome-wide association study of gut microbiota in type 2 diabetes. Nature. 2012;490:55-60.
+Yang T, Santisteban MM, Rodriguez V, Li E, Ahmari N, Carvajal JM, et al. Gut dysbiosis is linked to hypertension. Hypertension. 2015;65:1331-40.
+Zhang Z, Zhai H, Geng J, Yu R, Ren H, Fan H, et al. Large-scale survey of gut microbiota associated with MHE via 16S rRNA-based
+pyrosequencing. Am J Gastroenterol. 2013;108:1601-11.
+Qin N, Yang F, Li A, Prifti E, Chen Y, Shao L, et al. Alterations of the human gut microbiome in liver cirrhosis. Nature. 2014;513:59-64.
+Manichanh C, Rigottier-Gois L, Bonnaud E, Gloux K, Pelletier E, Frangeul L, et al. Reduced diversity of faecal microbiota in Crohn's disease revealed by a metagenomic approach. Gut. 2006;55:205-11.
+Le Chatelier E, Nielsen T, Qin J, Prifti E, Hildebrand F, Falony G, et al. Richness of human gut microbiome correlates with metabolic markers. Nature. 2013;500:541-6.
+Chen Y, Yang F, Lu H, Wang B, Chen Y, Lei D, et al. Characterization of fecal microbial communities in patients with liver cirrhosis. Hepatology. 2011;54:562-72.
+Bajaj JS. The role of microbiota in hepatic encephalopathy. Gut Microbes. 2014;5:397-403.
+Elkington SG. Lactulose. Gut. 1970;11:1043-8.
+Avery GS, Davies EF, Brogden RN. Lactulose: a review of its therapeutic and pharmacological properties with particular reference to ammonia metabolism and its mode of action of portal systemic encephalopathy. Drugs. 1972;4:7-48.
+Macgillivray PC, Finlay HV, Binns TB. Use of lactulose to create a preponderance of lactobacilli in the intestine of bottle-fed infants. Scott Med J. 1959;4:182-9.
+Elkington SG, Floch MH, Conn HO. Lactulose in the treatment of chronic portal-systemic encephalopathy. A double-blind clinical trial. N Engl J Med. 1969;281:408-12.
+
+
+Conn HO, Floch MH. Effects of lactulose and lactobacillus acidophilus on the fecal flora. Am J Clin Nutr. 1970;23:1588-94.
+Bircher J, Scollo-Lavizzari G, Hoffmann K, Haemmerli UP. Treatment of chronic porto-systemic encephalopathy with lactulose. Schweiz Med Wochenschr. 1969;99:584.
+Bajaj JS, Ridlon JM, Hylemon PB, Thacker LR, Heuman DM, Smith S, et al. Linkage of gut microbiome with cognition in hepatic encephalopathy. Am J Physiol Gastrointest Liver Physiol. 2012;302:G168-75.
+Rahimi RS, Singal AG, Cuthbert JA, Rockey DC. Lactulose vs polyethylene glycol 3350-electrolyte solution for treatment of overt hepatic encephalopathy: the HELP randomized clinical trial. JAMA Intern Med. 2014;174:1727-33.
+Bajaj JS, Hylemon PB, Ridlon JM, Heuman DM, Daita K, White MB, et al. Colonic mucosal microbiome differs from stool microbiome in cirrhosis and hepatic encephalopathy and is linked to cognition and inflammation. Am J Physiol Gastrointest Liver Physiol. 2012;303:G675-85.
+Xu Z, Knight R. Dietary effects on human gut microbiome diversity. Br J Nutr. 2015;113(Suppl):S1-5.
+Mutlu EA, Gillevet PM, Rangwala H, Sikaroodi M, Naqvi A, Engen PA, et al. Colonic microbiome is altered in alcoholism. Am J Physiol Gastrointest Liver Physiol. 2012;302:G966-78.

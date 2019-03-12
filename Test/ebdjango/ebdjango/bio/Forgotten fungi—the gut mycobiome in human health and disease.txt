@@ -1,0 +1,1137 @@
+FEMS Microbiology Reviews, fuw047, 41, 2017, 479-511
+
+doi: 10.1093/femsre/fuw047
+Advance Access Publication Date: 18 April 2017 Review Article
+
+
+
+
+
+REVIEW ARTICLE 
+Forgotten fungi--the gut mycobiome in human health and disease
+Chloe E. Huseyin,,, Paul W. O'Toole,, Paul D. Cotter, and Pauline D. Scanlan,
+1Teagasc Food Research Centre, Moorepark, Fermoy, Cork P61 C996, Ireland, 2APC Microbiome Institute, Biosciences Institute, University College Cork, Cork T12 YT20 Ireland and 3School of Microbiology, University College Cork, Cork T12 YT20, Ireland
+*Corresponding author: APC Microbiome Institute, Biosciences Institute, University College Cork, Office 5.10, Fifth Floor, Biosciences Building, Ireland. Tel: +353 (21) 4901335; E-mail: 
+One sentence summary: Review of mycobiome in human health and disease.
+Editor: Gerhard Braus
+
+
+ABSTRACT
+The human body is home to a complex and diverse microbial ecosystem that plays a central role in host health. This includes a diversity of fungal species that is collectively referred to as our 'mycobiome'. Although research into the mycobiome is still in its infancy, its potential role in human disease is increasingly recognised. Here we review the existing literature available on the human mycobiota with an emphasis on the gut mycobiome, including how fungi interact with the human host and other microbes. In doing so, we provide a comprehensive critique of the methodologies available to research the human mycobiota as well as highlighting the latest research findings from mycological surveys of different groups of interest including infants, obese and inflammatory bowel disease cohorts. This in turn provides new insights and directions for future studies in this burgeoning research area.
+Keywords: gut microbiome; mycobiome; fungi; intestinal disease
+
+
+
+INTRODUCTION
+Complex microbial ecosystems such as the human gastroin- testinal (GI) tract harbour a diversity of microorganisms including bacteria, archaea, viruses and microbial eukarya (Rajilic'-Stojanovic', Smidt and de Vos ; Qin et al. ; Parfrey, Walters and Knight ; Clemente et al. ; Parfrey et al. ; Hamad, Raoult and Bittar ). However, the myriad of species that are potentially present are found at varying abundance lev- els and, thus, the presence of predominant  species'  may  re- sult in microorganisms that are less common being overlooked (Huber et al. ). This 'rare biosphere' (Sogin et al. ) that inhabits the human GI tract includes the fungal component or gut 'mycobiome' (Ghannoum et al. ).
+
+The human gut mycobiome is receiving increased research attention (Andersen, Nielsen and Stensvold  ;  Cui,  Mor- ris and Ghedin ; Kumamoto ) due to its potential in- volvement in the aetiology of numerous gut-associated dis- eases (Ott et al. ; Iliev and Underhill ; Sokol et al. ). This increasing interest is largely driven by recent findings that specific fungi can modulate the host immune response and con- sequently may be a risk factor in immunological disorders in ge- netically susceptible individuals (Iliev et al. ). There is also an ever greater appreciation that the mycobiome may act as a reser- voir for potentially opportunistic pathogens in immunocompro- mised hosts (Chen et al. ; Miceli, Diaz and Lee ; Polvi et al. ) and may play a role in many diseases that are not obviously related to, or influenced by, the gut (Chen et al. ;
+
+
+
+Received: 20 June 2016; Accepted: 4 January 2017
+QC  FEMS 2017. All rights reserved. For permissions, please e-mail: 
+
+
+
+
+479
+
+480	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Timeline of studies published on the gut mycobiome and colour coded as follows: major developments (grey), GI disease (blue), immunocompromised hosts (red), healthy populations (yellow), infants (purple), diet (green) and other (teal).
+
+
+Strati et al. ). Conversely, the potential health benefits or probiotic effects of some fungal species are known but have yet to be fully explored (Hatoum, Labrie and Fliss ).
+Historically, researchers have relied on in vitro culturing as the primary means of investigating fungi from the gut environ- ment (Finegold, Attebery and Sutter ). However, the vast majority of microbes in the gut, including fungi, are considered refractory to cultivation which has led to large discrepancies be- tween data obtained from culture-dependent and independent methods (Chen et al. ; Gouba, Raoult and Drancourt ; Browne et al. ). Although recent advances in molecular tech- niques that circumvent the necessity to culture microbes have been made, this research has largely focused on the non-fungal component of this ecosystem. Nonetheless, a number of impor- tant studies into the human mycobiome that use such methods are emerging. These include studies into the aetiology of vari- ous GI diseases (Ott et al. ; Iliev et al. ; Lewis et al. ; Hoarau et al. ; Mar et al. ) as well as the effect of fun- gal prevalence in immunocompromised hosts (Chen et al. ; Mukherjee et al. ). Mycobiome studies have also investigated the significance of subject age (Gewolb et al. ; Strati et al. ) including children (Heisel et al. ) and adults (Scan- lan and Marchesi ), gender (Strati et al. ), geographical locations (Nam et al. ; Hamad et al. ), underlying condi- tions such as diabetes and obesity (Gouba, Raoult and Drancourt ; Mar Rodri'guez et al. ; Kowalewska et al. ) and eat- ing disorders (EDs) such as anorexia nervosa (Gouba, Raoult and Drancourt ), together with fungal diversity associated with different body sites (Zhang et al. ; Nguyen, Viscogliosi and Delhaes ) (Fig. ).
+
+Here we review the existing literature on the human gut my- cobiome in order to provide a comprehensive insight into both the methodologies available to research the gut mycobiota and also to highlight the latest research findings. We also draw on re- search into what is known about the human mycobiota at other body sites, in addition to detailing how fungi interact with the human host and data from other gut microbiota studies to pro- vide both comparative insight and productive direction for fu- ture studies in this burgeoning research area.
+
+METHODOLOGIES TO STUDY THE HUMAN INTESTINAL MYCOBIOME
+Culture-dependent methods
+As outlined, scientists have traditionally relied on culture- dependent techniques when attempting fungal surveys of com- plex microbial ecosystems (Horton and Bruns ), includ-  ing the human GI tract (Finegold, Attebery and Sutter ; Hoog et al. ). These fungal investigations generally utilised traditional microbiological techniques such as microscopy (De Repentigny, Phaneuf and Mathieu ), biochemical assays (Khatib et al. ) and/or growth on selective media (Ouanes et al. ) as until relatively recently, alternatives to these meth- ods were not developed or were too expensive for use in many laboratories.
+Researchers using selective media for mycobiome research typically perform a serial dilution of faecal samples, followed by plating onto various media that have been supplemented with antibiotics (Scanlan and Marchesi ). These plates are
+
+Huseyin et al.	481
+
+Table 1. Culture media used to isolate fungi from the human GI tract.
+
+Name	Typical composition	Recommended for the culture of	Study
+
+
+Sabouraud dextrose media
+
+Mycological peptone and dextrose
+
+Yeasts, moulds and aciduric bacteria
+
+Finegold, Attebery and Sutter () Scanlan and  Marchesi  () Gouba, Raoult and Drancourt () Hamad et al. ()
+Chen et al. ()
+Gouba, Raoult and Drancourt () Esebelahie, Enweani and Omoregie () Baley et al. ()
+Waggoner-Fountain et al. () Jobst and Kraft ()
+Taylor, Kropp and Molina () Agirbasli, O" zcan and GedikogV lu () Kowalewska et al. ()
+
+Potato dextrose media
+
+Potato extract and dextrose	Bacteria, fungi, yeasts and moulds	Scanlan and Marchesi ()
+Gouba, Raoult and Drancourt () Chen et al. ()
+Gouba, Raoult and Drancourt () Gouba, Raoult and Drancourt ()
+
+Czapek-Dox media		Sucrose, sodium nitrate,	Fungi and yeasts	Gouba, Raoult and Drancourt () magnesium  sulphate,		Gouba, Raoult and Drancourt ()
+potassium chloride, potassium	Taylor, Kropp and Molina () phosphate dibasic and ferrous
+sulphate
+
+Malt extract media	Malt extract, peptone and
+dextrose
+
+Yeasts and moulds	Scanlan and Marchesi () Taylor, Kropp and Molina ()
+
+Dixon's media	Malt extract, peptone, ox bile,	Malassezia species	Gouba, Raoult and Drancourt () tween 40, glycerol and oleic acid		Gouba, Raoult and Drancourt ()
+(Leeming and Notman )	Gouba, Raoult and Drancourt ()
+
+Brain heart infusion media
+
+
+
+5% sheep blood media
+
+Brain heart infusion (Solids), enzymatic digest of casein, dextrose, disodium phosphate, sodium chloride and enzymatic digest of animal tissue
+Pancreatic digest of casein, papaic digest of soy meal, sodium chloride, sheep blood
+
+Fastidious microorganisms	Esebelahie, Enweani and Omoregie ()
+
+
+
+
+
+Fastidious microorganisms	Baley et al. ()
+
+CHROMagar Candida	Agar, chromogenic mix,	Candida spp.	Kowalewska et al. () chloramphenicol and peptone		Standaert-Vitse et al. ()
+
+YPD medium	Yeast extract, bacto peptone, D-glucose and agar
+
+Yeasts	Strati et al. ()
+
+
+
+then used to enumerate fungi and/or isolate colonies for fur- ther characterisation (Morris et al. ). There are a number of commercially available media types that are used in the study of the GI mycobiome, in addition to other media that can be pre- pared from first principles. The main media types and the fungal species they have been used to cultivate are described in Table . For example, commercially available media such as Sabouraud dextrose and potato dextrose are the most commonly used and have been used in the cultivation of a variety of different fun- gal species (see Table ). More complex fungal media, such as Czapek-dox and Dixon's media have also been utilised in an at- tempt to recover more fastidious fungal species from the hu- man gut (Gouba, Raoult and Drancourt ). Although it is commonly believed that Candida species are the predominant species in the GI tract, the use of these media has facilitated the recovery of a wealth of other fungal species. An overview of fungi that have been recovered from culture-based gut myco- biome studies is provided in Table .
+
+Conventional culture methods are, however, predisposed to a number of inherent issues and biases, many of which have been previously noted with respect to studies of the bacterial fraction of the gut community. First, culture-based studies are enormously time consuming and can require extremely long incubation times (Morris et al. ; Gouba, Raoult and Dran- court ). Furthermore, they are biased towards fast growing species and non-fastidious species that are able to utilise the nutrients contained in the culture media (Griffith et al. ). Such a bias is not an issue if the primary aim is to enumerate fast growing fungal species, such as Candida albicans which will present on plates within 48-72 h (Morris et al. ; Scanlan and Marchesi ), or where readily cultivatable clinical isolates of medical importance that require immediate attention are under investigation (Ouanes et al. ). However, a bias towards easy to culture species is detrimental if the aim of the study is to pro- vide a complete survey of fungal diversity (Gouba, Raoult and Drancourt ). Species of fungi that do not require complex
+
+482	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+Table 2. Fungal species in the gut reported in culture-dependent investigations.
+
+Species name	Source study
+
+Aspergillus niger	Taylor, Kropp and Molina () Aspergillus flavipes	Gouba, Raoult and Drancourt () Aspergillus flavus	Gouba, Raoult and Drancourt ()
+Gouba, Raoult and Drancourt ()
+Aspergillus glaucus	Strati et al. ()
+Aspergillus pseudoglaucus     Strati et al. ()
+Aspergillus ruber	Gouba, Raoult and Drancourt ()
+Gouba, Raoult and Drancourt () Aspergillus sydowi	Taylor, Kropp and Molina () Aspergillus versicolor	Gouba, Raoult and Drancourt ()
+Taylor, Kropp and Molina ()
+
+Table 2. (Continued).
+
+Species name	Source study
+
+Candida sphaerica	Agirbasli, O" zcan and GedikogV lu ()
+Candida sp.	Finegold, Attebery and Sutter () Gewolb et al. ()
+Candida tropicalis	Agirbasli, O" zcan and GedikogV lu ()
+Baley et al. () Chen et al. ()
+Esebelahie, Enweani and Omoregie () Gouba, Raoult and  Drancourt  () Strati et al. ()
+Candida utilis	Agirbasli, O" zcan and GedikogV lu ()
+Candida zeylanoides	Agirbasli, O" zcan and GedikogV lu ()
+Cladosporium sp.	Gouba, Raoult and Drancourt ()
+
+Beauveria bassiana	Gouba, Raoult and Drancourt ()
+Candida albicans	Baley et al. ()
+
+Cladosporium sphaerospermum
+
+Taylor, Kropp and Molina ()
+
+Chen et al. ()
+Esebelahie, Enweani and Omoregie () Finegold, Attebery and Sutter () Gouba, Raoult and Drancourt () Heisel et al. ()
+Jha et al. ()
+Jobst and Kraft () Kowalewska et al. () Scanlan and Marchesi () Standaert-Vitse et al. () Strati et al. ()
+Waggoner-Fountain et al. ()
+Candida deformans	Strati et al. ()
+Candida famata	Agirbasli, O" zcan and GedikogV lu ()
+Jobst and Kraft () Kowalewska et al. ()
+
+Clavispora lusitaniae	Gouba, Raoult and Drancourt () Climacocystis sp.	Gouba, Raoult and Drancourt () Corticiaceae sp.	Gouba, Raoult and Drancourt () Cryptococcus saitoi	Strati et al. ()
+Cryptococcus sp.	Agirbasli, O" zcan and GedikogV lu ()
+Cystofilobasidium	Gouba, Raoult and Drancourt ()
+capitatum	Gouba, Raoult and Drancourt ()
+Davidiella sp.	Gouba, Raoult and Drancourt () Davidiella tassiana	Gouba, Raoult and Drancourt () Debaryomyces hansenii Gouba, Raoult and Drancourt () Eurotium amstelodami	Strati et al. ()
+Eurotium rubrum	Strati et al. ()
+Galactomyces geotrichum	Gouba, Raoult and Drancourt ()
+Hamad et al. ()
+Geotrichum sp.	Agirbasli, O" zcan and GedikogV lu ()
+Kowalewska et al. ()
+
+Candida fermentati	Strati et al. ()
+Candida glabrata	Agirbasli, O" zcan and GedikogV lu ()
+
+Hypocrea lixii/Penicillium chrysogenum
+
+Gouba, Raoult and Drancourt ()
+
+Chen et al. ()
+Esebelahie, Enweani and Omoregie () Gouba, Raoult and Drancourt () Jobst and Kraft ()
+Standaert-Vitse et al. () Strati et al. ()
+Candida guilliermondii	Agirbasli, O" zcan and GedikogV lu ()
+Kowalewska et al. () Candida inconspicua	Jobst and Kraft () Candida intermedia	Strati et al. ()
+Candida kefyr	Agirbasli, O" zcan and GedikogV lu ()
+Jobst and Kraft ()
+Candida krusei	Agirbasli, O" zcan and GedikogV lu () Chen et al. ()
+Esebelahie, Enweani and Omoregie () Hamad et al. ()
+Kowalewska et al. ()
+Candida lusitaniae	Agirbasli, O" zcan and GedikogV lu ()
+Kowalewska et al. () Strati et al. ()
+Candida metapsilosis	Strati et al. ()
+Candida norvogensis	Agirbasli, O" zcan and GedikogV lu ()
+Candida parapsilosis	Baley et al. ()
+Esebelahie, Enweani and Omoregie () Heisel et al. ()
+
+Isaria farinosa	Gouba, Raoult and Drancourt ()
+Lichtheimia ramosa	Strati et al. ()
+Malassezia furfur	Gewolb et al. ()
+Malassezia globosa	Gouba, Raoult and Drancourt ()
+Gouba, Raoult and Drancourt () Gouba, Raoult and Drancourt ()
+Malassezia pachydermatis Gouba, Raoult and Drancourt ()
+Gouba, Raoult and Drancourt () Gouba, Raoult and Drancourt ()
+Malassezia restricta	Gouba, Raoult and Drancourt ()
+Gouba, Raoult and Drancourt () Gouba, Raoult and Drancourt ()
+Malassezia sp.	Gouba, Raoult and Drancourt ()
+Mould	Agirbasli, O" zcan and GedikogV lu ()
+Mucor circinelloides	Strati et al. ()
+Penicillium decumbens	Taylor, Kropp and Molina ()
+Penicillium allii	Gouba, Raoult and Drancourt ()
+Penicillium	Gouba, Raoult and Drancourt ()
+brevicompactum	Strati et al. ()
+Penicillium citrinum	Taylor, Kropp and Molina ()
+Penicillium crustosum	Strati et al. ()
+Penicillium dipodomyicola	Gouba, Raoult and Drancourt () Penicillium notatum	Taylor, Kropp and Molina () Penicillium paneum	Strati et al. ()
+Penicillium sp.	Gouba, Raoult and Drancourt ()
+
+Kowalewska et al. () Scanlan and Marchesi ()
+
+Penicillium sp./P. camemberti
+
+Gouba, Raoult and Drancourt ()
+
+Strati et al. ()
+Taylor, Kropp and Molina ()
+Candida pararugosa	Strati et al. ()
+Candida rugosa	Hamad et al. ()
+
+Penicillium steckii	Taylor, Kropp and Molina ()
+Pichia caribbica	Strati et al. ()
+Pichia fermentans	Strati et al. ()
+Pichia kluyveri	Strati et al. ()
+
+Huseyin et al.	483
+
+
+Table 2. (Continued).
+
+Species name	Source study
+
+Pichia manshurica	Strati et al. ()
+
+nutrients can also mask morphologically similar, rare species   on mixed primary plates and fast growing species can swamp plates, even when they are present in low levels.
+As alluded to earlier, another commonly cited issue is
+
+Pleurostomophora richardsiae Rhodosporidium kratochvilovae
+
+Strati et al. () Strati et al. ()
+
+the large discrepancies between data derived from culture- dependent and culture-independent investigations (Chen et al. ; Hamad et al. ; Gouba, Raoult and Drancourt ), see also Fig. . This problem is undoubtedly linked to inherent bi-
+
+Rhodotorula mucilaginosa	Strati et al. ()
+Rhodotorula rubra	Waggoner-Fountain et al. ()
+Rhodotorula sp.	Kowalewska et al. ()
+Saccharomyces cerevisiae	Agirbasli, O" zcan and GedikogV lu ()
+Chen et al. () Jobst and Kraft ()
+Standaert-Vitse et al. () Strati et al. ()
+Saccharomyces spp.	Kowalewska et al. ()
+Starmerella bacillaris	Strati et al. ()
+Torulaspora delbrueckii	Strati et al. ()
+Trichosporon asahii	Gouba, Raoult and Drancourt ()
+Hamad et al. () Strati et al. ()
+Trichosporon pullulans	Baley et al. ()
+Trichosporon sp.	Agirbasli, O" zcan and GedikogV lu ()
+Yarrowia lipolytica	Strati et al. ()
+
+ases associated with culture-dependent methods as outlined
+and also the choice and specificity of the molecular methods used (Scanlan and Marchesi ). Other potential issues with culture-dependent analysis relate to the impact of storage (Ott   et al. ) and the freezing of faecal samples prior to their anal- ysis. To the authors' knowledge, the effect of freezing on the abil- ity to detect fungi from human faecal samples has only been speculated upon (Scanlan and Marchesi ); however, a study conducted in cattle has previously shown that the freezing and storage of faecal samples at -20*C resulted in a 2-fold reduction in the total fungal count (Griffith et al. ). Although the fungal species present in bovine and human faecal samples are quite different e.g. a predominance of Neocallimastigomycota in the bovine gut (Liggenstoffer et al. ; Nicholson et al. ) and Ascomycota and Basidiomycota in the human gut (Fig. ), it is still reasonable to assume that such an effect on cultivable fun-
+
+ 		gal species in human samples is likely.
+Despite these difficulties and biases, the utility and impor- tance of culturing fungi cannot be ignored and researchers have coupled this with other methods including mass spectrome- try (MS) and DNA-based analysis of pure cultures in an at- tempt to both better identify fungi isolated from the human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Commonalities and differences between fungal data (at the species level) reported in gut mycobiome studies using culture-dependent and culture- independent methodologies. This Venn diagram highlights fungal species detected by culture-independent only, culture-dependent only and species that have been detected by both methods (intersection).
+
+484	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. Predominance of Ascomycota and Basidiomycota phyla in the human gut mycobiome. This graph illustrates the relative abundance and phylum level taxonomic affiliation of fungal genera reported in culture-independent studies of the gut mycobiome (see also Table S1). (A) Details the relative abundance of all fungal genera reported (at the phylum level) and (B) details the relative abundance of fungal genera (at the phylum level) reported following the removal of genera reported in one study only (i.e. removal of singletons).
+
+
+GI and to impart a degree of high-throughput analysis (Gouba, Raoult and Drancourt ). Methods include the use of matrix- assisted laser desorption ionisation time-of-flight mass spec- trometry (MALDI-TOF MS) analysis of cultured fungi in combi- nation with internally transcribed spacer (ITS) sequence analy- sis (Sauer and Kliem ; Hamad et al. ; Lagier et al. ) which have been used to varying degrees of success. For exam- ple, in one particular study, MALDI-TOF MS failed to identify a number of cultivated fungal species (Hamad et al. ) which would question its overall utility when compared to the accu- racy of sequence-based identification.
+Recent advances in culturomics of fungi have also included the development of differential chromogenic media that allow high-throughput and semi-diagnostic culturing, which is of par- ticular importance in clinical settings. For example, fungal in- fections or mycoses such as candidiasis and aspergillosis can be difficult to diagnose due to non-specific clinical presentations and a biological diagnosis may take several days. Consequently, Ouanes et al. () sought to investigate the diagnostic abil- ity  of  CHROMagarQR   Candida  versus  Sabouraud  media  as  a  pri- mary culture media. They also assessed the ability of CHROMa- gar Candida to differentiate between the various clinically rele- vant species of fungi in a hospital setting. Of the samples tested, 41.6% were positive for fungi, with 50.5% of isolates identified as C. albicans followed by 25.1% identified as C. glabrata. Fungal species determination was confirmed by chlamydosporulation testing and carbohydrate assimilation tests. The specificity of CHROMagar Candida agar was found to positively identify C. albi- cans, C. tropicalis, C. glabrata and C. krusei with the following accu- racy 95.3, 96.5, 100 and 88.6%, respectively. However, this method
+
+was found to have some limitations; the sensitivity of the CHRO- Magar Candida was 88.4% for C. albicans and only 66% for C. tropicalis. Furthermore, the media supported the growth of cer- tain bacterial species, including Providencia stuartii and Klebsiella pneumonia. CHROMagarQR   was also used to assess the presence of different Candida spp. present in infant faecal samples (Heisel et al. ). Of the 11 faecal samples tested, only two yielded fun- gal growth and these fungi were identified as C. albicans and C. parapsilosis. However, it is not clear if the low abundance of fun- gal species isolated by culture in this case was due to the choice of media or a genuine reflection of low fungal diversity in the samples tested. On this note, another important aspect of cul- tivation is to provide quantitative estimates of different fungal species present. Surprisingly, this data is not given in many pa- pers; however, mean fungal counts in healthy individuals have been shown to range from 102-106 CFU g-1 (Scanlan and March- esi ).
+Finally, the capacity to culture and isolate fungi from the
+human gut is also crucial to advancing our knowledge of the wealth of genetic data encoded in fungal genomes and to pro- vide insight into their functionality within the gut ecosystem. Unfortunately, the number of publicly available sequenced fun- gal genomes of gut origin is considerably lower than that of bac- teria (Qin et al. ). Even in large, multicentre studies such  as the Common Fund's Human Microbiome Project program (FY2007-2015), the primary focus is on bacteria with consider- ably less eukaryotic reference genomes being produced (Human Microbiome Jumpstart Reference Strains Consortium et al. ). This lack of available fungal genomes, particularly of GI origin, leaves a major gap in our knowledge of the genetic information
+
+Huseyin et al.	485
+
+
+
+and potential functionality encoded in the genomes of different fungal species inhabiting the human gut (see also Box 1).
+
+
+
+Culture-independent methods
+The advent of molecular techniques has meant that  scientists  no longer have to rely solely on the ability to culture fungi for ecological surveys of diverse and vastly different habitats (Ott et al. ; Scanlan and Marchesi ; Bue'e et al. ; Adams et al. ; Lindahl et al. ). The application of techniques such as polymerase chain reaction (PCR), Sanger sequencing (Sanger, Nicklen and Coulson ) and more recently, next gen- eration sequencing (NGS) technologies (Mardis ; Zoll et al. ) allows researchers to investigate and identify the mi- crobes present in a habitat without the need for complex cul- turomics (Landlinger et al. ; Shokralla et al. ). These
+
+
+developments, together with the use of sample identifying bar- code sequences, facilitate the sequencing and analysis of mul- tiple samples at once (Binladen et al. ; Hoffmann et al. ; Parameswaran et al. ; Hamady et al. ; Berry et al. ). Further advances in computing capabilities have also led to the development and improvement of databases suitable for fun-  gal analysis (Tedersoo et al. ). These include the UNITE and SILVA databases (Ko~ ljalg et al. ; Pruesse et al. ; Abarenkov et al. ), and bioinformatics pipelines such as Qiime (Caporaso et al. ), CloVR-ITS (White et al. ) and UPARSE (Edgar ).
+This availability of relatively easy-to-use technologies means that high-throughput molecular-based studies can now be at- tempted with considerable ease and relatively low cost (Hamady and Knight ; Sboner et al. ). However, it is important to note that there are no gold standard approaches for the culture- independent analysis of the gut mycobiome and it is evident from published studies that a variety of different techniques have been used (Scanlan and Marchesi ; Iliev et al. ; Araujo ; Tang et al. ), including denaturing gradient gel electrophoresis (DGGE) and cloning (Scanlan and Marchesi ), NGS and qPCR (Heisel et al. ), and NGS (Tang et al. ). As methods vary considerably between studies and, to date, no comparative analysis of these methods has  been  undertaken one obvious question that arises is to what extent one can com- pare data obtained from different studies. This is particularly pertinent given that different methodologies are known to influ- ence the results of culture-independent studies of the gut bac- teria. Moreover, a recent comparative analysis of methods used to assess soil fungi has shown that different methodologies do influence the results and, consequently, the conclusions of the study (Liu et al. ). As such, when designing any sequence- based study, thorough research and prior knowledge of the vari- ous strengths and weaknesses of each technique and technology available is required (Mardis ). In the following sections, we review and critique the various culture-independent method- ologies that have been used to study the human gut mycobiome.
+
+DNA extraction
+The DNA extraction method used for any study is of critical im- portance when considering not only the design of a study (Bahl, Bergstro" m and Licht ; Sartor ) but also when compar- ing data from other studies that have used different extraction methods (Henderson et al. ; Lozupone et al. ). To date, a wide range of different extraction methods have been used to recover total microbial and fungal DNA from faecal (Scanlan and Marchesi ; Dridi et al. ; Salonen et al. ; Wu et al. ; Iliev et al. ) and mucosal samples (Ott et al. ). Consid- erable efforts have also been made to improve the efficacy of extraction of DNA from both digesta and faecal samples (Yu and Morrison ).
+The structure of fungal cells (which includes a cell wall pri- marily composed of chitin, glucans, mannans and glycoproteins (Smits et al. )) can greatly impact on both DNA yield and quality as it can be notoriously difficult to lyse (Henderson et al. ). One method or commercial kit may extract total DNA rela- tively efficiently but may fail to extract fungal DNA and thus the presence of fungi in the gut may be underestimated (Henderson et al. ). Consequently, a number of modifications have been made to commercially available DNA extraction kits including the addition of bead beating (Scanlan and Marchesi ; Chen et al. ) and the addition of an enzymatic, fungal-specific lysis step (Landlinger et al. ; Iliev et al. ). Unfortunately, the
+
+486	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+relative merits (in terms of DNA quality, quantity and species recovered) of these different modifications are not known.
+Another potential problem with DNA extractions is contam- ination with inhibitory substances from the original starting material (Monteiro et al. ; Schrader et al. ) which can cause problems downstream when using molecular techniques such as PCR. The presence of contaminating host DNA and DNA from ingested food can also be problematic (Gouba, Raoult and Drancourt ; Hoffmann et al. ). A recent study sought to remove contaminating host DNA from extractions using an ini- tial separation of vertebrate DNA from the microbial DNA on the basis of differences in abundance of CpG methylation (Feehery et al. ). This method was successful for DNA samples from human saliva, human blood, a mock malaria-infected blood sample and black molly fish. Although this study focused on removal of contaminating sequences for bacterial community analysis, research in this area could prove beneficial for future gut mycobiome analyses. Finally, the potential effect of freezing on fungal DNA recovery is another consideration (Scanlan and Marchesi ; Chehoud et al. ) as extensive work on the bac- terial fraction of the gut microbiome has shown that freezing of samples prior to DNA extraction can significantly alter the com- munity structure resulting in a higher Firmicutes to Bacteroidetes ratio  (Bahl,  Bergstro" m  and  Licht  ).  Conversely,  it  has  also been shown that freezing prior to extraction has no significant effect on bacterial community structure (Wu et al. ; Fouhy et al. ).
+
+PCR and primer choice
+Subsequent to DNA extraction, a primary prerequisite of most culture-independent methods is to perform PCR on the ex- tracted DNA. As outlined, several different culture-independent techniques have been used to investigate the gut mycobiome (Scanlan and Marchesi ; Chen et al. ; Hamad et al. ; Tang et al. ) and a range of different primers are available and have been used for fungal community analysis in envi- ronmental surveys (Anderson and Cairney ; Gadanho and Sampaio ; Lee, Lee and Young ; Bokulich and Mills ) including the human gut mycobiota, see Table . These primers target different regions of the fungal ribosomal DNA (rDNA) operon which includes the 26S, 5.8S, 18S and the ITS re- gions (Iwen, Hinrichs and Rupp ). Although the 18S region has been widely used in the study of fungi and other eukary- otes in the human GI tract (Scanlan and Marchesi ; Hamad et al. ; Gouba, Raoult and Drancourt ), 18S primers are known to amplify non-fungal species including contaminating DNA from food or from the host (Scanlan and Marchesi ; Hamad et al. ). Identification of fungi based on 18S sequenc- ing is also difficult as it is often limited to genus or family level classification. This is due to a lack of variation in 18S rRNA se- quence between fungal species that are closely related, reflect- ing the comparatively short period of evolution within the fungal kingdom versus the bacterial kingdom, for which the 16S rRNA gene is employed (Hugenholtz and Pace ).
+Fortunately, a consensus regarding the preferred target or barcode for the identification of fungal species for future stud- ies has been reached (Nilsson et al. ; Seifert ; Begerow et al. ; Bellemain et al. ; Stockinger, Kru" ger and Schu" ssler ; Gazis, Rehner and Chaverri ; Lindner and Banik ; Porter and Brian Golding ; Liu et al. ; Schoch et al. ) and it is now acknowledged that the fungal ITS region should be used (Hawksworth et al. ; Bates et al. ). The change in target region was justified in part by the presence of highly con-
+
+
+served, structural regions that flank the fungal ITS region allow- ing for the development of primer pairs that can amplify fun- gal rDNA from most species. The ITS also contains sequences that are highly divergent in both sequence similarity and length between fungal species and are sufficiently different to classify fungi to species level in most cases (Hibbett et al. ; Yahr, Schoch and Dentinger ). The fungal ITS region has been targeted  in  environmental  studies  (O'Brien  et  al.  ;  Kru" ger
+et  al.  ;  Nilsson  et  al.  ;  O" pik  et  al.  ;  Neher  et  al.
+) and consequently, it is the most frequently sequenced region of the fungal genome accounting for approximately one third of the publicly available fungal sequences to date (Underhill and Iliev ). It consists of two regions, ITS1 and ITS2, that are separated by the conserved 5.8S region. Each re- gion may be amplified together or separately and identifying which region has the better resolution to species level has been the focus of a number of studies (Iwen, Hinrichs and Rupp ; Lutzoni et al. ; Martin and Rygiewicz ; Mello et al. ; Bazzicalupo,  Ba'lint  and  Schmitt  ).  However,  there  has  yet to be a NGS-based investigation of human gut samples in which the merits of different ITS subregions have been explicitly tested and it is also worth noting that utilising a smaller target am- plicon for bacterial community analysis results in more unique sequences, higher diversity and thus a more varied community structure (Huber et al. ).
+An extensive diversity of fungal species have been detected in gut samples using primers that target the 18S and ITS re- gions (e.g. see Figs -, Table and Table S1, Supporting Informa- tion). The first primers to target the fungal ITS region were devel- oped over two decades ago (White et al. ; Gardes and Bruns ) (Fig. ), yet they are still a widely used primer set and have been utilised in a number of recent human mycobiome studies (Scanlan and Marchesi ; Hamad et al. ; Gouba, Raoult and Drancourt ; Hoffmann et al. ; Tang et al. ). Other primers have also been used to investigate the fungal diversity of the human gut mycobiome; however, it is difficult to fully as- sess the impact of primer choice for fungal studies of the gut as (outlined earlier) the experimental techniques used are not con- sistent across studies. Nonetheless, the effect of primer choice  in determining species diversity present in the human gut my- cobiome has been demonstrated by studies where the use of dif- ferent primer sets on the same sample(s) has resulted in com- pletely different data being produced from individual samples (Klingspor and Jalal ; Hamad et al. ; Toju et al. ; Heisel et al. ; Mar Rodriguez et al. ; Walters et al. ).
+In studies of the human intestinal mycobiome primers tar- geting both the ITS1 (Hoffmann et al. ) and ITS2 (Heisel  et al. ; Liguori et al. ) and entire ITS region (Scanlan and Marchesi ; Mar Rodriguez et al. ) have been used. Which region to target is in part largely related to the tech- nologies available to each researcher, and reflects the fact that the entire fungal ITS region is generally considered too large to use for studies utilising NGS technology. For lower-throughput Sanger sequencing mycobiome investigations, the length of the amplicon for sequencing is generally not an issue. However, for NGS technologies, primers targeting the ITS1 region facilitated the successful utilisation of 454-pyrosequencing technology and revealed a diverse healthy human mycobiome (Hoffmann et al. ). Similarly, the use of the ITS2 region as a target in the study of the infant mycobiome resulted in the amplification and iden- tification of a range of different fungi comparable to the diver- sity observed in bacterial studies of infants of the same age us- ing the Illumina MiSeq sequencing platform (Heisel et al. ), see also Table S1. Considerable efforts have also been made
+
+
+
+
+
+
+
+
+Table 3. Primers used in the investigation of fungi in the GI tract.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not applicable (N/A)	TruSeq  method for shotgun sequencing	Illumina HiSeq	Faecal	Y	Lewis et al. ()
+
+aUnable to recover information.
+
+490	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. A diversity of different fungal genera (A) and species (B) have been reported in culture-independent studies of the gut mycobiome (see also Table S1). All genera and species that have only been reported in the literature once, and twice, have been included as single groups, respectively.
+
+
+to identify primers that reduce bias and reduce errors in the sequences that are produced by PCR-based analyses of fun- gal populations (Borneman and Hartin ; Bokulich and Mills ; Tedersoo and Lindahl ). This is important as single primer mismatches to target sequences can have a significant impact on the sequence data generated (Ihrmark et al. ). Indeed, a recent computational analysis identified mismatches between the commonly used primers, ITS1F and ITS2, and clin- ically relevant fungal taxa and led the authors to advocate the use of modified sets of primers that target the ITS2 region for NGS analysis (Tedersoo and Lindahl ).
+Issues with PCR-based analyses that have been noted for bac- terial microbiome studies are also highly relevant to mycobiome studies. For example, the PCR reaction itself is prone to a certain degree of bias and error (Ishii and Fukui ; Engelbrektson et al. ; Carlsen et al. ) and the use of PCR can in fact result in the reporting of species that simply do not exist due to arte- fact formation (Kanagawa ; Fonseca et al. ). Barcoded adapters that allow the sequencing of many different samples at once can also introduce error (Jayaprakash et al. ; Fair- cloth and Glenn ) as can the number of cycles used in the PCR reaction. It has been shown for bacteria that, regardless of the ratio of the different templates used in a PCR reaction, after 35 PCR cycles the product ratio was biased towards an equal ratio (Kanagawa ). This is also relevant to human GI mycobiome studies where the starting PCR reaction mixture potentially con- tains many different fungal species DNA templates present at varying concentrations for amplification (Scanlan and Marchesi ; Heisel et al. ). Other errors can also arise during the PCR reaction including the formation of homoduplexes, heterodu- plexes and chimeric sequences (Kanagawa ). These biases and PCR errors occur primarily during the later cycles in a PCR reaction and thus can be limited by reduction of the cycle num- ber. The possibility of random errors from PCR artefacts, such as the wrong base being incorporated or primer mismatches to the template, can also be minimised by reducing the number of cycles, performing multiple PCR reactions and pooling the prod- ucts prior to sequencing (Brown et al. ; Schmidt et al. ).
+
+Sequencing technologies
+As noted, the increasing numbers of studies relating to the human mycobiome (Fig. ) have been facilitated by the devel-
+
+opment of high-throughput NGS technologies that have vastly improved researchers' abilities to perform in-depth analysis of complex ecosystems without the need to culture organisms (Bik et al. ; Hoffmann et al. ; Heisel et al. ). Previously, limitations in methods such as the laborious preparation of  clone libraries limited the number of samples that could be anal- ysed at any time resulting in potentially low coverage within samples (Ott et al. ; Scanlan and Marchesi ; Hamad   et al. ). Despite these limitations, low-throughput molecu- lar analyses bypassed the need to culture fungi to assess diver- sity and have successfully unearthed a wealth of previously un- known species (Borneman and Hartin ) and provided novel insight into the fungal diversity of the human gut (Ott et al. ; Scanlan and Marchesi ; Hamad et al. ). Although this approach is unsuitable for high-throughput analysis of DNA extracted from materials containing potentially complex mix- tures of species such as in faecal samples, Sanger sequencing has been useful for the production of large reference libraries   of DNA and it is anticipated that the application of newer, long read NGS technologies, such as those developed by PacBio and Oxford Nanopore, will be similarly useful in this regard.
+Regardless of read length, the arrival of NGS technology (as reviewed elsewhere (Glenn ; Buermans and den Dunnen ; van Dijk et al. )) affords researchers a high-throughput alternative for mycobiome studies (Heisel et al. ; Tang et al. ) due to the ability to bypass the need to use a vector- based cloning method to amplify and separate different DNA templates. A range of commercial NGS technology platforms are available to researchers planning to undertake mycological surveys, each with different capabilities and utilising different sequencing methods. These include diverse chemical methods that vary in the incorporation and also the detection of bases. Despite this, however, each NGS platform essentially shares the same workflow of an initial step of either fragmentation or am- plicon library production.
+The advent of NGS platforms began with the release of  the Roche 454 genome sequencer in 2005 (Margulies et al. ), which utilises real-time sequencing-by-synthesis pyrose- quencing technology. This was the first commercially available NGS platform and it has been utilised successfully in the se-
+quencing of fungal libraries from niche environments (Jump- ponen  and  Jones  ;  O" pik  et  al.  ;  Jumpponen  et  al.  ; Marsh et al. ) and the human gut (Hoffmann et al. ).
+
+Huseyin et al.	491
+
+
+
+However, Roche 454-pyrosequencers are no longer produced as the cost per run became considerably more than that of the subsequent generation of commercially available sequencers. A competing genome sequencer, which generated shorter reads, was released in 2007 by Illumina (formerly known as Solexa). These have since been replaced by newer Illumina sequencers, such as the HiSeq, NextSeq and MiSeq, which also rely on the same sequencing-by-synthesis approach as their predecessor but provide longer read lengths and reduced costs/Mb. The Il- lumina MiSeq was recently investigated for its suitability in the analysis of human mycobiome investigations of the GI tract us- ing mock communities (Tang et al. ) as well as being used successfully to investigate the mycobiome of infants (Heisel et al. ). Ion Torrent, now owned by Life Technologies, released the Ion Personal Genome Machine (PGM) in 2010. The Ion PGM relies on the real-time detection of H+ ions released as a by-product of a nucleotide attaching to the template single-stranded DNA. To the authors' knowledge, this platform has only been used once in a standalone analysis of the human gut mycobiome. It has also been used in the analysis of bacterial metagenomic se- quencing (Whiteley et al. ) and environmental fungi (Kem- ler et al. ) and been tested for its potential for gut myco- biota analysis where it was found to be inferior to MiSeq (Tang et al. ). More specifically, Tang and colleagues reported a dis- torted read-out of their mock fungal community structure when sequenced using the PGM compared to that observed when se- quenced using the MiSeq platform. Although the MiSeq did also incorporate some bias towards fungi with smaller ITS1 regions, it was considerably less than that observed on the Ion Torrent PGM. To date, other sequencers from Ion (Proton; similar to PGM but with greater outputs), PacBio (RSII) or Oxford Nanopore (Min- ION) have not been used for mycobiome research.
+Despite the advantages of NGS technologies, they have their own particular challenges when applied to mycobiome studies. This was demonstrated in a recent non-human fungal study (Marsh et al. ) where variation in the length of the fungal ITS region between species required the sequencing libraries to be pooled based on size and sequenced separately in order to avoid the preferential sequencing of shorter amplicons. This variation in amplicon length within samples or 'double bands' that are seen on agarose gels and Bioanalyser traces was also reported by Tang et al. (). In the latter instance, all samples were se- quenced together regardless of amplicon size.
+
+Bioinformatic analysis
+There have been a variety of bioinformatics and analysis tools developed to enable the analysis of the enormous amount of data produced by large-scale studies utilising NGS technologies (Bik et al. ; Ursell et al. ). The data produced by NGS must undergo a number of important steps before it can be com- pared to the various databases for identification with any reli- able degree of accuracy (Kunin et al. ). The sequences pro- duced must be demultiplexed by sample ID, forward and reverse reads must be joined, adapter and barcode sequences removed and the sequences quality trimmed prior to further analysis (Bokulich et al. ). Subsequent steps include the removal of chimeric sequences (Edgar et al. ) using packages developed based on fungal ITS datasets (Nilsson et al. , ). The data are then analysed to determine, as accurately as possible, the diversity and relative abundance of species present (Edgar ; Schloss et al. ; Amend, Seifert and Bruns ).
+One of the most frequently used bioinformatic tools for the high-throughput analysis of fungal community data is the Qi-
+
+
+ime pipeline, as described by Caporaso et al. (). This pipeline has been used to decode and quality check fungal sequences produced in a human gut mycobiome study (Hoffmann et al. ). Taxonomy was assigned to the sequences using BROCC (Dollive et al. ) before being manually curated using the BLASTn search function against the GenBank NR/NT database. Although the databases available for fungi are not as well es- tablished as those for bacterial analysis (Nilsson et al. ), this issue is being addressed (Vilgalys ; Tang et al. ). Several studies and reviews have focused on the merits of the databases and pipelines that are currently available (Koetschan et al. , ; Nilsson et al. ; Santamaria et al. ; Schoch et al. ; Tang et al. ). The most recent study compared three publicly available fungal databases: the UNITE database (Ko~ ljalg et al. ), the Findley database (Findley et al. ) and the RTL database (Schoch et al. ). The authors also manu- ally created their own database (targeted host-associated fungi database) which they tailored to specifically include sequences from mouse and human samples (Tang et al. ). The choice of database utilised for the analysis clearly affected the outcomes of the study as evidenced by considerable differences in com- munity compositions. This was especially apparent when the samples were also analysed by qPCR to target particular fungal species. The database used also determined the number of re- ported species; this is due to the relative presence or absence    of particular species in different reference databases. Moreover, differences in community composition also arose from anno- tation issues such as those observed, for example, when using the UNITE database which identified the presence of both Fusar- ium and Gibberella, even though these are anamorph/telomorph names for the same fungal species. With this in mind, caution is required in the reporting of novel fungal species from sequence- based mycobiome studies alone. Although culture-independent techniques have enabled researchers to uncover a wealth of fun- gal species in the human gut (e.g. Table S1), a failure to respect classical mycology when undertaking mycobiome analyses has led to skewed and incorrect estimations of fungal diversity re- sulting in numerous revisions (Hawksworth and Rossman ; Hawksworth , ; Peay, Kennedy and Bruns ; Black- well ; Suhr and Hallen-Adams ). As such, it is now re- alised that further progress in gut mycobiome research requires the application and development of classical mycological tech- niques coupled with culture-independent studies in order to ac- curately determine the true identity, diversity and functionality of fungal species within the human gut mycobiome (Suhr and Hallen-Adams ; Yahr, Schoch and Dentinger ) (see also Box 1).
+
+
+DIVERSITY AND COMPOSITION
+OF THE HUMAN MYCOBIOME IN THE GENERAL POPULATION
+One of the first studies that investigated the prevalence and diversity of microbial eukaryotes in the  healthy  human  gut was published in 2008 (Scanlan and Marchesi ). Using a combination of culture-dependent and culture-independent methodologies, Scanlan and Marchesi  detected  fungi  in 88% of individuals sampled (n = 17). Fungal diversity was low and colonisation was largely stable over time with the occasional transient species recovered. Of note, three species of fungi, i.e. Galactomyces, Paecilomyces and Gloeotinia, were detected in the faecal samples of the study participants and were stable in- habitants over time, a previously unreported occurrence in the
+
+492	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+healthy population. Subsequently, a number of similar studies have been published and have revealed a plethora of taxa com- prising the gut mycobiome (Figs , and ).
+Hamad et al. () also sought to investigate the diversity of total microbial eukarya in the healthy human gut; however, they only used a single faecal sample from a healthy Senegalese man. This study used 22 different primer sets (Table ), some of which targeted specific fungi, such as Malassezia spp., and oth- ers that targeted all eukaryotes potentially present. Although 27 eukaryotic species were detected, fungi predominated, with 16 different fungal species observed (see Table S1). Further work by Hoffmann and colleagues also reported that the healthy hu- man gut is host to a diverse range of fungi and further ex- panded upon the range of species detected in these earlier stud- ies (Scanlan and Marchesi ; Hamad et al. ) (Table S1). More recently, Hallen-Adams and colleagues used NGS technol- ogy and a nested PCR approach using primers targeting the ITS region and successfully amplified products from 45 of the 49 study participants. Using this method, 72 operational taxonomic units (OTUs) were recovered and comprised human, airborne and food-associated fungi (Hallen-Adams et al. ). In con- trast to the earlier study (Scanlan and Marchesi ), Hallen- Adams found that the gut mycobiome lacked persistent, stable or 'core' species that are typical of bacterial communities in the gut (Lozupone et al. ). This suggests that a targeted approach such as a probe-based assay might be a more rational approach given that a large proportion of fungi detected in faecal samples may be of dietary origin and therefore are not functionally rel- evant in the gut environment (Suhr, Banjara and Hallen-Adams ).
+The infant gut has also been the target of mycobiota re- search and a relatively recent study has shown that fungi are present in the GI tract of a vaginally delivered and exclusively breast-fed infant (Koenig et al. ). This result was determined by shotgun sequencing and even though this study was per- formed on a healthy infant, it was observed that fungal- and viral-associated genes were enriched in a sample immediately preceding a fever, leading the researchers to suggest that this finding may be linked to the fever. Quantitative PCR (qPCR) has also been used to assess fungal prevalence in the infant gut, and researchers have shown that fungi were intermittently de- tectable in faecal samples at a relatively low abundance over in- fants' first year of life (Palmer et al. ). Another study com- bined NGS technology with qPCR (targeting nine clinically rele- vant fungi) to survey for fungi in a cohort of 11 infants. Ten of the 11 infants did not have a diagnosis of fungal infection and although only 2 infants were positive for fungi using culture- dependent methods, all infants were positive for the presence of fungi using culture-independent methods (Heisel et al. ). Species diversity varied between infants; however, all of the in- fants were positive for Candida albicans and the most abundant fungi were C. albicans, Leptosphaerulina and C. parapsilosis. An in- fant that developed mucocutaneous candidiasis was observed to have the lowest diversity of all the samples collected and, inter- estingly, this was also the only sample that was within the limits of detection for qPCR analysis. This further highlights the diffi- culties of detecting organisms such as fungi that are potentially present in human samples in low levels. Moreover, this study highlights how little is known about the fungal diversity present in infants and draws parallels between the fungal diversity shift that they observed with that seen in the bacterial microbiome of infants of the same age (Heisel et al. ). The researchers hypothesised that the relatively low diversity of fungi observed in comparison to that of adult samples was due to the age of the
+
+
+study participants and the possibility that these infants may not yet have been colonised by a variety of different fungal species. Conversely, a recent study has shown that age and gender influ- ence the composition of the gut mycobiome; here species rich- ness of the gut mycobiome (i.e. the number of different OTUs recovered) was higher in infants and children than in adults when samples were analysed using culture-independent meth- ods (Strati et al. ). However, no significant age-related dif- ference was observed from data generated using a culture-based approach. Strati and colleagues also reported the predominance of Penicillium, Aspergillus and Candida in their subset of healthy participants, as have also been detected in other studies (Fig.  and Table S1). They also investigated the effect of gender on the mycobiome and found a significant effect on the cultivable my- cobiota with female subjects showing both a higher number of isolates and also species reported compared to males. Moreover, samples clustered based on gender when analysed by culture- independent analysis (Strati et al. ).
+In a study investigating the impact of the mycobiome in neonates (1 month old) on asthma development at infancy     (6 months old), it was observed that bacterial a-diversity was in- versely correlated with fungal a-diversity and both bacterial and fungal b-diversity were correlated with participant age. A deple- tion in the fungal taxa Malassezia and an increase in Rhodotorula and Candida correlated with a number of bacterial taxa deple- tions, and the overall effect was correlated with a higher risk for the development of childhood allergic asthma (Fujimura et al. ). These results led the authors to suggest an inter-kingdom co-evolution over the first year of life (Fujimura et al. ); how- ever, further research that incorporates temporal analysis of neonates through to adulthood is required to determine if the fungal mycobiome undergoes a dramatic change equivalent to that observed for the bacterial and viral microbiomes over the first years of life (Lim et al. ; Rodri'guez et al. ). Crucially, these data may also provide potentially useful information that is needed to inform us of both the timing and type of best strate- gies for targeted interventions to prevent the onset of disease.
+
+
+THE EFFECT OF DIET AND EATING BEHAVIOUR ON THE MYCOBIOME
+The effect of diet as a key factor driving the variation observed in fungal colonisation and composition between individuals was the focus of early gut mycobiome studies (Finegold, Attebery and Sutter ) (Fig. ). Research in this area looked at groups con- suming a Western and a traditional Japanese diet with a view to understanding the difference in bowel cancer prevalence ob- served in each location (Finegold, Attebery and Sutter ). Lit- tle difference was observed between the fungi recovered from each group despite the differences in diet; however, the scope of the study was greatly limited by the use of a single culture medium which was incubated aerobically (Finegold, Attebery and Sutter ).
+The relationship between diet and the mycobiome in healthy individuals has been investigated more recently using culture- independent analysis of samples from 96 individuals (Hoffmann et al. ). After strict exclusion criteria for volunteer health status and read number per sample were applied, 66 fungal genera, and 13 additional lineages which the authors were un- able to classify to genus level, were detected in these samples (see Table S1). Although no conclusive evidence was provided as to whether these fungal inhabitants were permanent resi- dents or transient species, it is notable that six of the individuals
+
+Huseyin et al.	493
+
+
+
+analysed returned sequences originating from button mush- rooms which can obviously be attributed to dietary contamina- tion. The study also found that the most prevalent fungi in the gut were from the genus Saccharomyces, which was detected in 89% of samples. The authors did speculate that the high level of Saccharomyces could be due to the ingestion of yeast-containing foods such as bread and beer. Similarly, Candida species were found to correlate with the recent ingestion of carbohydrates. Second to Saccharomyces, Candida species were present in 57% of the samples, followed by Cladosporium, which was detected in 42% of samples. A more detailed analysis of the impact of diet on both bacterial and fungal diversity of the human gut parti- tioned dietary regimes into plant and animal-based diets and in- cluded an analysis of the food ingested by the study participants. Food items in both diets were colonised by a diversity of fungal genera including Penicillium, Candida, Debaryomyces and Scopular- iopsis, and it was noted that Penicillium sp. and Candida sp., that were present in high levels within the animal and plant-based diets, showed significant ITS sequence increases in individuals sampled on these respective diets (David et al. ). Similarly, analysis of the mouse gut fungal mycobiome and contempora- neously ingested mouse chow revealed that a number of fun- gal species present in the chow survived GI transit and were detectable in ITS amplicons generated from mouse faeces (Iliev et al. ). Although, it is likely that a proportion of these fungi present in the gut microbiome that are of dietary origin are in fact only transient colonisers (Suhr, Banjara and Hallen-Adams ), emerging data do suggest that the intake of certain foods may provide an important source of inoculum of some fungal species that can colonise the human gut and that of other host species (David et al. ). Further work in this area is required to thoroughly assess and appreciate the contribution of diet and food-associated fungi to the diversity and functionality of the human microbiome.
+In addition to diet as a source of microbial inoculum, the re- lationship between diet, our gut microbes and energy balance is an area of increasing interest given the current obesity epi- demic (Turnbaugh and Gordon ). It is therefore not surpris- ing that researchers have sought to investigate the role, if any, of the mycobiome in this regard. It was observed in two recent studies performed by Gouba and co-workers that an increased diversity of fungi were present in the gut of two respective study subjects, one of whom suffered from anorexia nervosa and the other who was classified as morbidly obese (Gouba, Raoult and Drancourt , ). Using a combination of culture- dependent and culture-independent methodologies, the gut mi- crobiota of an obese Caucasian female with a BMI of 48.9 and an anorexic female with a BMI of 10.4 was determined. The results highlighted an increased fungal diversity in these in- dividuals in comparison to studies of healthy participants re- ported in the literature. A variety of the fungal species detected could be attributed to food sources, including 11 of the 16 fun- gal species isolated in the obese individual (Gouba, Raoult and Drancourt ). However, it should be noted that these data should not be over-interpreted as only a single individual was analysed in each case. Fortunately, a study involving a greater number of obese individuals together with controls has been recently published (Mar Rodri'guez et al. ). Although fungi were only classified to genus level, the researchers were able to draw several conclusions from their data. Fungi were detected
+in all samples (n = 52) using an ITS sequencing approach and although no differences in fungal richness were observed be- tween the obese and control cohorts, family diversity was sig- nificantly lower in their obese cohort. In contrast to many other
+
+
+studies into the human gut mycobiome, this study reported that Penicillium, present in 73% of samples, was the most prevalent fungal genus, followed by Candida, Saccharomyces, Mucor and As- pergillus at 55%, 55%, 38% and 35%, respectively (Mar Rodri'guez et al. ). Although the taxonomic differences observed be- tween the obese and control cohorts were not significant at the family level, significant differences were observed at the genus level for Mucor. The most abundant genera in the obese cohort were Candida, Nakaseomyces and Penicillium, whereas Mu- cor, Candida and Penicillium were the most abundant genera in the control cohort. Furthermore, it was observed that the genera Mucor and Penicillium negatively correlated with BMI, fat mass, android fat mass and hip circumference, whereas the genus As- pergillus was positively associated with adiposity. The correla- tion between Mucor spp. and leanness was investigated before and after weight loss induced by dietary change and it was ob- served that the relative abundance of Mucor spp. correlated with the degree of weight loss. However, further work is required however to determine if changes in Mucor spp. abundance is a contributor to or a consequence of weight loss. Moreover, fur- ther research in this area could potentially see dietary inter- ventions that include the supplementation of host diet with foods with putative antifungal effects in order to selectively modulate the fungal profile with the ultimate aim of influenc- ing host health (Gunsalus et al. ). Similarly, the use of spe- cific microbes that can inhibit the growth of undesirable fungal species may prove another useful intervention strategy. In this regard, the negative correlation between the food-borne yeast Debaryomyces hansenii and Candida species in surveys of the gut mycobiome coupled to in vitro experimentation of the anti- Candida effects of mycotoxins produced by D. hansenii has led to the suggestion that D. hansenii could impact on Candida pop- ulations in the gut (Banjara et al. ). This is analogous to the rationale of using many species of bacteria as probiotics to mit- igate the potentially harmful effects of specific gut microbes on host health.
+
+MYCOBIOME STUDIES BY HOST SITE
+Although the primary focus of this review is to highlight the gut mycobiome and its associations with human health and disease groups, we have much to learn from the analysis of the myco- biome of various other human body sites. The methodologies and data emerging from many of the studies relating to these sites reviewed in brief below are pertinent to gut mycobiome- based investigations as they will greatly enhance our under- standing of the relationships between the various fungal pop- ulations that make up the collective human mycobiome (Soll et al. ; Mukherjee et al. ). They will also better our un- derstanding of the interactions between the fungal and non- fungal members of different microbial consortia (Krom, Kidwai and ten Cate ), while providing insights into the potential pathogenicity of these organisms, both in their niche environ- ment and also when translocated to various other body sites,  a phenomenon previously investigated with respect to certain bacterial species (Colucci ). With this in mind, we review in brief some of the significant papers from the literature relating to the oral, lung, skin, genitourinary and cardiovascular myco- biomes.
+
+The oral cavity
+The oral cavity is an important inoculation source of fungi found elsewhere in the body, including the human gut
+
+494	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+(Westbrook et al. ). Both culture-dependant and culture- independent methods, including NGS technologies, have been used to thoroughly characterise the basal oral mycobiome (Ghannoum et al. ; Dupuy et al. ). The results suggest that the distribution and profile of fungal species in the oral cavity of healthy subjects is complex and similar to that of the oral bacterial microbiome with respect to the number of species identified (Ghannoum et al. ). Similar to gut mycobiome studies, the portion of fungal species refractory to cultivation   in the oral cavity represented  a significant fraction  of the to-  tal organisms identified (Ghannoum et al. ; Chen et al. ) and likewise, the oral mycobiome is dominated by Candida spp., which was isolated from 75% of subjects (Ghannoum et al. ). A related study also observed a complex and diverse basal my- cobiome in the oral cavity (Dupuy et al. ). However, the lat- ter found some differences in the genera present. These differ- ences could be due to the methodologies used as results were presented at different taxonomic levels in each study or may be due to host-associated factors such as age, diet, overall health status or ethnicity. However, one interesting and perhaps sur- prising finding was that Malassezia was reported for the first time as an oral commensal (Dupuy et al. ). This genus has been previously associated with a variety of cutaneous disease con- ditions of the skin (Ashbee and Evans ; Sugita et al. ; Tajima et al. ).
+Unsurprisingly, the human oral microbiome and mycobiome have predominantly been studied to assess their impact on oral health (Miranda et al. ; Wade ). For example, the diver- sity and frequency of yeasts from the dorsum of the tongue and necrotic root canals have been surveyed; however, no signifi- cant differences between colonisation of the tongue and root canal was observed. Although no direct correlation between the incidence of yeasts in the root canal and primary endodontic in- fection disease process was observed, a higher frequency of Can- dida spp. was noted (Miranda et al. ). Another relevant aspect of many studies is the role of environmental factors which can have a dramatic effect on the human mycobiome (Underhill and Iliev ). These include smoking (Monteiro-da-Silva et al. ) and EDs (Back-Brito et al. ), such as anorexia nervosa and bu- limia nervosa, which have all been investigated in relation to the human oral mycobiome.
+The detrimental effects of smoking on the development and pathogenesis of many conditions has been described in depth (Sta" mpfli  and  Anderson  ).  A  study  conducted  to  charac- terise the oral mycobiome of smokers and non-smokers found that smokers have higher but not significantly different levels of both yeasts and pathogenic moulds than non-smokers. All study participants investigated in the study were colonised by fungi and subsequent analysis also showed that these fungal inhabitants were temporally stable in the oral cavity (Monteiro- da-Silva et al. ). Interestingly, another study noted that the incidence of Candida in stool is significantly correlated with smoking habits: 58% of smokers were found to have Can- dida present compared to only 29% of non-smokers (Jobst and Kraft ).
+Given that the oral mycobiome can serve as both a reser-  voir of potentially pathogenic fungi and a portal for pathogens (Westbrook et al. ), the observation of chronic fungal coloni- sation by potentially pathogenic moulds such as Penicillium, Cladosporium, Alternaria, Trichoderma, Scedosporium and Rhizopus genera as well as opportunistic pathogens such as Candida and Aspergillus is of note (Monteiro-da-Silva et al. ). The link be- tween alcohol and both the gut and oral mycobiome has also been investigated. Interestingly, and contrary to results observed
+
+
+in the gut which do suggest a link between alcohol consumption and fungal colonisation (Hoffmann et al. ), analysis of the oral cavity suggest that the mycobiome is not influenced by alco- hol consumption (or oral contraceptive and drug use) (Monteiro- da-Silva et al. ).
+EDs can affect the oral mycobiome (Back-Brito et al. ) in a manner similar to that described for the bacterial micro- biome (Lo Russo et al. ). ED associated factors include poor personal hygiene, the use of drugs, vomiting, modified nutri- tional habits, underlying psychological disturbances and nutri- tional deficiencies with consequent metabolic impairment (Lo Russo et al. ). Similarly, oral candidiasis has been linked to nutritional deficiencies in iron, zinc, vitamin K and water solu- ble vitamins (Lo Russo et al. ). Opportunistic oral infections, such as those caused by Candida spp., are common in those suf- fering from EDs; however, the mycobiome of these patients is not as well characterised as the healthy oral mycobiome (Ghan- noum et al. ; Dupuy et al. ). A study seeking to rec- tify this disparity characterised the oral mycobiome of ED and healthy patients found that the ED group had a higher inci- dence of yeast colonisation, as well as a greater variability of Candida spp., than that observed in healthy controls (Back-Brito et al. ).
+
+
+
+The lung
+Research into the lung microbiome has greatly increased in re- cent years and the data generated are dispelling some of long- standing views, including the perception of the deep lung as a sterile organ (Hilty et al. ). Correspondingly, the study of the lung mycobiome is now an emerging field of research (Nguyen, Viscogliosi and Delhaes ; Seed ; Krause et al. ). Re- search to date has been largely restricted to a small number of studies  (Dynowska,  Roslon  and  Go' ralska  ),  with  a  strong focus on patients with cystic fibrosis (CF) (Amin ; Nelson et al. ; Delhaes et al. ; Harrison et al. ), pneumonia (Bousbia et al. ), lung transplants (Charlson et al. ) and asthma (van Woerden et al. ). The mycobiome of CF individ- uals is of particular note as sputum expectorated from the lungs can be swallowed and thus comes in contact with the digestive tract. Moreover, the link between the gut microbiome and lung was demonstrated using a murine model that showed perturba- tion of the mycobiome in the gut via antibiotics was instrumen- tal in causing allergic airway disease. This was achieved through the modulation of the immune response and remote activation  of macrophages causing a systemic allergic response (Kim et al. ).
+A study investigating the microorganisms present in the lungs of transplant patients and healthy controls highlighted an inherent challenge in assessing the lung microbiome and my- cobiome, as carryover of microbes from the oral cavity and up- per respiratory tract invariably occurs when performing bron- choalveolar lavage (BAL) sampling (Charlson et al. ). It was observed that fungal level and species richness varied greatly between individuals irrespective of test or control status with respect to oropharyngeal wash (OW) samples. However, for healthy individuals, BAL samples returned very few fungal se- quences even when they were present in OW samples at a high level from the same individual. Fungal species that were de- tected in controls were determined to be from environmen-  tal origin, whereas the BAL samples of transplant recipients were predominated by Candida and Aspergillus species. Moreover,
+
+Huseyin et al.	495
+
+
+
+when present in BAL samples Candida was observed in OW sam- ples from the same individual (Charlson et al. ).
+
+The skin
+The skin is the largest organ of the human body and is colonised by a multitude of different microbiological species (Fierer et al. ; Grice et al. ; Findley et al. ). Similar to the study of the oral and gut mycobiomes, further research into the skin mycobiome is invaluable to our understanding of the basal structure and function of microbial communities as well as the potential for pathogenicity of microorganisms that inhabit a multispecies environment (Akaza et al. ). Such research is relevant to both healthy subjects (Gao et al. ) and those with skin conditions (Sugita et al. ; Park et al. ). Using the fun- gal ITS region and the 16S rRNA as target genes, the total fungal and bacterial populations of several different sample areas of the skin were assessed (Gao et al. ). Malassezia spp. predom- inated samples and accounted for 53%-80% of all fungi at the various locations sampled (Gao et al. ). Malassezia spp. have been implicated in the aetiology of dandruff, and research has been undertaken to not only determine whether this lipophilic yeast is involved in the aetiology of dandruff but also identify novel ways to prevent and treat dandruff (Park et al. ). The total fungal mycobiome of healthy and dandruff-afflicted hu- man scalps was characterised using NGS, and it was shown that Ascomycota and Basidiomycota are the predominant fun- gal phyla found in dandruff-afflicted and healthy scalps. The predominance of these two fungal phyla has been noted in both the gut and oral mycobiome and, interestingly, the differences observed in the abundance ratio between Ascomycota and Ba- sidiomycota in this study were dependent on the health status of the scalp. Ultimately, it was established that Malassezia spp. were elevated in dandruff-afflicted scalps (Park et al. ). Another study investigating the human skin mycobiome also implicates Malassezia as a compounding factor in the aetiology of atopic dermatitis (Zhang et al. ). Using a rRNA clone library ap- proach to characterise the fungal community, Zhang et al. () found that the populations clustered according to health status,
+i.e. mild/moderate, severe atopic dermatitis and healthy sub- jects.
+
+The genitourinary tract and its potential as a source of fungi for infant colonisation
+The route via which humans are colonised by microbes is of fun- damental interest from multiple perspectives. With respect to  the human mycobiome, previous studies have sought to inves- tigate the relationship between the gut, skin and vaginal myco- biomes of infants and their mothers (Waggoner-Fountain et al. ; Bliss et al. ; Nagata et al. ; Pandey et al. ; Song, Dominguez-Bello and Knight ). One approach used the var- ious Malassezia species present as an indicator to determine the similarities between infant's mycobiomes and their respective mothers and found that at day 1 100% of infants surveyed (n =
+27) were colonised by Malassezia (Nagata et al. ). It was also shown that Malassezia profiles between mothers and their in- fants were concordant by day 30; however, it was not reported in this case if the babies were delivered naturally or by C-section. It has been demonstrated previously that both horizontal and vertical transmission of Candida spp. occur in infants (Waggoner- Fountain et al. ) and are influenced by mode of delivery (Bliss et al. ).
+
+
+Fungi are well recognised members of the healthy vaginal microbiome (Drell et al. ). NGS technology has been used to characterise the vaginal mycobiome (Drell et al. ) and   as outlined for other mycobiome studies, difficulties associated with bioinformatic analysis and database issues were encoun- tered (Tang et al. ). Nonetheless, this study reported that the vagina was host to a diversity of fungi including 196 fungal OTUs, 16 of which were different Candida spp. In doing so this study highlighted a more diverse range of Candida spp. than had pre- viously been described for this site. As members of these genera are typically associated with an unhealthy vaginal environment, the presence and diversity of Candida spp. observed were some- what unexpected in a healthy vaginal microbiome (Drell et al. ). For example, a condition called vulvovaginal candidiasis affects three quarters of women at some point during their life (Sobel et al. ) and is characterised by Candida overgrowth. This condition is also linked to a number of factors, includ-    ing oral contraceptive use, immunodeficiency of the host (So- bel ) and the use of antibiotics (Sobel et al. ; Fidel ). With respect to antibiotic usage, it is believed that this results   in the depletion of protective bacteria such as Lactobacilli which form part of the healthy vaginal microbiome (Ravel et al. ).
+The mechanistics of vulvovaginal candidiasis have also been characterised in some detail, and it has been shown that Can- dida spp. affect host epithelial cells in the vaginal environment by influencing cytokine and chemokine production (Steele ) and eliciting a proinflammatory response (Spear et al. ). Al- though the treatments available for vulvovaginal candidiasis are usually effective (Sobel et al. ), there is a lack of successful treatments for recurrent infections (Sobel et al. ). This is po- tentially due to the evolution of fungal resistance and therefore caution should be taken with the repeated and routine use of antifungal drugs (Sanglard and Odds ; Morace, Perdoni and Borghi ). Alternatives to antifungal drugs have been mooted, including the development of fungal vaccines (Cutler, Deepe and Klein ) and the use of probiotic strains (Kuhbacher ). With respect to the use of probiotic strains in the prevention   and treatment of vulvovaginal candidiasis, the most appropriate mode of administration has been evaluated (Pirotta et al. ; Falagas, Betsi and Athanasiou ) and the ability of two pro- biotic strains of Lactobacillus to reduce fungal carriage and viru- lence of Candida in the vaginal environment has been tested in vitro (Martinez et al. ). Here, the probiotic strains were ca- pable of modulating the morphology of C. albicans and reducing its virulence (Martinez et al. ). The basis for the reduction of virulence due to changes in Candida morphology as well as other fungal-bacterial interactions is discussed in more detail in the section on polymicrobial interactions.
+
+The circulatory system
+As highlighted earlier, the oral microbiota can serve as a por- tal of entry for pathogens to areas of the body. A number of studies have highlighted the link between the bacterial commu- nity present in oral cavities and atherosclerotic plaques (Gaetti- Jardim et al. ; Koren et al. ) and consequently these studies implicate bacteria in the chronic inflammatory process that underlies coronary atherosclerosis and cardiovascular dis- ease. Fungal DNA signatures are also present in atherosclerotic plaques (Ott et al. ). Using molecular techniques to bypass the aforementioned culturing-related biases, it was demon- strated that atherosclerotic plaques harboured a diverse and variable fungal community (Ott et al. ). Although the study was limited to the most reliable and inexpensive molecular
+
+496	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+techniques available at the time (DGGE, clone libraries and flu- orescence in situ hybridisation), 19 fungal phylotypes were de- tected and 35 out of 38 patients were positive for fungal DNA presence by either PCR or in situ hybridisation analysis. This re- search coupled with previous analysis for bacteria in atheroscle- rotic plaques suggests a polymicrobial nature to cardiovascular disease (Ott et al. ).
+Other diseases affecting the circulatory system such as vas- culitis, for example, have also been linked to an underlying in- fectious agent (Pagnoux, Cohen and Guillevin ). Thus, dis- eases of unknown aetiology, such as Kawasaki disease (KD) which primarily affects the coronary arteries and is normally treated with and responds to immunoglobulin have been the focus of fungal investigations. Ishibashi and colleagues postu- lated that as the administration of Candida  cell  wall antigens  to mice induced KD-like symptoms in mice that the response   of human KD sufferers to fungi warranted further investigation. Using b-glucan (BG) as their preferred target, it was shown that although anti-BG antibodies were present in controls, those suf- fering from KD have significantly higher levels which also in- creased with age. As KD is often misdiagnosed when specific dis- ease criteria are not met, this correlation with fungal antigens may serve to not only provide an insight into the disease aeti- ology but may also lead to better diagnostic abilities (Ishibashi et al. ).
+
+FUNGAL-HOST INTERACTIONS
+To date, gut research has largely focused on the bacteria (Shanahan , ) and animal models have been exten- sively exploited to study how members of the gut bacteria in- teract with the host immune system in this regard (Hooper and Gordon ; Hooper, Littman and Macpherson ; Everard et al. ). Similarly, studies on host-fungal interactions are emerging (Brown, Denning and Levitz ; Iliev et al. ) and in the following section, we review what is known about fungal- host interactions and their impact on disease, with a particular emphasis on diseases of the gut.
+The immune system is in constant contact with a myr-   iad of fungal species (Underhill and Pearlman ) and thus has a number of defence mechanisms against fungal infection (Pitman and Blumberg ; Crameri and Blaser ). One of the first lines of defence against fungi are mucosal membranes such as those that line the gut (Mowat and Viney ; Pitman and Blumberg ; Calo-Mata et al. ) and lungs (Crameri and Blaser ). These epithelial layers comprise part of the in- nate immune system and, although some fungi colonise these regions as commensal organisms (Iliev and Underhill ; Un- derhill and Iliev ), fungal infection or mycoses usually only becomes an issue when there is a problem with barrier func- tion (Ford et al. ; Weindl, Wagener and Schaller ). These type of mycoses are important as fungal infections are difficult to treat due to the limited number of antifungal drugs avail- able (Gonzalez et al. ), lack of antifungal vaccines (Cutler, Deepe and Klein ) and the prospect of antifungal resis- tance (Pfaller and Diekema ; Arendrup ). Fungal infec- tions are also difficult to diagnose as clinical manifestations of disease can vary from patient to patient (Ott et al. ; Duani et al. ).
+A successful immune response relies on the ability of the host to distinguish self from non-self and is mediated by the innate and adaptive immune system (Blanco and Garcia ; Tierney et al. ). The innate immune system plays a cru- cial role and facilitates the recognition of a range of microbes
+
+
+through its ability to perceive various microbial signatures in- cluding lipoproteins and microbial DNA. Host cells bearing pat- tern recognition receptors, such as those of the innate immune system and many epithelial cells (Eriksson et al. ), are able to detect fungal cell components such as the fungal cell wall which contains a number of specific structural polysaccharide components such as chitin, mannan and BG (Smits et al. ; Poulain and Jouault ; Abbott et al. ). These fungal cell wall components are detected by the host's immune system and are known as pathogen-associated molecular patterns (PAMPs) (Netea et al. ). Upon recognition of the fungal PAMPs, the in- nate immune response is activated and switches on a variety of intracellular signalling pathways causing proinflammatory and antimicrobial responses, eventually resulting in the activation of gene expression and the synthesis of a broad range of molecules, including cytokines, chemokines, cell adhesion molecules and immune receptors that direct the adaptive immune response to invading fungal pathogen (Netea et al. ; Tang et al. ). As outlined, this recognition of microbes ultimately gives rise to adaptive immunity. However, not all microbes cause the same response or the same level of response from the host. This is largely due to the variety of PAMPs present on any microbial cell and the corresponding cocktail of innate immune recognition receptors activated by any given invading microbe. Thus, just because one fungal species elicits one response in a particular environment, that same response will not necessarily occur for all fungal species (White et al. ).
+BG is a major structural component of the fungal cell wall and is known to interact with Dectin-1 (Brown and Gordon ), which is a type II transmembrane receptor that contains a single extracellular C-type lectin domain. Dectin-1 is thus known as a C-type lectin receptor (CLR) and acts by binding BGs and plays a role in the phagocytosis of fungal cells by macrophages and also in the production of reactive oxygen species. Dectin-1 is able to cooperate with Toll-like receptors (TLR)s, such as TLR 2 (Gantner et al. ) as well as functioning independently, to elicit the pro- duction of reactive oxygen species when previously exposed to lipopolysaccharides and bacterial lipoproteins. This shows that these microbial components are capable of causing independent (Taylor et al. ; Ferwerda et al. ), yet co-operative inflam- matory responses and that the recognition of these components is possible by  both of these receptors independently (Gantner   et al. ).
+Several genetic polymorphisms have been identified which can potentially predispose the host to various GI diseases such as ulcerative colitis (UC) (McGovern et al. ). These polymor- phisms have also been implicated in causing an altered im- mune response to specific fungal species (Glocker et al. ), the gut microbiome (Knights, Lassen and Xavier ) and the gut mycobiome (Iliev et al. ). It has been shown previ- ously that mice have a diverse and abundant gut mycobiome (Scupham et al. ), and a study performed in mice showed that a polymorphism in the gene for Dectin-1 (CLEC7A in hu- mans) is linked to a severe form of UC. As outlined, Dectin-1 recognises b-1, 3-glucans present on the surface of almost all fungal cell walls and facilitates interactions with the indige- nous mycobiome and the host response. When this response      is altered, Dectin-1 can activate cytokine production and an inflammatory response against otherwise commensal fungi in the murine gut occurs (Iliev et al. ). Interestingly and con- verse to previous data (Iliev et al. ), it has been shown that Dectin-1 is not required in the control of Candida albicans in the GI tract and is only necessary in the control of systemic infection (Vautier et al. ).
+
+Huseyin et al.	497
+
+
+In addition to Dectin-1, other CLRs have also been shown to recognise fungal cells. This includes Dectin-2 and Dectin-3 that recognise a-mannan which can be found on the surface of fun- gal hyphae. The role of Dectin-3 and its interaction with com- mensal fungi in the gut was recently investigated using a mouse model (Wang et al. ). It was observed that mice deficient  in Dectin-3 were more susceptible to chemically induced coli- tis than wild-type mice and that antifungal treatment could pro- tect the Dectin-3-deficient mice from colitis (Wang et al. ). Although the benefits of such antifungal treatments to modulate the gut mycobiome in human inflammatory bowel disease (IBD) sufferers are currently unknown, these authors are currently re- cruiting human colitis patients with the aim of screening for the presence of Dectin-3 mutations. However, caution must be ap- plied when translating results from mouse studies into human studies and treatments (Stappenbeck and Virgin ) as the use of antifungal drugs in another mouse model study worsened   the outcome of colitis and allergic airway disease, selected for antifungal resistance and also perturbed the intestinal bacterial community structure (Wheeler et al. ).
+
+The gut mycobiome in disease
+The human mycobiome has been linked to a plethora of gut- associated diseases including IBD (Ott et al. ; Iliev et al. ; Li et al. ; Mukhopadhya et al. ; Chehoud et al. ; Liguori et al. ; Mar et al. ); fungal infections (Praneenararat ); colorectal adenomas (Luan et al. ); pouchitis following illeal pouch anal anastomosis (Kuhbacher ), diarrhoea (Sangster et al. ) and intestinal allografts (Li et al. ), thus making it a key factor in influencing the health status of the host (Bussey ; Ott et al. ; Chen et al. ; Iliev et al. ), see also Box 2.
+
+Inflammatory bowel disease
+The most compelling evidence supporting a role for the gut my- cobiome in human intestinal disease comes from the study of IBD (Richard et al. ). IBD is a collective term used to refer to a group of inflammatory disorders of the GI tract, namely Crohn's disease (CD) and UC. Although the aetiology of IBD re- mains unknown and the diagnosis of IBD requires a consortium of different tests, including clinical presentation, radiographic and endoscopic examinations and other histological criteria, a number of different factors have been implicated. This includes the gut microbiota, particularly the bacterial, and more recently, the fungal components of the community (Scanlan et al. ; Moyes and Naglik ; Sokol et al. ). Several studies have shown that the bacterial community structure is altered in indi- viduals with IBD compared to controls with a loss of anaerobic species diversity which can have a profound effect on mucosal inflammation in IBD (Ott et al. ; Korzenik ; Thompson- Chagoya'n, Maldonado and Gil ; Scanlan et al. ; Liguori et al. ). More recently, studies investigating fungi in both mouse models and human cohorts, including infants, indicate that the presence of certain specific fungal species is altered in IBD when compared to controls (Ott et al. ; Mukhopadhya et al. ).
+One of the first studies investigating the mycobiome in IBD highlighted distinct differences between IBD and control groups; however, no particular fungal species were exclusively associ- ated with disease (Ott et al. ). A subsequent study analysing the bacterial and fungal communities in individuals with CD showed a reduction in bacterial diversity and an increased fun- gal load in patients with CD compared to healthy controls (Liguori et al. ). Unfortunately, this study was limited due to aforementioned issues with NGS data and publicly available fun-
+gal databases and as a result 22% +- 19% of sequences for healthy
+controls and 10% +- 10% in CD patients were assigned as uniden- tified fungi. In contrast to earlier work (Ott et al. ), fungal di- versity was not significantly different between the two groups when assessed by qPCR; however, fungal load was significantly increased in cases of CD flare. Although genus and species level changes (which were not observed in earlier work; Ott et al. ) were noted (Liguori et al. ), this disparity between the stud- ies is probably due to the differences in the methodologies used. However, the authors did detect one species of note, C. glabrata, which was positively correlated with CD (Liguori et al. ).
+A more recent study of 235 patients with IBD, and 35 healthy controls, also found differences between the mycobiome of these two groups (Sokol et al. ). Although differences within the IBD group (which comprised both UC and CD patients) and between remission and relapse samples were evident, the main findings highlighted an increased Basidiomycota/Ascomycota ratio, together with increased proportion of C. albicans and Malassezia sympodialis and a decreased proportion of Saccha- romyces cerevisiae in IBD compared with healthy controls. Sig- nificant differences were also observed between remission and relapse within the IBD cohort. For example, C. albicans was sig- nificantly increased in numbers during relapse compared to re- mission. Interestingly, fungal diversity was only decreased in UC. This finding coupled with the bacterial analysis of the sam- ples led the authors to suggest that the specific gut environment of individuals with CD disease may favour fungi at the expense of bacteria (Sokol et al. ). These inter-kingdom perturba- tions have been also noted by others: a study investigating the microbiome in UC did not detect any overall difference in fun- gal a-diversity or b-diversity between UC patients and controls
+
+498	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+despite seeing a significant depletion in bacterial diversity in UC patients. Furthermore, no effect of ethnicity (European/South Asian) on fungal community composition in UC was noted (Mar et al. ). However, when patients were separated into four subgroups based on microbial co-association (as described in Lewis et al. ), the subgroup with the most severe UC was found to be enriched for C. albicans and Debaryomyces species as well as the bacterial genus Bacteroides. This increase in the Sac- charomycetales fungal order has been reported in a number of earlier studies into IBD (Li et al. ; Chehoud et al. ; Lewis et al. ); however, it remains unclear as to the cause of this expansion. The earlier study which investigated both the mu- cosal and faecal mycobiome in CD by Li et al. () also showed some alterations between healthy and CD patients (faecal sam- ples) and between inflamed and non-inflamed regions of the in- testinal mucosa (biopsies). This study also demonstrated corre- lations between the mucosal mycobiome and the host as has been observed in mice (Iliev et al. ).
+Studies investigating inter-kingdom interactions between fungi and bacterial populations in the gut are increasing and are especially evident in studies into IBD as outlined in a num- ber of the studies discussed earlier (Lewis et al. ; Hoarau et al. ). However, converse to many studies on IBD, a study that focused exclusively on CD patients, their healthy relatives and an unrelated healthy group found that fungal richness was increased in the unrelated healthy group. Moreover, bacterial richness was also decreased in the healthy group when com- pared to the CD and CD relatives groups. Taken collectively, these data highlight both the intrinsically complex relation- ship between bacteria and fungi irrespective of disease sta- tus (Hoarau et al. ) and an important caveat when using 16S and ITS metagenomic sequencing to draw conclusions on inter-kingdom interactions. This caveat relates to differences in how the 16S and ITS sequences are grouped. For example, ITS-based sequence analysis enables accurate classification to species level whereas 16S analysis is more suited to genus and family level analysis. This, coupled with difficulties in compu- tationally dealing with differences in sequence length between fungal species and similarity thresholds which can allow the grouping of distantly related fungal species into single OTUs, can ultimately result in significant correlations being reported that are in fact just artifacts of the analysis (Peay, Kennedy and Talbot ).
+The mycobiome of paediatric IBD patients has also been in- vestigated (Mukhopadhya et al. ; Chehoud et al. ; Lewis et al. ). The initial failure to amplify fungal DNA from all of the samples in the study by Mukhopadhya and colleagues led the authors to suggest the DNA extraction method was a possi- ble cause. Where samples were successfully amplified and anal- ysed, the authors did note that the Basidiomycota phylum was dominant in paediatric IBD sufferers compared to Ascomycota in controls (Mukhopadhya et al. ) as is observed in adults (Sokol et al. ). A subsequent study into paediatric IBD ob- served that the species present in samples from healthy adults overlapped with both paediatric controls and paediatric IBD suf- ferers and also that the abundance of fungal species present significantly differed between the control and IBD paediatric groups. Candida OTUs were enriched in samples from IBD pa- tients; however, the most prevalent OTU could not be assigned a single species name due to annotation issues. The second most prevalent species was C. parapsilosis which was also higher in paediatric IBD samples. Finally, a third OTU Cladosporium cla- dosporioides was observed more frequently in healthy samples (Chehoud et al. ).
+
+
+Perhaps one of the most interesting studies into the gut mi- crobiome to date involved a shotgun-metagenomic sequencing- based longitudinal analysis of paediatric CD patients and healthy control samples (Lewis et al. ). This approach af- forded the researchers an insight into the role of the myco- biome that was free of errors and bias due to primer choice and PCR. Although more expensive than ITS sequencing, the use of shotgun-metagenomic sequencing is becoming more common- place in surveys of the gut bacteria (Jovel et al. ) as shot- gun sequencing removes the necessity of several individual am- plicon sequencing strategies to get the complete compositional 'picture'. Using this methodology, a study by Lewis et al. () found that the relative proportion of fungi present increased with both disease status and antibiotic use but was reduced by diet therapy. Here, CD participants were separated into two dis- tinct groups based on their bacterial composition, one of which was much more similar to healthy controls than the other. The more altered group was linked to prior use of antibiotics and had increases in specific fungi and also higher concentrations of human DNA in their faeces. A total of five fungal taxa were de- tected in the study, all of the Saccharomycetales fungal order,i.e.
+S. cerevisiae, Clavispora lusitaniae, Cyberlindnera jadinii, C. albicans and Kluyveromyces marxianus, and all were positively enriched in CD and positively associated with a changed bacterial composi- tion (Lewis et al. ). It is also worth noting that although we outlined earlier that diet can have a profound effect on the my- cobiome, this particular study is the first to look at the effect of  a defined formula diet on the mycobiome.
+With respect to members of the Saccharomycetales, such as
+S. cerevisiae, interactions between fungi and the host are not only relevant to the complex aetiology of IBD (Main et al. ; Sutton et al. ; Zwolinska-Wcislo et al. ) but may also provide a potential method for diagnosis (Joossens et al. ). For ex- ample, the clinical presentations of UC and CD are often quite different but in ~10% of cases it is not possible to distinguish between UC and CD, and in this scenario the condition is re- ferred to as indeterminate colitis (IC) (Joossens et al. ). How- ever, given that ~60% of patients diagnosed with CD have anti-S. cerevisiae antibodies which are directed against oligomannosidic epitopes of the S. cerevisiae cell (Sutton et al. ; Standaert- Vitse et al. ), research into methods to better classify IC pa- tients has included the use of fungal species-specific investiga- tions targeting these serological markers. Although the use of such an approach provides a further diagnostic test for patients diagnosed with IC (Joossens et al. ), it also further implicates fungi in the disease aetiology of IBD and GI disease (Jawhara et al.).
+
+Post-operative and nosocomial infections
+The gut mycobiome is also implicated in infections and compli- cations associated with surgical procedures, and consequently the mycobiome has been investigated in this regard. For exam- ple, Hirschsprung disease is a congenital condition affecting the gut in infants and children. It is often treated with surgery to re- move or bypass the diseased region of the colon but is frequently followed by the complication Hirschsprung-associated entero- colitis (Frykman et al. ). Eighteen Hirschsprung disease pa- tients that had corrective surgery were enrolled in a study to analyse the potential aetiology of Hirschsprung-associated en- terocolitis and the effect the gut microbiota may have in the condition. The mycobiome analysis showed a reduction in fun- gal diversity in the enterocolitis group with increased Candida spp. which could be further subcategorised into high and low
+
+Huseyin et al.	499
+
+
+C. albicans burden. Enterocolitis patients classified as having low C. albicans burden had similar C. albicans abundance to their Hirschsprung disease controls. The enterocolitis group also showed reduced Malassezia and Saccharomyces spp.; however, it is not known whether the overall reduced diversity and increased Candida spp. is as a result of the enterocolitis or if the presence of high C. albicans levels may play a role in the disease aetiology (Frykman et al. ).
+Fungi are also a frequent cause of post-operative nosocomial infections following intestinal transplants (Primeggia et al. ), thus making mycobiome studies of relevance to both our under- standing of their role in such infections associated with intesti- nal transplants (Li et al. ) and other surgical procedures, in- cluding those required for the management of IBD (Kuhbacher ). Similar to Hirschsprung-associated enterocolitis, pouchi- tis is a major post-operative complication associated with illeal pouch anal anastomosis, which is the procedure of choice in the surgical management of UC. The syndrome is clinically charac- terised by variable symptoms and includes increased stool fre- quency and fluidity, rectal bleeding, abdominal cramping, ur- gency and tenesmus, incontinence, fever and extra-intestinal manifestations (Gionchetti et al. ). As such, probiotic bac- teria have been investigated for their ability to affect the coloni- sation of fungi in the GI tract and also for their ability to main- tain remission in patients diagnosed with pouchitis (Gionchetti et al. ; Trojanowska et al. ). In an attempt to determine the mechanisms underpinning the observed protective effects, researchers characterised the bacterial  and  fungal  microbiota in patients post-probiotic treatment (Kuhbacher ). The pa- tients recruited for the study were those who had developed pouchitis after treatment with a placebo. The subsequent study found that the probiotic therapy maintained remission and most importantly was accompanied by a higher bacterial and a re- duced fungal diversity. Interestingly, fungal diversity was also reduced in the placebo group; however, the level of statistical significance was not reported (Kuhbacher ). Ultimately, it is unclear if the observed initial high diversity could be related to the initial dose of antibiotics prior to commencement of either the probiotic therapy or the placebo.
+
+
+GUT MYCOBIOME OF IMMUNOCOMPROMISED HOSTS
+It is well recognised that many fungal species are clinically relevant opportunistic pathogens in susceptible and immuno- compromised patients (Gumbo et al. ; Campisi et al. ; Agirbasli,   O" zcan   and   GedikogV lu   ;   Jayshree   et   al.   ; Kashyap, Bhalla and Uppal ; Geramizadeh et al. ; Esebelahie, Enweani and Omoregie ; Hammoud et al. ; Praneenararat ). Moreover, although the underlying cause of immunocompromisation in individuals and patients may differ, this group are particularly susceptible to invasive fungal infec- tion regardless of the cause of the immune suppression. In the following sections, we highlight a number of case studies that have investigated the mycobiome in a range of different groups of potentially immunocompromised individuals.
+
+
+Paediatric patients and infants
+Immunocompromised paediatric patients, diagnosed with vari- ous haematologic malignancies or disease, as well as congenital immunocompromisation, have been studied to assess the pres- ence and effect of their indigenous mycobiomes (Taylor, Kropp
+
+and Molina ; Agirbasli, O" zcan and GedikogV lu ). The his- toric study of a child born with the condition severe combined immunodeficiency enabled researchers to assess fungi in an immunocompromised host in the absence of a 'disease' back- ground (Taylor, Kropp and Molina ). Although limited to a single individual, researchers were able to investigate the preva- lence and diversity of fungi colonising the GI tract of a child living in a controlled environment through time. In addition to low sample power, the methods were limited and should ide- ally be repeated with modern technologies. Nonetheless, the re- sults were interesting and it was noted that while Candida was recovered in 45.5% of the faecal samples over time, colonisation did not result in invasive infection or disease over the course of the study (Taylor, Kropp and Molina ). Given the reduced capacity of the patient's immune system to produce immune cells such as B cells and T cells, further research into such an immunocompromised human cohort could reveal clues as to how fungi transition from commensalism to pathogenicity in immunocompromised hosts.
+Although many infants are not adversely affected by fun- gal colonisation, neonates are considered a risk group for my- coses, with infections representing a large contributing factor to morbidity and mortality (Feja et al. ). Moreover, the fun- gal colonisation of neonates can also contribute to opportunistic invasive fungal infections (Rowen ; Brian Smith, Steinbach and Benjamin ) with the greatest threat associated with the presence of potentially invasive fungal pathogens in preterm and underweight neonates that are at risk of developing inva- sive diseases such a necrotising enterocolitis and sepsis. As such preterm infants are often treated with antifungal agents prophy- lactically (Stewart et al. ).
+Although the importance of the mycobiome as a risk factor in premature and underweight neonates is recognised, it remains to be fully investigated. However, this topic is receiving increas- ing interest, especially given the fact that neonates are often treated with antibiotics which can further increase the risk of invasive disease by fungi such as Candida. A recent study high- lighted a surprising diversity of fungi in a large proportion (64%) of extremely low birth weight infants (LaTuga et al. ). Of the 7 (of 11) infants positive for fungi, Saccharomycetales was the most prevalent and abundant order, constituting 38.2% of amplicons (LaTuga et al. ). Earlier studies of fungal coloni- sation of the very low birth weight infant (<1500 g) showed a fungal colonisation rate of 26.7% (Baley et al. ). This coloni- sation significantly contributed to risk factors such as cutaneous and systemic candidiasis as one third of the infants' colonised developed mucocutaneous candidiasis and 7.7% developed sys- temic disease despite the prophylactic use of antifungal agents. Although the study did not investigate whether colonisation was linked to the delivery method, it was noted that a greater num- ber of infants that were colonised had been delivered vaginally compared to those delivered by caesarean section (Baley et al. ).
+
+Diabetes
+Type 1 diabetes (T1D) is an increasingly prevalent autoimmune disorder that has been the focus of microbiome research includ- ing mycobiome analysis (Gosiewski et al. ; Soyucen et al. ; Kowalewska et al. ). In a recent study that compared the mycobiome of 53 children with T1D to 30 matched healthy controls, it was observed that children with T1D had signifi- cantly higher fungal species diversity despite there being no significant difference in the overall level of fungi in each group. A
+
+500	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+lower incidence of Candida albicans was also reported in the case group (62% of all isolates identified) compared to controls (C. albicans accounted for 85% of strains identified). However, the recovery of the greater diversity of strains from the T1D cohort rather than a true reduction in C. albicans levels likely skewed the data in this manner (Kowalewska et al. ). Other stud- ies have demonstrated a correlation between fungi, specifically
+C. albicans, in the gut and diabetes using qPCR (Gosiewski et al. ). More specifically, a higher prevalence of C. albicans in the guts of individuals with types 1 and 2 diabetes was observed compared with control subjects; however, no difference was observed between the diabetic cohorts (Gosiewski et al. ). An increased prevalence of C. albicans has also been observed in paediatric diabetic groups, where C. albicans was present in 40% of diabetic patients compared to only 14.3% of controls (Soyucen et al. ). Gosiewski and colleagues also observed a negative correlation between the quantity of Candida and the level of serum lipids in the diabetic patients. Nonetheless, the significance of a higher prevalence of Candida in individuals with diabetes and an understanding of the actual role of this microor- ganism in disease requires further work.
+
+Graft-versus-host disease
+Another immunocompromised condition that is relevant to gut mycobiome research is graft-versus-host disease (GVHD). GVHD is a frequent complication of many transplants including haematopoietic stem cell, allogeneic stem cell and bone marrow transplants, and is caused by the transplanted cells attacking the transplant recipients' cells. GVHD frequently involves the GI tract and even though symptoms can vary, the most common include nausea, vomiting, anorexia and secretory diarrhoea and in severe cases GI bleeding, protein-losing enteropathy and ileus may also be seen (Deeg and Antin ). GVHD is a leading cause of morbidity and mortality and although the role of bacteria in GVHD is well established (Washington and Jagasia ), until recently, the role of the mycobiome in the disease had not been recognised. In the only study in this area to date, similarities between GI-GVHD and IBDs were noted (van der Velden et al. ). Thus, researchers sought to investigate if any relation- ship between fungal colonisation (specifically Candida colonisa- tion) and immune receptors such as Dectin-1 function (Ariizumi et al. ; Iliev et al. ) could also be applied to the patho- genesis of GI-GVHD (van der Velden et al. ). Although there was no direct effect of Dectin-1 dysfunction on acute GVHD, the authors did observe that the mycobiome did have an indirect effect through the prevalence and extent of Candida colonisa- tion. Moreover, a higher progression rate of grades II-IV acute GVHD and GI-GVHD was observed in patients colonised by Can- dida spp. than those that were not. However, no effect was seen in patients with isolated acute skin GVHD (van der Velden et al. ).
+
+Rett syndrome
+As outlined, the aetiology of many diseases is complex and mul- tifactorial and consequently a systems biology approach is often required to elucidate the cause and subsequent progression of many diseases. Moreover, in most cases it is remains unclear if changes in the mycobiome are a consequence of the disease condition or may play a role in disease progression. It has been noted in Rett syndrome (RTT), a progressive neurological dis- order, that both the mycobiome and bacterial microbiome are altered when compared to healthy controls. Although individ-
+
+
+uals with RTT harbour a reduced diversity of fungi when com- pared to controls, this finding was not associated with the main GI symptom associated with RTT (i.e. constipation). However, a significantly higher relative abundance of Candida was observed in RTT subjects (Strati et al. ).
+
+Infectious viruses--hepatitis B and HIV
+Infectious viruses that affect host immunity including hepatitis B and HIV can alter the potential role of other microbes, such as fungi, in disease exacerbation and progression. As a conse- quence, a number of studies have sought to characterise the role of the mycobiome of individuals that have been immunocom- promised by viral infections. One particular study looked at the correlation between fungi present in the GI tract and varying de- grees of chronic hepatitis B infection using culture-independent techniques (Chen et al. ). It was found that patients with hepatitis B-associated liver cirrhosis had higher fungal species richness in their guts compared to patients with chronic hep- atitis B. In contrast, little difference was observed in the enteric fungal diversity of participants positive for the hepatitis B virus and the mycobiome of healthy controls. These results indicate that the diversity of enteric fungi is positively correlated with the progression and severity of the disease in patients with vary- ing degrees of chronic hepatitis B infection (Chen et al. ). It is important to note, however, that this correlation does not distin- guish between cause and effect, which remains to be elucidated.
+A considerable research effort has also focused on mycoses in HIV and AIDS patients given the clinical significance of fun- gal infections in the 37.0 million people living with HIV/AIDS worldwide (Park et al. ; Jha et al. ; Esebelahie, Enweani and Omoregie ; Mukherjee et al. ; Platt et al. ). Re- searchers have targeted the mycobiome as a source of oppor- tunistic fungal infection (Schulze and Sonnenborn ) and also due to fungal-associated comorbidities in HIV/AIDS which include diarrhoea wasting syndrome (Kashyap, Bhalla and Uppal ). Avenues of investigation in this cohort include var- ious studies into digestive distress to discover any potential un- derlying fungal causes of diarrhoea in patients with HIV/AIDS (Kashyap, Bhalla and Uppal ). As a number of different or- ganisms are potentially responsible for causing diarrhoea in HIV/AIDS patients (Jha et al. ), researchers have surveyed the gut microbiota to assess any differences between patients that are seropositive and seronegative for HIV in order to bet- ter understand the underlying cause of the symptom and thus improve patient outcomes. The results showed that the preva- lence of fungi in the gut of those seropositive for HIV was con- siderably higher than those seronegative for HIV (Jha et al. ). Differences in Candida carriage have also been observed in HIV patients with respect to HIV treatment (Esebelahie, Enweani and Omoregie ). Patients taking aggressive anti-retroviral ther- apy, when compared to controls and HIV patients not using the aggressive treatment, had similar Candida levels to the control group. Within the HIV patient group, significant differences were also observed with respect to age and gender. Although the rea- son for this is unclear, it was suggested that the impact of age and gender was due to decreased immune function and poten- tial hormone imbalances, respectively (Esebelahie, Enweani and Omoregie ).
+
+Candida spp. and polymicrobial interactions in the gut
+In this final part of the review, we first elaborate on some addi- tional Candida research that is relevant to the study of the gut
+
+Huseyin et al.	501
+
+
+
+mycobiome given the apparent ubiquity and considerable di- versity of Candida spp. that have been detected in the human gut (see Fig. , , Table  and Table S1). Although members of this genus are generally regarded as commensal fungi in the hu- man GI tract of healthy individuals, certain Candida species may also be opportunistic pathogens and affect the host, for exam- ple, during antibiotic treatment or when changes in the disease and immune status of the host occur resulting in Candida over- growth. Consequently, Candida spp. are frequently linked with a perturbed GI environment and disease (Wingard et al. ; Jawhara et al. ; Kumamoto ; Dollive et al. ; Strati et al. ). This, coupled to its ecological relevance and ease of cul- tivation, makes Candida a model organism for in vivo and in vitro analysis of fungal-host and fungal-bacterial interactions rele- vant to human health and disease (Reales-Caldero' n et al. ). In this regard, we also discuss what is known about Candida (and other fungal species) interactions with other members of the gut microbial community.
+A key aspect of Candida virulence is cell morphology and this is also likely to be relevant to other opportunistic fungal species. For example, C. albicans can exhibit three different morpholo- gies. The first is the unicellular yeast form and the second two are distinctly different filamentous forms consisting of pseudo- hyphae and hyphae. The ability and mechanism by which C. albi- cans switches between morphologies has been investigated with a view to understand the mechanisms involved and also as a potential means to modulate morphological variation (Vylkova et al. ). Nonetheless, this ability of fungi to form hyphae does not necessarily infer an ability to go undetected by the im- mune system. For example, Wang et al. () observed that hy- phal fragments from two distinct fungal pathogens were suffi- cient to induce cytokine production in vitro. One study of the in- teractions between Dectin-1 and the fungal species C. albicans has shown that Candida in the filamentous form does not il-  licit a response from Dectin-1 but that the yeast form of the fungi does (Lo et al. ; Gantner, Simmons and Underhill ). Other studies have also highlighted the link between cell mor- phology in Candida spp. and its role in pathogenicity (O'Meara et al. ).
+As outlined earlier, the gut mycobiome has been impli- cated in the development of allergic asthma in children. Can- dida species have also been implicated in the development of food allergies and allergic airway disease (Noverr et al. ). A study utilising a murine model of chronic Candida GI colonisa- tion was achieved without the use of antibiotics or immuno- suppressive agents, and they found that Candida colonisation did in fact promote sensitisation to food allergens (Yamaguchi et al. ). The study sought to further investigate the mech- anism by which sensitisation occurred and this was achieved by investigating the role of mast cells in the development of food allergy. It was observed that Candida colonisation did in- deed promote the infiltration and degranulation of mast cells (Yamaguchi et al. ). It has also been shown that Candida species produce substances, such as alcohol and prostaglandin (Noverr, Erb-Downward and Huffnagle ), that have a proin- flammatory effect on the host (Albuquerque and Casadevall ). Consequently, it was hypothesised that fungal colonisa- tion may play a role in allergic airway inflammation. One study conducted concluded that Candida overgrowth was responsible for the promotion of macrophage polarisation resulting in al- tered macrophages phenotypes due to prostaglandin production in the gut by Candida and that this was sufficient to cause an increase in allergic airway inflammatory cell infiltration in the lung (Noverr et al. ).
+
+
+Finally, the importance of polymicrobial interactions includ- ing those between fungi and bacteria is receiving increasing re- search attention. Although the majority of studies into the gut microbiome have looked at the bacterial and fungal commu- nities independently (Peleg, Hogan and Mylonakis ; Oever and Netea ; Chehoud et al. ), ideally, both communi- ties should be studied together as each population is capable     of interacting with each other and the host (Gale and Sandoval ; Mason et al. ,). A range of fungal-bacterial inter- actions have been  characterised  and  these  relationships  can be synergistic, antagonistic, commensal or symbiotic in nature (Kerr ; Klaerner et al. ; Hogan and Kolter ; Wargo and Hogan ; Peleg, Hogan and Mylonakis ; Bor et al. ; Kalan et al. ). They can influence both physical and physiological characteristics and induce morphological changes (Hogan and Kolter ) as well as altering the normal responses to antimicrobial agents and aid in their survival in adverse en- vironments. The majority of studies of bacterial-fungal interac- tions focus on the interaction between C. albicans and various pathogenic bacterial species that are able to co-habit with C. al- bicans and cause mixed population persistent biofilms, and thus are an important source of inoculation, particularly for nosoco- mial infections (Hogan and Kolter ; Hogan, Vik and Kolter ; Nobile and Johnson ).
+As outlined earlier, Candida is a polymorphic fungus and sev- eral studies have alluded to changes in the morphology being an important factor in the virulence of the species with the yeast form linked to fungal commensalism and the filamentous form implicated in opportunistic infection (Lo et al. ). Interactions between various fungi and bacteria in mixed populations such as those inhabiting the gut are attracting increasing interest as the ability of various strains of bacteria to modulate the mor- phological state of Candida, and potentially other fungi, is im- portant in the combined virulence of mixed infections (Allison et al. ; Bor et al. ; Liang et al. ). The polymicrobial nature of many infections has highlighted the ability of differ- ent microbes, often from diverse taxonomic groupings, to form synergistic relationships. These mutualistic or synergistic rela- tionships can provide protection from antibiotics and extracel- lular enzymes and also facilitate the breakdown of complex sub- strates. These interactions not only contribute to an organism's ability to survive in a mixed microbial community but also, po- tentially, within a hostile host environment (Gulati and Nobile ).
+Studies have also shown that quorum-sensing molecules from the bacterium Pseudomonas aeruginosa can alter the mor- phology of C. albicans in both liquid and solid media. Here, a 3-oxo-C12 homoserine lactone P. aeruginosa cell-cell signalling molecule was shown to mediate the observed morphology of Candida without adversely affecting the growth rate of the fungi (Hogan, Vik and Kolter ). Escherichia coli, a bacterial species prevalent in the human gut (Gao, Zhao and Huang ), has also been shown to act synergistically with C. albicans. Utilis- ing a murine model of complex polymicrobial infection, results showed that mice infected with a lethal dose of C. albicans com- bined with E. coli died significantly faster than mice infected with C. albicans alone (Ikeda et al. ). Escherichia coli also ben- efitted from its interaction with C. albicans in a polymicrobial biofilm that increased its resistance to antibiotics (De Brucker  et al. ). As both these microbes are present in the human gut, it is interesting that C. albicans conferred a protective effect from antibiotic treatment in a bacterium; however, further studies in an in vivo model will be necessary to investigate this potential effect in the gut.
+
+502	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+Microbial interactions are contingent on local environmen- tal conditions and consequently, these conditions must be ac- counted for which can lead to practical challenges in the lab- oratory.  Challenges such as those that have been observed in  the study of bacterial-host interactions also potentially apply    to bacterial-fungal interactions,  the  results  of  which  suggest it is necessary to mimic the in vivo environment as closely as possible when investigating interactions so as not to effect the observations being made (Nordenfelt et al. ). To circum- vent this problem, one possibility is to look at correlations in  the co-occurrence and relative abundance of different microbes in datasets generated from sequence-based studies. For exam- ple, Candida and Saccharomyces species were positively correlated with the Archaea Methanobrevibacter and both fungal species were also negatively correlated with Nitrososphaera prevalence in one study of the gut mycobiome (Hoffmann et al. ). Syn- trophic models were invoked to explain the correlation between Candida and Methanobrevibacter, and it was suggested that Can- dida may boost the breakdown of starches in carbohydrate-rich foods, freeing simpler sugars that are then fermented by bacte- rial species in the gut and these fermentation products are then available for Methanobrevibacter metabolism. Although no expla- nation was provided by the authors for the negative correlation between Nitrososphaera and Candida and Saccharomyces, it was observed that where Nitrososphaera was detected Methanobre- vibacter was not, suggesting an antagonism between the two (Hoffmann et al. ). More recently, it has also been shown that the virome is also capable of influencing the mycobiome (Plotkin ). Here, the herpes simplex virus was shown to significantly increase the adherence of C. albicans to Hela cells in vitro (Plotkin et al. ). These hypothesised relationships demonstrate the intrinsically complex relationships between fungi and the other inhabitants of the GI tract and highlight the need for much fur- ther research into polymicrobial and inter-kingdom interactions and their impact on host health.
+
+CONCLUSIONS
+Here we have reviewed and highlighted key methods and re- search relevant to the gut mycobiome to facilitate further re- search into this previously neglected area, see also Box 1. Al- though a diverse repertoire of fungal species have been reported from gut mycobiome studies performed to date, the vast ma- jority are affiliated with just two phyla, i.e. Basidiomycota and Ascomycota, in addition to a smaller number of Zygomycota genera. Although members of the phyla Neocallimastigomycota, Chytridiomycota and Glomeromycota have also been reported in human gut mycobiome studies, it is clear upon further interro- gation that these fungal taxa are in fact extremely rare.
+Currently, it remains unclear whether changes in the myco- biome observed in many diseases are a consequence of the dis- ease process or in fact play a role in disease aetiology, see also Box 2. An example of this is the reporting of the genera Candida, Aspergillus Penicillium and Debaryomyces, which are commonly found in the healthy gut mycobiome but are also consistently reported in cases of GI disease and perturbation. These appar- ently contradictory patterns may reflect species or strain-related differences in fungal composition, or contrasting susceptibilities due to host genotype or the composition of other components of the microbiome. Moreover, many of the fungal species detected in gut mycobiome studies are known to be or speculated to be of dietary origin and therefore may only represent a transient component of the community (Suhr, Banjara and Hallen-Adams ).
+
+
+It is also evident that different methodologies can give vastly different accounts of the diversity present in any given sample. Therefore, it is clear that more studies that use comparable and all-encompassing approaches, and that employ both culture- dependent and culture-independent techniques need to be ap- plied to large cohorts of individuals. These individuals should ideally be from different geographical regions and of different health status to enable us to define commonalities and differ- ences between groups and individuals, assess whether a core mycobiota exists and fully appreciate the role of the mycobiome in health and disease. Moreover, bacterial community analysis is currently undergoing certain changes with researchers moving away from amplicon sequencing-based analysis and instead fo- cusing their efforts on shotgun metagenomic sequencing (where budget allows). It is likely that a similar approach would be ben- eficial to the study of the human mycobiome, however, given the infancy of the field, for now, adopting this approach exclusively may be premature. Nonetheless, mycobiome analysis can bene- fit from the lessons and insights that have been unearthed dur- ing the study of the bacterial microbiome and thus researchers are more aware of the long-term potential consequences af- forded by poor methodology choices, insufficient sample size, translation of mouse model results into human treatments, etc. Thus, a multifaceted and multidisciplinary approach is now be- ing applied more frequently (Norman, Handley and Virgin ; Lewis et al. ). Consequently, we are gaining a greater appre- ciation of how the human gut mycobiome can serve as a reser- voir of poorly characterised species of interest, invasive organ- isms and opportunistic pathogens and such studies offer new avenues to explore in the aetiology of disease as well as revealing the extent to which the gut mycobiome can modulate the host response. Characterising the gut mycobiome in terms of species and strain diversity both within and between groups of interest is only beginning and as with any scientific field, the accumula- tion of interesting findings and data will undoubtedly lead to fur- ther novel research (Huffnagle and Noverr ). Moreover, the functionality of the various fungal species including how they interact with the other eukaryotes and prokaryotes present in the gut and more importantly how these interactions affect us, their human hosts' remains to be elucidated. The answers have the potential to be fascinating.
+
+SUPPLEMENTARY DATA
+Supplementary data are available at online.
+
+FUNDING
+This publication is based on research conducted with the fi- nancial support of Science Foundation Ireland (SFI) under Grant Number SFI/12/RC/2273 and a Science Foundation Ireland-Royal Society University Research Fellowship to Pauline Scanlan.
+
+Conflict of interest. None declared.
+
+REFERENCES
+Abarenkov K, Henrik Nilsson R, Larsson K-H et al. The UNITE database for molecular identification of fungi--recent up-  dates and future perspectives. New Phytol 2010;186:281-5.
+Abbott DW, Martens EC, Gilbert HJ et al. Coevolution of yeast mannan digestion: convergence of the civilized human diet, distal gut microbiome, and host immunity. Gut Microbes 2015;6:334-9.
+
+Huseyin et al.	503
+
+
+
+Adams RI, Miletto M, Taylor JW et al. Dispersal in microbes: fungi in indoor air are dominated by outdoor air and show disper- sal limitation at short distances. ISME J 2013;7:1262-73.
+Agirbasli  H,  O" zcan  SAK,  GedikogV lu  G.  Fecal  fungal  flora  of  pe-
+diatric healthy volunteers and immunosuppressed patients.
+Mycopathologia 2005;159:515-20.
+Akaza N, Akamatsu H, Sasaki Y et al. Cutaneous Malassezia mi- crobiota of healthy subjects differ by sex, body part and sea- son: malassezia microbiota in healthy subjects. J Dermatol 2010;37:786-92.
+Albuquerque P, Casadevall A. Quorum sensing in fungi--a re- view. Med Mycol 2012;50:337-45.
+Allison DL, Jayatilake JAMS, Shirtliff ME et al. Candida-bacteria interactions: their impact on human disease. Microbiol Spectr 2016;4, DOI: 10.1128/microbiolspec.VMBF-0030-2016.
+Amend AS, Seifert KA, Bruns TD. Quantifying microbial com- munities with 454 pyrosequencing: does read abundance count?: quantitative pyrosequencing of microbes. Mol Ecol 2010;19:5555-65.
+Amin R. The effect of chronic infection with Aspergillus fumigatus on lung function and hospitalization in patients with cystic fibrosis. Chest J 2010;137:171.
+Andersen LO, Nielsen HV, Stensvold CR. Waiting for the human intestinal Eukaryotome. ISME J 2013;7:1253.
+Anderson IC, Cairney JWG. Diversity and ecology of soil fun- gal communities: increased understanding through the ap- plication of molecular techniques. Environ Microbiol 2004;6: 769-79.
+Araujo R. Towards the genotyping of  fungi:  methods,  benefits and challenges. Curr Fungal Infect Rep 2014;8:203-10.
+Arendrup MC. Update on antifungal resistance in Aspergillus and Candida. Clin Microbiol Infect 2014;20:42-8.
+Ariizumi K, Shen GL, Shikano S et al. Identification of a novel, dendritic cell-associated molecule, dectin-1, by subtractive cDNA cloning. J Biol Chem 2000;275:20157-67.
+Ashbee HR, Evans EGV. Immunology of diseases associated with Malassezia species. Clin Microbiol Rev 2002;15:21-57.
+Back-Brito GN, da Mota AJ, de Souza Bernardes LA^  et al. Effects of
+eating disorders on oral fungal diversity. Oral Surg Oral Med O
+2012;113:512-7.
+Bahl MI, Bergstro" m A, Licht TR. Freezing fecal samples prior to DNA extraction affects the Firmicutes to Bacteroidetes ratio determined by downstream quantitative PCR analysis. FEMS Microbiol Lett 2012;329:193-7.
+Baley JE, Kliegman RM, Boxerbaum B et al. Fungal colonization in the very low birth weight infant. Pediatrics 1986;78:225-32. Banjara N, Nickerson KW, Suhr MJ et al. Killer toxin from several food-derived Debaryomyces  hansenii strains  effec- tive against pathogenic Candida yeasts. Int J Food Microbiol
+2016;222:23-9.
+Bates ST, Ahrendt S, Bik HM et al. Meeting report: fungal ITS workshop (October 2012). Stand Genomic Sci 2013;8:118-23.
+Bazzicalupo AL, Ba'lint M, Schmitt I. Comparison of ITS1 and ITS2 rDNA in 454 sequencing of hyperdiverse fungal communi- ties. Fungal Ecol 2013;6:102-9.
+Begerow D, Nilsson H, Unterseher M et al. Current state and per- spectives of fungal DNA barcoding and rapid identification procedures. Appl Microbiol Biot 2010;87:99-108.
+Bellemain E, Carlsen T, Brochmann C et al. ITS as an environ- mental DNA barcode for fungi: an in silico approach reveals potential PCR biases. BMC Microbiol 2010;10:189.
+Berry D, Ben Mahfoudh K, Wagner M et al. Barcoded primers used in multiplex amplicon pyrosequencing bias amplifica- tion. Appl Environ Microb 2011;77:7846-9.
+
+
+Bik HM, Porazinska DL, Creer S et al. Sequencing our way towards understanding global eukaryotic biodiversity. Trends Ecol Evol 2012;27:233-43.
+Binladen J, Gilbert MTP, Bollback JP et al. The use of coded PCR primers enables high-throughput sequencing of multiple ho- molog amplification products by 454 parallel  sequencing.  PLoS One 2007;2:e197.
+Blackwell M. The fungi: 1, 2, 3 . . . 5.1 million species? Am J Bot
+2011;98:426-38.
+Blanco JL, Garcia ME. Immune response to fungal infections. Vet Immunol Immunop 2008;125:47-70.
+Bliss JM, Basavegowda KP, Watson WJ et al. Vertical and horizon- tal transmission of Candida albicans in very low birth weight infants using DNA fingerprinting techniques. Pediatr Infect Dis J 2008;27:231-5.
+Bokulich NA, Mills DA. Improved selection of internal tran- scribed spacer-specific primers enables quantitative, ultra- high-throughput profiling of fungal communities. Appl Envi- ron Microb 2013;79:2519-26.
+Bokulich NA, Subramanian S, Faith JJ et al. Quality-filtering vastly improves diversity estimates from Illumina amplicon se- quencing. Nat Methods 2012;10:57-9.
+Bor B, Cen L, Agnello M et al. Morphological and physiologi- cal changes induced by contact-dependent interaction be- tween Candida albicans and Fusobacterium nucleatum. Sci Rep 2016;6:27956.
+Borneman J, Hartin RJ. PCR primers that amplify fungal rRNA genes from environmental samples. Appl Environ Microb 2000;66:4356-60.
+Bousbia S, Papazian L, Saux P et al. Repertoire of intensive care unit pneumonia microbiota. PLoS One 2012;7:e32486.
+Brian Smith P, Steinbach WJ, Benjamin DK. Invasive  Can- dida infections in the neonate. Drug Resist Update 2005;8: 147-62.
+Brown GD, Denning DW, Levitz SM. Tackling human fungal in- fections. Science 2012;336:647.
+Brown GD, Gordon S. Fungal b-glucans and mammalian immu- nity. Immunity 2003;19:311-5.
+Brown SP, Callaham MA, Oliver AK et al. Deep Ion Torrent se- quencing identifies soil fungal community shifts after fre- quent prescribed fires in a southeastern US forest ecosystem. FEMS Microbiol Ecol 2013;86:557-66.
+Browne HP, Forster SC, Anonye BO et al. Culturing of "uncul- turable" human microbiota reveals novel taxa and extensive sporulation. Nature 2016;533:543-6.
+Bue'e M, Reich M, Murat C et al. 454 Pyrosequencing analyses of forest soils reveal an unexpectedly high fungal diversity: re- search. New Phytol 2009;184:449-56.
+Buermans HPJ, den Dunnen JT. Next generation sequencing technology: advances and applications. Biochim Biophys Acta 2014;1842:1932-41.
+Bussey H. Host-microbe interactions: fungi. Curr Opin Microbiol
+2005;8:359-61.
+Calo-Mata   P,   Ageitos   JM,   Bo" hme   K   et   al.   Intestinal   micro- biota:  first  barrier  against  gut-affecting  pathogens.  In:   Villa TG, Vinas M (eds). New Weapons to Control Bacterial Growth. Cham: Springer International Publishing, 2016, 281- 314.
+Campisi G, Pizzo G, Milici ME et al. Candidal carriage in the oral cavity of human immunodeficiency virus-infected subjects. Oral Surg Oral Med O 2002;93:281-6.
+Caporaso JG, Kuczynski J, Stombaugh J et al. QIIME allows anal- ysis of high-throughput community sequencing data. Nat Methods 2010;7:335-6.
+
+504	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+Carlsen T, Aas AB, Lindner D et al. Don't make a mista (g) ke: is tag switching an overlooked source of error in amplicon pyrosequencing studies? Fungal Ecol 2012;5:747-9.
+Charlson ES, Diamond JM, Bittinger K et al. Lung-enriched or- ganisms and aberrant bacterial and fungal respiratory micro- biota after lung transplant. Am J Resp Crit Care 2012;186:536- 45.
+Chehoud C, Albenberg LG, Judge C et al. Fungal signature in the gut microbiota of Pediatric patients with inflammatory bowel disease. Inflamm Bowel Dis 2015;21:1948-56.
+Chen Y, Chen Z, Guo R et al. Correlation between gastrointestinal fungi and varying degrees of chronic hepatitis B virus infec- tion. Diagn Micr Infec Dis 2011;70:492-8.
+Clemente JC, Ursell LK, Parfrey LW  et al. The impact of the     gut microbiota on human health: an integrative view. Cell 2012;148:1258-70.
+Colucci F. An oral commensal associates with disease: chicken, egg, or red herring? Immunity 2015;42:208-10.
+Crameri R, Blaser K. Allergy and immunity to fungal infections and colonization. Eur Respir J 2002;19:151-7.
+Cui L, Morris A, Ghedin E. The human mycobiome in health and disease. Genome Med 2013;5:63.
+Cutler JE, Deepe GS, Jr, Klein BS. Advances in combating fun- gal diseases: vaccines on the threshold. Nat Rev Microbiol 2007;5:13-28.
+David LA, Maurice CF, Carmody RN et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature 2013;505:559-63.
+De Brucker K, Tan Y, Vints K et al. Fungal b-1,3-Glucan in- creases Ofloxacin tolerance of Escherichia coli in a polymi- crobial E. coli/Candida albicans biofilm. Antimicrob Agents Ch 2015;59:3052-8.
+De Repentigny L, Phaneuf M, Mathieu L-G. Gastrointestinal col- onization and systemic dissemination by Candida albicans and Candida tropicalis in intact and immunocompromised mice. Infect Immun 1992;60:4907-14.
+Deeg HJ, Antin JH. The clinical spectrum of acute graft-versus- host disease. Semin Hematol 2006;43:24-31.
+Delhaes   L,   Monchy   S,   Fre'alle   E   et   al.   The   airway   micro- biota  in  cystic  fibrosis:  a  complex  fungal  and  bacte-  rial community--implications for therapeutic management. PLoS One 2012;7:e36313.
+Dollive S, Chen Y-Y, Grunberg S et al. Fungi of the murine gut: episodic variation and proliferation during antibiotic treat- ment. PLoS One 2013;8:e71806.
+Dollive S, Peterfreund GL, Sherrill-Mix S et al. A tool kit for quan- tifying eukaryotic rRNA gene sequences from human micro- biome samples. Genome Biol 2012;13:R60.
+Drell  T,   Lillsaar   T,   Tummeleht   L   et   al.   Characterization  of the vaginal micro- and mycobiome in asymptomatic reproductive-age estonian women. PLoS One 2013;8:e54379.
+Dridi  B,  Henry  M,  El  Khe'chine  A  et  al.  High  prevalence  of Methanobrevibacter smithii and Methanosphaera stadt- manae detected in the human gut using an improved DNA detection protocol. PLoS One 2009;4:e7063.
+Duani H, Nunes VRT, Assumpc, a~o AB et al. Bilateral paracoccid- ioidomycotic iliopsoas abscess associated with ileo-colonic lesion. Rev Soc Bras Med Tro 2012;45:649-51.
+Dupuy AK, David MS, Li L et al. Redefining the human oral my- cobiome with improved practices in amplicon-based taxon- omy: discovery of malassezia as a prominent  commensal.  PLoS One 2014;9:e90899.
+Dynowska M, Roslon M, Go' ralska K. Saccharomyces cerevisiae in the respiratory system, digestive system and on the skin      in humans. Acta Mycol 2006;41:139-44.
+
+
+Edgar RC. MUSCLE: a multiple sequence alignment method with reduced time and space complexity. BMC Bioinformatics 2004;5:113.
+Edgar RC. UPARSE: highly accurate OTU sequences from micro- bial amplicon reads. Nat Methods 2013;10:996-8.
+Edgar RC, Haas BJ, Clemente JC et al. UCHIME improves sensitivity and speed of chimera detection. Bioinformatics 2011;27:2194-200.
+Engelbrektson A, Kunin V, Wrighton KC et al. Experimental fac- tors affecting PCR-based estimates of microbial species rich- ness and evenness. ISME J 2010;4:642-7.
+Eriksson M, Johannssen T,  von  Smolinski  D  et  al.  The  C-  type lectin receptor SIGNR3 binds to fungi present in commensal  microbiota  and   influences   immune   regula- tion in experimental colitis. Front Immunol 2013;4, DOI: 10.3389/fimmu.2013.00196.
+Esebelahie NO, Enweani IB, Omoregie R. Candida colonisa- tion in asymptomatic HIV patients attending a tertiary hospital in Benin City, Nigeria. Libyan J Med 2013;8, DOI: 10.3402/ljm.v8i0.20322.
+Everard A, Belzer C, Geurts L et al. Cross-talk between Akker- mansia muciniphila and intestinal epithelium controls diet- induced obesity. P Natl Acad Sci USA 2013;110:9066-71.
+Faircloth BC, Glenn TC. Not all sequence tags are created equal: designing and validating sequence identification tags robust to indels. PLoS One 2012;7:e42543.
+Falagas ME, Betsi GI, Athanasiou  S.  Probiotics  for  prevention of recurrent vulvovaginal candidiasis: a review. J Antimicrob Chemoth 2006;58:266-72.
+Feehery GR, Yigit E, Oyola SO et al. A method for selectively en- riching microbial DNA from contaminating vertebrate host DNA. PLoS One 2013;8:e76096.
+Feja KN, Wu F, Roberts K et al. Risk factors for Candidemia in critically ill infants: a matched case-control study. J Pediatr 2005;147:156-61.
+Ferwerda B, Ferwerda G, Plantinga TS et al. Human Dectin-1 defi- ciency and mucocutaneous fungal infections. New Engl J Med 2009;361:1760-7.
+Fidel PL. History and new insights into host defense against vagi- nal candidiasis. Trends Microbiol 2004;12:220-7.
+Fierer N, Hamady M, Lauber CL et al. The influence of sex, hand- edness, and washing on the diversity of hand surface bacte- ria. P Natl Acad Sci USA 2008;105:17994-9.
+Findley K, Oh J, Yang J et al. Topographic diversity of fungal and bacterial communities in human skin. Nature 2013;498:367- 70.
+Finegold SM, Attebery HR, Sutter VL. Effect of diet on human fe- cal flora: comparison of Japanese and American diets. Am J Clin Nutr 1974;27:1456-69.
+Fonseca VG, Nichols B, Lallias D et al. Sample richness and ge- netic diversity as drivers of chimera formation in nSSU meta- genetic analyses. Nucleic Acids Res 2012;40:e66.
+Ford EG, Baisden CE, Matteson ML et al. Sepsis after coronary by- pass grafting: evidence for loss of the gut  mucosal  barrier. Ann Thorac Surg 1991;52:514-7.
+Fouhy F, Deane J, Rea MC et al. The effects of freezing on fae- cal microbiota as determined using MiSeq sequencing and culture-based investigations. PLoS One 2015;10:e0119355.
+Frykman PK, Nordenskjo" ld A, Kawaguchi A et al. Characteriza- tion of bacterial and fungal microbiome in children with Hirschsprung disease with and without a history of entero- colitis: a multicenter study. PLoS One 2015;10:e0124172.
+Fujimura KE, Sitarik AR, Havstad S et al. Neonatal gut microbiota associates with childhood multisensitized atopy and T cell differentiation. Nat Med 2016;22:1187-91.
+
+Huseyin et al.	505
+
+
+
+Gadanho M, Sampaio JP. Microeukaryotic diversity in the ex- treme environments of the Iberian Pyrite Belt: a com- parison between universal and fungi-specific primer sets, temperature gradient gel electrophoresis and cloning: mi- croeukaryotic diversity in the IPB. FEMS Microbiol Ecol 2006;57: 139-48.
+Gaetti-Jardim E, Marcelino SL, Feitosa ACR et al. Quantitative detection of periodontopathic bacteria in atherosclerotic plaques from coronary arteries. J Med Microbiol 2009;58:1568- 75.
+Gale D, Sandoval B. Response of mice to the inoculations of both Candida albicans and Escherichia coli I.: the enhancement phenomenon. J Bacteriol 1957;73:616.
+Gantner BN, Simmons RM, Canavera SJ et al. Collaborative in- duction of inflammatory responses by Dectin-1 and toll-like Receptor 2. J Exp Med 2003;197:1107-17.
+Gantner BN, Simmons RM, Underhill DM. Dectin-1 mediates macrophage recognition of Candida albicans yeast but not filaments. EMBO J 2005;24:1277-86.
+Gao Y-D, Zhao Y, Huang J. Metabolic Modeling of common Es- cherichia coli strains in human gut microbiome. BioMed Res Int 2014;2014:1-11.
+Gao Z, Perez-Perez GI, Chen Y et al. Quantitation of major human cutaneous bacterial and fungal populations. J Clin Microbiol 2010;48:3575-81.
+Gardes M, Bruns TD. ITS primers with enhanced specificity for basidiomycetes--application to the identification of mycor- rhizae and rusts. Mol Ecol 1993;2:113-8.
+Gazis R, Rehner S, Chaverri P. Species delimitation in fungal en- dophyte diversity studies and its implications in ecological and biogeographic inferences: species delimitation in fungal endophytes. Mol Ecol 2011;20:3001-13.
+Geramizadeh B, Foroughi R, Keshtkar-Jahromi M et al. Gastroin- testinal basidiobolomycosis, an emerging infection in the immunocompetent host: a report of 14 patients. J Med Mi- crobiol 2012;61:1770-4.
+Gewolb IH, Schwalbe  RS,  Taciak  VL  et  al.  Stool  microflora  in extremely low birthweight infants. Arch Dis Child-Fetal 1999;80:F167-73.
+Ghannoum MA, Jurevic RJ, Mukherjee PK et al. Characterization of the oral fungal microbiome (mycobiome) in healthy indi- viduals. PLoS Pathog 2010;6:e1000713.
+Gionchetti P, Rizzello F, Helwig U et al. Prophylaxis of pouch-  itis onset with probiotic therapy: a double-blind, placebo- controlled trial. Gastroenterology 2003;124:1202-9.
+Glenn TC. Field guide to next-generation DNA sequencers: field guide to next-gen sequencers. Mol Ecol Resour 2011;11:759-69. Glocker E-O, Hennigs A, Nabavi M et al. A homozygous CARD9 mutation in a family with susceptibility to fungal infections.
+New Engl J Med 2009;361:1727-35.
+Gonzalez GM, Sutton DA, Thompson E et al. In vitro activities of approved and investigational antifungal agents against 44 clinical isolates of Basidiomycetous fungi. Antimicrob Agents Ch 2001;45:633-5.
+Gosiewski T, Salamon D, Szopa M et al. Quantitative evaluation of fungi of the genus Candida in the feces of adult patients with type 1 and 2 diabetes-a pilot study. Age 2014;27:17.
+Gouba N, Raoult D, Drancourt M. Plant and fungal diversity in gut microbiota as revealed by molecular and culture investi- gations. PLoS One 2013;8:e59474.
+Gouba N, Raoult D, Drancourt M. Gut microeukaryotes during anorexia nervosa: a case report. BMC Res Notes 2014a;7:33.
+Gouba N, Raoult D, Drancourt M. Eukaryote culturomics of the gut reveals new species. PLoS One 2014b;9:e106994.
+
+
+Grice EA, Kong HH, Conlan S et al.  Topographical  and  tem- poral diversity of the human skin microbiome. Science 2009;324:1190-2.
+Griffith GW, Ozkose E, Theodorou MK et al. Diversity of anaerobic fungal populations in cattle revealed by selective enrichment culture using different carbon sources. Fungal Ecol 2009;2:87- 97.
+Gulati M, Nobile CJ. Candida albicans biofilms: development, regulation, and molecular mechanisms. Microbes Infect 2016, DOI: 10.1016/j.micinf.2016.01.002.
+Gumbo T, Isada CM, Hall G et al. Candida glabrata fungemia clinical features of 139 patients. Medicine (Baltimore) 1999;78: 220-7.
+Gunsalus KT, Tornberg-Belanger SN, Matthan NR et al. Manip- ulation of host diet to reduce  gastrointestinal  colonization by the opportunistic pathogen Candida albicans. mSphere 2016;1:e00020-15.
+Hallen-Adams HE, Kachman SD, Kim J et al. Fungi inhabiting the healthy human gastrointestinal tract: a diverse and dynamic community. Fungal Ecol 2015;15:9-17.
+Hamad I, Raoult D, Bittar F. Repertory of Eukaryotes (Eukaryome) in the human gastrointestinal tract: taxonomy and detection methods. Parasite Immunol 2016;38:12-36.
+Hamad I, Sokhna C, Raoult D et al. Molecular detection of eu- karyotes in a single human stool sample from senegal. PLoS One 2012;7:e40888.
+Hamady M, Knight R. Microbial community profiling for hu- man microbiome projects: tools, techniques, and challenges. Genome Res 2009;19:1141-52.
+Hamady M, Walker JJ, Harris JK et al. Error-correcting barcoded primers for pyrosequencing hundreds of samples in multi-  plex. Nat Methods 2008;5:235-7.
+Hammoud MS, Al-Taiar A, Fouad M et al. Persistent candidemia in neonatal care units: risk factors  and clinical  significance.  Int J Infect Dis 2013;17:e624-8.
+Harrison MJ, Twomey KB, McCarthy Y et al.  Fungal  mi-  crobiota in the adult cystic fibrosis (CF) airway: characterization      by       second-generation       sequencing and    correlation    with    standard    culture-based     meth-  ods and  clinical  phenotype.  Irish  J  Med  Sci  2012;181: S411.
+Hatoum R, Labrie S, Fliss I. Antimicrobial and probiotic proper- ties of yeasts: from fundamental to novel applications. Front Microbiol 2012;3, DOI: 10.3389/fmicb.2012.00421.
+Hawksworth DL. Fungal diversity and its implications for genetic resource collections. Stud Mycol 2004;50:9-18.
+Hawksworth DL. The magnitude of fungal diversity: the 1.5 mil- lion species estimate revisited. Mycol Res 2001;105:1422-32.
+Hawksworth DL, Crous PW, Redhead SA et al. The Amster- dam declaration on fungal nomenclature. IMA Fungus 2011;2: 105-12.
+Hawksworth DL, Rossman AY. Where are all the undescribed fungi? Phytopathology 1997;87:888-91.
+Heisel T, Podgorski H, Staley CM et al. Complementary amplicon- based genomic approaches for the study of fungal commu- nities in humans. PLoS One 2015;10:e0116705.
+Henderson G, Cox F, Kittelmann S et al. Effect of DNA extraction methods and sampling techniques on the apparent structure of cow and sheep rumen microbial communities. PLoS One 2013;8:e74787.
+Hibbett DS, Ohman A, Glotzer D et al. Progress in molecular and morphological taxon discovery in Fungi and options for for- mal classification of environmental sequences. Fungal Biol Rev 2011;25:38-47.
+
+506	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+Hilty M, Burke C, Pedro H et al. Disordered microbial communi- ties in asthmatic airways. PLoS One 2010;5:e8578.
+Hoarau G, Mukherjee PK, Gower-Rousseau C et al. Bacteriome and mycobiome interactions underscore  microbial  dysbiosis in familial Crohn's disease. mBio 2016;7:e01250-16.
+Hoffmann C, Dollive S, Grunberg S et al. Archaea and fungi of the human gut microbiome: correlations with diet and bacterial residents. PLoS One 2013;8:e66019.
+Hoffmann C, Minkah N, Leipzig J et al. DNA bar coding and py- rosequencing to identify rare HIV drug resistance mutations. Nucleic Acids Res 2007;35:e91.
+Hogan DA, Kolter R. Pseudomonas-Candida interactions: an eco- logical role for virulence factors. Science 2002;296:2229-32.
+Hogan DA, Vik A@ , Kolter R. A Pseudomonas aeruginosa quorum-
+sensing molecule influences Candida albicans morphology: pseudomonas inhibition of C. albicans filamentation. Mol Mi- crobiol 2004;54:1212-23.
+Hoog GS, Matos T, Sudhadham M et al.  Intestinal  preva-  lence of the neurotropic black yeast Exophiala (Wangiella) dermatitidis in healthy and impaired individuals. Mycoses 2005;48:142-5.
+Hooper LV, Gordon JI. Commensal host-bacterial relationships in the gut. Science 2001;292:1115-8.
+Hooper LV, Littman DR, Macpherson AJ. Interactions be- tween the microbiota and the immune system. Science 2012;336:1268-73.
+Horton TR, Bruns TD. The molecular revolution in ectomy- corrhizal ecology: peeking into the black-box. Mol Ecol 2001;10:1855-71.
+Huber JA, Mark Welch DB, Morrison HG et al. Microbial pop- ulation structures in the deep marine biosphere. Science 2007;318:97-100.
+Huber JA, Morrison HG, Huse SM et al. Effect of PCR ampli- con size on assessments of clone library microbial diver-  sity and community structure. Environ Microbiol 2009;11: 1292-302.
+Huffnagle GB, Noverr MC. The emerging world of the fungal mi- crobiome. Trends Microbiol 2013;21:334-41.
+Hugenholtz P, Pace NR. Identifying microbial diversity in the natural environment: a molecular phylogenetic approach. Trends Biotechnol 1996;14:190-7.
+Human Microbiome Jumpstart Reference Strains Consortium, Nelson KE, Weinstock GM et al. A catalog of reference genomes from the human microbiome. Science 2010;328:994- 9.
+Ihrmark  K,  Bo" deker  ITM,  Cruz-Martinez  K  et  al.  New  primers to amplify the fungal ITS2 region - evaluation by 454- sequencing of artificial and natural communities. FEMS Mi- crobiol Ecol 2012;82:666-77.
+Ikeda T, Suegara N, Abe S et al. Efficacy of antibacterial drugs    in mice with complex infection by Candida albicans and Es- cherichia coli. J Antibiot (Tokyo) 1999;52:552-8.
+Iliev ID, Funari VA, Taylor KD et al. Interactions between com- mensal fungi and the C-type lectin receptor Dectin-1 influ- ence colitis. Science 2012;336:1314-7.
+Iliev ID, Underhill DM. Striking a balance: fungal commensalism versus pathogenesis. Curr Opin Microbiol 2013;16:366-73.
+Ishibashi K, Fukazawa R, Miura NN et al. Diagnostic poten-  tial of antibody titres against Candida cell wall b-glucan in Kawasaki disease: anti-b-glucan antibody and Kawasaki dis- ease. Clin Exp Immunol 2014;177:161-7.
+Ishii K, Fukui M. Optimization of annealing temperature to re- duce bias caused by a primer mismatch in multitemplate PCR. Appl Environ Microb 2001;67:3753-5.
+
+
+Iwen PC, Hinrichs SH, Rupp ME. Utilization of the internal tran- scribed spacer regions as molecular targets to detect and identify human fungal pathogens. Med Mycol 2002;40:87-109. Jawhara S, Thuru X, Standaert-Vitse A et al. Colonization of mice by Candida albicans is promoted by chemically induced colitis and augments inflammatory responses through Galectin-3.
+J Infect Dis 2008;197:972-80.
+Jayaprakash AD, Jabado O, Brown BD et al. Identification and re- mediation of biases in the activity of RNA ligases in small- RNA deep sequencing. Nucleic Acids Res 2011;39:e141-.
+Jayshree RS, Shafiulla M, George J et al. Microscopic, cultural and molecular evidence of disseminated invasive aspergillosis involving the lungs and the gastrointestinal tract. J Med Mi- crobiol 2006;55:961-4.
+Jha AK, Uppal B, Chadha S et al. Clinical and microbiological pro- file of HIV/AIDS cases with diarrhea in North India. J Pathog 2012;2012:1-7.
+Jobst D, Kraft K. Candida species in stool, symptoms and com- plaints in general practice-a cross-sectional study of 308 out- patients. Mycoses 2006;49:415-20.
+Joossens S, Reinisch W, Vermeire S et al. The  value  of sero- logic markers in indeterminate colitis: a prospective follow-   up study. Gastroenterology 2002;122:1242-7.
+Jovel J, Patterson J, Wang W et al. Characterization of the gut mi- crobiome using 16S or shotgun metagenomics. Evol Genomic Microbiol 2016:459.
+Jumpponen A, Jones KL. Massively parallel 454 sequencing indi- cates hyperdiverse fungal communities in temperate Quercus macrocarpa phyllosphere. New Phytol 2009;184:438-48.
+Jumpponen A, Jones KL, David Mattox J et al. Massively parallel 454-sequencing of fungal communities in Quercus spp. ecto- mycorrhizas indicates seasonal dynamics in urban and rural sites. Mol Ecol 2010;19:41-53.
+Kalan L, Loesche M, Hodkinson BP et al. Redefining the chronic-wound microbiome: fungal communities are preva- lent, dynamic, and associated with delayed healing. mBio 2016;7:e01058-16.
+Kanagawa T. Bias and artifacts in  multitemplate  polymerase  chain reactions (PCR). J Biosci Bioeng 2003;96:317-23.
+Kashyap B, Bhalla P,  Uppal  B.  Enteric  pathogens  in  HIV/  AIDS from a tertiary care hospital. Indian J Community Med 2009;34:237.
+Kemler M, Garnas J, Wingfield MJ et al. Ion torrent PGM as tool for fungal community analysis: a case study of Endophytes     in Eucalyptus grandis reveals high taxonomic diversity. PLoS One 2013;8:e81718.
+Kerr J. Inhibition of fungal growth by Pseudomonas aeruginosa and Pseudomonas cepacia isolated from patients with cystic fibro- sis. J Infect 1994;28:305-10.
+Khatib R, Riederer KM, Ramanathan J et al. Faecal fungal flora in healthy volunteers and inpatients. Mycoses 2001;44:151-6.
+Kim Y-G, Udayanga KGS, Totsuka N et al. Gut dysbiosis promotes M2 macrophage polarization and allergic airway inflam- mation via fungi-induced PGE2. Cell Host Microbe 2014;15: 95-102.
+Klaerner HG, Uknis ME, Acton RD et al. Candida albicans and Es- cherichia coli are synergistic pathogens during experimental microbial peritonitis. J Surg Res 1997;70:161-5.
+Klingspor L, Jalal S. Molecular detection and identification of Candida and Aspergillus spp. from clinical samples using real-time PCR. Clin Microbiol Infect 2006;12:745-53.
+Knights D, Lassen KG, Xavier RJ. Advances in inflammatory bowel disease pathogenesis: linking host genetics and the microbiome. Gut 2013;62:1505-10.
+
+Huseyin et al.	507
+
+
+
+Koenig JE, Spor A, Scalfone N et al. Succession of microbial con- sortia in the developing infant gut microbiome. P Natl Acad  Sci USA 2011;108:4578-85.
+Koetschan C, Forster F, Keller A et al. The ITS2 Database III- sequences and structures for phylogeny. Nucleic Acids Res 2010;38:D275-9.
+Koetschan C, Hackl T, Mu" ller T et al. ITS2 Database IV: interac- tive taxon sampling for internal transcribed spacer 2 based phylogenies. Mol Phylogenet Evol 2012;63:585-8.
+Ko~ ljalg  U,  Larsson  K-H,  Abarenkov  K  et  al.  UNITE:  a  database providing web-based methods for the molecular identi-  fication of ectomycorrhizal fungi: methods. New Phytol 2005;166:1063-8.
+Koren O, Spor A, Felin J et al. Human oral, gut, and plaque mi- crobiota in patients with atherosclerosis. P Natl Acad Sci USA 2011;108:4592-8.
+Korzenik JR. Past and current theories of etiology of IBD: toothpaste, worms, and refrigerators. J Clin Gastroenterol 2005;39:S59-65.
+Kowalewska B, Zorena K, Szmigiero-Kawko M et al. Higher diver- sity in fungal species discriminates children with type 1 di- abetes mellitus from healthy control. Patient Prefer Adherence 2016;10:591-9.
+Krause R, Halwachs B, Thallinger GG et al. Characterisation of Candida within the mycobiome/microbiome of the lower respiratory tract of ICU patients. PLoS One 2016;11:e0155033. Krom BP, Kidwai S, ten Cate JM. Candida and other fungal species: forgotten players of healthy oral microbiota. J Dent
+Res 2014, DOI: 10.1177/0022034514521814.
+Kru" ger M, Stockinger H, Kru" ger C et al. DNA-based species level detection of Glomeromycota: one PCR primer set for all arbus- cular mycorrhizal fungi. New Phytol 2009;183:212-23.
+Kuhbacher T. Bacterial and fungal microbiota in relation to pro- biotic therapy (VSL#3) in pouchitis. Gut 2006;55:833-41.
+Kumamoto CA. Inflammation and gastrointestinal Candida col- onization. Curr Opin Microbiol 2011;14:386-91.
+Kumamoto CA. The fungal mycobiota: small numbers, large im- pacts. Cell Host Microbe 2016;19:750-1.
+Kunin V, Copeland A, Lapidus A et al. A bioinformatician's guide to metagenomics. Microbiol Mol Biol R 2008;72:557-78.
+Lagier J-C, Armougom F, Million M et al. Microbial culturomics: paradigm shift in the human gut microbiome study. Clin Mi- crobiol Infect 2012;18:1185-93.
+Landlinger C, BasVkova'  L, Preuner S et al. Identification of fungal species by fragment length analysis of the internally tran- scribed spacer 2 region. Eur J Clin Microbiol 2009a;28:613-22.
+Landlinger C, Preuner S, Willinger B et al. Species-specific identification of a wide range of clinically relevant fungal pathogens by use of Luminex xMAP technology. J Clin Micro- biol 2009b;47:1063-73.
+LaTuga MS, Ellis JC, Cotton CM et al. Beyond bacteria: a study of the enteric microbial consortium in extremely low birth weight infants. PLoS One 2011;6:e27858.
+Lee J, Lee S, Young JPW. Improved PCR primers for the detec- tion and identification of arbuscular mycorrhizal fungi: PCR primers for arbuscular mycorrhizal fungi. FEMS Microbiol Ecol 2008;65:339-49.
+Leeming JP, Notman FH Improved methods for isolation and enumeration of Malassezia furfur from human skin. J Clin Mi- crobiol 1987;25:2017-9.
+Lewis JD, Chen EZ, Baldassano RN et al. Inflammation, an- tibiotics, and diet as environmental stressors of the gut microbiome in pediatric Crohn's disease. Cell Host Microbe 2015;18:489-500.
+
+
+Li Q, Wang C, Tang C et al. Dysbiosis of gut fungal microbiota is associated with mucosal inflammation in Crohn's disease.  J Clin Gastroenterol 2014;48:513.
+Li Q, Wang C, Zhang Q et al. Use of 18S ribosomal DNA poly- merase chain reaction-denaturing gradient gel electrophore- sis to study composition of fungal community in 2 patients with intestinal transplants. Hum Pathol 2012;43:1273-81.
+Liang W, Guan G, Dai Y et al. Lactic acid bacteria differen- tially regulate filamentation in two heritable cell types of   the human fungal pathogen Candida albicans: Lactobacilli reg- ulate filamentation in C. albicans. Mol Microbiol 2016, DOI: 10.1111/mmi.13475.
+Liggenstoffer AS, Youssef NH, Couger MB et al. Phylogenetic di- versity and community structure of anaerobic gut fungi (phy- lum Neocallimastigomycota) in ruminant and non-ruminant herbivores. ISME J 2010;4:1225-35.
+Liguori G, Lamas B, Richard ML et al. Fungal dysbiosis in mucosa- associated microbiota of Crohn's disease patients. J Crohns Colitis 2015, DOI: 10.1093/ecco-jcc/jjv209.
+Lim ES, Zhou Y, Zhao G et al. Early life dynamics of the hu- man gut virome and bacterial microbiome in infants. Nat Med 2015;21:1228-34.
+Lindahl BD, Nilsson RH, Tedersoo L et al. Fungal community analysis by high-throughput sequencing of  amplified  mark- ers - a user's guide. New Phytol 2013;199:288-99.
+Lindner DL, Banik MT. Intragenomic variation in the ITS rDNA region obscures phylogenetic relationships and inflates es- timates of operational taxonomic units in genus Laetiporus. Mycologia 2011;103:731-40.
+Liu J, Yu Y, Cai Z et al. Comparison of ITS and 18S rDNA for esti- mating fungal diversity using PCR-DGGE. World J Microb Biot 2015, DOI: 10.1007/s11274-015-1890-6.
+Liu K-L, Porras-Alfaro A, Kuske CR et al. Accurate, rapid taxo- nomic classification of fungal large-subunit rRNA genes. Appl Environ Microb 2012;78:1523-33.
+Lo H-J, Ko" hler JR, DiDomenico B et al. Nonfilamentous C. albicans mutants are avirulent. Cell 1997;90:939-49.
+Lo Russo L, Campisi G,  Di  Fede  O  et  al.  Oral  manifesta-  tions of eating disorders: a critical review. Oral Dis 2008;14: 479-84.
+Lozupone CA, Stombaugh J, Gonzalez A et al. Meta-analyses of studies of the human microbiota. Genome Res 2013;23:1704- 14.
+Lozupone CA, Stombaugh JI, Gordon JI et  al.  Diversity,  sta- bility and resilience of the human gut microbiota. Nature 2012;489:220-30.
+Luan C, Xie L, Yang X et al. Dysbiosis of fungal microbiota in the intestinal mucosa of patients with colorectal  adenomas.  Sci Rep 2015;5:7980.
+Lutzoni F, Kauff F, Cox CJ et al. Assembling the fungal tree of life: progress, classification, and evolution of  subcellular  traits.  Am J Bot 2004;91:1446-80.
+McGovern DPB, Gardet A, To" rkvist L et al. Genome-wide associ- ation identifies multiple ulcerative colitis susceptibility loci. Nat Genet 2010;42:332-7.
+Main J, McKenzie H, Yeaman GR et al. Antibody to Saccha- romyces cerevisiae (bakers' yeast) in Crohn's disease. BMJ 1988;297:1105.
+Mar JS, LaMere BJ, Lin DL et al. Disease severity and im- mune activity relate to distinct interkingdom gut micro- biome states in ethnically distinct ulcerative colitis patients. mBio 2016;7:e01072-16.
+Mar Rodriguez M, Pe'rez D, Javier Chaves F et al. Obesity changes the human gut mycobiome. Sci Rep 2015;5:14600.
+
+508	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+Mardis ER. Next-generation DNA sequencing methods. Annu Rev Genom Hum G 2008;9:387-402.
+Mardis ER. Next-generation sequencing platforms. Annu  Rev  Anal Chem 2013;6:287-303.
+Margulies M, Egholm M, Altman WE et al. Genome sequencing in microfabricated high-density picolitre reactors. Nature 2005, DOI: 10.1038/nature03959.
+Marsh AJ, O'Sullivan O, Hill C et al. Sequence-based analysis of the bacterial and fungal compositions of multiple kombucha (tea fungus) samples. Food Microbiol 2014;38:171-8.
+Martin KJ, Rygiewicz PT. Fungal-specific PCR primers developed for analysis of the ITS region of environmental DNA extracts. BMC Microbiol 2005;5:28.
+Martinez RCR, Seney SL, Summers KL et al. Effect of Lactobacillus rhamnosus GR-1 and Lactobacillus reuteri RC-14 on the ability of Candida albicans to infect cells and induce inflammation. Microbiol Immunol 2009;53:487-95.
+Mason KL, Erb Downward JR, Falkowski NR et al. Interplay be- tween the gastric bacterial microbiota and Candida albicans during postantibiotic recolonization and gastritis. Infect Im- mun 2012a;80:150-8.
+Mason KL, Erb Downward JR, Mason KD et al. Candida albicans and bacterial microbiota interactions in the cecum during recolonization following broad-spectrum antibiotic therapy. Infect Immun 2012b;80:3371-80.
+Mello A, Napoli C, Murat C et al. ITS-1 versus ITS-2 pyrosequenc- ing: a comparison of fungal populations in truffle grounds. Mycologia 2011;103:1184-93.
+Miceli MH, Di'az JA, Lee SA. Emerging opportunistic yeast infec- tions. Lancet Infect Dis 2011;11:142-51.
+Miranda TT, Vianna CR, Rodrigues L et al. Diversity and fre- quency of yeasts from the dorsum of the tongue and necrotic root canals associated with primary apical periodontitis. Int Endod J 2009;42:839-44.
+Monteiro L, Bonnemaison D, Vekris A et al. Complex polysaccha- rides as PCR inhibitors in feces: helicobacter pylori model. J Clin Microbiol 1997;35:995-8.
+Monteiro-da-Silva F, Sampaio-Maia B, Pereira M, de L et al. Char- acterization of the oral fungal microbiota in smokers and non-smokers. Eur J Oral Sci 2013;121:132-5.
+Morace G, Perdoni F, Borghi E. Antifungal drug resistance in Can- dida species. J Glob Antimicrob Resist 2014;2:254-9.
+Morris AJ, Byrne TC, Madden JF et al. Duration of incubation of fungal cultures. J Clin Microbiol 1996;34:1583-5.
+Mowat AM, Viney JL. The anatomical basis of intestinal immu- nity. Immunol Rev 1997;156:145-66.
+Moyes DL, Naglik JR. The mycobiome: influencing IBD severity.
+Cell Host Microbe 2012;11:551-2.
+Mukherjee PK, Chandra  J,  Retuerto  M  et  al.  Oral  Myco- biome analysis of HIV-infected patients: identification of Pichia as an antagonist of opportunistic fungi. PLoS Pathog 2014;10:e1003996.
+Mukhopadhya I, Hansen R, Meharg C et al. The fungal microbiota of de-novo paediatric inflammatory bowel disease. Microbes Infect 2014, DOI: 10.1016/j.micinf.2014.12.001.
+Nagata R, Nagano H, Ogishima D et al. Transmission of the major skin microbiota, Malassezia, from mother to neonate: trans- mission of Malassezia. Pediatr Int 2012;54:350-5.
+Nam Y-D, Chang H-W, Kim K-H et al. Bacterial, archaeal, and eu- karyal diversity in the intestines of Korean people. J Microbiol 2008;46:491-501.
+Neher DA, Weicht TR, Bates ST et al. Changes in bacterial and fungal communities across compost recipes, preparation methods, and composting times. PLoS One 2013;8:e79512.
+
+
+Nelson A, De Soyza A, Bourke SJ et al. Assessment of sample han- dling practices on microbial activity in sputum samples from patients with cystic fibrosis: sample handling of CF sputum. Lett Appl Microbiol 2010;51:272-7.
+Netea MG, Gow NAR, Munro CA et al. Immune sensing of Can- dida albicans requires cooperative recognition  of  mannans  and glucans by lectin and Toll-like receptors. J Clin Invest 2006;116:1642-50.
+Nguyen LDN, Viscogliosi E, Delhaes L. The lung mycobiome: an emerging field of the human respiratory microbiome. Front Microbiol 2015;6, DOI: 10.3389/fmicb.2015.00089.
+Nicholson MJ, McSweeney CS, Mackie RI et al. Diversity of anaer- obic gut fungal populations analysed using ribosomal ITS1 sequences in faeces of wild and domesticated herbivores. Anaerobe 2010;16:66-73.
+Nilsson H, Tedersoo L, Abarenkov K et al. Five simple guide- lines for establishing basic authenticity and reliability of newly generated fungal ITS sequences. MycoKeys 2012;4:37- 63.
+Nilsson RH, Abarenkov K, Veldre V et al. An open source chimera checker for the fungal ITS region: computer  program  note. Mol Ecol Resour 2010;10:1076-81.
+Nilsson RH, Ryberg M, Abarenkov K et al. The ITS region as a tar- get for characterization of fungal communities using emerg- ing sequencing technologies. FEMS Microbiol Lett 2009;296:97- 101.
+Nilsson RH, Ryberg M, Kristiansson E et al. Taxonomic reliabil- ity of DNA sequences in public sequence databases: a fungal perspective. PLoS One 2006;1:e59.
+Nilsson RH, Tedersoo L, Ryberg M et al. A comprehensive, auto- matically updated fungal its sequence dataset for reference- based chimera control in environmental sequencing efforts. Microbes Environ 2015, DOI: 10.1264/jsme2.ME14121.
+Nobile CJ, Johnson AD. Candida albicans biofilms and human dis- ease. Annu Rev Microbiol 2015;69:71-92.
+Nordenfelt P, Waldemarson S, Linder A et al. Antibody orienta- tion at bacterial surfaces is related to invasive infection. J Exp Med 2012;209:2367-81.
+Norman JM, Handley SA, Virgin HW. Kingdom-agnostic metage- nomics  and  the  importance  of  complete  characteriza- tion of enteric microbial communities. Gastroenterology 2014;146:1459-69.
+Noverr MC, Erb-Downward JR, Huffnagle GB. Production of Eicosanoids and other Oxylipins by pathogenic eukaryotic microbes. Clin Microbiol Rev 2003;16:517-33.
+Noverr MC, Noggle RM, Toews GB et al. Role of antibiotics and fungal microbiota in driving pulmonary allergic responses. Infect Immun 2004;72:4996-5003.
+O'Brien HE, Parrent JL, Jackson JA et al. Fungal community analy- sis by large-scale sequencing of environmental samples. Appl Environ Microb 2005;71:5544-50.
+Oever J ten, Netea  MG.  The  bacteriome-mycobiome  interac-  tion and antifungal host defense: highlights. Eur J Immunol 2014;44:3182-91.
+O'Meara TR, Veri AO, Ketela T et al. Global analysis of fungal mor- phology exposes mechanisms of host cell escape. Nat Com- mun 2015;6:6741.
+O" pik  M,  Metsis  M,  Daniell  TJ  et  al.  Large-scale  parallel  454  se-
+quencing reveals host ecological group specificity of arbus- cular mycorrhizal fungi in a boreonemoral forest. New Phytol 2009;184:424-37.
+Ott SJ, El Mokhtari NE, Musfeldt M et al. Detection of diverse bac- terial signatures in atherosclerotic lesions of patients with coronary heart disease. Circulation 2006;113:929-37.
+
+Huseyin et al.	509
+
+
+
+Ott SJ, El Mokhtari NE, Rehman A et al. Fungal rDNA signa- tures in coronary atherosclerotic plaques. Environ Microbiol 2007;9:3035-45.
+Ott  SJ,  Ku" hbacher  T,  Musfeldt  M  et  al.  Fungi  and  inflamma- tory bowel diseases: alterations of composition and diversity. Scand J Gastroenterol 2008;43:831-41.
+Ott SJ, Musfeldt M, Timmis KN et al. In vitro alterations of intesti- nal bacterial microbiota in fecal samples during storage. Di- agn Micr Infec Dis 2004a;50:237-45.
+Ott SJ, Musfeldt M, Wenderoth DF et al. Reduction in diver-  sity of the colonic mucosa associated bacterial microflora   in patients with active inflammatory bowel disease. Gut 2004b;53:685-93.
+Ouanes A, Kouais A, Marouen S et al. Apport du milieu chromoge`ne  CHROMagarQR   Candida  dans  le  diagnostic  my- cologique des levures. J Mycol Me'd 2013;23:237-41.
+Pagnoux C, Cohen P, Guillevin L. Vasculitides secondary to infec- tions. Clin Exp Rheumatol 2006;24:S71.
+Palmer C, Bik EM, DiGiulio DB et al. Development of the human infant intestinal microbiota. PLoS Biol 2007;5:e177.
+Pandey PK, Siddharth J, Verma P et al. Molecular typing of fecal eukaryotic microbiota of human infants and their respective mothers. J Bioscience 2012;37:221-6.
+Parameswaran P, Jalili R, Tao L et  al.  A  pyrosequencing-  tailored nucleotide barcode design unveils opportunities for large-scale sample multiplexing. Nucleic Acids Res 2007;35: e130.
+Parfrey LW, Walters WA, Knight R. Microbial eukaryotes in the human microbiome: ecology, evolution, and future direc- tions. Front Microbiol 2011;2, DOI: 10.3389/fmicb.2011.00153.
+Parfrey LW, Walters WA, Lauber CL et al. Communities of mi- crobial eukaryotes in the mammalian gut within the context of environmental eukaryotic diversity. Front Microbiol 2014;5, DOI: 10.3389/fmicb.2014.00298.
+Park BJ, Wannemuehler KA, Marston BJ et al. Estimation of the current global burden of cryptococcal meningitis among per- sons living with HIV/AIDS: AIDS 2009;23:525-30.
+Park HK, Ha M-H, Park S-G et al. Characterization of the fungal microbiota (mycobiome) in healthy and dandruff-afflicted human scalps. PLoS One 2012;7:e32847.
+Peay KG, Kennedy PG, Bruns TD. Fungal community ecology: a hybrid beast with a molecular master. Bioscience 2008;58:799- 810.
+Peay KG, Kennedy PG, Talbot JM. Dimensions of biodiversity in the Earth mycobiome. Nat Rev Microbiol 2016;14:434-47.
+Peleg AY, Hogan DA, Mylonakis E. Medically important bacterial- fungal interactions. Nat Rev Microbiol 2010;8:340-9.
+Pfaller MA, Diekema DJ. Rare and emerging opportunistic fun- gal pathogens: concern for resistance beyond Candida al- bicans and Aspergillus fumigatus. J Clin Microbiol 2004;42: 4419-31.
+Pirotta M, Gunn J, Chondros P et al. Effect of lactobacillus in preventing post-antibiotic vulvovaginal candidiasis: a ran- domised controlled trial. BMJ 2004;329:548.
+Pitman RS, Blumberg RS. First line of defense: the role of the in- testinal epithelium as an active component of the mucosal immune system. J Gastroenterol 2000;35:805-14.
+Platt L, Easterbrook P, Gower E et al. Prevalence and burden of HCV co-infection in people living with HIV: a global system- atic review and meta-analysis. Lancet Infect Dis 2016, DOI: 10.1016/S1473-3099(15)00485-5.
+Plotkin BJ. Contribution of host signaling and virome to the mycobiome. Fungal Genomics Biol 2016;6, DOI: 10.4172/2165- 8056.1000137.
+
+
+Plotkin BJ, Sigar IM, Tiwari V et al. Herpes simplex virus (HSV) modulation of Staphylococcus aureus and Candida albicans initiation of HeLa 299 cell-associated biofilm. Curr Microbiol 2016;72:529-37.
+Polvi EJ, Li X, O'Meara TR et al. Opportunistic yeast pathogens: reservoirs, virulence mechanisms,  and  therapeutic  strate- gies. Cell Mol Life Sci 2015;72:2261-87.
+Porter TM, Brian Golding G. Are similarity- or phylogeny-based methods more appropriate for classifying internal tran- scribed spacer (ITS) metagenomic amplicons? New Phytol 2011;192:775-82.
+Poulain D, Jouault T. Candida albicans cell wall glycans, host re- ceptors and responses: elements for a decisive crosstalk. Curr Opin Microbiol 2004;7:342-9.
+Praneenararat S. Fungal infection of the colon. Clin Exp Gastroen- terol 2014;7:415.
+Primeggia J, Matsumoto CS, Fishbein TM et al. Infection among adult  small  bowel  and  multivisceral  transplant  recipi- ents in the 30-day postoperative period. Transpl Infect Dis 2013;15:441-8.
+Pruesse E, Quast C, Knittel K et al. SILVA: a comprehensive online resource for quality checked and aligned ribosomal RNA sequence data compatible with ARB. Nucleic Acids Res 2007;35:7188-96.
+Qin J, Li R, Raes J et al. A human gut microbial gene catalogue es- tablished by metagenomic sequencing. Nature 2010;464:59- 65.
+Rajilic'-Stojanovic'  M, Smidt H, de Vos WM. Diversity of the hu- man gastrointestinal tract microbiota revisited. Environ Mi- crobiol 2007;9:2125-36.
+Ravel J, Gajer P, Abdo Z et al. Vaginal microbiome of reproductive- age women. P Natl Acad Sci USA 2011;108:4680-7.
+Reales-Caldero' n  JA,  Sylvester  M,  Strijbis  K  et  al.  Candida  albi- cans induces pro-inflammatory  and  anti-apoptotic  signals in macrophages as revealed by quantitative proteomics and phosphoproteomics. J Proteomics 2013;91:106-35.
+Richard ML, Lamas B, Liguori G et al. Gut fungal microbiota: the yin and yang of inflammatory bowel disease. Inflamm Bowel Dis 2015;21:656-65.
+Rodri'guez  JM,  Murphy  K,  Stanton  C  et  al.  The  composi-  tion of the gut microbiota throughout  life,  with  an  em-  phasis on early life. Microb Ecol Health D 2015;26, DOI: 10.3402/mehd.v26.26050.
+Rowen JL. Fungal infections in the neonatal intensive care unit.
+Semin Pediatr Infect Dis 2001;12:107-14.
+Salonen A, Nikkila"  J, Jalanka-Tuovinen J et al. Comparative anal- ysis of fecal DNA extraction methods with phylogenetic mi- croarray: effective recovery of bacterial and archaeal DNA us- ing mechanical cell lysis. J Microbiol Methods 2010;81:127-34. Sanger   F, Nicklen S, Coulson AR. DNA sequencing with chain-terminating inhibitors. P Natl Acad Sci USA 1977;74:
+5463-7.
+Sanglard D, Odds FC. Resistance of Candida species to antifungal agents: molecular mechanisms and clinical consequences. Lancet Infect Dis 2002;2:73-85.
+Sangster W, Hegarty JP, Schieffer KM et al. Bacterial and fun- gal microbiota changes distinguish C. difficile infection from other forms of diarrhea: results of a prospective inpatient study. Front Microbiol 2016;7, DOI: 10.3389/fmicb.2016.00789.
+Santamaria M, Fosso B, Consiglio A et al. Reference databases for taxonomic assignment in metagenomics. Brief Bioinform 2012;13:682-95.
+Sartor RB. Gut microbiota: optimal sampling of the intestinal mi- crobiota for research. Nat Rev Gastroentero 2015;12:253-4.
+
+510	FEMS Microbiology Reviews, 2017, Vol. 41, No. 4
+
+
+
+Sauer S, Kliem M. Mass spectrometry tools for the classification and identification of bacteria. Nat Rev Microbiol 2010;8:74-82. Sboner A, Mu XJ, Greenbaum D et al. The real cost of sequencing:
+higher than you think. Genome Biol 2011;12:125.
+Scanlan PD, Marchesi JR. Micro-eukaryotic diversity of the hu- man distal gut microbiota: qualitative assessment using culture-dependent and-independent  analysis  of  faeces.  ISME J 2008;2:1183-93.
+Scanlan PD, Shanahan F, O'Mahony C et al. Culture-independent analyses of temporal variation of the dominant fecal micro- biota and targeted bacterial subgroups in Crohn's disease. J Clin Microbiol 2006;44:3980-8.
+Schloss PD, Westcott SL, Ryabin T et al. Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communi- ties. Appl Environ Microb 2009;75:7537-41.
+Schmidt P-A, Ba'lint M, Greshake B et al. Illumina metabarcoding of a soil fungal community. Soil Biol Biochem 2013;65:128-32.
+Schoch CL, Robbertse B, Robert V et al. Finding needles in haystacks: linking scientific names, reference specimens  and molecular data for Fungi. Database 2014;2014:bau061.
+Schoch CL, Seifert KA, Huhndorf S et al. Nuclear ribosomal inter- nal transcribed spacer (ITS) region as a universal DNA bar- code marker for Fungi. P Natl Acad Sci USA 2012;109:6241-6.
+Schrader C, Schielke A, Ellerbroek L et al. PCR inhibitors - occur- rence, properties and removal. J Appl Microbiol 2012;113:1014- 26.
+Schulze J, Sonnenborn U. Yeasts in the gut: from commensals to infectious agents. Dtsch Arztebl Int 2009;106:837-42.
+Scupham AJ, Presley LL, Wei B et al. Abundant and diverse fun- gal microbiota in the murine intestine. Appl Environ Microb 2006;72:793-801.
+Seed PC. The human mycobiome. Cold Spring Harb Perspect Med
+2015;5:a019810.
+Seifert KA. Progress towards DNA barcoding of fungi. Mol Ecol Resour 2009;9:83-9.
+Shanahan F. The gut microbiota--a clinical perspective on lessons learned. Nat Rev Gastroentero 2012;9:609-14.
+Shanahan F. Separating the microbiome from the hyperbolome.
+Genome Med 2015;7:17.
+Shokralla S, Spall JL, Gibson JF et al. Next-generation sequenc- ing technologies for environmental DNA research: next- generation sequencing for environmental DNA. Mol Ecol 2012;21:1794-805.
+Smits G, Kapteyn JC, van den Ende H et al. Cell wall dynamics in yeast. Curr Opin Microbiol 1999;2:348-52.
+Sobel JD. Gynecologic infections in human immunodeficiency virus-infected women. Clin Infect Dis 2000;31:1225-33.
+Sobel JD, Faro S, Force RW et al. Vulvovaginal candidiasis: epi- demiologic, diagnostic, and therapeutic considerations. Am J Obstet Gynecol 1998;178:203-11.
+Sobel JD, Wiesenfeld HC, Martens M et al. Maintenance flucona- zole therapy for recurrent vulvovaginal candidiasis. New Engl   J Med 2004;351:876-83.
+Sogin ML, Morrison HG, Huber JA et al. Microbial diversity in the deep sea and the underexplored "rare biosphere." P Natl Acad Sci USA 2006;103:12115-20.
+Sokol H, Leducq V, Aschard H et al. Fungal microbiota dysbiosis in IBD. Gut 2016, doi: gutjnl-2015-310746.
+Soll DR, Galask R, Schmid J et al. Genetic dissimilarity of com- mensal strains of Candida spp. carried in  different  anatom- ical locations of the same healthy women. J Clin Microbiol 1991;29:1702-10.
+
+
+Song SJ, Dominguez-Bello MG, Knight R. How delivery mode and feeding can shape the bacterial community in the infant gut. Can Med Assoc J 2013;185:373-4.
+Soyucen E, Gulcan A, Aktuglu-Zeybek AC et al. Differences in the gut microbiota of healthy children and those with type    1 diabetes: gut microbiota and type 1 diabetes. Pediatr Int 2014;56:336-43.
+Spear GT, Zariffard MR, Cohen MH et al. Vaginal IL-8 levels are positively associated with Candida albicans and  inversely  with lactobacilli in HIV-infected women. J Reprod Immunol 2008;78:76-9.
+Sta" mpfli MR, Anderson GP. How cigarette smoke skews immune responses to promote infection, lung disease and cancer. Nat Rev Immunol 2009;9:377-84.
+Standaert-Vitse A, Sendid B, Joossens M et al. Candida albicans colonization and ASCA in Familial Crohn's disease. Am J Gas- troenterol 2009;104:1745-53.
+Stappenbeck TS, Virgin HW. Accounting for reciprocal host- microbiome interactions in experimental science. Nature 2016;534:191-9.
+Steele C. Cytokine and chemokine production by human oral and vaginal Epithelial cells in response to Candida albicans. Infect Immun 2002;70:577-83.
+Stewart CJ, Nelson A, Scribbins D et al. Bacterial and fungal via- bility in the preterm gut: NEC and sepsis. Arch Dis Child-Fetal 2013;98:F298-303.
+Stockinger H, Kru" ger M, Schu" ssler A. DNA barcoding of arbuscu- lar mycorrhizal fungi. New Phytol 2010;187:461-74.
+Strati F, Cavalieri D, Albanese D et al. Altered gut microbiota in Rett syndrome. Microbiome 2016a;4, DOI: 10.1186/s40168-016- 0185-y.
+Strati F, Di Paola M, Stefanini I  et  al.  Age  and  gender af- fect the  composition  of  fungal  population  of  the  hu-  man gastrointestinal tract. Front Microbiol 2016b;7, DOI: 10.3389/fmicb.2016.01227.
+Sugita T, Takashima M, Shinoda T et al. New yeast species, malassezia dermatis, isolated from patients with atopic der- matitis. J Clin Microbiol 2002;40:1363-7.
+Suhr MJ, Banjara N, Hallen-Adams HE. Sequence-based methods for detecting and evaluating the human gut mycobiome. Lett Appl Microbiol 2016;62:209-15.
+Suhr MJ, Hallen-Adams HE. The human gut mycobiome: pit- falls and potentials-a mycologist's perspective. Mycologia 2015;107:1057-73.
+Sutton CL, Yang H, Li Z et al. Familial expression of anti- Saccharomyces  cerevisiae  mannan  antibodies  in  affected and unaffected relatives of patients with Crohn's disease. Gut 2000;46:58-63.
+Tajima  M,  Sugita  T,  Nishikawa  A  et  al.  Molecular  analysis  of Malassezia microflora in seborrheic dermatitis patients: comparison with other diseases and healthy  subjects.  J  In- vest Dermatol 2008;128:345-51.
+Tang D, Kang R, Coyne CB et al. PAMPs and DAMPs: signal 0s that spur autophagy and immunity. Immunol Rev 2012;249: 158-75.
+Tang J, Iliev ID, Brown J  et al. Mycobiome: approaches to analysis  of intestinal fungi. J Immunol Methods 2015;421:112-21.
+Taylor GR, Kropp KD, Molina TC. Nine-year microflora study of an isolator-maintained immunodeficient child. Appl Environ Microb 1985;50:1349-56.
+Taylor PR, Tsoni SV, Willment JA et al. Dectin-1 is required for b-glucan recognition and control of fungal infection. Nat Im- munol 2007;8:31-8.
+
+Huseyin et al.	511
+
+
+
+Tedersoo L, Abarenkov K, Nilsson RH et al. Tidying up interna- tional nucleotide sequence databases: ecological, geographi- cal and sequence quality annotation of ITS sequences of my- corrhizal fungi. PLoS One 2011;6:e24940.
+Tedersoo L, Lindahl B. Fungal identification biases in mi- crobiome projects: fungal identification biases  in  micro- biome projects. Environ Microbiol Rep 2016, DOI: 10.1111/1758- 2229.12438.
+Thompson-Chagoya'n  OC,  Maldonado  J,  Gil  A.  Aetiology  of  in- flammatory bowel disease (IBD): role of intestinal microbiota and gut-associated lymphoid tissue immune response. Clin Nutr 2005;24:339-52.
+Tierney L, Kuchler K, Rizzetto L et al. Systems biology of host- fungus interactions: turning complexity into simplicity. Curr Opin Microbiol 2012;15:440-6.
+Toju H, Tanabe AS, Yamamoto S et al. High-coverage ITS primers for the DNA-based identification of ascomycetes and basidiomycetes in environmental samples. PLoS One 2012;7:e40863.
+Trojanowska D, Konturek P, Pajdo R et al. Are probiotics effective in the treatment of fungal colonization  of  the  gastrointesti- nal tract? Experimental and clinical studies. J Physiol Pharma- col 2006;57:35-49.
+Turnbaugh PJ, Gordon JI. The core gut microbiome, energy bal- ance and obesity. J Physiol 2009;587:4153-8.
+Underhill DM, Iliev ID. The mycobiota: interactions between commensal fungi and the host immune system. Nat Rev Im- munol 2014;14:405-16.
+Underhill DM, Pearlman E. Immune Interactions with Pathogenic and commensal fungi: a two-way street. Im- munity 2015;43:845-58.
+Ursell LK, Metcalf JL, Parfrey LW et al. Defining the human mi- crobiome. Nutr Rev 2012;70:S38-44.
+van der Velden WJFM, Netea MG, de Haan AFJ et al. Role of the mycobiome in human acute graft-versus-host disease. Biol Blood Marrow Tr 2013;19:329-32.
+van Dijk EL, Auger H, Jaszczyszyn Y et al. Ten years of next- generation sequencing technology. Trends Genet 2014;30:418- 26.
+Vautier S, Drummond RA, Redelinghuys P et al. Dectin-1 is not required for controlling Candida albicans colonization of the gastrointestinal tract. Infect Immun 2012;80:4216-22.
+Vilgalys R. Taxonomic misidentification in public DNA databases. New Phytol 2003;160:4-5.
+Vylkova S, Carman AJ, Danhof HA et al. The fungal pathogen Candida albicans autoinduces hyphal morphogenesis by raising extracellular pH. MBio 2011;2:e00055-11.
+Wade WG. The oral microbiome in health and disease. Pharmacol Res 2013;69:137-43.
+Waggoner-Fountain LA, Walker MW, Hollis RJ et al. Vertical and horizontal transmission of unique Candida species to pre- mature newborns. Clin Infect Dis 1996;22:803-8.
+Walters W, Hyde ER, Berg-Lyons D et al. Improved Bacterial 16S rRNA Gene (V4 and V4-5) and Fungal Internal Transcribed Spacer Marker Gene Primers for Microbial Community Sur- veys. mSystems 2015;1:e00009-15..
+Wang JE, Warris A, Ellingsen EA et al. Involvement of CD14 and toll-like receptors in activation of human monocytes by As- pergillus fumigatus hyphae. Infect Immun 2001;69:2402-6.
+Wang T, Pan D, Zhou Z  et  al.  Dectin-3  deficiency  pro-  motes colitis development due to impaired antifungal in-
+
+
+nate immune responses in the gut. PLoS Pathog 2016;12: e1005662.
+Wargo MJ, Hogan DA. Fungal--bacterial interactions: a  mixed bag of mingling microbes. Curr Opin Microbiol 2006;9:359-64.
+Washington K, Jagasia M. Pathology of graft-versus-host disease in the gastrointestinal tract. Hum Pathol 2009;40:909-17.
+Weindl G, Wagener J, Schaller M. Interaction of the mucosal bar- rier with accessory immune cells during fungal infection. Int J Med Microbiol 2011;301:431-5.
+Westbrook SD, Kirkpatrick WR, Freytes CO et al. Candida krusei sepsis secondary to oral colonization in a hemopoietic stem  cell transplant recipient. Med Mycol 2007;45:187-90.
+Wheeler ML, Limon JJ, Bar AS et al. Immunological consequences of intestinal fungal dysbiosis. Cell Host Microbe 2016;19:865- 73.
+White JR, Maddox C, White O et al. CloVR-ITS: automated inter- nal transcribed spacer amplicon sequence analysis pipeline for the characterization of fungal microbiota. Microbiome 2013;1:6.
+White SJ, Rosenbach A, Lephart P et al. Self-regulation of Candida albicans population size during GI colonization. PLoS Pathog 2007;3:e184.
+White TJ, Bruns T, Lee S et al. Amplification and direct sequenc- ing of fungal ribosomal RNA genes for phylogenetics, in Innis MA, Gelfand DH, Sninsky JJ et al., (eds). PCR protocols: a guide to methods and applications. New York: Academic Press, Inc. 1990, pp. 315-322.
+Whiteley AS, Jenkins S, Waite I et al. Microbial 16S rRNA Ion Tag and community metagenome sequencing using the Ion  Tor- rent (PGM) Platform. J Microbiol Methods 2012;91:80-8.
+Wingard JR, Dick JD, Merz WG et al. Pathogenicity of Candida tropicalis and Candida albicans after gastrointestinal inoc- ulation in mice. Infect Immun 1980;29:808-13.
+van Woerden HC, Gregory C, Brown R et al. Differences in fungi present in induced sputum samples from asthma  patients and non-atopic controls: a community based case control study. BMC Infect Dis 2013;13:69.
+Wu GD, Lewis JD, Hoffmann C et al. Sampling and pyrose- quencing methods for characterizing bacterial communities in the human gut using 16S sequence tags. BMC Microbiol 2010;10:206.
+Yahr R, Schoch CL, Dentinger BTM. Scaling up discovery of hid- den diversity in fungi: impacts of barcoding approaches. Phi- los T R Soc B 2016;371:20150336.
+Yamaguchi N, Sugita R, Miki A et al. Gastrointestinal Candida colonisation promotes sensitisation against food antigens by affecting the mucosal barrier in mice. Gut 2006;55:954-60.
+Yu Z, Morrison M. Improved extraction of PCR-quality com- munity DNA from digesta and fecal samples. Biotechniques 2004;36:808-13.
+Zhang E, Tanaka T, Tajima M et al. Characterization of the skin fungal microbiota in patients with atopic dermatitis and in healthy subjects: skin fungal microbiota & atopic dermatitis. Microbiol Immunol 2011;55:625-32.
+Zoll J, Snelders E, Verweij  PE et al. Next-generation sequenc-   ing in the mycology lab. Curr Fungal Infect Rep 2016, DOI: 10.1007/s12281-016-0253-6.
+Zwolinska-Wcislo M, Brzozowski T, Budak A et al. Effect of Can- dida colonization on human ulcerative colitis and the heal- ing of inflammatory changes of the colon in the experimen- tal model of colitis ulcerosa. Acta Physiol Pol 2009;60:107.

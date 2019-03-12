@@ -1,0 +1,400 @@
+
+
+
+
+Estrogen protection against EAE modulates the microbiota and mucosal- associated regulatory cells
+Gil Benedek,, Jun Zhang,,, Ha Nguyen,, Gail Kent,, Hilary A. Seifert,, Sean Davin, Patrick Stauffer, Arthur A. Vandenbark,,, Lisa Karstens,, Mark Asquith, Halina Offner,,,
+a Neuroimmunology Research, VA Portland Health Care System, 3710 SW U.S. Veterans Hospital Rd, Portland, OR 97239, USA
+b Department of Neurology, Oregon Health & Science University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239, USA
+c Division of Arthritis and Rheumatic Diseases, Oregon Health & Science University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239, USA
+d Department of Molecular Microbiology & Immunology, Oregon Health & Science University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239, USA e Division of Bioinformatics and Computational Biology, Oregon Health & Science University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239, USA   f Division of Urogynecology, Oregon Health & Science University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239, USA
+g Department of Anesthesiology and Perioperative Medicine, Oregon Health & Science University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239, USA
+
+
+
+A R T I C L E I N F O  
+
+Keywords: Estrogen EAE
+Regulatory B cell
+M2-like macrophage/microglia Microbiota
+
+
+A B S T R A C T  
+
+Sex hormones promote immunoregulatory effects on multiple sclerosis. In the current study we evaluated the composition of the gut microbiota and the mucosal-associated regulatory cells in estrogen or sham treated fe- male mice before and after autoimmune encephalomyelitis (EAE) induction. Treatment with pregnancy levels of estrogen induces changes in the composition and diversity of gut microbiota. Additionally, estrogen prevents EAE-associated changes in the gut microbiota and might promote the enrichment of bacteria that are associated with immune regulation. Our results point to a possible cross-talk between the sex hormones and the gut mi- crobiota, which could promote neuroprotection.
+
+
+
+
+Introduction
+
+Multiple sclerosis (MS) is a chronic, immune-mediated demyeli- nating disease of the central nervous system (CNS) ( ). MS exhibits a distinct female pre- dominance similar to a majority of human autoimmune diseases. However, women with MS often experience clinical improvement during pregnancy, indicating that sex hormones might have a ther- apeutic effect in MS. Although sex hormones are involved in regulating the immune response, the relevant mechanisms are poorly understood. Previously, we demonstrated that 17b-estradiol (E2) mediated protection against EAE was dependent on the presence of IL-10 and programed death ligand 1 (PDL1) expressing regulatory B cells (Bregs), which were increased with E2 treatment in spleen, spinal cord and brain (  ). We further showed that E2 treatment induced regulatory and
+anti-inflammatory macrophages and microglia.
+A growing number of studies have demonstrated that the gut mi- crobiota plays a critical role in shaping the immune system ( ). For instance, commensal microbes can stimulate T cells
+
+responses that are important for host defense against enteric pathogens, yet may also drive local or systemic tissue damage ( ). On the other hand, the microbiota can elicit immune regulatory responses that promote immune homeostasis. The balance of these interactions has been shown to affect the pathogenesis of several auto-immune diseases, including multiple sclerosis (  ).
+Several factors, including diet, are thought to shape the gut micro- biota-immune axis. It was reported that fatty acids that are metabolized by gut microbiota could affect the course of EAE; long-chain fatty acids were shown to enhance Th1 and Th17 cell responses and exacerbate EAE, whereas short-chain fatty acids were shown to promote regulatory T cell responses and ameliorate EAE ().
+Recent studies also demonstrated that sex hormones either impact the gut microbiota or could be affected by it. In addition to the dif- ferences in gut microbiota composition between males and females, different levels of these hormones within each sex could affect the microbiota and thus the immune response (). Herein, we evaluated the effect of estrogen treatment before and during EAE on
+
+
+* Corresponding author at: Neuroimmunology Research, R & D-31, VA Portland Health Care System, 3710 SW U.S. Veterans Hospital Rd, Portland, OR 97239, USA.
+E-mail address: (H. Offner).
+1 Present address: Department of Hematopathology, University of Texas, MD Anderson Cancer Center, Houston, TX 77030, USA.
+ R01e6ce5i-v5e7d288/J(c)un2e021071E7;lsAevciceerpBte.Vd.1A9llJruingeht2s0r1e7served.
+
+the composition of gut microbiota and further determined this effect on regulatory cells in the mesenteric lymph nodes (MLN) of these mice.
+
+Material and methods
+
+Animals
+
+Eleven-week old female C57BL/6 wild-type mice were purchased from the Jackson Laboratory. IL-10 transcriptional reporter mice were obtained from Dr. Christopher Karp, Division of Molecular Immunology, University of Cincinnati College of Medicine, Cincinnati, Ohio. The generation and characterization of these mice has been de- scribed (). Briefly, the IL10-GFP reporter mice have a floxed neomycin-IRES eGFP cassette () inserted be- tween the endogenous stop site and the poly (A) site of Il10 to help track IL-10 producing cells in vivo. These mice (designated as Vert-X) are homozygous, develop normally and are viable and fertile without any obvious abnormal phenotype. The mice were housed in the Animal Resource Facility at the VA Portland Health Care System (VAHPCS) in accordance with institutional guidelines. This study was conducted in accordance with National Institutes of Health guidelines for the use of experimental animals and protocols were approved by the VAPHCS Animal Care and Use Committee.
+
+Hormone treatment and induction of EAE
+
+Female mice were implanted subcutaneously with 2.5 mg/60-day release 17b-estradiol pellets (Innovative Research of America, Sarasota, FL) or were sham-treated (control) one week prior to subcutaneous immunization at four sites on the flanks with 200 mg mouse (m)MOG- 35-55 peptide (PolyPeptide Laboratories, San Diego, CA) in 400 mg Complete Freund's adjuvant comprised of Incomplete Freund's adjuvant (IFA, Sigma-Aldrich, St. Louis, MO) containing heat-killed Mycobacterium tuberculosis (Mtb, Difco, Detroit, MI). Mice received intraperitoneal injections of pertussis toxin (Ptx, List Biologicals, Campbell, CA) on the day of immunization (75 ng) and 2 days later (200 ng).
+All mice were monitored daily for clinical signs of EAE and scored using the following scale: 0 = normal; 1 = limp tail or mild hind limb weakness;  2 = moderate  hind  limb  weakness  or  mild  ataxia;   3 = moderately severe hind limb weakness; 4 = severe hind limb weakness or mild forelimb weakness or moderate ataxia; 5 = para- plegia with no more than moderate forelimb weakness; and 6 = para- plegia with severe forelimb weakness or severe ataxia or moribund condition. Mice were scored daily and were evaluated for incidence, day of onset, day of maximal clinical signs (peak) and for total disease score over the course of the experiment (Cumulative Disease Index, CDI). Mean +- SD were calculated for these parameters for each ex- perimental group.
+
+Fecal samples collections and 16S rRNA gene sequencing
+
+Feces were freshly harvested from each individual mouse before and after EAE induction: day 0 (before EAE induction) and days 3, 7, 10, 14 and 21 (post-immunization) and kept at -20 degC until analysis. Microbiota composition and diversity was evaluated by 16S rRNA gene sequencing. Fecal DNA from 12 mice from each group was purified using the PowerSoil DNA isolation kit and the 16S rRNA gene amplified using validated primers that target the 515F/806R 16S region (). These primers allowed multiplexing and si- multaneous sequencing of up to 600 stool samples with the Illumina MiSeq platform ().
+
+16s rRNA sequence processing and taxonomic assignment
+
+Primers and sequence adapters were removed with the Illumina
+
+MiSeq Reporter (version 2.5). The sequences were further processed  using scripts implemented through the workflow package Quantitative Insights into Microbial Ecology (QIIME) version 1.9.0 ( ). Individual sequence reads were joined using FASTQ-join  (ea- utils, version 1.1.2-537; ), with a maximum number of 3 mismatches and minimum overlap of 6. Operational taxonomic units (OTUs) were identified with an open-reference approach against the greengenes reference  database  (  ) using uclust (version 1.2.22q ()). Chimeric sequences were removed with the blast fragments approach im-  plemented in identify_chimeric_seqs.py. Taxonomy was assigned to in- dividual OTUs using the RDP Classifier (version 2.2; ) with a minimum confidence of 0.80. The resulting OTU table was im- ported into R for filtering and statistical analysis (described below).
+
+Isolation of leukocytes from mesenteric LN and spinal cord
+
+LNs were removed from euthanized animals under sterile conditions and single cell suspensions of leukocytes were prepared by dis- aggregation of the tissue through a 100 mm nylon mesh (BD Falcon, Bedford, MA). Cells were washed once with RPMI 1640 supplemented with 10% heat-inactivated FBS (hiFBS; Thermo Scientific, Waltham, MA). Cells were enumerated at a 1:1 dilution with 0.2% trypan  blue  stain (Life Technologies, Grand Island, NY) using a Cellometer Auto T4 Cell Viability Counter (Nexcelom, Lawrence, MA), washed, and re- suspended at 107 cells/mL in stimulation medium (RPMI 1640 con- taining 10% FBS [Thermo Scientific, Waltham, MA], 1% sodium pyr- uvate [Life Technologies, Grand Island, NY], 1% L-glutamine [Thermo Scientific, Waltham, MA], and 0.4% b-ME [Sigma-Aldrich, St. Louis, MO]).
+Spinal cords were passed through 100 mm mesh screens and washed
+as above. Cells were resuspended in 80% Percoll (GE Healthcare, Pittsburgh, PA) then overlaid with 40% Percoll to establish a density gradient and centrifuged at 300g for 30 min following a previously described method (). Leukocytes were collected from the resultant interface, counted, and resuspended in stimulation medium for assay.
+
+Flow cytometry
+
+Antibodies
+Leukocytes were labeled with a combination of the following anti- bodies obtained from BD Bioscience (San Jose, CA): APC CD19 (1D3), PE CD1d (1B1), PerCP CD5 (53-7.3), PerCP-Cy5.5 CD11b (M1/70), PE
+CD45 (30-F11), PE PDL1 (MIH5), from Ebioscience (San Diego, CA), APC CD206 (C068C2), (CXNFT) from Biolegend (San Diego, CA) and PE CD9 (MZ3) and PE ARG1 from R & D systems (Minneapolis, MN).
+
+Extracellular staining
+Single cell suspensions were washed and resuspended in staining buffer (1 x PBS, 0.5% BSA [Sigma-Aldrich], 0.1% sodium azide [Sigma-Aldrich]). Fc receptors were blocked with anti-CD16/32 anti- body (2.4G2, BD Biosciences) and cells were incubated with mono- clonal antibodies (mAbs) listed above. Unbound mAbs were washed with staining buffer prior to four-color fluorescence flow cytometry analysis using a BD Accuri C6 flow cytometer (BD Biosciences).
+
+Intracellular staining
+1x 106 cells were suspended in 1 mL of stimulation medium (as above). Then, Fc receptors were blocked with anti-CD16/32 mono- clonal antibodies (mAb) (2.3G2; BD Biosciences) before cell surface staining. Cells were fixed and permeabilized with Fixation/ Permeabilization buffer (BD Biosciences) according to the manufac- turer's instructions. Permeabilized cells were washed with 1x Perm/
+Wash Buffer (BD Biosciences) and were stained with anti-ARG1 and anti-CD206 (BD Biosciences, San Jose, CA, USA). Isotype-matched mAb
+
+Fig. 1. E2 treatment protects female C57BL/6 mice from EAE. Female C57BL/6 mice were implanted with sham or E2 pellets one week prior to immunization with mouse (m)MOG-35-55 peptide/CFA/Ptx. Fecal samples were collected from these mice at different time points: Day 0 - just prior to immunization (after 7 days of sham or estrogen treatment), and days 3, 7, 10, 14 and 21 post-immunization (p.i.). Daily mean scores were analyzed by Mann Whitney U test. *p < 0.05.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 2. Bacterial composition and diversity in E2 or sham treated mice. A) Microbiota community composition (phylum-level) is shown in either sham (S)- or E2-treated mice (E) during the course of EAE progression. Day 0 - just prior to immunization (after 7 days of sham or estrogen treatment), and days 3, 7, 10,  14 and 21 post-immunization (p.i.). are shown (D0-D21). B). The alpha (within-sample) diversity for each time point is shown for E2 (red bars) or sham (blue bars) treated animals as represented by Shannon Index values. Median and interquartile range are denoted by horizontal bars. Circles represent  sample  outliers. For A & B, n = 11-12 mice per group and are representative of two pooled experiments. * = p <= 0.05 by Wilcoxon Rank Sum test at the indicated time points between E2- and sham- treated animals, with Benjamini-Hochberg correction for multiple comparisons.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+served as negative controls to demonstrate specificity and to establish a background for the levels of ARG1 or CD206 expression. All data were acquired and analyzed using the Accuri C6 (BD Biosciences) software included with the instrument.
+
+
+Statistical analysis
+
+Data were reported using GraphPad Prism (v5.0, San Diego, CA) and expressed as the mean +- SD. Statistical significance for the disease course was calculated using the Mann-Whitney U test. Statistical sig- nificance for flow cytometry data was calculated using Student's t-test
+
+or one way ANOVA with Tukey correction. p-Values <=0.05 were considered to be significant (*p <= 0.05; **p <= 0.01; ***p <= 0.001).
+
+Microbial community analysis
+
+Beta diversity was evaluated on the rarefied OTU table (rarefied to 48,000 reads) using principal coordinate analysis on the weighted UniFrac distances in Qiime for each time point. Significance of clus- tering between E2-treated mice and sham in the PCoA was assessed by PERMANOVA. Alpha diversity was evaluated with the Chao1 estimator, Shannon Index, and inverse Simpson index using phyloseq ( ) in R. Differentially abundant OTUs were identified at time 0 and time 21 using DeSEQ2 (). DeSEQ2 uses a negative binomial generalized linear model to identify individual taxa that are differentially abundant between groups. In order to minimize the amount of comparisons made, we filtered taxa that were not present in at least 20% of the samples. p-Values for this analysis were adjusted for multiple comparisons using the Benjamini-Hochberg method. Sig- nificantly different taxa were defined as taxa that had a log fold change between groups of at least 1 and adjusted p-value of 0.10.
+
+Data availability
+
+
+The datasets generated during and/or analyzed during the current study are available from the corresponding author upon reasonable request.
+
+Results
+
+E2-mediated prevention of EAE modulates the intestinal microbiota
+
+In order to evaluate the effect of E2 on gut microbiota and immune response, 11 week old female C57BL/6 WT mice that were housed for 3 weeks in the same conditions were either sham treated or implanted with E2 pellets 7 days prior to immunization with mMOG-35-55 pep- tide/CFA/Ptx. As demonstrated before, E2 treated mice were com- pletely protected against EAE compared to sham treated mice. Fecal samples were collected from these mice at different time points: Day 0 - just prior to immunization (after 7 days of sham or estrogen treatment), and days 3, 7, 10, 14 and 21 post-immunization (p.i.). This experi- mental scheme is shown in .
+Fecal microbiota diversity and composition were then identified by 16S rRNA gene sequencing. Comparison at the phylum level of all time points showed that Firmicutes and Bacteroidetes persisted as the overwhelmingly dominant phyla in E2-treated animals, whereas in sham-treated animals that succumbed to EAE a marked expansion of more minor phyla (Proteobacteria and Tenericutes) was observed concomitant with disease onset (day 10) (A). Analysis of microbial diversity within each group also revealed E2-treated animals exhibited significantly higher diversity than sham-treated controls at multiple time points (B, Supplementary Fig. 1). Interestingly, the increased diversity in E2-treated animals was a relatively early event, observed at d7 and d10 post-EAE induction, time points of disease onset in sham- treated animals.
+Our results suggest that E2 limits the loss of microbial diversity and outgrowth of specific phyla, for instance Proteobacteria that is observed during the course of EAE in sham-treated animals.
+E2 treatment affects the microbiota composition before EAE induction
+
+In order to further evaluate E2 effects on the gut microbiota, in- dependent from the effects of EAE, we compared mice 7 days post-E2 or sham treatment prior to EAE induction. As shown by principal co- ordinate analysis (PCoA) of mice on day 0 (A), E2 treated mice and sham treated mice grouped into two significantly distinct clusters
+
+
+
+
+
+Fig. 3. E2 treatment induces changes in composition of gut microbiota. A) Principal coordinate analysis (PCoA) plot of unweighted distances between E2-pretreated (red dots) and sham (blue dots) mice, before EAE induction (day 0). Mice were implanted with E2 or sham for seven days. Sham (n = 11) vs. E2 (n = 12) groups were compared by PERMANOVA. Each point represents an individual animal. B) Fold change (log2) of mi- crobial families that exhibited a significant difference in relative abundance in the feces of E2 and sham treated mice at the same time point (day 0). A negative binomial generalized linear model implemented in DeSEQ2 was used to identify differentially abundant mi- crobial families between groups, with a significance threshold of p <= 0.05 following Benjamini-Hochberg correction for multiple comparisons.
+
+(PERMANOVA p = 0.05). Further to these observations, we were able to identify three bacterial orders/families that were significantly dif- ferent between sham and E2 treated mice on day 0: Lactobacillaceae, Coriobacteriaceae and unidentified family from the Bacillales order were significantly enriched  after  E2  treatment  compared  to  sham  (p < 0.001). These data demonstrate that high levels of estrogen affect the composition of the gut microbiota of female mice.
+
+E2 treatment affects the microbiota composition during EAE
+
+In order to evaluate the effect of EAE on the microbiota of E2 or sham treated mice, we performed a PCoA analysis which combined data from mice on day 0 and day 21 p.i. As demonstrated in A, while E2 day 0 mice and E2 day 21 mice clustered together, sham day 0 mice significantly  differed  from   sham   day   21   mice   (PERMANOVA p = 0.001). We further identified eight bacterial orders/families that were significantly increased in E2/EAE mice and eight bacterial orders/ families that were significantly increased in sham/EAE mice on day 21
+p.i. (B). Of particular interest are the Lactobacillaceae that were significantly elevated in the E2 treated mice at both time points (day 0 and day 21 p.i.) compared to sham treated mice, and were shown to induce anti-inflammatory effects (). The relative abundances throughout the different time points of this bacterial family are presented in Supplementary Fig. 2. Taken together, these observa- tions suggest that estrogen treatment impacts the gut microbiota by preventing dysbiotic or disease-associated changes to the intestinal microbiota and promoting bacteria that are involved in immune reg- ulation.
+
+Fig. 4. E2 treatment reduces gut dysbiosis during EAE. A) Principal coordinate analysis (PCoA) plot of unweighted dis- tances between E2-pretreated (red dots) vs. sham (blue dots) mice, before EAE induction (day 0), E2/EAE day 21 p.i. (orange) and sham/EAE day 21 p.i. (cyan). B) Relative abundances of significantly changed bacterial families in the gut of E2 and sham treated mice, day 21 p.i. A negative binomial generalized linear model implemented in DeSEQ2 was used to identify dif- ferentially abundant microbial families between groups, with a significance threshold of p <= 0.05 following Benjamini- Hochberg correction for multiple comparisons.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E2 protection against EAE induces a regulatory phenotype in the mesenteric lymph nodes and spinal cord
+
+We previously reported that E2 treatment can induce Bregs that are involved in ameliorating clinical signs of EAE through PDL1 and IL-10 dependent mechanisms ( ). However, in light of the clear impact of E2 administration on the gut microbiota, we hypothesized that E2 may promote the local ex- pansion of intestinal Bregs or other regulatory immune cell populations. We therefore examined whether E2 treatment affects immune cells in the gut-draining mesenteric lymph nodes (MLN) on day 21 p.i. As de- monstrated in , the frequencies of PDL1 on CD19 B cells and the M2 markers (Arg1 and CD206) on CD11b+ cells were significantly in- creased in E2 treated mice compared to sham treated mice (p < 0.001 and p < 0.05, respectively). Interestingly, we did not observe a higher frequency of CD4+FOXP3+ T cells in the MLN of E2 treated mice. To determine the frequency of IL-10 producing B cells in the MLN, IL-10 GFP mice were with implanted with E2 pellets 7 days prior to im- munization with mMOG-35-55 peptide/CFA/Ptx. E2 treated mice had a significantly higher frequency of IL-10 producing CD5+CD1dhi B cells in the mesenteric LN compared to sham treated  mice  (p  < 0.05)  (). Our results demonstrate that E2 treatment impacts the immune response in lymphatic organs that are involved with gut immunity.
+We next examined how gut microbiota composition relates to the
+frequency of activated CD11b+CD45hi cells, regulatory B cells, and M2- like CD11b+ cells in the CNS. Principal coordinate analysis (PCoA) of EAE mice on day 21 p.i. showed that microbial composition of the gut was  related  to  the  frequencies  of  CD11b+CD45hi  (activated  macro- phage/microglia), CD11b+CD206+ (M2-like) and CD19+CD5+CD1dhi
+
+
+(Breg) cells in the spinal cord, which were divided mainly into two distinct clusters (PERMANOVA p = 0.001, p = 0.001 and p = 0.003, respectively) corresponding with the treatment groups (E2 vs. sham, ). Together these findings indicate changes in the microbiota in- duced by estrogen treatment in the EAE model are also associated with a significant segregation of immune phenotype concomitant with dis- ease state.
+
+Discussion
+
+During pregnancy, women with MS often show clinical improve- ment during the third trimester, usually followed by temporary post- partum exacerbations ( ). These observations pointed to- wards the involvement of sex hormones, such as estrogen and estriol in disease regulation ( ). It was further demonstrated that the composition of gut microbiota changes during pregnancy (). Herein, we demonstrate for the first time that treatment of mice with pregnancy levels of estrogen induces changes in the composition and diversity of gut microbiota in mice. Additionally, estrogen prevents EAE-associated changes in the gut mi- crobiota and might promote the enrichment of bacteria that are asso- ciated with immune regulation.
+The impact of cross talk between sex hormones and the microbiota on the immune system is far from being completely understood. We demonstrated that E2 treatment significantly increases the abundance
+of Lactobacillaceae. This family was associated with induction of reg- ulatory cells and was also shown to be affected by estrogen (
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. E2 treatment protects against EAE by inducing regulatory B cells and anti-inflammatory macrophage in MLN. Frequency of CD19+PDL1hi, CD11b+CD206+, CD11b+Arg1+ and CD4+Foxp3+ cells in E2 (n = 6) or sham (n = 6) treated C57BL/6 mice on day 21 p.i. or CD19+IL-10+ cells in E2 (n = 6) or sham (n = 6) treated IL10/GFP mice on day 21 p.i.
+*p < 0.05, ***p < 0.001 Student's t-test.
+
+
+
+). It was reported that different strains of lactobacilli might attenuate EAE by inducing IL-10 producing cells (). Interestingly, the abundance of Lactobacillaceae family was increased in the E2 treated mice compared to the sham treated mice throughout the experiment, until mice were euthanized on day 21 p.i. It was demonstrated in various studies that different strains of this family are reduced in MS patients ( ).
+Our data suggest that while EAE might induce gut dysbiosis, pre- treatment with E2 could protect mice from these disease-associated changes. It is important to note that the changes in the gut microbiota of sham treated mice might also be effected by the eating and drinking habits of the mice during EAE. However, our data suggest the E2 treatment might promote the abundance of some anti-inflammatory related bacteria and prevent the severe dysbiosis that is induced by EAE. We showed that after disease induction the relative abundance of Lachnospiraceae was increased in E2 mice relative to sham treated mice that developed disease, whereas taxa such as Erysipelotrichaceae spp., which have been associated with induction of inflammatory cytokines such as TNFa (), were under-represented in E2-treated animals. Recently, Chen et al. reported the nod-like receptor (NLR) p12 is crucial in attenuation of colon inflammation by promoting protective bacterial growth. The authors demonstrated that Nlrp12 deficient mice are susceptible to dysbiosis and colitis and exhibit similar changes to those observed in EAE induction, with a loss of Lachnospiraceae family members and increases in the abundance of the Erysipelotrichaceae
+spp. (). Strikingly, Nlrp12 deficiency was also shown to
+
+exacerbate EAE (). It is possible that E2 treatment may therefore limit disease by similar me- chanisms to Nlrp12, or indeed directly promote Nlrp12 expression.
+Previously we demonstrated that E2 protection against EAE is medi- ated by regulatory B cells and M2 macrophages (  ). These cells were found to be increased in the spleen and CNS of E2 treated mice during EAE. In the current study we show that the frequencies of these regulatory cells were also increased in the gut mucosal immune compartment (MLN) of E2 treated mice compared to sham mice. Furthermore, we demonstrated that frequencies of activated CD11b+CD45hi cells, M2-like cells and regulatory B cells in the CNS correlated with the clustering of gut microbiota com- position of the treated mice (). Dysbiosis of gut microbes by anti- biotic (ABX) treatment leads to reduced EAE severity and is associated with increased levels of IL-10 and IL-13 and increased frequencies of regulatory T and B cells in the mesenteric and cervical lymph nodes (LN) (). It was further reported that polysaccharides from Bacteroides fragilis could expand in- testinal regulatory T cells and protect against EAE ( ). Interestingly, Rosser et al. reported that ABX treat- ment of mice led to reduction in the frequency of Bregs ( ). While these are two contradictory results that could be due to differences in housing conditions, diet and type of ABX cocktail, it is clear that the gut microbiota could induce either an enhanced pro-inflammatory response or an anti-inflammatory response by promoting diverse popula-
+tions of regulatory cells.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 6. Estrogen-induced changes in microbiota correlate with activated and regulatory cells in the spinal cord. PCoA analysis of EAE mice based  on  CD11b+CD45hi  cell,  CD11b+CD206+ (M2-like) cell or CD19+CD5+CD1dhi (Breg) cell frequency in spinal cord. p values represent PERMANOVA values for each comparison.
+
+
+
+It is possible that an estrogen-modified microbiota would have a protective effect in EAE by inducing regulatory cells. On the other hand, it is possible that estrogen-affected cells induce changes in the gut microbiota. Yurkovetskiy et al. demonstrated that microbes are able to regulate sex hormone levels and that sex hormones could change the microbial composition of the gut (). It was also suggested that estrogen-like compounds may be metabolized by gut microbes to produce estrogenic metabolites that could affect the im- mune system (). High fat diets were shown to increase the lipopolysaccharide (LPS) producing Gram-nega- tive bacteria, whereas estrogen was reported to reduce LPS-induced inflammation and decrease the concentration of these bacteria ( ). While further experiments are needed to determine whether the microbiota composition observed in estrogen-treated mice is sufficient to induce protection against EAE, these findings point to a feedback loop between sex hormones and gut microbiota that affects
+the immune system.
+
+Conclusions
+
+In summary, our present study demonstrates that estrogen treat- ment induces changes in the gut microbiota composition which are associated with protection against EAE. Furthermore, while EAE leads to dysbiosis, estrogen pretreatment reduced these changes and in- creased the frequency of regulatory B cells and anti-inflammatory macrophages in the MLN and spinal cord of mice. Subsequent studies are needed to better understand the cross talk between sex hormones and the gut microbiota, which could open new avenues of research to identify particular bacteria that could promote immune regulation.
+
+Authors' contributions
+
+HO directed the research. GB and MA designed the experiments. GB
+wrote the manuscript. JZ, HN, GK, SD, HS and PS carried out the ex- periments,  LK  performed  data  and  statistical  analysis.  AAV  critically
+
+reviewed the manuscript. All authors critically reviewed data and edited the manuscript.
+
+Competing interests
+
+The authors declare that they have no conflict of interest.
+
+Acknowledgements
+
+This work was supported by NIH/NINDS grant RO1 NS080890 (H.O.). This material is the result of work supported with resources and the use of facilities at the VA Portland Health Care System, Portland, OR. M.A. is supported by the Spondylitis Association of America. The contents do not represent the views of the Department of Veterans Affairs or the US government.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at  .
+
+References
+
+. 
+ .
+  ff.
+
+  .
+  .
+
+ .
+  .
+ff  .
+  .
+   .
+ff  .
+ fl.
+  .
+  .
+ .
+   .
+  .
+  .
+ff fl .
+
+
+ .
+ .
+  .
+ fl fl.
+ .
+
+ .
+
+ .
+  .
+  .
+ ff .
+fl  .
+ .
+ fl .
+  .
+
+ .
+ .
+
+.
+ .
+ .
+  .
+ .
+  .
+  fl.
+  .
+  .
+ .
+  .
+ff  .
+
+.
+  .
+.
+ff   .
+
+
+
+
+.
+ 
+.
+  fl .
+ fl .
+
+
+. 
+ .
+ff  fi.
+  flfi .

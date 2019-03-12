@@ -1,0 +1,543 @@
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Evaluation of method bias for determining bacterial populations in bacterial community analyses
+Masayuki Takahashi,Yasuko Kita, Akihiro Mizuno, and Nami Goto-Yamamoto
+
+National Research Institute of Brewing (NRIB), 3-7-1 Kagamiyama, Higashi-Hiroshima 739-0046, Japan
+
+Received 20 December 2016; accepted 15  May 2017
+Available online 7 June 2017
+Various methods are used for analyzing a bacterial community. We recently developed a method for quantifying each bacterium constituting the microbiota by combining a next-generation sequencing (NGS) analysis with a quantitative polymerase chain reaction (NGS-qPCR) assay. Our NGS-qPCR method is useful for analyzing a comprehensive bacterial community because it is enables the easy calculation of the amounts of each bacterium constituting the microbiota. However, it has not been confirmed whether the estimated bacterial community obtained using this NGS-qPCR method corresponds to the results obtained using conventional methods. Accordingly, we prepared model bacterial community samples and analyzed them by several methods (NGS-qPCR, species-specific qPCR, flow cytometry, total direct counting by epifluorescent microscopy [TDC], and plate count). The total bacterial cell densities determined by the PCR-based methods were largely consistent with those determined by the TDC method. There was a difference  between  the amounts of each bacterium analyzed by NGS-qPCR and species-specific qPCR, although the same trend was shown by both species-specific qPCR and NGS-qPCR. Our findings also demonstrated that there is a strong positive correlation between the cell densities of a specific bacterial group in craft beer samples determined by group-specific qPCR and NGS- qPCR, and there were no significant differences among quantification methods (we tested two bacterial groups: lactic  acid bacteria and acetic acid bacteria). Thus, the NGS-qPCR method is a practical method for analyzing a comprehensive bacterial community based on a bacterial cell density.
+(c) 2017, The Society for Biotechnology, Japan. All rights reserved.
+[Key words: Next-generation sequencing-quantitative polymerase chain reaction; Bacterial community analysis; Bias; Relative abundance; Bacterial population; Quantification method]
+
+
+A comprehensive analysis of bacterial diversity by polymerase chain reaction (PCR)-based methods such as PCR-denaturing gradient gel electrophoresis (DGGE) and next-generation sequencing (NGS) has been performed in various fields of study (e.g., food and beverages, the environment, the human gastroin- testinal system) e. These methods enable the detection of bacteria that cannot grow on culture medium, and they can be used to analyze detailed bacterial diversity in a relatively short time. However, a PCR-DGGE analysis or a conventional NGS analysis shows only the abundance ratio of each bacterium, not the popu- lation of each bacterium. For example, in an investigation of the variation of bacterial cell density during fermentation or for the determination of the correlation between bacterial cell density and the content of a specific component, quantifying the population of each bacterium that is part of a bacterial community is beneficial for the evaluation of that community.
+Various quantification methods have been developed and used for quantifying bacterial cell densities; however each quantification method has its merits and demerits. For culture-dependent analyses, several studies have reported that the majority of environmental bacteria were not detected by known culture media, and a bacterial
+
+
+* Corresponding author. Tel.: th81 82 420 0800; fax: th81 82 420 0802.
+E-mail address: (M. Takahashi).
+
+cell density estimated by a culture-dependent method was influ- enced by a bias based on the culture e. Fora culture-independent analysis, flow cytometry combined with in situ hybridization or target-specific qPCR have been used for quantifying a target bacte- rium, but a specific probe for the in situ hybridization or the target- specific primer set should be designed for each target bacterium e. Thus, the comprehensive analysis of a bacterial community by the quantification methods described above is not realistic.
+We recently developed a new method that is a combination of an NGS analysis and quantitative PCR (qPCR); it enables researchers to calculate the cell density of each bacterium . However, it was reported that comprehensive bacterial community analyses by NGS were influenced by the structure of the bacterial community, sequencing technology, and PCR bias e. Accordingly, we attempted herein to confirm whether an estimated abundance of a bacterial community obtained using our NGS-qPCR method cor- responds to the results obtained using conventional methods (e.g., the bacterial cell density of a specific bacterium determined by a plate count or a target-specific qPCR, and the total bacterial cell density determined by the total direct count obtained by epifluor- escent microscopy [TDC] or flow cytometry).
+In this study, we prepared model bacterial community samples and analyzed the samples by several methods: the new NGS-qPCR method, a species-specific qPCR, flow cytometry, TDC, and plate counting. By analyzing a model bacterial community composed of
+
+
+1389-1723/$ e see front matter (c) 2017, The Society for Biotechnology, Japan. All rights reserved. 
+
+VOL. 124, 2017	METHOD BIAS FOR DETERMINING BACTERIAL POPULATION	477
+
+
+known bacteria, we evaluated the bias of these methods including the NGS-qPCR. An overview of the experimental procedure is shown in . In addition, to evaluate whether the NGS-qPCR method is useful for determining the population of a specific bac- terial group in complex bacterial flora, we attempted to determine the densities of lactic acid bacteria (LAB) and acetic acid bacteria (AAB) in craft beer samples (Some LAB and AAB, particularly genus Lactobacillus [e.g., Lactobacillus brevis, Lactobacillus lindneri] and genus Pediococcus [e.g., Pediococcus damnosus], are typical unde- sirable contaminants of beer). Our goals in conducting the present study were to evaluate the bias of each method and to assess the practical use of the NGS-qPCR method.
+
+
+MATERIALS AND METHODS
+
+Strains  used	The nine bacterial strains used in this study are shown in . All strains other than Escherichia coli DH5a were obtained from the NITE
+
+
+Biological Resource Center (NBRC), Japan. E. coli DH5a was purchased from Toyobo (Osaka, Japan).
+Sample preparation All of the bacterial strains were precultured two times with each appropriate medium and appropriate conditions described as , and then 100 mL of preculture medium was inoculated into 10 mL of the main culture medium. The main culture was carried out using the same conditions as those for the   preculture.   Each   bacterial   suspension  was   diluted  to  106  cells   mL-1  with
+phosphate-buffered saline (PBS) based on the result of the flow cytometry analysis (see the section described below).
+We prepared six sample suspensions (AeF) by mixing each bacterial suspension (the mixture ratio described in ). Each bacterial mixture suspension was sampled  in  triplicate,  and  triplicate samples  were analyzed separately by each
+method as described below. The samples were stored at -30o C until use; however,
+the plate culture analysis was performed soon after this preparation protocol, and the samples were stored at 4o C until inoculation.
+Thirty seven bottles of commercial craft beer were purchased from the market (Supplementary Table S1).
+Flow cytometry        We filtrated the  samples  using a 100-mm  cell strainer (BD Falcon, Franklin Lakes, NJ, USA). Each sample (1 mL) was centrifuged at 10,000 x g at 4oC for 5 min. The pellet was rinsed with 1 mL of 0.85% saline twice, and then the bacterium was suspended in 100 mL of 0.85% saline containing 5 mM SYTO9 dye (Molecular Probes, Thermo Fisher Scientific, Waltham, MA, USA). After the reaction
+
+
+
+
+
+Determination of the bacterial cell density using flow cytometry
+Dilution of 106 cells mL-1 with PBS
+
+
+
+
+
+Mixing of the bacterial suspensions (Mixture ratio is shown in Table 2)
+
+
+
+SYTO 9 staining	genomic DNA extraction
+
+
+
+
+
+Plate culture
+MRS agar No.323 (NBRC) No.802 (NBRC) No.804 (NBRC)
+LB agar
+
+Flow cytometry Total direct counting
+
+
+
+NGS-qPCR
+Species-specific qPCR
+
+FIG. 1.  Overview of experimental procedure.
+
+
+TABLE 1. Bacterial strains and the culture conditions used for each bacterium.
+
+
+No.	Species	Strain	Accession no. (16S rRNA gene)	Culture medium	Culture conditions	Ribosomal RNA
+operon copy numbera,b
+Alicyclobacillus acidocaldarius	NBRC 15652	AB271754	NBRC323	60oC, 3 days, aerobic	6
+Bacillus subtilis	NBRC 13719	AB271744	NBRC802	30oC, 1 day, aerobic	10
+Escherichia coli	DH5a	-00330101c	LB	37oC, 1 day, aerobic 	7
+Gluconobacter  oxydans	NBRC 14819	AB178433	NBRC804	30oC, 3 days, aerobic	4.5
+Lactobacillus casei	NBRC 15883	AB626050	MRS	30oC, 1 day, anaerobic	5
+Lactobacillus fermentum	NBRC 15885	AB626052	MRS	30oC, 1 day, anaerobic	5
+Leuconostoc mesenteroides	NBRC 100496	-11690501c	MRS	30oC, 2 days, anaerobic 	4
+Micrococcus luteus	NBRC 3333	-00333301c	NBRC802	30oC, 2 days, aerobic 	2
+Pseudomonas fluorescens	NBRC 14160	-01416001c	NBRC802	30oC, 1 day, anaerobic 	5.1
+a The rRNA gene operon copy number of each bacterium used in this study was obtained from the Ribosomal RNA Operon Copy Number Database (rrnDB;  ) .
+b Because the 16S rRNA operon copy numbers of G. oxydans NBRC 14819 and P. fluorescens NBRC 14160 were not available, we used the mean value of the 16S rRNA operon
+copy number of each bacterial species for the bacterial cell density calculation.
+c The numbers indicate sequence IDs of the sequences that have been released on the NBRC website.
+
+
+for 30 min at 25o C protected from light, the suspension was added to 800 mL of TNE buffer (10 mM TriseHCl [pH 7.4], 1 mM EDTA [pH 8.0], 150 mM NaCl) supplemented with 50 mM potassium citrate (pH 7.4) and 100 mL of Flow-Count Fluorosphere  beads (Beckman Coulter, Brea, CA, USA) at a known concentration.
+We used a 525-nm filter to detect bacteria and a 610-nm filter to quantify the Flow-Count Fluorosphere beads in the flow cytometry analysis. The flow rate was set to 1000 events s-1 or less. The flow cytometry analysis was performed in triplicate using a Coulter Elite flow cytometer (Beckman Coulter).
+TDC  method  by  epifluorescent  microscopy        A  99-mL  sample  was  mixed with 1 mL of 500 mM SYTO9 dye. After the reaction for 30 min at 25o C protected from light, the reaction suspension was added to 900 mL of 0.85% saline. The bacteria were then collected on a black-type track-etched polycarbonate membrane filter (K020N025A, Toyo Roshi Kaisha, Tokyo) and rinsed twice with 1 mL of ultra-pure water. The membrane filter was dried in oven at 60oC for 30 min and then
+observed   by  epifluorescent   microscopy.   A   cell   count   was   performed using
+x 10-grid eyepiece micrometer which was calibrated with a stage micrometer. The bacterial cell number was calculated based on the average count of 20 randomly selected visual fields and an effective filtering area.
+Culture-dependent  detection	All samples were diluted by 100e1000 times with 0.85% saline. Each 100 mL of diluted sample was inoculated onto five plate media (NBRC802, NBRC804, NBRC323, de Man, Rogosa and Sharpe agar [MRS], and LB agar) and cultured for 16e72 h at each appropriate condition described in . The bacterial colonies were counted and identified as follows: First, we randomly
+chose 50 colonies per plate, and the SSU rRNA gene of each bacterium was amplified using Quick Taq HS DyeMix (Toyobo) and primer mixture (final concentration, 0.2 mM each primer; Supplementary Table S2). The thermal cycler program was as follows: 96o C for 3 min; 10 cycles of 96o C for 15 s, 60o C for 30 s with a 1oC decrease per cycle, 72oC for 80 s; 30 cycles of 96o C for 15 s, 50oC for 30 s, and 72o C for 80 s.
+The amplicons were analyzed by 1.2% agarose gel electrophoresis and identified based on amplicon size. Finally, we calculated the population of each bacterium (colony-forming  unit  [CFU]  mL-1)  using  the  colony  numbers  and  the  abundance ratio of each bacterium. We judged that the population of a bacterium was the largest number among the results obtained if an identical bacterium grew on several media. The total bacterial number was the sum of each bacterial number determined as described above.
+DNA extraction Genomic DNAs of the bacterial biomass collected from each bacterial mixture suspension were extracted with the NucleoSpin Soil kit (MachereyeNagel, Duren, Germany) according to the manufacturer's instructions. The internal control plasmid containing an artificial sequence (accession no.
+
+
+TABLE 2. The mixture ratio of each bacterium solution in each sample.
+
+
+No.	Species	Mixing ratio (%)
+
+
+LC129268, final 107 copies mL-1) was added to the lysis buffer. The internal control was added for calibrating DNA extraction efficiency.
+Genomic DNAs of bacteria in the commercial craft beer samples were extracted with the PowerWater DNA Isolation kit (Mo Bio Laboratories, Carlsbad, CA, USA). Briefly, 100 mL of craft beer was centrifuged at 16,200 g at 4oC for 10 min, and the
+supernatant  was  filtrated  with  a  0.2-mm  pore-size  membrane  (MicroFunnel  Filter
+Funnels; Pall Corporation, Port Washington, NY, USA). The filter was inserted into a PowerWater bead tube. The pellet was suspended using PW1 buffer, and the sus- pension was transferred into the same PowerWater bead tube. Genomic DNA of the
+bacterial biomass collected by centrifugation and filtration was extracted according to the manufacturer's instructions. Finally, genomic DNAs were eluted using 100 mL of PW6 buffer (the elution buffer). For the determination of the bacterial cell density of the beer samples, the internal control plasmid was not added. The genomic DNAs were stored at -30oC until used.
+Quantitative PCR for the quantification of each specific bacterium The quantification of each bacterium by quantitative PCR (qPCR) was performed as fol- lows. The PCR was carried out using a Roche Lightcycler system (Roche Diagnostics, Indianapolis, IN, USA) in a total volume of 10 mL using FastStart Essential DNA Green Master (Roche Diagnostics) containing 500 nM of each of the forward and reverse primers (). Each primer set was designed to generate approximately 100 bp fragments based on 16S rRNA gene sequence of each bacterium. The standard DNAs for the quantification of each bacterium were prepared from each bacterial
+suspension, which was quantified by the TDC method as described above.
+The thermal cycler program was 95o C for 10 min, 40 cycles of 96o C for 15 s, XoC for 20 s, and 72o C for 20 s. The annealing temperatures (X) are shown in . The quantification limits of each bacterium calculated based on the standard  curve  linearity are shown in .
+For the evaluation of the specificities of each primer set, we verified that the quantitative values of the genomic DNA (gDNA) mixture except for the target bacteria (1.0  x  106 cells mL-1 each) were below the quantification limits of each qPCR con- dition. The PCR efficiency of each qPCR condition ranged from 86% to 98%. The PCR efficiency of each qPCR condition was calculated based on the slope of standard curve.
+Quantitative  PCR   for   the   quantification   of   total   ribosomal   RNA   copies The quantification of total ribosomal RNA gene copies by qPCR was per- formed by the hydrolysis probe method as follows. The PCR was carried out using a StepOnePlus Real-Time PCR System (Applied Biosystems, Foster City, CA, USA) in a total volume of 20 mL using EagleTaq Universal Master Mix with ROX (Roche Di- agnostics) containing 100 nM of forward and reverse primers and a hydrolysis probe
+for the quantification of the target gene (small subunit [SSU] ribosomal [r]RNA gene) and 150 nM of forward and reverse primers and 100 nM of a hydrolysis probe for the quantification of the internal control plasmid (). The thermal cycler program
+was 95o C for 10  min, 40 cycles at 95o C for 15 s and 60o C for 60 s. We calibrated the
+standard curves for the target gene and the internal control by using plasmid pCR4Blunt-TOPO containing the 16S rRNA gene from Lactobacillus hilgardii (length: 5489 bp) and the internal control plasmid, respectively.
+For analysis of craft beer samples, internal control calibration was not performed.
+Quantitative PCR for the quantification of LAB, AAB, genus Lactobacillus and genus Pediococcus in the commercial craft beer Group-specific qPCR for quantification of LAB and AAB were carried out using a Roche Lightcycler system in a total volume of 20 mL using FastStart Essential DNA Green Master containing 600 nM and 250 nM of each of the forward and reverse primers, respectively (). The thermal cycler program for LAB and AAB was 95o C for 10 min, 40 cycles of 95o C for 60 s, 68o C for 30 s, and 72o C for 60 s and 95oC for 10 min, 40 cycles of 95oC for 15 s, 68o C for 20 s, and 72o C for 20 s, respectively. Genus-specific qPCR for quantification of genus Lactobacillus and genus Pediococcus was carried out using a Roche Lightcycler system in a total volume of 20 mL using FastStart Essential DNA Green Master containing 500 nM of the forward and reverse primers (). Genus-
+
+
+
+
+
+
+
+
+
+
+TABLE 3. The primer sets and probes used in this study.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.0 x 102e1.0 x 108 (for beer sample)
+
+
+
+NGS533R	50-(SeqR)- TTACCGCGGCTGCTGGCAC-30
+
+
+
+a SeqF, CGTATCGCCTCCCTCGCGCCATCAG; SeqR, CTATGCGCCTTGCCAGCCCGCTCAG.
+b ZEN, internal quencher for qPCR using hydrolysis probe detection.
+
+
+9
+8.5
+8
+7.5
+7
+6.5
+6
+5.5
+5
+4.5
+4
+A	B	C	D	E	F
+
+FIG. 2. Comparison of the total bacterial cell density values determined by each method. The quantification values of the total bacterial cell densities determined by flow cytometry (dotted bars), plate culture (closed bars), TDC (dark shaded bars), NGS-qPCR (light shaded bars) and species-specific qPCR (open bars). The numbers on the y-axis indicate the logarithmic value obtained by each method. Error bars: standard deviation from the mean value (n     3). The results obtained by plate culture are expressed as CFU mL-1, and as cells mL-1 for the other methods.
+
+
+specific Primer sets were designed based on SSU rRNA gene sequence and evaluated using SILVA  (). The thermal cycler program for genus Lactobacillus was 95oC for 10 min, 40 cycles of 96oC for 15 s, 65oC for 20 s, and 72o C for 20 s, and that for genus Pediococcus was 95o C for 10 min, 40 cycles of 96o C for 15 s, 62o C for 20 s, and 72o C for 20 s. The standard DNAs for the quantitative PCR were prepared from a bacterial suspension with  a  known  concentration.  The standard curve for determining LAB and genus Lactobacillus was generated from a dilution series of gDNA prepared from a Lactobacillus fermentum cell suspension
+with a known concentration. The standard curve for  determining  AAB  was generated from a dilution series of gDNA prepared from a Gluconobacter oxydans cell suspension with a known concentration, and the standard curve  for  determining  genus P. damnosus was generated from that of a P. damnosus (P. damnosus NBRC 107867 used to generate a standard curve for  genus-specific  qPCR  was  obtained from NBRC). Therefore, the quantification value by the target-specific qPCR was obtained as each bacterial equivalent number (L. fermentum eq., P. damnosus eq. or
+oxydans eq.). The quantification limits of each bacterium calculated based on the standard curve linearity are shown in .
+Next-generation  sequencing    The PCR was carried out in a total volume of  50 mL containing 1 x KOD-Plus-Neo buffer, 1.5 mM MgSO4, 0.2 mM of each dNTP, 1 U KOD-Plus-Neo (Toyobo), 0.3 mM primer set, and genomic DNA. We used primers 27F and 533R for the amplification of the SSU rRNA gene of the bacteria (), which
+were attached to the key sequence and multiplex identifier (MID) tags for Genome Sequencer FLX (GS FLX) sequencing (the MID tags used in this study are listed in Supplementary Table S3). The thermal cycler program was 94oC for 3 min, 40
+cycles of 96o C for 15 s, 50o C for 30 s, and 68o C for 30 s.
+We estimated the size of each PCR amplicon by using a 100-bp DNA Ladder Marker (Takara Bio, Shiga, Japan) and 1.2% agarose gel electrophoresis. The sequencing run was carried out using a Roche/454 GS FLX Titanium (Macrogen Japan, Tokyo, Japan). The MID tag sequences for discriminating samples and sequencing primer sequences were  trimmed  away from the  sequence obtained  by  the NGS analysis.
+To analyze the bacterial diversity of bacterial mixture suspension, we used the 16S rRNA gene sequence of each bacterium obtained from the Biological Resource Center (NBRC) as the reference sequence. After chimeric sequences were removed using ChimeraSlayer , the obtained sequences were identified with QIIME (Quantitative Insights Into Microbial Ecology 1.8.0, ) . The pa- rameters of the microbiome analysis for bacterial mixture suspension by QIIME were as follows: Operational taxonomic units (OTUs) were clustered using the UCLUST method with a threshold of 98% pairwise identity. The obtained OTUs were iden- tified using the UCLUST algorithm with a threshold of 90% pairwise identity. To analyze the bacterial diversity of craft beer, we used the greengenes 13_8 database and default parameter. The detection ratio of each bacterium was calculated from the total read counts of each sample and the cluster size of each bacterium.
+Bacterial cell density calculation method from NGS and qPCR The cell mL-1 of bacteria was calculated as described previously . Briefly, the total copy number obtained by qPCR was multiplied by the bacterial abundance ratio obtained from the NGS analysis. The copy number of each bacterium was divided by the rRNA gene operon copy number of each bacterium obtained from the Ribosomal RNA Operon Copy Number Database ( ) . The total bacterial cell density is the sum of each bacterial cell density.
+For analysis of craft beer samples, the cell densities of LAB and AAB are defined as the sum of the bacterial cell density of Lactobacillus, Pediococcus, Leuconostoc and Weissella (LAB), and that of Acetobacter, Gluconacetobacter and Gluconobacter (AAB), respectively.
+
+Statistical analysis Statistical analyses in this study were performed using R package () (R Core Team 2011).
+Culture-dependent detection in the commercial craft beer All  craft beer samples were inoculated onto plate medium on the unsealing day. RakaeRay agar (Oxoid Ltd., UK) containing 10 mg ml-1 cycloheximide was used for the detection of
+LAB at 25o C under anaerobic conditions using AnaeroPack (Mitsubishi Gas Chemical
+Co., Inc., Tokyo, Japan) for 1 week. The sample was diluted by ten to ten thousand times with sterilized water, and then 100 mL of the diluted or undiluted sample was used for plate inoculation.
+We randomly chose 20 colonies per plate (when fewer than 20 colonies were available, all colonies were analyzed), and nearly full-length sequence of 16S rRNA gene of them was amplified using EmeraldAmp PCR Master Mix (Takara Bio) and primer sets (27F and 1492R, ) by colony-direct PCR. The thermal cycler
+program was 96o C for 3 min, 40 cycles of 96o C for 15 s, 53oC for 30 s, and 72o C for
+90 s. The amplicons were digested with Hinf I and Hae III individually, and the digested products were analyzed by agarose gel electrophoresis. Microbes indicating the same restriction fragment length polymorphism (RFLP) pattern within the same sample were classified as the same microorganism, and all microbes that indicated different RFLP patterns within the same sample were identified by  a  homology  search of the nearly full-length sequence of the SSU rRNA gene using BLAST. The obtained DNA fragments were sequenced using 27F, 341F and 1492R ().
+
+
+RESULTS
+
+Comparison of total bacterial  cell density  value We used five methods to quantify the total bacterial cell densities of each sample. The results obtained by each method are illustrated in . The bacterial cell densities determined by flow cytometry were approximately 106 cells mL-1, which is reasonable considering the bacterial-mixture suspension preparation method. The bacterial cell densities obtained using the plate culture method were approximately   107  CFU   mL-1,   and   the   bacterial   cell   densities obtained using the TDC, species-specific qPCR and NGS-qPCR methods were approximately 108 cells mL-1. The total bacterial cell densities determined by the TDC, species-specific qPCR and NGS- qPCR methods were almost the same (Supplementary Table S4).
+Comparison  of  each  bacterial  cell  density  value		Plate cul- ture, species-specific qPCR and NGS-qPCR are capable of quantifying each bacterium separately. The results obtained using each method are shown in . The populations of four species (Alicyclobacillus	acidocaldarius,	G.	oxydans,	Leuconostoc mesenteroides and Micrococcus luteus) were  underestimated  or not detected by the plate culture method, even  though  all bacteria are capable of growing on the media tested in this study. Regarding the results obtained by the PCR-based methods, the large or small relation among samples of quantitative values determined by the NGS-qPCR method was similar to that
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 3. Comparison of each bacterial cell density value determined by the plate culture and PCR-based methods. (AeI) The quantification value of each bacterium determined by         plate culture (closed bars), NGS-qPCR (shaded bars) and species-specific qPCR (open bars) is shown. The numbers on the y-axis indicate the logarithmic value obtained by each method. The results obtained by plate culture are expressed as CFU mL-1, and as cells mL-1 for the other methods. Sample B (indicated by asterisk) did not contain those bacteria (A. acidocaldarius, G. oxydans, L. mesenteroides and P. fluorescens). Error bars: standard deviation from the mean value (n 1/4 3). N.D., not detected or below the limit of quantification.
+Boxplot of the common logarithms of the ratio of quantification value by NGS-qPCR to that by species-specific qPCR.
+
+determined by the species-specific qPCR, but the bacterial cell densities determined by these two methods differed for several bacteria (). There was a difference among common logarithm of ratio of quantification value of each bacterium using NGS-qPCR to that using species-specific qPCR (Log10 NGS-qPCR/species- specific qPCR), the maximum value was 0.722 (G. oxydans, average) and the minimum value was 1.688 (A. acidocaldarius, average) (J). These results indicate that the quantification value of A. acidocaldarius using NGS-qPCR was underestimated compared with that using species-specific qPCR, and G. oxydans was the opposite result. Thus, we investigated the influence of in- ternal sequence of template DNA on PCR bias. Benita et al. has reported that the regionalized GC content (NormAUCGC) of tem- plate DNA is sensitive predictor of PCR outcome. As the result of evaluating the relation between NormAUCGC of template DNA and Log10 NGS-qPCR/species-specific qPCR, there was a negative cor- relation among them (; R 0.4778, p < 0.05).
+When we compared the abundance ratio of each bacterium ob- tained by the NGS analysis and that obtained by the species-specific qPCR analysis, the abundance ratios of A. acidocaldarius, G. oxydans and Pseudomonas fluorescens obtained by the NGS method were markedly different from those obtained using the species-specific qPCR (). In addition, the change in the bacterial cell density did not always coincide with that of the abundance ratio. In our comparison of the relative abundance with the amount of Micro- coccus, the amount of Micrococcus (H) in sample B (mean log value 7.13) was smaller than that in sample E (mean log value 7.18),
+
+but the abundance ratio of Micrococcus () was the opposite result (i.e., 37.1% [sample B] and 23.3% [sample E]).
+
+
+Quantification of LAB, AAB, genus Lactobacillus and genus Pediococcus  in  the  commercial  craft  beer   The  cell  densities of LAB and AAB in the commercial craft beer were quantified using NGS-qPCR and group-specific qPCR. We tested 37 bottles of commercial craft beer. The cell densities of each bacterium determined by each method are shown in . In both bacterial groups, the cell densities determined by NGS-qPCR were well consistent with those determined by group-specific qPCR, and the bacterial cell densities determined by each method showed no significant differences (paired t-test, p > 0.05).
+The cell densities of genus Lactobacillus and genus Pediococcus determined by NGS-qPCR were well consistent with those deter- mined by genus-specific qPCR, except for several samples (A and B). There was a difference in several samples (nos. 3, 16, 27) between the cell densities of genus Pediococcus determined by NGS-qPCR and those determined by genus-specific qPCR. The re- sults of the melting curve analysis revealed that the melting curve of the amplicon of sample nos. 3, 16 and 27 was different from that of P. damnosus (Supplementary Fig. S1).
+The bacterial cell density of genus Lactobacillus determined by plate culture was less than that by NGS-qPCR (C), and no genus Lactobacillus was detected in several samples by plate culture (this result corresponded to the result obtained by genus-specific
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 4. Correlation between NormAUCGC and Log10 NGS-qPCR/species-specific qPCR. The markers of each bacterium are shown in the graph legend. The numbers on the x-axis   indicate the regionalized GC content, which was proposed as an indicator of PCR success by Benita et al. , and the numbers  on the y-axis indicate the common  logarithms  of  the  ratio of quantification value by NGS-qPCR to that by species-specific qPCR (Log10 NGS-qPCR/species-specific qPCR). Error bar: The 95% confidence interval (95% CI).
+
+Alicyclobacillus acidocaldarius	Bacillus subtilis	Escherichia coli
+Gluconobacter oxydans	Lactobacillus casei	Lactobacillus fermentum Leuconostoc mesenteroides	Micrococcus luteus	Pseudomonas fluorescens
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+
+
+
+
+FIG. 5. The abundance ratio of each bacterium analyzed by the conventional NGS and species-specific qPCR methods.
+
+
+(B)
+6	6
+27
+16	3
+5	5
+
+3
+4	31
+
+3
+
+2
+18
+20 17
+
+
+4
+
+3
+
+2	16
+9
+
+17 29
+
+
+5     8
+22
+26
+
+1
+
+N.D0.
+
+
+
+
+N0.D.
+
+29
+28
+
+
+1	2	3	4	5	6
+
+1
+
+N.D0.
+
+18
+
+
+N0.D.
+
+27
+33
+
+1	2	3	4	5	6
+
+Log10 cells mL-1
+determined by group-specific qPCR
+(L. fermentum equivalent number)
+
+Log10 cells mL-1
+determined by group-specific qPCR (G. oxydans equivalent number)
+
+
+FIG. 6. Quantification of LAB and AAB in the commercial craft beer samples by NGS-qPCR and group-specific qPCR. The cell densities of LAB and AAB were quantified by NGS-qPCR and group-specific qPCR. The x-axis indicates the cell density of each bacterial group quantified by group-specific qPCR, and the y-axis indicates that quantified by NGS-qPCR. The marker number indicates the sample number in Supplementary Table S1. N.D., not detected or below the limit of quantification.
+
+qPCR; data not shown). The genus Pediococcus result was similar to that of genus Lactobacillus (D).
+
+DISCUSSION
+
+By comparing the bacterial population of each sample obtained by each method, we evaluated the method biases. Total bacterial cell densities obtained by plate culture, TDC and PCR-based methods exhibited a higher density relative to that obtained by flow cytometry (). The cause of the significant underestima- tion of bacterial cell density as determined by flow cytometry has not been clarified. However, there is a possibility that the under- estimation was caused by an aggregation of bacteria, because sonication had not been carried out before the flow cytometry analysis. The plate culture method also underestimated the total
+
+bacterial cell density (), and this is because of the selectivity of the medium and the difference in the growth rate of each bacte- rium (e.g., Lactobacillus casei and L. fermentum can grow rapidly on MRS medium compared to L. mesenteroides). Additionally, several bacteria were underestimated or not detected by the plate culture method (A, D, G and H). There are thus some bacteria which are not detectable in complex microbiota even when we use the appropriate medium.
+There was the difference between the abundance ratio of several bacteria obtained by the conventional NGS method and that ob- tained by species-specific qPCR (). This is likely due to PCR amplification bias in the preparation of the NGS template. Gener- ally, a universal primer is used for the comprehensive amplification of genomic DNA obtained from a bacterial community. PCR effi- ciency and amplification bias are influenced by the target length
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 7. Quantification of Lactobacillus in commercial craft beer samples by NGS-qPCR, genus-specific qPCR and culture-dependent method (RakaeRay medium). The cell densities of Lactobacillus were quantified by NGS-qPCR and genus-specific qPCR, and the colony-forming units of Lactobacillus in 1 mL of sample were quantified by culture-dependent method (RakaeRay medium) and PCR-RFLP analysis (16S rRNA gene). The marker number indicates the sample number in Supplementary Table S1. N.D., not detected or below the limit of quantification.
+
+and sequence, the GC content, PCR enzyme, indexed PCR primers and primer mismatch ee. However, there is no mismatch between the primer sequence and the primer annealing position of rRNA gene of the nine bacterial species used in the present study. We calculated the efficiencies of the PCRs for which amplification was performed using the primer set for NGS (primer no. 16 in ) and each bacterial gDNA separately by the Lightcycler; the PCR efficiencies ranged from 59% to 78% (data not shown). Thus, the difference in PCR efficiency and amplification bias (e.g., derived from Tm value of target DNA fragment) among each bacterial gDNA probably influenced the abundance ratio ob- tained from the conventional NGS analysis and each bacterial cell density determined by NGS-qPCR. This hypothesis is also supported by the correlation between NormAUCGC and Log10 NGS-qPCR/ species-specific qPCR (), although there are some exceptions (Lactobacillus casei and Bacillus subtilis). This result shows a possi- bility that a cell density of bacterium of which contains high-GC content region in PCR target region is underestimated, and corre- sponded to a previous study .
+For managing food hygiene and evaluating an environmental
+sample, it is important to discuss the amount of pathogen and a bacterial community based on bacterial cell density. However, a data obtained by conventional NGS analysis is just abundance ratio of each bacterium. It should be noted that when microbiota are evaluated based on the abundance ratio of each bacterium, a decrease in the abundance ratio of a bacterium is not always re- flected by a decrease in the amount of that (). This is because the abundance ratio is influenced by the difference in the total bacterial cell density among samples. Therefore, the bacterial community should be evaluated or compared based not on the abundance ratio of each bacterium but rather based on each bac- terial cell density value.
+Species-specific qPCR is an excellent method to determine the cell density of bacteria. That is, qPCR is a simple and robust tool; it is capable of high-specificity and high-sensitivity detection, and species-specific qPCR is not influenced by PCR bias when the standard curve is calibrated using the target bacterium with a known cell density. However, it is not realistic to analyze an un- known bacterial community comprehensively by using species- specific qPCR. As described above, the bacterial populations ob- tained from the species-specific qPCR and NGS-qPCR indicated the same trend. Additionally, the bacterial cell densities of LAB, AAB, genus Lactobacillus and genus Pediococcus in the commercial craft beer samples determined by NGS-qPCR were well consistent with those determined by group-specific qPCR and genus-specific qPCR with some exceptions (A, B).
+There was a difference between the result obtained from NGS- qPCR and that obtained by genus-specific qPCR in the cell density of genus Pediococcus (B, sample nos. 3, 16, 27). It is not easy to quantify the cell density of all species of only genus Ped- iococcus, because the rRNA gene sequences of some species of genus Lactobacillus are closely related to those of genus Ped- iococcus. As a result of the evaluation of the primer set  using SILVA, L. plantarum was amplified by a genus Pediococcus-specific primer set. We thus speculate that the difference between quantification values obtained by the two methods is  caused  by  the amplification of genome DNA of genus Lactobacillus (e.g.,
+plantarum) by the genus Pediococcus-specific primer set. Therefore, there is a possibility that  group-  or  genus-specific qPCR leads to an under- or overestimation of  a  target  bacterial cell density when it is difficult to design a target-specific primer set. Even though the bacterial community estimated by  NGS- qPCR is probably influenced by PCR-bias, the results obtained from present study indicate that NGS-qPCR is of practical use. When necessary, the detailed target bacterial  cell  density  may also be quantified by species-specific qPCR. The removal of PCR
+
+bias is important for PCR-based analyses used to determine the actual bacterial community, and this is a task to be addressed further in future studies.
+Supplementary data related to this article can be found at  .
+
+References
+
+.
+e.
+e.
+e.
+e.
+fie.
+fie.
+fie.
+fie.
+fifi.
+e.
+e .
+.
+.
+fi .
+.
+fi.
+.
+e.
+e.
+ e.
+
+e.
+.
+e.
+e.
+ e.
+ e.
+ e.
+.
+fie.
+fifie.
+e.
