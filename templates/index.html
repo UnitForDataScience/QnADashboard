@@ -3,8 +3,127 @@
 <head>
     <meta charset="UTF-8">
     <title>Netpune NLP</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.css"/>
+
+
+    <style>
+        .form-control-borderless {
+            border: none;
+        }
+
+        .form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+            border: none;
+            outline: none;
+            box-shadow: none;
+        }
+    </style>
 </head>
 <body>
-Hello World
+<div class="Container">
+    <div class="col-12">
+        <div class="col-12">
+            <h1>Neptune NLP</h1>
+        </div>
+        <ul class="nav nav-tabs col-12" id="myTab" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home"
+                   aria-selected="true">Summarization</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
+                   aria-controls="profile"
+                   aria-selected="false">Classification</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab"
+                   aria-controls="contact"
+                   aria-selected="false">Network Analysis</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab"
+                   aria-controls="contact"
+                   aria-selected="false">QnA</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                <div class="row justify-content-left">
+                    <div class="col-8">
+                        <div class="card card-sm">
+                            <div class="card-body row no-gutters align-items-center">
+                                <div class="col-auto">
+                                    <i class="fas fa-search h6 text-body"></i>
+                                </div>
+                                <!--end of col-->
+                                <div class="col">
+                                    <input class="form-control form-control-sm form-control-borderless" type="search"
+                                           placeholder="Keywords">
+                                </div>
+                                <!--end of col-->
+                                <div class="col-auto">
+                                    <button class="btn btn-sm btn-success" type="submit">Search</button>
+                                </div>
+                                <!--end of col-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div style="padding: 6%;">
+                            <input type="file"
+                                   id="avatar" name="avatar"
+                                   multiple="multiple">
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <table id="summarization_table" class="table table-striped table-bordered" style="width:100%">
+                            <thead>
+                            <tr>
+                                <th>File</th>
+                                <th>Summary</th>
+                            </tr>
+                            </thead>
+                            <tbody></tbody>
+                            <tfoot>
+                            <tr>
+                                <th>File</th>
+                                <th>Summary</th>
+                            </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+                    <!--end of col-->
+                </div>
+            </div>
+            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">Coming Soon</div>
+            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">Coming Soon</div>
+        </div>
+    </div>
+
+</div>
+<script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.js"></script>
+<script>
+    function uuidv4() {
+        return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, c =>
+            (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
+        )
+    }
+
+    function add_script(src) {
+        var newScript = document.createElement("script");
+        newScript.src = src + '?uuid=' + uuidv4();
+        document.getElementsByTagName('script')[0].parentNode.appendChild(newScript)
+    }
+
+    var scripts = ['/static/js/index.js']
+    for (i in scripts) {
+        add_script(scripts[i])
+    }
+</script>
 </body>
 </html>
