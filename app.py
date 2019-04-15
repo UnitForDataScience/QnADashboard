@@ -7,9 +7,8 @@ from summary_models import summarize_tf
 
 task_queue = Queue('./queue')
 
-app.config['MAX_CONTENT_LENGTH'] = 1048576
-
 app = Flask(__name__)
+app.config['MAX_CONTENT_LENGTH'] = 1048576
 socketio = SocketIO(app, async_mode='threading')
 
 thread = None
