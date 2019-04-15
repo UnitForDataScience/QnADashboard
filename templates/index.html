@@ -62,7 +62,8 @@
                                 </div>
                                 <!--end of col-->
                                 <div class="col-auto">
-                                    <button class="btn btn-sm btn-success" type="submit">Search</button>
+                                    <button class="btn btn-sm btn-success" type="submit" id="get_summary">Search
+                                    </button>
                                 </div>
                                 <!--end of col-->
                             </div>
@@ -71,7 +72,7 @@
                     <div class="col-4">
                         <div style="padding: 6%;">
                             <input type="file"
-                                   id="avatar" name="avatar"
+                                   id="summarization_files" name="avatar"
                                    multiple="multiple">
                         </div>
                     </div>
@@ -107,6 +108,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
 ></script>
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.6/socket.io.js"></script>
 <script>
     function uuidv4() {
         return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, c =>
@@ -124,6 +126,13 @@
     for (i in scripts) {
         add_script(scripts[i])
     }
+    var socket = io.connect('http://' + document.domain + ':' + location.port);
+    socket.on('connect', function () {
+        socket.emit('connected');
+    });
+    socket.on('message', function (data) {
+        console.log(data);
+    });
 </script>
 </body>
 </html>
