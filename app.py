@@ -27,7 +27,7 @@ t1 = threading.Thread(target=request_thread_reader)
 t1.start()
 
 
-@app.route('/')
+@app.route('/polls/')
 def hello_world():
     return render_template('index.html')
 
