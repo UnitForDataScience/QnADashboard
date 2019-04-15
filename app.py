@@ -7,6 +7,8 @@ from summary_models import summarize_tf
 
 task_queue = Queue('./queue')
 
+app.config['MAX_CONTENT_LENGTH'] = 1048576
+
 app = Flask(__name__)
 socketio = SocketIO(app, async_mode='threading')
 
@@ -24,7 +26,6 @@ def request_thread_reader():
             del task['text']
             socketio.emit('message', task, room=sid)
             task_queue.task_done()
-        time.sleep(1)
 
 
 t1 = threading.Thread(target=request_thread_reader)
