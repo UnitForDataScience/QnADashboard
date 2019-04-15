@@ -131,7 +131,9 @@
         socket.emit('connected');
     });
     socket.on('message', function (data) {
-        console.log(data);
+        if (data['type'] === 'summarize') {
+            update_request_rows(data)
+        }
     });
 </script>
 </body>

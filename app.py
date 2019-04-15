@@ -3,12 +3,12 @@ from flask_socketio import SocketIO, emit, send
 from persistqueue import Queue
 import time, threading
 from threading import Lock
+from summary_models import summarize_tf
 
 task_queue = Queue('./queue')
 
 app = Flask(__name__)
 socketio = SocketIO(app, async_mode='threading')
-
 
 thread = None
 thread_lock = Lock()
@@ -18,7 +18,11 @@ def request_thread_reader():
     while True:
         if task_queue.qsize():
             task = task_queue.get()
-            socketio.emit('message', task)
+            task['summary'] = summarize_tf(task['text'])
+            sid = task['sid']
+            del task['sid']
+            del task['text']
+            socketio.emit('message', task, room=sid)
             task_queue.task_done()
         time.sleep(1)
 
