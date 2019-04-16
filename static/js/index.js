@@ -38,11 +38,18 @@ $(document).ready(function () {
                 var uuid = uuidv4();
                 summary_requests[uuid] = row;
                 row.draw()
-                socket.emit('request', {
-                    text: evt.target.result,
-                    request_id: uuid,
-                    type: 'summarize'
-                })
+                // socket.emit('request', {
+                //     text: evt.target.result,
+                //     request_id: uuid,
+                //     type: 'summarize'
+                // })
+                request_array.push(
+                    {
+                        text: evt.target.result,
+                        request_id: uuid,
+                        type: 'summarize'
+                    }
+                )
             };
             reader.onerror = function (evt) {
                 console.log(evt);

@@ -8,6 +8,7 @@ stop_words = set(
     stopwords.words('english') + list(punctuation))
 
 
+
 def summarize_tf(text, count=10, min_cut=0.6, max_cut=0.8, keywords=[]):
     d = defaultdict(lambda: 1)
     exclude = set(punctuation)

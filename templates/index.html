@@ -109,7 +109,10 @@
 ></script>
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.6/socket.io.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/async/2.6.2/async.min.js"></script>
 <script>
+    var request_array = [];
+
     function uuidv4() {
         return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, c =>
             (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
@@ -135,6 +138,22 @@
             update_request_rows(data)
         }
     });
+    async.forever(
+        function (next) {
+            if (request_array.length !== 0) {
+                socket.emit('request', request_array.shift());
+            }
+            setTimeout(function () {
+                next();
+                console.log('going out');
+            }, 500);
+        },
+        function (err) {
+            // if next is called with a value in its first parameter, it will appear
+            // in here as 'err', and execution will stop.
+        }
+    );
+
 </script>
 </body>
 </html>
