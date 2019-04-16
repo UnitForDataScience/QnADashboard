@@ -11,7 +11,7 @@ function update_request_rows(data) {
         var row_data = row.data();
         row_data[1] = string;
         row.data(row_data);
-        row.draw();
+        row.draw(false);
     }
 }
 
