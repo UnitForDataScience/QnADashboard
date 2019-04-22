@@ -70,6 +70,7 @@ def remove_stopwords(sen):
 
 
 def summarize_page_rank(text, keywords=[], n=10):
+    print('came here')
     sentences = sent_tokenize(text)
     # remove punctuations, numbers and special characters
     clean_sentences = pd.Series(sentences).str.replace("[^a-zA-Z]", " ")
