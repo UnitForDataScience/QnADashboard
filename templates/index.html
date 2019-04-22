@@ -41,9 +41,9 @@
                    aria-selected="false">Network Analysis</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab"
+                <a class="nav-link" id="QnAtab" data-toggle="tab" href="#contact" role="tab"
                    aria-controls="contact"
-                   aria-selected="false">QnA</a>
+                   aria-selected="true">QnA</a>
             </li>
         </ul>
         <div class="tab-content" id="myTabContent">
@@ -118,6 +118,49 @@
                         </table>
                     </div>
                     <!--end of col-->
+                </div>
+            </div>
+            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="QnAtab">
+                <div class="row justify-content-left">
+                    <div class="col-8">
+                        <div class="card card-sm">
+                            <div class="card-body row no-gutters align-items-center">
+                                <div class="col-auto">
+                                    <i class="fas fa-search h6 text-body"></i>
+                                </div>
+                                <!--end of col-->
+                                <div class="col">
+                                    <input class="form-control form-control-sm form-control-borderless" type="search" id="QnA_keywords"
+                                           placeholder="Ask your question here!">
+                                </div>
+                                <!--end of col-->
+                                <div class="col-auto">
+                                    <button class="btn btn-sm btn-success" type="submit" id="get_response">Ask!
+                                    </button>
+                                </div>
+                                <!--end of col-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div style="padding: 6%;">
+                            <input type="file"
+                                   id="QnA_files" name="avatar"
+                                   multiple="multiple">
+                        </div>
+                    </div>
+                </div>
+
+
+                        <div>
+                                    Response:
+                                </div>
+                        <div>
+                            <textarea onKeyPress=" "readonly rows="10" cols ="100">
+                            </textarea>
+                        </div>
+                    </input>
+
                 </div>
             </div>
             <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">Coming Soon</div>

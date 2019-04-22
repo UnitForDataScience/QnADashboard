@@ -4,6 +4,7 @@ from persistqueue import Queue
 import time, threading
 from threading import Lock
 from summary_models import summarize_tf, summarize_page_rank
+from QnA import get_response
 
 task_queue = Queue('./queue')
 
@@ -31,9 +32,7 @@ def request_thread_reader():
                                                        keywords=task['keywords'] if 'keywords' in task else [],
                                                        count=task['n'])
                 elif task['type'] == 'QnA':
-                    func(task['text'], task['question'])
-                    task['answer'] = ''
-                    None
+                    task['answer'] = get_response(task['text'], task['question'])
                 sid = task['sid']
                 del task['sid']
                 del task['text']
