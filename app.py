@@ -25,11 +25,11 @@ def request_thread_reader():
                     if task['summary_type'] == 'page_rank':
                         task['summary'] = summarize_page_rank(task['text'],
                                                               keywords=task['keywords'] if 'keywords' in task else [],
-                                                              count=task['n'])
+                                                              n=task['n'])
                     else:
                         task['summary'] = summarize_tf(task['text'],
                                                        keywords=task['keywords'] if 'keywords' in task else [],
-                                                       n=task['n'])
+                                                       count=task['n'])
                 elif task['type'] == 'QnA':
                     task['answer'] = ''
                     None
