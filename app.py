@@ -3,7 +3,7 @@ from flask_socketio import SocketIO, emit, send
 from persistqueue import Queue
 import time, threading
 from threading import Lock
-from summary_models import summarize_tf
+from summary_models import summarize_tf, summarize_page_rank
 
 task_queue = Queue('./queue')
 
@@ -13,18 +13,27 @@ socketio = SocketIO(app, async_mode='threading')
 
 thread = None
 thread_lock = Lock()
+clients = set()
 
 
 def request_thread_reader():
     while True:
         if task_queue.qsize():
             task = task_queue.get()
-            task['summary'] = summarize_tf(task['text'])
-            sid = task['sid']
-            del task['sid']
-            del task['text']
-            socketio.emit('message', task, room=sid)
+            if task['sid'] in clients:
+                if task['summary_type'] == 'page_rank':
+                    task['summary'] = summarize_page_rank(task['text'],
+                                                          keywords=task['keywords'] if 'keywords' in task else [])
+                else:
+                    task['summary'] = summarize_tf(task['text'],
+                                                   keywords=task['keywords'] if 'keywords' in task else [])
+                sid = task['sid']
+                del task['sid']
+                del task['text']
+                socketio.emit('message', task, room=sid)
             task_queue.task_done()
+        else:
+            time.sleep(1)
 
 
 t1 = threading.Thread(target=request_thread_reader)
@@ -44,11 +53,14 @@ def connected():
 @socketio.on('request')
 def handle_request(data):
     data['sid'] = request.sid
+    clients.add(request.sid)
     task_queue.put(data)
 
 
 @socketio.on('disconnect')
 def disconnect():
+    if request.sid in clients:
+        clients.remove(request.sid)
     print('Someone disconnected')
 
 
