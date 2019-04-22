@@ -160,6 +160,8 @@
     socket.on('message', function (data) {
         if (data['type'] === 'summarize') {
             update_request_rows(data)
+        } else if (data['type'] === 'QnA') {
+            console.log(data);
         }
     });
     async.forever(

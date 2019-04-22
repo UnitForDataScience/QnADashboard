@@ -30,6 +30,10 @@ def request_thread_reader():
                         task['summary'] = summarize_tf(task['text'],
                                                        keywords=task['keywords'] if 'keywords' in task else [],
                                                        count=task['n'])
+                elif task['type'] == 'QnA':
+                    func(task['text'], task['question'])
+                    task['answer'] = ''
+                    None
                 sid = task['sid']
                 del task['sid']
                 del task['text']
