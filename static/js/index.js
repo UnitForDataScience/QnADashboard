@@ -65,7 +65,8 @@ $(document).ready(function () {
                         request_id: uuid,
                         type: 'summarize',
                         keywords: keywords,
-                        summary_type: $("input[name='inlineRadioOptions']:checked").val()
+                        summary_type: $("input[name='inlineRadioOptions']:checked").val(),
+                        n: parseInt($('#sentence_count').val())
                     }
                 )
             };

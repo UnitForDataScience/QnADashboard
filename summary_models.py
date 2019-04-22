@@ -69,7 +69,7 @@ def remove_stopwords(sen):
     return sen_new
 
 
-def summarize_page_rank(text, keywords=[]):
+def summarize_page_rank(text, keywords=[], n=10):
     sentences = sent_tokenize(text)
     # remove punctuations, numbers and special characters
     clean_sentences = pd.Series(sentences).str.replace("[^a-zA-Z]", " ")
@@ -104,7 +104,7 @@ def summarize_page_rank(text, keywords=[]):
         scores = nx.pagerank(nx_graph, max_iter=200, personalization=personalized_vectors)
         for i, x in enumerate(sentences):
             heappush(result, (scores[i], x, i))
-            if len(result) > 10:
+            if len(result) > n:
                 heappop(result)
         result = list(map(lambda x: x[1], sorted(result, key=lambda x: x[2])))
     except Exception as e:
