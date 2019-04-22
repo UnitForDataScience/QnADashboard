@@ -21,14 +21,15 @@ def request_thread_reader():
         if task_queue.qsize():
             task = task_queue.get()
             if task['sid'] in clients:
-                if task['summary_type'] == 'page_rank':
-                    task['summary'] = summarize_page_rank(task['text'],
-                                                          keywords=task['keywords'] if 'keywords' in task else [],
-                                                          count=task['n'])
-                else:
-                    task['summary'] = summarize_tf(task['text'],
-                                                   keywords=task['keywords'] if 'keywords' in task else [],
-                                                   count=task['n'])
+                if task['type'] == 'summarize':
+                    if task['summary_type'] == 'page_rank':
+                        task['summary'] = summarize_page_rank(task['text'],
+                                                              keywords=task['keywords'] if 'keywords' in task else [],
+                                                              count=task['n'])
+                    else:
+                        task['summary'] = summarize_tf(task['text'],
+                                                       keywords=task['keywords'] if 'keywords' in task else [],
+                                                       count=task['n'])
                 sid = task['sid']
                 del task['sid']
                 del task['text']
