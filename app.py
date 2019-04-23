@@ -31,12 +31,12 @@ def request_thread_reader():
                         task['summary'] = summarize_tf(task['text'],
                                                        keywords=task['keywords'] if 'keywords' in task else [],
                                                        count=task['n'])
+                    del task['text']
                 elif task['type'] == 'QnA':
                     task['answer'] = get_response(task['text'], task['question'])
 
                 sid = task['sid']
                 del task['sid']
-                del task['text']
                 socketio.emit('message', task, room=sid)
             task_queue.task_done()
         else:

@@ -41,7 +41,7 @@
                    aria-selected="false">Network Analysis</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" id="QnAtab" data-toggle="tab" href="#contact" role="tab"
+                <a class="nav-link" id="QnAtab" data-toggle="tab" href="#qna" role="tab"
                    aria-controls="contact"
                    aria-selected="true">QnA</a>
             </li>
@@ -120,7 +120,7 @@
                     <!--end of col-->
                 </div>
             </div>
-            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="QnAtab">
+            <div class="tab-pane fade" id="qna" role="tabpanel" aria-labelledby="QnAtab">
                 <div class="row justify-content-left">
                     <div class="col-8">
                         <div class="card card-sm">
@@ -130,7 +130,8 @@
                                 </div>
                                 <!--end of col-->
                                 <div class="col">
-                                    <input class="form-control form-control-sm form-control-borderless" type="search" id="QnA_keywords"
+                                    <input class="form-control form-control-sm form-control-borderless" type="search"
+                                           id="QnA_keywords"
                                            placeholder="Ask your question here!">
                                 </div>
                                 <!--end of col-->
@@ -152,21 +153,24 @@
                 </div>
 
 
-                        <div>
-                                    Response:
-                                </div>
-                        <div>
-                            <textarea onKeyPress=" "readonly rows="10" cols ="100">
-                            </textarea>
-                        </div>
-                    </input>
-
+                <div>
+                    Response:
                 </div>
+                <div>
+                    <div class="col-12" id="qna_answer"
+                         style="justify-content: right; height: 250px; overflow: scroll;">
+
+                    </div>
+                </div>
+                </input>
+
             </div>
             <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">Coming Soon</div>
             <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">Coming Soon</div>
         </div>
+
     </div>
+</div>
 
 </div>
 <script
@@ -192,7 +196,7 @@
         document.getElementsByTagName('script')[0].parentNode.appendChild(newScript)
     }
 
-    var scripts = ['/static/js/index.js']
+    var scripts = ['/static/js/index.js', '/static/js/qna.js'];
     for (i in scripts) {
         add_script(scripts[i])
     }
@@ -204,7 +208,7 @@
         if (data['type'] === 'summarize') {
             update_request_rows(data)
         } else if (data['type'] === 'QnA') {
-            console.log(data);
+            update_qna_div(data);
         }
     });
     async.forever(
